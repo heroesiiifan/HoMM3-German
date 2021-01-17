@@ -1,0 +1,12 @@
+Blue
+Pink
+Orange
+Yellow
+Purple
+Orange
+Red
+Cyan
+Turquoise
+Violet
+Chartreuse
+White

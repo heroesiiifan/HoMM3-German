@@ -1,0 +1,14 @@
+# Combo arts
+# id - art id - components count - component 1 id - ...
+
+# Diplomat's Cloak
+12 141 3 66 67 68
+
+# Pendant of Reflection
+13 142 3 57 58 59
+
+# Golden Goose
+14 160 3 115 116 117
+
+# Ironfist of the Ogre
+15 143 4 10 16 22 28

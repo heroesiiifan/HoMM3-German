@@ -1,0 +1,198 @@
+	Description		
+Name	Basic	Advanced	Expert
+Pfadfinden	"{Pfadfinden einfach}
+
+Das einfache Pfadfinden reduziert die Auswirkungen von schwerem Gelände um 25%."	"{Pfadfinden verbessert}
+
+Das verbesserte Pfadfinden reduziert die Auswirkungen von schwerem Gelände um 50%."	"{Pfadfinden meisterhaft}
+
+Das meisterhafte Pfadfinden reduziert die Auswirkungen von schwerem Gelände um 75%."
+Bogenschießen	"{Bogenschießen einfach}
+
+Das einfache Bogenschießen erhöht den Schaden, den Fernangriffe der Heldenarmee anrichten, um 10%."	"{Bogenschießen verbessert}
+
+Das verbesserte Bogenschießen erhöht den Schaden, den Fernangriffe der Heldenarmee anrichten, um 25%."	"{Bogenschießen meisterhaft}
+
+Das meisterhafte Bogenschießen erhöht den Schaden, den Fernangriffe der Heldenarmee anrichten, um 50%."
+Logistik	"{Logistik einfach}
+
+Die einfache Logistik erhöht die Bewegungspunkte Eures Helden an Land um 10%."	"{Logistik verbessert}
+
+Die verbesserte Logistik erhöht die Bewegungspunkte Eures Helden an Land um 20%."	"{Logistik meisterhaft}
+
+Die meisterhafte Logistik erhöht die Bewegungspunkte Eures Helden an Land um 30%."
+Spähen	"{Spähen einfach}
+
+Das einfache Spähen erlaubt Eurem Helden, 1 Feld weiter in die Dunkelheit zu sehen."	"{Spähen verbessert}
+
+Das verbesserte Spähen erlaubt Eurem Helden, 2 Felder weiter in die Dunkelheit zu sehen."	"{Spähen meisterhaft}
+
+Das meisterhafte Spähen erlaubt Eurem Helden, 3 Felder weiter in die Dunkelheit zu sehen."
+Diplomatie	"{Diplomatie einfach}
+
+Die einfache Diplomatie erlaubt Euch, mit Monstern zu verhandeln, die schwächer sind als Eure Gruppe, und reduziert die Kapitulationskosten um 20%."	"{Diplomatie verbessert}
+
+Die verbesserte Diplomatie erlaubt Euch, mit Monstern zu verhandeln, die schwächer sind als Eure Gruppe, und reduziert die Kapitulationskosten um 40%."	"{Diplomatie meisterhaft}
+
+Die meisterhafte Diplomatie erlaubt Euch, mit Monstern zu verhandeln, die schwächer sind als Eure Gruppe, und reduziert die Kapitulationskosten um 60%."
+Navigation	"{Navigation einfach}
+
+Die einfache Navigation erhöht die Bewegungspunkte Eures Helden auf See um 50%."	"{Navigation verbessert}
+
+Die verbesserte Navigation erhöht die Bewegungspunkte Eures Helden auf See um 100%."	"{Navigation meisterhaft}
+
+Die meisterhafte Navigation erhöht die Bewegungspunkte Eures Helden auf See um 150%."
+Führung	"{Führung einfach}
+
+Die einfache Führung erhöht die Moral der Truppen Eures Helden um 1."	"{Führung verbessert}
+
+Die verbesserte Führung erhöht die Moral der Truppen Eures Helden um 2."	"{Führung meisterhaft}
+
+Die meisterhafte Führung erhöht die Moral der Truppen Eures Helden um 3."
+Weisheit	"{Weisheit einfach}
+
+Die einfache Weisheit erlaubt Eurem Helden, Zaubersprüche der dritten Stufe zu lernen."	"{Weisheit verbessert}
+
+Die verbesserte Weisheit erlaubt Eurem Helden, Zaubersprüche der vierten Stufe zu lernen."	"{Weisheit meisterhaft}
+
+Die meisterhafte Weisheit erlaubt Eurem Helden, Zaubersprüche der fünften Stufe zu lernen."
+Mystik	"{Mystik einfach}
+
+Die einfache Mystik erlaubt Eurem Helden, 2 Zauberpunkte pro Tag zu regenerieren."	"{Mystik verbessert}
+
+Die verbesserte Mystik erlaubt Eurem Helden, 3 Zauberpunkte pro Tag zu regenerieren."	"{Mystik meisterhaft}
+
+Die meisterhafte Mystik erlaubt Eurem Helden,  4 Zauberpunkte pro Tag zu regenerieren."
+Glück	"{Glück einfach}
+
+Das einfache Glück erhöht das Glück Eures Helden um 1."	"{Glück verbessert}
+
+Das verbesserte Glück erhöht das Glück Eures Helden um 2."	"{Glück meisterhaft}
+
+Das meisterhafte Glück erhöht das Glück Eures Helden um 3."
+Ballistik	"{Ballistik einfach}
+
+Die einfache Ballistik überträgt Eurem Helden die Steuerung des Katapults, und erlaubt gezielte Schüsse mit erhöhtem Schaden."	"{Ballistik verbessert}
+
+Die verbesserte Ballistik überträgt Eurem Helden die Steuerung des Katapults, und erlaubt 2 gezielte Schüsse mit erhöhtem Schaden."	"{Ballistik meisterhaft}
+
+Die meisterhafte Ballistik überträgt Eurem Helden die Steuerung des Katapults, und erlaubt 2 gezielte Schüsse mit maximalem Schaden."
+Adlerauge	"{Adlerauge einfach}
+
+Das einfache Adlerauge gibt Eurem Helden eine 40%ige Chance, Zaubersprüche der 1. oder 2. Stufe zu lernen, die im Kampf gegen ihn verwendet werden."	"{Adlerauge verbessert}
+
+Das verbesserte Adlerauge gibt Eurem Helden eine 50%ige Chance, Zaubersprüche bis zur 3. Stufe zu lernen, die im Kampf gegen ihn verwendet werden."	"{Adlerauge meisterhaft}
+
+Das meisterhafte Adlerauge gibt Eurem Helden eine 60%ige Chance, Zaubersprüche bis zur 4. Stufe zu lernen, die im Kampf gegen ihn verwendet werden."
+Nekromantie	"{Nekromantie einfach}
+
+Die einfache Nekromantie erlaubt, 10% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."	"{Nekromantie verbessert}
+
+Die verbesserte Nekromantie erlaubt, 20% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."	"{Nekromantie meisterhaft}
+
+Die meisterhafte Nekromantie erlaubt, 30% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."
+Grundbesitz	"{Grundbesitz einfach}
+
+Ein Held mit Grundbesitz steuert 125 Goldstücke pro Tag zu Eurer Sache bei."	"{Grundbesitz verbessert}
+
+Ein Held mit verbessertem Grundbesitz steuert 250 Goldstücke pro Tag zu Eurer Sache bei."	"{Grundbesitz meisterhaft}
+
+Ein Held mit meisterhaftem Grundbesitz steuert 500 Goldstücke pro Tag zu Eurer Sache bei."
+Feuermagie	"{Feuermagie einfach}
+
+Die einfache Feuermagie reduziert die Kosten für Feuermagie-Zaubersprüche."	"{Feuermagie verbessert}
+
+Die verbesserte Feuermagie reduziert die Kosten für Feuermagie-Zaubersprüche und erhöht deren Effektivität."	"{Feuermagie meisterhaft}
+
+Die meisterhafte Feuermagie reduziert die Kosten für Feuermagie-Zaubersprüche bei maximaler Effektivität."
+Luftmagie	"{Luftmagie einfach}
+
+Die einfache Luftmagie reduziert die Kosten für Luftmagie-Zaubersprüche."	"{Luftmagie verbessert}
+
+Die verbesserte Luftmagie reduziert die Kosten für Luftmagie-Zaubersprüche und erhöht deren Effektivität."	"{Luftmagie meisterhaft}
+
+Die meisterhafte Luftmagie reduziert die Kosten für Luftmagie-Zaubersprüche bei maximaler Effektivität."
+Wassermagie	"{Wassermagie einfach}
+
+Die einfache Wassermagie reduziert die Kosten für Wassermagie-Zaubersprüche."	"{Wassermagie verbessert}
+
+Die verbesserte Wassermagie reduziert die Kosten für Wassermagie-Zaubersprüche und erhöht deren Effektivität."	"{Wassermagie meisterhaft}
+
+Die meisterhafte Wassermagie reduziert die Kosten für Wassermagie-Zaubersprüche bei maximaler Effektivität."
+Erdmagie	"{Erdmagie einfach}
+
+Die einfache Erdmagie reduziert die Kosten für Erdmagie-Zaubersprüche."	"{Erdmagie verbessert}
+
+Die verbesserte Erdmagie reduziert die Kosten für Erdmagie-Zaubersprüche und erhöht deren Effektivität."	"{Erdmagie meisterhaft}
+
+Die meisterhafte Erdmagie reduziert die Kosten für Erdmagie-Zaubersprüche bei maximaler Effektivität."
+Bildung	"{Bildung einfach}
+
+Die einfache Bildung erlaubt Eurem Helden, Zaubersprüche der 1. und 2. Stufe zu lehren und zu lernen, um Zaubersprüche mit verbündeten Helden auszutauschen."	"{Bildung verbessert}
+
+Die verbesserte Bildung erlaubt Eurem Helden, Zaubersprüche bis zur 3. Stufe zu lehren und zu lernen, um Zaubersprüche mit verbündeten Helden auszutauschen."	"{Bildung meisterhaft}
+
+Die meisterhafte Bildung erlaubt Eurem Helden, Zaubersprüche bis zur 4. Stufe zu lehren und zu lernen, um Zaubersprüche mit verbündeten Helden auszutauschen."
+Taktik	"{Taktik einfach}
+
+Die einfache Taktik erlaubt Euch, Eure Truppen vor dem Kampf innerhalb von 3 Hexreihen um Euren Helden herum in Position zu bringen."	"{Taktik verbessert}
+
+Die verbesserte Taktik erlaubt Euch, Eure Truppen vor dem Kampf innerhalb von 5 Hexreihen um Euren Helden herum in Position zu bringen."	"{Taktik meisterhaft}
+
+Die meisterhafte Taktik erlaubt Euch, Eure Truppen vor dem Kampf innerhalb von 7 Hexreihen um Euren Helden herum in Position zu bringen."
+Artillerie	"{Artillerie einfach}
+
+Die einfache Artillerie überträgt Eurem Helden die Steuerung der Balliste, und erlaubt 2 Schüsse mit einer 50%igen Chance, den doppelten Schaden anzurichten."	"{Artillerie verbessert}
+
+Die verbesserte Artillerie überträgt Eurem Helden die Steuerung der Balliste, und erlaubt 2 Schüsse mit einer 75%igen Chance, den doppelten Schaden anzurichten."	"{Artillerie meisterhaft}
+
+Die meisterhafte Artillerie überträgt Eurem Helden die Steuerung der Balliste, und erlaubt 2 Schüsse, die den doppelten Schaden anrichten."
+Lernen	"{Lernen einfach}
+
+Das einfache Lernen erhöht die Menge an Erfahrung, die Euer Held im Kampf gewinnt, um 5%."	"{Lernen verbessert}
+
+Das verbesserte Lernen erhöht die Menge an Erfahrung, die Euer Held im Kampf gewinnt, um 10%."	"{Lernen meisterhaft}
+
+Das meisterhafte Lernen erhöht die Menge an Erfahrung, die Euer Held im Kampf gewinnt, um 15%."
+Offensive	"{Offensive einfach}
+
+Die einfache Offensive erhöht das Ausmaß des Schadens, den Eure Truppen im Kampf anrichten, um 10%."	"{Offensive verbessert}
+
+Die verbesserte Offensive erhöht das Ausmaß des Schadens, den Eure Truppen im Kampf anrichten, um 20%."	"{Offensive meisterhaft}
+
+Die meisterhafte Offensive erhöht das Ausmaß des Schadens, den Eure Truppen im Kampf anrichten, um 30%."
+Schmied	"{Schmieden einfach}
+
+Das einfache Schmieden reduziert alle Schäden, die die Armee Eures Helden im Kampf hinnehmen muss, um 5%."	"{Schmieden verbessert}
+
+Das verbesserte Schmieden reduziert alle Schäden, die die Armee Eures Helden im Kampf hinnehmen muss, um 10%."	"{Schmieden meisterhaft}
+
+Das meisterhafte Schmieden reduziert alle Schäden, die die Armee Eures Helden im Kampf hinnehmen muss, um 15%."
+Intelligenz	"{Intelligenz einfach}
+
+Die einfache Intelligenz erhöht die maximale Anzahl von Zauberpunkten um 25%."	"{Intelligenz verbessert}
+
+Die verbesserte Intelligenz erhöht die maximale Anzahl von Zauberpunkten um 50%."	"{Intelligenz meisterhaft}
+
+Die meisterhafte Intelligenz verdoppelt die maximale Anzahl von Zauberpunkten."
+Zauberei	"{Zauberei einfach}
+
+Die einfache Zauberei verstärkt die im Kampf eingesetzten Zaubersprüche, und richtet zusätzliche 5% Schaden an."	"{Zauberei verbessert}
+
+Die verbesserte Zauberei verstärkt die im Kampf eingesetzten Zaubersprüche, und richtet zusätzliche 10% Schaden an."	"{Zauberei meisterhaft}
+
+Die meisterhafte Zauberei verstärkt die im Kampf eingesetzten Zaubersprüche, und richtet zusätzliche 15% Schaden an."
+Resistenz	"{Resistenz einfach}
+
+Die einfache Resistenz gibt den Truppen Eures Helden eine 5%ige Chance, dass gegnerische Zaubersprüche scheitern."	"{Resistenz verbessert}
+
+Die verbesserte Resistenz gibt den Truppen Eures Helden eine 10%ige Chance, dass gegnerische Zaubersprüche scheitern."	"{Resistenz meisterhaft}
+
+Die meisterhafte Resistenz gibt den Truppen Eures Helden eine 15%ige Chance, dass gegnerische Zaubersprüche scheitern."
+Erste Hilfe	"{Erste Hilfe einfach}
+
+Die einfache Erste Hilfe gibt Euch die Kontrolle über das Erste Hilfe-Zelt, und regeneriert die Lebensenergie der ersten Kreatur um bis zu 50 Punkte."	"{Erste Hilfe verbessert}
+
+Die verbesserte Erste Hilfe gibt Euch die Kontrolle über das Erste Hilfe-Zelt, und regeneriert die Lebensenergie der ersten Kreatur um bis zu 75 Punkte."	"{Erste Hilfe meisterhaft}
+
+Die meisterhafte Erste Hilfe gibt Euch die Kontrolle über das Erste Hilfe-Zelt, und regeneriert die Lebensenergie der ersten Kreatur um bis zu 100 Punkte."

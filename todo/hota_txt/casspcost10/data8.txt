@@ -1,0 +1,11 @@
+Unused.
+The Pub increases Crew Mates production by 4 per week.
+The Pub increases Seamen production by 4 per week.
+The Shipyard allows you to purchase ships.
+The Gunpowder Warehouse allows you to recruit Sea Dogs.
+The Thieves' Guild reveals additional information about the foes in the tavern.
+The Grotto allows you to sacrifice creatures or artifacts in exchange for experience.
+The Roost increases Stormbirds production by 3 per week.
+The Roost increases Ayssids production by 3 per week.
+The presence of the Lodestar increases weekly creature generation by 50% and provides your kingdom with an additional 5000 gold each day, also making any land native to the creatures of the Cove.
+The Resource Silo provides you with an additional +1 sulfur each day.

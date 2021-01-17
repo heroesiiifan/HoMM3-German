@@ -1,0 +1,92 @@
+
+Name
+
+Adventure Spells
+
+Summon Boat
+Scuttle Boat
+Visions
+View Earth
+Disguise
+View Air
+Fly
+Water Walk
+Dimension Door
+Town Portal
+
+Combat Spells
+
+Quicksand
+Land Mine
+Force Field
+Fire Wall
+Earthquake
+Magic Arrow
+Ice Bolt
+Lightning Bolt
+Implosion
+Chain Lightning
+Frost Ring
+Fireball
+Inferno
+Meteor Shower
+Death Ripple
+Destroy Undead
+Armageddon
+Shield
+Air Shield
+Fire Shield
+Protection from Air
+Protection from Fire
+Prot. from Water
+Prot. from Earth
+Anti-Magic
+Dispel
+Magic Mirror
+Cure
+Resurrection
+Animate Dead
+Sacrifice
+Bless
+Curse
+Bloodlust
+Precision
+Weakness
+Stone Skin
+Disrupting Ray
+Prayer
+Mirth
+Sorrow
+Fortune
+Misfortune
+Haste
+Slow
+Slayer
+Frenzy
+Titan's Lightning Bolt
+Counterstrike
+Berserk
+Hypnotize
+Forgetfulness
+Blind
+Teleport
+Remove Obstacle
+Clone
+Fire Elemental
+Earth Elemental
+Water Elemental
+Air Elemental
+
+Creature Abilities
+
+Stone Gaze
+Poison
+Bind
+Disease
+Paralyze
+Age
+Death Cloud
+Thunderbolt
+Dispel Helpful Spells
+Death Stare
+Acid Breath

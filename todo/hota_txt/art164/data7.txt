@@ -1,0 +1,3 @@
+{Plate of Dying Light}
+
+Worn on a torso, this item reduces the Power skill of enemy hero by 25% during combat.

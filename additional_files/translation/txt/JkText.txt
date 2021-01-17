@@ -1,0 +1,46 @@
+Hero Window
+Angriff
+Verteidigung
+Zauberkraft
+Wissen
+{Spezialität}
+{Erfahrung}
+{Zauberpunkte}
+"Log-
+Buch"
+"Held
+entlassen"
+Overview Window
+Gold pro Tag:
+Shipyard Window
+Neues Schiff bauen
+Rohstoffkosten:
+Thieves Guild Window
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Anzahl der Städte
+Anzahl der Helden
+Gold
+Holz & Eisenerz
+Queck, Schw, Krist & Edel
+Obelisken gefunden
+Artefakte
+Armeestärke des Reichs
+Einkommen
+Bester Held
+Persönlichkeit
+Bestes Monster
+Tavern Window
+Taverne
+Verfügbare Helden
+Town Gate Window
+Stadttor
+Stadt durch das Tor wählen
+Blacksmith Window
+Rohstoffkosten:

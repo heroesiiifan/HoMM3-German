@@ -1,0 +1,172 @@
+//Campaign Map Names
+Lang lebe die Königin
+Befreiung
+Lied für den Vater
+Dungeons und Teufel
+Lang lebe der König
+Kriegsbeute
+Saat der Zwietracht
+Bracada
+Islands
+Krewlod
+Nighon
+Tatalia
+Armageddon
+Hieb und Stich
+Geburt eines Barbaren
+Neuanfang
+Elixier des Lebens
+Weg des Totenbeschwörers
+Unheilige Allianz
+Gespenst der Macht
+
+
+//Good 1 Map Region Names
+Southport
+Angel Gate
+Gryphon Cliff
+
+
+//Good 2 Map Region Names
+Battlestead
+Frostland
+Marshland und Hillbridge
+Grainrich und Firecoast
+
+
+//Good 3 Map Region Names
+Forestlow
+E.hills, S.willow, W.grove, F.bury
+Marbel Garden
+
+
+//Evil 1 Map Region Names
+Rionpoint
+Grainrich
+Battlestead
+Fire Coast
+Southport
+Angel Gate
+Gryphon Cliff
+
+
+//Evil 2 Map Region Names
+Marble Garden
+Emerald Hills
+Strongwillow und Woodgrove
+F.don, F.bury und Forestlow
+
+
+//Neutral 1 Map Region Names
+Marshland
+Minewell
+Hillbridge
+
+
+//Secret 1 Map Region Names
+Cloverfield
+Mosswood
+Forestdale
+
+
+// Bracada Map Region Names
+Bracada A
+Bracada B
+Bracada C
+Bracada D
+
+
+// Islands Map Region Names
+Islands A
+Islands B
+Islands C
+Islands D
+
+
+// Krewlod Map Region Names
+Krewlod A
+Krewlod B
+Krewlod C
+Krewlod D
+
+
+// Nighon Map Region Names
+Nighon A
+Nighon B
+Nighon C
+Nighon D
+
+
+// Tatalia Map Region Names
+Tatalia A
+Tatalia B
+Tatalia C
+
+
+// Armageddon Map Region Names
+Armageddon A
+Armageddon B
+Armageddon C
+Armageddon D
+Armageddon E
+Armageddon F
+Armageddon G
+Armageddon H
+
+
+// Hack and Slash Region Names
+Hieb und Stich A
+Hieb und Stich B
+Hieb und Stich C
+Hieb und Stich D
+
+
+// Birth of a Barbarian Region Names
+Geburt eines Barbaren A
+Geburt eines Barbaren B
+Geburt eines Barbaren C
+Geburt eines Barbaren D
+Geburt eines Barbaren E
+
+
+// New Beginning Region Names
+Neuanfang A
+Neuanfang B
+Neuanfang C
+Neuanfang D
+
+
+// Elixir of Life Region Names
+Elixier des Lebens A
+Elixier des Lebens B
+Elixier des Lebens C
+Elixier des Lebens D
+
+
+// Rise of the Necromancer Region Names
+Weg des Totenbeschwörers A
+Weg des Totenbeschwörers B
+Weg des Totenbeschwörers C
+Weg des Totenbeschwörers D
+
+
+// Unholy Alliance Region Names
+Unheilige Allianz A
+Unheilige Allianz B
+Unheilige Allianz C
+Unheilige Allianz D
+Unheilige Allianz E
+Unheilige Allianz F
+Unheilige Allianz G
+Unheilige Allianz H
+Unheilige Allianz I
+Unheilige Allianz J
+Unheilige Allianz K
+Unheilige Allianz L
+
+
+// Specter of Power Region Names
+Gespenst der Macht A
+Gespenst der Macht B
+Gespenst der Macht C
+Gespenst der Macht D

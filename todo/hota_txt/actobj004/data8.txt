@@ -1,0 +1,7 @@
+"{Mineral Spring}
+
+Horses look less than thrilled to drink the salty water, but soon you notice them prancing around with new vigor. Rainbow forms in the droplets above the sparkling spring, and the sight brings everyone to a happy mood."
+(+1 luck until next battle and +600 movement points for one day)
+"{Mineral Spring}
+
+Everybody's belly is chock full of bubbly water. That's enough hydration for today."

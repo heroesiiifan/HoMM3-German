@@ -1,0 +1,989 @@
+Note: Do not change the headings in this file, they are used to detect problems
+General
+Heroes of Might and Magic® III Karten-Editor
+© 1999 The 3DO Company.  Alle Rechte vorbehalten. Heroes of Might and Magic, New World Computing, 3DO, The Shadow of Death und die entsprechenden Logos sind Marken oder Warenzeichen der The 3DO Company in den U.S.A. und anderen Ländern.  Alle anderen Warenzeichen gehören ihren jeweiligen Eigentümern. New World Computing ist eine Tochtergesellschaft der The 3DO Company.
+Version %s
+Heroes 3 Karten-Dateien (*.h3m)
+Heroes 3 Karte
+Kartenbeschreibung
+%s Eigenschaften
+Getimetes Ereignis editieren
+(Kein)
+Zufall
+Unbekannt
+Rucksack
+Erfahrung
+Zauberpunkte
+Moral
+Glück
+Ressource
+Ressourcen
+Primärfähigkeit
+Primärfähigkeiten
+Artefakt
+Artefakte
+Zauberspruch
+Zaubersprüche
+Kreatur
+Kreaturen
+Sekundärfähigkeit
+Sekundärfähigkeiten
+Spieler %d (%s)
+Kein Spieler
+Nie
+Jeden Tag
+Alle 2 Tage
+Alle 3 Tage
+Alle 4 Tage
+Alle 5 Tage
+Alle 6 Tage
+Alle 7 Tage
+Alle 14 Tage
+Alle 21 Tage
+Alle 28 Tage
+"Es gibt ein Maximum von %d Objekten des Typs ""%s"" auf jeder Karte!"
+Es sind keine Helden dieser Klasse mehr verfügbar!
+"Ihr müsst erst einen Spieler aus dem Menü ""Spieler"" auswählen, bevor Ihr einen Helden platzieren könnt!"
+Es gibt ein Maximum von %d Helden pro Spieler!
+Der Gral wurde bereits platziert!
+Der Gral muss mindestens %d Felder vom Rand der Karte entfernt platziert werden!
+Kann Objekt nirgends einfügen!
+Debug Build
+Release Build
+Eure Anzeige muss mindestens auf 16 Bit Farbtiefe eingestellt sein, um den Karten-Editor starten zu können!
+"Ungültige Kartendatei-Version.
+
+Dateiversion = %d
+Aktuelle Version = %d"
+Ungültige oder beschädigte Karten-Datei.
+2 Tage
+3 Tage
+4 Tage
+5 Tage
+6 Tage
+1 Woche
+2 Wochen
+3 Wochen
+4 Wochen
+5 Wochen
+6 Wochen
+7 Wochen
+2 Monate
+3 Monate
+4 Monate
+5 Monate
+6 Monate
+7 Monate
+8 Monate
+9 Monate
+10 Monate
+11 Monate
+12 Monate
+(Jede Stadt)
+%s bei (%d, %d, %d)
+%s der %s
+Zufallsmonster
+Zufallsmonster
+Krieger
+Baumeister
+Entdecker
+Warnung
+Alle Helden müssen von einem Spieler besessen werden.
+Dieser Spieler hat bereits die maximale Anzahl von Helden.
+"%s, wenn Ihr fortfahrt, löscht Ihr den aktuellen Helden.
+Möchtet Ihr fortfahren?"
+Es sind keine Helden mehr verfügbar!
+Keine Spieler auf der Karte
+Zufällige Stadt
+Team %d
+"""Es sind keine Spieler auf der Karte.""
+Ihr müsst mindestens einen Helden, oder eine Stadt einem Spieler zuweisen, oder die Karte ist unspielbar.
+"
+"""Es sind keine Städte auf der Karte.""
+Das macht die Karte nicht unspielbar. Allerdings kann der letzte Held eines Spielers nicht länger als 7 Tage ohne eine Stadt existieren, dann verliert er.
+"
+"""Die Karte hat keinen Namen.""
+Ein unbenannte Karte erscheint an der Spitze der Liste der verfügbaren Karten unter dem Titel 'Unbenannt'.
+"
+"""Diese Karte hat keine Beschreibung.""
+Dies ist nur eine Warnung. Die meisten Karten enthalten eine Beschreibung und die Missionsziele des Spielers.
+"
+"""Der Gral wurde auf der Karte platziert, aber es befinden sich keine Obelisken auf der Karte.""
+Vorausgesetzt der Gral befindet sich bereits auf der Karte, sollten Obelisken auf der Karte platziert werden, damit der Spieler den Gral finden kann.
+"
+"""%s besitzt ein oder mehrere Objekte auf der Karte, existiert aber noch nicht.""
+Ein gebräuchliches Beispiel für diese Art Fehler ist das Beflaggen von Minen, Behausungen, Garnisonen etc. für einen Spieler, obwohl der Spieler noch keine Städte oder Helden besitzt.
+"
+"""%s hat eine Schiffswerft, ist aber von Land umschlossen.""
+Wenn eine Stadt mit einer Werft im Binnenland liegt, kann der Spieler zwar Boote kaufen, aber die Boote erscheinen nicht auf der Karte. Eine Stadt muss mit der linken oder rechten unteren Ecke des Stadteingangs an ein Uferfeld grenzen.
+"
+"""Es gibt nur einen Zweiwege-Monolithen (%s) auf der Karte.""
+‘Zweiwege’-Monolithen sind 'Teleporter'. Wenn Ihr nur einen Zweiwege-Monolithen platziert, gibt es keinen Ausgang für Helden, die ihn betreten.
+"
+"""Es gibt einen oder mehr Einweg-Monolithen Eingänge auf der Karte, aber keine Ausgänge (%s).""
+Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen. Wenn Ihr einen Einweg-Monolithen Eingang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Ausgang geben.
+"
+"""Es gibt einen oder mehrere Einweg-Monolithen Ausgänge (%s) auf der Karte, aber keine Eingänge (%s).""
+Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen. Wenn Ihr einen Einweg-Monolithen Ausgang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Eingang geben.
+"
+"""Es gibt einen oder mehrere Untergrundtore, aber diese Karte hat noch keine unterirdische Ebene.""
+Normalerweise werden die Untergrundtore benutzt, um zu den unterirdischen Ebenen zu gelangen. Wenn es keine Untergrundebene gibt, wird der Held, der den Eingang benutzt, einfach abgewiesen.
+"
+"""Es gibt mehr Untergrundtore auf der Oberfläche als im Untergrund.""
+Am Anfang des Szenarios werden alle Untergrundtore paarweise mit dem nächsten Tor auf der gegenüberliegenden Ebene verbunden. Wenn es mehr Tore auf der Oberfläche gibt, können sie nicht paarweise verbunden werden."
+"""Es gibt mehr Untergrundtore im Untergrund als auf der Oberfläche.""
+Am Anfang des Szenarios werden alle Untergrundtore paarweise mit dem nächsten Tor auf der gegenüberliegenden Ebene verbunden. Wenn es mehr Tore im Untergrund gibt, können sie nicht paarweise verbunden werden."
+"""Das Such-Artefakt (%s) ist: '%s', aber das Artefakt wurde noch nicht auf der Karte platziert.""
+Damit ein Spieler die Aufgabe der Seher-Hütte lösen kann, muss das Suchobjekt (das zugewiesene Artefakt) auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer anderen Seher-Hütte.
+"
+"""Es gibt nur einen Spieler auf der Karte, und es gibt keine spezielle Siegesbedingung.""
+Wenn es nur einen Spieler auf der Karte gibt, und keine spezielle Siegesbedingung, dann würde der Spieler das Spiel augenblicklich gewinnen.
+"
+"""Es gibt nur einen Spieler auf der Karte, und die normale Siegesbedingung wurde nicht deaktiviert.""
+Wenn es nur einen Spieler auf der Karte gibt, und die normale Siegesbedingung nicht deaktiviert wurde, würde der Spieler das Spiel augenblicklich gewinnen."
+"""Es gibt keine Probleme mit dieser Karte."""
+"""Die spezielle Siegesbedingung ist, das Artefakt '%s' zu beschaffen, aber es wurde noch nicht auf der Karte platziert.""
+Um die Siegesbedingung 'bestimmtes Artefakt beschaffen' erfüllen zu können, muss das entsprechende Artefakt auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer Seher-Hütte."
+"""Die spezielle Siegesbedingung ist, das Artefakt '%s' zu beschaffen, aber %s besitzt dieses Artefakt bereits.""
+Wenn der Held eines Spielers das Spiel mit dem Artefakt beginnt, das benötigt wird, um die spezielle Siegesbedingung zu erfüllen, hat er das Spiel augenblicklich gewonnen."
+"""Die spezielle Siegesbedingung ist, %d %s zu beschaffen, aber %s hat bereits %d %s.""
+Wenn ein Spieler das Spiel mit der Anzahl Kreaturen eines Typs beginnt, die nötig ist, um die spezielle Siegesbedingung zu erfüllen, hat er das Spiel augenblicklich gewonnen."
+"""Die spezielle Siegesbedingung ist, %s und %s in %s zu bauen, aber beide Gebäude wurden bereits gebaut.""
+Wenn beim Start eines Spiels mit der Siegesbedingung 'Ausbau einer bestimmten Stadt' der Spieler bereits diese Stadt mitsamt einem Rathaus und einem Schloss in der geforderten Ausbaustufe besitzt, hat er augenblicklich gewonnen.
+"
+"""Die spezielle Siegesbedingung ist, %s und %s in %s zu bauen, aber eines oder beide Gebäude wurden deaktiviert.""
+Der Spieler kann das Spiel nicht gewinnen, wenn das Rathaus oder das Schloss deaktiviert wurden. Es hindert ihn daran, diese Gebäude bis zur geforderten Ausbaustufe auszubauen.
+"
+"""Die spezielle Siegesbedingung ist, ein Gralgebäude in %s zu bauen, aber in dieser Stadt wurde bereits ein Gralgebäude gebaut.""
+Wenn das Gralgebäude von vorne herein in einer bestimmten Stadt existiert, ist die Siegesbedingung erfüllt und der Spieler gewinnt das Spiel augenblicklich.
+"
+"""Die spezielle Siegesbedingung ist, ein Gralgebäude in %s zu bauen, aber diese Option ist deaktiviert.""
+Wenn der Gral in dieser Stadt deaktiviert ist, kann der Spieler die Siegesbedingung 'Bauen eines Gralgebäudes' nicht erfüllen. Der Spieler kann das Spiel daher nicht gewinnen.
+"
+"""Die spezielle Siegesbedingung ist, ein Gralgebäude zu bauen, aber es gibt keine Städte in denen ein Gralgebäude gebaut werden kann.""
+Diese Fehlermeldung erscheint, wenn Ihr die Siegesbedingung 'Bauen eines Gralgebäudes' eingeschaltet habt, es aber keine Städte auf der Karte gibt, oder der Gral in allen Städten deaktiviert wurde.
+"
+"""Die spezielle Siegesbedingung ist, %s zu besiegen, der zu %s gehört, der möglicherweise ein Mensch ist oder der mit einem Menschen verbündet ist.""
+Wenn ein menschlicher Spieler, oder der Verbündete eines Menschen, beim Spielstart bereits den angegebenen Helden besitzt, ist die Siegesbedingung 'Besiegen eines bestimmten Helden' erfüllt, und das Spiel wird beendet."
+"""Die spezielle Siegesbedingung ist, die Stadt %s einzunehemen, aber diese Stadt ist bereits im Besitz von %s.""
+Wenn ein Spieler oder Team die angegebene Stadt bereits beim Spielstart besitzt, ist die Siegesbedingung 'Erobern einer bestimmten Stadt' erfüllt, und das Spiel wird beendet."
+"""Die spezielle Siegesbedingung ist, die Stadt %s einzunehmen, aber die ist bereits im Besitz von %s, der ein menschlicher Spieler ist, oder der mit einem Menschen verbündet ist.""
+Wenn ein menschlicher Spieler, oder einer seiner Verbündeten, die angegebene Stadt bereits besitzt, ist die Siegesbedingung 'Erobern einer bestimmten Stadt' erfüllt, und das Spiel wird beendet."
+"""Die spezielle Siegesbedingung ist, alle Kreaturen-Generatoren zu besetzen, aber es gibt keine Kreaturen-Generatoren auf der Karte.""
+"
+"""Die spezielle Siegesbedingung ist, alle Kreaturen-Generatoren zu besetzen, aber %s besitzt bereits alle Generatoren.""
+"
+"""Die spezielle Siegesbedingung ist, alle Minen zu besetzen, aber es gibt keine Minen auf der Karte.""
+"
+"""Die spezielle Siegesbedingung ist, alle Minen zu besetzen, aber %s besitzt bereits alle Minen.""
+"
+"""Die spezielle Siegesbedingung ist, das Artefakt '%s' zu transportieren, aber dieses Artefakt wurde noch nicht auf der Karte platziert.""
+Damit ein Spieler ein bestimmtes Artefakt transportieren kann, muss es auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer Seher-Hütte."
+"""Die spezielle Verlustbedingung ist, die Stadt %s zu verlieren, aber diese Stadt ist nicht im Besitz eines anderen Spielers.""
+Die spezielle Verlustbedingung 'Verlust einer bestimmten Stadt' muss auf den einzigen und alleinigen menschlichen Spieler angewendet werden. Andernfalls verliert jeder menschliche Spieler, der die Stadt nicht besitzt, augenblicklich das Spiel.
+"
+"""Die spezielle Verlustbedingung ist, die Stadt %s zu verlieren, die im Besitz von %s ist. Aber dieses Team kann keine menschlichen Spieler haben.""
+Die spezielle Verlustbedingung 'Verlust einer bestimmten Stadt' muss auf das einzige und alleinige Team mit menschlichen Spielern angewendet werden. Andernfalls verliert jedes Team mit menschlichen Spielern, das die Stadt nicht besitzt, augenblicklich das Spiel."
+"""Die spezielle Verlustbedingung ist, die Stadt %s zu verlieren, aber es gibt mehr als ein Team, das menschliche Mitspieler haben kann.""
+Die spezielle Verlustbedingung 'Verlust einer bestimmten Stadt' muss auf das einzige und alleinige Team mit menschlichen Spielern angewendet werden. Andernfalls verliert jedes Team mit menschlichen Spielern, das die Stadt nicht besitzt, augenblicklich das Spiel."
+"""Die spezielle Verlustbedingung ist, die Stadt %s zu verlieren, die im Besitz vom %s ist, aber dieser Spieler kann nicht menschlich sein.""
+Die spezielle Verlustbedingung 'Verlust einer bestimmten Stadt' muss auf den einzigen und alleinigen menschlichen Spieler angewendet werden. Andernfalls verliert jeder menschliche Spieler, der die Stadt nicht besitzt, augenblicklich das Spiel.
+
+"
+"""Die spezielle Verlustbedingung ist, die Stadt %s zu verlieren, aber es kann mehr als einen menschlichen Spieler geben.""
+Jeder menschliche Spieler, der die angegebene Stadt nicht besitzt, wird das Spiel augenblicklich verlieren.
+"
+"""Die spezielle Verlustbedingung ist, den Helden %s zu verlieren, aber dieser Held ist nicht im Besitz eines menschlichen Spielers.""
+Wenn der angegebene Held in der Verlustbedingung 'Verlust eines bestimmten Helden' in einem Gefängnis existiert, verlieren alle Spieler augenblicklich das Spiel.
+"
+"""Die spezielle Verlustbedingung ist, den Helden %s zu verlieren, der im Besitz von %s ist, aber dieses Team kann keine menschlichen Mispieler haben.""
+Das Team, das den angegebenen Helden besitzt, muss mindestens über einen menschlichen Mitspieler verfügen. Andernfalls verlieren alle anderen Teams mit menschlichen Spielern das Spiel, weil sie den angegebenen Helden nicht besitzen.
+"
+"""Die spezielle Verlustbedingung ist, den Helden %s zu verlieren, aber es gibt mehr als ein Team, das menschliche Mitspieler haben kann.""
+Wenn die spezielle Verlustbedingung lautet, einen bestimmten Helden zu verlieren, dann muss dieser Held zum einzigen Team mit menschlichen Mitspielern gehören. Wenn es andere Teams mit menschlichen Mitspielern gibt, die den Helden nicht besitzen, dann verlieren sie das Spiel augenblicklich.
+"
+"""Die spezielle Verlustbedingung ist, den Helden %s zu verlieren, der im Besitz von %s ist, aber dieser Spieler kann nicht menschlich sein.""
+Der Spieler, der den angegebenen Helden besitzt, muss menschlich sein. Andernfalls verlieren alle anderen menschlichen Spieler das Spiel augenblicklich, da sie den angegebenen Helden nicht besitzen.
+"
+"""Die spezielle Verlustbedingung ist, den Helden %s zu verlieren, aber es kann mehr als einen menschlichen Spieler geben.""
+Wenn die Verlustbedingung lautet, einen bestimmten Helden zu verlieren, dann muss der Held dem einzigen menschlichen Spieler auf der Karte gehören. Wenn es weitere menschliche Spieler gibt, verlieren sie augenblicklich das Spiel, da sie den Helden nicht besitzen.
+"
+Auto-gespeicherte Karte wiederherstellen?
+"Textdateien (*.txt)
+.txt"
+"Kann ""%s"" nicht importieren."
+"""%s"" erfolgreich importiert."
+Kartenname
+Kartenbeschreibung
+Gerüchte
+Getimete Ereignisse
+Objekte
+Name
+Nachricht
+Text
+%s besuchen
+Dateiende
+Tag %d - %s
+Das angegebene Objekt wurde nicht auf der Karte gefunden.
+Standard
+Modus
+"""Es gibt nur einen Strudel auf der Karte.""
+Mit nur einem Strudel hat das Schiff keinen Ausgang. Daher zerstört der Strudel einfach die Truppen des Helden.
+"
+"""%s ist unerreichbar.""
+Das 'Auslöse-Feld' für dieses Objekt kann von keinem der benachbarten Felder aus erreicht werden.
+"
+OK
+Abbruch
+Hilfe
+Allgemein
+Inhalt
+Ressourcen
+Gebäude
+Kreaturen
+Sekundärfähigkeiten
+Spezielle Verlustbedingung
+Spieler-Spezifikation
+Gerüchte
+Teams
+Getimete Ereignisse
+Spezielle Siegesbedingungen
+Schatz
+Garnison
+Zaubersprüche
+Wachen
+Artefakte
+Info über Karten-Editor
+Artefakt bearbeiten
+Kreaturen bearbeiten
+Gerücht bearbeiten
+Sekundärfähigkeit bearbeiten
+Suchen
+Karte testen
+Neue Karte
+Optionen
+Artefakt auswählen
+Heldenklasse wählen
+Zauberspruch wählen
+&Anpassen
+Pinsel
+Terrain-Typ
+Fluss-Typ
+Straßen-Typ
+Zulässigen Platzierungs&radius wählen:
+Stillstand
+Radius 1 Feld
+Radius 2 Felder
+Radius 3 Felder
+Radius 4 Felder
+Radius 5 Felder
+Radius 6 Felder
+Radius 7 Felder
+Radius 8 Felder
+Radius 9 Felder
+Radius 10 Felder
+&Probleme:
+Es gibt keine editierbaren Eigenschaften für dieses Objekt.
+"Wenn Ihr fortfahrt, löscht Ihr die Untergrundebene dieser Karte. Alle Veränderungen an dieser Ebene gehen dabei verloren.
+Möchtet Ihr fortfahren?"
+Zufallsbehausung %d
+Zufällige %s-Behausung
+Biographie
+Fortschritt Karten-erstellung
+Generiere Karte...
+Kann keine Zufallskarte erstellen.
+Helden
+"""%s hat keine Aufgabe.""
+Der Zweck von Seher-Hütten und Aufgaben-Toren ist, dem Spieler eine Aufgabe zu geben. Wenn keine Aufgabe zugewiesen wird, erfüllen sie keinen Zweck.
+"
+"Dieses Objekt kann nur in ""Armageddon's Blade""- oder ""The Shadow of Death""-Karten platziert werden."
+Kein
+Erfahrungsstufe %d erreichen
+%s Stufe %d
+Erreiche %s
+Erreiche das Folgende:
+%s besiegen
+%s besiegen
+Mit dem Folgenden zurückkehren:
+Rückkehr mit %s
+Rückkehr mit %s
+Rückkehr mit %s
+Angebot-Nachricht
+Fortschritts-Nachricht
+Beendigungs-Nachricht
+und
+Untergrund
+Kein
+%d Erfahrungspunkte
+%d Zauberpunkte
++%d Moral
++%d Glück
+Zauberspruch %s
+"""Es gibt ein oder mehr Zelte des Schlüsselmeisters (%s) auf der Karte, aber keine Grenztore oder Grenzwachen dieser Farbe.""
+Der Zweck der Zelte des Schlüsselmeisters ist, das entsprechende Grenztor oder die entsprechende Grenzwache zu öffnen. Wenn es keine entsprechenden Grenzgebäude gibt, erfüllt das Zelt keinen Zweck.
+"
+"""Es gibt ein oder mehrere Grenzwachen (%s) auf der Karte, aber kein Zelt des Schlüsselmeisters derselben Farbe.""
+Der Zweck der Grenzwachen ist ein Gebiet der Karte zu blockieren, bis der Spieler das entsprechende Zelt des Schlüsselmeisters besucht. Danach verschwindet die Grenzwache von der Karte, wenn sie besucht wird. Wenn es aber kein Zelt des Schlüsselmeisters derselben Farbe gibt, kann die Grenzwache nicht passiert werden.
+"
+"""Es gibt ein oder mehrere Grenztore (%s) auf der Karte, aber kein Zelt des Schlüsselmeisters derselben Farbe.""
+Der Zweck der Grenzposten ist ein Gebiet der Karte zu blockieren, bis der Spieler das entsprechende Zelt des Schlüsselmeisters besucht. Danach wird das Grenztor für ihn geöffnet. Wenn es allerdings kein Zelt des Schlüsselmeisters derselben Farbe gibt, kann das Grenztor nicht geöffnet werden.
+"
+"""Es gibt eine oder mehrere Hütten des Magiers, aber kein Auge des Magiers.""
+Die Hütte des Magiers ist dazu gedacht, in Kombination mit den Augen des Magiers zu funktionieren. Wenn ein Spieler die Hütte des Magiers besucht, wird der Bereich um die Augen des Magiers auf der Karte enthüllt. Wenn es keine Augen des Magiers gibt, erfüllen die Hütten des Magiers keinen Zweck.
+"
+"""Es gibt ein oder mehrere Augen des Magiers auf der Karte, aber keine Hütte des Magiers.""
+Die Augen des Magiers werden in Kombination mit den Hütten des Magiers benutzt. Wenn ein Spieler eine Hütte des Magiers besucht, wird der Bereich um die Augen des Magiers auf der Karte enthüllt. Wenn es keine Hütten des Magiers gibt, erfüllen die Augen des Magiers keinen Zweck.
+"
+"""Es gibt nur %d verfügbare Helden auf der Karte, es werden aber mindestens %d verfügbare Helden benötigt.""
+Die minimale Anzahl von verfügbaren Helden auf der Karte beträgt zehn pro Spieler plus einen pro Stadt. Weitere Helden müssen auf der ""Helden-Seite"" im Dialog ""Kartenbeschreibung"" aktiviert werden.
+"
+"""Alle Artefakte auf der Karte sind entweder deaktiviert oder reserviert.""
+Artefakte gelten als reserviert, wenn sie Teil einer besonderen Siegbedingung oder Aufgabe sind. Außerdem können Artefakte auf der ""Artefakte-Seite"" im Dialog ""Kartenbeschreibung"" deaktiviert werden. Es muss mindestens ein Artefakt geben, das nicht deaktiviert oder reserviert ist.
+"
+"Dieses Objekt kann nur in ""The Shadow of Death""-Karten benutzt werden."
+"Dieses Objekt kann nur benutzt werden, wenn ""Armageddon's Blade"" installiert ist!"
+Helden
+Abandoned Mine Properties Dialog
+Potentielle Ressourcen
+&Quecksilber
+&Erz
+&Schwefel
+&Kristalle
+E&delsteine
+&Gold
+Army Dialog
+Art
+Menge
+Position &%d:
+Garrison Properties Dialog
+Besitzer
+&Kein
+Spieler %d (%s)
+Kreaturen
+Truppen können &entfernt werden
+Artifact Properties General Page
+Art:
+Eigene &Nachricht:
+Hinweis: Wenn Ihr die Wachen bearbeitet, solltet Ihr eine eigene Nachricht in Form einer Ja/Nein-Abfrage einfügen, wobei die Antwort Ja angibt, dass der Spieler gegen die Wachen kämpfen möchte.
+&Zauberspruch:
+Black Box Properties General Page
+&Nachricht:
+Event Properties General Page
+Spieler können Ereignisse auslösen
+Spieler &%d
+Computergegner können Ereignisse auslösen
+Ereignis nach erstem Besuch löschen
+Black Box Properties Contents Page
+&Kategorie
+&Hinzufügen...
+&Bearbeiten...
+&Entfernen
+A&lles entfernen
+Ar&tefakte
+Kreaturtyp
+Menge
+Er&fahrungsbonus:
+Glücksbonus
+Kein
++1
++2
++3
+-1
+-2
+-3
+&Zauberpunktbonus:
+&Geben
+&Nehmen
+Moralbonus
+&Angriffsfähigkeit:
+&Verteidigungsfähigkeit:
+&Zauberkraft:
+&Wissen:
+&Sekundärfähigkeit
+Können
+Zaubers&prüche
+Resource Quantities Dialog
+&Holz:
+&Quecksilber:
+&Erz:
+&Schwefel:
+&Kristalle:
+E&delsteine:
+&Gold:
+Geben
+Nehmen
+Edit Secondary Skill Dialog
+&Art:
+Können
+&Einfach
+&Verbessert
+&Meisterhaft
+Edit Creature Stack Dialog
+&Typ:
+&Menge:
+Edit Timed Event General Page
+Ereignisna&me:
+&Nachricht:
+Spieler, die das Ereignis betrifft
+Spieler &%d
+&Ereignis betrifft Computergegner
+Tag des &ersten Auftretens:
+&Folgende Auftritte:
+Ereignis betrifft &menschliche Spieler
+Edit Town Event Buildings Page
+Gebäude-&Baum:
+&Bauen
+Edit Town Event Creatures Page
+Generator Nr.
+Menge
+Hinweis: Die angegebenen Kreaturen werden zu den entsprechenden Generator-Gebäuden in der Stadt hinzugefügt. Wenn noch kein Generator gebaut wurde, können keine Kreaturen hinzugefügt werden.
+Edit Artifact Dialog
+&Wo zu tragen:
+&Artefakt:
+Edit Rumor Dialog
+&Name:
+&Text:
+Find Dialog
+&Suche nach:
+Suche &nächstes
+Suche &voriges
+Flaggable Properties Dialog
+Besitzer
+&Kein
+Spieler &%d (%s)
+Hero Properties General Page
+Klasse:
+&Spieler:
+&Identität:
+&Name:
+&Erfahrung:
+Portrait:
+Pa&trouille:
+&Anpassen
+An&passen
+Geschlecht:
+&Stan&dard (%s)
+männlich
+weiblich
+&Männlich
+&Weiblich
+Anpassen
+Hero Properties Creatures Page
+Formation
+&Verteilt
+&Gruppiert
+Secondary Skills Dialog
+Art
+Können
+Fähigkeit &%d:
+Hero Properties Artifacts Page
+Hat &Zauberbuch
+Ar&tefakte:
+Name
+Ort
+&Hinzufügen...
+&Bearbeiten...
+&Entfernen
+A&lles entfernen
+Map Specs General Page
+Schwierigkeit
+&Leicht
+N&ormal
+&Hart
+E&xperte
+&Unmöglich
+Z&wei Ebenen
+Karten&name:
+&Beschreibung:
+Erfahrungslevel des Helden &limitieren auf:
+Kartenversion
+The &Restoration of Erathia
+&Armageddon's Blade
+The &Shadow of Death
+Map Specs Player Specs Page
+&Spieler:
+&Generiere Held in Haupt-Stadt:
+Spielbarkeit
+&Mensch
+&Computer
+&Verhalten:
+Hat Haupt-Stadt:
+Erlaubte Zuweisung
+&Anpassen
+&Zufällig
+Sch&loss
+Schutzw&all
+&Turm
+&Inferno
+&Nekropolis
+&Dungeon
+&Burg
+&Festung
+K&onflux
+Map Specs Teams Page
+Teams &erlauben
+&Anzahl Teams
+Team-Zuweisung
+Team-Nummer:
+Spieler &%d (%s):
+Map Specs Rumors Page
+G&erüchte:
+&Hinzufügen...
+&Bearbeiten...
+&Entfernen
+A&lle entfernen
+Map Specs Timed Events Page
+E&reignisse:
+&Hinzufügen...
+&Bearbeiten...
+&Entfernen
+A&lle entfernen
+Nach &oben
+Nach &unten
+Map Specs Special Victory Condition Page
+Spezielle Siegesbedingung wählen:
+Keine
+Erwerb eines bestimmten &Artefakts
+&Kreaturen ansammeln
+&Rohstoffe sammeln
+Aus&bau einer bestimmten Stadt
+Bau eines &Gralgebäudes
+Besiegen eines bestimmten &Helden
+Erobern einer bestimmten &Stadt
+Besiegen eines bestimmten &Monsters
+Besetzen aller Kreaturen-Generat&oren
+Besetzen aller Mi&nen
+Trans&port eines bestimmten Artefakts
+Auch normale Siegesbedingungen &zulassen
+Spezielle Siegesbedingung gilt auch für &Computergegner
+Art&efakt:
+K&reaturtyp:
+&Menge:
+R&ohstofftyp:
+&Stadt
+Rathausstufe
+Kreis
+Stadt
+Kapitol
+Schlosstu&fe
+Fort
+Zitadelle
+Schloss
+H&eld:
+Mon&ster:
+&Ziel:
+Map Specs Special Loss Condition Page
+Spezielle Verlustbedingung wählen:
+&Keine
+Verlust einer bestimmten &Stadt
+Verlust eines bestimmten &Helden
+&Zeitlimit
+Sta&dt:
+H&eld:
+Zeit&limit:
+Monster Properties General Page
+Art:
+Menge
+&Zufall
+An&passen:
+Anzahl &wächst nicht
+Einstellung
+"&Umgänglich
+(Laufen immer zum Helden über)"
+"&Freundlich
+(Überlaufen wahrscheinlich)"
+"&Aggressiv
+(Überlaufen möglich)"
+"F&eindlich
+(Überlaufen unwahrscheinlich)"
+"&Barbarisch
+(Laufen nie zum Helden über)"
+&Monster flieht nie
+Eigene &Nachricht:
+Monster Properties Treasure Page
+Ressourcen
+&Holz:
+&Quecksilber:
+&Erz:
+&Schwefel:
+&Kristalle:
+E&delsteine:
+&Gold:
+&Artefakt:
+New Map Dialog
+Kartengröße
+&36x36
+&72x72
+&108x018
+1&44x144
+&Zwei Ebenen
+Kartenversion
+The &Restoration of Erathia
+&Armageddon's Blade
+&Zufallskarte erstellen
+Anzahl Spieler
+Mensch/Computer:
+Nur Computer:
+Anzahl Teams
+Wasseranteil
+Zufällig
+Kein
+Normal
+Inseln
+Monsterstärke
+Zufällig
+Schwach
+Normal
+Stark
+The &Shadow of Death
+Options Dialog
+Häufigkeit dekorativer Geländekacheln
+Keine
+Viele
+Karte mit diesen Einstellungen neu zeichnen
+AutoSpeicher-Optionen
+AutoSpeichern &erlauben
+&AutoSpeichern alle:
+Minute(n)
+Resource Properties General Page
+Art:
+Menge
+&Zufall
+&Anpassen:
+Hinweis: Wenn der Rohstoff Gold ist, wird die angegebene Menge mit 100 multipliziert.
+Eigene &Nachricht:
+Hinweis: Wenn Ihr die Wachen bearbeitet, solltet Ihr eine eigene Nachricht in Form einer Ja/Nein-Abfrage einfügen, wobei die Antwort Ja angibt, dass der Spieler gegen die Wachen kämpfen möchte.
+Scholar Properties Dialog
+Belohnung
+Zu&fall
+&Primärfähigkeit:
+&Sekundärfähigkeit:
+&Zauberspruch:
+Seer's Hut Properties Dialog
+Aufgabe
+B&earbeiten...
+&Zeitlich begrenzt
+&Monat:
+&Woche:
+&Tag:
+&Anpassen:
+Belohnung
+Bearbe&iten...
+Als %s
+%s-Zugehörigkeit
+Shrine Properties Dialog
+Stufe %d Zauberspruch
+&Zufall
+&Anpassen:
+Sign Properties Dialog
+&Nachricht:
+Town Properties General Page
+Art:
+&Spieler:
+&Name:
+&Anpassen:
+Besuchender Held
+Name:
+Klasse:
+&Hinzufügen...
+&Bearbeiten...
+&Entfernen
+&Zugehörigkeit:
+Die gleiche wie %s
+Wie Besitzer oder zufällig
+Town Properties Garrison Page
+Formation
+&Verteilt
+&Gruppiert
+Town Properties Buildings Page
+Hat &Fort
+Gebäude-&Baum:
+&Erlaubt
+&Gebaut
+&Alles bauen
+A&lles abreißen
+Town Properties Spells Page
+Zauberspruch-Stufe:
+Sprüche, die in der Magiergilde erscheinen MÜSSEN:
+Sprüche, die in der Magiergilde erscheinen KÖNNEN:
+Town Properties Timed Events Page
+E&reignisse:
+&Hinzufügen...
+&Bearbeiten...
+&Entfernen
+&Alles entfernen
+Nach &oben
+Nach &unten
+Edit Quest Dialog
+Aufgabe bearbeiten
+Aufgabentyp wählen:
+&Keine
+&Erfahrungsstufe erreichen
+&Primärfähigkeitsstufe erreichen
+Einen speziellen &Helden besiegen
+Ein spezielles &Monster besiegen
+Mit &Artefakten zurückkehren
+Mit &Kreaturen zurückkehren
+Mit &Ressourcen zurückkehren
+Erfahrungs&stufe:
+Stufe &Angriffsfähigkeit:
+Stufe &Verteidungungsfähigkeit:
+Stufe &Zauberkraft:
+Stufe &Wissen:
+Hel&d:
+M&onster:
+Artefakte
+Hinzuf&ügen...
+Bearbe&iten...
+Ent&fernen
+Alles e&ntfernen
+Kreaturtyp
+Menge
+&Holz:
+&Quecksilber:
+E&rz:
+&Schwefel:
+Kr&istall:
+E&delsteine:
+Go&ld:
+Als spezieller Held
+Zu einem speziellen Spieler gehörig
+Klasse:
+Identität:
+Spieler:
+Edit Reward Dialog
+Belohnung bearbeiten
+Belohnungstyp wählen:
+&Keine
+&Erfahrung
+Zauberp&unkte
+&Moral
+G&lück
+&Ressource
+&Primärfähigkeit
+Sekun&därfähigkeit
+&Artefakt
+&Zauberspruch
+&Kreaturen
+Erfahrungsbonus:
+Zauberpunkt-Bonus:
+Moralbonus:
+Glücksbonus:
+Ressourcentyp:
+Menge:
+Primärfähigkeit:
+Bonus:
+Sekundärfähigkeit:
+Können:
+Artefakt:
+Zauberspruch:
+Kreaturtyp:
+Hero Placeholder Properties Dialog
+&Besitzer:
+Identität:
+Be&liebiger Held:
+&Spezieller Held:
+&Zauberkraft:
+&Klasse:
+&Identität:
+Hero Properties Biography Page
+Biographie
+&Anpassen
+Map Specs Artifacts Page
+Aktivierte &Artefakte:
+Map Specs Available Heroes Page
+Verfügbare &Helden:
+&Eigenschaften…
+Random Generator Properties Dialog
+&Besitzer:
+Kreaturenlevel
+M&inimum:
+M&aximum:
+Zugehörigkeit
+Bitte wäh&len:
+Dieselbe &wie:
+&Schloss
+&Schutzwall
+&Turm
+Inf&erno
+&Nekropolis
+&Dungeon
+Bur&g
+&Festung
+Konflu&x
+Witch Hut Properties Dialog
+Potentielle Fähigkeiten:
+Hero Properties Primary Skils Page
+Primärfähigkeiten
+&Anpassen
+Hero Properties Spells Page
+Zaubersprüche
+&Anpassen
+Hero Prototype Properties Artifacts Page
+Artefakte
+Hero Prototype Properties Biography Page
+Biographie
+Hero Prototype Properties General Page
+Allgemein
+Kann angeheuert werden von
+Spieler &%d
+Hero Prototype Properties Primary Skills Page
+Primärfähigkeiten
+Hero Prototype Properties Secondary Skills Page
+Sekundärfähigkeiten
+Hero Prototype Properties Sheet
+Helden-Identitätseigenschaften
+Hero Prototype Properties Spells Page
+Zaubersprüche
+Primary Skills Dialog
+&Angriff:
+&Verteidigung:
+&Zauberkraft:
+&Wissen:
+Spells Dialog
+&Zaubersprüche:
+Map Specs Secondary Skills Page
+Sekundärfähigkeiten
+Verfügbare &Sekundärfähigkeiten:
+Map Specs Spells Page
+Zaubersprüche
+Verfügbare &Zaubersprüche:
+Main Menu
+&Datei
+&Bearbeiten	
+&Ansicht	
+&Tools	
+&Spieler	
+&Hilfe	
+File Menu	
+&Neu...	Strg+N
+Ö&ffnen...	Strg+O
+&Speichern	Strg+S
+Speichern &unter...	
+&Exportiere Text...	
+&Importiere Text...	
+Dateiliste	
+En&de	
+Edit Menu	
+&Rückgängig	Strg+Z
+&Wiederholen	Strg+Y
+A&usschneiden	Strg+X
+&Kopieren	Strg+C
+&Einfügen	Strg+V
+&Löschen	Entf
+&Suchen...	Strg+F
+Suche &nächstes	F3
+Suche &voriges	Strg+F3
+Ei&genschaften...	Eingabe
+View Menu	
+&Einzoomen	
+Aus&zoomen	
+&Untergrund	Strg+U
+&Gitter	Strg+G
+&Passierbarkeit	Strg+P
+Objekt-&Animation	Strg+A
+&Terrain-Animation	Strg+T
+S&ymbolleiste	
+&Modusleiste	
+&Statusleiste	
+Tools Menu	
+&Terrain	
+&Flüsse	
+&Straßen	
+&Löschen	
+O&bjekte	
+Kartenspe&zifikationen...	Strg+Eingabe
+&Karte testen	Shift+V
+O&ptionen...	
+Hindernisse	
+Tools|Terrain Menu	
+&1x1	
+&2x2
+&4x4
+&Bereich
+&Erde
+&Sand
+&Gras
+S&chnee
+Sum&pf
+Ö&dland
+Unter&irdisch
+La&va
+&Wasser
+Fe&ls
+Tools|Rivers Menu
+&Klar
+&Vereist
+Ver&schlammt
+L&ava
+&Löschen
+Tools|Roads Menu
+&Feldweg
+&Schotter
+&Pflaster
+&Löschen
+Tools|Erase Menu
+&1x1
+&2x2
+&4x4
+&Bereich
+Tools|Objects Menu
+&Erde-Objekte
+&Sand-Objekte
+&Gras-Objekte	
+S&chnee-Objekte	
+Sum&pf-Objekte	
+Ö&dland-Objekte	
+&Unterirdische Objekte	
+&Lava-Objekte	
+&Wasser-Objekte	
+&Allgemeine Objekte	
+S&tädte	
+&Monster	
+&Helden	
+Arte&fakte	
+Schät&ze	
+Player Menu	
+&Kein	Strg+0
+Spieler &1 (%s)	Strg+1
+Spieler &2 (%s)	Strg+2
+Spieler &3 (%s)	Strg+3
+Spieler &4 (%s)	Strg+4
+Spieler &5 (%s)	Strg+5
+Spieler &6 (%s)	Strg+6
+Spieler &7 (%s)	Strg+7
+Spieler &8 (%s)	Strg+8
+Help Menu	
+&Hilfethemen	
+&Infos über Karten-Editor...	
+Context Menu	
+Was &ist das?	
+&Rückgängig	
+&Wiederholen	
+A&usschneiden	
+&Kopieren	
+&Einfügen
+&Löschen
+&Suchen...
+Suche &nächstes
+Suche &voriges
+Ei&genschaften...
+Hindernisse &platzieren
+Tools|Erase Menu
+1x1 solider Pinsel
+2x2 solider Pinsel
+4x4 solider Pinsel
+Solider Bereichs-Pinsel
+1x1 ausgefranster Pinsel
+2x2 ausgefranster Pinsel
+4x4 ausgefranster Pinsel
+Ausgefranster Bereichs-Pinsel
+1x1 solider Radierer	
+2x2 solider Radierer	
+4x4 solider Radierer	
+Solider Bereichs-Radierer	
+1x1 ausgefranster Radierer	
+2x2 ausgefranster Radierer	
+4x4 ausgefranster Radierer	
+Ausgefranster Bereichs-Radierer	
+Hindernisse &platzieren	Shift+P

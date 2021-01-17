@@ -1,0 +1,354 @@
+"The Black Dragon may be stronger than a Titan, but not even a Titan could defeat an Archangel without help."
+"A wise man once said, ""Don't share your wisdom with anybody."""
+The scarlet swan swims in a small lake.
+Blood is thicker than water.
+"What the imps and familiars lack in strength, they make up for in numbers."
+To thine own self be true.
+The Cover of Darkness can be used to elude your enemies.
+Find the Grail - it is more powerful than you can imagine.
+"Find a good cartographer.  Though his maps may cost more, they are extremely accurate."
+Beware Kreegans bearing gifts.
+Always protect your missile troops in combat.
+Sometimes the best way to avoid defeat is by avoiding combat!
+Attack where your enemy is weak.
+Did you ever hear the one about the frog who dreamed of being a king... and then became one?
+A wizard recently discovered a spell that will make a whole ARMY fly!
+Chaos is an Overlord's best friend.
+It is said that no defense can stand up to the attack of an Ancient Behemoth.
+Never get involved in a land war in Erathia.
+"Troglodytes have no eyes, but they can still see."
+"Never ignore a subterranean gate, lest you allow an enemy to approach unseen."
+"Only the Green and Gold Dragons are good.  Red and Black Dragons serve Nighon, and Bone and Ghost Dragons are the vile creations of the Necromancers."
+Today is yesterday's tomorrow.
+A traveler told me that the Ironfists of Enroth have lost the mandate of heaven.
+"Once you've mastered a school of magic, most spells affecting only one unit will now effect all your allies or all your enemies - and sometimes both!"
+"When travelling across the desert, seek out an oasis, for it will speed your journey."
+"Seek out the learning stones that are scattered about the land.  You can only learn from each one once, but you learn much."
+"There is safety in numbers, especially if those numbers are in the thousands!"
+Remember that the black dragon is immune to all spells - only a Slayer can bring additional harm to it.
+"The Haste and Slow spells can be powerful allies in combat, especially at higher levels of proficiency."
+Fight Fire with Protection from Fire.
+Water can do little harm to those who have mastered it.
+Air can do little harm to those who have mastered it.
+Earth can do little harm to those who have mastered it.
+The university can teach you anything...  for the right price.
+Archangels are the most powerful creature of the Castles.
+Gold Dragons are the most powerful creature of the Ramparts.
+Titans are the most powerful creature of the Towers.
+Arch Devils are the most powerful creature of the Infernos.
+Ghost Dragons are the most powerful creature of the Necropolis.
+Black Dragons are the most powerful creature of the Dungeons.
+Ancient Behemoths are the most powerful creature of the Strongholds.
+Chaos Hydras are the most powerful creature of the Fortresses.
+"With the right spell, you can scuttle your boats to prevent your enemies from using them.  It makes for a one way trip, but that's what Summon Boat is for!"
+Nothing hits the spot quite like my famous Baked Erathian Eel.  No?  Well how about some Pegasus Pot Pie?
+"Hey, I'm all out of rumors, because people like YOU don't come here enough to share them with me!"
+"At this time of year, the waters around the elvish island of Vori freeze."
+Vori is an isolationist nation.
+I've heard the elves of Vori have snow white skin.
+Did you know the elves of AvLee are descended from the elves of Vori?
+Towns with a Citadel attract more troops than a town with a Fort.
+I have heard the Towers trade in artifacts.
+Do you know the Strongholds trade in creatures?
+I have heard heroes could travel between Infernos without moving.
+The Thieves' Guild is friend to everyone and no one.
+Any Castle under the guard of the Brotherhood of the Sword stands a better chance in siege combat.
+I've heard the residents of the Castles will construct a giant Colossus to honor any hero who brings them the Grail.
+I've heard the residents of the Ramparts will construct a Spirit Guardian to honor any hero who brings them the Grail.
+I've heard the residents of the Towers will construct a great Skyship to honor any hero who brings them the Grail.
+I've heard the residents of the Infernos will summon a Diety of Fire to honor any hero who brings them the Grail.
+I've heard the residents of the Necropolis will construct a Soul Prison to honor any hero who brings them the Grail.
+I've heard the residents of the Dungeons will summon a Guardian of Earth to honor any hero who brings them the Grail.
+I've heard the residents of the Strongholds will construct a Warlords' Monument to honor any hero who brings them the Grail.
+I've heard the residents of the Fortresses will grow a great Carnivorous Plant to honor any hero who brings them the Grail.
+Erathian horses are the swiftest in the land.
+Erathian Marksmen can shoot two arrows in the time a normal Archer could shoot one.
+Giffins trained in the royal courts are ferocious defenders.
+Erathian Crusaders can strike two blows in the time a normal Swordsman could strike once.
+Have you heard?  Zealots are beings of pure energy.
+Let your Champions run their enemies through.  You will like the results.  Farther is better.
+Angels fight more ferociously when striking a Devil.
+"In the heat of battle, I have seen Archangels resurrect fallen comrades."
+"It is said an Angel will brighten the morale of any army, except the dead."
+I once saw a Dwarf resist a spell cast upon him.
+It is said the Grand Elven Archers of AvLee can best Erathian Marksmen.
+It is said a Pegasus will make an enemy spell caster work harder.
+Roots of the Dendroids will bind their enemies in place.
+"If you want to protect yourself from spells, stand next to a Unicorn."
+"Though not as immune as Gold Dragons, Green Dragons resist most spells."
+"Gold Dragons resist more spells than Green, but not as much as Black."
+"Familiars will drain mana from any spells you cast, and give it to their general."
+"Magogs throw exploding balls of fire, burning everything around their target."
+It is impossible to retaliate against the vicious attack of a three-headed Cerberus.
+Once I saw a Pit Lord resurrect Demons from fallen allies.
+"Being from the Plane of Fire, Efreet are unaffected by spells of Fire Magic."
+Efreet strike with extra furor when attacking Genies.
+Efreet Sultans are naturally protected by a shield of fire.
+Good luck is not to be had in the presence of Devils.
+"When a Devil travels, it journeys to its plane before returning to our world."
+It is impossible to retaliate against the swiping scythe of a Devil.
+"When attacking an Angel, Devils strike with tremendous anger."
+Beware the touch of the Zombies.  You may find yourself with disease.
+"Wights and Wraiths are foul spirits.  If you do not kill one with the first blow, it will heal itself whole."
+Wraiths subsist on magic energies.  Mana disappears in their presence.
+I have heard the Ghosts of Enroth are far more dangerous than the Wights and Wraiths of Erathia.
+"On the battlefield, the troop who strikes first, wins most often."
+"On the battlefield, speed is life, life is speed."
+I have seen dying Vampire Lords reborn in the blood of fallen enemies.
+It is impossible to retaliate in the face of a Vampire's fearsome assault.
+A Lich's attack shreds the living while leaving the dead unscathed.
+A strike from a Black Knight can curse an enemy.
+Dread Knights are powerful warriors able to cut down their enemies with a powerful death blow.
+"On the battlefield, Bone and Ghost Dragons strike fear into the hearts of their enemies."
+"Ghost Dragons thirst of the vitality of the young.  Beware, you may find yourself old."
+Golems do not have a mind of their own.
+Golems are animated through magic means unknown to most men.
+"Because of their animated nature, Golems endure the punishment of spells longer than most."
+It is said Magi and Arch Magi assist heroes in casting their spells.
+Arch Magi throw magic with the precision greater than most archers.
+Efreet are the natural enemies of Genies.
+Genies strike Efreet with a hatred I have rarely seen.
+Master Genies can cast spells as well as any hero.
+"Under the four- and six-armed attack of a Naga, no one can hope to retaliate."
+A Naga's attack is an exercise in precise swordsmanship.
+Only the Angel and Archangel can best a Naga in swordsmanship.
+Most underestimate the intelligence of Giants and Titans.  Their minds cannot be possessed.
+Titans will strike Black Dragons with more ferocity than any other enemy.
+Wolf Raiders are quick creatures.  They'll hit you twice before you can get your shield up.
+Ogre Magi are terrifying monsters.  They stir a bloodlust in their allies I have never seen before.
+The attack of a Thunderbird is said to bring lightning from the sky.
+"If you want to conquer a town, bring along several Cyclopes.  Their boulder throwing skills bring town walls faster than any catapult."
+Few have lived from the assault of a Behemoth.  Some say there is no defense against them.
+"Because Troglodytes have no eyes, they cannot be blinded."
+"Many armies have fallen under the swooping attacks of Harpies, without causing a single casualty."
+Harpy Hags strike quick and are gone before you have a chance to retaliate.
+"Beholders are the most confident creatures.  Even when surrounded, they do not loose their composure."
+Many fear the petrifying attack of the Medusa.  You should fear more their golden arrows.
+"Even against overwhelming odds, the Minotaur revels in the bloodlust of combat."
+It is said the powerful venom of the Scropicore could paralyze a golem.
+Not a spell in the world could harm the Black Dragon.
+It is said the Orb of Vulnerability can humble the mighty Black Dragon.
+"When in battle, it is said Black Dragons seek out Titans."
+"Few understand how, but the Dragon Fly can extinguish spells."
+Little is known of the Mighty Gorgon.  I once heard to look into its eyes was instant death.
+Beware the poison of the Wyvern Monarch.  It will rob you of health faster than the beast can fly.
+It is impossible to retaliate in the onslaught of the many headed Hydra.
+"If you want to learn quickly, visit a Battle Scholars' Academy in a Dungeon."
+It is believed the Warlocks are able to create a Mana Vortex capable of doubling their mana capacity.
+"With the Portal of Summoning, the Dungeon can recruit creatures from the surface."
+Fortresses construct the Blood Obelisk to increase the ferocity of their town defenders.
+"After a day in the Cage of Warlords, you will know how to better defend yourself."
+"When invading an Inferno, you will see Brimstone Stormclouds.  Beware, their spell casters feed on its power."
+It is said Infernos are linked through dimensional portals.  Simple folk call them Castle Gates.
+"If your heroes desire more power, visit the Order of Fire in an Inferno."
+A Cover of Darkness blankets all under the reign of the Necromancers.
+It is believed prisoners of war are led to a Necropolis to be flayed into Skeletons for the undead hordes of the Necromancer and Death Knight.
+Some believe each Necropolis builds a 'Necromancy Amplifier' to help its heroes raise the dead.
+More rare than the Gem Pond is the Mystic Pond.  You never know what precious resources you will find.
+Ramparts create Fountains of Fortune to imbue its defenders with amazing luck.
+"If you desire money, store it at the Dwarven Treasury in a Rampart."
+Some Strongholds build Escape Tunnels for a quick retreat during a losing siege.
+Heroes visiting the Hall of Valhalla in a Stronghold become better warriors.
+"If you want to know more, visit the glyphic Wall of Knowledge in a Tower."
+"On cursed ground, no one has the advantage."
+"On the magic plains, even the common man can cast spells like the greatest wizard."
+They say that Sea Serpents have awakened from the depths and emerged on the lands. They crush everything in their way.
+Aspids are the most powerful creatures of the Cove.
+One pirate was trying to convince me that he knows a formula of a secret powder that allows giant cannon balls to fly up from a single spark!
+They say that the Thieves Guild is cooperating with the pirates.
+They say that the lodestars are seen best from the maritime cities.
+Nix have excellent armor.
+Corsair is not the end of what a true pirate can achieve!
+Black-sailed ships are being traded in the shore-side Coves.
+Deep in the seas, on the very bottom, a mysterious Horn lies still. It will give you unmatched power.
+The scarlet swan swims in a small lake.
+Blood is thicker than water.
+"What the imps and familiars lack in strength, they make up for in numbers."
+To thine own self be true.
+The Cover of Darkness can be used to elude your enemies.
+Find the Grail - it is more powerful than you can imagine.
+"Find a good cartographer.  Though his maps may cost more, they are extremely accurate."
+Beware Kreegans bearing gifts.
+Always protect your missile troops in combat.
+Sometimes the best way to avoid defeat is by avoiding combat!
+Attack where your enemy is weak.
+Did you ever hear the one about the frog who dreamed of being a king... and then became one?
+A wizard recently discovered a spell that will make a whole ARMY fly!
+Chaos is an Overlord's best friend.
+It is said that no defense can stand up to the attack of an Ancient Behemoth.
+Never get involved in a land war in Erathia.
+"Troglodytes have no eyes, but they can still see."
+"Never ignore a subterranean gate, lest you allow an enemy to approach unseen."
+"Only the Green and Gold Dragons are good.  Red and Black Dragons serve Nighon, and Bone and Ghost Dragons are the vile creations of the Necromancers."
+Today is yesterday's tomorrow.
+A traveler told me that the Ironfists of Enroth have lost the mandate of heaven.
+"Once you've mastered a school of magic, most spells affecting only one unit will now effect all your allies or all your enemies - and sometimes both!"
+"When travelling across the desert, seek out an oasis, for it will speed your journey."
+"Seek out the learning stones that are scattered about the land.  You can only learn from each one once, but you learn much."
+"There is safety in numbers, especially if those numbers are in the thousands!"
+Remember that the black dragon is immune to all spells - only a Slayer can bring additional harm to it.
+"The Haste and Slow spells can be powerful allies in combat, especially at higher levels of proficiency."
+Fight Fire with Protection from Fire.
+Water can do little harm to those who have mastered it.
+Air can do little harm to those who have mastered it.
+Earth can do little harm to those who have mastered it.
+The university can teach you anything...  for the right price.
+Archangels are the most powerful creature of the Castles.
+Gold Dragons are the most powerful creature of the Ramparts.
+Titans are the most powerful creature of the Towers.
+Arch Devils are the most powerful creature of the Infernos.
+Ghost Dragons are the most powerful creature of the Necropolis.
+Black Dragons are the most powerful creature of the Dungeons.
+Ancient Behemoths are the most powerful creature of the Strongholds.
+Chaos Hydras are the most powerful creature of the Fortresses.
+"With the right spell, you can scuttle your boats to prevent your enemies from using them.  It makes for a one way trip, but that's what Summon Boat is for!"
+Nothing hits the spot quite like my famous Baked Erathian Eel.  No?  Well how about some Pegasus Pot Pie?
+"Hey, I'm all out of rumors, because people like YOU don't come here enough to share them with me!"
+"At this time of year, the waters around the elvish island of Vori freeze."
+Vori is an isolationist nation.
+I've heard the elves of Vori have snow white skin.
+Did you know the elves of AvLee are descended from the elves of Vori?
+Towns with a Citadel attract more troops than a town with a Fort.
+I have heard the Towers trade in artifacts.
+Do you know the Strongholds trade in creatures?
+I have heard heroes could travel between Infernos without moving.
+The Thieves' Guild is friend to everyone and no one.
+Any Castle under the guard of the Brotherhood of the Sword stands a better chance in siege combat.
+I've heard the residents of the Castles will construct a giant Colossus to honor any hero who brings them the Grail.
+I've heard the residents of the Ramparts will construct a Spirit Guardian to honor any hero who brings them the Grail.
+I've heard the residents of the Towers will construct a great Skyship to honor any hero who brings them the Grail.
+I've heard the residents of the Infernos will summon a Diety of Fire to honor any hero who brings them the Grail.
+I've heard the residents of the Necropolis will construct a Soul Prison to honor any hero who brings them the Grail.
+I've heard the residents of the Dungeons will summon a Guardian of Earth to honor any hero who brings them the Grail.
+I've heard the residents of the Strongholds will construct a Warlords' Monument to honor any hero who brings them the Grail.
+I've heard the residents of the Fortresses will grow a great Carnivorous Plant to honor any hero who brings them the Grail.
+Erathian horses are the swiftest in the land.
+Erathian Marksmen can shoot two arrows in the time a normal Archer could shoot one.
+Giffins trained in the royal courts are ferocious defenders.
+Erathian Crusaders can strike two blows in the time a normal Swordsman could strike once.
+Have you heard?  Zealots are beings of pure energy.
+Let your Champions run their enemies through.  You will like the results.  Farther is better.
+Angels fight more ferociously when striking a Devil.
+"In the heat of battle, I have seen Archangels resurrect fallen comrades."
+"It is said an Angel will brighten the morale of any army, except the dead."
+I once saw a Dwarf resist a spell cast upon him.
+It is said the Grand Elven Archers of AvLee can best Erathian Marksmen.
+It is said a Pegasus will make an enemy spell caster work harder.
+Roots of the Dendroids will bind their enemies in place.
+"If you want to protect yourself from spells, stand next to a Unicorn."
+"Though not as immune as Gold Dragons, Green Dragons resist most spells."
+"Gold Dragons resist more spells than Green, but not as much as Black."
+"Familiars will drain mana from any spells you cast, and give it to their general."
+"Magogs throw exploding balls of fire, burning everything around their target."
+It is impossible to retaliate against the vicious attack of a three-headed Cerberus.
+Once I saw a Pit Lord resurrect Demons from fallen allies.
+"Being from the Plane of Fire, Efreet are unaffected by spells of Fire Magic."
+Efreet strike with extra furor when attacking Genies.
+Efreet Sultans are naturally protected by a shield of fire.
+They say that Sea Serpents have awakened from the depths and emerged on the lands. They crush everything in their way.
+Aspids are the most powerful creatures of the Cove.
+One pirate was trying to convince me that he knows a formula of a secret powder that allows giant cannon balls to fly up from a single spark!
+They say that the Thieves Guild is cooperating with the pirates.
+They say that the lodestars are seen best from the maritime cities.
+Nix have excellent armor.
+Corsair is not the end of what a true pirate can achieve!
+Black-sailed ships are being traded in the shore-side Coves.
+Deep in the seas, on the very bottom, a mysterious Horn lies still. It will give you unmatched power.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

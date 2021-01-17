@@ -1,0 +1,3 @@
+{Diplomat's Cloak}
+
+In addition to component effect this cloak allows your hero to retreat or surrender when battling neutral monsters or defending a town. Multiplies your hero army strength by 3 (for neutral armies and Thieves guild).

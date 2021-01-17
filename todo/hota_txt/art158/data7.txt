@@ -1,0 +1,3 @@
+{Ring of Oblivion}
+
+When worn, makes all losses in the battle irrevocable: corpses disappear right after unit's death, spells that may revitalize creatures are banned for use, vampirism does not bring back dead units, and undead cannot be raised using necromancy after battle.

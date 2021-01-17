@@ -1,0 +1,3 @@
+{Charm of Eclipse}
+
+This item reduces the Power skill of enemy hero by 10% during combat.

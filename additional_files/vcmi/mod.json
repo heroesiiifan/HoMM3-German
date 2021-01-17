@@ -1,0 +1,15 @@
+{	
+	"name" : "HoMM3 for VCMI in german",
+	"description" : "Patch changes any Heroes3 complete localisation into german.\nBased on german files found on https://www.mightandmagicworld.de/filebase/heroes_3_patches-c12/index.html files from 10.04.2018\n initial mod by magikyr\nextended by anonymous",
+	"version" : "1.1",
+	"author" : "mightandmagicworld ported by magikyr extended by heroesiiifan",
+	"contact" : "",
+	"modType" : "Language",
+	"licenseName" : "CC0 for non copyrighted material (for changes from 1.1.0+)",
+	"licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release by magikyr (only txt-files and h3c campaign)" ], 
+		"1.1.0" : [ "Complete rework with new maps, graphics and texts" ]   
+	}
+}

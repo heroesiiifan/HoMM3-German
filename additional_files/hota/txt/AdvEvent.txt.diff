@@ -1,0 +1,18 @@
+44,47c44,47
+< Ihr findet einen alten Fischer, der die detailliertesten Seekarten hat, die Ihr je gesehen habt. Möchtet Ihr den Kartensatz für 1000 Gold kaufen?
+< Ihr findet einen Kartographen, der Landkarten für 1000 Gold verkauft. Würdet Ihr gerne eine Karte kaufen?
+< Ihr entdeckt einen alten Zwergenbergabeiter, der mehrere Karten aus seiner Dienstzeit behalten hat. Er würde Euch eine Karte der Tunnel für 1000 Gold verkaufen. Nehmt Ihr das Angebot an?
+< Meine Karten kosten 1000 Gold und soviel scheint Ihr nicht zu haben. Bitte hört auf, meine Zeit zu verschwenden.
+---
+> Ihr findet einen alten Fischer, der die detailliertesten Seekarten hat, die Ihr je gesehen habt. Möchtet Ihr den Kartensatz für 10000 Gold kaufen?
+> Ihr findet einen Kartographen, der Landkarten für 10000 Gold verkauft. Würdet Ihr gerne eine Karte kaufen?
+> Ihr entdeckt einen alten Zwergenbergabeiter, der mehrere Karten aus seiner Dienstzeit behalten hat. Er würde Euch eine Karte der Tunnel für 10000 Gold verkaufen. Nehmt Ihr das Angebot an?
+> Meine Karten kosten 10000 Gold und soviel scheint Ihr nicht zu haben. Bitte hört auf, meine Zeit zu verschwenden.
+256c256
+< Als Ihr auf eine Lichtung reitet, trefft Ihr dort einen Gelehrten aus der Universität, der sein Pferd ausruhen lässt. Er stimmt zu, Euch etwas von seinem Wissen zu vermitteln, bevor er weiterreitet.
+---
+> Als Ihr auf eine Lichtung reitet, trefft Ihr dort einen Gelehrten aus der Universität, der sein Pferd ausruhen lässt. Er bietet an, Euch etwas von seinem Wissen zu vermitteln, bevor er weiterreitet.
+396c396
+< Eine uralte Hexe, die in einer seltsamen Hütte wohnt, heißt Euch willkommen und lehrt Euch ""%s"" aus Gründen, die nur ihr selbst bekannt sind."
+---
+> Eine uralte Hexe, die in einer seltsamen Hütte wohnt, heißt Euch willkommen und bietet Euch an ""%s"" zu lehren aus Gründen, die nur ihr selbst bekannt sind."

@@ -1,0 +1,1000 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+General
+Heroes of Might and Magic® III Map Editor
+"© 2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company."
+Version %s
+Heroes 3 Map Files (*.h3m)
+Heroes 3 Map
+Map Specifications
+%s Properties
+Edit Timed Event
+(None)
+Random
+Unknown
+Backpack
+Experience
+Spell points
+Morale
+Luck
+Resource
+Resources
+Primary skill
+Primary skills
+Artifact
+Artifacts
+Spell
+Spells
+Creature
+Creatures
+Secondary skill
+Secondary skills
+Player %d (%s)
+No player
+Never
+Every day
+Every 2 days
+Every 3 days
+Every 4 days
+Every 5 days
+Every 6 days
+Every 7 days
+Every 14 days
+Every 21 days
+Every 28 days
+"There is a maximum of %d objects of type ""%s"" on any map!"
+There are no more available heroes of that class!
+"You must first select a player in the ""Player"" menu before placing a hero!"
+There is a maximum of %d heroes per player!
+The Grail has already been placed!
+The Grail must be placed at least %d tiles from the edge of the map!
+Nowhere to paste object!
+Debug Build
+Release Build
+Your display must be set to at least 16-bit color to run the Map Editor!
+"Invalid map file version.
+
+File version = %d
+Current version = %d"
+Invalid or corrupt map file.
+2 days
+3 days
+4 days
+5 days
+6 days
+1 week
+2 weeks
+3 weeks
+4 weeks
+5 weeks
+6 weeks
+7 weeks
+2 months
+3 months
+4 months
+5 months
+6 months
+7 months
+8 months
+9 months
+10 months
+11 months
+12 months
+(Any Town)
+"%s at (%d, %d, %d)"
+%s the %s
+Random Monster
+Random Monsters
+Warrior
+Builder
+Explorer
+Warning
+All heroes must be owned by a player.
+That player already owns the maximum number of heroes.
+"%s  Continuing will delete the current visiting hero.
+Do you wish to continue?"
+There are no more available heroes!
+No players on map
+Random Town
+Team %d
+"""There are no players on the map.""
+You must have at least one hero, or town, belonging to a player or the map will be unplayable.
+"
+"""There are no towns on the map.""
+This will not make a map unplayable.  However, a player’s last hero cannot exist without an affiliated town for more than seven days without losing.
+"
+"""The map is unnamed.""
+If a map is unnamed, it will appear at the top of the list of available maps to play, titled Unnamed.
+"
+"""The map has no description.""
+This is simply a warning.  Most maps describe the basis of the scenario and the player’s objective.
+"
+"""The grail has been placed on the map but there are no obelisks on the map.""
+Assuming the grail has already been placed, obelisks should be placed on a map for a player to uncover the grail.
+"
+"""%s owns one or more objects on the map, yet is not present.""
+A common example of this type of error is flagging a mine, creature dwelling, garrison, etc., for a player, yet the player does not own any existing towns or heroes.
+"
+"""The %s has a shipyard yet is landlocked.""
+If a town with shipyard is landlocked, a player will be able to purchase boats, but the boats will not appear on the map.  A town must be adjacent to, but on top of, a shore tile to the left or right bottom corner of the town entrance.
+"
+"""There is only one %s on the map.""
+‘Two-way’ monoliths/portals are ‘teleporters’.  If you have only one two-way monolith/portal on the map, there is no exit for the entering hero.
+"
+"""There are one or more %s on the map but no associated exits.""
+This error message applies to ‘one-way’ monoliths/portals.  If you have a one-way monolith/portal entrance on the map, there must be at least one exit for the associated entrance.
+"
+"""There are one or more %s on the map but no associated entrances.""
+This error message applies to ‘one-way’ monoliths/portals.  If you have a one-way monolith/portal exit on the map, there must be at least one entrance for the associated exit.
+"
+"""There are one or more subterranean gates on the map yet this map has no underground layer.""
+Typically, subterranean gates are used to travel to another underground map layer.  If there is no underground layer, a hero will approach a subterranean gate, only to be turned away.
+"
+"""There are more subterranean gates above ground than underground.""
+At the start of a scenario, each subterranean gate is ‘paired up’ with its closest partner on the opposite layer.  If there are more gates above, than below, they cannot pair up.
+"
+"""There are more subterranean gates underground than above ground.""
+At the start of a scenario, each subterranean gate is ‘paired up’ with its closest partner on the opposite layer.  If there are more gates below, than above, they cannot pair up.
+"
+"""The quest artifact of the %s is the %s, but the artifact has not been placed on the map.""
+For a player to complete a Seer Hut, Quest Guards, or Quest Gate quest, the object of the quest (the associated artifact), must exist on the map, with a hero, with a wandering monster, in an event, in a Pandora’s Box, in a creature bank, as a reward from another Seer’s Hut, or as a part of a combined artifact.  For a combined artifact its components can be present on the map instead of the artifact itself.
+"
+"""There is only one player on the map, yet there is no special victory condition.""
+If there is only one player on the map, and there is no special victory condition, the single player would win the game instantly.
+"
+"""There is only one player on the map but the normal victory condition has not been disabled.""
+If there is only one player on the map, and the normal victory condition has not been disabled, the single player would win the game instantly.
+"
+"""There are no problems with the map."""
+"""The special victory condition is to acquire the %s, but this artifact has not been placed on the map.""
+In order to satisfy the special victory condition ‘Acquire specific artifact’, the associated artifact must exist on the map, with a hero, with a wandering monster, in an event, in a Pandora’s Box, in a creature bank, as a reward from a Seer’s Hut, or as a part of a combined artifact.  For a combined artifact its components can be present on the map instead of the artifact itself.
+"
+"""The special victory condition is to acquire the %s, but %s already has this artifact.""
+If a player’s hero starts a game with the artifact needed to satisfy the victory condition ‘Acquire specific artifact’, the player will instantly win the game.
+"
+"""The special victory condition is to acquire %d %s, but %s already has %d %s.""
+If a player starts a game with the required number of a creature type needed to satisfy this victory condition, the player wins instantly.
+"
+"""The special victory condition is to build the %s and the %s in the %s, but both of these building are already built.""
+At the start of the game, with the victory condition ‘Upgrade a specific town’, the player wins instantly if the player owns a town with a hall, and a castle, already pre-built to these levels.
+"
+"""The special victory condition is to build the %s and the %s in the %s, but one or both of these buildings are disabled.""
+The player cannot win the game if the hall, or castle, is disabled.  This will prevent them from upgrading these buildings to the levels needed to win the game.
+"
+"""The special victory condition is to build the grail structure in the %s, but it is already built in this town.""
+If the grail is pre-built in the specified town, the victory condition is satisfied immediately, and the player wins the game instantly.
+"
+"""The special victory condition is to build the grail structure in the %s, but it is disabled.""
+If the grail is disabled in the specified town, the player will be unable to satisfy the victory condition ‘Build the Grail Structure’.  Thus, the player will be unable to win the game through this special victory condition.
+"
+"""The special victory condition is to build the grail structure, but there are no towns on the map in which it may be built.""
+This error message appears when you select the ‘Build the Grail Structure’ special victory condition, but there are no towns on the map, or all the existing towns have the Grail Building disabled.
+"
+"""The special victory condition is to defeat %s who belongs to %s who may be a human player or be on a team with human players.""
+If a human player, or team with a human player, already owns the specified hero at the start of the game, the victory condition ‘Defeat a specific hero’ is satisfied immediately, and the game is over.
+"
+"""The special victory condition is to capture the %s, but this town is already owned by %s.""
+If a player, or team, already owns the specified town at the start of the game, the victory condition ‘Capture a specific town’ is satisfied immediately, and the game is over.
+"
+"""The special victory condition is to capture the %s, but this town is owned by %s who may be a human player or be on a team with human players.""
+If a human player, or team with a human player, already owns the specified town at the start of the game, the victory condition ‘Capture a specific town’ is satisfied immediately, and the game is over.
+"
+"""The special victory condition is to flag all of the creature generators, but there are no creature generators on the map.""
+"
+"""The special victory condition is to flag all of the creature generators, but %s already owns all of the creature generators.""
+"
+"""The special victory condition is to flag all of the mines, but there are no mines on the map.""
+"
+"""The special victory condition is to flag all of the mines, but %s already owns all of the mines.""
+"
+"""The special victory condition is to transport the %s, but this artifact has not been placed on the map.""
+For a player to transport the specified artifact, it must exist on the map, with a hero, with a wandering monster, in an event, in a Pandora’s Box, in a creature bank, as a reward from a Seer’s Hut, or as a part of a combined artifact.  For a combined artifact its components can be present on the map instead of the artifact itself.
+"
+"""The special loss condition is to lose the %s, but this town is not owned by any player.""
+The special loss condition ‘Lose a specific town’ must be applied to the ‘one and only’ human player.  Otherwise, any human player not owning the town at the start of the game loses immediately.
+"
+"""The special loss condition is to lose the %s which is owned by %s, but this team cannot have any human players.""
+The special loss condition ‘Lose a specific town’ must be applied to the ‘one and only’ team with human players.  Otherwise, any team, with human players, not owning the town at the start of the game, loses immediately.
+"
+"""The special loss condition is to lose the %s, but there is more than one team which may have human players.""
+The special loss condition ‘Lose a specific town’ must be applied to the ‘one and only’ team with human players.  Otherwise, any team, with human players, not owning the town at the start of the game, loses immediately.
+"
+"""The special loss condition is to lose the %s which is owned by %s, but this player cannot be human.""
+The special loss condition ‘Lose a specific town’ must be applied to the ‘one and only’ human player.  Otherwise, any human players not owning the town at the start of the game lose immediately.
+"
+"The special loss condition is to lose the %s, but there may be more than one human player.""
+Any human who does not own the specified town at the start of the game will lose immediately.
+"
+"""The special loss condition is to lose %s, but this hero is not owned by any player.""
+If the hero specified in the special loss condition ‘Lose a specific hero’, exists in a Prison, all players lose the game immediately.
+"
+"""The special loss condition is to lose %s who is owned by %s, but this team cannot have any human players.""
+The team who owns the specified hero must have at least one human player.  Otherwise, any other existing teams with human players would immediately lose the game because they do not own the specified hero.
+"
+"""The special loss condition is to lose %s, but there is more than one team which may have human players.""
+When the loss condition is to lose a specific hero, this hero must belong to the ‘one and only’ team, with human players, on the map.  If there are other teams with human players, and they don’t own the hero, they automatically lose the game.
+"
+"""The special loss condition is to lose %s who is owned by %s, but this player cannot be human.""
+The player who owns the specified hero must be human.  Otherwise, any existing human players would immediately lose the game because they do not own the specified hero.
+"
+"""The special loss condition is to lose %s, but there may be more than one human player.""
+When the loss condition is to lose a specific hero, this hero must belong to the ‘one and only’ human player on the map.  If there are other human players, and they don’t own the hero, they automatically lose the game.
+"
+Recover auto-saved map?
+"Text Files (*.txt)
+.txt"
+"Unable to import ""%s""."
+"Successfully imported ""%s""."
+Map name
+Map description
+Rumors
+Timed events
+Objects
+Name
+Message
+Text
+Visiting %s
+End of file
+Day %d - %s
+The specified object was not found on the map.
+Standard
+Mode
+"""There is only one whirlpool on the map.""
+With only one whirlpool on the map, the ship has no exit point.  Thus, the whirlpool simply destroys the hero’s troops.
+"
+"""The %s is unreachable.""
+The ‘trigger cell’ for this object is unreachable from any adjacent terrain tiles.
+"
+OK
+Cancel
+Help
+General
+Contents
+Resources
+Buildings
+Creatures
+Secondary Skills
+Special Loss Condition
+Player Specs
+Rumors
+Teams
+Timed Events
+Special Victory Condition
+Treasure
+Garrison
+Spells
+Guardians
+Artifacts
+About Map Editor
+Edit Artifact
+Edit Creature Stack
+Edit Rumor
+Edit Secondary Skill
+Find
+Map Validation
+New Map
+Options
+Select Artifact
+Select Hero Class
+Select Spell
+&Customize
+Brush
+Terrain Type
+River Type
+Road Type
+Select allowable placement &radius:
+Stand still
+Radius 1 square
+Radius 2 squares
+Radius 3 squares
+Radius 4 squares
+Radius 5 squares
+Radius 6 squares
+Radius 7 squares
+Radius 8 squares
+Radius 9 squares
+Radius 10 squares
+&Problems:
+There are no editable properties for this object.
+"Continuing will remove this map's underground layer.  Any modifications made to that layer will be lost.
+Do you wish to continue?"
+Random Dwelling %d
+Random %s Dwelling
+Biography
+Map Generation Progress
+Generating map...
+Unable to generate random map.
+Heroes
+"""The %s has no quest.""
+The purpose of the Seer's Hut, the Quest Guard, and the Quest Gate is to give the player a quest to accomplish.  If a Seer's Hut, Quest Guard, or Quest Gate has no quest it will do nothing.
+"
+"That object can only be placed on ""Armageddon's Blade"" or ""The Shadow of Death"" maps."
+None
+Achieve experience level %d
+%s level %d
+Achieve %s
+Achieve the following:
+Defeat %s
+Defeat the %s
+Return with the following:
+Return with %s
+Return with %s
+Return with %s
+Proposal Message
+Progress Message
+Completion Message
+and
+underground
+None
+%d experience points
+%d spell points
++%d morale
++%d luck
+%s spell
+"""There are one or more %s keymaster's tents on this map but no %s border guards or border gates.""
+The purpose of a keymaster's tent is to unlock its corresponding border guards and/or border gates.  If there are no corresponding border guards or border gates placed on the map, then the keymaster's tent is somewhat pointless.
+"
+"""There are one or more %s border guards on this map but no %s keymaster's tents.""
+The purpose of the border guard is to block an area of the map until the player visits the corresponding keymaster's tent.  After visiting the keymaster's tent the border guard will disappear when visited.  However, if there is no corresponding keymaster's tent the border guard cannot be unlocked.
+"
+"""There are one or more %s border gates on this map but no %s keymaster's tents.""
+The purpose of the border gate is to block an area of the map until the player visits the corresponding keymaster's tent.  After visiting the keymaster's tent the border gate will be unlocked.  However, if there is no corresponding keymaster's tent the border gate cannot be unlocked.
+"
+"""There are one or more Huts of the Magi on this map but no Eyes of the Magi.""
+The Hut of the Magi is intended to be used in conjunction with the Eye of the Magi.  When a player visits a Hut the shroud removed from the vicinities of all of the Eyes of the Magi on the map.  If there are no Eyes of the Magi on the map, visiting the Hut will be pointless.
+"
+"""There are one or more Eyes of the Magi on this map but no Huts of the Magi.""
+The Eye of the Magi is intended to be used in conjunction with the Hut of the Magi.  When a player visits a Hut the shroud removed from the vicinities of all of the Eyes of the Magi on the map.  If there are no Huts of the Magi on the map, the Eyes will do nothing.
+"
+"""There are only %d available heroes on this map, but this map requires at least %d available heroes.""
+The minimum number of available heroes on a map is ten for each player plus one for each town.  More heroes must be enabled on the 'Heroes' page in the 'Map Specifications' dialog.
+"
+"""All of the artifacts on this map are either disabled or reserved.""
+Artifacts are reserved when they are the object of a special victory condition or the object of a quest.  Also, artifacts may be disabled on the 'Artifacts' page of the 'Map Specifications' dialog.  There must be at least one artifact which is not reserved and is not disabled.
+"
+"That object can only be placed on ""The Shadow of Death"" maps."
+"That object may only be placed if ""Armageddon's Blade"" is installed!"
+Heroes
+Abandoned Mine Properties Dialog
+Potential resources
+&Mercury
+&Ore
+&Sulfur
+&Crystal
+G&ems
+&Gold
+Army Dialog
+Type
+Quantity
+Slot &%d:
+Garrison Properties Dialog
+Owner
+&None
+Player %d (%s)
+Creatures
+Troops are &removable
+Artifact Properties General Page
+Type:
+Custom &message:
+"Note:  If you customize the guardians, you should add a custom message in the form of a yes/no prompt where a yes response would indicate that the user wishes to fight the guardians."
+&Spell:
+Black Box Properties General Page
+&Message:
+Event Properties General Page
+Players allowed to trigger event
+Player &%d
+Allow computer opponent to &trigger event
+Cancel event after &first visit
+Black Box Properties Contents Page
+&Category
+&Add...
+&Edit...
+&Remove
+Re&move all
+Ar&tifacts
+Creature &type
+Quantity
+&Experience bonus:
+Luck bonus
+&None
++1
++2
++3
+-1
+-2
+-3
+&Spell points bonus:
+&Give
+&Take
+Morale bonus
+&Attack skill:
+&Defense skill:
+&Spell power:
+&Knowledge:
+&Secondary skill
+Mastery
+&Spells
+Resource Quantities Dialog
+&Wood:
+&Mercury:
+&Ore:
+&Sulfur:
+&Crystal:
+G&ems:
+&Gold:
+Give
+Take
+Edit Secondary Skill Dialog
+&Type:
+Mastery
+&Basic
+&Advanced
+&Expert
+Edit Creature Stack Dialog
+&Type:
+&Quantity:
+Edit Timed Event General Page
+Event &name:
+&Message:
+Players to which event applies
+Player &%d
+&Apply event to computer players
+Day of &first occurrence:
+S&ubsequent occurrences:
+Apply event to &human players
+Edit Town Event Buildings Page
+Building &tree:
+&Build
+Edit Town Event Creatures Page
+Generator no.
+Quantity
+Note:  The specified creatures will be added to their respective generator buildings within the town.  If the generator has not been built at that time the creatures cannot be added.
+Edit Artifact Dialog
+&Equip where:
+&Artifact:
+Edit Rumor Dialog
+&Name:
+&Text:
+Find Dialog
+&Find what:
+Find &next
+Find &previous
+Flaggable Properties Dialog
+Owner
+&None
+Player &%d (%s)
+Hero Properties General Page
+Class:
+&Player:
+&Identity:
+&Name:
+&Experience:
+Portrait:
+P&atrol:
+&Customize
+C&ustomize
+Gender:
+&Default (%s)
+male
+female
+&Male
+&Female
+Cu&stomize
+Hero Properties Creatures Page
+Formation
+&Spread
+&Grouped
+Secondary Skills Dialog
+Type
+Mastery
+Skill &%d:
+Hero Properties Artifacts Page
+Has &spellbook
+Ar&tifacts:
+Name
+Location
+&Add...
+&Edit...
+&Remove
+Re&move all
+Map Specs General Page
+Difficulty
+&Easy
+N&ormal
+&Hard
+E&xpert
+&Impossible
+&Two level map
+Map &name:
+&Description:
+&Limit hero experience level to:
+Map version
+The &Restoration of Erathia
+&Armageddon's Blade
+The &Shadow of Death
+Map Specs Player Specs Page
+&Player:
+&Generate hero at main town
+Playability
+&Human
+Computer
+&Behavior:
+Has &main town:
+Allowed alignments
+&Customize
+&Random
+Cast&le
+R&ampart
+&Tower
+&Inferno
+&Necropolis
+&Dungeon
+&Stronghold
+&Fortress
+C&onflux
+Map Specs Teams Page
+&Enable teams
+&Number of teams
+Team assignments
+Team number:
+Player &%d (%s):
+Map Specs Rumors Page
+R&umors:
+&Add...
+&Edit...
+&Remove
+Re&move all
+Map Specs Timed Events Page
+E&vents:
+&Add...
+&Edit...
+&Remove
+Re&move all
+Move &up
+Move &down
+Map Specs Special Victory Condition Page
+Select a special victory condition:
+&None
+Acquire a specific &artifact
+Accumulate &creatures
+Accumulate &resources
+&Upgrade a specific town
+Build the &grail structure
+Defeat a specific &hero
+Capture a specific &town
+Defeat a specific &monster
+&Flag all creature dwellings
+F&lag all mines
+Trans&port a specific artifact
+Also allow normal &victory
+Special victory condition also applies to computer &opponents
+Art&ifact:
+Cr&eature type:
+&Quantity:
+R&esource type:
+To&wn
+Hall l&evel
+Town
+City
+Capitol
+Ca&stle level
+Fort
+Citadel
+Castle
+H&ero:
+Mon&ster:
+&Destination:
+Map Specs Special Loss Condition Page
+Select a special loss condition:
+&None
+Lose a specific &town
+Lose a specific &hero
+Time &expires
+T&own:
+He&ro:
+T&ime limit:
+Monster Properties General Page
+Type:
+Quantity
+&Random
+&Custom:
+&Quantity does not grow
+Disposition
+"C&ompliant
+(will always join hero)"
+"&Friendly
+(likely to join hero, 1–7)"
+"&Aggressive
+(may join hero, 1–10)"
+"&Hostile
+(unlikely to join hero, 4–10)"
+"&Savage
+(will never join hero, 10)"
+Monster &never flees
+Custom &message:
+Monster Properties Treasure Page
+Resources
+&Wood:
+&Mercury:
+&Ore:
+&Sulfur:
+&Crystal:
+G&ems:
+&Gold:
+&Artifact:
+New Map Dialog
+Map size
+&36x36
+&72x72
+&108x108
+1&44x144
+&Two level map
+Map version
+The &Restoration of Erathia
+&Armageddon's Blade
+&Generate random map
+Number of players
+Human/Computer:
+Computer only:
+Number of teams
+Water content
+Random
+None
+Normal
+Islands
+Monster strength
+Random
+Weak
+Normal
+Strong
+The &Shadow of Death
+Options Dialog
+Frequency of decorative terrain tiles
+None
+Lots
+Repaint entire map with this setting
+AutoSave options
+&Enable AutoSave
+&AutoSave every:
+minute(s)
+Resource Properties General Page
+Type:
+Quantity
+&Random
+&Custom:
+"Note:  If the resource type is gold, the quantity entered will be multiplied by 100."
+Custom &message:
+"Note:  If you customize the guardians, you should add a custom message in the form of a yes/no prompt where a yes response would indicate that the user wishes to fight the guardians."
+Scholar Properties Dialog
+Reward
+&Random
+&Primary skill:
+&Secondary skill:
+S&pell:
+Seer's Hut Properties Dialog
+Quest
+&Edit...
+&Has deadline
+&Month:
+&Week:
+&Day:
+&Customize
+Reward
+Ed&it...
+Be %s
+Belong to %s
+Shrine Properties Dialog
+Level %d spell
+&Random
+&Custom:
+Sign Properties Dialog
+&Message:
+Town Properties General Page
+Type:
+&Player:
+&Name:
+&Customize
+Visiting hero
+Name:
+Class:
+&Add...
+&Edit...
+&Remove
+A&lignment:
+Same as %s
+Same as Owner or Random
+Town Properties Garrison Page
+Formation
+&Spread
+&Grouped
+Town Properties Buildings Page
+Has &fort
+Building &tree:
+&Enabled
+&Built
+B&uild all
+&Demolish all
+Town Properties Spells Page
+Spell &level:
+Spells which MUST appear in the mage guild:
+Spells which MAY appear in the mage guild:
+Town Properties Timed Events Page
+E&vents:
+&Add...
+&Edit...
+&Remove
+Re&move all
+Move &up
+Move &down
+Edit Quest Dialog
+Edit Quest
+Select a quest type:
+&None
+Achieve &experience level
+Achieve &primary skill level
+Defeat a specific &hero
+Defeat a specific &monster
+Return with &artifacts
+Return with &creatures
+Return with &resources
+Experience &level:
+A&ttack skill level:
+&Defense skill level:
+&Spell power level:
+&Knowledge level:
+Her&o:
+M&onster:
+Artifacts
+A&dd...
+Ed&it...
+Re&move
+Rem&ove all
+Creature type
+Quantity
+&Wood:
+Merc&ury:
+&Ore:
+&Sulfer:
+Cr&ystal:
+&Gems:
+Go&ld:
+Be a specific hero
+Belong to a specific player
+Class:
+Identity:
+Player:
+Edit Reward Dialog
+Edit Reward
+Select a reward type:
+&None
+&Experience
+Spell p&oints
+&Morale
+&Luck
+&Resource
+&Primary skill
+Secon&dary skill
+&Artifact
+&Spell
+&Creatures
+Experience bonus:
+Spell points bonus:
+Morale bonus:
+Luck bonus:
+Resource type:
+Quantity:
+Primary skill:
+Bonus:
+Secondary skill:
+Mastery:
+Artifact:
+Spell:
+Creature type:
+Hero Placeholder Properties Dialog
+&Owner:
+Identity
+&Any hero:
+&Specific hero:
+&Power rating:
+&Class:
+&Identity:
+Hero Properties Biography Page
+Biography
+&Customize
+Map Specs Artifacts Page
+Enabled &artifacts:
+Map Specs Available Heroes Page
+Available &heroes:
+&Properties…
+Random Generator Properties Dialog
+&Owner:
+Creature level
+M&inimum:
+M&aximum:
+Alignment
+Se&lect one of:
+&Same as:
+&Castle
+&Rampart
+&Tower
+Inf&erno
+&Necropolis
+&Dungeon
+Stron&ghold
+&Fortress
+Conflu&x
+Witch Hut Properties Dialog
+Potential skills:
+Hero Properties Primary Skils Page
+Primary Skills
+&Customize
+Hero Properties Spells Page
+Spells
+&Customize
+Hero Prototype Properties Artifacts Page
+Artifacts
+Hero Prototype Properties Biography Page
+Biography
+Hero Prototype Properties General Page
+General
+May be hired by
+Player &%d
+Hero Prototype Properties Primary Skills Page
+Primary Skills
+Hero Prototype Properties Secondary Skills Page
+Secondary Skills
+Hero Prototype Properties Sheet
+Hero Identity Properties
+Hero Prototype Properties Spells Page
+Spells
+Primary Skills Dialog
+&Attack skill:
+&Defense skill:
+&Spell power:
+&Knowledge:
+Spells Dialog
+&Spells:
+Map Specs Secondary Skills Page
+Secondary Skills
+Available &secondary skills:
+Map Specs Spells Page
+Spells
+Available &spells:
+Main Menu
+&File
+&Edit	
+&View	
+&Tools	
+&Player	
+&Help	
+File Menu	
+&New...	Ctrl+N
+&Open...	Ctrl+O
+&Save	Ctrl+S
+Save &As...	
+&Export Text...	
+&Import Text...	
+Recent File	
+E&xit	
+Edit Menu	
+&Undo	Ctrl+Z
+&Redo	Ctrl+Y
+Cu&t	Ctrl+X
+&Copy	Ctrl+C
+&Paste	Ctrl+V
+&Delete	Del
+&Find...	Ctrl+F
+Find &Next	F3
+Find Pr&evious	Ctrl+F3
+Pr&operties...	Enter
+View Menu	
+Zoom &In	
+Zoom &Out	
+&Underground	Ctrl+U
+&Grid	Ctrl+G
+&Passability	Ctrl+P
+Object &Animation	Ctrl+A
+T&errain Animation	Ctrl+T
+&Toolbar	
+&Mode Bar	
+&Status Bar	
+Tools Menu	
+&Terrain	
+&Rivers	
+R&oads	
+&Erase	
+O&bjects	
+Map &Specifications...	Ctrl+Enter
+&Validate Map	Shift+V
+O&ptions...	
+Obstacles	
+Tools|Terrain Menu	
+&1x1	
+&2x2
+&4x4
+&Area
+&Dirt
+&Sand
+&Grass
+S&now
+Swam&p
+&Rough
+S&ubterranean
+&Lava
+&Water
+R&ock
+Tools|Rivers Menu
+&Clear
+&Icy
+&Muddy
+&Lava
+&Eraser
+Tools|Roads Menu
+&Dirt
+&Gravel
+&Cobblestone
+&Eraser
+Tools|Erase Menu
+&1x1
+&2x2
+&4x4
+&Area
+Tools|Objects Menu
+&Dirt Objects
+&Sand Objects
+&Grass Objects	
+S&now Objects	
+Swam&p Objects	
+&Rough Objects	
+S&ubterranean Objects	
+&Lava Objects	
+&Water Objects	
+&All-Terrain Objects	
+&Towns	
+&Monsters	
+&Heroes	
+Arti&facts	
+Tr&easures	
+Player Menu	
+&None	Ctrl+0
+Player &1 (%s)	Ctrl+1
+Player &2 (%s)	Ctrl+2
+Player &3 (%s)	Ctrl+3
+Player &4 (%s)	Ctrl+4
+Player &5 (%s)	Ctrl+5
+Player &6 (%s)	Ctrl+6
+Player &7 (%s)	Ctrl+7
+Player &8 (%s)	Ctrl+8
+Help Menu	
+&Help Topics	
+&About Map Editor...	
+Context Menu	
+&What's This?	
+&Undo	
+&Redo	
+Cu&t	
+&Copy	
+&Paste
+&Delete
+&Find...
+Find &Next
+Find Pr&evious
+Pr&operties...
+Place O&bstacles
+Tools|Erase Menu
+1x1 Solid Brush
+2x2 Solid Brush
+4x4 Solid Brush
+Solid Area Brush
+1x1 Fuzzy Brush
+2x2 Fuzzy Brush
+4x4 Fuzzy Brush
+Fuzzy Area Brush
+1x1 Solid Eraser	
+2x2 Solid Eraser	
+4x4 Solid Eraser	
+Solid Area Eraser	
+1x1 Fuzzy Eraser	
+2x2 Fuzzy Eraser	
+4x4 Fuzzy Eraser	
+Fuzzy Area Eraser	
+Place &Obstacles	Shift+O

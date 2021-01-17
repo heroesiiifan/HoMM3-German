@@ -1,0 +1,14 @@
+The Nymph Waterfall allows you to recruit Nymphs.
+The Shack allows you to recruit Crew Mates.
+The Frigate allows you to recruit Pirates.
+The Nest allows you to recruit Stormbirds.
+The Tower of the Seas allows you to recruit Sea Witches.
+The Nix Fort allows you to recruit Nix.
+The Maelstrom allows you to recruit Sea Serpents.
+The Upg. Nymph Waterfall allows you to recruit Oceanids.
+The Upg. Shack allows you to recruit Seamen.
+The Upg. Frigate allows you to recruit Corsairs.
+The Upg. Nest allows you to recruit Ayssids.
+The Upg. Tower of the Seas allows you to recruit Sorceresses.
+The Upg. Nix Fort allows you to recruit Nix Warriors.
+The Upg. Maelstrom allows you to recruit Haspids.

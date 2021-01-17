@@ -1,0 +1,375 @@
+Note: Do not change the headings in this file, they are used to detect problems
+gStatDesc
+"{Angriff}
+
+Die Angriffsfähigkeit Eures Helden ist ein Bonus auf die Angriffsfähigkeit aller Truppen, die er befehligt, wodurch diese höheren Schaden im Kampf verursachen."
+"{Verteidigung}
+
+Die Verteidigungsfähigkeit Eures Helden ist ein Bonus auf die Verteidigungsfähigkeit aller Truppen, die er befehligt, wodurch diese im Kampf mehr Schaden widerstehen können."
+"{Zauberkraft}
+
+Die Zauberkraft bestimmt die Dauer oder Stärke eines Zauberspruches."
+"{Wissen}
+
+Das Wissen bestimmt, wieviele Zauberpunkte Euer Held haben kann. Unter normalen Umständen sind die Zauberpunkte auf 10 pro Wissensstufe begrenzt."
+gLuckText
+Verflucht
+Furchtbar
+Schlecht
+Normal
+Gut
+Super
+Unverschämt
+gMoraleText
+Verräterisch
+Furchtbar
+Schlecht
+Normal
+Gut
+Großartig
+Blut!
+gOwnedByColor
+Eigentum des roten Spielers
+Eigentum des blauen Spielers
+Eigentum des braunen Spielers
+Eigentum des grünen Spielers
+Eigentum des orangen Spielers
+Eigentum des violetten Spielers
+Eigentum des türkisen Spielers
+Eigentum des rosa Spielers
+gMonthNames
+Grashüpfer
+Ameisen
+Marienkäfer
+Spinnen
+Schmetterlings
+Hummel
+Heuschrecken
+Regenwurm
+Hornissen
+Käfer
+gWeekNames
+Eichhörnchen
+Kaninchen
+Beutelratten
+Dachs
+Ratten
+Adler
+Wiesel
+Raben
+Mungo
+Hunde
+Erdferkel
+Eidechsen
+Schildkröten
+Igel
+Kondor
+cLuckInfo
+"{Glück}
+
+Das Glück lässt Eure Armeen im Kampf manchmal glückliche Angriffe landen (doppelter Schaden)."
+"{Neutrales Glück}
+
+Mit neutralem Glück landen die Armeen nie einen glücklichen oder unglücklichen Angriff gegen den Gegner."
+"{Pech}
+
+Pech befällt Eure Armeen manchmal im Kampf, wodurch ihre Angriffe nur halben Schaden anrichten."
+"%s
+
+
+{Momentane Glücksmodifikatoren:}"
+"
+Stilles Auge des Drachen +1"
+"
+Kleeblatt des Glücks +1"
+"
+Karten der Prophezeiung +1"
+"
+Silberner Glücksvogel +1"
+"
+Schwanenteich besucht +2"
+"
+Götze des Glücks besucht +1"
+"
+Quelle des Glücks %s"
+"
+Pyramide besucht -2"
+"
+Feenring besucht +1"
+"
+Meerjungfrauen besucht +1"
+"
+Versammlungsfahne besucht +1"
+"
+Glück einfach +1"
+"
+Glück verbessert +2"
+"
+Glück Experte +3"
+"
+Keine"
+"
+-%d Vorübergehend bis zum nächsten Kampf"
+"
++%d Vorübergehend bis zum nächsten Kampf"
+"
+Anhänger des Mutes +3"
+"
+Glück wirkt nicht auf verfluchtem Boden"
+"
+%s unterdrückt alles Glück"
+"
+Kreaturen aus einer neutralen Stadt auf Kleefeld +2"
+cMoraleInfo
+"{Gute Moral}
+
+Gute Moral kann Euren Armeen zusätzliche Angriffe im Kampf gewähren."
+"{Neutrale Moral}
+
+Neutrale Moral bedeutet, dass Eure Armeen weder mit Zusatzattacken gesegnet werden noch im Kampf vor Angst erstarren."
+"{schlechte Moral}
+
+Schlechte Moral kann dazu führen, dass Eure Armeen im Kampf vor Angst erstarren."
+"%s
+
+
+{Momentane Moralmodifikatoren:}"
+"
+Stilles Auge des Drachen +1"
+"
+Abzeichen der Courage +1"
+"
+Wappen der Tapferkeit +1"
+"
+Skulptur der Ritterlichkeit +1"
+"
+Götze des Glücks besucht +1"
+"
+Boje besucht +1"
+"
+Oase besucht +1"
+"
+Tempel besucht +1"
+"
+Tempel Sonntags besucht +2"
+"
+Grab besucht -1"
+"
+Schiffswrack besucht -1"
+"
+Wasserloch besucht +1"
+"
+Verlassenes Schiff besucht -1"
+"
+Versammlungsfahne besucht +1"
+"
+Jungbrunnen besucht +1"
+"
+Grab des Kriegers besucht -3"
+"
+Führung einfach +1"
+"
+Führung verbessert +2"
+"
+Führung Experte +3"
+"
+Keine"
+"
+-%d Vorübergehend bis zum nächsten Kampf"
+"
++%d Vorübergehend bis zum nächsten Kampf"
+"
+Anhänger des Mutes +3"
+"
+Moral hat auf verfluchtem Boden keine Wirkung"
+"
+Von Moral nicht betroffen"
+"
+Truppen aus %d Gattungen %d"
+"
+Alle Truppen einer Gattung +1"
+"
+Untote in der Gruppe -1"
+"
+%s in der Gruppe +1"
+"
+Gegenüber %s -1"
+"
+%s unterdrückt gute Moral"
+"
+%s haben immer positive Moral"
+"
+Zaubersprüche %+d"
+"
+auf heimatlichem Gelände +1"
+"
+Kreaturen aus einer guten Stadt auf Heiligem Boden +1"
+"
+Kreaturen aus einer bösen Stadt auf Heiligem Boden -1"
+"
+Kreaturen aus einer bösen Stadt im Teufelsnebel +1"
+"
+Kreaturen aus einer guten Stadt im Teufelsnebel -1"
+cNewTurn
+%s, Ihr habt nur %d Tage übrig um eine Stadt zu erobern oder Ihr werdet aus dem Land verbannt.
+%s, dies ist Euer letzter Tag zur Eroberung einer Stadt oder Ihr werdet aus dem Land verbannt.
+"Astrologen verkünden den %s-Monat.
+
+Die Bevölkerung aller Behausungen nimmt zu."
+"Astrologen verkünden den %s-Monat.
+
+%s Bevölkerung verdoppelt sich!
+
+Die Bevölkerung aller Behausungen nimmt zu."
+"Astrologen verkünden einen PEST-Monat
+
+Alle Bevölkerungen werden halbiert."
+"Die Astrologen verkünden die %s-Woche.
+
+Die Bevölkerung aller Behausungen nimmt zu."
+"Die Astrologen verkünden die %s-Woche.
+
+%s-Wachstum +5.
+
+Die Bevölkerung aller Behausungen nimmt zu."
+"Die Astrologen verkünden die %s-Woche.
+
+%s Wachstum +%d.
+%s Wachstum +%d.
+
+Die Bevölkerung aller Behausungen nimmt zu."
+cMapSize
+Klein
+Mittel
+Groß
+Extragroß
+cDifficulty
+Leicht
+Normal
+Schwer
+Experte
+Unmöglich
+cDirections
+nördlich
+nordöstlich
+östlich
+südöstlich
+südlich
+südwestlich
+westlich
+nordwestlich
+zentral
+cRumourTerrainDescriptions
+im Dreck.
+unter einer Sanddüne.
+auf einer grünen Ebene.
+unter einer Schneewehe.
+in einem trüben Sumpf.
+im sonnenverbrannten Ödland.
+in einer unterirdischen Höhle.
+begraben unter unfruchtbarer Lava.
+in den Tiefen des Ozeans.
+unter einem Stein.
+cPersonality
+Krieger
+Baumeister
+Entdecker
+Mensch
+gArmySizeNames
+1-4
+Wenige (1-4)
+wenige (1-4)
+5-9
+Einige (5-9)
+einige (5-9)
+10-19
+Ein Rudel (10-19)
+ein Rudel (10-19)
+20-49
+Viele (20-49)
+viele (20-49)
+50-99
+Eine Horde (50-99)
+eine Horde (50-99)
+>100
+Ein Haufen (100-249)
+ein Haufen (100-249)
+>250
+Ein Trupp (250-499)
+ein Trupp (250-499)
+>500
+Armee... (500-999)
+Armee (500-999)
+1000+
+Eine Legion (1000+)
+eine Legion (1000+)
+const_wise_tree_price_text
+ (+1 Stufe)
+ (+1 Stufe für 2000 Gold)
+ (+1 Stufe für 10 Edelsteine)
+HumanCPU
+"Mensch
+oder CPU"
+Mensch
+CPU
+HandiText
+Kein Handicap
+Leichtes Handicap
+Schweres Handicap
+AGRText
+Artefakt
+Gold
+Ressource
+gTownTypeNames
+Neutral
+Schloss
+Schutzwall
+Turm
+Inferno
+Nekropolis
+Dungeon
+Burg
+Festung
+Konflux
+NewLoadSave
+Ein Spielszenario auswählen
+Ein gespeichertes Spiel laden
+Das laufende Spiel speichern
+Army Speed Names
+Unbeweglich
+Super-Langsam
+Ultra-Langsam
+Sehr Langsam
+Extra-langsam
+Langsam
+Flink
+Extra-Flink
+Sehr Flink
+Ultra-Flink
+Super-Flink
+Schnell
+Extra-Schnell
+Sehr Schnell
+Ultra-Schnell
+Super-Schnell
+Rasant
+Extra-Rasant
+Sehr Rasant
+Ultra-Rasant
+Super-Rasant
+Town Size Names
+Dorf
+Kreis
+Stadt
+Kapitol
+Moat Names
+Graben
+Dornensträucher
+Landminen
+Lava
+Knochenfeld
+Kochendes Öl
+Hölzerne Spieße
+Kochendes Teer
+Graben
+Insert all data before this line. Do not alter or delete this line.

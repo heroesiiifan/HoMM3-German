@@ -1,0 +1,21 @@
+Battle machine. Shoots. Attacks siege walls.
+Shoots. No melee penalty. No enemy retaliation. Accurate Shot.
+ 
+Teleportation. Immune to ice.
+Teleportation. Immune to ice.
+ 
+ 
+Shoots. No melee penalty.
+Shoots. No melee penalty. No enemy retaliation.
+Flies.
+Flies. Ferocity.
+Shoots. Casts after a shot (Basic level).
+Shoots. Casts after a shot (Advanced level).
+Ignores 30% of enemy's attack skill.
+Ignores 60% of enemy's attack skill.
+Poisonous.
+Poisonous. Revenge.
+Casts Mirth.
+Flies. Mind spell immunity. Unlimited retaliations. Hypnotize.
+Doubles friendly unit Luck chance. Casts Fortune.
+Golem. Damage from spells reduced by 80%.

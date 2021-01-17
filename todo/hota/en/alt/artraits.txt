@@ -1,0 +1,651 @@
+		Hero Slots																				
+Name	Cost	Spell Book	War Machine 4	War Machine 3	War Machine 2	War Machine 1	Misc 5	Misc 4	Misc 3	Misc 2	Misc 1	Feet	Left Ring	Right Ring	Torso	Left Hand	Right Hand	Neck	Shoulders	Head	"Class (S,T,N,J,R)"	Description
+Spell Book	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Spell Book}
+
+Left-click on the spell book to view your spells."
+Spell Scroll	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Spell Scroll}
+
+This scroll contains the [spell name] spell which is added into your spell book for as long as you carry the scroll."
+The Grail	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{The Grail}
+
+Carry the Grail to the city of your choice and the populace there will build a fantastic structure which will provide a tremendous advantage to the city's owner."
+Catapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Catapult}
+
+Use this war machine to target your enemy's fortifications in combat."
+Ballista	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Ballista}
+
+Use this war machine to target your enemy's troops in combat."
+Ammo Cart	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Ammo Cart}
+
+The Ammo Cart ensures that your missile troops will never run out of ammunition in combat."
+First Aid Tent	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{First Aid Tent}
+
+The First Aid Tent provides healing to your troops during each round of combat."
+Centaurs Axe	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Centaur's Axe}
+
+This right handed weapon increases your Attack skill by +2."
+Blackshard of the Dead Knight	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Blackshard of the Dead Knight}
+
+This right handed weapon increases your Attack skill by +3."
+Greater Gnoll's Flail	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Greater Gnoll's Flail}
+
+This right handed weapon increases your Attack skill by +4."
+Ogre's Club of Havoc	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Ogre's Club of Havoc}
+
+This right handed weapon increases your Attack skill by +5."
+Sword of Hellfire	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Sword of Hellfire}
+
+This right handed weapon increases your Attack skill by +6."
+Titan's Gladius	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Titan's Gladius}
+
+Held with the right hand, this massive relic increases your Attack skill by +12, but reduces your Defense skill by -3."
+Shield of the Dwarven Lords	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Shield of the Dwarven Lords}
+
+This left handed item increases your Defense skill by +2."
+Shield of the Yawning Dead	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Shield of the Yawning Dead}
+
+This left handed item increases your Defense skill by +3."
+Buckler of the Gnoll King	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Buckler of the Gnoll King}
+
+This left handed item increases your Defense skill by +4."
+Targ of the Rampaging Ogre	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Targ of the Rampaging Ogre}
+
+This left handed item increases your Defense skill by +5."
+Shield of the Damned	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Shield of the Damned}
+
+This left handed item increases your Defense skill by +6."
+Sentinel's Shield	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Sentinel's Shield}
+
+Held with the left hand, this relic increases your Defense skill by +12, but reduces your Attack skill by -3."
+Helm of the Alabaster Unicorn	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Helm of the Alabaster Unicorn}
+
+Worn on the head, this item increases your Knowledge skill by +1."
+Skull Helmet	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Skull Helmet}
+
+Worn on the head, this item increases your Knowledge skill by +2."
+Helm of Chaos	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Helm of Chaos}
+
+Worn on the head, this item increases your Knowledge skill by +3."
+Crown of the Supreme Magi	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Crown of the Supreme Magi}
+
+Worn on the head, this item increases your Knowledge skill by +4."
+Hellstorm Helmet	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Hellstorm Helmet}
+
+Worn on the head, this item increases your Knowledge skill by +5."
+Thunder Helmet	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Thunder Helmet}
+
+When worn, this relic increases your Knowledge skill by +10, but reduces your Power skill by -2."
+Breastplate of Petrified Wood	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Breastplate of Petrified Wood}
+
+Worn on the torso, this item increases your Power skill by +1."
+Rib Cage	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Rib Cage}
+
+Worn on the torso, this item increases your Power skill by +2."
+Scales of the Greater Basilisk	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Scales of the Greater Basilisk}
+
+Worn on the torso, this item increases your Power skill by +3."
+Tunic of the Cyclops King	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Tunic of the Cyclops King}
+
+Worn on the torso, this item increases your Power skill by +4."
+Breastplate of Brimstone	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Breastplate of Brimstone}
+
+Worn on the torso, this item increases your Power skill by +5."
+Titan's Cuirass	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Titan's Cuirass}
+
+When worn, this massive relic increases your Power skill by +10, but reduces your Knowledge skill by -2."
+Armor of Wonder	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Armor of Wonder}
+
+Worn on the torso, the Armor of Wonder increases all four primary skills by +1."
+Sandals of the Saint	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Sandals of the Saint}
+
+Worn on the feet, the Sandals of the Saint increase all four primary skills by +2."
+Celestial Necklace of Bliss	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Celestial Necklace of Bliss}
+
+Worn about the neck, the Celestial Necklace of Bliss increases all four primary skills by +3."
+Lion's Shield of Courage	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Lion's Shield of Courage}
+
+Held with the left hand, the Lion's Shield of Courage increases all four primary skills by +4."
+Sword of Judgement	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Sword of Judgement}
+
+Held with the right hand, the Sword of Judgement increases all four primary skills by +5."
+Helm of Heavenly Enlightenment	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Helm of Heavenly Enlightenment}
+
+Worn on the head, the Helm of Heavenly Enlightenment increases all four primary skills by +6."
+Quiet Eye of the Dragon	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Quiet Eye of the Dragon}
+
+Worn on a finger, this item increases your Attack and Defense skills by +1."
+Red Dragon Flame Tongue	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Red Dragon Flame Tongue}
+
+Held with the right hand, this item increases your Attack and Defense skills by +2."
+Dragon Scale Shield	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Dragon Scale Shield}
+
+Held with the left hand, this item increases your Attack and Defense skills by +3."
+Dragon Scale Armor	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Dragon Scale Armor}
+
+Worn on a torso, this item increases your Attack and Defense skills by +4."
+Dragonbone Greaves	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Dragonbone Greaves}
+
+Worn on the feet, this item increases your Knowledge and Power skills by +1."
+Dragon Wing Tabard	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Dragon Wing Tabard}
+
+Worn on the shoulders, this item increases your Knowledge and Power skills by +2."
+Necklace of Dragonteeth	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Necklace of Dragonteeth}
+
+Worn about the neck, this item increases your Knowledge and Power skills by +3."
+Crown of Dragontooth	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Crown of Dragontooth}
+
+Worn on the head, this item increases your Knowledge and Power skills by +4."
+Still Eye of the Dragon	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Still Eye of the Dragon}
+
+Worn on the finger, this item increases your Luck and Morale by +1."
+Clover of Fortune	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Clover of Fortune}
+
+The Clover of Fortune increases your Luck by +1."
+Cards of Prophecy	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Cards of Prophecy}
+
+The Cards of Prophecy increase your Luck by +1."
+Ladybird of Luck	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Ladybird of Luck}
+
+The Ladybird of Luck increases your Luck by +1."
+Badge of Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Badge of Courage}
+
+The Badge of Courage increases your Morale by +1."
+Crest of Valor	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Crest of Valor}
+
+The Crest of Valor increases your Morale by +1."
+Glyph of Gallantry	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Glyph of Gallantry}
+
+The Glyph of Gallantry increases your Morale by +1."
+Speculum	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Speculum}
+
+The Speculum increases your Scouting radius by +1."
+Spyglass	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spyglass}
+
+The Spyglass increases your Scouting radius by +1."
+Amulet of the Undertaker	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulet of the Undertaker}
+
+Worn about the neck, this amulet increases your Necromancy skill by 5%."
+Vampire's Cowl	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Vampire's Cowl}
+
+Worn about the shoulders, this cowl increases your Necromancy skill by 10%."
+Dead Man's Boots	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Dead Man's Boots}
+
+Worn on the feet, these boots increase your Necromancy skill by 15%."
+Garniture of Interference	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Garniture of Interference}
+
+Worn about the neck, this item increases your Magic Resistance by 5%."
+Surcoat of Counterpoise	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Surcoat of Counterpoise}
+
+Worn about the shoulders, this item increases your Magic Resistance by 10%."
+Boots of Polarity	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Boots of Polarity}
+
+Worn on the feet, these boots increase your Magic Resistance by 15%."
+Bow of Elven Cherrywood	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Bow of Elven Cherrywood}
+
+This bow increases your Archery skill by 5%."
+Bowstring of the Unicorn's Mane	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bowstring of the Unicorn's Mane}
+
+This bowstring increases your Archery skill by 10%."
+Angel Feather Arrows	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Angel Feather Arrows}
+
+These arrows increase your Archery skill by 15%."
+Bird of Perception	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Bird of Perception}
+
+This figurine increases your Eagle Eye skill by 5%."
+Stoic Watchman	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Stoic Watchman}
+
+This figurine increases your Eagle Eye skill by 10%."
+Emblem of Cognizance	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Emblem of Cognizance}
+
+This item increases your Eagle Eye skill by 15%."
+Statesman's Medal	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Statesman's Medal}
+
+Worn about the neck, the Statesman's Medal reduces the cost of surrendering."
+Diplomat's Ring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Diplomat's Ring}
+
+Worn on the finger, the Diplomat's Ring reduces the cost of surrendering."
+Ambassador's Sash	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Ambassador's Sash}
+
+Worn about the shoulders, the Ambassador's Sash reduces the cost of surrendering."
+Ring of the Wayfarer	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring of the Wayfarer}
+
+When placed on the finger, this ring increases the combat speed of all your units by +1."
+Equestrian's Gloves	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Equestrian's Gloves}
+
+Worn on the hands, these gloves increase your hero's movement rate over land."
+Necklace of Ocean Guidance	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Necklace of Ocean Guidance}
+
+Worn about the neck, this necklace increases your hero's movement rate at sea."
+Angel Wings	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Angel Wings}
+
+Worn about the shoulders, these wings allow you to fly."
+Charm of Mana	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Charm of Mana}
+
+This charm helps you recover 1 extra spell point per day."
+Talisman of Mana	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Talisman of Mana}
+
+This talisman helps you recover 2 extra spell points per day."
+Mystic Orb of Mana	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Mystic Orb of Mana}
+
+This orb helps you recover 3 extra spell points per day."
+Collar of Conjuring	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Collar of Conjuring}
+
+Worn about the neck, this item increases the duration of all your spells by 1."
+Ring of Conjuring	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring of Conjuring}
+
+Worn on a finger, this item increases the duration of all your spells by 2."
+Cape of Conjuring	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Cape of Conjuring}
+
+Worn about the shoulders, this item increases the duration of all your spells by 3."
+Orb of the Firmament	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Orb of the Firmament}
+
+This powerful orb causes your Air spells to inflict an additional 50% damage."
+Orb of Silt	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Orb of Silt}
+
+This powerful orb causes your Earth spells to inflict an additional 50% damage."
+Orb of Tempestuous Fire	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Orb of Tempestuous Fire}
+
+This powerful orb causes your Fire spells to inflict an additional 50% damage."
+Orb of Driving Rain	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Orb of Driving Rain}
+
+This powerful orb causes your Water spells to inflict an additional 50% damage."
+Recanter's Cloak	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Recanter's Cloak}
+
+While wearing this cloak, neither you nor your opponent will be able to cast level 3 or higher spells during combat."
+Spirit of Oppression	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spirit of Oppression}
+
+This item negates all Morale bonuses during combat for both you and your opponent."
+Hourglass of the Evil Hour	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Hourglass of the Evil Hour}
+
+This item negates all Luck bonuses during combat for both you and your opponent."
+Tome of Fire Magic	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Tome of Fire Magic}
+
+This heavy book contains all spells in the school of Fire Magic.  It must be equipped for the spells to be available."
+Tome of Air Magic	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Tome of Air Magic}
+
+This heavy book contains all spells in the school of Air Magic.  It must be equipped for the spells to be available."
+Tome of Water Magic	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Tome of Water Magic}
+
+This heavy book contains all spells in the school of Water Magic.  It must be equipped for the spells to be available."
+Tome of Earth Magic	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Tome of Earth Magic}
+
+This heavy book contains all spells in the school of Earth Magic.  It must be equipped for the spells to be available."
+Boots of Levitation	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Boots of Levitation}
+
+When worn, these boots allow you to walk across water."
+Golden Bow	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Golden Bow}
+
+When wielded, the Golden Bow allows your troops to shoot through any obstacle or at any range without penalty."
+Sphere of Permanence	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sphere of Permanence}
+
+Wielding this sphere renders your units immune to the Dispel Magic spell."
+Orb of Vulnerability	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Orb of Vulnerability}
+
+During combat, this orb negates the natural magic resistance of all creatures on the battlefield."
+Ring of Vitality	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring of Vitality}
+
+This item increases the health of all your units by +1."
+Ring of Life	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Ring of Life}
+
+This item increases the health of all your units by +1."
+Vial of Lifeblood	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Vial of Lifeblood}
+
+This item increases the health of all your units by +2."
+Necklace of Swiftness	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Necklace of Swiftness}
+
+Worn about the neck, this necklace increases the combat speed of all your units by +1."
+Boots of Speed	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Boots of Speed}
+
+Worn on the feet, these boots increase your hero's movement rate over land."
+Cape of Velocity	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Cape of Velocity}
+
+Worn about the shoulders, this cape increases the combat speed of all your units by +2."
+Pendant of Dispassion	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Dispassion}
+
+Wearing this item renders your units immune to the Berserk spell."
+Pendant of Second Sight	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pendant of Second Sight}
+
+Wearing this item renders your units immune to the Blind spell."
+Pendant of Holiness	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Holiness}
+
+Wearing this item renders your units immune to the Curse spell."
+Pendant of Life	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Life}
+
+Wearing this item renders your units immune to the Death Ripple spell."
+Pendant of Death	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Death}
+
+Wearing this item renders your units immune to the Destroy Undead spell."
+Pendant of Free Will	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Free Will}
+
+Wearing this item renders your units immune to the Hypnotize spell."
+Pendant of Negativity	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pendant of Negativity}
+
+Wearing this item renders your units immune to the Lightning Bolt and Chain Lightning spells."
+Pendant of Total Recall	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Pendant of Total Recall}
+
+Wearing this item renders your units immune to the Forgetfulness spell."
+Pendant of Courage	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Pendant of Courage}
+
+When worn, this item bestows +3 Luck and Morale to your hero's troops."
+Everflowing Crystal Cloak	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Everflowing Crystal Cloak}
+
+When worn, this cloak increases your Crystal production by +1 per day."
+Ring of Infinite Gems	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring of Infinite Gems}
+
+When worn, this ring increases your Gem production by +1 per day."
+Everpouring Vial of Mercury	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Everpouring Vial of Mercury}
+
+When equipped, this vial increases your Mercury production by +1 per day."
+Inexhaustible Cart of Ore	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Inexhaustible Cart of Ore}
+
+When equipped, this cart provides you with an additional +1 Ore per day."
+Eversmoking Ring of Sulfur	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Eversmoking Ring of Sulfur}
+
+When worn, this ring increases your Sulfur production by +1 per day."
+Inexhaustible Cart of Lumber	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Inexhaustible Cart of Lumber}
+
+When equipped, this cart provides you with an additional +1 Wood per day."
+Endless Sack of Gold	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Endless Sack of Gold}
+
+When equipped, the Endless Sack of Gold increases your income by 1000 gold per day."
+Endless Bag of Gold	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endless Bag of Gold}
+
+When equipped, the Endless Bag of Gold increases your income by 750 gold per day."
+Endless Purse of Gold	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endless Purse of Gold}
+
+When equipped, the Endless Purse of Gold increases your income by 500 gold per day."
+Legs of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Legs of Legion}
+
+This item, when equipped by a hero in a town, increases the growth of your 2nd level units (in that town) by 5 per week."
+Loins of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Loins of Legion}
+
+This item, when equipped by a hero in a town, increases the growth of your 3rd level units (in that town) by 4 per week."
+Torso of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Torso of Legion}
+
+This item, when equipped by a hero in a town, increases the growth of your 4th level units (in that town) by 3 per week."
+Arms of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Arms of Legion}
+
+This item, when equipped by a hero in a town, increases the growth of your 5th level units (in that town) by 2 per week."
+Head of Legion	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Head of Legion}
+
+This item, when equipped by a hero in a town, increases the growth of your 6th level units (in that town) by 1 per week."
+Sea Captain's Hat	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Sea Captain's Hat}
+
+When worn, this hat increases your movement at sea, allows you to summon and destroy boats, and protects you from whirlpools."
+Spellbinder's Hat	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Spellbinder's Hat}
+
+When worn, this hat allows you to cast all 5th level spells."
+Shackles of War	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Shackles of War}
+
+When these shackles are wielded in combat, neither you nor your opponent may retreat or surrender."
+Orb of Inhibition	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Orb of Inhibition}
+
+This powerful orb prevents all spell casting in combat."
+Vial of Dragon Blood	20000						x	x	x	x	x										R	"{Vial of Dragon Blood}
+
+All dragons under your command receive +5 to their attack and +5 to defense."
+Armageddon's Blade	50000																x				R	"{Armageddon's Blade}
+
++ 3 Attack. + 3 Defense. + 6 Knowledge. + 3 Power. Places Expert Armageddon Spell in your hero's spell book. All allied creatures become immune to Armageddon."
+Angelic Alliance																	x				R	"{Angelic Alliance}
+
+Allows Rampart, Tower, Fortress, Stronghold and Castle creatures to be mixed without a morale penalty, for the player.  Casts Expert Prayer at the start of combat."
+Cloak of the Undead King																			x		R	"{Cloak of the Undead King}
+
+30% of battlefield dead are resurrected as Skeletons.  If hero already has the Necromancy skill then the percentages are added to the skill and the level of skill determines what type is resurrected.  Basic: Zombies
+Advanced: Wights
+Expert:  Liches"
+Elixir of Life							x	x	x	x	x										R	"{Elixir of Life}
+
+All creatures get a 25% health bonus and gain the regeneration ability.  Does not work on Undead or unliving creatures"
+Armor of the Damned															x						R	"{Armor of the Damned}
+
+All opponents have these spells effective on them for fifty turns: Slow, Curse, Weakness, and Misfortune."
+Statue of Legion							x	x	x	x	x										R	"{Statue of Legion}
+
+All creature production increases by 50%, in all towns based off of the castle creature generation level, does not include flagged structures or other like bonuses."
+Power of the Dragon Father															x						R	"{Power of the Dragon Father}
+
++6 to all primary skills, all troops are immune to 1-4th level spells."
+Titan's Thunder																	x				R	"{Titan's Thunder}
+
+Hero gains the ability to cast Lightning Bolt for 600 points of damage, does not cost any spell points, adds a spell book into their inventory (permanently)."
+Admiral's Hat																				x	R	"{Admiral's Hat}
+
+No boarding or unboarding ship penalty.  Converts movement points between the Hero's Land and Water movement."
+Bow of the Sharpshooter							x	x	x	x	x						 				R	"{Bow of the Sharpshooter}
+
+Ranged shooters may fire projectiles while adjacent to an enemy creature.  No archery penalty for range or obstacle"
+Wizard's Well							x	x	x	x	x										R	"{Wizard's Well}
+
+Regenerates all spell points each day"
+Ring of the Magi													x	x							R	"{Ring of the Magi}
+
+Add 50 rounds to spell duration."
+Cornucopia							x	x	x	x	x										R	"{Cornucopia}
+
+Generates 4 of each precious resource, each day."
+Diplomat's Suit																			x		R	"{Diplomat's Suit}
+
+This is a kick-ass artifact."
+Mired in Neutrality															x						R	"{Mired in Neutrality}
+
+This is a kick-ass artifact."
+Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}
+
+This is a kick-ass artifact."
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						

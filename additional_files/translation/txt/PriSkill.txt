@@ -1,0 +1,4 @@
+Angriff
+Verteidigung
+Zauberkraft
+Wissen

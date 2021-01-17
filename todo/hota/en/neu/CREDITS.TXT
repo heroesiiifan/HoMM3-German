@@ -1,0 +1,398 @@
+Credits
+"{HotA Crew:}
+{(in alphabetical} {order)}
+
+{Agar}
+3D modeler, concept artist
+{Alex-ander}
+3D modeler, artist,
+project concept
+{baratorch}
+programmer,
+map editor, online lobby,
+simultaneous turns,
+HD-mod compatibility
+{Dmitriy Gravchenko}
+3D modeler
+{Docent Picolan}
+idea author and project 
+coordinator, lead artist,
+public relations,
+music and sounds
+{Don_ko}
+3D modeler, artist,
+maps
+{DrSlash}
+3D modeler, artist,
+lobby moderation
+{Fatalist}
+maps, campaign maps,
+translations, editing
+{fiorin}
+3D modeler
+{gotthit}
+programmer
+{Gruk}
+programmer,
+template editor
+{Igor Kudra}
+lead tester
+{Klejnot Nilu}
+lobby moderation
+{Mantiss}
+testing, texts,
+public relations
+{nik312}
+balancing, translations, 
+testing, public relations
+{nosferatu}
+artist
+{parovozovoz}
+maps, testing,
+lobby moderation
+{Qed'Maen}
+documentation, translations
+{Sav}
+co-coordinator,
+lead programmer,
+documantation, balancing,
+public relations
+{Tevye}
+lead editor, translations
+{Vade Parvis}
+artist, ideas,
+public relations
+
+{Inactive} {members:} 
+
+{Axolotl}
+3D modeler
+{FCst1}
+testing
+{hippocamus}
+honorary member, testing,
+lobby moderation
+{Serega-JET}
+editing, testing
+{Spartak}
+testing, ideas
+{Yulyasha}
+organization of information,
+lobby moderation
+
+{Special thanks:}
+
+{DF2 Forum}
+and its administratin
+{LivingAnarchy}
+for Facebook page managing,
+tournament and testing
+organisation
+{Erolast}
+website development
+{WiZarDX_576} and {igrik}
+for help with code
+{SaintDark}
+for help with launcher
+{Sar} and {d0s}
+for help with Cove concept
+{sergroj}
+for programming tools and
+for help with map editor
+{AKuHAK}
+for text editing
+{Denis Goncharuk}
+web hosting
+{olexn}
+for help with installer
+{Stanislav Gordinskii}
+for translations
+{IQUARE}
+for help with map
+and Campaign revision
+{Nestor}
+for Campaign testing
+and revision
+{Orzie}
+for help with sound effects
+
+Map and template makers:
+{Ivan Vorontsov}, {Riug74},
+{Chapay}, {Manolo}, {molski},
+{koget}, {Veracruz}, {Begrezen},
+{Wic}, {Ignus}
+
+Testers:
+{Machberet}, {Ignus},
+{maestro}, {Ravciozo},
+{Chleb}, {Szopa666}
+
+and the entire fellowship
+of Heroes fans for active
+participation and help
+
+{Former} {members:}
+
+{Michanic}
+programmer
+{D'yakon}
+programmer
+{pokrik1}
+artist
+{Silver}
+scenario
+{VSeleznv}
+programmer
+{you}
+programmer
+{gamdev}
+testing
+{<Fenix>}
+maps
+{VizitOr}
+programmer
+{SAG}
+balancing
+{feanor}
+programmer
+{Zenofex}
+testing, editing
+{exx}
+3D modeler
+{Black Phantom}
+ingame resoures
+{Entuser}
+programmer,
+HotA utilities
+{Astaroth}
+artist
+{Vaflya}
+balancing, testing
+{Hapuga}
+translator,
+editing
+{Wic}
+balancing, testing,
+random map templates
+{Mugais}
+campaign scenarios, maps,
+texts
+{potmdehex}
+programmer
+{deferatto}
+3D modeler, artist,
+maps, testing
+{Quick-Sighted Dog}
+3D modeler
+{Arseny}
+balancing, maps
+{ArtisanDen}
+artist
+{borisloff}
+3D modeler
+{Darkmoon}
+translations
+{Kastore}
+public relations, campaign
+{Maestro}
+videos
+{major}
+programmer
+{Morn}
+hero portraits
+{Rusha}
+3D modeler
+{Starseeker}
+editing, testing, translations
+{XEL}
+setting history, scenario
+
+
+
+
+{New World Computing:}
+
+
+{Created By:}
+Jon Van Caneghem
+
+
+
+{Executive Producer:}
+Mark Caldwell
+
+
+
+{Producer:}
+Jeff Blattner
+
+
+
+{Director:}
+David Mullich
+
+
+{Associate Director:}
+Christian Vanover
+
+
+{Designers:}
+Jennifer Bullard
+Gregory Fulton
+Jon Van Caneghem
+
+
+{Lead Programmers:}
+John Bolton
+David Richey
+
+
+{Programmers:}
+Mark Caldwell
+John Krause
+Jeff Leggett
+George Ruof
+Gus Smedstad
+
+
+{Lead Artists:}
+Joseph McGuffin
+Phelan Sykes
+
+
+{Artists:}
+George Almond
+Jeff Bigman
+Fernando Castillo
+Rebecca Christel
+Brian DeMetz
+John E. Gibson IV
+Louis Henderson
+Edward Hudson
+Tracy Iwata
+Steve Jasper
+Brian Kemper
+April Lee
+Bonita Long-Hemsath
+Adam McCarthy
+Kurt McKeever
+Nowa Morisaku
+Kenneth Thomson, Jr.
+Tony Rizo
+Bill Stoneham
+Julia Ulano
+Steve Wasaff
+Scott White
+Charles Zilm
+
+
+{Asset Coordinator:}
+Jack Russell
+
+
+{Level Designers:}
+Benjamin Bent
+Dave Botan
+Ryan Den
+Walter Johnson
+Marcus Pregent
+Christian Vanover
+Lisa Whitman
+Mike Wolf
+
+
+{Music Producer:}
+Rob King
+
+
+{Town Themes:}
+Paul Romero
+
+
+{Music:}
+Paul Romero
+Rob King
+Steve Baca
+
+
+{Sound Design:}
+Rob King
+Steve Baca
+Chuck Russom
+
+
+{Voice Production:}
+Rob King
+Green Street Studios
+South Pasadena, Ca.
+
+
+{Voice Talent:}
+Catherine Battistone
+Aric Devone
+Mari Devon
+Richard Epcar
+Danny Fehsenfeld
+Lex Lang
+Wendee Lee
+Laird Macintosh
+Sy Prescott
+Mike Sorich
+Dan Woren
+
+
+{Lead Tester:}
+Karl Drown
+
+
+{Testers:}
+Jesse Anacleto
+Mary Ellen Babson
+Devin Chapman
+William Choulos
+John Cloud
+Gavan Cook
+Karl Fischer
+Ernie Gallardo
+Benjamin Goldhammer
+Rich Holmes
+Yoshiyuki Maeda
+Lance Page
+Bryce Verdier
+Eric Williamson
+Sean Wyman
+Thomas Zeliff
+
+
+{Special Thanks:}
+Cyberlore Studios
+Hypnotix
+Equinoxe
+Rad Game Tools
+Sonic Foundry
+Sound Forge
+Soundscape
+Riki Corredera
+John Machin
+Scott McDaniel
+Michele Mitchel
+John Slowsky
+
+
+{Webmaster:}
+Joshua “Guthwulf” Milligan
+
+
+{Web Artist:}
+Aaron Castro
+
+
+{Web Programmers:}
+Robert Belknap
+Peter Hillier
+
+
+{Visit us on the Web:}
+www.3do.com
+"
+Copyright 2000, The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other Countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company.

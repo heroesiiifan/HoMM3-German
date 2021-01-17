@@ -1,0 +1,7 @@
+# Names
+# 0 (212, 1000)
+Quest Gate
+# 1 (36, 1000–1003)
+Combat place
+# 2 (212, 1001)
+Grave

@@ -1,0 +1,169 @@
+Note: Do not change the headings in this file, they are used to detect problems
+General
+Heroes of Might and Magic® III Kampagnen-Editor
+© 2000 The 3DO Company. All Rights Reserved. 3DO, Heroes, Heroes of Might and Magic, New World Computing, The Shadow of Death, and their respective logos are trademarks and/or service marks of The 3DO Company in the U.S. and other countries. All other trademarks belong to their respective owners. New World Computing is a division of The 3DO Company.
+Version %s
+Heroes 3 Kampagnen-Dateien (*.h3c)
+Heroes 3 Kampagne
+Ihre Anzeige muss auf mindestens 16 Bit Farbtiefe eingestellt sein, um den Kampagnen-Editor zu starten!
+Debug Build
+Release Build
+OK
+Über Kampagnen-Editor
+Spieler %d (%s)
+Zufällige Stadt
+"""%s"" ist ungültig oder beschädigt.  Import fehlgeschlagen."
+"""%s"" ist unspielbar.  Import fehlgeschlagen."
+"""%s"" hat eine ungültige Format-Version.  Import fehlgeschlagen."
+"""%s"" hat eine alte Format-Version.  Import fehlgeschlagen."
+"Ungültige Kampagnen-Dateiversion!
+
+Dateiversion = %d
+Aktuelle Version = %d"
+Ungültige oder beschädigte Kampagnendatei!
+"%s existiert bereits.
+Möchten Sie sie überschreiben?"
+Eigenschaften...
+Mächtigster Held
+Generierter Held
+und
+Zufälliger Held
+(Kein)
+Leicht
+Normal
+Hart
+Experte
+Unmöglich
+"Heroes 3 Kartendateien (*.h3m)
+.h3m"
+Prolog
+&Hat Prolog
+Epilog
+&Hat Epilog
+Szenario-Eigenschaften
+%s Zauberspruch
+Gib %s an %s
+Baue %s in Haupt-Stadt
+Erhalte %d %s
+Abbruch
+Hilfe
+"Textdateien (*.txt)
+.txt"
+"""%s"" kann nicht importiert werden."
+"""%s"" erfolgreich importiert."
+Name
+Beschreibung
+Rechtsklick-Text
+Prolog
+Epilog
+Campaign Properties Dialog
+Kampagnen-Eigenschaften
+Karte:
+&Name:
+&Beschreibung
+Szenario-Schwierigkeitsgrad vom &User wählbar
+&Musik:
+Kampagnenversion
+&Armageddon's Blade
+The &Shadow of Death
+Edit Hero Crossover Option Dialog
+Helden-Übergangoption bearbeiten
+&Quellszenario:
+Spieler&position:
+Edit Starting Bonus Type Dialog
+Anfangsbonus bearbeiten
+Bonus-Typ wählen:
+&Zauberspruch
+&Kreatur
+&Gebäude
+&Artefakt
+Zauber&spruchrolle
+&Primärfähigkeit
+Sek&undärfähigkeit
+&Ressource
+Empfänger:
+Artefakt:
+Kreaturtyp:
+Menge:
+Gebäude:
+Zauberspruch:
+Angriffsfähigkeit:
+Verteidigungsfähigkeit:
+Zauberkraft:
+Wissen:
+Sekundärfähigkeit
+Können:
+Ressource:
+Edit Starting Hero Option Dialog
+Anfangshelden-Option bearbeiten
+&Helden-Identität:
+Spieler-&Position:
+New Campaign Dialog
+Neue Kampagne
+&Kampagnenkarte:
+Kampagnenversion
+&Armageddon's Blade
+The &Shadow of Death
+Scenario Properties Crossover Page
+Übergangs-Optionen
+Übergehende Helden behalten:
+&Erfahrung
+&Primärfähigkeit
+Sek&undärfähigkeiten
+&Zaubersprüche
+&Artefakte
+&Kreaturtypen:
+A&lles
+&Nichts
+Übergangs-A&rtefakte:
+Scenario Properties General Page
+Allgemein
+Regionsname:
+Regions&farbe:
+Szenarioname:
+Kartendatei
+&Import...
+&Aktualisieren...
+&Export...
+&Entfernen
+Standard-&Schwierigkeit:
+&Vorbedingungen:
+Re&gionen-Rechtsklicktext:
+Scenario Properties Prologue Page
+F&ilm:
+M&usik:
+&Nachricht:
+Scenario Properties Starting Options Page
+Anfangsoptionen
+Anfangsoptionen sind:
+&Anfangsbonus-Optionen
+Helden-Über&gangsoptionen
+Anfangs&helden-Optionen
+Spieler &Position
+Anfangsbonus-&Optionen
+&Hinzufügen...
+&Bearbeiten...
+&Entfernen
+Quellszenario
+Held
+Main Menu Text
+&Datei
+&Bearbeiten	
+&Hilfe	
+File Menu	
+&Neu…	Ctrl+N
+&Öffnen…	Ctrl+O
+&Speichern	Ctrl+S
+Speichern &unter…	
+Text e&xportieren...	
+Text &importieren...	
+Szenariokarten a&ktualisieren	Ctrl+R
+Szenariokarten &exportieren	Ctrl+E
+Zuletzt bearbeitete Dateien	
+Been&den	
+Edit Menu	
+&Kampagnen-Eigenschaften…	Ctrl+Enter
+&Szenario-Eigenschaften…	Enter
+Help Menu
+&Hilfethemen
+&Über Kampagnen-Editor...

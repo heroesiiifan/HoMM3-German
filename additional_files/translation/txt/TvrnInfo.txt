@@ -1,0 +1,8 @@
+Ihr könnt Helden nicht bezahlen
+Rekrutieren unmöglich. Ihr habt bereits %d Helden.
+Rekrutieren unmöglich. Ihr habt bereits einen Helden in der Stadt.
+%s (%s) rekrutieren
+%s auswählen
+Diebesgilde
+Preis des Helden
+Taverne verlassen

@@ -1,0 +1,36 @@
+dirt dead vegetation undeground
+dirt hills undeground
+dirt plants undeground
+sand dead vegetation undeground
+sand hills undeground
+sand plants undeground
+grass dead vegetation undeground
+grass hills undeground
+grass plants undeground
+snow dead vegetation undeground
+snow hills undeground
+snow plants undeground
+swamp dead vegetation undeground
+swamp hills undeground
+swamp plants undeground
+rough dead vegetation undeground
+rough hills undeground
+rough plants undeground
+subterr dead vegetation undeground
+subterr hills undeground
+subterr plants undeground
+lava dead vegetation undeground
+lava hills undeground
+lava plants undeground
+water dead vegetation undeground
+water hills undeground
+water plants undeground
+rock dead vegetation undeground
+rock hills undeground
+rock plants undeground
+highlands dead vegetation undeground
+highlands hills undeground
+highlands plants undeground
+wasteland dead vegetation undeground
+wasteland hills undeground
+wasteland plants undeground

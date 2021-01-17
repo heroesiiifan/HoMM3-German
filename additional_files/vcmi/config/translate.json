@@ -1,0 +1,92 @@
+// This file contains all translateable strings added in VCMI
+{
+	"adventureMap":
+	{
+		"monsterThreat" :
+		{
+			"title" : "\n\n Bedrohung: ",
+			"levels" :
+			[
+				"Mühelos",
+				"Sehr schwach",
+				"Schwach",
+				"Ein bisschen schwächer",
+				"Gleichauf",
+				"Ein bisschen stärker",
+				"Stark",
+				"Sehr Stark",
+				"Herausfordernd",
+				"Überwältigend",
+				"Tötlich",
+				"Unmöglich"
+			]
+		},
+		"playerAttacked" : "Spieler wurde attackiert: %s"
+	},
+	"systemOptions" :
+	{
+		"fullscreenButton" :
+		{
+			"label" : "Vollbild",
+			"help"  : "{Fullscreen}\n\n Wenn ausgewählt wird VCMI im Vollbildmodus laufen, ansonsten im Fenstermodus"
+		},
+		"resolutionButton" :
+		{
+			"label" : "Auflösung",
+			"help"  : "{Select resolution}\n\n Ändert die Spielauflösung. Spielneustart ist erforderlich um neue Auflösung zu übernehmen."
+		},
+		"resolutionMenu" :
+		{
+			"label" : "Wähle Auflösung",
+			"help" : "Ändere die Spielauflösung."
+		}
+	},
+	"townHall" :
+	{
+		"missingBase" : "Basis Gebäude %s muss als erstes gebaut werden"
+	},
+	"logicalExpressions" :
+	{
+		"anyOf"  :  "Eines der folgenden:",
+		"allOf"  :  "Alles der folgenden:",
+		"noneOf" : "Keines der folgenden:"
+	},
+  "heroWindow": 
+  {
+    "openCommander": 
+    {
+      "label": "Öffne Kommandanten-Fenster",
+      "help": "Zeige Informationen über Kommandanten dieses Helden"
+    }
+  },
+  "commanderWindow": 
+  {
+    "artifactMessage": "Möchtest du diesen Artefakt dem Helden zurückgeben?"
+  },
+	"creatureWindow" :
+	{
+		"showBonuses" :
+		{
+			"label" : "Wechsle zur Bonus-Ansicht",
+			"help" : "Zeige alle aktiven Boni des Kommandanten"
+		},
+		"showSkills" :
+		{
+			"label" : "Wechsle zur Fertigkeits-Ansicht",
+			"help" : "Zeige alle erlernten Fertigkeiten des Kommandanten"
+		},
+		"returnArtifact" :
+		{
+			"label" : "Artefekt zurückgeben",
+			"help" : "Nutze diese Schaltfläche, um Stapel-Artefakt in den Rucksack des Helden zurückzugeben"
+		}
+	},
+	"questLog" :
+	{
+		"hideComplete" :
+		{
+			"label" : "Verstecke abgeschlossene Quests",
+			"help" : "Verstecke alle Quests die bereits abgeschlossen sind"
+		}
+	}
+}

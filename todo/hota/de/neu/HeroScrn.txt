@@ -1,0 +1,33 @@
+Logbuch anzeigen
+%s Info anzeigen
+Weitere Heldeneigenschaften
+Info zu 'Gute Moral' anzeigen
+Info zu 'Neutrale Moral' anzeigen
+Info zu 'Schlechte Moral' anzeigen
+Info zu 'Glück' anzeigen
+Info zu 'Neutrales Glück' anzeigen
+Info zu 'Pech' anzeigen
+Info zu 'Erfahrung' anzeigen
+%s auswählen
+Leer
+%s bewegen
+%s und %s austauschen
+Zaubersprüche anzeigen
+%s Info anzeigen
+%s (%s) entlassen
+Heldeninfo verlassen
+Heldeninfo
+%s kombinieren
+%s aufteilen
+Info zu '%s %s' anzeigen
+Info zu Zauberpunkten anzeigen
+Kampfformation auf 'Verteilt' einstellen
+Kampfformation auf 'Gruppiert' einstellen
+Taktik-Formation deaktivieren
+Taktik-Formation aktivieren
+Info zu Spezialität anzeigen
+Klickt hier, um diesen Helden zu entlassen
+Kampfformation 'Verteilt' verteilt bei Kampfbeginn Eure Truppen lose auf Eurer Seite des Schlachtfeldes. 
+Kampfformation 'Gruppiert' verteilt bei Kampfbeginn Eure Truppen gruppiert auf Eurer Seite des Schlachtfeldes.
+Aktivierung der Taktik-Formation erlaubt das Aufstellen der Truppen vor dem Kampf (nur mit Taktik-Fähigkeit verfügbar).
+Klickt hier, um diese Kreaturen in zwei Gruppen aufzuteilen.

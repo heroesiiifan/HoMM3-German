@@ -1,0 +1,387 @@
+# 0
+The %s does triple damage!
+# 1
+The %s do triple damage!
+# 2
+"
+%s are always lucky"
+# 3
+"The %s ready %s
+(press G to select target)"
+# 4
+"The %s readies %s
+(press G to select target)"
+# 5
+"%s can shoot fireball
+(press G to pick a target)"
+# 6
+"%s can shoot fireball
+(press G to pick a target)"
+#7
+Set animation speed to very fast
+#8
+Set animation speed to rapid
+#9
+Pick a target for fireball shot
+#10
+Shoot fireball here
+#11
+Shoot fireball at target %s
+#12
+Shoot fireball at target %s (shots left: %d damage: %s)
+#13
+"%s can shoot death cloud
+(press G to pick a target)"
+#14
+"%s can shoot death cloud
+(press G to pick a target)"
+#15
+Pick a target for death cloud shot
+#16
+Shoot death cloud here
+#17
+Shoot death cloud at target %s
+#18
+Shoot death cloud at target %s (shots left: %d damage: %s)
+#19
+Pick a target for your cast
+#20
+Pick a target for fireball
+#21
+Pick a target for death cloud
+#22
+Acid breath reduces the defense of the %s by %i
+#23
+"
+Fields of Glory: -2"
+#24
+, kills: %s
+#25
+Select a Campaign
+#26
+Campaign Name:
+#27
+Campaign Description:
+#28
+"
+Effect radius: %d."
+#29
+"
+Landmine does %d points of damage."
+#30
+"
+Does %d points of base damage."
+#31
+"
+Heals for %d points of health."
+#32
+"
+Cumulatively restores not greater than %d points of health."
+#33
+"
+In addition to cumulative sacrificed stack health, %d points of health will be restored for every sacrificed creature."
+#34
+"
+Binds a squad with total health not greater than %d to your will."
+#35
+"
+Amount of summoned elementals: %d."
+#36
+Hero trade
+#37
+Open hero trade screen
+#38
+(+2 attack or defense once per hero)
+#39
+Seafaring Academy
+#40
+Flapping sails and screeching ropes are music for the ears of those who graduated this ancient Academy. A midshipman can master the following skills here.
+#41
+Your hero has already mastered this skill to a point where he could be rather teaching it himself.
+#42
+An academy warden approaches, squinting his surviving eye and scratching the eyebrow above eyepatch. ""A degree in %s %s will set you back %d gold.""
+#43
+Purchase %s training
+#44
+Leave the academy
+#45
+Sea spirit approaches, drawn by the Horn's call. A Fangarm joins %s's army.
+#46
+Sea spirits approach, drawn by the Horn's call. %d Fangarms join %s's army.
+#47
+Spell points to your max:
+#48
+Total spell points on the Altar:
+#49
+%s pts
+#50
+Number of creatures / Spell points value
+#51
+Sacrifice anything currently on the Altar, and gain spell points.
+#52
+Attack %s and return
+#53
+Attack %s and stay there
+#54
+Attack %s and return (damage: %s)
+#55
+Attack %s and stay there (damage: %s)
+#56
+(+400 movement points until the end of the week and Cavalier upgrade)
+#57
+Select a spell
+#58
+New spell
+#59
+Pay and commence research
+#60
+Cancel
+#61
+End the research (free)
+#62
+"{Spell research}
+
+A spell is available (heroes may learn it)"
+#63
+This spell can be replaced at a price
+#64
+"{Spell research}
+
+A spell is available (heroes may not learn it yet)"
+#65
+You may select another spell at a price, or end the research for free
+#66
+This spell can be replaced at a price. It is currently available for learning.
+#67
+"{Spell research}
+
+This spell can be replaced at a price. It is currently not available for learning. You may end the research, making this spell permanent in the slot.
+
+Current spell is %s.
+
+%s"
+#68
+Research is possible
+#69
+Insufficient resources
+#70
+Research has already been done this turn
+#71
+You can't research two spells at a time
+#72
+Research is underway (current spell is %s)
+#73
+ (click to commence research)
+#74
+ (insufficient resources for research)
+#75
+ (research has already been done this turn)
+#76
+ (another research is currently underway)
+#77
+"
+Mineral Spring +1"
+#78
+(No skills to upgrade)
+#79
+(Skills are upgraded maximally)
+#80
+Confirm without ending research
+#81
+End the research
+#82
+%s (permanent)
+#83
+You may not replace this spell.
+#84
+Play a random map created by template %s%s%s
+#85
+"The server is starting a new game while you are connecting from Load Game menu.
+Try to connect from New Game menu."
+#86
+"The server is loading a savegame while you are connecting from New Game menu.
+Try to connect from Load Game menu."
+#87
+Artifact count:
+#88
+Ranged attack
+#89
+"{Ranged attack}
+
+Force unit to shoot instead of going melee."
+#90
+Melee attack
+#91
+"{Melee attack}
+
+Force unit to go melee instead of shooting."
+#92
+Strike and return
+#93
+"{Strike and return}
+
+Force unit to return to its initial position after attacking."
+#94
+Strike and stay
+#95
+"{Strike and stay}
+
+Force unit to stay in place after attacking."
+#96
+Raise dead
+#97
+"{Raise dead}
+
+Force unit to raise dead in the target hex instead of moving there."
+#98
+Move
+#99
+"{Move}
+
+Force unit to move to target hex instead of raising dead there."
+#100
+Cast
+#101
+"{Cast}
+
+Force unit to cast instead of going melee."
+#102
+Melee attack
+#103
+"{Melee attack}
+
+Force unit to go melee instead of casting."
+#104
+Switch to alternative action
+#105
+"{Switch to alternative action}
+
+This button allows for changing the default action during the turn of a unit that has several action modes."
+#106
+Way cost for %s: {%d} movement points
+#107
+Way cost for %s: {%d} movement points ({%d} movement points will remain)
+#108
+%s cannot reach this position
+#109
+"Way cost for %s:
+{%d} movement points
+
+{%d} movement points will remain"
+#110
+%s, %s {(Movement points:} %d {/} %d{)}
+#111
+"Way cost for %s:
+{%d} movement points"
+#112
+Guarded
+#113
+Not guarded
+#114
+The box full content:
+#115
+Part of the box content:
+#116
+The box is empty.
+#117
+Congratulations! %s has won in the arena. Your team is victorious!
+#118
+Congratulations! You have won in the arena. Your enemies have no choice but to bow down before your power!
+#119
+%s have won in the arena, and can claim victory!
+#120
+%s has won in the arena, and can claim victory!
+#121
+You have been defeated in the arena. You have no choice but to admit defeat!
+#122
+Win in the arena
+#123
+Lose in the arena
+#124
+Win in the arena.
+#125
+Lose in the arena.
+#126
+Pay and continue research
+#127
+Sea spirits drawn by the Horn's call cannot join %s's army as the battle is fulfilled with stacks.
+#128
+"Attention!
+
+The host rmg template (%s) is not persist in your game copy. Host might be using non-built-in template. It is recommended to ensure that you know what template you are going to play."
+#129
+"Attention!
+
+The host rmg template (%s) differs from the one from your game copy. It might be accidentally or intentionally changed on host or in your copy. It is recommended to figure out the reason of this situation. The intentional template modification is cheating."
+#130
+"Attention!
+
+The host rmg template (%s) is modified. The host is most likely cheating."
+#131
+damage: %s, kills: %s
+#132
+heals hit points: %s
+#133
+restores health: %s, creatures: %s
+#134
+damage to %s: %s, kills %s
+#135
+heals hit points: %s–%s
+#136
+raises health: %s, Demons: %s
+#137
+lost health: %s, creatures: %s
+#138
+casts remained: %d
+#139
+Shoot %s (damage: %s)
+#140
+ and 
+#141
+, and 
+#142
+ or 
+#143
+, or 
+#144
+month %d, week %d, day %d
+#145
+(Time limit expired)
+#146
+"
+
+Time limit expires by month %d, week %d, day %d"
+#147
+Combat start
+#148
+Combat start (rounds remaining: %d)
+#149
+Round %d begins
+#150
+Round %d begins (rounds remaining: %d)
+#151
+"{Forced end of combat}
+
+Exhausted by a long battle, %s's troops are on the verge of mutiny.
+
+The battle cannot continue. You must select one of the following options."
+#152
+Finish with quick combat
+#153
+Retreat
+#154
+Surrender (cost: %d gold)
+#155
+The combat was too long and the enemy has to retreat or surrender. Waiting for his choice...
+#156
+%d%% of creatures a willing to join us!
+#157
+"%d%% of creatures will join us...
+
+for a fee of %d gold."
+#158
+"{Followers}
+
+Some %s of the group with a desire for greater glory wish to join you. Do you accept?"
+# 159
+%d of %d %s will join your army for the sum of %d gold.  Do you accept?

@@ -1,0 +1,3 @@
+{Ironfist of the Ogre}
+
+In addition to component effect the Ironfist of the Ogre casts these spells on expert level at the beginning of combat on all of your creatures for fifty rounds: Haste, Bloodlust, Fire Shield, and Counterstrike.

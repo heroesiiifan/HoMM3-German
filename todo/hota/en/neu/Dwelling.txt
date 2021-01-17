@@ -1,0 +1,140 @@
+Guardhouse	The Guardhouse allows you to recruit Pikemen.
+Archers' Tower	The Archers' Tower allows you to recruit Archers.
+Griffin Tower	The Griffin Tower allows you to recruit Griffins.
+Barracks	The Barracks allow you to recruit Swordsmen.
+Monastery	The Monastery allows you to recruit Monks.
+Training Grounds	The Training Grounds allow you to recruit Cavaliers.
+Portal of Glory	The Portal of Glory allows you to recruit Angels.
+Upg. Guardhouse	The Guardhouse allows you to recruit Halberdiers.
+Upg. Archers' Tower	The Archers' Tower allows you to recruit Marksmen.
+Upg. Griffin Tower	The Griffin Tower allows you to recruit Royal Griffins.
+Upg. Barracks	The Barracks allow you to recruit Crusaders.
+Upg. Monastery	The Monastery allows you to recruit Zealots.
+Upg. Training Grounds	The Training Grounds allow you to recruit Champions.
+Upg. Portal of Glory	The Portal of Glory allows you to recruit Arch Angels.
+Centaur Stables	The Centaur Stables allow you to recruit Centaurs.
+Dwarf Cottage	The Dwarf Cottage allows you to recruit Dwarves.
+Homestead	The Homestead allows you to recruit Wood Elves.
+Enchanted Spring	The Enchanted Spring allows you to recruit Pegasi.
+Dendroid Arches	The Dendroid Arches allow you to recruit Dendroid Guards.
+Unicorn Glade	The Unicorn Glade allows you to recruit Unicorns.
+Dragon Cliffs	The Dragon Cliffs allow you to recruit Green Dragons.
+Upg. Centaur Stables	The Centaur Stables allow you to recruit Centaur Captains.
+Upg. Dwarf Cottage	The Dwarf Cottage allows you to recruit Battle Dwarves.
+Upg. Homestead	The Homestead allows you to recruit Grand Elves.
+Upg. Enchanted Spring	The Enchanted Spring allows you to recruit Silver Pegasi.
+Upg. Dendroid Arches	The Dendroid Arches allow you to recruit Dendroid Soldiers.
+Upg. Unicorn Glade	The Unicorn Glade allows you to recruit War Unicorns.
+Upg. Dragon Cliffs	The Dragon Cliffs allow you to recruit Gold Dragons.
+Workshop	The Workshop allows you to recruit Gremlins.
+Parapet	The Parapet allows you to recruit Stone Gargoyles.
+Golem Factory	The Golem Factory allows you to recruit Stone Golems.
+Mage Tower	The Mage Tower allows you to recruit Magi.
+Altar of Wishes	The Altar of Wishes allows you to recruit Genies.
+Golden Pavilion	The Golden Pavilion allows you to recruit Nagas.
+Cloud Temple	The Cloud Temple allows you to recruit Giants.
+Upg. Workshop	The Workshop allows you to recruit Master Gremlins.
+Upg. Parapet	The Parapet allows you to recruit Obsidian Gargoyles.
+Upg. Golem Factory	The Golem Factory allows you to recruit Iron Golems.
+Upg. Mage Tower	The Mage Tower allows you to recruit Arch Magi.
+Upg. Altar of Wishes	The Altar of Wishes allows you to recruit Master Genies.
+Upg. Golden Pavilion	The Golden Pavilion allows you to recruit Naga Queens.
+Upg. Cloud Temple	The Cloud Temple allows you to recruit Titans.
+Imp Crucible	The Imp Crucible allows you to recruit Imps.
+Hall of Sins	The Hall of Sins allows you to recruit Gogs.
+Kennels	The Kennels allow you to recruit Hell Hounds.
+Demon Gate	The Demon Gate allows you to recruit Demons.
+Hell Hole	The Hell Hole allows you to recruit Pit Fiends.
+Fire Lake	The Fire Lake allows you to recruit Efreet.
+Forsaken Palace	The Forsaken Palace allows you to recruit Devils.
+Upg. Imp Crucible	The Imp Crucible allows you to recruit Familiars.
+Upg. Hall of Sins	The Hall of Sins allows you to recruit Magogs.
+Upg. Kennels	The Kennels allow you to recruit Cerberi.
+Upg. Demon Gate	The Demon Gate allows you to recruit Horned Demons.
+Upg. Hell Hole	The Hell Hole allows you to recruit Pit Lords.
+Upg. Fire Lake	The Fire Lake allows you to recruit Efreet Sultans.
+Upg. Forsaken Palace	The Forsaken Palace allows you to recruit Arch Devils.
+Cursed Temple	The Cursed Temple allows you to recruit Skeletons.
+Graveyard	The Graveyard allows you to recruit Walking Dead.
+Tomb of Souls	The Tomb of Souls allows you to recruit Wights.
+Estate	The Estate allows you to recruit Vampires.
+Mausoleum	The Mausoleum allows you to recruit Liches.
+Hall of Darkness	The Hall of Darkness allows you to recruit Black Knights.
+Dragon Vault	The Dragon Vault allows you to recruit Bone Dragons.
+Upg. Cursed Temple	The Cursed Temple allows you to recruit Skeleton Warriors.
+Upg. Graveyard	The Graveyard allows you to recruit Zombies.
+Upg. Tomb of Souls	The Tomb of Souls allows you to recruit Wraiths.
+Upg. Estate	The Estate allows you to recruit Vampire Lords.
+Upg. Mausoleum	The Mausoleum allows you to recruit Power Liches.
+Upg. Hall of Darkness	The Hall of Darkness allows you to recruit Dread Knights.
+Upg. Dragon Vault	The Dragon Vault allows you to recruit Ghost Dragons.
+Warren	The Warren allows you to recruit Troglodytes.
+Harpy Loft	The Harpy Loft allows you to recruit Harpies.
+Pillar of Eyes	The Pillar of Eyes allows you to recruit Beholders.
+Chapel of Stilled Voices	The Chapel of Stilled Voices allows you to recruit Medusas.
+Labyrinth	The Labyrinth allows you to recruit Minotaurs.
+Manticore Lair	The Manticore Lair allows you to recruit Manticores.
+Dragon Cave	The Dragon Cave allows you to recruit Red Dragons.
+Upg. Warren	The Warren allows you to recruit Infernal Troglodytes.
+Upg. Harpy Loft	The Harpy Loft allows you to recruit Harpy Hags.
+Upg. Pillar of Eyes	The Pillar of Eyes allows you to recruit Evil Eyes.
+Upg. Stilled Voices	The Chapel of Stilled Voices allows you to recruit Medusa Queens.
+Upg. Labyrinth	The Labyrinth allows you to recruit Minotaur Kings.
+Upg. Manticore Lair	The Manticore Lair allows you to recruit Scorpicores.
+Upg. Dragon Cave	The Dragon Cave allows you to recruit Black Dragons.
+Goblin Barracks	The Goblin Barracks allow you to recruit Goblins.
+Wolf Pen	The Wolf Pen allows you to recruit Wolf Riders.
+Orc Tower	The Orc Tower allows you to recruit Orcs.
+Ogre Fort	The Ogre Fort allows you to recruit Ogres.
+Cliff Nest	The Cliff Nest allows you to recruit Rocs.
+Cyclops Cave	The Cyclops Cave allows you to recruit Cyclopses.
+Behemoth Crag	The Behemoth Crag allows you to recruit Behemoths.
+Upg. Goblin Barracks	The Goblin Barracks allow you to recruit Hobgoblins.
+Upg. Wolf Pen	The Wolf Pen allows you to recruit Wolf Raiders.
+Upg. Orc Tower	The Orc Tower allows you to recruit Orc Chieftains.
+Upg. Ogre Fort	The Ogre Fort allows you to recruit Ogre Magi.
+Upg. Cliff Nest	The Cliff Nest allows you to recruit Thunderbirds.
+Upg. Cyclops Cave	The Cyclops Cave allows you to recruit Cyclops Kings.
+Upg. Behemoth Crag	The Behemoth Crag allows you to recruit Ancient Behemoths.
+Gnoll Hut	The Gnoll Hut allows you to recruit Gnolls.
+Lizard Den	The Lizard Den allows you to recruit Lizardmen.
+Serpent Fly Hive	The Serpent Fly Hive allows you to recruit Serpent Flies.
+Basilisk Pit	The Basilisk Pit allows you to recruit Basilisks.
+Gorgon Lair	The Gorgon Lair allows you to recruit Gorgons.
+Wyvern Nest	The Wyvern Nest allows you to recruit Wyverns.
+Hydra Pond	The Hydra Pond allows you to recruit Hydras.
+Upg. Gnoll Hut	The Gnoll Hut allows you to recruit Gnoll Marauders.
+Upg. Lizard Den	The Lizard Den allows you to recruit Lizard Warriors.
+Upg. Serpent Fly Hive	The Serpent Fly Hive allows you to recruit Dragon Flies.
+Upg. Basilisk Pit	The Basilisk Pit allows you to recruit Greater Basilisks.
+Upg. Gorgon Lair	The Gorgon Lair allows you to recruit Mighty Gorgons.
+Upg. Wyvern Nest	The Wyvern Nest allows you to recruit Wyvern Monarchs.
+Upg. Hydra Pond	The Hydra Pond allows you to recruit Chaos Hydras.
+Magic Lantern	The Magic Lantern allows you to recruit Pixies.
+Altar of Air	The Altar of Air allows you to recruit Air Elementals.
+Altar of Water	The Altar of Water allows you to recruit Water Elementals.
+Altar of Fire	The Altar of Fire allows you to recruit Fire Elementals.
+Altar of Earth	The Altar of Earth allows you to recruit Earth Elementals.
+Altar of Thought	The Altar of Thought allows you to recruit Psychic Elementals.
+Pyre	The Pyre allows you to recruit Fire Birds.
+Upg. Magic Lantern	The Upg. Magic Lantern allows you to recruit Sprites.
+Upg. Altar of Air	The Upg. Altar of Air allows you to recruit Storm Elementals.
+Upg. Altar of Water	The Upg. Altar of Water allows you to recruit Ice Elementals.
+Upg. Altar of Fire	The Upg. Altar of Fire allows you to recruit Energy Elementals.
+Upg. Altar of Earth	The Upg. Altar of Earth allows you to recruit Magma Elementals.
+Upg. Altar of Thought	The Upg. Altar of Thought allows you to recruit Magic Elementals.
+Upg. Pyre	The Upg. Pyre allows you to recruit Phoenixes .
+Level 1 Creature Generator	Allows you to recruit Level 1 Creatures.
+Level 2 Creature Generator	Allows you to recruit Level 2 Creatures.
+Level 3 Creature Generator	Allows you to recruit Level 3 Creatures.
+Level 4 Creature Generator	Allows you to recruit Level 4 Creatures.
+Level 5 Creature Generator	Allows you to recruit Level 5 Creatures.
+Level 6 Creature Generator	Allows you to recruit Level 6 Creatures.
+Level 7 Creature Generator	Allows you to recruit Level 7 Creatures.
+Upg. Level 1 Creature Generator	Allows you to recruit Upgraded Level 1 Creatures.
+Upg. Level 2 Creature Generator	Allows you to recruit Upgraded Level 2 Creatures.
+Upg. Level 3 Creature Generator	Allows you to recruit Upgraded Level 3 Creatures.
+Upg. Level 4 Creature Generator	Allows you to recruit Upgraded Level 4 Creatures.
+Upg. Level 5 Creature Generator	Allows you to recruit Upgraded Level 5 Creatures.
+Upg. Level 6 Creature Generator	Allows you to recruit Upgraded Level 6 Creatures.
+Upg. Level 7 Creature Generator	Allows you to recruit Upgraded Level 7 Creatures.

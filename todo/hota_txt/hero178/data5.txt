@@ -1,0 +1,3 @@
+{Interference}
+
+Receives a 5% per level bonus to Interference skill percentage.

@@ -1,0 +1,10 @@
+Dirt
+Sand
+Grass
+Snow
+Swamp
+Rough
+Subterranean
+Lava
+Water
+Rock

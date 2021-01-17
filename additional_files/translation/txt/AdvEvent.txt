@@ -1,0 +1,421 @@
+Ihr betretet die Arena und seht Euch einer Meute bösartiger Löwen gegenüber. Ihr besiegt sie geschickt, während die Zuschauer Euch wild anfeuern. Der alte Gladiatorentrainer ist von Euren Fähigkeiten beeindruckt und daher bereit, Euch in einer Fähigkeit Eurer Wahl zu unterrichten.
+"Die Arenawächter lassen Euch nicht herein. ""Ihr habt schon unsere Besten besiegt. Geht fort von hier."""
+Ihr könnt dieses Artefakt nicht mitnehmen, Ihr seid schon voll beladen!
+"{Artefakt}
+
+Ihr habt die bescheidene Behausung eines alten Einsiedlers entdeckt. Der Einsiedler sagt Euch, dass er bereit ist, das Artefakt ""%s"" der ersten weisen Person auszuändigen, die er trifft."
+"{Artefakt}
+
+Ihr kommst am spartanischen Quartier eines Soldaten im Ruhestand vorbei. Der Soldat sagt Euch, dass er bereit ist, das Artefakt ""%s"" an den ersten echten Anführer weiterzugeben, den er trifft."
+"{Artefakt}
+Ein Kobold bietet Euch das Artefakt ""%s"" für die bescheidene Summe von 2000 Gold an. Möchtet Ihr das Artefakt kaufen?"
+"{Artefakt}
+Ein Kobold bietet Euch das Artefakt ""%s"" für die bescheidene Summe von 2500 Gold und 3 %s an. Möchtet Ihr das Artefakt kaufen?"
+"{Artefakt}
+
+Ein Kobold bietet Euch das Artefakt ""%s"" für die bescheidene Summe von 3000 Gold und 5 %s an. Möchtet Ihr das Artefakt kaufen?"
+Als Sieger nehmt Ihr Euren Preis (%s) entgegen.
+"{Artefakt}
+
+Ihr findet ein uraltes Artefakt. Als Ihr danach greift, springt eine Meute Zerberi aus dem Unterholz, die ihren Schatz nicht kampflos aufgeben wollen."
+"{Artefakt}
+
+An einer Lichtung entdeckt Ihr ein altes Artefakt. Unglücklicherweise wird es von einem Monster (%s) bewacht. Wollt Ihr für das Artefakt gegen das Monster (%s) kämpfen?"
+Vorsicht ist besser als Nachsicht und Ihr beschließt, diesen Kampf heute zu vermeiden.
+Ihr versucht den Kobold zu bezahlen, merkt aber, dass Ihr es Euch nicht leisten könnt. Der Kobold stampft mit dem Fuß auf und ingnoriert Euch beleidigt.
+Beleidigt, weil Ihr sein großzügiges Angebot ausgeschlagen habt, stampft der Kobold mit dem Fuß auf und ignoriert Euch.
+Möchtet Ihr die Kiste aufmachen?
+Ihr späht hinein. Erleichtert stellt Ihr fest, dass die Kiste leer ist.
+Ihr hättet es besser wissen sollen - Ihr werdet angegriffen!
+"Als Ihr Euer Pferd zügelt, tritt eine Wache auf Euch zu. "" Willkommen. Ich wurde über Eure Ankunft benachrichtigt. Wünscht ihr jetzt zu passieren?"""
+"""Niemand hat mir von Eurer Ankunft berichtet"", sagt die Grenzwache. ""Ich kann Euch nicht passieren lassen. Vielleicht solltet Ihr erst das Zelt eines Schlüsselmeisters aufsuchen."""
+"Der Wächter dieses Schlüsselmeisterzeltes scheint erfreut zu sein, Euch zu sehen. ""Ah, endlich jemand, der würdig ist,"" sagt er, ""ich werde der Grenzwache sofort eine Nachricht zukommen lassen, damit sie Euch passieren lässt."""
+"Der Wächter dieses Schlüsselmeisterzeltes erkennt Euch, als Ihr Euch nähert. ""Ich habe Eure Passiererlaubnis bereits weitergegeben."" sagt er. ""Geht."""
+"{Boje}
+
+Eure Männer entdecken eine Navigationsboje, die bestätigt, dass Ihr auf dem richtigen Kurs seid, und die dadurch die Moral Eurer Truppen steigert."
+"{Boje}
+
+Eure Männer entdecken eine Navigationsboje, die bestätigt, dass Ihr auf dem richtigen Kurs seid."
+"{Lagerfeuer}
+
+Während Ihr ein feindliches Lager plündert, entdeckt Ihr einen versteckten Schatz."
+Ihr habt alle meine Karten schon gesehen, junger Mann, nun sputet Euch.
+Ihr findet einen alten Fischer, der die detailliertesten Seekarten hat, die Ihr je gesehen habt. Möchtet Ihr den Kartensatz für 1000 Gold kaufen?
+Ihr findet einen Kartographen, der Landkarten für 1000 Gold verkauft. Würdet Ihr gerne eine Karte kaufen?
+Ihr entdeckt einen alten Zwergenbergabeiter, der mehrere Karten aus seiner Dienstzeit behalten hat. Er würde Euch eine Karte der Tunnel für 1000 Gold verkaufen. Nehmt Ihr das Angebot an?
+Meine Karten kosten 1000 Gold und soviel scheint Ihr nicht zu haben. Bitte hört auf, meine Zeit zu verschwenden.
+"{Schwanenteich}
+
+In Geschichten aus Eurer Kindheit wurde gesagt, dass ein scharlachroter Schwan ein gutes Omen sei. Ihr beschließt deshalb, Euch hier für den Rest des Tages auszuruhen."
+"{Schwanenteich}
+
+In Geschichten aus Eurer Kindheit wurde erzählt, dass ein scharlachroter Schwan ein gutes Omen sei. Ihr jedoch seid noch von Eurem letzten Besuch hier mit Glück gesegnet. Da es hier für Euch nichts mehr zu gewinnen gibt, geht Ihr weiter."
+"{Mantel der Finsternis}
+
+Ihr berührt den Mantel der Finsternis und das Land ringsum wird von einem Dunstschleier bedeckt, den nur Eure Augen durchdringen können."
+Ihr habt etwas gefunden (%s). Wollt Ihr die Wachen angreifen?
+Ihr habt etwas gefunden, was einmal etwas anderes war (%s), aber es ist schon länger verlassen.
+Nachdem Ihr %s besiegt habt, entdeckt Ihr etwas (%s).
+"{%s}
+
+Würdet Ihr gerne %s rekrutieren?"
+"{%s}
+
+Würdet Ihr gerne %s, %s, %s oder %s rekrutieren?"
+"{Skelett}
+
+Ihr stolpert über die Überreste eines bedauernswerten Abenteurers. Während Ihr die verteilten Knochen durchsucht, findet Ihr"
+"{Skelett}
+
+Ihr stolpert über die Überreste eines bedauernswerten Abenteurers. Während Ihr die verteilten Knochen durchsucht, entdeckt Ihr nichts."
+"{Marletto Turm}
+
+Die Soldaten, die im Turm leben, bringen Euch ein paar neue Verteidigungskniffe bei."
+"{Marletto Turm}
+
+""Es tut mir leid, Herr."" sagt der Anführer der Soldaten, ""aber Ihr wisst schon alles, was wir Euch beibringen könnten""."
+"{Verlassenes Schiff}
+
+Der verrottende Rumpf eines alten Piratenschiffes knarrt unheimlich, als es gegen die Felsen gedrückt wird. Würdet Ihr das Schiff gerne durchsuchen?"
+Nachdem Ihr die Wassergeister besiegt habt, verbringt Ihr mehrere Stunden damit, die Trümmer zu durchsuchen und findet nichts. So eine abscheuliche Tat verringert die Moral Eurer Armee.
+Nachdem Ihr die Wassergeister besiegt habt, durchsucht Ihr die Trümmer und findet etwas!
+"{%s}
+
+Das Lager ist verlassen. Vielleicht solltet Ihr es nächste Woche noch einmal versuchen."
+%s 
+"{Dragon Utopia}
+
+This text is no longer used.  If you see it, it is a bug."
+"{Drachen-Utopia}
+
+Ihr steht vor dem Drachen-Utopia, einem Ort, den normale Sterbliche nicht betreten dürfen. Möchtet Ihr diese Regel verletzen und die Drachen zu einem Kampf herausfordern?"
+ Dieses seltsame Auge dreht sich um und studiert Euer Aussehen, während Ihr Euch nähert. Einen Moment später wendet es sich wieder seiner Untersuchung der Umgebung zu. Ihr könnt Euch nicht helfen, Ihr habt das Gefühl das etwas, oder Jemand, dieses Auge benutzt, um von einem anderen Ort aus damit zu spionieren.
+"{Feenring}
+
+Ihr begebt Euch in einen Feenring, wodurch Eure Armee in der nächsten Schlacht mehr Glück hat."
+"{Feenring}
+
+Ihr begebt Euch in einen Feenring, aber nichts passiert."
+"{Treibgut}
+
+Ihr durchsucht das Treibgut, findet aber nichts."
+"{Treibgut}
+
+Ihr durchsucht das Treibgut und findet etwas Holz."
+"{Treibgut}
+
+Ihr durchsucht das Treibgut und findet etwas Holz und etwas Gold."
+"{Treibgut}
+
+Ihr durchsucht das Treibgut und findet etwas Holz und etwas Gold."
+"{Quelle des Glücks}
+
+Während Ihr das bittersüße Wasser trinkt, spürt Ihr, wie sich Euer Glück ändert."
+"{Quelle des Glücks}
+
+Ihr trinkt von dem verzauberten Brunnen, aber nichts passiert."
+"{Jungbrunnen}
+
+Ihr trinkt vom Wasser des Brunnens und fühlt Euch wieder jung! Da alle Eure erneuerte Kraft bemerken, erhöht sich die Moral Eurer Armee, so dass Ihr auf dem Weg zur nächten Schlacht ein Stück zusätzlichen Weges zurücklegt."
+"{Jungbrunnen}
+
+Ihr trinkt vom verzauberten Brunnen, aber nichts passiert."
+"{Garten der Offenbarung}
+
+Ein Mönch, der in der Mitte des Gartens sitzt, lädt Euch ein mit ihm zu meditieren. Das tut Ihr und nach kurzer Zeit fühlt Ihr Euch erleuchtet."
+"{Garten der Offenbarung}
+
+Ihr betretet den Garten, der Mönch erkennt Euch und sagt: ""Mein Kind, die Segnung der Erleuchtung kommt nur einmal im Leben jedes Menschen."""
+Ihr betretet eine wackelige Hütte und unterhaltet Euch mit dem Magier, der dort lebt. Er erzählt Euch von Orten nah und fern, die Euch auf Eurer Reise nützlich sein könnten.
+"{Götze des Glücks}
+
+Ihr habt ein altes und verwittertes, steinernes Götzenbild gefunden. Es soll Glück bringen, wenn man es küsst, also tut Ihr es auch. Der Stein ist sehr kalt, als Ihr ihn berührt."
+"{Götze des Glücks}
+
+Ihr habt ein altes und verwittertes, steinernes Götzenbild gefunden. Es soll Glück bringen, aber da Ihr schon vom Glück gesegnet seid, passiert nichts."
+"{Anbau}
+
+Ihr habt einen verlassenen Anbau gefunden. Während Ihr Euch umseht, entdeckt Ihr einige Vorräte, die in der Nähe versteckt sind."
+"{Anbau}
+
+Dieser Anbau ist schon lange verlassen. Hier gibt es nichts von Wert."
+"{Bibliothek der Erleuchtung}
+
+Der Verwalter lässt Euch in die Bibliothek der Erleuchtung. In der kurzen Zeit, die Ihr dort verbringt, lernt Ihr sehr viel."
+"{Bibliothek der Erleuchtung}
+
+Da er Euch erkennt, weigert der Verwalter sich Euch einzulassen. ""Die Bibliothek der Erleuchtung"", so sagt er, ""darf nur einmal besucht werden."""
+"{Bibliothek der Erleuchtung}
+
+Der Verwalter öffnet die Tür und mustert Euch von oben bis unten. ""Ihr seid weder berühmt noch diplomatisch genug, um in die Bibliothek der Erleuchtung eingelassen zu werden,"" sagt er naserümpfend, ""Kommt zurück, wenn Ihr Euch für würdig haltet."""
+"{Leuchtturm}
+
+Der Leuchtturm ist nun unter Eurer Kontrolle, alle Eure Schiffe werden sich bei jedem Zug weiter bewegen."
+Diese Konstruktion ist offensichtlich ein Reisetor, aber es scheint nicht mehr zu funktionieren.
+"{Schule der Magie}
+
+Das Knistern magischer Energie erfüllt die Luft an dieser Schule für die mystischen Künste. Ein Lehnsmann ist bereit, Euch für 1000 Gold für die nächste Klasse einzutragen. Ihr könntet Euch aussuchen, ob Ihr Euer Wissen erweitern oder Eure Kräfte effektiver nutzen lernen wollt."
+"{Schule der Magie}
+
+Ein alter Zauberer erscheint plötzlich aus dem Nichts. ""Meister"", sagt er, ""Ihr habt bereits alles gelernt, was wir Euch beibringen können."""
+"{Schule der Magie}
+
+Das Knistern magischer Energie erfüllt die Luft an dieser Schule für die mystischen Künste. Ein Lehnsmann ist bereit, Euch für die nächste Klasse einzutragen, aber Ihr habt die erforderlichen 1000 Gold Schulgeld nicht."
+"{Magische Quelle}
+
+Ein Trunk von der Quelle erfüllt Euer Blut mit Magie! Ihr habt jetzt das Doppelte Eurer normalen Zauberpunkte."
+"{Magische Quelle}
+
+Die magische Quelle regeneriert sich nur einmal pro Woche und in dieser Woche war schon Jemand da."
+"{Magische Quelle}
+
+Ein Trunk aus der Quelle soll die verfügbaren Zauberpunkte verdoppeln, aber Ihr habt bereits die doppelte Menge."
+"{Magischer Brunnen}
+
+Ein Trunk aus dem Brunnen hat Eure Zauberpunkte wieder bis zum Maximum aufgefüllt."
+"{Magischer Brunnen}
+
+Ein zweiter Schluck aus dem Brunnen am gleichen Tag wird Euch nicht helfen."
+"{Magischer Brunnen}
+
+Ein Trunk aus dem Brunnen soll Eure Zauberpunkte regenieren, aber Eure sind schon auf dem Maximum."
+"{Söldnerlager}
+
+Ihr trefft zufällig auf ein Lager von Söldnern, die ihre Kampftaktiken üben. Sie heißen Euch und Eure Truppen willkommen und laden euch ein, mit ihnen zu trainieren."
+"{Söldnerlager}
+
+Ihr trefft zufällig auf ein Lager von Söldnern, die ihre Kampftaktiken üben. ""Ihr seid schon zu weit fortgeschritten für uns,"" sagt der Söldnerhauptmann. ""Wir können euch nichts mehr beibringen."""
+"{Meerjungfrau}
+
+Die Meerjungfrauen locken Euch still, später wiederzukommen und gesegnet zu werden."
+"{Meerjungfrau}
+
+Die magische, beruhigende Schönheit der Meerjungfrauen bezaubert Euch und Eure Besatzung. Kurz vergesst Ihr Eure Sorgen und genießt die Schönheit des Augenblicks. Der Zauber der Meerjungfrauen segnet Euch mit erhöhtem Glück für den nächsten Kampf."
+Ihr findet zufällig eine verlassene Mine. Sie scheint von Troglodyten heimgesucht worden zu sein. Wollt Ihr hineingehen?
+Ihr besiegt die Troglodyten und schafft es, die Produktion in der Mine wieder anlaufen zu lassen.
+"{Anhänger}
+
+Eine Gruppe %s mit dem Wunsch nach Ruhm und Ehre will sich Euch anschließen. Nehmt Ihr an?"
+Beleidigt, weil Ihr ihr Angebot nicht angenommen habt, greifen die Monster Euch an.
+Eine %s-Kreatur ist von Eurer diplomatischen Sprache beeindruckt und bietet an, Eurer Armee für die Summe von %d Gold beizutreten. Nehmt Ihr an?
+"Die Kreaturen sind von Eurer diplomatischen Sprache beeindruckt und machen Euch ein Angebot:
+
+"
+Alle %d der %s werden Eurer Armee für die Sume von %d Gold beitreten. Nehmt Ihr an?
+Eingeschüchtert von der Stärke Eurer Streitkräfte, beginnen die %s zu flüchten. Wollt Ihr sie verfolgen und angreifen?
+"{Mystischer Garten}
+
+Das Geräusch von Musik führt Euch zu einem kleinen Garten, wo Ihr es schafft Euch an einen Kobold heranzuschleichen, der gerade glücklich über die Lichtung tanzt. Ihr fangt ihn ein und im Austausch für seine Freiheit führt er Euch zu einem kleinen Topf voller wertvoller Dinge."
+"{Mystischer Garten}
+
+Das Geräusch von Musik führt Euch zu einem kleinen Garten, wo Ihr versucht Euch an einen Kobold heranzuschleichen, der glücklich über die Lichtung tanzt. Ihr versucht ihn zu fangen, aber durch seine Geschicklichkeit entkommt er Euch."
+"{Oase}
+
+Das Wasser der Oase ist erfrischend, bringt aber keinen weiteren Vorteil. Die Oase könnte nach einem Kampf wieder hilfreich sein."
+"{Oase}
+
+Das Wasser der Oase erfüllt Eure Truppen mit Stärke und weckt ihre Lebensgeister. Ihr könnt heute etwas weiter reisen."
+"{Obelisk}
+
+Ihr trefft auf einen Obelisken, der aus einer Steinsorte besteht, die Ihr vorher noch nie gesehen habt. Als Ihr ihn intensiv anstarrt, verändert sich die glatte Oberfläche zu einer Inschrift. Die Inschrift ist Teil einer alten, verlorenen Karte. Schnell zeichnet Ihr sie ab, und die Inschrift verschwindet so plötzlich wieder, wie sie erschienen war."
+"{Obelisk}
+
+Ihr wart schon an diesem Obelisken."
+"{Mammutbaum-Observatorium}
+
+Von der Spitze des Observatoriums könnt Ihr ferne Länder sehen."
+"{Säule des Feuers}
+
+Ihr entdeckt einen hohen Gaslichtturm. Ihr entfacht ihn und erzeugt so genügend Licht, um die Dunkelheit der Unterwelt zu erleuchten."
+"{Sternenachse}
+
+Ihr habt einige der besten Astrologen des Landes bei einer Sternenachse versammelt gefunden. Da sie glücklich sind etwas Gesellschaft zu haben, lehren sie Euch wie man Sonne, Mond und Sterne benutzt, um seine Zauberfähigkeit zu verbessern."
+"{Sternenachse}
+
+Ihr habt einige der besten Astrologen des Landes bei einer Sternenachse versammelt gefunden. Ihr unterhaltet Euch eine Weile mit Ihnen, stellt aber schnell fest, dass sie Euch nichts Neues mehr beibringen können."
+In einer beeindruckenden Zurschaustellung von Wagemut brecht Ihr in das örtliche Gefängnis ein und befreit den Helden, der dort eingesperrt war und der aus Dank Treue zu Eurer Sache gelobt.
+Ihr habt schon acht Helden und müsst daher schweren Herzens den Gefangenen in seiner Zelle zurücklassen, wo er für weitere ungezählte Tage unter Qualen schmachten wird.
+Der Gefängniswärter erzählt Euch, dass der Held, der hier eingesperrt war, vom König, der ihn einsperren ließ, wieder befreit wurde.
+Ihr entdeckt die Pyramide eines großen und alten Königs. Ihr seid versucht, sie nach Schätzen zu durchsuchen, aber die alten Geschichten warnen Euch vor schrecklichen Flüchen und untoten Wächtern. Werdet Ihr sie durchsuchen?
+Nachdem Ihr die Monster besiegt habt, entziffert Ihr eine alte Glyphe an der Wand. Diese verrät Euch das Geheimnis des Zauberspruches -
+Ihr kommt zufällig zur Pyramide eines großen und alten Königs. Routineerkundungen ergeben, dass sie völlig leer ist.
+ Leider habt Ihr nicht genug Weisheit, um den Zauberspruch zu verstehen und könnt ihn deshalb nicht lernen.
+ Leider habt Ihr kein Zauberbuch dabei, um den Spruch aufzuzeichnen.
+"{Versammlungsfahne}
+
+Ihr sammelt Eure Truppen um diese Fahne."
+"{Versammlungsfahne}
+
+Ihr versammelt Eure Truppen um diese Fahne und erneuert so ihre Stärke und weckt ihre Lebensgeister. Ihr fühlt Euch zu Höchstleistungen befähigt und könnt heute etwas weiter reisen."
+"{%s}
+
+Würdet Ihr gerne %s rekrutieren?"
+Ihr findet eine kleine Menge %s.
+Ihr betretet das Heiligtum und fühlt Euch sofort, als ob eine schwere Last von Euren Schultern gefallen wäre. Ihr fühlt Euch hier sicher.
+Als Ihr auf eine Lichtung reitet, trefft Ihr dort einen Gelehrten aus der Universität, der sein Pferd ausruhen lässt. Er stimmt zu, Euch etwas von seinem Wissen zu vermitteln, bevor er weiterreitet.
+"{Meerestruhe}
+
+Nachdem Ihr mehrere Stunden damit verbracht habt die Truhe aus dem Meer zu fischen, öffnet Ihr sie, nur um festzustellen, dass sie leer ist."
+"{Meerestruhe}
+
+Nachdem Ihr mehrere Stunden damit zugebracht habt die Truhe aus dem Meer zu fischen, öffnet Ihr sie und findet 1000 Gold und: %s."
+"{Meerestruhe}
+
+Nachdem Ihr mehrere Stunden damit zugebracht habt die Truhe aus dem Meer zu fischen, öffnet Ihr sie und findet 1500 Gold."
+"{Krypta}
+
+Ihr nähert Euch unsicher der Begräbniskrypta von alten Kriegern. Wollt Ihr die Gräber durchsuchen?"
+Nachdem Ihr die untoten Wächter besiegt habt, verbringt Ihr mehrere Stunden damit, die Gräber zu durchsuchen und findet nichts. Diese abscheuliche Tat reduziert die Moral Eurer Truppe.
+Nachem Ihr die untoten Wächter besiegt habt, durchsucht Ihr die Gräber und findet etwas!
+"{Schiffswrack}
+
+Der verrottende Rumpf eines alten Piratenschiffes knarrt unheimlich, als es gegen die Felsen gedrückt wird. Würdet Ihr das Schiff gerne durchsuchen?"
+Nachdem Ihr die Harpyien besiegt habt, verbringt Ihr mehrere Stunden damit, die Trümmer zu durchsuchen und findet nichts. Diese verachtenswerte Tat reduziert die Moral Eurer Armee.
+Nachdem Ihr die Harpyien besiegt habt, verbringt Ihr mehrere Stunden damit, die Trümmer zu durchsuchen und findet etwas.
+"{Schiffswrack-Überlebender}
+
+Ihr habt den Überlebenden eines Schiffbruches vor dem sicheren Tod im kalten Ozean bewahrt. Aus Dankbarkeit belohnt er Euch mit dem Artefakt ""%s""."
+"{Schiffswrack-Überlebender}
+
+Ihr habt den Überlebenden eines Schiffbruches vor dem sicheren Tod im kalten Ozean bewahrt. Dankbar sagt er: ""Ich würde Euch ja ein Artefakt als Belohnung geben, aber Ihr habt keinen Platz mehr in Eurem Rucksack."""
+"{Schrein der magischen Beschwörung}
+
+Ihr trefft auf einen kleinen Schrein, der von einer Gruppe junger Novizen betreut wird. Im Austausch für Euren Schutz stimmen sie zu Euch einen einfachen Zauberspruch beizubringen -"
+"{Schrein der magischen Gesten}
+
+Ihr trefft auf einen prächtigen Schrein, der von einer Gruppe rundlicher Ordensbrüder betreut wird. Im Austausch für Euren Schutz stimmen sie zu Euch einen Zauberspruch beizubringen -"
+"{Schrein der magischen Gedanken}
+
+Ihr trefft auf einen verschwenderisch ausgestatteten Schrein, der von einer Gruppe Hohepriester betreut wird. Im Austausch für Euren Schutz stimmen sie zu Euch einen komplizierten Zauberspruch beizubringen -"
+ Leider habt Ihr nicht genug Weisheit, um diesen Zauberspruch zu verstehen und könnt ihn deshalb nicht lernen.
+ Leider habt Ihr kein Zauberbuch dabei, um den Spruch aufzuzeichnen.
+Ein unheimliches, jammerndes Lied geht von den Sirenen aus, die auf den Felsen hocken. Viele aus Eurer Besatzung werden in ihren Zauberbann gezogen, springen ins Wasser und ertrinken. Ihr seid nun weiser ob dieses Besuchs und erhaltet %d Erfahrungspunkte.
+Ihr sorgt dafür, dass sich Eure Besatzung die Ohren verstopft, bevor das Lied der Sirenen sie in ein nasses Grab locken kann.
+Während die Sirenen ihr unheimliches Lied singen, schafft es Eure kleine, entschlossene Armee, dem Drang kopfüber ins Wasser zu springen, nicht nachzugeben.
+"Ihr findet eine Zauberspruchrolle mit dem Zauberspruch ""%s"". Ihr legt sie in Euren Rucksack."
+"{Ställe}
+
+Ihr habt die Ställe in dieser Woche schon besucht."
+"{Ställe}
+
+Der Stallmeister bietet Euch an Eure Armee mit Pferden auszurüsten, was Eure Beweglichkeit für den Rest der Woche verbessert."
+"{Ställe}
+
+Der Stallmeister bietet an Eure Armee mit Pferden auszurüsten, was Eure Beweglichkeit für den Rest der Woche verbessert und alle Kavalleristen zu Kämpen macht."
+"{Ställe}
+
+Der Stallmeister bietet an Eure Armee mit Pferden auszurüsten, was Eure Beweglichkeit für den Rest der Woche verbessert und alle Kavalleristen zu Kämpen macht."
+"{Tempel}
+
+Ein Besuch und ein Gebet im Tempel steigert die Moral Eurer Truppen."
+"{Tempel}
+
+Es hilft nicht, vor einer Schlacht zweimal zu beten. Kommt an einem anderen Tag wieder."
+"{Höhle der Diebe}
+
+Während Ihr das Unterholz durchsucht, findet Ihr den geheimen Eingang zur Höhle der Diebe. Ein alter ""Bekannter"" klärt Euch über alles auf, was seit Eurem letzten Besuch geschehen ist."
+"{Stein des Lernens}
+
+Ein glatter Stein an einer Säule beginnt sich zu drehen, während Ihr Euch ihm nähert. Als Ihr ihn anschaut, seht Ihr fasziniert die Antworten auf Fragen, über die Ihr seit Jahren nachgedacht habt. Plötzlich bewegt sich der Stein nicht mehr, aber Ihr erkennt, dass Ihr viel gelernt habt."
+"{Stein des Lernens}
+
+Ihr nähert Euch der Säule in der Hoffnung auf weitere Erkenntnisse, aber der Stein tut nun nichts mehr, außer das Sonnenlicht zu reflektieren."
+"{Truhe}
+
+Nachdem Ihr die Gegend durchkämmt habt, stolpert Ihr über eine versteckte Truhe, die das alte Artefakt ""%s"" enthält."
+"{Truhe}
+
+Nachdem Ihr die Gegend durchkämmt habt, stolpert Ihr über ein verstecktes Schatzlager. Ihr dürft das Gold nehmen oder es unter den Bauern verteilen und Erfahrung sammeln. Wofür entscheidet Ihr Euch?"
+"{Baum des Wissens}
+
+Als Ihr näher kommt, öffnet der Baum erfreut seine Augen. ""Es ist gut, euch zu sehen, mein Schüler. Ich hoffe, meine Lehren haben euch geholfen."""
+"{Baum des Wissens}
+
+Als Ihr näher kommt, öffnet der Baum erfreut seine Augen. ""Ahh, ein Abenteurer! Erlaubt mir, Euch ein wenig von dem beizubringen, was ich über die Zeitalter gelernt habe."""
+"{Baum des Wissens}
+
+Als Ihr näher kommt, öffnet der Baum erfreut seine Augen. ""Ahh, ein Abenteurer! Ich wäre glücklich, Euch für nur 2000 Gold ein wenig von dem beizubringen, was ich über die Zeitalter gelernt habe."" (Vergrabt es einfach rund um meine Wurzeln.)"
+"{Baum des Wissens}
+
+Tränen stehen in den Augen des Baumes. ""Ich brauche 2000 Gold."" flüstert er. (Schnief.) ""Nun gut, kommt zurück, wenn Ihr mich bezahlen könnt."""
+"{Baum des Wissens}
+
+Als Ihr näher kommt, öffnet der Baum erfreut seine Augen. ""Ahh, ein Abenteurer! Ich wäre glücklich, Euch für nur 10 Edelsteine ein wenig von dem beizubringen, was ich über die Zeitalter gelernt habe."" (Vergrabt sie einfach rund um meine Wurzeln.)"
+"{Baum des Wissens}
+
+Tränen stehen in den Augen des Baumes. ""Ich brauche 10 Edelsteine."" flüstert er. (Schnief.) ""Nun gut, kommt zurück, wenn Ihr mich bezahlen könnt."""
+Direkt hinter dem Eingang findet Ihr einen großen Haufen Geröll, der den Tunnel blockiert. Entmutigt geht Ihr wieder.
+"{Wagen}
+
+Ihr findet zufällig einen alten Wagen, der von einem Händler hinterlassen wurde, der es nicht ganz bis auf sicheres Gebiet geschafft hat. Im Wagen findet Ihr einiges von der Ladung noch in brauchbarem Zustand."
+"{Wagen}
+
+Ihr findet zufällig einen alten Wagen, der von einem Händler hinterlassen wurde, der es nicht ganz bis auf sicheres Gebiet geschafft hat. Als Ihr ihn durchsucht, findet Ihr das Artefakt ""%s""."
+"{Wagen}
+
+Ihr findet zufällig einen alten Wagen, der von einem Händler hinterlassen wurde, der es nicht ganz bis auf sicheres Gebiet geschafft hat. Ungücklicherweise waren andere vor Euch da, der Wagen ist leer."
+"{Kriegsgeräte-Fabrik}
+
+Würdet Ihr gerne Belagerungsmaschinen kaufen?"
+"{Schule des Krieges}
+
+Der kampferprobte Ausbilder an dieser Schule des Krieges grunzt, als Ihr vorbei geht. Für eine Gebühr von 1000 Gold kann er Euch neue Angriffs- oder Verteidgungsfähigkeiten Eurer Wahl beibringen."
+"{Schule des Krieges}
+
+Der Chefausbilder lacht laut auf, als Ihr um weiteres Training bittet. ""Ihr solltet hier unterrichten!"" ruft er."
+"{Schule des Krieges}
+
+Der kampferprobte Ausbilder an dieser Schule des Krieges grunzt, als Ihr vorbei geht. Er könnte Euch einige Kampftechniken beibringen, aber er verlangt dafür 1000 Gold, die Ihr im Moment nicht besitzt."
+Ihr seid an der letzten Ruhesätte eines namenlosen Kriegers. Möchtet Ihr das Grab durchsuchen?
+"Widerwillig begeben sich Eure Truppen in das Grabmal und finden auch das Artefakt ""%s"", aber diese verachtenswerte Tat hat ihre Moral ruiniert."
+Widerwillig begeben sich Eure Truppen in das Grabmal und finden nichts von Wert. Diese verachtenswerte Tat hat ihre Moral ruiniert
+"{Wassermühle}
+
+Der Betreiber der Mühle gibt zu verstehen: ""Mein Lord, ich habe sehr hart gearbeitet, um Euch mit diesem Gold zu versorgen, kommt nächste Woche wieder, wenn Ihr mehr wollt."""
+"{Wassermühle}
+
+Der Betreiber der Mühle gibt zu verstehen: ""Mein Lord, es tut mir leid, ich habe zur Zeit kein Gold. Kommt bitte nächste Woche wieder."""
+"{Wasserloch}
+
+Das Wasser aus dem Wasserloch erfüllt Eure Truppen mit Stärke und weckt ihre Lebensgeister. Ihr könnt heute etwas weiter reisen."
+"{Wasserloch}
+
+Das Wasser aus dem Wasserloch ist erfrischend, hat aber keine weitere Wirkung. Das Wasserloch könnte erst wieder helfen, wenn ein Kampf stattgefunden hat."
+"{Strudel}
+
+Ein Strudel erfasst Euer Schiff. Teile Eurer Armee fallen über Bord."
+"{Windmühle}
+
+Der Betreiber der Mühle gibt zu verstehen: ""Mein Lord, es tut mir leid, es gibt zur Zeit keine Ressourcen. Kommt bitte nächste Woche wieder."""
+"{Windmühle}
+
+Der Betreiber der Mühle gibt bekannt: ""Mein Lord, ich habe sehr hart gearbeitet, um Euch mit diesen Ressourcen zu versorgen, kommt nächste Woche wieder, wenn Ihr mehr wollt."""
+"{Hexenhütte}
+
+Eine uralte Hexe, die in einer seltsamen Hütte wohnt, heißt Euch willkommen und lehrt Euch ""%s"" aus Gründen, die nur ihr selbst bekannt sind."
+"{Hexenhütte}
+
+Ihr nähert Euch der seltsamen Hütte und beobachtet Im Innern eine Hexe, die einen alten Wälzer über ""%s"" studiert. ""Das, was ich Euch beibringen könnte, wisst Ihr schon. Ich kann Euch nicht mehr weiterhelfen."""
+"{Hexenhütte}
+
+Ihr nähert Euch der seltsamen Hütte und beobachtet im Innern eine Hexe, die einen alten Wälzer über ""%s"" studiert. Als Ihr näher kommt, dreht sie sich um und sieht Euch mit ihrem einen Glasauge an. ""HA!"", kreischt sie, ""Ich würde mir nicht anmaßen, Jemandem neue Dinge beibringen zu wollen, der so offensichtlich weise ist, wie Ihr es seid."" Ihr geht, aber Ihr könnt das Gefühl, gerade beleidigt worden zu sein, nicht ganz abschütteln."
+ Leider kennt Ihr diesen Zauberspruch schon, so dass es nichts mehr gibt, was sie Euch beibringen könnten.
+%s lernt etwas.
+%s verliert magische Energie.
+%s gewinnt magische Energie dazu.
+%ss geistige Kräfte lassen nach.
+%ss geistige Kräfte nehmen zu.
+%ss Glück verlässt ihn.
+%ss Glück verstärkt sich.
+%s hat Schätze verloren.
+%s hat Schätze gefunden.
+%s lernt einen Zauberspruch.
+Ein %s schließt sich der Armee von %s an.
+%s schließen sich der Armee von %s an.
+Unglücklicherweise hat der Besitzer anscheinend einige Wachen zurückgelassen. Möchtet Ihr gegen sie kämpfen?
+%s lernt Zaubersprüche.
+Dies ist eine verlassene Werft. Leider sind die Zufahrtswege blockiert und es ist nicht möglich, hier Schiffe zu bauen.
+"{Hexenhütte}
+
+Als Ihr Euch der Hütte nähert bemerkt Ihr, dass sie schon vor langer Zeit verlassen wurde."

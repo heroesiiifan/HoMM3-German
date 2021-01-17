@@ -1,0 +1,4 @@
+2048 # terrs msk
+0 # spec terrs msk
+102 # x
+163 # y

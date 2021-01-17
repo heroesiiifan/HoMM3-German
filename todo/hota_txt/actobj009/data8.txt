@@ -1,0 +1,8 @@
+"{Warlock's Lab}
+
+Visiting text (not used)."
+"Resources can be turned into each other, but only rare ones. If you want something transmuted, click on the initial and desired resources."
+"The process was successful; here are your new resources. Anything else you need transmuted?"
+"Resources for transmutation"
+"Transmute: get %d %s %s from %d %s %s."
+Transmute

@@ -1,0 +1,652 @@
+		Hero Slots																				
+Name	Cost	Spell Book	War Machine 4	War Machine 3	War Machine 2	War Machine 1	Misc 5	Misc 4	Misc 3	Misc 2	Misc 1	Feet	Left Ring	Right Ring	Torso	Left Hand	Right Hand	Neck	Shoulders	Head	Class (S,T,N,J,R)	Description
+Zauberbuch	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Zauberbuch}
+
+Klickt auf das Zauberbuch, um Eure Zaubersprüche zu sehen."
+Zauberspruchrolle	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Zauberspruchrolle}
+
+Diese Rolle enthält den Zauberspruch ""[Spruchname]"", der Eurem Zauberbuch hinzugefügt wird, solange Ihr die Rolle tragt."
+Der Gral	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Der Gral}
+
+Tragt den Gral zur Stadt Eurer Wahl, und die Bevölkerung wird eine großartige Anlage bauen, die dem Besitzer der Stadt einen großen Vorteil verschafft."
+Katapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Katapult}
+
+Benutzt diese Kriegsmaschine, um sie im Kampf gegen die Befestigungsanlagen des Gegners einzusetzen."
+Balliste	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Balliste}
+
+Benutzt diese Kriegsmaschine, um sie im Kampf gegen die Truppen des Gegners einzusetzen."
+Munitionskarren	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Munitionskarren}
+
+Der Munitionskarren sorgt dafür, daß Eure Truppen im Kampf immer genug Munition haben."
+Erste Hilfe-Zelt	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Erste Hilfe-Zelt}
+
+Das Erste Hilfe-Zelt ermöglicht Euren Truppen in jeder Runde des Kampfes Heilung."
+Zentaurenaxt	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Zentaurenaxt}
+
+Diese rechtshändige Waffe erhöht Angriff um +2."
+Schwarzklinge des toten Ritters	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Schwarzklinge des toten Ritters}
+
+Diese rechtshändige Waffe erhöht Angriff um +3."
+Gnollmorgenstern	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Gnollmorgenstern}
+
+Diese rechtshändige Waffe erhöht Angriff um +4."
+Ogerknüppel der Verwüstung	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Ogerknüppel der Verwüstung}
+
+Diese rechtshändige Waffe erhöht Angriff um +5."
+Schwert des Höllenfeuers	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Schwert des Höllenfeuers}
+
+Diese rechtshändige Waffe erhöht Angriff um +6."
+Titanengladius	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Titanengladius}
+
+Mit der rechten Hand gehalten, erhöht diese riesige Reliquie Angriff um +12, reduziert Verteidigung aber um -3"
+Schild der Zwergenlords	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Schild der Zwergenlords}
+
+Dieses links gehaltene Objekt erhöht Verteidigung um +2."
+Schild der gähnenden Toten	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Schild der gähnenden Toten}
+
+Dieses links gehaltene Objekt erhöht Verteidigung um +3."
+Rundschild des Gnollkönigs	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Rundschild des Gnollkönigs}
+
+Dieses links gehaltene Objekt erhöht Verteidigung um +4."
+Schild des wütenden Ogers	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Schild des wütenden Ogers}
+
+Dieses links gehaltene Objekt erhöht Verteidigung um +5."
+Schild der Verdammten	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Schild der Verdammten}
+
+Dieses links gehaltene Objekt erhöht Verteidigung um +6."
+Schild der Wache	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Schild der Wache}
+
+Mit der linken Hand gehalten, erhöht diese Reliquie Verteidigung um +12, reduziert aber Angriff um -3."
+Helm des Alabastereinhorns	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Helm des Alabastereinhorns}
+
+Auf dem Kopf getragen, erhöht dieser Gegenstand Wissen um +1."
+Totenschädelhelm	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Totenschädelhelm}
+
+Auf dem Kopf getragen, erhöht dieser Gegenstand Wissen um +2."
+Helm des Chaos	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Helm des Chaos}
+
+Auf dem Kopf getragen erhöht dieser Gegenstand Wissen um +3."
+Krone der höchsten Magier	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Krone der höchsten Magier}
+
+Auf dem Kopf getragen, erhöht dieser Gegenstand Wissen um +4."
+Höllensturmhelm	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Höllensturmhelm}
+
+Auf dem Kopf getragen, erhöht dieser Gegenstand Wissen um +5."
+Donnerhelm	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Donnerhelm}
+
+Wer diese Reliquie trägt, erhöht Wissen um +10, reduziert aber Zauberkraft um -2."
+Brustpanzer vom Steinwald	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Brustpanzer vom Steinwald}
+
+Am Oberkörper getragen, erhöht dieser Gegenstand Zauberkraft um +1."
+Brustkorb	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Brustkorb}
+
+Am Oberkörper getragen, erhöht dieser Gegenstand Zauberkraft um +2."
+Schuppen des Riesenbasilisken	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Schuppen des Riesenbasilisken}
+
+Am Oberkörper getragen, erhöht dieser Gegenstand Zauberkraft um +3."
+Tunika des Zyklopenkönigs	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Tunika des Zyklopenkönigs}
+
+Am Oberkörper getragen, erhöht dieser Gegenstand Zauberkraft um +4."
+Schwefelharnisch	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Schwefelharnisch}
+
+Am Oberkörper getragen, erhöht dieser Gegenstand Zauberkraft um +5."
+Titanenharnisch	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Titanenharnisch}
+
+Wer diese riesige Reliquie trägt, erhöht Zauberkraft um +10, reduziert aber Wissen um -2."
+Wunderrüstung	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Wunderrüstung}
+
+Am Oberkörper getragen, erhöht die Wunderrüstung alle vier Primärfähigkeiten um +1."
+Sandalen des Heiligen	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Sandalen des Heiligen}
+
+An den Füßen getragen, erhöhen die Sandalen des Heiligen alle vier Primärfähigkeiten um +2."
+Himmlisches Segenshalsband 	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Himmlisches Segenshalsband }
+
+Am Hals getragen, erhöht das Himmlische Segenshalsband alle vier Primärfähigkeiten um +3."
+Löwenschild des Mutes	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Löwenschild des Mutes}
+
+Mit der linken Hand gehalten, erhöht der Löwenschild des Mutes alle vier Primärfähigkeiten um +4."
+Schwert des Urteils	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Schwert des Urteils}
+
+Mit der linken Hand gehalten, erhöht das Schwert des Urteils alle vier Primärfähigkeiten um +5."
+Helm der Himmlischen Erleuchtung	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Helm der Himmlischen Erleuchtung}
+
+Auf dem Kopf getragen, erhöht der Helm der Himmlischen Erleuchtung alle vier Primärfähigkeiten um +6."
+Ruhiges Auge des Drachen	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ruhiges Auge des Drachen}
+
+Am Finger getragen, erhöht dieser Gegenstand Angriff und Verteidigung um +1."
+Feuerzunge des Roten Drachen	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Feuerzunge des Roten Drachen}
+
+Mit der rechten Hand gehalten, erhöht dieser Gegenstand Angriff und Verteidigung um +2."
+Drachenschild	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Drachenschild}
+
+Mit der linken Hand gehalten, erhöht dieser Gegenstand Angriff und Verteidigung um +3."
+Drachenrüstung	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Drachenrüstung}
+
+Am Oberkörper getragen, erhöht dieser Gegenstand Angriff und Verteidigung um +4."
+Knochenschienen	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Knochenschienen}
+
+An den Füßen getragen, erhöht dieser Gegenstand Wissen und Zauberkraft um +1."
+Drachenweste	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Drachenweste}
+
+Über die Schultern getragen, erhöht dieser Gegenstand Wissen und Zauberkraft um +2."
+Drachenzahnkette	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Drachenzahnkette}
+
+Um den Hals getragen, erhöht dieser Gegenstand Wissen und Zauberkraft um +3."
+Drachenzahnkrone	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Drachenzahnkrone}
+
+Auf dem Kopf getragen, erhöht dieser Gegenstand Wissen und Zauberkraft um +4."
+Stilles Auge des Drachen	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Stilles Auge des Drachen}
+
+Am Finger getragen, erhöht dieser Gegenstand Glück und Moral um +1."
+Kleeblatt des Glücks	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Kleeblatt des Glücks}
+
+Das Kleeblatt des Glücks erhöht Glück um  +1. "
+Karten der Prophezeiung	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Karten der Prophezeiung}
+
+Die Karten der Prophezeiung erhöhen Glück um  +1."
+Silberner Glücksvogel	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Silberner Glücksvogel}
+
+Der Silberne Glücksvogel erhöht Glück um  +1. "
+Abzeichen der Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Abzeichen der Courage}
+
+Das Abzeichen der Courage erhöht Moral um +1."
+Wappen der Tapferkeit	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Wappen der Tapferkeit}
+
+Das Wappen der Tapferkeit erhöht Moral um +1."
+Skulptur der Ritterlichkeit	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Skulptur der Ritterlichkeit}
+
+Die Skulptur der Ritterlichkeit erhöht Moral um +1."
+Spekulum	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spekulum}
+
+Das Spekulum erhöht den Spähradius um +1."
+Spionagelinse	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spionagelinse}
+
+Die Spionagelinse erhöht den Spähradius um +1."
+Amulett der Totengräber	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulett der Totengräber}
+
+Um den Hals getragen, erhöht dieser Gegenstand die Nekromantiefähigkeit um 5%."
+Vampirkutte	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Vampirkutte}
+
+Über die Schultern geworfen, erhöht diese Kutte die Nekromantiefähigkeit um 10%."
+Totenstiefel	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Totenstiefel}
+
+An den Füßen getragen, erhöhen diese Stiefel die Nekromantiefähigkeit um 15%."
+Schmuck der Interferenz	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Schmuck der Interferenz}
+
+Am Hals getragen, erhöht dieser Gegenstand Magieresistenz um 5%."
+Schutzrock	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Schutzrock}
+
+Über die Schultern geworfen, erhöht dieser Gegenstand Magieresistenz um 10%."
+Stiefel der Polarität	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Stiefel der Polarität}
+
+An den Füßen getragen, erhöhen diese Stiefel Magieresistenz um 15%."
+Bogen aus Elfenkirschholz	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Bogen aus Elfenkirschholz}
+
+Dieser Bogen erhöht Bogenschießen um 5%."
+Bogensehne der Einhornmähne	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bogensehne der Einhornmähne}
+
+Diese Bogensehne erhöht Bogenschießen um 10%."
+Engelsfedernpfeile	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Engelsfedernpfeile}
+
+Diese Pfeile erhöhen Bogenschießen um 15%."
+Vogel der Beobachtung	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Vogel der Beobachtung}
+
+Diese Statue erhöht Adlerauge um 5%"
+Geduldiger Wachmann	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Geduldiger Wachmann}
+
+Diese Statue erhöht Adlerauge um 10%"
+Emblem der Erkenntnis	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Emblem der Erkenntnis}
+
+Dieser Gegenstand erhöht Adlerauge um 15%."
+Staatsmannorden	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Staatsmannorden}
+
+Am Hals getragen, reduziert der Staatsmannsorden die Kosten einer Kapitulation."
+Diplomatenring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Diplomatenring}
+
+Am Finger getragen, reduziert der Diplomatenring die Kosten einer Kapitulation."
+Ehrenschärpe	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Ehrenschärpe}
+
+Über die Schultern geworfen, reduziert die Ehrenschärpe die Kosten einer Kapitulation."
+Ring des Wandersmanns	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring des Wandersmanns}
+
+Am Finger getragen, erhöht dieser Ring die Kampfgeschwindigkeit aller Eurer Einheiten um +1."
+Reiterhandschuhe	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Reiterhandschuhe}
+
+An den Händen getragen, erhöhen diese Handschuhe die Bewegungsrate Eures Helden an Land."
+Halsband des Navigators	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Halsband des Navigators}
+
+Um den Hals getragen, erhöht dieses Halsband die Bewegungsrate Eures Helden auf See."
+Engelsflügel	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Engelsflügel}
+
+An den Schultern befestigt, erlauben Euch diese Flügel das Fliegen."
+Managlücksbringer	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Managlücksbringer}
+
+Dieser Glückbringer bringt Euch 1 Zauberpunkt zusätzlich pro Tag zurück."
+Manatalisman	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Manatalisman}
+
+Dieser Talisman bringt Euch 2 Zauberpunkte zusätzlich pro Tag zurück."
+Mystische Manakugel	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Mystische Manakugel}
+
+Diese Kugel bringt Euch 3 Zauberpunkte zusätzlich pro Tag zurück."
+Kragen der Beschwörung	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Kragen der Beschwörung}
+
+Am Hals geragen, erhöht dieser Gegenstand die Dauer aller Eurer Zaubersprüche um 1."
+Ring der Beschwörung	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring der Beschwörung}
+
+Am Finger getragen, erhöht dieser Gegenstand die Dauer aller Eurer Zaubersprüche um 2."
+Umhang der Beschwörung	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Umhang der Beschwörung}
+
+Über die Schultern geworfen, erhöht dieser Gegenstand die Dauer aller Eurer Zaubersprüche um 3."
+Kugel des Firmaments	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des Firmaments}
+
+Diese mächtige Kugel sorgt dafür, daß alle Eure Luftzauber 50% mehr Schaden anrichten."
+Kugel des Schlamms	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des Schlamms}
+
+Diese mächtige Kugel sorgt dafür, daß alle Eure Erdzauber 50% mehr Schaden anrichten."
+Kugel des rasenden Feuers	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des rasenden Feuers}
+
+Diese mächtige Kugel sorgt dafür, daß alle Eure Feuerzauber 50% mehr Schaden anrichten."
+Kugel des prasselnden Regens	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des prasselnden Regens}
+
+Diese mächtige Kugel sorgt dafür, daß alle Eure Wasserzauber 50% mehr Schaden anrichten."
+Widerrufermantel	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Widerrufermantel}
+
+Wenn dieser Mantel getragen wird, könnt weder Ihr noch Euer Gegner Zaubersprüche der Stufe 3 oder höher aussprechen."
+Geist der Unterdrückung	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Geist der Unterdrückung}
+
+Dieser Gegenstand macht alle Moralboni während des Kampfes, für Euch und Euren Gegner, zunichte."
+Sanduhr der bösen Stunde	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Sanduhr der bösen Stunde}
+
+Dieser Gegenstand macht alle Glücksboni während des Kampfes, für Euch und Euren Gegner, zunichte."
+Buch der Feuermagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Feuermagie}
+
+Dieses schwere Buch enthält alle Sprüche der Feuermagieschule. Es muß aktiv sein, damit die Sprüche verfügbar sind."
+Buch der Luftmagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Luftmagie}
+
+Dieses schwere Buch enthält alle Sprüche der Luftmagieschule. Es muß aktiv sein, damit die Sprüche verfügbar sind."
+Buch der Wassermagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Wassermagie}
+
+Dieses schwere Buch enthält alle Sprüche der Wassermagieschule. Es muß aktiv sein, damit die Sprüche verfügbar sind."
+Buch der Erdmagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Erdmagie}
+
+Diese schwere Buch enthält alle Sprüche der Erdmagieschule. Es muß aktiv sein, damit die Sprüche verfügbar sind."
+Stiefel des Schwebens	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Stiefel des Schwebens}
+
+Wenn sie getragen werden, kann man in diesen Stiefeln übers Wasser gehen."
+Goldener Bogen	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Goldener Bogen}
+
+Wenn der Goldene Bogen benutzt wird, können Eure Truppen durch jedes Hindernis oder aus jeder Entfernung ohne Abzüge schießen."
+Sphäre der Permanenz	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sphäre der Permanenz}
+
+Im Kampf macht diese Sphäre Eure Einheiten gegen den Zauberspruch 'Magie zerstreuen' immun."
+Kugel der Verwundbarkeit	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Kugel der Verwundbarkeit}
+
+Im Kampf macht diese Kugel alle natürliche Magieresistenz sämtlicher Kreaturen auf dem Schlachtfeld zunichte."
+Ring der Vitalität	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring der Vitalität}
+
+Dieser Gegenstand erhöht die Gesundheit aller Eurer Truppen um +1."
+Ring des Lebens	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Ring des Lebens}
+
+Dieser Gegenstand erhöht die Gesundheit aller Eurer Truppen um +1."
+Blut des Lebens	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Blut des Lebens}
+
+Dieser Gegenstand erhöht die Gesundheit aller Eurer Truppen um +2."
+Halsband der Hurtigkeit	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Halsband der Hurtigkeit}
+
+Am Hals getragen, erhöht dieser Gegenstand die Kampfgeschwindigkeit aller Eurer Einheiten um +1."
+Stiefel der Geschwindigkeit	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Stiefel der Geschwindigkeit}
+
+An den Füßen getragen, erhöhen diese Stiefel die Bewegungsrate Eures Helden an Land."
+Umhang der Geschwindigkeit	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Umhang der Geschwindigkeit}
+
+Um die Schultern geworfen, erhöht dieser Umhang die Kampfgeschwindigkeit aller Eurer Einheiten um +2."
+Anhänger der Leidenschaftslosen	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Leidenschaftlosen}
+
+Wird dieser Gegenstand getragen, sind Eure Einheiten gegen den Zauberspruch 'Berserker' immun."
+Anhänger des zweiten Auges	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger des zweiten Auges}
+
+Wird dieser Gegenstand getragen, sind Eure Einheiten gegen den Zauberspruch 'Blenden' immun."
+Anhänger der Heiligkeit	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Heiligkeit}
+
+Wird dieser Gegenstand getragen, sind Eure Einheiten gegen den Zauberspruch 'Fluch' immun."
+Anhänger des Lebens	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des Lebens}
+
+Wird dieser Gegenstand getragen, sind Eure Einheiten gegen den Zauberspruch 'Kleine Todeswelle' immun."
+Anhänger des Todes	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des Todes}
+
+Wird dieser Gegenstand getragen, sind Eure Einheiten gegen den Zauberspruch 'Untote zerstören' immun."
+Anhänger des freien Willens	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des freien Willens}
+
+Wird dieser Gegenstand getragen, sind Eure Einheiten gegen den Zauberspruch 'Hypnose' immun."
+Anhänger der Aufhebung	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger der Aufhebung}
+
+Wird dieser Gegenstand getragen, sind Eure Einheiten gegen die Zaubersprüche 'Blitzstrahl' und 'Blitzstrahl-Salve' immun."
+Anhänger der Erinnerung	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Erinnerung}
+
+Wird dieser Gegenstand getragen, sind Eure Einheiten gegen den Zauberspruch 'Vergeßlichkeit' immun."
+Anhänger des Mutes	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger des Mutes}
+
+Wenn er getragen wird, erhöht dieser Gegenstand Moral und Glück aller Truppen Eures Helden um +3."
+Endloser Kristallmantel	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Endloser Kristallmantel}
+
+Wenn er getragen wird, erhöht dieser Mantel Eure Kristallproduktion um +1 pro Tag."
+Ring der Unendlichen Edelsteine	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring der Unendlichen Edelsteine}
+
+Wenn er getragen wird, erhöht dieser Ring Eure Edelsteinproduktion um +1 pro Tag."
+Endlose Quecksilberphiole	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Endlose Quecksilberphiole}
+
+Wenn sie aktiv ist, erhöht diese Phiole Eure Quecksilberproduktion um +1 pro Tag."
+Unermüdliche Eisenerzkarre	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Unermüdliche Eisenerzkarre}
+
+Wenn sie aktiv ist, erhöht diese Karre Eure Eisenerzproduktion um +1 pro Tag."
+Ewig rauchender Schwefelring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ewig rauchender Schwefelring}
+
+Wenn er getragen wird, erhöht dieser Ring Eure Schwefelproduktion um +1 pro Tag."
+Unermüdliche Holzkarre	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Unermüdliche Holzkarre}
+
+Wenn sie aktiv ist, erhöht diese Karre Eure Holzproduktion um +1 pro Tag."
+Endloser Goldsack	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Endloser Goldsack}
+
+Wenn er aktiv ist, erhöht der Endlose Goldsack Euer Einkommen um 1000 Gold pro Tag."
+Endlose Goldtasche	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endlose Goldtasche}
+
+Wenn sie aktiv ist, erhöht die endlose Goldtasche Euer Einkommen um 750 Gold pro Tag."
+Endloser Goldbeutel	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endloser Goldbeutel}
+
+Wenn er aktiv ist, erhöht der endlose Goldbeutel Euer Einkommen um 500 Gold pro Tag."
+Beine des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Beine des Legionärs}
+
+Wenn dieser Gegenstand bei einem Held in der Stadt aktiv ist, erhöht er die Zunahme Eurer Einheiten der 2. Stufe (in dieser Stadt) um 5 pro Woche. "
+Lenden des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Lenden des Legionärs}
+
+Wenn dieser Gegenstand bei einem Held in der Stadt aktiv ist, erhöht er die Zunahme Eurer Einheiten der 3. Stufe (in dieser Stadt) um 4 pro Woche. "
+Torso des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Torso des Legionärs}
+
+Wenn dieser Gegenstand bei einem Held in der Stadt aktiv ist, erhöht er die Zunahme Eurer Einheiten der 4. Stufe (in dieser Stadt) um 3 pro Woche. "
+Arme des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Arme des Legionärs}
+
+Wenn dieser Gegenstand bei einem Held in der Stadt aktiv ist, erhöht er die Zunahme Eurer Einheiten der 5. Stufe (in dieser Stadt) um 2 pro Woche. "
+Kopf des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kopf des Legionärs}
+
+Wenn dieser Gegenstand bei einem Held in der Stadt aktiv ist, erhöht er die Zunahme Eurer Einheiten der 6. Stufe (in dieser Stadt) um 1 pro Woche. "
+Kapitänsmütze	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Kapitänsmütze}
+
+Wenn sie getragen wird, erhöht diese Mütze Eure Bewegung auf See, ermöglicht das Herbeirufen und Versenken von Booten und schützt Euch vor Strudeln."
+Zauberhut	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Zauberhut}
+
+Wenn ergetragen wird, ermöglicht Euch dieser Hut, alle Zaubersprüche der 5. Stufe auszusprechen."
+Fesseln des Krieges	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Fesseln des Krieges}
+
+Wenn diese Fesseln im Kampf aktiv sind, könnt weder Ihr noch Euer Gegner Euch zurückziehen oder kapitulieren."
+Kugel der Hemmung	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Kugel der Hemmung}
+
+Diese mächtige Kugel verhindert jegliches Zaubern im Kampf."
+Phiole des Drachenblutes	20000						x	x	x	x	x										R	"{Phiole des Drachenblutes}
+
+Alle Drachen unter deinem Kommando erhalten +5 auf Angriff und Verteidigung"
+Armageddon-Klinge	50000																x				R	"{Armageddon-Klinge}
+
++ 3 Angriff. + 3 Verteidigung. + 6 Wissen. + 3 Zauberkraft. Ermöglicht Armageddon auf Expert-Level. Alle verbündeten Kreaturen werden gegen Armageddon immun"
+Engelsallianz																	x				R	"{Engelsallianz}
+
+Alle Rampart, Tower, Fortress, Stronghold und Castle Truppen können ohne Moralverlust gemischt werden. Am Anfang eines Kampfes wird Gebet auf Experten-Level ausgesprochen."
+Umhang des Untoten-Königs																			x		R	"{Umhang des Untoten-Königs}
+
+30% der Toten eines Kampfes werden als Sklette wiederbelebt. Hat der Held schon die Fähigkeit Necromantie, so wird dieser Prozentsatz diese hinzugefügt und ihr Level bestimmt welche Art wiedererweckt werden.
+Basic: Zombies
+Advanced: Geister
+Expert:  Liches"
+Elixier des Lebens							x	x	x	x	x										R	"{Elixier des Lebens}
+
+Alle Kreaturen bekommen einen 25% Bonus auf ihre Lebenspunkte. Gilt nicht für Untote oder nicht lebende Kreaturen (Golems und Gargoyles)."
+Rüstung des Verdammten															x						R	"{Rüstung des Verdammten}
+
+Auf alle Gegner wirken die folgenden Sprüche für fünfzig Runden im Kampf: Verlangsamung, Fluch, Schwäche und Unglück."
+Statue des Legionärs							x	x	x	x	x										R	"{Statue des Legionärs}
+
+Die Kreaturenproduktion wird in allen Städten um 50% erhöht, ausgenommen eines Bonus durch externe Behausungen. Dieser Effekt gilt unabhängig vom Aufenthaltsort des tragenden Helden."
+Macht des Drachenvaters															x						R	"{Macht des Drachenvaters}
+
++ 6 auf alle Primärfähigkeiten, alle Truppen werden immun gegen Sprüche der ersten bis vierten Stufe."
+Titanendonner																	x				R	"{Titanendonner}
+
+Der Held bekommt ein Zauberbuch und die Fähigkeit den Spruch Lightning Bolt mit einer Wirkung von 600 Schadenspunkten auszusprechen, ohne dabei Spellpoints zu verlieren."
+Admiralshut																				x	R	"{Admiralshut}
+
+Es gibt keine Strafe für das An- oder Von-Bord gehen. Bewegungspunke für Wasser und Land werden in einander umgerechnet."
+Bogen des Meisterschützen							x	x	x	x	x						 				R	"{Bogen des Meisterschützen}
+
+Schützen können auch schießen, wenn feindliche Kreaturen neben ihnen stehen. Keine Strafe für Hindernisse oder Entfernung."
+Zauberbrunnen							x	x	x	x	x										R	"{Zauberbrunnen}
+
+Regeneriert jeden Tag alle Zauberpunkte."
+Ring des Magiers													x	x							R	"{Ring des Magiers}
+
+Alle Sprüche dauern fünfzig Runden länger."
+Füllhorn							x	x	x	x	x										R	"{Füllhorn}
+
+Der Spieler erhält täglich vier Einheiten der wertvollen Ressourcen Kristalle, Quecksilber, Schwefel und Edelsteine."
+Diplomat's Suit																			x		R	"{Diplomat's Suit}
+
+This is a kick-ass artifact."
+Mired in Neutrality															x						R	"{Mired in Neutrality}
+
+This is a kick-ass artifact."
+Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}
+
+This is a kick-ass artifact."
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						

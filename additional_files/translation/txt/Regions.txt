@@ -1,0 +1,70 @@
+Region Name	Campaign Name	Scenario Name	Map Area Name
+"{Southport}
+
+Königin Catherine ist abgereist, um bei König Gavin Magnus von Bracada um militärische Unterstützung zu bitten. Andere Generäle sind in der Region verstreut. Baut eine Operationsbasis auf, versammelt das örtliche Militär und findet den Umfang der Besetzung durch Nighon und ihre Invasionsroute heraus."	Good1	G1a	Map Area 1
+"{Angelgate}
+
+Berichte über Engel in der Nähe der Stadt Fair Feather verlangen nach weiterer Überprüfung. Falls die Gerüchte wahr sind, müssen wir die Sicherheit der Stadt garantieren und vielleicht die Engel davon überzeugen, sich mit uns zu verbünden."	Good1	G1b	Map Area 2
+"{Gryphon Cliff}
+
+Die Region um das Gryphon Cliff, dem jährlichen Brutplatz, aus der fast die gesamte Greifenpopulation Erathias stammt, ist zur Zeit unter der Kontrolle der gemeinsamen Armeen von Nighon und der Kreeganer. Vor Generationen waren die Greifen der Schlüssel zum Aufbau Erathias und nun sind sie der Schlüssel zur Wiedererlangung."	Good1	G1c	Map Area 3
+"{Battlestead}
+
+Der erste Schritt in unserem Kampf für die Befreiung Erathias ist es, die Hauptstadt Steadwick von der Besetzung der Nighon zu befreien. Das wird nicht leicht werden, da die Dungeon-Overlords die Bergpässe ins Steadwicktal besetzt haben."	Good2	G2a	Map Area 1
+"{Eeofol}
+
+Ein Brief von Luzifer Kreegan III., dem Lord Oberbefehlshaber von Eeofol, erreicht Königin Catherine in ihrem Palast. Er behauptet darin, dass er Catherines Ehemann Roland Ironfist von Enroth gefangen hält und dass nur ein Lösegeld von einer Million Goldstücken ihn retten kann."	Good2	G2b	Map Area 2
+"{Marshland und Hillbridge}
+
+Ein Botschafter aus Bracada bringt eine Nachricht seines Anführers Gavin Magnus, der seine Hilfe bei der Rückeroberung Westerathias von den maraudierenden tatalianischen und krewlischen Truppen anbietet. Es ist Zeit, Eure Nachbarn daran zu erinnern, wo ihre Grenzen liegen."	Good2	G2c	Map Area 3
+"{Grainrich und Fire Coast}
+
+Wir wissen nun, wie Erathia an Nighon und Eeofol fiel. Sie haben die Meerenge von Nighon untertunnelt und brachen in die Zwergentunnel an der Erathianischen Küste ein. Wir müssen sie zwingen, die Tunnel wieder zu benutzen - diesmal als Fluchtweg, wenn wir sie für immer aus Erathia vertreiben."	Good2	G2d	Map Area 4
+"{Marshland}
+
+Euch wird ein Söldnervertrag mit König Tralossk von Tatalia angeboten, der ein für allemal wünscht, dass seine Nation aus etwas anderem als nur Sumpfland bestehen soll. Jetzt da Erathia abgelenkt ist, hat er beschlossen, dass der Augenblick für eine Ausweitung der Tatalianischen Grenzen gekommen ist."	Neutral1	N1a	Map Area 1
+"{Minewell}
+
+Herzog Winston Boragus, der Anführer von Krewlod, bietet Euch einen Söldnervertrag an, nach dem Ihr eine Reihe von Überfällen im Erathianischen Gebiet durchführen sollt. Der Plan ist, genug Gold zu rauben, um den Armeen von Krewlod den Kauf von dem zu ermöglichen, was sie für... andere Dinge brauchen."	Neutral1	N1b	Map Area 2
+"{Hillbridge}
+
+Sowohl König Tralossk von Tatalia als auch Herzog Boragus von Krewlod wollen Euch in ihren Dienst nehmen. Beide Länder wollen das letzte Stück Land zwischen ihren beiden Ländern einnehmen. Ironischerweise ist dieses Gebiet beinahe wertlos. Ihr müsst entscheiden, welchem Land Ihr dienen wollt. Die Entscheidung liegt allein bei Euch."	Neutral1	N1c	Map Area 3
+"{Forestlow}
+
+Ein Totenbeschwörer versucht mit Beweisen zur Überführung des Mörders von König Greifenherz einen Erathianischen Außenposten zu erreichen. Er ist momentan in Sicherheit, aber sein Weg ist durch Untote versperrt, die ihrem neuen König treu ergeben sind. Ihr müsst ihn auf der letzten Etappe begleiten."	Good3	G3a	Map Area 1
+"{Emerald Hills bis Woodgrove}
+
+Ihr befehligt die vereinten Armeen von Erathia, AvLee und Bracada, außerdem die der Totenbeschwörer, die sich auf Eure Seite geschlagen haben, um gegen König Greifenherz zu kämpfen. Die Untoten sind zahlenmäßig weit überlegen, aber Ihr müsst siegen."	Good3	G3b	Map Area 2
+"{Marble Garden}
+
+Dies ist die letzte Schlacht. Unsere Anwesenheit hat bereits dafür gesorgt, dass sich das Leben im Land wieder ausbreiten kann, aber wir müssen diese letzte Festung des Todes, in die sich König Greifenherz zurückgezogen hat, zerstören. Es ist an der Zeit, die Toten in ihre Gräber zurückzubringen."	Good3	G3c	Map Area 3
+"{Rionpoint}
+
+Bevor Erathia die Elfen von AvLee um Unterstützung bitten kann, haben wir beschlossen, einen Schlag gegen den Ursprung von AvLees Stärke zu führen - die Königin der Goldenen Drachen. Wenn wir den stärksten Verbündeten der Elfen ausschalten, wird es ihnen unmöglich sein, Erathia militärische Hilfe zu gewähren."	Evil1	E1a	Map Area 1
+"{Grainrich}
+
+Unsere Truppen werden den größten Teil des Weges zur Erathianischen Hauptstadt durch unterirdische Tunnel zurücklegen. Um das Überraschungselement zu wahren, müsst Ihr jede Erathianische Siedlung angreifen, auf die Ihr trefft. Benutzt die vielen Höhlen der Gegend für Eure Zwecke."	Evil1	E1b	Map Area 2
+"{Battlestead}
+
+Greift die Erathianische Hauptstadt Steadwick an. Es wird nicht einfach, denn die Hauptstadt ist leicht und gut zu verteidigen. Außerdem sind Königin Catherines Truppen dorthin unterwegs, was die Lage verschärft. Wir müssen Steadwick einnehmen, bevor sie ankommt."	Evil1	E1c	Map Area 3
+"{Marble Garden}
+
+König Greifenherz, der Mann, der uns aus Erathia verbannte, ist tot. Die Invasion von Nighon und Eeofol hat uns das Geschenk seines Todes gemacht. Endlich können wir unsere Armeen aufbauen und selbst in Erathia einmarschieren. Doch zuerst brauchen wir einen Strategen. Ihr müsst das Grab von König Greifenherz finden."	Evil2	E2a	Map Area 1
+"{Emerald Hills}
+
+Wir haben eine perfekte Gegend entlang der Grenze Erathias gefunden, in der wir genug Kreaturen für unsere Armeen rekrutieren können, ohne die Aufmerksamkeit des Erathianischen Militärs zu erregen. Baut eine Armee auf, aber beeilt Euch - wir brauchen diese Truppen so schnell wie möglich."	Evil2	E2b	Map Area 2
+"{Strongwillow und Woodgrove}
+
+Ein abtrünniger Todesritter will nicht an dem Ruhm, den unser Einmarsch in Erathia bedeutet, teilhaben. Er glaubt, dass seine Länder bei einem Gegenschlag der Erathianer verschont werden würden, wenn er dem Kampf fernbliebe. Es ist an der Zeit, ihm in Punkto Gehorsam eine kleine Lektion zu erteilen."	Evil2	E2c	Map Area 3
+"{Forestbury}
+
+Es ist so weit. Der Lich König Greifenherz hat diesen Moment zum Angriff gewählt. Truppen aus ganz Deyja werden nach Erathia strömen und es überrennen. König Greifenherz selbst hat den Ort Eures Angriff ausgesucht. Denkt daran, Ihr habt geschworen, nicht zu versagen."	Evil2	E2d	Map Area 4
+"{Cloverfield}
+
+Bevor wir unsere Unabhängigkeit erklären können, brauchen wir ein Symbol. Dieses Symbol ist der Gral, der in dieser Gegend vor Jahrhunderten verloren ging. Wir müssen ihn finden, oder unser Plan ist gescheitert, bevor wir ihn beginnen können. Ihr habt sechs Wochen, um den Gral zu finden."	Secret1	S1a	Map Area 1
+"{Forestdale}
+
+Die Reise nach Welnin war nicht leicht, aber der schwierigste Teil der Reise liegt noch vor uns. Der Waldläufer Ryland hat den Gral und muss den Truppen, die loyal zu Erathia und AvLee stehen, ausweichen, um Welnin zu erreichen. Dort angekommen muss er den Bau einer ständigen Heimat für den Gral anordnen."	Secret1	S1b	Map Area 2
+"{Mosswood}
+
+Der Gral hat Welnin erreicht, aber nun müssen wir diese Stadt zur Hauptstadt ausbauen. Armeen aus Erathia und AvLee werden uns von allen Seiten angreifen. Bald werden wir beweisen, dass die Umstrittenen Länder nicht länger Ihnen gehören."	Secret1	S1c	Map Area 3

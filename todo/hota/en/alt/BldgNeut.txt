@@ -1,0 +1,29 @@
+Mage Guild Level 1	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Mage Guild Level 2	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Mage Guild Level 3	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Mage Guild Level 4	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Mage Guild Level 5	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Tavern	The Tavern increases morale for troops defending the city.
+Shipyard	The Shipyard allows you to purchase ships.
+Fort	The Fort provides your town with defensive walls.
+Citadel	"Including a 50% increase to base creature growth, the Citadel adds a keep, and other terrain obstacles, to a town's defenses."
+Castle	"The Castle adds two arrow towers, fortifies your town's defenses, and doubles base creature growth."
+Village Hall	The Village Hall allows you to purchase town structures and earns your kingdom 500 gold per day.
+Town Hall	The Town Hall allows you to purchase town structures and earns your kingdom 1000 gold per day.
+City Hall	The City Hall allows you to purchase town structures and earns your kingdom 2000 gold per day.
+Capitol	The Capitol earns your kingdom 4000 gold per day.
+Marketplace	"With the Marketplace, you can buy and sell resources (exchange rates increase with each Marketplace you own)."
+	
+Blacksmith	The Blacksmith provides your armies with %s.
+Moat	The Moat slows attacking units.  Any unit entering the moat must end its turn there and becomes more vulnerable to attack.
+Shipyard with ship	The Shipyard allows you to purchase ships.
+Blacksmith	The Blacksmith provides your armies with Ballistas.
+Blacksmith	The Blacksmith provides your armies with First Aid Tents.
+Blacksmith	The Blacksmith provides your armies with Ammo Carts.
+Blacksmith	The Blacksmith provides your armies with Ammo Carts.
+Blacksmith	The Blacksmith provides your armies with First Aid Tents.
+Blacksmith	The Blacksmith provides your armies with Ballistas.
+Blacksmith	The Blacksmith provides your armies with Ammo Carts.
+Blacksmith	The Blacksmith provides your armies with First Aid Tents.
+Blacksmith	The Blacksmith provides your armies with Ballistas.
+Blacksmith	The Blacksmith provides your armies with War Machines.

@@ -1,0 +1,3 @@
+{Background sounds}
+
+If turned off then sound at the beginning of new day, at the start of battle and map object sounds are not played.

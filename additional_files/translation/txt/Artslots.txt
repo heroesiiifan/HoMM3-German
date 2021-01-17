@@ -1,0 +1,19 @@
+Kopf
+Schultern
+Hals
+Rechte Hand
+Linke Hand
+Oberkörper
+Rechter Ring
+Linker Ring
+Füße
+Versch. 1
+Versch. 2
+Versch. 3
+Versch. 4
+Kriegsmasch. 1
+Kriegsmasch. 2
+Kriegsmasch. 3
+Kriegsmasch. 4
+Zauberbuch
+Versch. 5

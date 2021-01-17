@@ -1,0 +1,430 @@
+3,4c3,4
+< "{Angriff}
+< 
+---
+> "{Angriff}
+> 
+6,7c6,7
+< "{Verteidigung}
+< 
+---
+> "{Verteidigung}
+> 
+9,10c9,10
+< "{Zauberkraft}
+< 
+---
+> "{Zauberkraft}
+> 
+12,13c12,13
+< "{Wissen}
+< 
+---
+> "{Wissen}
+> 
+68,69c68,69
+< "{Glück}
+< 
+---
+> "{Glück}
+> 
+71,72c71,72
+< "{Neutrales Glück}
+< 
+---
+> "{Neutrales Glück}
+> 
+74,75c74,75
+< "{Pech}
+< 
+---
+> "{Pech}
+> 
+77,79c77,79
+< "%s
+< 
+< 
+---
+> "%s
+> 
+> 
+81c81
+< "
+---
+> "
+83c83
+< "
+---
+> "
+85c85
+< "
+---
+> "
+87c87
+< "
+---
+> "
+89c89
+< "
+---
+> "
+91c91
+< "
+---
+> "
+93c93
+< "
+---
+> "
+95c95
+< "
+---
+> "
+97c97
+< "
+---
+> "
+99c99
+< "
+---
+> "
+101c101
+< "
+---
+> "
+103c103
+< "
+---
+> "
+105c105
+< "
+---
+> "
+107c107
+< "
+---
+> "
+109c109
+< "
+---
+> "
+111c111
+< "
+---
+> "
+113c113
+< "
+---
+> "
+115c115
+< "
+---
+> "
+117c117
+< "
+---
+> "
+119,121c119,121
+< "
+< %s unterdrückt alles Glück"
+< "
+---
+> "
+> %s unterdrückt gutes Glück"
+> "
+124,125c124,125
+< "{Gute Moral}
+< 
+---
+> "{Gute Moral}
+> 
+127,128c127,128
+< "{Neutrale Moral}
+< 
+---
+> "{Neutrale Moral}
+> 
+130,131c130,131
+< "{schlechte Moral}
+< 
+---
+> "{schlechte Moral}
+> 
+133,135c133,135
+< "%s
+< 
+< 
+---
+> "%s
+> 
+> 
+137c137
+< "
+---
+> "
+139c139
+< "
+---
+> "
+141c141
+< "
+---
+> "
+143c143
+< "
+---
+> "
+145c145
+< "
+---
+> "
+147c147
+< "
+---
+> "
+149c149
+< "
+---
+> "
+151c151
+< "
+---
+> "
+153c153
+< "
+---
+> "
+155,157c155,157
+< "
+< Grab besucht -1"
+< "
+---
+> "
+> Krypta besucht -1"
+> "
+159c159
+< "
+---
+> "
+161c161
+< "
+---
+> "
+163c163
+< "
+---
+> "
+165c165
+< "
+---
+> "
+167c167
+< "
+---
+> "
+169c169
+< "
+---
+> "
+171c171
+< "
+---
+> "
+173c173
+< "
+---
+> "
+175c175
+< "
+---
+> "
+177c177
+< "
+---
+> "
+179c179
+< "
+---
+> "
+181c181
+< "
+---
+> "
+183c183
+< "
+---
+> "
+185c185
+< "
+---
+> "
+187c187
+< "
+---
+> "
+189c189
+< "
+---
+> "
+191c191
+< "
+---
+> "
+193c193
+< "
+---
+> "
+195c195
+< "
+---
+> "
+197c197
+< "
+---
+> "
+199c199
+< "
+---
+> "
+201c201
+< "
+---
+> "
+203c203
+< "
+---
+> "
+205c205
+< "
+---
+> "
+207c207
+< "
+---
+> "
+209c209
+< "
+---
+> "
+211c211
+< "
+---
+> "
+216,217c216,217
+< "Astrologen verkünden den %s-Monat.
+< 
+---
+> "Astrologen verkünden den %s-Monat.
+> 
+219,222c219,222
+< "Astrologen verkünden den %s-Monat.
+< 
+< %s Bevölkerung verdoppelt sich!
+< 
+---
+> "Astrologen verkünden den %s-Monat.
+> 
+> %s Bevölkerung verdoppelt sich!
+> 
+224,225c224,225
+< "Astrologen verkünden einen PEST-Monat
+< 
+---
+> "Astrologen verkünden einen PEST-Monat
+> 
+227,228c227,228
+< "Die Astrologen verkünden die %s-Woche.
+< 
+---
+> "Die Astrologen verkünden die %s-Woche.
+> 
+230,233c230,233
+< "Die Astrologen verkünden die %s-Woche.
+< 
+< %s-Wachstum +5.
+< 
+---
+> "Die Astrologen verkünden die %s-Woche.
+> 
+> %s-Wachstum +5.
+> 
+235,239c235,239
+< "Die Astrologen verkünden die %s-Woche.
+< 
+< %s Wachstum +%d.
+< %s Wachstum +%d.
+< 
+---
+> "Die Astrologen verkünden die %s-Woche.
+> 
+> %s Wachstum +%d.
+> %s Wachstum +%d.
+> 
+263,272c263,272
+< im Dreck.
+< unter einer Sanddüne.
+< auf einer grünen Ebene.
+< unter einer Schneewehe.
+< in einem trüben Sumpf.
+< im sonnenverbrannten Ödland.
+< in einer unterirdischen Höhle.
+< begraben unter unfruchtbarer Lava.
+< in den Tiefen des Ozeans.
+< unter einem Stein.
+---
+> im Drec
+> unter einer Sanddüne
+> auf einer grünen Ebene
+> unter einer Schneewehe
+> in einem trüben Sumpf
+> im sonnenverbrannten Ödland
+> in einer unterirdischen Höhle
+> begraben unter unfruchtbarer Lava
+> in den Tiefen des Ozeans
+> unter einem Stein
+281c281
+< wenige (1-4)
+---
+> wenige ({1-4})
+284c284
+< einige (5-9)
+---
+> einige ({5-9})
+287c287
+< ein Rudel (10-19)
+---
+> ein Rudel ({10-19})
+290c290
+< viele (20-49)
+---
+> viele ({20-49})
+293,294c293,294
+< eine Horde (50-99)
+< >100
+---
+> eine Horde ({50-99})
+> 100-249
+296,297c296,297
+< ein Haufen (100-249)
+< >250
+---
+> ein Haufen ({100-249})
+> 250-499
+299,300c299,300
+< ein Trupp (250-499)
+< >500
+---
+> ein Trupp ({250-499})
+> 500-999
+302c302
+< Armee (500-999)
+---
+> Armee ({500-999})
+305c305
+< eine Legion (1000+)
+---
+> eine Legion ({1000+})
+311c311
+< "Mensch
+---
+> "Mensch

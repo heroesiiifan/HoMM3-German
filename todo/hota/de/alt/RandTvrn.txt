@@ -1,0 +1,354 @@
+Der schwarze Drache mag stärker sein als ein Titan, aber noch nicht einmal ein großer Titan könnte ohne Hilfe einen Erzengel besiegen.
+"Ein weiser Mann hat einmal gesagt, ""Teile deine Weisheit nicht mit Jedermann."""
+Der scharlachrote Schwan schwimmt in einem kleinen See.
+Blut ist dicker als Wasser.
+Was den Imps und Ihresgleichen an Stärke fehlt, machen sie durch ihre Anzahl wieder wett.
+Bleibt Euch selbst stets treu.
+Der Mantel der Finsternis kann benutzt werden, um Euren Feinden zu entgehen.
+Findet den Gral - er ist mächtiger, als Ihr Euch vorstellen könnt.
+Findet einen guten Kartographen. Seine Karten mögen teurer sein, sind aber sehr genau.
+Hütet Euch vor Kreeganern, die Geschenke bringen
+Beschützt im Kampf immer Eure Artillerie.
+Manchmal ist der beste Weg eine Niederlage zu vermeiden, dem Kampf aus dem Weg zu gehen!
+Greift dort an, wo Euer Feind schwach ist.
+Habt Ihr je von dem Frosch gehört, der davon träumte, König zu sein... und dann einer wurde?
+Ein Zauberer hat kürzlich einen Zauberspruch entdeckt, der eine GANZE ARMEE fliegen lässt.
+Chaos ist der beste Freund der Overlords.
+Man sagt, dass keine Verteidigung dem Angriff eines Ur-Behemoth widerstehen kann.
+Lasst Euch in Erathia niemals in einen Landkrieg verwickeln.
+Troglodyten haben keine Augen, können aber trotzdem sehen.
+Ignoriert niemals ein Untergrundtor, denn sonst können sich Eure Feinde ungesehen anschleichen.
+Nur die Grünen und die Goldenen Drachen sind gut. Die Roten und die Schwarzen Drachen dienen den Dungeon Overlords, und die Knochen- und die Geisterdrachen sind die bösartigen Schöpfungen der Totenbeschwörer.
+Heute ist das Morgen von gestern.
+Ein Reisender hat mir erzählt, dass die Ironfists von Enroth das Mandat des Himmels verloren haben.
+Wenn Ihr eine Schule der Magie gemeistert habt, werden die meisten Sprüche, die sonst nur auf eine Einheit wirken, Wirkung auf all Eure Verbündeten oder alle Feinde haben - manchmal sogar auf beide!
+Wenn Ihr durch die Wüste reist, sucht nach Oasen, denn sie können Eure Reise beschleunigen.
+Sucht die Steine des Lernens, die über das Land verstreut sind. Ihr könnt von jedem nur einmal lernen, aber Ihr lernt viel.
+Sicherheit liegt in der Anzahl, besonders wenn die in die Tausende geht!
+Erinnert Euch, dass der schwarze Drache gegen Zaubersprüche immun ist, nur ein Drachentöter kann ihm zusätzlichen Schaden zufügen.
+Die Zauberspürche Eile und Verlangsamung können im Kampf mächtige Verbündete sein, besonders in den höheren Stufen der Zauberkunst.
+Bekämpft Feuer mit Schutz vor Feuer.
+Wasser kann denen, die es gemeistert haben, wenig Schaden zufügen.
+Luft kann denen, die sie gemeistert haben, wenig Schaden zufügen.
+Erde kann denen, die sie gemeistert haben, wenig Schaden zufügen.
+Die Universität kann Euch alles lehren... wenn der Preis stimmt.
+Erzengel sind die mächtigsten Wesen der Schloss-Städte.
+Golddrachen sind die mächtigsten Wesen der Schutzwall-Städte.
+Titanen sind die mächtigsten Wesen der Turm-Städte.
+Erzteufel sind die mächtigsten Wesen der Inferno-Städte.
+Geisterdrachen sind die mächtigsten Wesen der Nekropolis-Städte.
+Schwarze Drachen sind die mächtigsten Wesen der Dungeon-Städte.
+Ur-Behemoths sind die mächtigsten Wesen der Burg-Städte.
+Chaoshydren sind die mächtigsten Wesen der Festungs-Städte.
+Mit dem richtigen Zauberspruch könnt Ihr Euer Boot versenken, damit Eure Feinde es nicht benutzen können. Für die Rückreise gibt es schließlich den Zauberspruch 'Boot herbeirufen'.
+Nichts weckt die Lebensgeister so wie meine berühmten, gebackenen Erathianischen Aale. Oder? Nun, wie wär's mit etwas Pegasus-Pastete?
+Hey, hier gibt es keine Neuigkeiten. Und zwar weil Leute Wie IHR nicht oft genug herkommt, um mir die neuesten Gerüchte zu erzählen.
+Um diese Jahreszeit gefriert die See um die Elfeninsel Vori.
+Vori ist eine Nation, die sich von den anderen Ländern bewusst isoliert.
+Ich habe gehört, die Elfen aus Vori hätten schneeweiße Haut.
+Wusstet Ihr, dass die Elfen von AvLee von den Elfen aus Vori abstammen?
+Städte mit Zitadellen ziehen mehr Truppen an als Städte mit Forts.
+Ich habe gehört, die Turm-Städte handeln mit Artefakten.
+Wusstet Ihr, dass die Burg-Städte mit Kreaturen handeln?
+Ich habe gehört, dass Helden zwischen Inferno-Städten reisen können, ohne sich zu bewegen.
+Die Diebesgilde ist jedermanns und niemandes Freund.
+Schloss-Städte unter der Bewachung der Bruderschaft des Schwertes haben bei Belagerungen bessere Chancen.
+Ich habe gehört, die Bewohner der Schloss-Städte werden zu Ehren des Helden, der ihnen den Gral bringt, einen riesigen Koloss aufstellen.
+Ich habe gehört, dass die Bewohner der Schutzwall-Städte einen Wachgeist zu Ehren des Helden aufstellen wollen, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Turm-Städte ein großes Luftschiff zu Ehren des Helden bauen werden, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Inferno-Städte eine Feuergottheit herbeirufen werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Nekropolis-Städte einen großen Seelenkerker bauen werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Dungeon-Städte einen Beschützer der Erde herbeirufen werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Burg-Städte ein großes Kriegerdenkmal errichten werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Festungs-Städte eine große Fleischfressende Pflanze wachsen lassen werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Erathianische Pferde sind die schnellsten im ganzen Land.
+Erathianische Scharfschützen können zwei Pfeile in der Zeit abschießen, in der ein normaler Bogenschütze einen Pfeil abschießt.
+Greife, die am königlichen Hof trainiert wurden, sind furchterregende Verteidiger.
+Erathianische Kreuzritter können in der Zeit, in der ein normaler Schwertkämpfer einmal zuschlägt, zweimal zuschlagen.
+Habt Ihr gehört? Zeloten sind Wesen aus reiner Energie.
+Lasst Eure Kämpen den Feind niederrennen. Das Resultat wird Euch gefallen. Je mehr Anlauf, desto besser.
+Engel kämpfen noch verbissener, wenn sie es mit Teufeln zu tun haben.
+Ich habe gesehen, wie Erzengel in der Hitze des Gefechts gefallene Kameraden wiederbelebten.
+Man sagt, dass ein Engel die Moral jeder Armee verbessert, außer einer untoten.
+Ich habe einmal erlebt, wie ein Zwerg einem Zauberspruch widerstanden hat, der auf ihn angewendet wurde.
+Man sagt, dass die Bogenschützen der Großelfen sogar die erathianischen Scharfschützen ausstechen können.
+Man dagt, dass feindliche Zauberer sich mehr anstrengen müssen, wenn Sie es mit Pegasi zu tun haben.
+Die Wurzeln der Dendroiden halten ihre Feinde an einem Ort fest.
+Wenn Ihr Euch vor Zaubersprüchen schützen wollt, stellt euch neben ein Einhorn.
+Obwohl sie nicht so immun sind wie Golddrachen, widerstehen Grüne Drachen den meisten Zaubersprüchen.
+Goldene Drachen widerstehen mehr Zaubersprüchen als Grüne, aber nicht so vielen wie Schwarze Drachen.
+Vertraute entziehen den Zaubersprüchen, die Ihr anwendet, Mana und geben es an ihre Generäle weiter.
+Magogs werfen explodierende Feuerbälle, die alles rund um das Ziel verbrennen.
+Es ist unmöglich, sich gegen den bösartigen Angriff eines dreiköpfigen Zerberus zu wehren.
+Einst sah ich einen Grottenlord Dämonen aus gefallenen Verbündeten beschwören.
+Da sie von der Feuerebene sind, werden Efreets von Feuermagie nicht beeinflusst.
+Efreets schlagen mit besonderer Wut zu, wenn sie Dschinns angreifen.
+Efreetsultane sind von Natur aus durch ein Feuerschild geschützt.
+In der Nähe von Teufeln kann man nicht mit Glück rechnen.
+Wenn Teufel reisen, dann reisen sie in ihre Ebene, bevor sie in unsere Welt zurückkehren.
+Es ist unmöglich, den schwingenden Sensenangriffen der Teufel etwas entgegenzusetzen.
+Wenn sie einen Engel angreifen, schlagen Teufel mit gewaltigem Ärger zu.
+Hütet Euch vor der Berührung eines Zombies. Ihr könntet davon krank werden.
+Geister und Gespenster sind niederträchtige Seelen. Wenn Ihr sie nicht mit dem ersten Schlag tötet, werden sie sich selbst wieder vollständig heilen.
+Gespenster leben von magischer Energie. Mana verschwindet in ihrem Beisein.
+Ich habe gehört, dass die Geister von Enroth viel gefährlicher sind, als die Geister und Gespenster von Erathia.
+Auf dem Schlachtfeld gewinnt meist die Seite, die als erste zuschlägt.
+Auf dem Schlachtfeld ist Geschwindigkeit Leben, und Leben ist Geschwindigkeit.
+Ich habe gesehen, wie tote Vampirlords von dem Blut ihrer gefallenen Feinde wiederbelebt wurden.
+Es ist unmöglich, sich gegen die fürchterlichen Angriffe eines Vampires zu wehren.
+Die Attacke eines Lichs zerfetzt die Lebenden, während die Toten verschont bleiben.
+Ein Schlag von einem schwarzen Ritter kann einen Feind verfluchen.
+Schattenritter sind mächtige Krieger, die ihre Feinde mit einem einzigen tödlichen Streich niedermetzeln können.
+Auf dem Schlachtfeld pflanzen Knochen- und Geisterdrachen Angst in die Herzen ihrer Gegner.
+Geisterdrachen dürstet es nach der Vitatität der Jungen. Hütet Euch, Ihr könntet vorschnell altern.
+Golems haben keinen eigenen Willen.
+Golems werden durch eine Magie zum Leben erweckt, die den meisten Menschen unbekannt ist.
+Durch ihre magische Natur können Golems feindlichen Zaubersprüchen länger standhalten.
+Man sagt, dass Magier und Erzmagier ihren Helden helfen, Zaubersprüche auszusprechen.
+Erzmagier können ihre Magie mit mehr Präzision anwenden, als die meisten Bogenschützen ihre Pfeile.
+Efreets sind die natürlichen Feinde der Dschinns.
+Dschinns schlagen Efreets mit einem Hass, den ich selten gesehen habe.
+Meisterdschinns können genauso gut zaubern wie jeder Held.
+Man kann kaum hoffen, der vier- oder sechsärmigen Attacke eines Naga zu widerstehen.
+Der Angriff eines Nagas ist eine Lektion in präzisem Schwertkampf.
+Nur die Engel und Erzengel können es im Schwertkampf mit den Naga aufnehmen.
+Die meisten unterschätzen die Intelligenz von Giganten und Titanen. Niemand kann sich ihres Verstandes bemächtigen.
+Titanen werden schwarze Drachen wilder angreifen als jeden anderen Feind.
+Wolfsreiter sind behende Kreaturen. Sie schlagen zweimal zu, bevor Ihr Euer Schild hochnehmen könnt.
+Ogermagier sind entsetzliche Monster. Sie entfachen in ihren Verbündeten einen Blutdurst, den ich nie zuvor gesehen habe.
+Der Angriff eines Donnervogels kommt wie ein Blitz aus heiterem Himmel.
+Wenn Ihr eine Stadt erobern wollt, bringt einige Zyklopen mit. Ihre Fähigkeit, mit Felsen zu werfen, kann Stadtmauern schneller überwinden helfen, als jedes Katapult.
+Wenige haben den Angriff eines Behemoths überlebt. Manche sagen, es gibt gegen sie keinerlei Verteidigung.
+Da Troglodyten keine Augen haben, kann man sie auch nicht blenden.
+Viele Armeen sind unter den Sturzflugangriffen der Harpyien gefallen, ohne dass die Harpyien auch nur einen einzigen Verlust erlitten hätten.
+Harpyienhexen schlagen schnell zu und verschwinden, bevor Ihr Euch wehren könnt.
+Betrachter sind die zuversichtlichsten Kreaturen. Sogar wenn sie umzingelt sind, verlieren sie nie ihre Gelassenheit.
+Viele fürchten die versteinernden Attacken der Medusen. Ihre goldenen Pfeile solltet Ihr aber genau so fürchten.
+Sogar in aussichtslosen Situationen genießen die Minotauren den Blutrausch der Schlacht.
+Man sagt, das starke Gift der Scorpicoren könne einen Golem paralysieren.
+Kein Zauberspruch der Welt kann einem Schwarzen Drachen schaden.
+Es wird erzählt, die Kugel der Verwundbarkeit könne den mächtigen schwarzen Drachen unterwerfen.
+Im Kampf suchen schwarze Drachen nach Titanen, sagt man.
+Wenige verstehen wie, aber die Drachenfliege kann Zaubersprüche aufheben.
+Über die Riesengorgone ist nur wenig bekannt. Ich habe einmal gehört, ihr in die Augen zu sehen, bedeute den sofortigen Tod.
+Hütet Euch vor dem Gift des Wyvernkönigs. Es wird Euch die Gesundheit noch schneller rauben, als das Biest fliegen kann.
+Es ist unmöglich, sich gegen die Attacke der vielköpfigen Hydra zu wehren.
+Wenn Ihr schnell lernen wollt, dann besucht eine Akademie der Kriegskunst in einer Dungeon-Stadt.
+Man glaubt, dass die Hexer einen Mana-Strudel erschaffen können, der ihre Manakapazität verdoppelt.
+Durch das Portal der Beschwörung können Dungeon-Städte Kreaturen von der Oberfläche rekrutieren.
+Festungs-Städte bauen den Blut-Obelisken, um die Entschlossenheit der Stadtverteidiger zu erhöhen.
+Nach einem Tag im Käfig eines Kriegsherren wisst Ihr besser, wie Ihr Euch verteidigen müsst.
+Wenn Ihr eine Inferno-Stadt angreift, werdet Ihr Schwefelwolken bemerken. Vorsicht, ihre Zauberer profitieren von dieser Energiequelle.
+Man sagt, dass die Inferno-Städte durch Dimensiontore miteinander verbunden sind. Das einfache Volk nennt sie Schloss-Portale.
+Wenn Eure Helden mehr Macht wünschen, besucht den Orden des Feuers in einer Inferno-Stadt.
+Der Mantel der Finsternis verdeckt alle, die unter der Herrschaft eines Totenbeschwörers stehen.
+Man glaubt, dass Kriegsgefangene, die in eine Nekropolis-Stadt gebracht werden, gehäutet und skelettiert werden, um sie in die untoten Horden der Totenbeschwörer und der Todesritter aufnehmen zu können.
+Einige glauben, dass jede Nekropolis-Stadt einen 'Nekromatie-Verstärker' errichtet, der ihren Helden hilft, die Toten wieder auferstehen zu lassen.
+Noch seltener als Edelsteinteiche ist der Mystische Teich. Man weiß nie, welche kostbaren Rohstoffe man dort finden wird.
+Schutzwall-Städte errichten Quellen des Glücks, um ihre Verteidiger mit verblüffendem Glück auszustatten.
+Wenn Ihr nach Gold verlangt, dann deponiert es in einer Schatzkammer in einer Schutzwall-Stadt
+Manche Burgen bauen Fluchttunnel für einen schnellen Rückzug während einer verlorenen Belagerung.
+Helden, die die Hallen von Wallhalla in einer Burg-Stadt besuchen, werden bessere Krieger.
+Wenn Ihr mehr wissen wollt, besucht den Wall der Weisheit in einer Turm-Stadt.
+Auf verfluchtem Boden hat Niemand einen Vorteil.
+In den magischen Ebenen kann sogar ein normaler Mann Zaubersprüche wie der beste Zauberer aussprechen.
+Ich habe gehört, die Bewohner der Schloss-Städte werden zu Ehren des Helden, der ihnen den Gral bringt, einen riesigen Koloss aufstellen.
+Schloss-Städte unter der Bewachung der Bruderschaft des Schwertes haben bei Belagerungen bessere Chancen.
+Die Diebesgilde ist jedermanns und niemandes Freund.
+Ich habe gehört, dass Helden zwischen Inferno-Städten reisen konnten, ohne sich zu bewegen.
+Wusstet Ihr, dass die Burg-Städte mit Kreaturen handeln?
+Ich habe gehört, die Turm-Städte handeln mit Artefakten.
+Städte mit Zitadellen ziehen mehr Truppen an als Städte mit Forts.
+Der schwarze Drache mag stärker sein als ein Titan, aber noch nicht einmal ein großer Titan könnte ohne Hilfe einen Erzengel besiegen.
+"Ein weiser Mann hat einmal gesagt, ""Teile deine Weisheit mit Niemandem."""
+Der scharlachrote Schwan schwimmt in einem kleinen See.
+Blut ist dicker als Wasser.
+Was den Imps und Ihresgleichen an Stärke fehlt, machen sie durch ihre Anzahl wieder wett.
+Bleibt Euch selbst stets treu.
+Der Mantel der Finsternis kann benutzt werden, um Euren Feinden zu entgehen.
+Findet den Gral - er ist mächtiger, als Ihr Euch vorstellen könnt.
+Findet einen guten Kartographen. Seine Karten mögen teurer sein, sind aber sehr genau.
+Hütet Euch vor Kreeganern, die Geschenke bringen
+Beschützt im Kampf immer Eure Artillerie.
+Manchmal ist der beste Weg, eine Niederlage zu vermeiden, dem Kampf aus dem Weg zu gehen!
+Greift dort an, wo Euer Feind schwach ist.
+Habt Ihr je von dem Frosch gehört, der davon träumte, König zu sein... und dann einer wurde?
+Ein Zauberer hat kürzlich einen Zauberspruch entdeckt, der eine GANZE ARMEE fliegen lässt.
+Chaos ist der beste Freund der Overlords.
+Man sagt, dass keine Verteidigung dem Angriff eines Ur-Behemoth widerstehen kann.
+Lasst Euch in Erathia niemals in einen Landkrieg verwickeln.
+Troglodyten haben keine Augen, können aber trotzdem sehen.
+Ignoriert niemals ein Untergrundtor, denn sonst können sich Eure Feinde ungesehen anschleichen.
+Nur die Grünen und die Goldenen Drachen sind gut. Die Roten und die Schwarzen Drachen dienen den Dungeon Overlords, und die Knochen- und die Geisterdrachen sind die bösartigen Schöpfungen der Totenbeschwörer.
+Heute ist das Morgen von gestern.
+Ein Reisender hat mir erzählt, dass die Ironfists von Enroth das Mandat des Himmels verloren haben.
+Wenn Ihr eine Schule der Magie gemeistert habt, werden die meisten Sprüche, die sonst nur auf eine Einheit wirken, Wirkung auf all Eure Verbündeten oder alle Feinde haben - und manchmal auf beide!
+Wenn Ihr durch die Wüste reist, sucht nach Oasen, denn sie können Eure Reise beschleunigen.
+Sucht die Steine des Lernens, die über das Land verstreut sind. Ihr könnt von jedem nur einmal lernen, aber Ihr lernt viel.
+Sicherheit liegt in der Anzahl, besonders wenn die in die Tausende geht!
+Erinnert Euch, dass der schwarze Drache gegen Zaubersprüche immun ist, nur ein Drachentöter kann ihm zusätzlichen Schaden zufügen.
+Die Zauberspürche Eile und Verlangsamung können im Kampf mächtige Verbündete sein, besonders in den höheren Stufen der Zauberkunst.
+Bekämpft Feuer mit Schutz vor Feuer.
+Wasser kann denen, die es gemeistert haben, wenig Schaden zufügen.
+Luft kann denen, die sie gemeistert haben, wenig Schaden zufügen.
+Erde kann denen, die sie gemeistert haben, wenig Schaden zufügen.
+Die Universität kann Euch alles lehren... wenn der Preis stimmt.
+Erzengel sind die mächtigsten Wesen der Schloss-Städte.
+Golddrachen sind die mächtigsten Wesen der Schutzwall-Städte.
+Titanen sind die mächtigsten Wesen der Turm-Städte.
+Erzteufel sind die mächtigsten Wesen der Inferno-Städte.
+Geisterdrachen sind die mächtigsten Wesen der Nekropolis-Städte.
+Schwarze Drachen sind die mächtigsten Wesen der Dungeon-Städte.
+Ur-Behemoths sind die mächtigsten Wesen der Burg-Städte.
+Chaoshydren sind die mächtigsten Wesen der Festungs-Städte.
+Mit dem richtigen Zauberspruch könnt Ihr Euer Boot versenken, damit Eure Feinde es nicht benutzen können. Für die Rückreise gibt es schließlich den Zauberspruch 'Boot herbeirufen'.
+Nichts weckt die Lebensgeister so wie meine berühmten, gebackenen Erathianischen Aale. Oder? Nun, wie wär's mit etwas Pegasus-Pastete?
+Hey, hier gibt es keine Neuigkeiten. Und zwar weil Leute Wie IHR nicht oft genug herkommt, um mir die neuesten Gerüchte zu erzählen.
+Um diese Jahreszeit gefriert die See um die Elfeninsel Vori.
+Vori ist eine Nation, die sich von den anderen Ländern bewusst isoliert.
+Ich habe gehört, die Elfen aus Vori hätten schneeweiße Haut.
+Wusstet Ihr, dass die Elfen von AvLee von den Elfen aus Vori abstammen?
+Städte mit Zitadellen ziehen mehr Truppen an als Städte mit Forts.
+Ich habe gehört, die Turm-Städte handeln mit Artefakten.
+Wusstet Ihr, dass die Burg-Städte mit Kreaturen handeln?
+Ich habe gehört, dass Helden zwischen Inferno-Städten reisen können, ohne sich zu bewegen.
+Die Diebesgilde ist jedermanns und niemandes Freund.
+Schloss-Städte unter der Bewachung der Bruderschaft des Schwertes haben bei Belagerungen bessere Chancen.
+Ich habe gehört, die Bewohner der Schloss-Städte werden zu Ehren des Helden, der ihnen den Gral bringt, einen riesigen Koloss aufstellen.
+Ich habe gehört, dass die Bewohner der Schutzwall-Städte einen Wachgeist zu Ehren des Helden aufstellen wollen, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Turm-Städte ein großes Luftschiff zu Ehren des Helden bauen werden, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Inferno-Städte eine Feuergottheit herbeirufen werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Nekropolis-Städte einen großen Seelenkerker bauen werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Dungeon-Städte einen Beschützer der Erde herbeirufen werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Burg-Städte ein großes Kriegerdenkmal errichten werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Ich habe gehört, dass die Bewohner der Festungs-Städte eine große Fleischfressende Pflanze wachsen lassen werden, um den Helden zu ehren, der ihnen den Gral bringt.
+Erathianische Pferde sind die schnellsten im ganzen Land.
+Erathianische Scharfschützen können zwei Pfeile in der Zeit abschießen, in der ein normaler Bogenschütze einen Pfeil abschießt.
+Greife, die an königlichen Höfen trainiert wurden, sind furchterregende Verteidiger.
+Erathianische Kreuzritter können in der Zeit, in der ein normaler Schwertkämpfer einmal zuschlägt, zweimal zuschlagen.
+Habt Ihr gehört? Zeloten sind Wesen aus reiner Energie.
+Lasst Eure Kämpen den Feind niederrennen. Das Resultat wird Euch gefallen. Je mehr Anlauf, desto besser.
+Engel kämpfen noch verbissener, wenn sie es mit Teufeln zu tun haben.
+Ich habe gesehen, wie Erzengel in der Hitze des Gefechts gefallene Kameraden wiederbelebten.
+Man sagt, dass ein Engel die Moral jeder Armee verbessert, außer einer untoten.
+Ich habe einmal erlebt, wie ein Zwerg einem Zauberspruch widerstanden hat, der auf ihn angewendet wurde.
+Man sagt, dass die Bogenschützen der Großelfen sogar die erathianischen Scharfschützen ausstechen können.
+Man dagt, dass feindliche Zauberer sich mehr anstrengen müssen, wenn Sie es mit Pegasi zu tun haben.
+Die Wurzeln der Dendroiden halten ihre Feinde an einem Ort fest.
+Wenn Ihr Euch vor Zaubersprüchen schützen wollt, stellt euch neben ein Einhorn.
+Obwohl sie nicht so immun sind wie Goldene Drachen, widerstehen Grüne Drachen den meisten Zaubersprüchen.
+Goldene Drachen widerstehen mehr Zaubersprüchen als Grüne, aber nicht so vielen wie Schwarze Drachen.
+Vertraute entziehen den Zaubersprüchen, die Ihr anwendet, Mana und geben es an ihre Generäle weiter.
+Magogs werfen explodierende Feuerbälle, die alles rund um das Ziel verbrennen.
+Es ist unmöglich, sich gegen den bösartigen Angriff eines dreiköpfigen Zerberus zu wehren.
+Einst sah ich einen Grottenlord Dämonen aus gefallenen Verbündeten beschwören.
+Da sie von der Feuerebene sind, werden Efreets von Feuermagie nicht beeinflusst.
+Efreets schlagen mit besonderer Wut zu, wenn sie Dschinns angreifen.
+Efreetsultane sind von Natur aus durch ein Feuerschild geschützt.
+In der Nähe von Teufeln kann man nicht mit Glück rechnen.
+Der schwarze Drache mag stärker sein als ein Titan, aber noch nicht einmal ein großer Titan könnte ohne Hilfe einen Erzengel besiegen.
+"Ein weiser Mann hat einmal gesagt, ""Teile deine Weisheit nicht mit Jedermann."""
+Der scharlachrote Schwan schwimmt in einem kleinen See.
+Blut ist dicker als Wasser.
+Was den Imps und Ihresgleichen an Stärke fehlt, machen sie durch ihre Anzahl wieder wett.
+Bleibt Euch selbst stets treu.
+Der Mantel der Finsternis kann benutzt werden, um Euren Feinden zu entgehen.
+Findet den Gral - er ist mächtiger, als Ihr Euch vorstellen könnt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

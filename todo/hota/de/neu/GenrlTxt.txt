@@ -1,0 +1,879 @@
+Miscellaneous and Unorganized Game Text
+Kann Manager nicht hinzufügen
+%s kann in diesem Szenario keine Erfahrung mehr sammeln, lässt sich aber wahrscheinlich in ein späteres Szenario überführen.
+"{Stufe %d}
+
+{Nächste Stufe:} %d
+{Momentane Erfahrung:} %d"
+%d/Tag
+oder
+%s ist bezwungen!
+%s, Ihr habt Eure letzte Stadt verloren. Wenn Ihr nicht in den nächsten 7 Tagen eine Stadt erobert, werdet Ihr entfernt.
+%s, Eure Helden verlassen Euch und Ihr werdet aus dem Land verbannt.
+%s wird von allen Helden verlassen und aus dem Land verbannt.
+"Konnte das Spiel nicht als ""%s"" abspeichern."
+"Fehler beim Öffnen der Datei ""%s""!"
+NEUES SPIEL
+Seid Ihr sicher, dass Ihr diese Armee entlassen wollt?
+%s ist am Zug.
+Fehler beim Datenempfang. Weiter versuchen?
+%s (%s)
+Rekrutiere
+In der Garnison ist für diese Armee kein Platz.
+Ihr habt bereits %d Helden unter Eurem Kommando.
+Dieser Held hat keine Kreaturen. Ein Held braucht eine Armee, bevor er den Gefahren der Wildnis begegnen kann.
+Video-Qualität
+Dieser Gegenstand kann nicht getauscht werden.
+Seid Ihr sicher, dass Ihr diesen Held entlassen wollt?
+Zauberspruch-Ziel wählen
+Ungültiger Teleport-Zielort
+Hierhin Teleportieren
+%s aussprechen
+%s gegen %s aussprechen
+Seid Ihr sicher, dass Ihr Euch zurückziehen wollt?
+Ihr habt nicht genug Gold!
+Ihr erbeutet:
+Keine
+"%s sagt:
+
+""Ich werde eure Kapitulation annehmen und Euch und Euren Truppen für den Preis von %d Gold sicheren Abzug gewähren."""
+Hohe Moral erlaubt der %s-Einheit erneut anzugreifen.
+Niedrige Moral lässt %s vor Furcht erstarren.
+Macht Platz für die %s in Eurer Armee.
+Angriff %s (%s Schaden)
+Schuss %s (1 Schuss übrig, %s Schaden)
+Kampagnenbeschreibung
+%s ist aktiv.
+Sitzungsname
+Benutzername
+Kreatur
+Kreaturen
+Das Pech fällt auf %s.
+Das Glück fällt auf %s.
+Schatz
+%ss %s wird angegriffen!
+Stadt
+Held
+Stadtübersicht
+Kann kein weiteres Boot bauen
+Benötigt:
+<SYSTEM>:
+"{Weltkarte}
+
+Dies ist eine Übersichtskarte der Welt. Wenn Ihr hier auf einen Ort klickt, wird die Abenteuerkarte um diesen Punkt zentriert. Ihr könnt das Kästchen verschieben, um in der Abenteuerkarte zu scrollen."
+Ein oder mehrere Helden dürfen sich noch bewegen, seid Ihr sicher, dass Ihr Euren Zug beenden wollt?
+Nach Artefakten zu graben dauert einen ganzen Tag. Kommt morgen wieder.
+Euer Held hat keinen Platz für ein weiteres Artefakt.
+Glückwunsch!  Nach vielen Stunden des Grabens hat Euer Held etwas entdeckt: 
+"Hier ist nichts.
+Wo könnte es sein?"
+Sucht an Land!
+Unbekanntes Gelände
+Monat
+Woche
+Tag
+Die Helden des Feindes sind jetzt genau erkennbar.
+Ping=%dms
+"Seid Ihr sicher, dass Ihr neu starten wollt?
+(Euer jetziges Spiel geht verloren)"
+"Seid Ihr sicher, dass Ihr ein neues Spiel laden wollt?
+(Euer jetziges Spiel geht verloren)"
+Seid Ihr sicher, dass Ihr beenden wollt?
+Dimensionstor hat versagt! 
+Wählt einen Anfangsbonus:
+ping
+ %s anpingen…
+alle anpingen…
+Punkte
+AUTOSAVE   
+{Anfangsheld}
+{besondere Heldenfähigkeit}
+{Verbündete Kreaturen}
+{Stadtzugehörigkeit}
+Fehler bei Datenübertragung. Weiter versuchen??
+Ihr braucht mindestens 2 Spieler für ein Multiplayer-Spiel. Prüft die weiteren Optionen oder wählt eine neue Karte.
+{Artefakt-Bonus}
+{Gold-Bonus}
+{Ressourcen-Bonus}
+{Zufallsbonus}
+500-1000
+Armageddon richtet %d Schaden an.
+5-10 Holz / 5-10 Erz
+Ein Artefakt wird zufällig ausgesucht und Eurem Anfangshelden mitgegeben.
+Der Zauberspruch Zertrümmern reduziert die Verteidigung um %d. 
+Zu Beginn des Spieles werden 500-1000 Gold zu den Ressourcen Eures Königreichs hinzugefügt.
+Zu Beginn des Spieles werden 5-10 Holz und 5-10 Erz zum Voratslager Eures Königreichs hinzugefügt.
+Gold, Holz und Erz oder ein Artefakt werden zufällig als Anfangsbonus ausgesucht.
+Ihr wurdet aus dem Spiel entfernt!
+"Glückwunsch!
+Eure Punktzahl wird in der Hall Of Fame eingetragen
+
+Bitte gebt Euren Namen ein"
+Versucht, auf freiem Boden zu suchen.
+Sende Daten
+Empfange Daten
+Chaos.mp2
+{Zufälliger Held}
+Ein Anfangsheld wird zufällig aus den Klassen, die in der angezeigten Anfangsstadt vorkommen, ausgesucht.
+{Zufällige Stadt}
+Eure Anfangsstadt wird zufällig aus acht verschiedenen Stadttypen ausgesucht.
+%s kapituliert und erhält freien Abzug für %d Gold.
+"Die Heroes III: %s CD-ROM wurde nicht gefunden!
+
+%s benötigt eine CD für Einzelszenario-Spiele, Kampagnenspiele und für das Hosten von Multiplayerspielen.  
+
+Für die Teilnahme an einem Multiplayerspiel, das von einem anderen Spieler gehostet wird, wird keine CD benötigt und Sie können fortfahren.
+
+Wenn Sie ein Einzelszenario oder eine Kampagne spielen möchten, beenden Sie das Spiel, legen Sie die %s CD ein und starten Sie %s neu."
+Autospeicherung…
+SPLRENDE
+"{Statusfenster}
+
+Dieses Fenster gibt Euch Informationen über den Status Eures Helden oder Eures Königreichs und zeigt das Datum an. Klickt hier, um durch die Fenster zu blättern."
+Grenze
+Die %s-Kreatur absorbiert %d Mana aus dem Zauberspruch.
+Die %s absorbieren %d Mana aus dem Zauberspruch.
+Das Heroes III-Verzeichnis kann nicht geändert werden. Bitte startet das Installationsprogramm.
+Heroes III Datenfiles können nicht gefunden werden. Bitte startet das Installationsprogramm.
+"Meine Helden, unsere Feinde fliehen, ihre Burgen sind geschleift und stehen leer. Die große Kampagne ist nun beendet und ich stehe vor Euch als Euer unangefochtener, höchster König!
+
+Unser Sieg wurde in %d Tagen erreicht!"
+%d %s stehen von den Toten auf!
+%d %s steht von den Toten auf!
+Eine %s-Kreatur erstarrt und stirbt.
+%d %s sterben unter den schrecklichen Blicken der %s.
+Die %s-Kreatur nimmt Abwehrhaltung ein und erlangt +%d Verteidgungsfähigkeit.
+%s nehmen Abwehrhaltung ein und erlangen +%d Verteidgungsfähigkeit.
+%s Erf.
+Nächste Stadt besetzt! Zauber fehlgeschlagen!
+Keine Stadt verfügbar! Zauber fehlgeschlagen!
+Euer Held ist zu müde, um heute noch zu zaubern. Versucht es morgen wieder!
+Nur Helden auf Besuch dürfen das Stadttor benutzen.
+Ihr habt keinen Held zum Zaubern.
+Euer Held hat in dieser Runde schon gezaubert.
+Wollt Ihr die Armee von %s für den Betrag von %d Gold retten?
+Eingabegeräte konnten nicht initialisiert werden - mögliches Problem mit Maus oder Tastatur.
+Sound konnte nicht initialisiert werden.
+Maus konnte nicht initialisiert werden.
+Fenster konnten nicht initialisiert werden - mögliches Speicher- oder Diskproblem.
+%s entdeckt eine verlassene Schiffswerft. Leider sind die Zugänge blockiert und man kann hier keine Schiffe bauen.
+Zauber fehlgeschlagen! Euer Held muss an Land sein, um zu zaubern.
+%s pausiert und wartet auf einen besseren Moment zum Handeln.
+%s pausieren und warten auf einen besseren Moment zum Handeln.
+%s, Stufe %d %s
+%s hat die Magie ausführlich studiert und 
+ lernt 
+ und 
+ von %s
+ widerstehen
+ widersteht
+Durch die dunkle Kunst der Totenbeschwörung kann Euer Held %d Feinde von den Toten erwecken und als %s in Dienst nehmen.
+Durch die dunkle Kunst der Totenbeschworung kann Euer Held einen Feind von den Toten erwecken und als %s in Dienst nehmen.
+ lehrt 
+" ""%s"""
+"{Zauberpunkte}
+
+Zauberpunkte werden benötigt, um Zaubersprüche auszusprechen. Die Höchstzahl an Zauberpunkten ist 10 mal Euer Wissen. Wegen besonderer Ereignisse oder Orte ist es hin und wieder möglich, mehr als diese Höchstzahl zu haben."
+Digitaler Sound ist auf diesem System im Moment nicht verfügbar.
+Balliste
+Euer Rucksack ist voll.
+In eurem Rucksack kann so etwas Großes (%s) nicht verstaut werden.
+"
+
+%s wurde vernichtet."
+"
+
+%s hat eine Angriffsfähigkeit von %d und richtet %d-%d Schaden an."
+Geschützturm-Info anzeigen.
+Ich kann Euch %d %s von %s für %d %s von %s anbieten.
+Marktplatz
+Handelsposten
+Einheiten
+Einheit
+Ihr habt ein gutes Geschäft gemacht. Damit mache ich keinen Profit. Kann ich Euch andere Waren zeigen?
+Falls Ihr einen Tausch anbieten wollt, klickt auf die Gegenstände, die ihr austauschen wollt.
+n/v
+Ich kann %s an den %s Spieler geben. 
+Gibt es andere Ressourcen, die Ihr weggeben möchtet?
+Wenn Ihr einem anderen Spieler Eure Ressourcen geben wollt, klickt auf den betreffenden Gegenstand und Spieler.
+Verfügbar zum Tauschhandel
+Spieler
+%s beschützt %s
+%s kann nur gegen feindliche Kreaturen ausgesprochen werden.
+1. Stf
+2. Stf
+3. Stf
+4. Stf
+5. Stf
+%s kann nur über befreundeten Kreaturen ausgesprochen werden.
+"IP-Adresse des Hosts eingeben.
+(z.B.: 220.415.119.223)"
+"""%s"" wirkt bei %s nicht"
+"%s sind immun gegen ""%s"""
+Kein Platz für %s
+Ein Erdbeben nützt Euch nichts, wenn keine Stadtmauern zum Beschädigen da sind.
+Euer Held hat bereits %d Truppenteile im Kampf, mehr sind nicht möglich.
+"Ang.
+Ver.
+Zkr.
+Wiss."
+Dieser Zauberspruch wird sich auf Niemanden auswirken!
+"Der Zauberspruch ""%s"" richtet %d Schaden
+bei allen untoten Kreaturen an."
+"Der Zauberspruch ""kleine Todeswelle"" richtet %d Schaden
+bei allen lebenden Kreaturen an."
+Spiegelbildzauber fehlgeschlagen!
+%s %s dem Zauberspruch!
+Angriff
+Verteidigung
+"Der Zauberspruch ""Fliegen"" ist nicht stark genug, um auf ein Boot zu wirken."
+Geschw.
+Wachstum
+"%s spricht ""%s"" gegen %s aus."
+"%s spricht ""%s"" aus."
+%s Spieler
+Schüsse
+Schaden
+verbl. Gesund.
+Eure Zeit ist abgelaufen. Nächster Zug.
+Bewacht von
+"
+
+Euer Held hat '%s %s' gelernt."
+"
+
+Wählt '%s %s' oder '%s %s.'"
+"{Zauberpunkte}
+
+%s hat im Moment %d Zauberpunkte, bei einem Maximum von %d. Die Höchstzahl entspricht 10 mal Eurem Wissen. Wegen besonderer Ereignisse oder Orte ist es hin und wieder möglich, mehr als das Maximum an Zauberpunkten zu haben."
+Dieser Zauber kostet %d Zauberpunkte. Euer Held hat nur %d Zauberpunkte und kann den Zauberspruch nicht aussprechen.
+Um Eure Truppen richtig zu trainieren, müsst Ihr etwas Gold ausgeben. Wollt Ihr sie trotzdem aufrüsten?
+%s hat die meisten Obelisken gefunden.
+%s hat die meisten Artefakte gefunden.
+%s hat die stärksten Streitkräfte.
+%s verdient das meiste Gold.
+Das ultimative Artefakt kann %s gefunden werden.
+Um zu zaubern, muss Euer Held erst ein Zauberbuch für 500 Gold kaufen. Leider scheint Ihr im Moment etwas knapp bei Kasse zu sein.
+Um zu zaubern, muss Euer Held erst ein Zauberbuch für 500 Gold kaufen. Wollt Ihr eins kaufen?
+"%s, Stufe %d %s
+mit %d Artefakten."
+"Nach einem großzügigen Trinkgeld flüstert der Wirt:
+%s"
+Verfügbar: 
+Wertung
+Alle Voraussetzungen für dieses Gebäude sind erfüllt.
+%s angreifen
+"Durch Adleraugen-Beobachtung kann %s den Zauberspruch ""%s"" lernen."
+Zu wenig Speicher.
+Kann nicht bauen. In diesem Zug wurde hier schon gebaut.
+"%s ""%s"" verlieren. "
+Den Helden '%s' verlieren.
+Nicht gewonnen bis: Monat %d, Woche %d, Tag %d
+Alle Helden und Städte verlieren
+%s '%s' erobern
+Besiegt den Helden %s 
+Findet den Gral.
+%s finden.
+Sammelt %d %s an.
+Ihr könnt auch alle Helden und Stadte besiegen.
+Besiegt alle feindlichen Helden und nehmt alle feindlichen Städte ein.
+Ihr und Eure Verbündeten
+Ihr und Euer Verbündeter
+ und 
+Ihr
+die feindliche Allianz von
+der Feind - 
+"{Erfahrung}
+
+ Erfahrung erlaubt es Euren Helden, auf neue Stufen aufzusteigen und Ihre Primär- und Sekundärfähigkeiten zu verbessern."
+"{Ressourcen}
+
+In Heroes III gibt es sieben Ressourcen, die gebraucht werden, um Burgen zu bauen und zu verbessern, Truppen zu kaufen und Helden zu rekrutieren. Gold ist die üblichste und wird für fast alles gebraucht. Holz und Erz für die meisten Gebäude. Edelsteine, Quecksilber, Schwefel und Kristalle sind seltene, magische Ressourcen, benötigt für die mächtigsten Kreaturen und Gebäude."
+Die Kreaturen wollen sich uns anschließen!
+"Alle Kreaturen werden sich uns anschließen...
+
+ Für die Summe von %d Gold."
+Diese schwachen Kreaturen werden sicher vor uns fliehen.
+Ich fürchte, diese Kreaturen sind in Kampfstimmung.
+Es ist sinnlos, nach dem Gral zu suchen. Euer Held könnte ihn nicht tragen, selbst wenn er ihn fände - alle Plätze für Artefakte sind besetzt.
+CD-ROM Laufwerk nicht verfügbar. Ohne CD-ROM Laufwerk und die Heroes III CD-ROM könnt ihr nur als Gast an einem Multiplayer-Spiel teilnehmen.
+Glückwunsch! Ihr habt %s eingenommen und seid der Sieger!
+Der Feind hat %s eingenommen und gewinnt.
+Die Stadt %s ist gefallen - alles ist verloren!
+Glückwunsch! Ihr habt Eure Aufgabe, den feindlichen Helden %s zu besiegen, erfüllt. Der Sieg ist Euer!
+Der Held %s wurde besiegt - Eure Aufgabe ist beendet!
+Die Zeit für Eure Aufgabe ist abgelaufen. Alles ist verloren.
+Tägliches Einkommen
+%s teilen
+Abbruch
+Artefakte
+Ausgestattet
+Betrüger!!!
+Verschiedenes
+Im Rucksack
+Der Gral könnte in den %s-Regionen der Welt zu finden sein.
+Der Gral könnte in den %s-Regionen der Unterwelt zu finden sein.
+"Kreatur
+Boni"
+"Kreaturen
+Verfügbar"
+"Ich kann Euch ""%s"" für %d %s von %s anbieten."
+"Ich kann Euch %d %s von %s für ""%s"" anbieten."
+Ich kann Euch %d %s von %s für %d %s anbieten.
+Ressourcen des Königreichs
+Artefakte von %s
+Kreaturen von %s
+Nur Helden auf Besuch können %s benutzen.
+Baue %s neu
+Es gibt nicht genug Platz in der Garnison.
+Glückwunsch! Ihr habt mehr als %d %s in Euren Armeen. Eure Feinde haben keine Wahl, sie müssen sich Eurer Macht beugen.
+Der Feind hat über %d %s zusammengezogen. Ihr müsst aufgeben!
+Glückwunsch! Ihr habt über %d %s in der Schatzkammer. Der Sieg ist Euer!
+Der Feind hat mehr als %d %s gesammelt und gewinnt.
+"Glückwunsch! Ihr habt das Artefakt ""%s"" gefunden und damit gewonnen!"
+"Der Feind hat das Artefakt ""%s"" gefunden und daher gewonnen!"
+Glückwunsch! Ihr habt Eure Stadt erfolgreich ausgebaut und damit gewonnen!
+Durch die Erweiterung seiner Stadt hat der Feind den Sieg davongetragen!
+Glückwunsch! Ihr habt dem Gral eine neue Heimat gegeben und den Sieg errungen!
+Der Feind hat dem Gral eine neue Heimat gegeben und damit den Sieg errungen!
+Glückwunsch! Ihr habt Eure Aufgabe, die schreckliche Bestie zu erlegen, erfüllt und den Sieg errungen!
+Der Feind hat die schreckliche Bestie zuerst erlegt und den Sieg errungen!
+Glückwunsch! Eure Fahne weht über den Behausungen aller Kreaturen. Der Sieg ist Euer!
+Die Fahne des Feindes weht über den Behausungen aller Kreaturen, er hat gesiegt!
+Glückwunsch! Eure Fahne weht über allen Minen. Der Sieg ist Euer!
+Die Fahne des Feindes weht über allen Minen, er hat gesiegt!
+Glückwunsch! Ihr habt Euer Ziel mit der wertvolllen Ladung heil erreicht und gewinnt!
+Der Feind hat die wertvolle Ladung heil abgeliefert und gewinnt!
+%s hierher bewegen.
+%s hierher fliegen.
+Schuss %s (%d Schuss übrig, %s Schaden)
+%s Info ansehen
+Keine Schüsse übrig!
+%s wiederbeleben
+Dämonen aus den %s herbeirufen
+Zauber gegen %s aussprechen
+Der Feind ergibt sich!
+Der Feind ist geflohen!
+Ein glorreicher Sieg!
+"
+
+Für Tapferkeit im Kampf erhält %s %d Erfahrungspunkte."
+%s kapituliert vor dem Feind und zieht voll Schmach ab.
+%s flüchtet feige aus der Schlacht.
+Eure Streitkräfte erleiden eine bittere Niederlage und %s verlässt Euch.
+Eure Streitkräfte kapitulieren vor dem Feind und müssen schmachvoll abziehen.
+Eure feigen Sreitkräfte fliehen aus der Schlacht.
+Eure Streitkräfte erleiden eine bittere Niederlage.
+Das Katapult muss geladen werden.
+Diese Kreatur wurde bereits aufgerüstet.
+Ihr könnt Euch die Aufrüstung dieser Kreatur nicht leisten.
+Alle Kreaturen sind bereits aufgerüstet.
+Ihr könnt Euch die Aufrüstung aller Kreaturen nicht leisten.
+Schloss
+%s aufrüsten
+Baut das Gralsgebäude in %s.
+Baut das Gralsgebäude in irgendeiner Stadt.
+Besiegt das Monster (%s), das %s in dieser Welt lebt.
+Sammelt %d %s in der Armee Eures Königreichs.
+Hisst Eure Fahne auf allen Kreaturengeneratoren.
+Hisst Eure Fahne auf allen Minen.
+"Transportiert das Artefakt ""%s"" nach %s"
+In eurem Rucksack ist nicht genug Platz.
+Warte auf andere Spieler...
+Entschuldigt, Eure Verbindung ist abgerissen.
+Ihr könnt euch den Kauf eines Bootes nicht leisten.
+(graben OK)
+Jemand pfuscht!
+Jemand hat einen Debug-Level eingestellt!
+%s ist schon auf einem Boot.
+Es gibt nicht genug Platz für das Boot.
+Es gibt keine Boote, die man rufen könnte.
+%s versuchte, ein Boot herbeizurufen, hat aber versagt.
+%s versuchte, ein Boot zu versenken, hat aber versagt.
+%s ist nicht geschickt genug, um diesen Zauber heute erneut auszusprechen.
+%s, Stufe %d
+Fesseln des Krieges präsent. %s kann nicht fliehen!
+Fesseln des Krieges präsent. %s kann sich nicht ergeben!
+ Stufe %d, %s
+"
+Richtet %d Punkte Schaden an."
+Frei
+N/V
+Kosten
+%s (Seher)
+ (Sucht %s)
+Schwarzmarkt
+%s erfolgreich gespeichert.
+%s ist am Zug.
+(Besucht)
+(Nicht besucht)
+(Schon gelernt)
+(%s lernen)
+(%s lernen)
+(Schon gelernt)
+%s schickt Euch ein Geschenk.
+%s hätte gerne %s als Geschenk.
+%s hätte gerne irgendeine dieser Ressourcen.
+Die %s-Kreatur entzieht %d Lebensenergie bei %s.
+Die %s entziehen %d Lebensenergie bei %s
+"
+ und einer steht von den Toten auf."
+"
+ und %d stehen von den Toten auf."
+%s richten doppelten Schaden an
+%s richten doppelten Schaden an
+Ein Blitzstrahl trifft die %s!
+%s richtet wutentbrannt zusätzliche 50%% Schaden bei den %s an.
+Wutentbrannt richten die %s zusätzliche 50%% Schaden bei den %s an.
+%s Wunden schließen sich und verheilen.
+Die Wunden der %s-Kreaturen schließen sich und verheilen.
+"{Taktikphase}
+
+In der Taktikphase kann ein Held mit überlegener Taktik seine Armee vor dem Kampf in Position bringen."
+Die %s-Kreatur enzieht %s Zauberpunkte!
+Die %s entziehen %s Zauberpunkte! 
+Geschützturm
+%s richtet %d Schaden an.
+%s richten %d Schaden an.
+"
+Eine %s-Kreatur stirbt."
+"
+%d %s sterben."
+Ang
+Ver
+Zkr
+Wiss
+Moral
+Glück
+Schd
+Zauberpunkte
+Gesundheit
+Gesundh.
+Freund
+Feind
+Kampfoptionen
+Animationsgeschwindig.
+Musiklautstärke
+Effektlautstärke
+Auto-Kampf Optionen
+Kreaturen-Info
+Kreaturen
+Zaubersprüche		  
+Katapult		  
+Erste Hilfe-Zelt		
+Alle Statistiken		
+Nur Zaubersprüche		
+Hex-Gitter anzeigen		
+Bewegungsschatten		
+Cursor-Schatten		
+Verluste der Schlacht		
+Angreifer		
+Verteidiger		
+Siegreich		
+Geschlagen		
+Die nächste Runde beginnt.		
+"%s fühlt, dass die Chancen sehr schlecht stehen.
+
+Wollt Ihr Euch zurückziehen?"		
+%s heilt %s und entfernt %d Schadenspunkte.		
+Der aktuelle Spieler hat das Spiel verlassen! Der Zug wird vom Computer wiederholt.
+Der andere Spieler hat das Spiel verlassen! Ihr gewinnt!
+Heldenstatistik anzeigen
+Feindliche Heldenstatistik anzeigen
+Bei %s erste Hilfe anwenden
+"{Artefakt}
+
+Durch eine Lichtung erblickt Ihr ein antikes Artefakt, %s %s bewachen es. Möchtet Ihr für das Artefakt gegen %s kämpfen?"
+"Ihr erreicht eine Behausung (%s). %s %s bewachen es.
+
+Möchtet Ihr gegen die Wachen kämpfen?"
+"Es gibt hier keine %s zum rekrutieren.
+"
+"%d %s treten Eurer Armee bei.
+"
+Vor langer Zeit war diese Stadt die Heimat der Drachen und ihrer angehäuften Schätze, aber heute pfeift der Wind durch die leeren Hallen.
+Die %s würden sich Eurem Helden anschließen, aber es gibt nicht genug Vorräte, um sie zu ernähren.
+Artefakt
+Artefakte
+von jeder Ressource
+Garnison
+Altes Kartenformat
+Entschuldigung, der Spieler hat während der Übertragung das Spiel verlassen. Auf Wiedersehen!
+Alle Kreaturen aufrüsten
+Rang
+Spieler
+Land
+Tage
+"
+Betrüger! +maximum"
+Zeit gesamt
+Grundpunkt zahl
+Schwierig keit
+Gesamt punktzahl
++1 Stufe
+"
+***Kommandozeilen-Hilfe***
+
+/S0 - Sound und Musik abschalten
+/I0 - Intro überspringen
+
+Beispiel:
+
+HEROES3 /S0 /I0
+
+Startet Heroes III ohne Sound und ohne Intro.
+"
+%s hat eine höhere Stufe erreicht.
+%s ist nun: Stufe %d, %s.
+"HOTSEAT
+Bitte Namen eingeben:"
+Fehler bei der Modemverbindung. Bitte erneut versuchen.
+Modem-Session
+Fehler bei serieller Verbindung. Bitte erneut versuchen.
+Serielle Session
+Fehler beim Hosten einer seriellen Verbindung. Bitte erneut versuchen.
+Mein Spiel
+Passwort:
+Keine Sessions auf dem Host-Computer gefunden!
+Bei der Verbindung mit dieser Session ist ein Fehler aufgetreten. Bitte erneut versuchen.
+Spiel wurde nicht gefunden. Bitte erneut versuchen.
+Ungültiges Passwort
+Fehler bei der TCP/IP-Verbindung. Bitte erneut versuchen.
+"Ihre IP Adresse:
+%s"
+Fehler bei IPX-Verbindung. Bitte erneut versuchen.
+Passwort (optional):
+IP-Adresse wurde nicht gefunden!
+Puzzle-Karte
+%s zu %s bringen.
+Verfügbar
+Gesamtkosten
+Fehler beim Verbinden mit Host-Computer. Bitte noch einmal probieren!
+Computer
+%s hat das Spiel verlassen.
+Ihr seid nun der Host!
+Warte, bis verbundener Spieler seine Stufe gewählt hat...
+Ein Computerspieler hat einen menschlichen Spieler angegriffen. Warte auf Kampf...
+Flüstern
+Flüstern mit
+Erfahrung bis zur nächsten Stufe
+Erfahrung auf dem Altar
+Artefakte für Erfahrung opfern
+Artefakte zum Altar bringen
+Opferaltar
+Bewegt Kreaturen zur Opferung aus der Armee auf den Altar und klickt auf 'Opfern'
+%s auswählen
+Ihr könnt das nicht opfern.
+Diese Box zeigt die momentan ausgewählte Kreatur an.
+%s opfern
+Armee
+Skelett-Transformer 
+Kreaturen in Transformer legen, um Skelette zu erschaffen
+Kreaturen im Transformer werden zu Skeletten
+Die %s werden zu %s
+%s ist bereits ein Skelett
+Die %s sind bereits Skelette
+Spieler Schwierigkeit
+"""%s"" existiert bereits.
+
+Überschreiben?"
+Schwierigk.:
+Szenario-Name:
+Szenario-Beschreibung:
+Siegesbedingung:
+Verlustbedingung:
+Mensch
+Verfügbare Szenarien anzeigen
+Weitere Optionen anzeigen
+Lese Kartendatei
+Datei korrupt
+Es gibt ein Problem mit den Daten in dieser Datei und sie kann nicht mit Heroes III verwendet werden.
+Bitte ladet und speichert diese Karte mit dem Heroes III-Editor, um sie auf das neue Kartenformat upzudaten
+Diese Karte ist nicht spielbar. Bitte ladet diese Karte in den Heroes III-Editor und behebt die Probleme, bevor Ihr sie spielt.
+Leer
+Unbenannt
+Empfange Karten-Header vom Host...
+Kartengrößen
+S
+M
+L
+XL
+Weitere Optionen
+Startoptionen, Handicap und Name für jeden Spieler auswählen
+"Spielername
+Handicap-Typ"
+"Anfangs-
+Stadt"
+"Anfangs-
+Held"
+"Anfangs-
+Bonus"
+Spielzugdauer
+Zufällig
+Keine
+Entschuldigt, der Host hat das Spiel ohne Euch angefangen!
+%s kommt zum Spiel dazu.
+%s hat das Spiel verlassen
+Unbekannter Spieler hat das Spiel verlassen!
+%s ist der neue Host.
+Es gibt keine Karten zum Spielen.
+Ihr müsst Euch positionieren, bevor Ihr das Spiel starten könnt.
+Chat verbergen
+Chat anzeigen
+Host bereitet Spielstart vor...
+Kann Datei nicht öffnen - Video.vid
+Video-Datei Fehler!
+%s' hindert %s daran, Zaubersprüche der 3. Stufe oder höher zu verwenden.
+Winde vom 'Verfluchten Boden' aus der Umgebeung hindern Euren Helden daran, Zaubersprüche einer anderen Stufe als Stufe 1 auszusprechen
+Weil %s schon %s gerufen hat, werden %s keine weiteren Elementwesen zu Hilfe kommen.
+ihm
+ihr
+%s sagt die Beschwörungsformeln auf, aber sie scheinen nicht zu wirken.
+Wählt eine Armee zur Wiederbelebung
+Wählt eine Armee zum Opfern
+Die %s-Kreatur widersteht %d Schaden.
+Die %s widerstehen %d Schaden.
+Die %s-Kreatur erleidet %d zusätzlichen Schaden.
+Die %s erleiden %d zusätzlichen Schaden.
+%s wiederbeleben
+%s opfern
+Dieses Hindernis entfernen
+Die %s-Kreatur wird alt und runzelig und verliert %d Trefferpunkte.
+Die %s werden alt und runzelig und verlieren %d Trefferpunkte
+Die %s-Kreatur wird plötzlich sehr krank!
+Die %s werden plötzlich sehr krank!
+Alle nutzbringenden Zauber auf den %s werden zerstreut.
+%s erblindet!
+Die %s scheinen nichts richtig machen zu können.
+Die %s-Kreatur ist in Stein verwandelt worden!
+Die %s sind in Stein verwandelt worden!
+Wurzeln und Ranken halten %s am Boden fest!
+Die %s-Kreatur windet sich vor Schmerz als ihr das Gift in die Venen gepumpt wird.
+Die %s winden sich vor Schmerz als das Gift durch ihre Venen pulsiert.
+Die %s-Kreatur ist paralysiert und kann sich nicht bewegen!
+Die %s sind paralysiert und können sich nicht bewegen!
+"Die %s-Kreatur spricht ""%s"" aus"
+"Die %s sprechen ""%s"" aus"
+ gegen die %s.
+System-Optionen
+Helden-Geschwindigkeit
+Gegner-Geschwindigkeit
+Karten-Geschwindigkeit
+Pfad anzeigen
+Helden-Erinnerung anzeigen
+Kurz-Kampf
+Video-Untertitel
+Gebäudeumrisse
+Zauberbuch blättern
+"Seid Ihr sicher, dass Ihr das tun wollt?
+(Alle ungespeicherten Spiele gehen verloren)"
+Als Ihr euch dem Mana-Strudel nähert, füllt sich Euer Körper mit neuer Energie. Ihr habt Eure normalen Zauberpunkte verdoppelt.
+"Der erste Stallknecht nähert sich mit einem edlen Kriegsross. ""Dieses Ross wird Euch helfen, auf Reisen schneller zu sein. Leider wird seine Ausdauer nach vielen heftigen Ritten abnehmen. Daher müsst Ihr am Anfang der Woche zurückkommen, um ein frisches Pferd zu erhalten."""
+Ihr studiert die Symbole an der Wand des Wissens und bekommt Einblicke in die Wirkungsweise verschiedener Magien (+1 Wissen).
+Der Orden des Feuers lehrt Euch neue Wege, Eure magischen Kräfte zu konzentrieren (+1 Zauberkraft).
+Ein Besuch bei der Akademie der Kriegskunst lehrt Euch viele neue Fähigkeiten (+1000 Erfahrung).
+Nach einiger Zeit in Walhalla seid Ihr in der Lage, effizientere Kampftechniken zu lernen (+1 Angriff)
+Während Ihr Euch im Käfig der Kriegsherren befindet, zeigen Euch die erfahrenen Krieger dort zusätzliche Verteidgungstaktiken (+1 Verteidigung).
+%s hat ein %s gebaut.
+%d zusätzliche %s stehen in %s zur Verfügung
+%s-Wachstum pro Woche
+Wöchentliches %s-Wachstum ist %d
+"
+
+Grundwachstum %d"
+"
+Externe Behausungen %+d"
+Halle
+Magiergilde verlassen
+Garnison
+%s bauen
+%s nicht bauen
+Wünscht Ihr, dass dies die neue Heimat des Grals wird?
+Schiff bauen
+Kein Schiff bauen
+Ende
+Schloss
+Universität
+Eure Schritte schallen durch die stillen Gänge dieser Universität. Ein Angestellter informiert Euch, dass Euer Held hier in den folgenden Fächern unterrichtet werden kann.
+Euer Held hat diese Fähigkeit schon.
+Euer Held kann diese Fähigkeit nicht lernen.
+Euer Held kann keine neuen Fähigkeiten mehr lernen.
+%s %s' kostet %d Gold
+"Mit einem subtilen Lächeln und hochgezogenen Augenbrauen informiert Euch der Angestellte: ""Die Unterrichtsgebühr, um '%s %s' zu lernen beträgt %d Gold."""
+%s kaufen
+%s, Dauer: %d Runden.
+Weltkarte
+Stadt
+Held
+Artefakt
+Teleporter
+Tor
+Mine
+Ressource
+Holz
+Quecksilber
+Erz
+Schwefel
+Kristall	
+Edelsteine	
+Gold	
+Ihr seid noch eine Sekunde lang am Zug.	
+Ihr seid noch %d Sekunden am Zug.	
+Ihr habt noch eine Minute Zeit für Euren Zug.	
+Ihr habt noch %0.1f Minuten Zeit für Euren Zug.	
+Aktueller Spieler ist 	
+"%s hat das Artefakt ""%s"" gefunden und kann den Sieg erringen!"	
+"%s hat das Artefakt ""%s"" gefunden und kann den Sieg erringen!"	
+%s hat mehr als %d %s. Ihr habt keine Wahl, als Eure Niederlage einzugestehen!	
+%s hat mehr als %d %s. Ihr habt keine Wahl, als Eure Niederlage einzugestehen!	
+%s hat mehr als %d %s und erringt den Sieg!	
+%s hat mehr als %d %s und gewinnen!	
+"Glückwunsch! %s hat das Artefakt ""%s"" gefunden. Euer Team ist siegreich! "	
+"Glückwunsch! Die Stadt ""%s"" wurde erfolgreich erweitert. Euer Team gewinnt!"	
+"Die Stadt ""%s"" wurde erfolgreich erweitert und der Sieg errungen!"	
+%s hat seine Stadt erfolgreich erweitert und damit gewonnen!	
+Glückwunsch! %s hat ein neues Zuhause für den Gral gebaut. Euer Team gewinnt!	
+%s hat ein neues Zuhause für den Gral gebaut und damit den Sieg errungen.	
+%s hat ein neues Zuhause für den Gral gebaut. Der Sieg gehört ihnen.	
+Glückwunsch! %s hat die Aufgabe, die schreckliche Bestie zu besiegen, erledigt. Euer Team gewinnt!	
+%s hat vor Euch die schreckliche Bestie erlegt und hat damit gesiegt!	
+%s hat vor Euch die schreckliche Bestie erlegt. Der Sieg gehört ihnen!	
+Die Fahne von %s weht über allen Kreaturen-Behausungen! Der Sieg gehört ihnen!	
+Die Fahne von %s weht über allen Kreaturen-Behausungen! Der Sieg gehört ihnen!	
+Die Fahne von %s weht über allen Minen! Der Sieg gehört ihnen!	
+Die Fahne von %s weht über allen Minen! Der Sieg gehört ihnen!	
+Glückwunsch! %s hat die kostbare Ladung heil überbracht. Euer Team gewinnt!	
+%s hat die kostbare Ladung heil überbracht, und damit den Sieg errungen!	
+%s hat die kostbare Ladung heil überbracht. Der Sieg gehört ihnen!	
+Entschuldigt, der Host hat das Spiel verlassen. Ihr braucht die CD-ROM, um das Spiel zu leiten.	
+Gespeicherte Spiele anzeigen
+Team %d
+{Teamzugehörigkeit}
+Suche verlorenen Spieler... Bitte warten...
+Glückwunsch! All Eure Feinde sind besiegt! Der Sieg ist Euer!
+Alle Eure Streitmächte sind besiegt und Ihr werdet aus dem Land verbannt!
+Szenario-Information
+ESC drücken, um Einzelspieler-Modus abzubrechen
+Kann Datei nicht öffnen - Heroes3.snd
+Fehler in Sound Datei!
+Entschuldigt, Eure Version #%s ist nicht kompatibel mit der Host-Version #%s. Ihr könnt nicht an diesem Spiel teilnehmen.
+"Das zurücksetzen der High Scores wird alles, was Ihr erreicht habt, löschen.
+
+Seid Ihr sicher, dass Ihr die High Scores löschen wollt?"
+"
+%s wurde zerstört."
+Besiegt die %s-Kreatur in der %s-Region der Unterwelt.
+%s hat es nicht geschafft, ihre Aufgabe rechtzeitig zu vollenden. Es hat verloren.
+%s hat den Helden %s verloren. Ihre Aufgabe ist beendet.
+Möchtet Ihr ein gespeichertes Spiel spielen?
+Kampagne
+Als Ihr die Geschichte des Grals erzählt, wird Euren Worten kein Glauben geschenkt. Diese Stadt hat nicht genug Vertrauen. Ihr müsst einen würdigeren Ort für den Gral finden.
+Keine aktiven Zauber
+%s ruft %d %s herbei
+"Euer
+Rang"
+Der Teich hat bisher nichts produziert.
+Der Teich produzierte diese Woche %d %s.
+%s, Dauer %s.
+Bis die Kreatur bewegt wird oder stirbt
+Bis zum nächsten Angriff
+Bis zum Ende des Kampfes
+"%s benutzt das alte Artefakt ""%s"", das jegliche Magie blockiert."
+Diese Garnison verfügt über einen mächtigen Zauber, der alle andere Magie blockiert.
+"Es gibt keine Spielstände zum Laden.
+
+Vielleicht wolltet Ihr ein neues Spiel starten. Kehrt zurück zum Hauptmenü und wählt 'Neues Spiel""."
+Wählt ein Ziel
+"Seid Ihr sicher, dass Ihr ""%s"" löschen möchtet?"
+Bei Spielstart werden dem Rohstofflager Eures Königreichs 3-6 Kristalle hinzugefügt.
+Bei Spielstart werden dem Rohstofflager Eures Königreichs 3-6 Edelsteine hinzugefügt.
+Bei Spielstart werden dem Rohstofflager Eures Königreichs 3-6 Quecksilber hinzugefügt.
+Bei Spielstart werden dem Rohstofflager Eures Königreichs 3-6 Schwefel hinzugefügt.
+3-6 Kristalle
+3-6 Edelsteine
+3-6 Quecksilber
+3-6 Schwefel
+%s hat die Zauberspruchpunkte verbraucht.
+Die %s haben die Zauberspruchpunkte verbraucht.
+Der Verfluchte Boden verhindert das Aussprechen von Zaubersprüchen über Stufe 1.
+Eine Aura von Anti-Magie verhindert das Aussprechen von Zaubersprüchen in dieser Garnison.
+%s verhindert das Aussprechen von Zaubersprüchen.
+Ihr könnt %s nur aus den Körpern lebender Kreaturen herbeirufen.
+Die tote %s-Kreatur hat nicht genügend Lebensenergie, um %s zu beschwören.
+Die toten %s haben nicht genug Lebensenergie, um %s zu beschwören.
+Nur die lebenden können auferstehen.
+Der %s ist nicht mächtig genug, um die %s auferstehen zu lassen.
+Die %s sind nicht mächtig genug, um die %s auferstehen zu lassen.
+"{Unzureichender Speicherplatz}
+
+Heroes III benötigt mindestens 5 MB freien Speicher auf dem aktuellen Laufwerk.
+
+Bitte schafft mindestens 5 MB freien Speicherplatz, bevor Ihr das Spiel startet."
+"{Unzureichender Speicherplatz}
+
+Heroes III benötigt mindestens 1 MB freien Speicher auf dem aktuellen Laufwerk, um ein Spiel zu speichern.
+
+Um ein gespeichertes Spiel zu löschen, markiert es und drückt auf STRG+ENTF.
+
+Um von Hand Platz zu schaffen, drückt auf ALT+TAB, um zu Windows zurückzukehren."
+Wachen zurücklassen
+Die %s-Kreatur erstarrt vor Furcht.
+Die %s erstarren vor Furcht.
+Dieser Zauber wird nichts bewirken.
+Endlich habt Ihr das letzte Artefakt, das zum Bau der Klinge benötigt wird. Bald wird die Welt vor Euch erzittern.
+%s macht alle Zaubersprüche verfügbar.
+Mit %s
+Mit einer Rolle %s
+Mit %d %s
+Mit %s %s
+Mit Helden aus %s
+Mit zufälligem Held
+Holz und Erz
+Schwefel, Quecksilber, Kristalle und Edelsteine
+%s hat inkorrektes Format
+Armageddon's Blade-Kampagne auswählen
+Restoration of Erathia-Kampagne auswählen
+Eigene Kampagne auswählen
+Zurück zum Hauptmenü
+Furcht wegen der %s lässt die %s erstarren.
+"Heroes III: %s CD-ROM gefunden.
+
+Um Heroes III: %s zu spielen, benötigen Sie die %s CD.  
+
+Für die Teilnahme an einem Multiplayerspiel, das von einem anderen Spieler gehostet wird, wird keine CD benötigt und Sie können fortfahren.
+
+Wenn Sie ein Einzelszenario oder eine Kampagne spielen möchten, beenden Sie das Spiel, legen Sie die %s CD ein und starten Sie %s neu."
+Der Host generiert eine Zufallskarte...
+Zauberspruch abgebrochen
+Ihr besitzt alle Komponenten, um %s zusammen zu setzen. Möchtet Ihr das Artefakt zusammen setzen?
+Möchtet Ihr dieses Artefakt zerlegen?
+Shadow of Death-Kampagne auswählen
+Zauberin
+Yog hat die Magie in allen Formen aufgegeben. Seine Kenntnisse der Kriegskunst und der Taktik müssen ausreichen, um ihn durch den Rest seines Lebens zu bringen.
+Glückwunsch, Ihr habt die drei benötigten Teile von den barbarischen Brüdern zurück erlangt.
+Zufallskarten-Setup
+Wählen Sie die Optionen, um eine Zufallskarte zu erstellen
+Zufallskarte
+Eine automatisch erstellte Zufallskarte spielen
+"Die Übungsspiel-Kartendatei ""tutorial.tut"" fehlt im 'maps'-Verzeichnis. Ohne diese Datei können Sie kein Übungsspiel starten."
+Um den gewählten Spielstand zu spielen, müssen alle Spieler %s starten. Einige der verbundenen Spieler können diesen Spielstand nicht spielen.
+Um die gewählte Karte zu spielen, müssen alle Spieler %s starten. Einige der verbundenen Spieler können diese Karte nicht spielen.
+Armageddon's Blade
+The Shadow of Death
+Die magische Energie von Zaubersprüchen, die mächtiger sind als Stufe 1, wird vom verfluchten Boden absorbiert.
+Zufallskarte erstellt!
+Konnte Random_Map.H3M nicht im Data-Verzeichnis erstellen.
+Fehler beim Speichern der Zufallskarte.
+Konnte keine Zufallskarte erstellen, die den gewählten Optionen entspricht.
+Kartengröße
+Mensch oder Computerspieler
+Menschliche oder Computerteams
+Nur-Computer-Spieler
+Nur-Computer-Teams
+Wasseranteil
+Monsterstärke
+Zufallskarte
+Erstelle Karte
+Nur Gelu kann Armageddon's Blade tragen.
+The Restoration of Erathia
+Glückwunsch, Ihr habt alle drei Artefakte gefunden.

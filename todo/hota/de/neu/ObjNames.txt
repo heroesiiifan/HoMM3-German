@@ -1,0 +1,232 @@
+Nichts	
+	
+Opferaltar	
+Ankerstelle	
+Arena	
+Artefakt	
+Pandoras Kiste	
+Schwarzmarkt	
+Boot	
+Grenzwache	
+Zelt des Schlüsselmeisters	
+Boje	
+Lagerfeuer	
+Kartograph	
+Schwanenteich	
+Mantel der Finsternis	
+Kreaturbank
+Kreaturen-Generator 1
+Kreaturen-Generator 2
+Kreaturen-Generator 3
+Kreaturen-Generator 4
+Verfluchter Boden
+Leiche
+Marletto-Turm
+Verlassenes Schiff
+Drachen-Utopia
+Ereignis
+Auge des Magiers
+Feenring
+Strandgut
+Quelle des Glücks
+Quelle der Jugend
+Garten der Enthüllung
+Garnison
+Held
+Hügelfestung
+Gral
+Hütte des Magiers
+Götze des Glücks
+Anbau
+
+Bibliothek der Erleuchtung
+Leuchtturm
+Einweg-Monolith Eingang
+Einweg-Monolith Ausgang
+Zweiwege-Monolith 
+Magische Ebene
+Schule der Magie
+Magische Quelle
+Magischer Brunnen
+Markt der Zeit
+Söldnerlager
+Meerjungfrauen
+Mine
+Monster
+Mystischer Garten
+Oase
+Obelisk
+Mammutbaum-Observatorium
+Flaschenpost
+Feuersäule
+Sternenachse
+Gefängnis
+Pyramide
+Versammlungszeichen
+Zufälliges Artefakt
+Zufälliger Artefakt-Schatz
+Zufälliges minderes Artefakt
+Zufälliges höheres Artefakt
+Zufälliges Relikt
+Zufälliger Held
+Zufallsmonster
+Zufallsmonster 1
+Zufallsmonster 2
+Zufallsmonster 3
+Zufallsmonster 4
+Zufällige Ressource
+Zufällige Stadt
+Flüchtlingslager
+Ressource
+Heiligtum
+Gelehrter
+Meereskiste
+Hütte des Sehers
+Krypta
+Schiffswrack
+Schiffswrack-Überlebender
+Schiffswerft
+Schrein der magischen Beschwörung
+Schrein der magischen Gesten
+Schrein der magischen Gedanken
+Schild
+Sirenen
+Zauberspruchrolle
+Ställe
+Taverne
+Tempel
+Höhle der Diebe
+Stadt
+Handelsposten
+Stein des Lernens
+Schatzkiste
+Baum des Wissens
+Untergrundtor
+Universität
+Wagen
+Kriegsgeräte-Fabrik
+Schule des Krieges
+Grab des Kriegers
+Wasserrad
+Wasserloch
+Strudel
+Windmühle
+Hexenhütte
+Unterholz
+Busch
+Kaktus
+Canyon
+Krater
+Tote Vegetation
+Blumen
+Gefrorener See
+Hecke
+Hügel
+Loch
+Seetang
+See
+Lavastrom
+Lavasee	
+Pilze	
+Holzblock	
+Alraune	
+Moos	
+Damm	
+Berg	
+Eichenbäume	
+Aufwerfung	
+Pinienbäume	
+Pflanze	
+	
+	
+	
+	
+Flussdelta	
+	
+	
+	
+Fels	
+Sanddüne	
+Sandgrube	
+Strauch	
+Schädel	
+Stalagmit	
+Stumpf	
+Teergrube	
+Bäume	
+Rebe	
+Vulkanschlot	
+Vulkan	
+Weidenbäume	
+Yuccabäume
+Riff
+Zufallsmonster 5
+Zufallsmonster 6
+Zufallsmonster 7
+Unterholz
+Busch
+Kaktus
+Canyon
+Krater
+Tote Vegetation
+Blumen
+Gefrorener See
+Hecke
+Hügel
+Loch
+Seetang
+See
+Lavastrom
+Lavasee
+Pilze
+Holzblock
+Alraune
+Moos
+Damm
+Berg
+Eichenbäume
+Aufwerfung
+Pinienbäume
+Pflanze
+Flussdelta
+Fels
+Sanddüne
+Sandgrube
+Strauch
+Schädel
+Stalagmit
+Stumpf
+Teergrube
+Bäume
+Rebe
+Vulkanschlot
+Vulkan
+Weidenbäume
+Yuccabäume
+Riff
+Sandhügel
+Erdhügel
+Grashügel
+Ödland-Hügel
+Unterirdische Felsen
+Sumpfpflanze
+Grenztor
+Söldnergilde
+Helden-Platzhalter
+Aufgaben-Wächter
+Zufallsbehausung
+
+
+Garnison
+Mine
+Handelsposten
+Kleefeld
+Verfluchter Boden
+Teufelsnebel
+Günstige Winde
+Flammenfelder
+Heiliger Boden
+Klare Wasser
+Magische Wolken
+Magische Ebene
+Felsland

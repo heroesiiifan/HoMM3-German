@@ -1,0 +1,24 @@
+Rank	Player	Land	Days	Score
+1	Sandro	Dead and Buried	75	200
+2	Astral	All for One	100	190
+3	Oris	Knee Deep in the Dead	125	180
+4	Lord Haart	Titan's Winter	150	170
+5	Alamar	Dragon Orb	175	160
+6	Styg	Emerald Isles	200	150
+7	Yog	Overthrow Thy Neighbors	250	140
+8	Ajit	Search for the Grail	500	130
+9	Iona	The Mandate of Heaven	750	120
+10	Tazar	Myth and Legend	1000	100
+11	Your Name	Just play a Map	2000	1
+Rank	Player	Campaign	Days	
+1	Fafner	Song for the Father	500	1000
+2	Gretchin	Long Live the King	550	875
+3	Gundula	Spoils of War	600	750
+4	Drakon	Liberation	650	625
+5	Ingham	Dungeons and Devils	700	500
+6	Tamika	Long Live the Queen	750	375
+7	Nymus	Seeds of Discontent	800	250
+8	Malcom	Liberation	850	225
+9	Sorsha	Seeds of Discontent	900	200
+10	Zydar	Long Live the King	1000	150
+11	Your Name	Just play a Map	2000	1

@@ -1,0 +1,26 @@
+Held/Stat.
+Fähigkeiten
+Artefakte
+Stadt
+Garnisonsheld
+Besuchender Held
+"{Heldenansicht}
+
+Ansicht der Helden, die sich momentan unter Eurem Befehl befinden."
+"{Städteansicht}
+
+Ansicht der Städte, die Ihr kontrolliert."
+"{Aktiv}
+
+Darstellung der Artefakte, die der Held momentan aktiviert (angelegt) hat."
+"{Verschiedenes}
+
+Darstellung der Gegenstände, die wirksam sind, aber nicht aktiviert (angelegt) werden müssen."
+"{Rucksack}
+
+Darstellung der Gegenstände, die sich momentan im Rucksack des Helden befinden."
+Helden anzeigen
+Städte anzeigen
+Aktive Artefakte anzeigen
+Verschiedenes anzeigen
+Heldenrucksack anzeigen

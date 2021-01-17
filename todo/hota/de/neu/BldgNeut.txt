@@ -1,0 +1,29 @@
+Magiergilde Stufe 1	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten Zaubersprüche zu lernen. 
+Magiergilde Stufe 2	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten Zaubersprüche zu lernen. 
+Magiergilde Stufe 3	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten Zaubersprüche zu lernen. 
+Magiergilde Stufe 4	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten Zaubersprüche zu lernen. 
+Magiergilde Stufe 5	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten Zaubersprüche zu lernen. 
+Taverne	Die Taverne steigert die Moral der Truppen, die die Stadt verteidigen.
+Schiffswerft	Die Schiffswerft erlaubt Euch Schiffe zu kaufen.
+Fort	Das Fort beschützt Eure Stadt mit defensiven Mauern. 
+Zitadelle	Die Zitadelle fügt der Verteidigung einer Stadt einen Geschützturm und erhöht das Wachstum der Kreaturen um 50%.
+Schloss	Das Schloss fügt der Verteidigung der Stadt zwei Geschützturme und eine Mauer hinzu und verdoppelt das Wachstum der Kreaturen.
+Dorfrathaus	Das Dorfrathaus ermöglicht Euch, Stadtausbauten zu kaufen und bringt einen Ertrag von 500 Goldstücken pro Tag.
+Kreisrathaus	Das Kreisrathaus ermöglicht Euch, Stadtausbauten zu kaufen und bringt einen Ertrag von 1000 Goldstücken pro Tag.
+Stadtrathaus	Das Stadtrathaus ermöglicht Euch, Stadtausbauten zu kaufen und bringt einen Ertrag von 2000 Goldstücken pro Tag.
+Kapitol	Das Kapitol bringt einen Ertrag von 4000 Goldstücken pro Tag.
+Marktplatz	Hier könnt Ihr Ressourcen kaufen und verkaufen (der Wechselkurs steigt mit jedem Marktplatz, den Ihr besitzt).
+	
+Schmiede	Die Schmiede rüstet Eure Armee mit %s aus.
+Burggraben	Der Burggraben verlangsamt angreifende Kreaturen. Jede Einheit, die den Burggraben erreicht, muss ihren Zug beenden und ist bei Angriffen leichter verwundbar.
+Schiffswerft mit Schiff	Die Schiffswerft erlaubt Euch Schiffe zu kaufen.
+Schmiede	Die Schmiede rüstet Eure Armee mit Ballisten aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Erste Hilfe-Zelten aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Munitionskarren aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Munitionskarren aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Erste Hilfe-Zelten aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Ballisten aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Munitionskarren aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Erste Hilfe-Zelten aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Ballisten aus.
+Schmiede	Die Schmiede rüstet Eure Armee mit Kriegsmaschinen aus.

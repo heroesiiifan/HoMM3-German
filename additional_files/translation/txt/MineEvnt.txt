@@ -1,0 +1,24 @@
+"{Sägemühle}
+
+Ihr erlangt die Kontrolle über eine Sägemühle. Sie wird Euch mit zwei Einheiten Holz pro Tag versorgen."
+"{Alchemistenlabor}
+
+Ihr erlangt die Kontrolle über ein Alchemistenlabor. Es wird Euch mit einer Einheit Quecksilber pro Tag versorgen."
+"{Eisenerzgrube}
+
+Ihr erlangt die Kontrolle über eine Eisenerzgrube. Sie wird Euch mit zwei Einheiten Eisenerz pro Tag versorgen."
+"{Schwefeldüne}
+
+Ihr erlangt die Kontrolle über eine Schwefeldüne. Sie wird Euch mit einer Einheit Schwefel pro Tag versorgen."
+"{Kristallhöhle}
+
+Ihr erlangt die Kontrolle über eine Kristallhöhle. Sie wird Euch mit einer Einheit Kristall pro Tag versorgen."
+"{Edelsteinteich}
+
+Ihr erlangt die Kontrolle über einen Edelsteinteich. Er wird Euch mit einer Einheit Edelsteine pro Tag versorgen."
+"{Goldmine}
+
+Ihr erlangt die Kontrolle über eine Goldmine. Sie wird Euch mit 1000 Gold pro Tag versorgen."
+"{Verlassene Mine}
+
+Ihr erlangt die Kontrolle über eine verlassene Mine. Sie wird Euch mit 1000 Gold pro Tag versorgen."

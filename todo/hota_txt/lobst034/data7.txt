@@ -1,0 +1,4 @@
+0 # terrs msk
+8192 # spec terrs msk
+216 # x
+266 # y

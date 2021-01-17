@@ -1,0 +1,36 @@
+%s-Armee aufteilen
+Letzte Armee des Helden kann nicht vereinigt werden.
+%s-Armee vereinigen
+Armee aufteilen
+%s anzeigen
+Letzte Armee kann nicht in die Garnioson verlegt werden.
+%s bewegen
+%s und %s austauschen
+Stadt verlassen
+Kann verbündeten Helden nicht zur Garnison bewegen.
+Königreichübersicht
+Leer
+%s auswählen (in Garnison)
+Held anzeigen
+Magiergilde
+Diebesgilde
+Taverne
+Schiffswerft
+Schloss
+Schmiede
+Dorfrathaus
+%s rekrutieren
+Kreisrathaus
+Stadtrathaus
+Kapitol
+
+Marktplatz
+Rohstoff-Silo
+Fort
+Zitadelle
+Ein externer Kreaturen-Generator muss besetzt sein, damit Kreaturen durch das Portal herbeigerufen werden können.
+%s gekauft
+%s auswählen (Besuch)
+%s auswählen (entlassene Kreaturen)
+%s auswählen (Armee des Helden)
+%s (kann nicht entfernt werden)

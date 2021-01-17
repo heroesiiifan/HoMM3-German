@@ -1,0 +1,181 @@
+		
+Wall Section	"Hit Points (max is 3, only walls, towers, the Torhaus, and the main building are used, unused must be 0)"	
+Castle		
+Drawbridge	0	
+Drawbridge Rope	0	
+Moat	0	
+Moat Lip	0	
+Back Wall	0	
+Oberer Turm	2	
+Obere Mauer	2	
+Upper Buttress	0	
+Obere Tormauer	2	
+Torhaus	2	
+Untere Tormauer	2	
+Lower Buttress	0	
+Untere Mauer	2	
+Unterer Turm	2	
+Hauptturm	2	
+Keep Cvr	0	
+Lower Twr Cvr	0	
+Upper Twr Cvr	0	
+
+Rampart		
+Drawbridge	0	
+Drawbridge Rope	0	
+Moat	0	
+Moat Lip	0	
+Back Wall	0	
+Oberer Turm	2	
+Obere Mauer	2	
+Upper Buttress	0	
+Obere Tormauer	2	
+Torhaus	2	
+Untere Tormauer	2	
+Lower Buttress	0	
+Untere Mauer	2	
+Unterer Turm	2	
+Hauptturm	2	
+Main Bldg Cvr	0	
+Lower Twr Cvr	0	
+Upper Twr Cvr	0	
+
+Tower		
+Drawbridge	0	
+Drawbridge Rope	0	
+Moat	0	
+Moat Lip	0	
+Back Wall	0	
+Oberer Turm	2	
+Obere Mauer	2	
+Upper Buttress	0	
+Obere Tormauer	2	
+Torhaus	2	
+Untere Tormauer	2	
+Lower Buttress	0	
+Untere Mauer	2	
+Unterer Turm	2	
+Hauptturm	2	
+Main Bldg Cvr	0	
+Lower Twr Cvr	0	
+Upper Twr Cvr	0	
+
+Inferno		
+Drawbridge	0	
+Drawbridge Rope	0
+Moat	0
+Moat Lip	0
+Back Wall	0
+Oberer Turm	2
+Obere Mauer	2
+Upper Buttress	0
+Obere Tormauer	2
+Torhaus	2
+Untere Tormauer	2
+Lower Buttress	0
+Untere Mauer	2
+Unterer Turm	2
+Hauptturm	2
+Main Bldg Cvr	0
+Lower Twr Cvr	0
+Upper Twr Cvr	0	
+
+Necropolis		
+Drawbridge	0	
+Drawbridge Rope	0	
+Moat	0	
+Moat Lip	0	
+Back Wall	0	
+Oberer Turm	2	
+Obere Mauer	2	
+Upper Buttress	0	
+Obere Tormauer	2	
+Torhaus	2	
+Untere Tormauer	2	
+Lower Buttress	0	
+Untere Mauer	2	
+Unterer Turm	2	
+Hauptturm	2	
+Main Bldg Cvr	0	
+Lower Twr Cvr	0	
+Upper Twr Cvr	0	
+
+Dungeon		
+Drawbridge	0	
+Drawbridge Rope	0	
+Moat	0	
+Moat Lip	0	
+Back Wall	0	
+Oberer Turm	2	
+Obere Mauer	2	
+Upper Buttress	0	
+Obere Tormauer	2	
+Torhaus	2	
+Untere Tormauer	2	
+Lower Buttress	0	
+Untere Mauer	2	
+Unterer Turm	2	
+Hauptturm	2	
+Main Bldg Cvr	0	
+Lower Twr Cvr	0	
+Upper Twr Cvr	0	
+
+Stronghold		
+Drawbridge	0	
+Drawbridge Rope	0	
+Moat	0	
+Moat Lip	0	
+Back Wall	0	
+Oberer Turm	2	
+Obere Mauer	2	
+Upper Buttress	0	
+Obere Tormauer	2	
+Torhaus	2	
+Untere Tormauer	2	
+Lower Buttress	0	
+Untere Mauer	2	
+Unterer Turm	2	
+Hauptturm	2	
+Main Bldg Cvr	0	
+Lower Twr Cvr	0	
+Upper Twr Cvr	0	
+
+Fortress		
+Drawbridge	0	
+Drawbridge Rope	0
+Moat	0
+Moat Lip	0
+Back Wall	0
+Oberer Turm	2
+Obere Mauer	2
+Upper Buttress	0
+Obere Tormauer	2
+Torhaus	2
+Untere Tormauer	2
+Lower Buttress	0
+Untere Mauer	2
+Unterer Turm	2
+Hauptturm	2
+Main Bldg Cvr	0
+Lower Twr Cvr	0
+Upper Twr Cvr	0	
+
+Forge		
+Drawbridge	0	
+Drawbridge Rope	0	
+Moat	0	
+Moat Lip	0	
+Back Wall	0	
+Oberer Turm	2	
+Obere Mauer	2	
+Upper Buttress	0	
+Obere Tormauer	2	
+Torhaus	2	
+Untere Tormauer	2	
+Lower Buttress	0	
+Untere Mauer	2	
+Unterer Turm	2
+Hauptturm	2
+Main Bldg Cvr	0
+Lower Twr Cvr	0
+Upper Twr Cvr	0

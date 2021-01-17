@@ -1,0 +1,8 @@
+red
+blue
+tan
+green
+orange
+purple
+teal
+pink

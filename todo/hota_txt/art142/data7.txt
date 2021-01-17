@@ -1,0 +1,3 @@
+{Pendant of Reflection}
+
+In addition to component effect this item increases your chance to resist a hostile spell by 20%.

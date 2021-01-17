@@ -1,0 +1,110 @@
+Lighthouse	The lighthouse grants additional mobility to any ships you control.	
+Griffin Bastion	The Griffin Bastion increases Griffin production by 3 per week.	
+Griffin Bastion	The Griffin Bastion increases Royal Griffin production by 3 per week.	
+Shipyard	The Shipyard allows you to purchase ships.	
+Stables	The Stables increase the land movement rate of any visiting hero.	
+Brotherhood of the Sword	"During a siege, the Brotherhood of the Sword increases troop morale by +2."	
+		
+		
+		
+Colossus	"The presence of the Colossus increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the morale of all allied heroes by +2."	
+Resource Silo	The Resource Silo provides you with an additional +1 wood and +1 ore each day.	
+Mystic Pond	The Mystic Pond produces a small random number of resources each week.	
+Miners' Guild	The Miners' Guild increases Dwarf production by 4 per week.	
+Miners' Guild	The Miners' Guild increases Battle Dwarf production by 4 per week.	
+		
+Fountain of Fortune	The Fountain of Fortune increases the luck of the garrison hero by +2 when defending against a siege.	
+Treasury	The Treasury earns you 10% interest on any gold you have at the start of each week.	
+		
+Dendroid Saplings	The Dendroid Saplings increase Dendroid Guard production by 2 per week.	
+Dendroid Saplings	The Dendroid Saplings increase Dendroid Soldier production by 2 per week.	
+Spirit Guardian	"The presence of the Spirit Guardian increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the luck of all allied heroes by +2."	
+Resource Silo	The Resource Silo provides you with an additional +1 crystal each day.	
+Artifact Merchants	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
+Sculptor's Wings	The Sculptor's Wings increase Stone Gargoyle production by 4 per week.	
+Sculptor's Wings	The Sculptor's Wings increase Obsidian Gargoyle production by 4 per week.	
+		
+Lookout Tower	The lookout tower extends the visible distance around your city.	
+Library	The library provides your mage guild with additional spells.	
+Wall of Knowledge	The Wall of Knowledge increases the Knowledge skill of any visiting hero by +1.	
+		
+		
+Skyship	"The presence of the Skyship increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, reveals the entire world map, and increases the knowledge of any defending hero by +15 (these spell points do not follow a hero who leaves the town)."	
+Resource Silo	The Resource Silo provides you with an additional +1 gems each day.	
+		
+Birthing Pools	The Birthing Pools increase Imp production by 8 per week.	
+Birthing Pools	The Birthing Pools increase Familiar production by 8 per week.	
+		
+Brimstone Stormclouds	The Brimstone Stormclouds boost a garrison hero's power by +2 during any siege defense.	
+Castle Gate	Allows travel between Inferno towns containing Castle Gates. Destination town must be unoccupied.	
+Order of Fire	The Order of Fire increases the Power skill of any visiting hero by +1.	
+Cages	The Cages increase Hell Hound production by 3 per week.	
+Cages	The Cages increase Cerberus production by 3 per week.	
+Deity of Fire	The presence of the Deity of Fire increases weekly creature generation by 50% and provides your empire with an additional 5000 gold each day.  Every week hereafter will be a Week of the Imp.	
+Resource Silo	The Resource Silo provides you with an additional +1 mercury each day.	
+Cover of Darkness	The Cover of Darkness covers your city with a permanent shroud to all other players.	
+Unearthed Graves	The Unearthed Graves increase Skeleton production by 6 per week.	
+Unearthed Graves	The Unearthed Graves increase Skeleton Warrior production by 6 per week.	
+Shipyard	The Shipyard allows you to purchase ships.	
+Necromancy Amplifier	The Necromancy Amplifier increases the Necromancy skill of all heroes you control (with the Necromancy skill) by 10%.	
+Skeleton Transformer	The Skeleton Transformer allows you to convert any creature into a skeleton.	
+		
+		
+		
+Soul Prison	"The presence of the Soul Prison increases weekly creature generation by 50%, provides your empire with an additional 5000 gold each day, and boosts the Necromancy skill of all allied heroes (who possess the skill) by 20%."	
+Resource Silo	The Resource Silo provides you with an additional +1 wood and +1 ore each day.	
+Artifact Merchants	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
+Mushroom Rings	The Mushroom Rings increase Troglodyte production by 7 per week.	
+Mushroom Rings	The Mushroom Rings increase Infernal Troglodyte production by 7 per week.	
+		
+Mana Vortex	The Mana Vortex temporarily doubles spell points for any garrison or visiting hero.	
+Portal of Summoning	"With the Portal of Summoning, you can recruit creatures from an externally flagged dwelling."	
+Battle Scholar Academy	The Academy of Battle Scholars teaches new skills to any hero (+1000 experience) once.	
+		
+		
+Guardian of Earth	"The presence of the Guardian of Earth increases weekly creature generation by 50%, provides your empire with an additional 5000 gold each day, and increases the Power of a garrison hero by +12 when defending against a siege."	
+Resource Silo	The Resource Silo provides you with an additional +1 sulfur each day.	
+Escape Tunnel	The Escape Tunnel allows a garrison hero to flee from defending against a siege.	
+Mess Hall	The Mess Hall increases Goblin production by 8 per week.	
+Mess Hall	The Mess Hall increases Hobgoblin production by 8 per week.	
+		
+Freelancer's Guild	The Freelancer's Guild allows you to trade creatures for resources.	
+Ballista Yard	This Blacksmith upgrade provides your armies with ballistas.	
+Hall of Valhalla	The Hall of Valhalla increases the Attack skill of any visiting hero by +1.	
+		
+		
+Warlords' Monument	"The presence of the Warlords' Monument increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the Attack strength of a garrison hero by +20 when defending against a siege."	
+Resource Silo	The Resource Silo provides you with an additional +1 wood and +1 ore each day.	
+Cage of Warlords	The Cage of Warlords increases the Defense strength of any visiting hero by +1.	
+Captain's Quarters	The Captain's Quarters increase Gnoll production by 6 per week.	
+Captain's Quarters	The Captain's Quarters increase Gnoll Marauder production by 6 per week.	
+Shipyard	The Shipyard allows you to purchase ships.	
+Glyphs of Fear	The Glyphs of Fear add +2 to a garrison hero's defense skill when defending against a siege.	
+Blood Obelisk	The presence of a Blood Obelisk adds +2 to a garrison hero's attack skill when defending against a siege.	
+		
+		
+		
+Carnivorous Plant	"The presence of the Carnivorous Plant increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and increases the Attack and Defense strength of a garrison hero by +10 each when defending against a siege."	
+Resource Silo	The Resource Silo provides you with an additional +1 wood and +1 ore each day.	
+Artifact Merchants	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
+Garden of Life	This structure increases weekly production of Pixies by 10 per week.	
+Garden of Life	This structure increases weekly production of Sprites 10 per week.	
+Shipyard	The Shipyard allows you to purchase ships.	
+Magic University	"At the Magic University, you can pay to learn any, or all, of the four schools of magic."	
+		
+		
+		
+		
+Aurora Borealias	"The presence of the Aurora Borealias increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and places all spells in your mage guild."	
+Resource Silo	The Resource Silo provides you with an additional 1 Mercury each day.	
+Artifact Merchants	"For a nominal fee, you can purchase artifacts from the Artifact Merchants."	
+Level 1 Creature Horde	This structure increases weekly production of Level 1 Creatures.	
+Level 2 Creature Horde	This structure increases weekly production of Level 2 Creatures.	
+Shipyard	The Shipyard allows you to purchase ships.	
+		
+		
+Level 3 Creature Horde	This structure increases weekly production of Level 3 Creatures.	
+Level 4 Creature Horde	This structure increases weekly production of Level 4 Creatures.	
+Level 5 Creature Horde	This structure increases weekly production of Level 5 Creatures.	
+Grail	"The presence of the Grail increases weekly creature generation by 50%, provides your kingdom with an additional 5000 gold each day, and provides an additional bonus unique to each town type."	
+Resource Silo	The Resource Silo provides you with an additional resource ore each day.	

@@ -1,0 +1,6 @@
+"{Prospector}
+
+The tired prospector makes an effort to look tough, but you can see he is afraid of you after all. He is willing to pay you a small sum regularly for the permission to continue mining here."
+"{Prospector}
+
+The prospector curses the depleted vein, then wails and begs. Obviously, there's nothing else he can do for you this week."

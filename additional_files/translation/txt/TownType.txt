@@ -1,0 +1,9 @@
+Schloss
+Schutzwall
+Turm
+Inferno
+Necropolis
+Dungeon
+Burg
+Festung
+Konflux

@@ -1,0 +1,10 @@
+Kann nicht mehr als ein Kapitol bauen
+Diese Stadt ist nicht in Ufernähe
+Diese Stadt kann Gebäude nicht bauen
+Neue Stufe zur Magiergilde hinzufügen
+%s wurde bereits gebaut
+Kann %s nicht bauen
+Kann %s nicht bezahlen
+%s bauen
+Verlasse Rathaus
+Rathaus-Optionen

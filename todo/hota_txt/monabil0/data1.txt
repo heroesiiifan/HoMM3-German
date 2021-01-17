@@ -1,0 +1,1 @@
+%s gets enraged from the wounds! %s: +%d%% to damage.

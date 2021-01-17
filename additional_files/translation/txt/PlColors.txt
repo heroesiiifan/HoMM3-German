@@ -1,0 +1,8 @@
+rot
+blau
+braun
+grün
+orange
+violett
+türkis
+rosa

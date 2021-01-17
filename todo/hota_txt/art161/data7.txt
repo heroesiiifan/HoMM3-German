@@ -1,0 +1,3 @@
+{Horn of the Abyss}
+
+After a stack of living creatures is slain, a stack of Fangarms will rise in their stead and will stay loyal to the hero after the battle concludes. Total Hit Points of this stack will be equal to half of the slain stack's total Hit Points, but quantity of the Fangarms summoned thus should not exceed half of quantity of creatures in the slain stack. Slaying Fangarms will not trigger the Horn effect.

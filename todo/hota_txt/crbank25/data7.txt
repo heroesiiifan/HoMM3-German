@@ -1,0 +1,41 @@
+# Precise guard stack setup
+0
+# State 1
+30 # Chance
+106 106 106 106 -1 -1 -1 # Guards types
+4 4 4 4 0 0 0 # Guards counts
+0 # Upgrade chance (%)
+0 0 0 0 0 0 3000 # Resources award
+0 0 0 0 # Arts award: Treasure - Minor - Major - Relic
+-1 # Creatures award type
+0 # Creatures award count
+
+# State 2
+30 # Chance
+106 106 106 106 -1 -1 -1 # Guards types
+6 6 6 6 0 0 0 # Guards counts
+0 # Upgrade chance (%)
+0 0 0 0 0 0 4500 # Resources award
+0 0 0 0 # Arts award: Treasure - Minor - Major - Relic
+-1 # Creatures award type
+0 # Creatures award count
+
+# State 3
+30 # Chance
+106 106 106 106 -1 -1 -1 # Guards types
+8 8 8 8 0 0 0 # Guards counts
+00 # Upgrade chance (%)
+0 0 0 0 0 0 6000 # Resources award
+0 0 0 0 # Arts award: Treasure - Minor - Major - Relic
+-1 # Creatures award type
+0 # Creatures award count
+
+# State 4
+10 # Chance
+106 106 106 106 -1 -1 -1 # Guards types
+12 12 12 12 0 0 0 # Guards counts
+0 # Upgrade chance (%)
+0 0 0 0 0 0 9000 # Resources award
+0 0 0 0 # Arts award: Treasure - Minor - Major - Relic
+-1 # Creatures award type
+0 # Creatures award count

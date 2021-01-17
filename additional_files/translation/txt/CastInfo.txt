@@ -1,0 +1,7 @@
+Angiffsfähigkeit
+Verteidigungsfähig.
+Schaden pro Angriff
+Gesundheit
+Geschw.
+Wachstum/Woche
+%s verlassen

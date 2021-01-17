@@ -1,0 +1,209 @@
+Campaign Choice Button Right Click
+"{First Aid Tent}
+
+Your starting hero will begin with a First Aid Tent"
+"{Pikemen}
+
+Your starting hero will begin with 14 additional Pikemen"
+"{Rare Resources}
+
+Your treasury will receive an additional 5 mercury, sulfur, crystal, and gems"
+"{Angel}
+
+Your starting hero will begin with 1 Angel"
+"{Zealots}
+
+Your starting hero will begin with 3 Zealots"
+"{Spell Scroll}
+
+Your starting hero will receive a Scroll of Prayer"
+"{Golden Bow}
+
+The Golden Bow allows your troops to shoot through any obstacle or at any range without penalty"
+"{Lion's Shield of Courage}
+
+The Lion's Shield of Courage increases all four primary skills by +4"
+"{Endless Sack of Gold}
+
+The Endless Sack of Gold increases your income by 1000 gold per day"
+"{Gold}
+
+Begin with an extra 10,000 gold"
+"{Archangels}
+
+Begin with 2 Archangels
+(will be placed in garrison)"
+"{Titans}
+
+Begin with 2 Titans
+(will be placed in garrison)"
+"{Spell Scroll}
+
+Your starting hero will receive a Scroll of Protection from Fire"
+"{Spell Scroll}
+
+Your starting hero will receive a Scroll of Ice Bolt"
+"{Spell Scroll}
+
+Your starting hero will receive a Scroll of Precision"
+"{Expert Logistics}
+
+Your starting hero will begin with Expert Logistics"
+"{Shield of the Dwarven Lords}
+
+The Shield of the Dwarven Lords increases your Defense skill by +2"
+"{Centaur's Axe}
+
+The Centaur's Axe increases your Attack skill by +2"
+"{Expert Navigation}
+
+Your starting hero will begin with Expert Navigation"
+"{Three Level 1 Mage Guilds}
+
+Your three starting towns will each receive a Level 1 Mage Guild"
+"{One Level 3 Mage Guild}
+
+Your central town will receive a Level 3 Mage Guild"
+"{Boots of Speed}
+
+The Boots of Speed increase hero's movement rate over land"
+"{Basic Logistics}
+
+Your starting hero will begin with Basic Logistics"
+"{Gold}
+
+Begin with an extra 2,500 gold"
+"{Royal Griffins}
+
+Begin with 35 Royal Griffins
+(will be placed in garrison)"
+"{Iron Golems}
+
+Begin with 35 Iron Golems
+(will be placed in garrison)"
+"{Grand Elves}
+
+Begin with 35 Grand Elves
+(will be placed in garrison)"
+"{Helm of Heavenly Enlightenment}
+
+The Helm of Heavenly Enlightenment increases all four primary skills by +6"
+"{Tome of Earth Magic}
+
+This heavy book contains all spells in the School of Earth Magic"
+"{Spellbinder's Hat}
+
+When worn, this hat allows you to cast all 5th level spells"
+"{Spell Scroll}
+
+Your starting hero will receive a Scroll of Slayer"
+"{Armor of Wonder}
+
+The Armor of Wonder increases all four primary skills by +1"
+"{Imps}
+
+Your starting hero will begin with 100 additional Imps"
+"{Pillar of Eyes}
+
+Your starting town will receive a Pillar of Eyes
+(Beholder dwelling)"
+"{Level 1 Mage Guild}
+
+Your starting town will receive a Level 1 Mage Guild"
+"{Battle Scholars' Academy}
+
+Your starting town will receive a Battle Scholars' Academy
+(a one-time bonus of 1000 experience to any visiting hero)"
+"{Eeofol Heroes}
+
+Begin with your Heroes used in the 'A Devilish Plan' scenario"
+"{Nighon Heroes}
+
+Begin with your Heroes used in the 'Groundbreaking' scenario"
+"{Spell Scroll}
+
+Your starting hero will receive a Scroll of Death Ripple"
+"{Black Knight}
+
+Your starting hero will begin with 1 Black Knight"
+"{Skeleton Transformer}
+
+Your starting town will receive a Skeleton Transformer
+(converts any creature into a Skeleton)"
+"{Vampire's Cowl}
+
+The Vampire's Cowl increases your Necromancy skill by 10%"
+"{Necromancy Amplifier}
+
+Your starting town will receive a Necromancy Amplifier
+(adds to existing necromancy skill of all allied heroes)"
+"{Unearthed Graves}
+
+Your starting town will receive Unearthed Graves
+(increases skeleton production)"
+"{Pendant of Death}
+
+The Pendant of Death renders your units immune to the Destroy Undead spell"
+"{Spell Scroll}
+
+Your starting hero will receive a Scroll of Protection from Earth"
+"{Zombies}
+
+Your starting hero will begin with 25 Zombies"
+"{Spell Scroll}
+
+Your starting hero will receive a Scroll of Death Ripple"
+"{Dead Man's Boots}
+
+The Dead Man's Boots increase your Necromancy skill by 15%"
+"{Ghost Dragons}
+
+Your starting hero will begin with 3 Ghost Dragons"
+[substitute hero right-click info here]
+[substitute hero right-click info here]
+"{Fortress Hero}
+
+Begin with a random Fortress Hero
+(Beastmaster or Witch)"
+"{Thunderbirds}
+
+Your starting hero will begin with 3 Thunderbirds"
+"{Cyclops Kings}
+
+Your starting hero will begin with 2 Cyclops Kings"
+"{Ancient Behemoth}
+
+Your starting hero will begin with 1 Ancient Behemoth"
+"{Choose Tatalia}
+
+Choose to fight for Tatalia, using heroes from the 'Borderlands' scenario"
+"{Choose Krewlod}
+
+Choose to fight for Krewlod, using heroes from the 'Gold Rush' scenario"
+"{Boots of Speed}
+
+The Boots of Speed increase hero's movement rate over land"
+"{Gold}
+
+Begin with an extra 5,000 gold"
+"{Pegasi}
+
+Your starting hero will begin with 4 Pegasi"
+"{One Level 3 Mage Guild}
+
+Your starting town will receive a Level 3 Mage Guild"
+"{Gold}
+
+Begin with an extra 5,000 gold"
+"{Dendroid Soldiers}
+
+Your starting hero will begin with 3 Dendroid Soldiers"
+"{Dendroid Soldiers}
+
+Your starting hero will begin with 3 Dendroid Soldiers"
+"{Dendroid Guards}
+
+Your starting hero will begin with 6 Dendroid Guards"
+"{Wood}
+
+Begin with an additional 12 Wood"

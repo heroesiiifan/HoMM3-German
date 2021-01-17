@@ -1,0 +1,30 @@
+
+Name
+Pathfinding
+Archery
+Logistics
+Scouting
+Diplomacy
+Navigation
+Leadership
+Wisdom
+Mysticism
+Luck
+Ballistics
+Eagle Eye
+Necromancy
+Estates
+Fire Magic
+Air Magic
+Water Magic
+Earth Magic
+Scholar
+Tactics
+Artillery
+Learning
+Offense
+Armorer
+Intelligence
+Sorcery
+Resistance
+First Aid

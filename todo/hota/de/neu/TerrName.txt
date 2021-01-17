@@ -1,0 +1,10 @@
+Erde
+Sand
+Gras
+Schnee
+Sumpf
+Ödland
+Unterirdisch
+Lava
+Wasser
+Fels

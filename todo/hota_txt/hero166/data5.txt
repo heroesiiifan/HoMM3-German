@@ -1,0 +1,3 @@
+{Sorcery}
+
+Receives a 5% per level bonus to Sorcery skill percentage.

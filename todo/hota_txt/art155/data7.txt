@@ -1,0 +1,3 @@
+{Hideous Mask}
+
+Decreases enemy's Morale by 1.

@@ -1,0 +1,24 @@
+Rank	Player	Land	Days	Score
+1	Sandro	Tot und begraben	75	200
+2	Astral	Alle für Einen	100	190
+3	Oris	Knietief in Leichen	125	180
+4	Lord Haart	Titanen-Winter	150	170
+5	Alamar	Das Drachen-Reich	175	160
+6	Styg	Smaragd-Inseln	200	150
+7	Yog	Stürzt Eure Nachbarn	250	140
+8	Ajit	Suche nach dem Gral	500	130
+9	Iona	Mandat des Himmels	750	120
+10	Tazar	Mythen und Legenden	1000	100
+11	Euer Name	Spielt eine Karte	2000	1
+Rank	Player	Campaign	Days	
+1	Fafner	Lied für den Vater	500	1000
+2	Gretchin	Lang lebe der König	550	875
+3	Gundula	Kriegsbeute	600	750
+4	Drakon	Befreiung	650	625
+5	Ingham	Dungeons und Teufel	700	500
+6	Tamika	Lang lebe die Königin	750	375
+7	Nymus	Saat der Zwietracht	800	250
+8	Malcom	Befreiung	850	225
+9	Sorsha	Saat der Zwietracht	900	200
+10	Zydar	Lang lebe der König	1000	175
+11	Euer Name	Spielt eine Karte	2000	1

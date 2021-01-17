@@ -1,0 +1,3 @@
+{Forgetfulness}
+
+Casts Forgetfulness with double duration.

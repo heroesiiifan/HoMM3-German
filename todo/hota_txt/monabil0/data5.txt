@@ -1,0 +1,1 @@
+Smelling blood, %s inflict an extra blow!

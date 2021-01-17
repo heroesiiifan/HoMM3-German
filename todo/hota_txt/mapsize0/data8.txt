@@ -1,0 +1,6 @@
+View all huge maps
+View all extra huge maps
+View all giant maps
+Create a huge map
+Create an extra huge map
+Create a giant map

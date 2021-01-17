@@ -1,0 +1,172 @@
+//Campaign Map Names
+Long Live the Queen
+Liberation
+Song for the Father
+Dungeons and Devils
+Long Live the King
+Spoils of War
+Seeds of Discontent
+Bracada
+Islands
+Krewlod
+Nighon
+Tatalia
+Armageddon
+Hack and Slash
+Birth of a Barbarian
+New Beginning
+Elixir of Life
+Rise of the Necromancer
+Unholy Alliance
+Specter of Power
+
+
+//Good 1 Map Region Names
+Southport
+Angel Gate
+Gryphon Cliff
+
+
+//Good 2 Map Region Names
+Battlestead
+Frostland
+Marshland and Hillbridge
+Grainrich and Firecoast
+
+
+//Good 3 Map Region Names
+Forestlow
+"E.hills, S.willow, W.grove, F.bury"
+Marbel Garden
+
+
+//Evil 1 Map Region Names
+Rionpoint
+Grainrich
+Battlestead
+Fire Coast
+Southport
+Angel Gate
+Gryphon Cliff
+
+
+//Evil 2 Map Region Names
+Marble Garden
+Emerald Hills
+Strongwillow and Woodgrove
+"F.don, F.bury and Forestlow"
+
+
+//Neutral 1 Map Region Names
+Marshland
+Minewell
+Hillbridge
+
+
+//Secret 1 Map Region Names
+Cloverfield
+Mosswood
+Forestdale
+
+
+// Bracada Map Region Names
+Bracada A
+Bracada B
+Bracada C
+Bracada D
+
+
+// Islands Map Region Names
+Islands A
+Islands B
+Islands C
+Islands D
+
+
+// Krewlod Map Region Names
+Krewlod A
+Krewlod B
+Krewlod C
+Krewlod D
+
+
+// Nighon Map Region Names
+Nighon A
+Nighon B
+Nighon C
+Nighon D
+
+
+// Tatalia Map Region Names
+Tatalia A
+Tatalia B
+Tatalia C
+
+
+// Armageddon Map Region Names
+Armageddon A
+Armageddon B
+Armageddon C
+Armageddon D
+Armageddon E
+Armageddon F
+Armageddon G
+Armageddon H
+
+
+// Hack and Slash Region Names
+Hack and Slash A
+Hack and Slash B
+Hack and Slash C
+Hack and Slash D
+
+
+// Birth of a Barbarian Region Names
+Birth of a Barbarian A
+Birth of a Barbarian B
+Birth of a Barbarian C
+Birth of a Barbarian D
+Birth of a Barbarian E
+
+
+// New Beginning Region Names
+New Beginning A
+New Beginning B
+New Beginning C
+New Beginning D
+
+
+// Elixir of Life Region Names
+Elixir of Life A
+Elixir of Life B
+Elixir of Life C
+Elixir of Life D
+
+
+// Rise of the Necromancer Region Names
+Rise of the Necromancer A
+Rise of the Necromancer B
+Rise of the Necromancer C
+Rise of the Necromancer D
+
+
+// Unholy Alliance Region Names
+Unholy Alliance A
+Unholy Alliance B
+Unholy Alliance C
+Unholy Alliance D
+Unholy Alliance E
+Unholy Alliance F
+Unholy Alliance G
+Unholy Alliance H
+Unholy Alliance I
+Unholy Alliance J
+Unholy Alliance K
+Unholy Alliance L
+
+
+// Specter of Power Region Names
+Specter of Power A
+Specter of Power B
+Specter of Power C
+Specter of Power D

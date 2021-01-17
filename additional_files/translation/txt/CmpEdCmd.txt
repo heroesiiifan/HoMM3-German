@@ -1,0 +1,24 @@
+Note: Do not change the headings in this file, they are used to detect problems	
+Status Bar Message	Tool Tip
+Drücken Sie F1 für Hilfe	
+Eine neue Kampagne erstellen	Neue Kampagne
+Eine bestehende Kampagne öffnen	Kampagne öffnen 
+Aktuelle Kampagne speichern	Kampagne speichern
+Die aktuelle Kampagne unter neuem Namen speichern	Kampagne speichern als
+Zeigt Programm-Informationen, Versionsnummer und Copyright	Info
+Kampagnen-Editor beenden	Beenden
+Hilfethemen auflisten	Hilfethemen
+Zeigt Hilfe zu Aufgabe oder Befehl	Hilfe
+Diese Kampagne öffnen	
+Fenstergröße ändern	
+Fensterposition ändern	
+Das Fenster minimieren	
+Das Fenster maximieren	
+Das Fenster schließen	
+Das Fenster auf normale Größe reduzieren	
+Alle Szenariokarten der aktuellen Kampagne aktualisieren	
+Alle Szenariokarten in die aktuelle Kampagne exportieren	
+Kampagnen-Eigenschaften ändern	Kampagnen-Eigenschaften
+Szenario-Eigenschaften ändern	Szenario-Eigenschaften
+Den Text der aktuellen Kampagne in eine Textdatei exportieren	
+Text aus einer Textdatei in die Kampagne importieren	

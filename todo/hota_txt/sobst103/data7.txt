@@ -1,0 +1,6 @@
+0 # terrs msk
+4096 # spec terrs msk
+2 # height
+3 # width
+3 # hexes count
+1 # draw under all (0 - no, 1 -yes)

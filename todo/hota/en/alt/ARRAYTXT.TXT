@@ -1,0 +1,375 @@
+"Note: Do not change the headings in this file, they are used to detect problems"
+gStatDesc
+"{Attack}
+
+Attack skill is a bonus added to the attack skill of any troops your hero commands, allowing them to inflict more damage in combat."
+"{Defense}
+
+Defense skill is a bonus added to the defense skill of any troops your hero commands, allowing them to resist more damage in combat."
+"{Spell Power}
+
+Spell power determines the duration or strength of a spell."
+"{Knowledge}
+
+Knowledge determines how many spell points your hero may have.  Under normal circumstances, a hero is limited to 10 spell points per level of Knowledge."
+gLuckText
+Cursed
+Awful
+Bad
+Normal
+Good
+Great
+Irish
+gMoraleText
+Treason
+Awful
+Poor
+Normal
+Good
+Great
+Blood!
+gOwnedByColor
+Owned by red player
+Owned by blue player
+Owned by tan player
+Owned by green player
+Owned by orange player
+Owned by purple player
+Owned by teal player
+Owned by pink player
+gMonthNames
+Grasshopper
+Ant
+Ladybug
+Spider
+Butterfly
+Bumblebee
+Locust
+Earthworm
+Hornet
+Beetle
+gWeekNames
+Squirrel
+Rabbit
+Gopher
+Badger
+Rat
+Eagle
+Weasel
+Raven
+Mongoose
+Dog
+Aardvark
+Lizard
+Tortoise
+Hedgehog
+Condor
+cLuckInfo
+"{Good Luck}
+
+Good luck sometimes lets your armies get lucky attacks (double damage) in combat."
+"{Neutral Luck}
+
+With neutral luck your armies will never have lucky or unlucky attacks on the enemy."
+"{Bad Luck}
+
+Bad luck sometimes falls on your armies in combat, causing their attacks to only do half damage."
+"%s
+
+
+{Current Luck Modifiers:}"
+"
+Still Eye of the Dragon +1"
+"
+Clover of Fortune +1"
+"
+Cards of Prophecy +1"
+"
+Ladybird of Luck +1"
+"
+Swan Pond Visited +2"
+"
+Idol of Fortune Visited +1"
+"
+Fountain of Fortune Visited %s"
+"
+Pyramid Visited -2"
+"
+Faerie Ring Visited +1"
+"
+Mermaid Visited +1"
+"
+Rally Flag Visited +1"
+"
+Basic Luck +1"
+"
+Advanced Luck +2"
+"
+Expert Luck +3"
+"
+None"
+"
+-%d Temporary until next battle"
+"
++%d Temporary until next battle"
+"
+Pendant of Courage +3"
+"
+No luck effects on cursed ground"
+"
+%s suppresses all luck"
+"
+Creature of neutral town alignment on Clover Field +2"
+cMoraleInfo
+"{Good Morale}
+
+Good morale may give your armies extra attacks in combat."
+"{Neutral Morale}
+
+Neutral morale means your armies will neither be blessed with extra attacks or freeze in combat."
+"{Bad Morale}
+
+Bad morale may cause your armies to freeze in combat."
+"%s
+
+
+{Current Morale Modifiers:}"
+"
+Still Eye of the Dragon +1"
+"
+Badge of Courage +1"
+"
+Crest of Valor +1"
+"
+Glyph of Gallantry +1"
+"
+Idol of Fortune Visited +1"
+"
+Buoy Visited +1"
+"
+Oasis Visited +1"
+"
+Temple Visited +1"
+"
+Temple Visited on Sunday +2"
+"
+Sepulcher Visited -1"
+"
+Shipwreck Visited -1"
+"
+Watering Hole Visited +1"
+"
+Derelict Ship Visited -1"
+"
+Rally Flag Visited +1"
+"
+Fountain of Youth Visited +1"
+"
+Warrior Tomb Visited -3"
+"
+Basic Leadership +1"
+"
+Advanced Leadership +2"
+"
+Expert Leadership +3"
+"
+None"
+"
+-%d Temporary until next battle"
+"
++%d Temporary until next battle"
+"
+Pendant of Courage +3"
+"
+No morale effects on cursed ground"
+"
+Unaffected by morale"
+"
+Troops of %d alignments %d"
+"
+All troops of one alignment +1"
+"
+Undead in group -1"
+"
+%s in group +1"
+"
+Facing %s -1"
+"
+%s suppresses good morale"
+"
+%s always have positive morale"
+"
+Spells %+d"
+"
+On native terrain +1"
+"
+Creature of good town alignment on Holy Ground +1"
+"
+Creature of evil town alignment on Holy Ground -1"
+"
+Creature of evil town alignment on Evil Fog +1"
+"
+Creature of good town alignment on Evil Fog -1"
+cNewTurn
+"%s, you only have %d days left to capture a town or you will be banished from this land."
+"%s, this is your last day to capture a town or you will be banished from this land."
+"Astrologers proclaim month of the %s.
+
+All dwellings increase population."
+"Astrologers proclaim month of the %s.
+
+%s population doubles!
+
+All dwellings increase population."
+"Astrologers proclaim month of the PLAGUE!
+
+All populations are halved."
+"Astrologers proclaim week of the %s.
+
+All dwellings increase population."
+"Astrologers proclaim week of the %s.
+
+%s growth +5.
+
+All dwellings increase population."
+"Astrologers proclaim week of the %s.
+
+%s growth %+d.
+%s growth %+d.
+
+All dwellings increase in population."
+cMapSize
+Small
+Medium
+Large
+Extra Large
+cDifficulty
+Easy
+Normal
+Hard
+Expert
+Impossible
+cDirections
+northern
+northeastern
+eastern
+southeastern
+southern
+southwestern
+western
+northwestern
+central
+cRumourTerrainDescriptions
+in the dirt.
+under a desert drift.
+on a grassy plain.
+in the driven snow.
+in a murky swamp.
+in a parched wasteland.
+in an underground cavern
+buried in barren lava.
+in the murky depths of the ocean.
+under a rock.
+cPersonality
+Warrior
+Builder
+Explorer
+Human
+gArmySizeNames
+Few
+A few
+a few
+Several
+Several
+several
+Pack
+A pack of
+a pack of
+Lots
+Lots of
+lots of
+Horde
+A Horde of
+a horde of
+Throng
+A Throng of
+a throng of
+Swarm
+A Swarm of
+a swarm of
+Zounds
+Zounds...
+zounds of
+Legion
+A Legion of
+a legion of
+const_wise_tree_price_text
+ (+1 level)
+ (+1 level for 2000 gold)
+ (+1 level for 10 gems)
+HumanCPU
+"Human
+or CPU"
+Human
+CPU
+HandiText
+No Handicap
+Mild Handicap
+Severe Handicap
+AGRText
+Artifact
+Gold
+Resource
+gTownTypeNames
+Neutral
+Castle
+Rampart
+Tower
+Inferno
+Necropolis
+Dungeon
+Stronghold
+Fortress
+Conflux
+NewLoadSave
+Select a Scenario to Play
+Load a Saved Game
+Save the Current Game
+Army Speed Names
+Immobile
+Super Slow
+Ultra Slow
+Very Slow
+Extra Slow
+Slow
+Swift
+Extra Swift
+Very Swift
+Ultra Swift
+Super Swift
+Quick
+Extra Quick
+Very Quick
+Ultra Quick
+Super Quick
+Fast
+Extra Fast
+Very Fast
+Ultra Fast
+Super Fast
+Town Size Names
+Village
+Town
+City
+Capitol
+Moat Names
+Moat
+Bramble Hedge
+Land Mines
+Lava
+Boneyard
+Boiling Oil
+Spike Barrier
+Boiling Tar
+Moat
+Insert all data before this line. Do not alter or delete this line.
