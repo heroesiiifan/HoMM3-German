@@ -36,6 +36,8 @@ for filename in os.listdir("homm3_files/RoE_de/Maindisk/Maps"):
     zipObj.write(os.path.join("homm3_files/RoE_de/Maindisk/Maps", filename), arcname=os.path.join("Packs/German", filename))
 for filename in os.listdir("additional_files/translation/campaign/extra"):
     zipObj.write(os.path.join("additional_files/translation/campaign/extra", filename), arcname=os.path.join("_Custom_Campaign", filename))
+for filename in os.listdir("additional_files/translation/campaign/chronicles"):
+    zipObj.write(os.path.join("additional_files/translation/campaign/chronicles", filename), arcname=os.path.join("_Custom_Campaign", filename))
 
 for filename in os.listdir("_tmp/fnt"):
     zipObj.write(os.path.join("_tmp/fnt", filename), arcname=os.path.join("Packs/German", filename))

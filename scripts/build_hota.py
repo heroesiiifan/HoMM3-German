@@ -66,6 +66,8 @@ command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA.lod"] + ["_tm
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_lng.lod"] + ["_tmp/HotA_patched/txt/" + s for s in os.listdir("_tmp/HotA_patched/txt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_lng.lod"] + ["_tmp/def/" + s for s in os.listdir("_tmp/def/")] + ["additional_files/hota/bmp/" + s for s in os.listdir("additional_files/hota/bmp/")]
+output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
 zipObj = ZipFile('_out/HoMM3DE_HotA.zip', 'w', zipfile.ZIP_STORED)
 zipObj.write(os.path.join("_tmp/HotA_patched/" + "HotA.lod"), arcname=os.path.join("", "HotA.lod"))
