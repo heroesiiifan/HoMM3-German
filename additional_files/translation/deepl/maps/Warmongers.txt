@@ -1,0 +1,95 @@
+===== Map name =====
+Warmongers
+
+===== Map description =====
+Life was relatively peaceful until the three lords across the sea decided to team up and declare war on you. Build up before they invade but watch out for your neighbors who might have different ideas.
+
+===== Rumors =====
+
+Name:
+Bandits.
+Text:
+Beware! bandits can appear without warning.
+
+===== Timed events =====
+
+Name:
+First Day
+Message:
+The three enemies across the straits have teamed up and will invade soon. Be ready, but watch out for your neighbors as well.
+
+===== Objects =====
+
+(21, 102, 0) ***Random Resource***
+Message:
+You find a small cache of resources.
+
+(21, 103, 0) ***Random Resource***
+Message:
+You find a small cache of resources.
+
+(31, 0, 0) ***Random Resource***
+Message:
+You find a small cache of resources.
+
+(32, 0, 0) ***Random Resource***
+Message:
+You find a small cache of resources.
+
+(18, 32, 0) ***Sign***
+Message:
+This gate is manned at all times.  No passing without authorization.
+
+(21, 28, 0) ***Sign***
+Message:
+This gate is manned at all times.  No passing without authorization.
+
+(53, 44, 0) ***Sign***
+Message:
+This gate is manned at all times.  No passing without authorization.
+
+(54, 40, 0) ***Sign***
+Message:
+This gate is manned at all times.  No passing without authorization.
+
+(37, 85, 0) ***Sign***
+Message:
+This gate is manned at all times.  No passing without authorization.
+
+(34, 82, 0) ***Sign***
+Message:
+This gate is manned at all times.  No passing without authorization.
+
+(15, 113, 0) ***Sign***
+Message:
+This gate is manned at all times.  No passing without authorization.
+
+(16, 116, 0) ***Sign***
+Message:
+This gate is manned at all times.  No passing without authorization.
+
+(82, 125, 0) ***Event***
+Message:
+Bandits leap out from behind some rocks and attack!
+
+(47, 3, 0) ***Event***
+Message:
+Bandits pop out from underneath the snow and attack!
+
+(92, 55, 0) ***Sign***
+Message:
+Welcome to Lighthouse Isle, no buried treasure please.
+
+(90, 58, 0) ***Event***
+Message:
+You find buried treasure!
+
+(96, 53, 0) ***Event***
+Message:
+You find buried treasure!
+
+(59, 51, 0) ***Event***
+Message:
+Bandits jump out from behind the trees and attack.
+
+===== End of file =====

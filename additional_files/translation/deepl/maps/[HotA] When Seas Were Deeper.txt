@@ -1,0 +1,27 @@
+===== Map name =====
+When Seas Were Deeper
+
+===== Map description =====
+In the future, the Avalanche archipelago will only be a part of the huge peninsula. Now the peninsula is only protruding from the water, revealing a fleet of sunken ships, which, naturally, attract treasure hunters of all races and colors.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(69, 90, 0) ***Pandora's Box***
+Message:
+
+
+(53, 64, 0) ***Pandora's Box***
+Message:
+
+
+(85, 57, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

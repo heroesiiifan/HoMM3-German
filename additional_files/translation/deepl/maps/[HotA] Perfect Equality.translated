@@ -1,0 +1,39 @@
+===== Map name =====
+Perfekte Gleichheit
+
+===== Map description =====
+Die Handlung ist so alt wie die Welt - ein sterbender König forderte vier Söhne auf, in einem fairen Kampf einen würdigen Nachfolger zu finden. Das Königreich ist groß, und der König konnte jedem Sohn ein faires Stück Land geben, so dass es keinen unfairen Vorteil geben würde. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(14, 61, 0) ***Seer's Hut***
+Message:
+Sie kommen zu einer kleinen Behausung, die direkt in einen alten, aber noch recht mächtigen Baum gebaut ist. Im unteren Fenster brannte ein schwaches Licht - anscheinend war eine Kerze die einzige Möglichkeit, das Haus zu erhellen. Während Du noch überlegst, ob Du an die Tür klopfen sollst oder nicht, öffnet sie sich von selbst und ein alter Mann tritt heraus.		Hier wohnt ein alter Krieger. Er wird bereit sein, Ihnen einige Tricks beizubringen, aber Sie müssen würdig sein. Komm zurück, wenn du mindestens 32 Angriff und 14 Verteidigung hast.
+Der alte Mann weigert sich zu sprechen, bis Du stark genug bist.
+Der alte Mann sieht begeistert und stolz auf Dich aus. Er gewährt Ihnen sein Wissen.
+
+(52, 39, 0) ***Seer's Hut***
+Message:
+Sie betreten ein kleines Haus, das eine Bibliothek zu sein scheint. Sie nehmen wahllos ein Buch aus dem Regal, können aber die seltsamen Schriften darin nicht verstehen. Vielleicht gewährt Ihnen der Besitz von 32 Wissen und 14 Macht das Wissen über diese Seiten.
+Sie wissen, dass die Bibliothek zum jetzigen Zeitpunkt eine Zeitverschwendung ist. Sie brauchen mehr Wissen und Macht.
+Sie kommen in die Bibliothek und sind endlich in der Lage zu verstehen, worum es in den Büchern geht. Sie lernen viel in Ihrer kurzen Zeit hier.
+
+(31, 16, 0) ***Seer's Hut***
+Message:
+Du bemerkst ein kleines Haus am Rande des Waldes. Du beschließt, nachzusehen, was sich darin befindet. Du triffst einen Magier, der bereit ist, dir für 32 Kraft und 14 Wissen große Macht zu geben.
+Du versuchst, die Tür zu öffnen, aber du siehst die Zahlen 32 und 14 darauf erscheinen. Du gehst weg.
+Du bist stark genug, und der Magier gewährt dir etwas von seiner Macht.
+
+(50, 22, 0) ***Seer's Hut***
+Message:
+Ein paar Schritte vom Haus entfernt, trifft ein Pfeil den Boden unter Ihren Beinen.		"Schutz - 32 Punkte und Angriff - 14 Punkte. Wage es nicht, dich ohne diese Werte zu nähern."
+Sie meiden das kleine Haus, da Sie wissen, dass Sie noch nicht vorbereitet sind.
+Sie nähern sich dem Haus, da Sie wissen, dass Sie bereit sind. Drinnen empfängt Sie ein Mann. Er bietet dir seine Kräfte an, um dich in den Künsten der Verteidigung zu unterrichten.
+
+===== End of file =====

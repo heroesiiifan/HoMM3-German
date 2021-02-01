@@ -1,0 +1,53 @@
+===== Map name =====
+Knietief in den Toten
+
+===== Map description =====
+Sie erwachen in einer stark veränderten Welt.  Zombies sind überall.  Sie scheinen knietief in den Toten zu stecken.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1
+Message:
+Während eines Manövers lagerte Ihre Armee und fiel in einen tiefen Schlaf.  Als Sie aufwachen, finden Sie sich von einer massiven Armee von Zombies umgeben, von denen viele Ihre ehemaligen Wachposten zu sein scheinen.  Desorientiert müssen Sie fliehen und Ihr Zuhause finden.
+
+Name:
+Tag 2
+Message:
+Es scheint, dass Sie das Opfer einer Legende geworden sind, die besagt, dass am Vollmond des ersten Jahres des siebten Zyklus des Wyrm der Necrolord kommen und die Toten aus ihren Gräbern erwecken wird, um das Land der Lebenden zurückzuerobern.  Wenn du den Necrolord nur finden und verbannen könntest...
+
+Name:
+Böses Gelächter
+Message:
+Du hörst ein abscheuliches, böses Lachen im Wind.  Hast du es wirklich gehört oder war es nur deine überaktive Fantasie?
+
+Name:
+Versand von Waren
+Message:
+Eine Lieferung aus den Außenbezirken Eures Königreichs trifft ein.  Diese Ladung ist von lebenswichtiger Bedeutung.  Viele der Vorräte, die Sie für die kommende Schlacht benötigen, sind enthalten.
+
+===== Objects =====
+
+(20, 20, 0) ***Knight***
+Name:
+Christlich
+
+(2, 5, 0) ***Necropolis***
+Name:
+Scorch
+
+(2, 6, 0) ***Necromancer***
+Name:
+Nekrolord
+
+(34, 13, 0) ***Event***
+Message:
+Wenn Sie sich den gefrorenen Regionen des Necrolords nähern, bekommen Sie ein Gefühl der Vorahnung.
+
+(24, 19, 0) ***Sign***
+Message:
+Nach Westen zur Burg.  Nach Osten zu den Rangierfeldern.
+
+===== End of file =====

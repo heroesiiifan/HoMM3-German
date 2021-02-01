@@ -1,0 +1,70 @@
+===== Map name =====
+König der Schmerzen
+
+===== Map description =====
+Der König von Arule ist verrückt geworden und eliminiert einen seiner Lords nach dem anderen.  Er plant, sie alle auszulöschen, da er glaubt, dass sie vom Bösen berührt werden.  Der König muss gestoppt und ein neuer König auf den Thron gesetzt werden, aber wer wird das sein?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Eröffnung - Rot/Orange
+Message:
+Der König ist völlig wahnsinnig geworden und hat alle seine Vasallen herausgefordert.  Er behauptet, dass Sie alle hinter ihm her sind und er Sie vernichten wird.  Sie haben beschlossen, eine Armee zur Verteidigung aufzustellen, den verrückten König abzusetzen und den Thron für sich zu beanspruchen.  Das Problem ist, dass andere Lords auf die gleiche Idee kommen könnten.  Alle zu besiegen, die sich Ihnen in den Weg stellen, ist die einzige Lösung.  Das göttliche Recht sagt, dass nur die Starken herrschen sollten, und Sie sind in der Tat stark.
+
+Name:
+Eröffnung - Blau
+Message:
+Du bist der König, Herrscher über alles, was du überblickst, aber deine fadenscheinigen, unbedeutenden und inkompetenten Vasallen verschwören sich gegen dich.  Solcher Verrat befleckt Dein geliebtes Königreich und kann nicht ungestraft bleiben.  Zum Wohle des Königreichs müssen sie vernichtet werden.    Das göttliche Recht schreibt vor, dass ihr Leben in Euren Händen liegt, und nur in Euren, um damit zu tun, was Ihr für richtig haltet.
+
+Name:
+Der Wahnsinn setzt ein
+Message:
+Euer Regent betritt Eure Gemächer, um Euch eine schlimme Nachricht zu überbringen.  Einige der Lords in der Nähe Eurer Burg haben sich Eurer Aufforderung widersetzt.  Sie müssen mit dem dunklen Wahnsinn infiziert sein, wie Ihr befürchtet habt.  Doch als du deinem Regenten deine Befürchtungen mitteilst, begrüßt er dich mit einem Blick voller Mitleid und Unglauben.  Da er ebenfalls infiziert sein muss, befiehlst du, ihn in der Sonne zu pfählen, um seinen Körper von dem dunklen Wahnsinn zu reinigen, der ihn und dein geliebtes Königreich zu verzehren droht.
+
+Name:
+Blaus Verrat
+Message:
+Der Herzog im Norden, der das blaue Banner trägt, hat sich entschlossen, in dieser Zeit der großen Unruhen die Gelegenheit zu ergreifen, um die Macht von unserem verrückten König zu ergreifen.  Doch er repräsentiert die alten Wege, die alten Mächte.  Die Zeit ist reif für einen Wandel.		Unzählige Jahre lang habt Ihr Euch bemüht, den Menschen zu helfen, ihr Leben reicher und bequemer zu machen.  Heute ist der Tag, sich gegen das unterdrückende Feudalsystem zu erheben und eine neue Lebensweise zu schaffen, in der das einfache Volk ein Mitspracherecht hat, wie das Königreich regiert wird.		Das göttliche Recht besagt, dass der Starke regieren sollte, und Sie sind darauf aus, zu beweisen, dass dies richtig ist, denn Sie glauben an die Stärke des Herzens des einfachen Mannes.  Du versammelst deine Berater und vertrauenswürdigsten Verbündeten unter den Bauern und begibst dich auf eine Mission der Wahrheit und Ehre, eine Mission, um dieses Land von Ignoranz, Intoleranz und Arroganz zu befreien.  Nur die Götter wissen, ob Sie Erfolg haben werden oder nicht.
+
+Name:
+Der Wahnsinn des Königs nimmt zu
+Message:
+Es hat sich herumgesprochen, dass der König seine Boten foltert, wenn sie ihm Nachrichten über euren Aufstand bringen.  Der Wahnsinn hat ihn stärker gepackt, als Ihr Euch vorstellen konntet.  Jetzt müsst Ihr mehr denn je Eure Anstrengungen verdoppeln, um den Thron zu erlangen.  Der verrückte König wird mit Sicherheit den Untergang von Arule herbeiführen, sollte man ihm erlauben, weiter zu regieren.
+
+Name:
+Steuerabgabe
+Message:
+Der König schickt einen Steuereintreiber, um die ihm zustehenden Steuern einzutreiben.  Er schickt auch eine Botschaft an alle, die den "Makel des dunklen Wahnsinns" tragen, in der er die Methoden darlegt, mit denen er eure Seele reinigen wird.  Leider beinhalten seine Methoden alle die Beschädigung eurer Körper.  Das scheint ein bisschen hart zu sein, denkst Du.  Du schickst seinen Boten mit leeren Händen zurück.
+
+Name:
+Orange's Täuschung
+Message:
+Euer Nachbar, der mit der orangenen Flagge, hat Euer Vertrauen missbraucht.  Er hat gegen den König zu den Waffen gegriffen, so wie Ihr auch.  Er ist einer, der sich mit den Bauern verbündet hat.  Dieser Verrat am feudalen System, das Arule seit so vielen Generationen gut regiert hat, kann nicht ungestraft bleiben.  Das ist Hochverrat, schlicht und einfach.  Orange muss gestoppt werden!!!
+
+Name:
+Steuererhebungen
+Message:
+Die Verdorbenen haben Ihren Steuereintreiber mit leeren Händen zurückgeschickt.  Eine solche Unverschämtheit verlangt nach einer Antwort!  Du befiehlst deinen Truppen, loszuziehen und etwas zu zerschlagen, das die Verdorbenen sehr schätzen.
+
+Name:
+Amtshandlung
+Message:
+Sie halten Euch für verrückt; nun, sie sind es, die mit dem dunklen Wahnsinn behaftet sind.  Sie sind es, die gegen ihren souveränen König zu den Waffen gegriffen haben, und sie werden es sein, die mit ihrem Leben bezahlen.  Der einzige Weg, sie jetzt zu retten, ist, ihre Seelen freizulassen, nachdem ihre Körper von Unreinheiten gereinigt worden sind.  Euer Foltermeister ist bereit und willens, diese edle Aufgabe zu erfüllen.		Damit jeder weiß, wer den Makel der Unreinheit trägt, sendet Ihr ein Dekret aus, mit dem Ihr dem Herzog von Steadfast und dem Grafen von Aronward die Ländereien entzieht.  Sie werden keine andere Wahl haben, als ihre Besitztümer einzubüßen und sich Eurer Reinigungsprozedur zu unterwerfen.
+
+Name:
+Der Erlass des Königs erreicht Ihre Ohren - Rot
+Message:
+Euch erreicht die Nachricht, dass der König verfügt hat, dass Eure Ländereien verwirkt sind und Ihr sofort in die Hauptstadt zurückkehren müsst, um Euch seiner "Säuberung" zu unterziehen.  Dieser Wahnsinn ist nun schon zu lange unkontrolliert verlaufen!  Du zerreißt das Dekret, schneidest dem Boten die Nase ab und schickst ihn zurück zu Deinem ehemaligen König als Erklärung der Verachtung für seine Herrschaft.
+
+Name:
+Das Dekret des Königs erreicht Ihre Ohren - Orange
+Message:
+Der König hat Euch also zum Geächteten erklärt und Euch Euer Land weggenommen.  Dieses Land ist seit zahllosen Generationen im Besitz Eurer Familie, und es gibt keine Möglichkeit, dass ein einfaches Dekret eines Verrückten Euch von Eurem Kurs abbringen kann.  Es ist an der Zeit, dass sich das Volk erhebt und selbst regiert.  Schlagen Sie Ihre Schläge für das Volk!  Lasst die Revolution in euer Herz und lenkt euer Schicksal!  Es ist ein Schicksal, das zur Rettung von euch allen von Arule führen wird.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

@@ -1,0 +1,26 @@
+===== Map name =====
+Barbarian Breakout
+
+===== Map description =====
+Build up your forces before the Barbarians break out of isolation and try to overrun you.  Beware, they're tougher than you think, so some team work might be in order.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Barbarians are coming.
+Message:
+You must build up your forces quickly. The Barbarians, though isolated, are looking to claim your lands as theirs. They won't wait forever!
+
+===== Objects =====
+
+(26, 11, 0) ***Stronghold***
+Name:
+Stremgarth
+
+(14, 26, 1) ***Stronghold***
+Name:
+Stremgeth
+
+===== End of file =====

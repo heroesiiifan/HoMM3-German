@@ -1,0 +1,56 @@
+===== Map name =====
+Xathras' Preis
+
+===== Map description =====
+Die sagenumwobene Kerkerstadt Xathras ist auf der Suche nach dem Gral. Um die Suche zu beschleunigen, setzt der Rat von Xathras eine sagenhafte Belohnung für jeden aus, der den Gral in seine Stadt bringen kann.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro Teil 1
+Message:
+Ahhh, es geht doch nichts über eine nette Belohnung in bar, um das Blut in Wallung zu bringen. Bis heute wussten Sie nicht einmal, dass die Stadt Xathras existiert, aber jetzt halten Sie einen Brief in Händen, unterzeichnet von Xian, dem Oberherrn von Xathras, der eine Belohnung von EINER MILLION Gold für denjenigen anbietet, der den Gral in seine Stadt bringt.
+
+Name:
+Intro Teil 2
+Message:
+Als Sie sich zum Frühstück setzen, kommt ein Berater mit Neuigkeiten. Offenbar wurde der Brief, den Sie erhalten haben, auch an alle anderen Königreiche des Landes geschickt, um die gleiche Belohnung auszuloben, und die anderen Herrscher mobilisieren in diesem Moment wahrscheinlich ihre Truppen. Andere werden ebenfalls auf der Suche sein!
+
+Name:
+Warnung.
+Message:
+Es wird gemunkelt, dass die Anführer von Xathras versuchen werden, alle Helden zu töten, die vorbeikommen, in der Hoffnung, den Gral zuerst zu finden und so die Belohnung zu vermeiden!
+
+===== Objects =====
+
+(61, 92, 0) ***Ocean Bottle***
+Message:
+Whirlpools sind nicht sicher, vermeiden Sie sie, wenn möglich!
+
+(60, 14, 0) ***Sign***
+Message:
+Trevors Piratenschatz auf dem Festland ... Betreten verboten!
+
+(5, 105, 1) ***Dungeon***
+Name:
+Xathras
+
+(86, 25, 1) ***Dungeon***
+Name:
+Sarhtax
+
+(94, 68, 1) ***Sign***
+Message:
+Grabmal der Unbekannten - Nicht berühren!
+
+(98, 70, 1) ***Event***
+Message:
+Geister der Vergangenheit steigen aus dem Sarkophag und greifen an!
+
+(97, 68, 1) ***Event***
+Message:
+Die Geister der Toten erheben sich und greifen Sie an!
+
+===== End of file =====

@@ -1,0 +1,20 @@
+===== Map name =====
+Chasing A Dream
+
+===== Map description =====
+You and two other young and upcoming heroes were given the chance to earn land and a Border Lord title in a contest held by a great lord.  To earn your title you must defeat your two opponents.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+You dreamed of being a Lord when you were a child.  Now you have finally been given the chance to become a Border Lord.  To earn your title you must defeat two other young and upcoming heroes who want the title.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

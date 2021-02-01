@@ -1,0 +1,23 @@
+===== Map name =====
+Karminrot und Klee (Verbündete)
+
+===== Map description =====
+Gestern, während Sie an der Küste Ihrer Heimat entlang segelten, erschien plötzlich wie von Geisterhand ein Nebel. Wenige Minuten nach dem Erscheinen des Nebels lief Ihr Schiff auf Grund und erlitt Schiffbruch. Der Nebel verschwand plötzlich und enthüllte ein nahegelegenes, unbewohntes Schloss. Ist das eine Art Spiel?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Nachts werden Sie von einem gewaltigen Donnerschlag geweckt.  Im Burghof schwebt die riesige geisterhafte Gestalt eines Mannes mit dem Kopf eines Hirsches.  "Ich habe dich und drei andere hierher gebracht, um um den Titel des Herrn des Landes zu kämpfen. "
+
+Name:
+Intro 2
+Message:
+"Einer der Lords ist dein Verbündeter, die anderen sind deine Feinde.  Versage nicht, sonst wird dein Blut den Klee tränken."  Mit einer Stille, so laut wie ein Donnerschlag, verschwindet die geisterhafte Gestalt.
+
+===== Objects =====
+
+===== End of file =====

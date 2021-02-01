@@ -1,0 +1,62 @@
+===== Map name =====
+The Great Race
+
+===== Map description =====
+A nobleman's marriage to the princess he loves has been cancelled due to her father's fear of a dreadful prophecy told to him by an evil lord who also desires her hand.  The horrified father has locked the girl away in a tower, so now it is a race to see whether the good nobleman can rescue her.
+
+===== Rumors =====
+
+Name:
+Go to all the Seer's Huts
+Text:
+To claim the town in his name, the hero must visit all the Seer's Huts.
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+A worthy nobleman was betrothed to a beautiful princess whom he loved deeply.  However, an evil lord who also desired the princess's hand was desperate to prevent the wedding from taking place.  He approached the father with a dreadful (but untrue) prophecy.  If the wedding goes on as planned, the lord told the father, the princess will give birth to a child, but that child will grow up to become a powerful Warlock who will overthrow all the kingdoms in the land.			The Warlock's scheme to have the princess for himself backfired.  The horrified father locked the girl up in his most secure tower, decreeing that she shall forever remain alone and childless.  Despite all pleas and arguments from both the good nobleman and evil lord, the father would not be moved from his decision; so fearful was he of the prophecy.		Now both the nobleman and the lord are determined to rescue the girl from her well-meaning but deceived father.  Unfortunately, the nobleman's quest to regain his princess is doubly difficult, for the evil lord has allied himself with a powerful wizard from a neighboring town.  That wizard has agreed to cast a spell to make the princess fall in love with the evil lord in exchange for her father's kingdom.		Now it is a race to capture the father's town and rescue (or doom) the princess.
+
+Name:
+complete all seer's quests
+Message:
+A messenger delivers a message from your trusted advisors.  It reads, "My lord, we received news about the seer's huts scattered throughout the land.  To rescue your true love, you must complete each quest given to you at each seer hut."
+
+===== Heroes =====
+
+===== Objects =====
+
+(37, 49, 0) ***Pandora's Box***
+Message:
+
+
+(22, 11, 0) ***Pandora's Box***
+Message:
+
+
+(25, 8, 0) ***Pandora's Box***
+Message:
+
+
+(2, 48, 0) ***Pandora's Box***
+Message:
+
+
+(8, 37, 0) ***Pandora's Box***
+Message:
+
+
+(53, 14, 0) ***Pandora's Box***
+Message:
+
+
+(26, 46, 0) ***Quest Guard***
+Message:
+The guards here are charging a toll of all travelers.  They will let you pass for 25000 gold pieces.
+
+(19, 17, 0) ***Event***
+Message:
+
+
+===== End of file =====

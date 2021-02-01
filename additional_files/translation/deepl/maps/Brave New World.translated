@@ -1,0 +1,177 @@
+===== Map name =====
+Schöne neue Welt
+
+===== Map description =====
+Eine große Umwälzung erschütterte die Welt in ihren Grundfesten, brach Kontinente auseinander und teilte Territorien neu auf.  Nachdem die Erde wieder zur Ruhe gekommen war, krochen die Menschen aus ihren Verstecken hervor und haben mit dem Wiederaufbau in dieser Brave New World begonnen.
+
+===== Rumors =====
+
+Name:
+Klippen-Hack
+Text:
+Crag Hack ist ein Unsterblicher, der immer bei uns sein wird.
+
+Name:
+Mark
+Text:
+Der griesgrämige alte Herrscher nahm uns das kostenlose Essen weg.
+
+Name:
+Greg
+Text:
+Einer der Visonäre ist ein Ordnungsfanatiker.
+
+Name:
+David
+Text:
+Wer einen der Visonäre am Ziegenbart zupft, bekommt viel Glück - oder eine Ohrfeige.
+
+Name:
+Gus
+Text:
+Der Grand Engineer hat Apparate geschaffen, die selbst er nicht besiegen kann.
+
+Name:
+Jen
+Text:
+Es gibt eine Dame, die zwei lila Drachen gezähmt hat.
+
+Name:
+Marcus
+Text:
+Ein Visionär mag laute Geräusche, die er Musik nennt.
+
+Name:
+Ryan
+Text:
+Einer der Visionäre spielt mit Kinderspielzeug.
+
+Name:
+Dave
+Text:
+Einer der Visionäre ist ein Geizhals.
+
+Name:
+Mike
+Text:
+Einer der Visionäre hat bereits vier Kinder!
+
+Name:
+Walter
+Text:
+Es gibt einen alten Visionär, viel älter als alle anderen.
+
+Name:
+Jon
+Text:
+Der Schöpfer der Welt ist so mächtig, dass er die Viper gezähmt hat und mit ihr über den Himmel reitet.
+
+Name:
+Jeff
+Text:
+Der Assistent des Schöpfers hat eine Liste mit Leuten, die er feuern muss.  Einer der Visionäre steht darauf!
+
+Name:
+Bonnie
+Text:
+Die Anführerin der Künstler ist eine Jahrmarktsdame mit der Macht der Kristalle zu ihrer Verfügung.
+
+Name:
+David R.
+Text:
+Ein großer Ingenieur hat die Werkzeuge geschaffen, die die Visionäre brauchen, um diese Welt zu gestalten.
+
+Name:
+George
+Text:
+Einer der Künstler mag es, die Kreaturen der Welt zu skizzieren.
+
+Name:
+Adam
+Text:
+Einer der Künstler zeichnet gerne Frauen in knappen, ledernen Outfits.
+
+Name:
+Ed & Becky
+Text:
+Es gibt zwei Künstler, die ein Paar sind und einen Grand Garden an ihrem Arbeitsplatz haben.
+
+Name:
+Julia
+Text:
+Eine Künstlerin hat ihren Garten wild und frei wachsen lassen, wie es die Natur vorgesehen hat.
+
+===== Timed events =====
+
+Name:
+Tag eins
+Message:
+Nach dem Großen Umbruch haben sich Fraktionen gebildet, aber einige haben gelernt, zusammenzuarbeiten.  Kein einzelner Visionär konnte die Neue Welt regieren, also haben die acht Visionäre ihren Partner gewählt und werden gemeinsam die Welt erobern.  Sie sind einer dieser mächtigen Visionäre, die das neue Zeitalter, das Zeitalter der Wunder, herbeiführen werden.  Nutzen Sie Ihre enormen Ressourcen, um Truppen und Helden zu ermutigen, Ihrem Banner zu folgen und die anderen, abtrünnigen Visionäre unter Ihrer glorreichen Vision zu vereinen.
+
+===== Objects =====
+
+(19, 9, 0) ***Seer's Hut***
+Message:
+Bitte helfen Sie uns!  Wir sind völlig unfähig, uns gegen diese schrecklichen blutsaugenden Vampire zu wehren, die immer wieder unsere Häuser angreifen.  Im Moment gibt es einen Wachposten, um sie fernzuhalten, aber es hat nicht funktioniert!  Sie sind einfach über die Blumen geflogen!  Wenn du sie tötest, komm mit der Vampirkutte als Beweis zurück.  Dann kannst du uns zu unserem Haus begleiten, und dort erwartet dich eine große Belohnung!
+Es tut mir leid, aber wir können erst nach Hause, wenn die Vampire alle tot sind.
+Yaaay!  Du hast es geschafft!  Unser Held.  Gib uns die Kutte und wir schließen uns dir an.  So kannst du uns nach Hause bringen.  OKAY?
+
+(96, 95, 0) ***Seer's Hut***
+Message:
+<Ugh> Ich Grog.  Du holst die Kugel der Hemmung für mich.  Ich gebe dir den alten Schuppenpanzer.  Dämliche magische Elementare haben den Reichsapfel.  Sie sprechen viele Zaubersprüche.  Ich gewinne keinen Kampf gegen schwule Magier.  <Bring mir die Kugel oder ich beiß dir den Kopf ab!  Geh nach Norden, in die Nähe des Ozeans, um Elementare zu finden.
+Keine Kugel?  Ich beiß dir den Kopf ab!  Geh nach Norden zur anderen Kriegsschule.  Dummkopf!
+Gut! Gut! <Gib mir die Kugel und ich gebe dir die Drachenschuppen-Rüstung.  Du willst tauschen, oder? <Ugh>
+
+(64, 43, 0) ***Event***
+Message:
+Irgendwo hinter der Gilde der Freiberufler ist ein sehr altes Buch halb vergraben.  Du beschließt, dass niemand sonst das Buch braucht und packst es in deinen Rucksack. 
+
+(13, 84, 0) ***Seer's Hut***
+Message:
+Bitte helft uns!  Wir lebten friedlich südlich von hier in den Hügeln, bis einige Eis-Elementare das Gebiet für sich beanspruchten!  Wenn Ihr sie loswerdet, können wir Euch bezahlen.  Unsere Ersparnisse sind ziemlich beträchtlich, etwa 10.000 Gold.  Wir geben euch alles, nur um nach Hause zu kommen.
+Verliert nicht den Mut.  Die Eiselementare zu besiegen ist eine schwierige Aufgabe, aber Ihr werdet es sicher schaffen.
+Endlich habt Ihr die Eis-Elementare besiegt, und wir können wieder nach Hause gehen!  Seid Ihr bereit, die 10.000 Goldstücke anzunehmen?
+
+(18, 52, 0) ***Sign***
+Message:
+Seht Euch das Artefakt dort drüben an.
+
+(37, 24, 0) ***Ocean Bottle***
+Message:
+
+
+(34, 92, 0) ***Seer's Hut***
+Message:
+Hallo da drüben.  Kommt rein aus der Kälte.  Im Moment arbeite ich an einigen neuen Formeln, aber ich brauche Kristalldrachen.  Wenn ich, sagen wir, zwei dieser Drachen bekäme, wäre ich bereit, mich von einem Trank zu trennen, der Eure Attacke um zehn erhöht.  Aber nur, wenn Ihr mir zwei Kristalldrachen bringt.
+Kein Glück bei der Suche nach den 2 Kristalldrachen?  Ich bin mir sicher, dass Ihr westlich von hier welche finden werdet.  
+Na endlich, 2 Kristalldrachen.  Wenn Ihr so freundlich wärt, sie draußen anzuketten, werde ich Euch den Trank geben.  Ihr seid immer noch bereit zu handeln, oder?
+
+(78, 27, 0) ***Seer's Hut***
+Message:
+Nur wer gut genug abgerundet ist, darf den Blattner-Stein küssen.  Sobald du 10 in jeder deiner Primärfähigkeiten erreicht hast, darfst du hereinkommen und die Moral deiner Männer um drei erhöhen.
+Du bist nicht würdig.
+Jetzt bist du würdig.  Kommen Sie herein und küssen Sie den Blattner-Stein, um die Moral Ihrer Männer um drei zu erhöhen.
+
+(59, 62, 0) ***Seer's Hut***
+Message:
+Wir versuchen, ein neues Haus auf einer der lauschigen Inseln vor der Küste zu bauen.   Wenn Ihr mir 10 Holz, 5 Quecksilber, 10 Erz, 5 Schwefel, 5 Kristall, 5 Edelsteine und 3000 Gold bringen könntet, könnten wir den Bau in Angriff nehmen.  Wenn du das tust, bringe ich dir ein paar Tricks bei, die du sicher nicht in der Schule gelernt hast!
+Oh je, das ist einfach nicht genug.  Ich brauche 10 Holz, 5 Quecksilber, 10 Erze, 5 Schwefel, 5 Kristalle, 5 Edelsteine und 3000 Gold.  Mit dem, was du hast, schaffe ich das nie.
+Na endlich!  Hier, gib mir die Ressourcen und ich bringe dir bei, was sie in den Schulen nicht wissen.  Du wirst eine Menge lernen und es wird dir helfen, schneller aufzusteigen.  Sind Sie immer noch bereit, mir die Ressourcen zu geben?
+
+(18, 37, 0) ***Quest Guard***
+Message:
+Es tut mir leid, aber diese Schlucht gehört den Sprites.  Erst wenn alle 75 von ihnen hierher transportiert wurden, werden wir unseren Posten verlassen.
+Es tut mir leid, Sie sind nicht mit allen zurückgekehrt.
+Ihr dürft jetzt ihr Gebiet betreten, da sie heimgekehrt sind.  Wenn Sie so freundlich wären, sie uns zu überlassen, damit wir uns auf den Weg machen können.  Sie werden das doch tun, oder?
+
+(18, 36, 0) ***Celestial Necklace of Bliss***
+Message:
+"Vielen Dank!"  sagen die Sprites, während sie in ihrem kleinen Zuhause herumflattern.  "Nehmt diese hübsche Halskette, an der wir hängen.  Einfach nur zu Hause zu sein, wird für uns Glückseligkeit genug sein!"
+
+(96, 7, 0) ***Seer's Hut***
+Message:
+Wir sind eine Horde von Magma-Elementaren, die nach jemandem suchen, dem sie folgen können.  Nur ein Held von großem Ansehen und mindestens Rang 10 wird uns anführen können.  Kommt wieder, wenn Ihr unserer Loyalität würdig seid.
+Faugh.  Du schon wieder.  Komm zurück, wenn du auf Rang 10 bist, denn du bist nicht würdig.
+Na endlich!  Jemand, der würdig ist, uns zu führen.  Wirst du uns mit dir nehmen?
+
+===== End of file =====

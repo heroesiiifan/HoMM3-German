@@ -5,7 +5,7 @@ for x in range(0, 8):
     if os.path.exists('_tmp/chronicles/0' + str(x+1) + '_camp/Main.h3c'):
         f=gzip.open('_tmp/chronicles/0' + str(x+1) + '_camp/Main.h3c','rb')
         file_content=f.read()
-        parts = file_content.split(b'\x1D\x00\x00\x00\x01')
+        parts = file_content.split(b'\x1D\x00\x00\x00\x01') #Bei HotA-> \x20
 
         ct = 0
         for y in parts:

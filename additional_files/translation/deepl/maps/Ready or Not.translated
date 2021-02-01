@@ -1,0 +1,29 @@
+===== Map name =====
+Bereit oder nicht
+
+===== Map description =====
+Ein Krieg steht bevor ... bereit oder nicht.  Ihre Feinde greifen an ... bereit oder nicht.  Ihr müsst gewinnen... bereit oder nicht.  Sonst werden sie Sie begraben... bereit oder nicht!
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(60, 35, 0) ***Fortress***
+Name:
+Cypris-Platz
+
+(28, 59, 0) ***Inferno***
+Name:
+Flammenturm
+
+(30, 13, 0) ***Rampart***
+Name:
+Waldhügel
+
+(36, 36, 0) ***Sign***
+Message:
+Norden - Wood Hill.  Osten - Cypris Place.  Süden - Flame Tower.
+
+===== End of file =====

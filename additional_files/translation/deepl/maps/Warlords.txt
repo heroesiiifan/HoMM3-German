@@ -1,0 +1,13 @@
+===== Map name =====
+Warlords!
+
+===== Map description =====
+The region where the Stin and Devos Rivers meet is populated by eight Warlords who are constantly battling for control of the region. The winner of this struggle will dominate the region and control trade for four nations.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+===== End of file =====

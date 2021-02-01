@@ -1,0 +1,75 @@
+===== Map name =====
+Island of Dust
+
+===== Map description =====
+This tropical isle has been lying in ashes for ages, since its dragon inhabitants scorched the lush land around the crater in the middle. Several adventurers arrived to the once beautiful land. They will have to be fearless and valiant if they want to claim the treasure of the blistering sands.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+This is the legendary Island of Dust, home for many generations of dragons. You're standing on the shore admiring the newly built fort, which will serve as the base for your glorious deeds. 
+
+Name:
+Day 1.1
+Message:
+They'll have to be quite glorious indeed. To breach the dragons' lair, to claim the treasure of five continents all for yourself, and to seethe your blade in the boiling blood! There is a problem, though: your crew spotted three other sheeps sailing towards the isle. Whoever arrived on those, must be planning on doing the same. 
+
+Name:
+day 2
+Message:
+Was it a bad idea to rush into the desert right away after disembarking? The coast is still covered in thick growth, despite the burnt middle. These strips of tropical forest are inhabited by scary beasts. It might sound weird, but the beasts seem willing to help you overthrow the dragons. 
+
+Name:
+Day 4
+Message:
+The scouts have returned from the Desert. Not all of them. Actually, those who did, barely did it, and they won't be able to go back anytime soon. It would be one thing if they came back covered in burns and torn up by dragon claws... but they brought back worse news! The desert is thick already with spies sent by the three lords whose ships you spied earlier.  	The dragons seem to have lost their grip, and new fortifications have risen above the sands. Looks like the bounty hunters are going to be hunting each other... 
+
+===== Heroes =====
+
+===== Objects =====
+
+(75, 61, 0) ***Sign***
+Message:
+Not so fast, o traveler! It may be your last drink before you head into the Waste.
+
+(26, 82, 0) ***Sign***
+Message:
+Not so fast, o traveler! It may be your last drink before you head into the Waste.
+
+(73, 26, 0) ***Sign***
+Message:
+Not so fast, o traveler! It may be your last drink before you head into the Waste.
+
+(34, 28, 0) ***Sign***
+Message:
+Not so fast, o traveler! It may be your last drink before you head into the Waste.
+
+(76, 84, 0) ***Seer's Hut***
+Message:
+I'm trying to master the Clone spell, but I don't have enough volunteers I can test it on. Would you be so kind to bring me, say, 48 of the Rogues whose dwelling is to the West, I'd happily double that number! 
+I took a boat yesterday and went to try my spell on that mermaid there. The result... well, I still can't quite double a living creature, but I think sailors will be happy with what I've accomplished this time. Obviously, I'll do much better after you bring me 48 rogues!
+Finally, some subjects for my experiments! I swear now, by the time there's one last Rogue left I'll iron every error out, and then I'll make as many as I promised!
+
+(7, 87, 0) ***Seer's Hut***
+Message:
+I'm trying to master the Clone spell, but I don't have enough volunteers I can test it on. Would you be so kind to bring me, say, 18 of the Trolls whose dwelling is to the North, I'd happily double that number!
+Yesterday I was passing by a mill and I decided to experiment with the miller's cockerel. I now have enough chicken heads to make soup for the next month! Obviously, I'll do much better after you bring me 18 trolls!
+Finally, some subjects for my experiments! I swear now, by the time there's one last Troll left I'll iron every error out, and then I'll make as many as I promised!
+
+(103, 65, 0) ***Seer's Hut***
+Message:
+I'm trying to master the Clone spell, but I don't have enough volunteers I can test it on. Would you be so kind to bring me, say, 24 of the Satyrs whose dwelling is to the North, I'd happily double that number!
+Yesterday I experimented with a pig that happened to pass by. It now has two heads anf five legs! Obviously, I'll do much better after you bring me 24 Satyrs!
+Finally, some subjects for my experiments! I swear now, by the time there's one last Satyr left I'll iron every error out, and then I'll make as many as I promised!
+
+(27, 9, 0) ***Seer's Hut***
+Message:
+I'm trying to master the Clone spell, but I don't have enough volunteers I can test it on. Would you be so kind to bring me, say, 48 of the Boar Riders whose dwelling is to the North, I'd happily double that number!
+Yesterday I tried to clone some pebbles I found on the beach... let's say it wasn't a successful experiment. Obviously, I'll do much better after you bring me 48 Boar Riders!
+Finally, some subjects for my experiments! I swear now, by the time there's one last Boar left I'll iron every error out, and then I'll make as many as I promised!
+
+===== End of file =====

@@ -1,0 +1,50 @@
+===== Map name =====
+Peaceful Ending (Allies)
+
+===== Map description =====
+Trade has been the key to peace for as long as everyone can remember.  Everything was going well until one nation stopped trading with the others, their reasons unknown.  War broke out, for nations desperately needed resources, and it has raged ever since.  A peace must be reached. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Years of brutal bloodshed had finally ended.  Before, conquest had always been the first thing to come to one's mind when they wanted something.  It never occurred to anyone that a person might trade with another instead of fighting.	This morning your spies reported that all the other nations have something completely different in mind, and that is to save up resources for one final stretch of war.  So much for a peaceful ending!
+
+Name:
+Sending messages
+Message:
+The trade was going so peacefully!  You still have no idea why they must resort to war every time.  After briefly thinking of what you are to do, you come to the conclusion that if they agreed to peace once before then maybe, just maybe, they will do so again.  After quickly writing a message to the other lords you call for several messengers.
+
+Name:
+Lord Galan
+Message:
+Lord Galan was the first to reply.  His message read, "Lord Vitius, I hope this message finds you well.  I really have no quarrel with you personally; however, I do need the resources that are on your land.  Trade was getting way too costly for me and my people.  No hard feelings, Lord Galan. "  Well, if any message was meant to aggravate you, this was definitely the one.  If Lord Galan wants war, then it's war he is going to get.
+
+Name:
+Lord Dusan
+Message:
+The second to reply was Lord Dusan.  As you read the message from Lord Dusan, you feel anger swell up inside of you.  No one dares to speak to you that way!  After quickly burning the letter, you order every soldier to march.  These messages were not going as well as you would have liked.
+
+Name:
+Faith
+Message:
+The messages are beginning to arrive later and later.  Unfortunately, there is nothing that you can do to speed them up.  The other Lords must reply in their own time.  However, I don't have much faith in there ever being peace.
+
+Name:
+Lord Gloril 
+Message:
+This is outrageous!  First  you were insulted, and now this!  Your messenger's head was just found inside a basket on an abandoned horse.  It was your wife's brother, too!  You aren't especially sad he is dead, but your wife will not be pleased at this . It will probably be best to leave her a note about what has happened and step outside of the castle for a few days.  Maybe, just maybe, if you bring Lord Gloril's head back your wife will forgive you... somewhat.
+
+Name:
+Lord Ellian
+Message:
+The last to reply was Lord Ellian.  Well, at least your messenger came back with his head intact.  Your wife probably would have come after you with an army of her own if she found out you had sent her other brother to deliver the message!		You look down to read the parchment.  "Vitius," it begins, and you notice he didn't use the word "Lord" in his message.  Already it looks bad for you.  "I am writing in response to your message, so I will make this brief.  NO, there cannot be peace.  You will give me all your lands and resources or you will surely die."		That being the last letter, you humbly say a prayer to the god of war, then call all the armies at your disposal to march.  Up until now you have been going easy on everyone, hoping they will change their minds and offer a peace.  Now you realize that it cannot be so.  Taking one last look at your castle, you begin to march upon the other Lords with your thoughts bent on death and destruction.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

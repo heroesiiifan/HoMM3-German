@@ -1,0 +1,26 @@
+===== Map name =====
+Verlust der Unschuld (Verbündete)
+
+===== Map description =====
+Jahrelang haben die getrennten Länder in Frieden gelebt.  Doch nun haben sich zwei starke Lords zusammengetan und planen, jeden zu töten, der sich ihnen in den Weg stellt. Auch die anderen Lords haben sich zusammengeschlossen.  Sie und Ihr Verbündeter müssen die anderen Lords davon abhalten, jemals wieder daran zu denken, dieses Land zu erobern.  
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Es hat begonnen.  Die anderen Lords haben beschlossen, ihre Eroberung zu starten, um die Welt zu beherrschen.  Du bist der Einzige, der sich ihnen in den Weg stellt.  Du musst die anderen grausamen Lords aufhalten.  Halten Sie sie davon ab, die Unschuldigen abzuschlachten. 
+
+===== Objects =====
+
+(9, 104, 0) ***Event***
+Message:
+Du stolperst über einen Bereich, der aussieht, als wäre er irgendwann einmal Teil der Bibliothek gewesen.  Wenn Sie sich umsehen, stoßen Sie auf ein Buch, das zurückgelassen wurde. 
+
+(62, 102, 0) ***Event***
+Message:
+Du kommst auf eine Lichtung und bemerkst etwas Glitzerndes auf dem Boden.  Als du nach unten schaust, findest du einen Ring.  Du denkst dir, dass die Drachen ihn zurückgelassen haben und hebst ihn auf. 
+
+===== End of file =====

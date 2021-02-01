@@ -1,0 +1,91 @@
+===== Map name =====
+Glorious Days
+
+===== Map description =====
+Lords of several islands are at war. Become the most powerful of them and force your neighbors to admit your supremacy.
+
+===== Rumors =====
+
+Name:
+Beer 1
+Text:
+Ahh, damnit, good beer!
+
+Name:
+Beer 2
+Text:
+I drink beer when there's reason to it...
+
+Name:
+Great day
+Text:
+It's a good day today!
+
+Name:
+Islands
+Text:
+There are a lot of islands in these lands.
+
+Name:
+Jolly Roger
+Text:
+EVERYONE UNDER THE JOLLY ROGER!!!  ARRGHH!
+
+Name:
+Luck
+Text:
+You may find your luck here.
+
+Name:
+Mines
+Text:
+Search for the Uribian mines.
+
+Name:
+River under ground
+Text:
+A giant underground river flows from the north to the south.
+
+===== Timed events =====
+
+Name:
+Beginning
+Message:
+Rich lands full of islands lie in front of you. Your competitors live on the largest of them. Arrive to them by sea or find a tunnel, before they come to you first.
+
+Name:
+goods1
+Message:
+Trade with distant lands brought profit.
+
+Name:
+goods2
+Message:
+Trade with distant lands brought profit.
+
+Name:
+goods3
+Message:
+Trade with distant lands brought profit.
+
+===== Heroes =====
+
+===== Objects =====
+
+(69, 17, 1) ***Sign***
+Message:
+Secret place
+
+(88, 78, 1) ***Sign***
+Message:
+Uribic mines ahead
+
+(88, 82, 1) ***Event***
+Message:
+You've found a rich Uribic mine!
+
+(71, 15, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

@@ -7,7 +7,7 @@ Bruderschaft des Schwertes	Bei einer Belagerung erhöht die Bruderschaft des Schw
 		
 		
 		
-Koloss	Die Präsenz des Kolosses erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht die Moral aller verbündeten Helden um +2.	
+Koloss	Die Präsenz des Kolosses erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht die Moral all Ihrer Helden um +2.	
 Rohstoff-Silo	Der Rohstoff-Silo versorgt Euch mit zusätzlichen +1 Holz und +1 Eisenerz jeden Tag.	
 Mystischer Teich	Der Mystische Teich produziert eine kleine, zufällige Anzahl an Rohstoffen pro Woche.	
 Minengilde	Die Minengilde erhöht die Zwergenproduktion um 4 pro Tag.	
@@ -18,7 +18,7 @@ Schatzkammer	Die Schatzkammer bringt Euch 10% Zinsen auf alles Gold, das Ihr am 
 		
 Dendroidenschule	Die Dendroidenschule erhöht die Dendroidenwachenproduktion um 2 pro Woche.	
 Dendroidenschule	Die Dendroidenschule erhöht die Dendroidensoldatenproduktion um 2 pro Woche.	
-Wachgeist	Die Präsenz des Wachgeistes erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht das Glück aller verbündeten Helden um +2.	
+Wachgeist	Die Präsenz des Wachgeistes erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht das Glück all Ihrer Helden um +2.	
 Rohstoff-Silo	Das Rohstoff-Silo versorgt euch mit +1 Kristall zusätzlich pro Tag.	
 Artefakt-Händler	Für einen äußerst geringen Preis könnt Ihr bei den Artefakt-Händlern Artefakte kaufen.	
 Bildhauerflügel	Die Bildhauerflügel erhöhen die Steinwasserspeierproduktion um 4 pro woche.	
@@ -46,19 +46,19 @@ Mantel der Finsternis	Der Mantel der Finsternis legt für andere Spieler einen st
 Entweihte Gräber	Die entweihten Gräber erhöhen die Skelett-Produktion um 8 pro Woche.	
 Entweihte Gräber	Die entweihten Gräber erhöhen die Skelettkrieger-Produktion um 8 pro Woche.	
 Werft	Die Werft ermöglicht den Kauf von Schiffen.	
-Nekro-Verstärker	Der Nekromantie-Verstärker erhöht die Nekromantiefähigkeit aller Eurer Totenbeschwörer um +10%.	
+Nekro-Verstärker	Der Nekromantie-Verstärker erhöht die Nekromantiefähigkeit aller Eurer Totenbeschwörer um +5%.	
 Skelett-Transformer	Der Skelett-Transformer erlaubt es Euch, jede Kreatur in ein Skelett zu verwandeln.	
 		
 		
 		
-Seelenkerker	Die Präsenz des Seelenkerkers erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und verbessert die Nekromantiefähigkeit aller verbündeten Helden (die diese Fähigkeit haben) um 20%.	
+Seelenkerker	Die Präsenz des Seelenkerkers erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und verbessert die Nekromantiefähigkeit all Ihrer Helden (die diese Fähigkeit haben) um 20%.	
 Rohstoff-Silo	Das Rohstoff-Silo versorgt euch mit +1 Holz und +1 Eisenerz zusätzlich pro Tag.	
 Artefakt-Händler	Für einen äußerst geringen Preis könnt Ihr bei den Artefakt-Händlern Artefakte kaufen.	
 Pilzringe	Die Pilzringe erhöhen die Troglodytenproduktion um 8 pro Woche.	
 Pilzringe	Die Pilzringe erhöhen die Infernotroglodytenproduktion um 8 pro Woche.	
 		
 Mana-Strudel	Der Mana-Strudel verdoppelt vorübergehend die Zauberpunkte für jeden Garnisons- oder besuchenden Helden.	
-Portal der Beschwörung	Mit dem Portal der Beschwörung könnt ihr Kreaturen aus Behausungen in Eurem ganzen Hoheitsgebiet rekrutieren.	
+Portal der Beschwörung	Mit dem Portal der Beschwörung könnt ihr zusätzliche Kreaturen aus Behausungen in Eurem ganzen Hoheitsgebiet rekrutieren.	
 Akademie der Kriegskunst	Die Akademie der Kriegskunst lehrt jeden Helden einmal neue Fähigkeiten (+1000 Erfahrung).	
 		
 		
@@ -79,23 +79,23 @@ Käfig des Kriegsherrn	Der Käfig des Kriegsherrn erhöht die Verteidigung eines be
 Hauptmanns-Quartier	Das Hauptmanns-Quartier erhöht die Gnollproduktion um 5 pro Woche.	
 Hauptmanns-Quartier	Das Hauptmanns-Quartier erhöht die Gnollplündererproduktion um 5 pro Woche.	
 Werft	Die Werft ermöglicht den Kauf von Schiffen.	
-Skulptur der Furcht	Die Skulptur der Furcht erhöht die Verteidigung eines verteidigenden Garnisonshelden um +2 bei Belagerungen.	
-Blut-Obelisk	Die Präsenz des Blut-Obelisken erhöht den Angriff eines Garnisonshelden um +2 bei Belagerungen.	
+Skulptur der Furcht	Die Skulptur der Furcht erhöht die Angriff eines verteidigenden Garnisonshelden um +2 bei Belagerungen.	
+Blut-Obelisk	Die Präsenz des Blut-Obelisken erhöht den Verteidigung eines Garnisonshelden um +2 bei Belagerungen.	
 		
 		
 		
 Fleischfressende Pflanze	Die Präsenz der Fleischfressenden Pflanze erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht Angriff und Verteidigung eines Garnisonshelden um +10 bei Belagerungen.	
 Rohstoff-Silo	Das Rohstoff-Silo versorgt euch mit +1 Holz und +1 Eisenerz zusätzlich pro Tag.	
 Artefakt-Händler	Für einen äußerst geringen Preis könnt Ihr bei den Artefakt-Händlern Artefakte kaufen.	
-Garten des Lebens	Dieses Gebäude erhöht die Produktion von Feen um 10 pro Woche.	
-Garten des Lebens	Dieses Gebäude erhöht die Produktion von Elfen um 10 pro Woche.	
+Garten des Lebens	Der Garten des Lebens erhöht die Produktion von Feen um 10 pro Woche.	
+Garten des Lebens	Der Garten des Lebens erhöht die Produktion von Elfen um 10 pro Woche.	
 Werft	Die Werft ermöglicht den Kauf von Schiffen.	
 Magische Universität	In der magischen Universität können Sie gegen Bezahlung jede der vier Schulen der Magie lernen.	
 		
 		
 		
 		
-Nordlicht	Die Präsenz des Nordlichts erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und fügt der Magiergilde alle Zaubersprüche hinzu.	
+Nordlicht	Die Präsenz des Nordlichts erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und fügt der Magiergilde alle nicht verbannten Zaubersprüche bis zum aktuellen Magiergilden-Level hinzu.	
 Rohstoffsilo	Das Rohstoff-Silo versorgt euch mit einer zusätzlichen Ressource Quecksilber pro Tag.	
 Artefakt-Händler	Für einen äußerst geringen Preis könnt Ihr bei den Artefakt-Händlern Artefakte kaufen.	
 Stufe 1 Kreaturengenerator	Diese Konstruktion erhöht die wöchentliche Produktion von Stufe 1-Kreaturen.	

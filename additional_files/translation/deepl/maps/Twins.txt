@@ -1,0 +1,89 @@
+===== Map name =====
+Twins
+
+===== Map description =====
+The King's son has chosen a maiden's hand to take in marriage. The wedding will commence in six months. Everyone in the land is overjoyed about the upcoming event. Well, almost everyone.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+The announcement has been made. The King's son has chosen a maiden's hand to take in marriage. Plans are being made for the big day. This event will certainly be history in the making. Everyone in the land is overjoyed about the upcoming event. Well, almost everyone.
+
+===== Objects =====
+
+(20, 21, 0) ***Event***
+Message:
+You seem to have come on to some kind of enchanted ground.  Judging by the guard's faces they do not look happy to see you.  "What is this place?" You ask. You receive one of the coldest evil stares known to man. You sense that this relationship just won't last very long.	
+
+(10, 3, 0) ***Sign***
+Message:
+Beware what lurks to the east.	
+
+(28, 12, 0) ***Event***
+Message:
+You notice a length of rope lying on the ground trailing into the trees. Suspiciously you step over the rope very quietly. One of your hungry troops notices an apple tied to the end if the rope and goes to pick it up. You yell 	"DON'T DO IT IT'S A TRAP!"
+
+(8, 33, 0) ***Event***
+Message:
+In the clearing you see a woman sunbathing. She approaches you wearing what appears to be next to nothing. Not wanting to embarrass her any further you remove your helmet and introduce yourself. She looks at you and runs away trying to cover herself. You notice she left all of her possessions. 
+
+(1, 24, 0) ***Event***
+Message:
+Ambush!  A pack of wolf raiders feel that you're invading their territory.
+
+(10, 27, 0) ***Event***
+Message:
+One of your watchmen spots an axe man cutting down trees on your land. Your guards attack him. Leaving all of his possessions behind, he manages to get away. 
+
+(6, 25, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Intro 1
+Message:
+You have just received a message from the King regarding your relationship with his son. It reads: 	"Though my son has grown very fond of your sister over the years I have come to the conclusion that he should marry you instead of her. I feel that you are more suitable to assist my son in running my kingdom. Realize this decision is for the benefit of my son, and my kingdom. The wedding will commence in six months from today. I hope you accept this message warmly. I trust you shall follow my will, The King.	You find yourself in disbelief just staring at the letter. You read it again. This is the best thing that ever happened to you. You can't believe this is happening. This calls for a celebration! You tell your servant to respond to the king with a dowry. 
+
+Name:
+Day 2
+Message:
+You and your servants begin planning for the big day. One of your handmaidens asks how your twin sister will take the news. Inside you feel bad for her. She will surely be heartbroken. At the same time you feel relieved. She has always gotten everything she's ever wanted. Still you worry about her hot temper. You know she is the type to ruin the wedding because she wasn't the bride. You tell you handmaidens not to take any chances because your sister is unpredictable could be making plans to ruin the wedding.
+
+Name:
+Day 3
+Message:
+You order a runner to send a letter to your sister requesting a meeting in hopes that she took the news well. The messenger hesitantly takes the sealed letter and starts his journey. 
+
+Name:
+Day 7
+Message:
+You runner has returned with a reply to your letter. He reads it aloud to you.	"He is mine! You will not marry him. He is mine! Remember this, sister of mine. No one can tell us apart. Remember as children we used to switch places? You had better make sure that history doesn't repeat itself.  Twins forever, Sis.	"She has gone out of her mind." you think to yourself. "She will surely kill me and take my place in the wedding. I can not let this happen." You order you advisors to strengthen the town's army. Let no one enter the town with your approval. 
+
+Name:
+You Win
+Message:
+The big day is here. There you stand in your beautiful wedding gown. The kings servants have arrived to escort you to the palace for the royal wedding. In  a fit of jealousy, your sister tried to ruin the most important day of your life. She has failed. Because of her plans to kill you, she will be caught, arrested, and locked up for life. You and the prince shall live happily ever after.
+
+(22, 26, 1) ***Event***
+Message:
+While touring your grounds you discover a cave in one the surrounding mountains of your kingdom. You decide to explore. While inside you find several mutilated body parts lying about. The last thing you need is to become a sapiens-kabob. While running out of the cave you trip on something. 
+
+(27, 23, 1) ***Random Town***
+
+Timed events:
+
+Name:
+Day One
+Message:
+You have just received a message from the King regarding your relationship with his son. It reads: 	"Though my son has grown very fond of you over the years I have come to the conclusion that he should marry your twin sister. I feel that she is more suitable to assist my son in running my kingdom. Realize your suffering is for the benefit of my kingdom,	The King	Outraged you rip the letter to shreds.  All the plans you made for the kingdom are gone.  In a fit of rage you destroy everything in your room. Just then, you get an idea. No one can tell you and your sister apart. What if you kill your sister and take her place?	You laugh.  Look at yourself in the mirror and then laugh again.
+
+Name:
+You Lose
+Message:
+Your sister weds today. Your plans of killing her and taking her at the wedding have failed. The king has learned of your plot and is sending his guards to arrest you and lock you up forever. Because of your jealousy, your whole life is about to be ruined. You will never again see the light of day.
+
+===== End of file =====

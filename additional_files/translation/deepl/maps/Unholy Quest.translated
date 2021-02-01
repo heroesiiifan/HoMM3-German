@@ -1,0 +1,121 @@
+===== Map name =====
+Unheilige Suche
+
+===== Map description =====
+Tief unter der Oberfläche lauern Monster, wie sie noch nie jemand gesehen hat. Es heißt, die Monster bereiten sich darauf vor, aus der Tiefe aufzusteigen und die Welt an der Oberfläche für sich zu beanspruchen. Geh hinaus und töte ihre bösen Armeen, bevor sie zu groß werden. Du bist vielleicht die einzige Hoffnung für die Welt!
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(70, 68, 0) ***Pikeman***
+Message:
+Bitte lasst uns an Eurer Suche teilnehmen.
+
+(72, 70, 0) ***Halberdier***
+Message:
+Wir melden uns freiwillig, um uns Euch und Eurer Armee anzuschließen.
+
+(70, 71, 0) ***Marksman***
+Message:
+Wir sind bereit, an Eurer Seite zu kämpfen.
+
+(69, 74, 0) ***Crusader***
+Message:
+Da wir nichts Besseres zu tun hatten, fühlten wir uns gezwungen, uns euch anzuschließen.
+
+(67, 73, 0) ***Sign***
+Message:
+"Noma Flactis Xombuxer". Moment mal... heißt das nicht: "Grube der Feuerdämonen"?
+
+(66, 70, 0) ***Random Treasure Artifact***
+Message:
+Ein Kobold steht Wache. Er sagt: "Bleibt weg, ich halte dieses Geschenk für meinen Herrn. Er wird bald hier sein und dann wird alles uns gehören."
+
+(66, 80, 0) ***Swordsman***
+Message:
+Ich habe meine Sachen gepackt und warte auf ein Schiff. Ich werde nie wieder unter die Erde gehen. Ihr werdet mich töten müssen, oder ich werde dafür schwimmen, aber ich werde mich niemals einer solch verrückten Suche anschließen!
+
+(71, 76, 0) ***Dwarf***
+Message:
+Lasst mich in Ruhe. Ich bin gerade aus der Unterwelt ausgebrochen. Ich bin in diesen Wald gerannt, um mich zu verstecken. Die einzige Hilfe hier unten sind die Überreste der Lebenden - sucht ihre Knochen, denn sie kämpfen immer noch darum, ihre Seelen zu befreien.
+
+(130, 96, 0) ***Champion***
+Message:
+Willkommen, wir haben Eure Ankunft erwartet. Die meisten werden sich Eurer Sache anschließen wollen, aber es gibt ein paar in den Schlössern, die Angst haben und lieber durch Eure Klinge sterben würden, als in die Unterwelt zurückzukehren. Lasst uns losziehen und alles nehmen, was wir brauchen, um die Welt zu reinigen.
+
+(130, 110, 0) ***Sign***
+Message:
+Untote nicht willkommen
+
+(135, 109, 0) ***Archangel***
+Message:
+Verschwindet mit diesen Knochen! Ihr werdet eine neue Armee brauchen, um die Unterwelt zu bekämpfen, und ihr seid an den richtigen Ort gekommen. Nutzen Sie alles Gute und kehren Sie zurück, um den Bösen zu erschlagen, Fiona.
+
+(132, 110, 0) ***Archangel***
+Message:
+Weg mit den Knochen! Sie brauchen eine neue Armee, um die Unterwelt zu bekämpfen, und Sie sind an den richtigen Ort gekommen. Nutze alles Gute und kehre zurück, um den Bösen zu erschlagen, Fiona.
+
+(134, 110, 0) ***Archangel***
+Message:
+Weg mit den Knochen! Sie brauchen eine neue Armee, um die Unterwelt zu bekämpfen, und Sie sind an den richtigen Ort gekommen. Nutze alles Gute und kehre zurück, um den Bösen zu erschlagen, Fiona.
+
+(136, 135, 0) ***Cavalier***
+Message:
+Wir haben lange und hart für eine solche Aufgabe trainiert, aber wir sind uns immer noch nicht sicher, ob wir uns denen anschließen sollen, die an der Seite der Toten gekämpft haben. Lasst uns nachdenken.
+
+(60, 125, 0) ***Angel***
+Message:
+Wir werden uns Eurer Aufgabe anschließen, die Unterwelt von der bösen Fiona zu befreien, wenn Ihr und Eure Armee mir helft, dieses Schloss zurückzuerobern.
+
+(13, 10, 1) ***Skeleton***
+Message:
+Oh, unsere müden Knochen sind schon sooooo lange versklavt worden. Eure Armee hat hier unten keine Chance. Befreit sie. Lasst uns und viele andere Eure neue Streitmacht bilden. Das ist der einzige Weg.
+
+(1, 23, 1) ***Sign***
+Message:
+RUNTER!
+
+(9, 53, 1) ***Skeleton***
+Message:
+Kommt schnell! Wir haben eine der Garnisonen eingenommen und viele warten darauf, sich euch anzuschließen.
+
+(24, 134, 1) ***Sign***
+Message:
+RUNTERGEHEN!
+
+(57, 100, 1) ***Skeleton***
+Message:
+Folgen Sie dem Schwefel!
+
+(93, 133, 1) ***Angel***
+Message:
+Warum habt Ihr die Hilfe der Toten in Anspruch genommen?  Diese Knochen sollten in Ruhe gelassen werden.  Kämpfe gegen uns, dann folge diesem Tunnel zum Land der Gesegneten.  Ihr müsst geläutert werden!
+
+(67, 106, 1) ***Sign***
+Message:
+Traut den Skeletten nicht
+
+(62, 105, 1) ***Skeleton***
+Message:
+Wir haben Euch auf jede erdenkliche Weise geholfen, aber Ihr müsst Euch von hier fernhalten. Verschwindet!
+
+(90, 54, 1) ***Sign***
+Message:
+HÜTE DICH, ICH LEBE!
+
+(25, 18, 1) ***Skeleton Warrior***
+Message:
+Gut, Ihr habt uns gefunden. Wir haben uns in dieser Ecke versteckt, in der Hoffnung, dass unsere Späher Euch finden würden.
+
+(79, 67, 1) ***Sign***
+Message:
+Abkürzung, hier lang!
+
+(67, 90, 1) ***Angel***
+Message:
+Schande über euch! Folgt nicht dem Schwefel, folgt den Edelsteinen zu eurer Rettung!
+
+===== End of file =====

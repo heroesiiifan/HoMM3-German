@@ -1,0 +1,298 @@
+===== Map name =====
+The Mandate of Heaven
+
+===== Map description =====
+Devils have invaded and it is up to you to win back the Mandate of Heaven for the faltering Ironfist Dynasty
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Falagar's Speech
+Message:
+Devils have invaded Enroth and King Roland is missing.  Old Falagar has trained you in your chosen profession and charged you with defeating the devils and returning The Mandate of Heaven to the Ironfist Dynasty.
+
+===== Objects =====
+
+(72, 68, 0) ***Castle***
+Name:
+Free Haven
+
+(114, 50, 0) ***Rampart***
+Name:
+Silver Cove
+
+(122, 105, 0) ***Castle***
+Name:
+New Sorpigal
+
+(110, 94, 0) ***Castle***
+Name:
+Ironfist
+
+(137, 72, 0) ***Tower***
+Name:
+Mist
+
+(35, 44, 0) ***Dungeon***
+Name:
+Kriegspire
+
+(64, 90, 0) ***Necropolis***
+Name:
+Darkmoor
+
+(49, 94, 0) ***Event***
+Message:
+You enter a small shrine which feels warm and soothing.  Suddenly the sky opens and the gods shine their light upon you.  Welcome to the Shrine of the Gods.
+
+(80, 43, 0) ***Castle***
+Name:
+Stone
+
+(46, 76, 0) ***Event***
+Message:
+Obelisk #6: erbthieaeuu_o'd
+
+(120, 88, 0) ***Event***
+Message:
+Obelisk #1: ltotecthothesaip
+
+(17, 77, 0) ***Sign***
+Message:
+Welcome to Dragonsand
+
+(141, 63, 0) ***Event***
+Message:
+Obelisk #2: nhrrh_aherheatvdi
+
+(110, 18, 0) ***Event***
+Message:
+Obelisk #11: d_re_e_Hpfotyhz_
+
+(19, 90, 0) ***Event***
+Message:
+Obelisk #13: oon_htfdorstusl_
+
+(28, 24, 0) ***Event***
+Message:
+Obelisk #10: nnaifnt_ieif_tu_
+
+(75, 28, 0) ***Stronghold***
+Name:
+Stromgard
+
+(5, 16, 0) ***Inferno***
+Name:
+The Hive
+
+(7, 33, 0) ***Sign***
+Message:
+East to Sweetwater
+
+(17, 36, 0) ***Event***
+Message:
+Obelisk #7: _ay,enis_nn_ans.
+
+(62, 66, 0) ***Sign***
+Message:
+Rockham
+
+(81, 52, 0) ***Sign***
+Message:
+The Shadow Guild
+
+(115, 110, 0) ***Sign***
+Message:
+Goblinwatch
+
+(89, 31, 0) ***Sign***
+Message:
+The Warlord's Fortress
+
+(127, 34, 0) ***Sign***
+Message:
+The Dungoens of Castle Alamos
+
+(109, 43, 0) ***Sign***
+Message:
+The Silverhelm Stronghold
+
+(91, 116, 0) ***Sign***
+Message:
+Corlagon's Estate
+
+(99, 107, 0) ***Sign***
+Message:
+Snergle's Iron Mines
+
+(105, 108, 0) ***Sign***
+Message:
+The Temple of Baa
+
+(115, 118, 0) ***Sign***
+Message:
+Dragoon's Caverns
+
+(31, 87, 0) ***Sign***
+Message:
+The Tomb of Varn
+
+(34, 108, 0) ***Sign***
+Message:
+Abdul's Desert Resort
+
+(5, 137, 0) ***Sign***
+Message:
+The Supreme Temple of Baa
+
+(12, 126, 0) ***Sign***
+Message:
+Welcome to Hermit's Isle
+
+(51, 68, 0) ***Sign***
+Message:
+Temple of the Snake
+
+(32, 55, 0) ***Sign***
+Message:
+The Dungeons of Castle Kriegspire
+
+(50, 48, 0) ***Sign***
+Message:
+Superior Temple of Baa
+
+(8, 67, 0) ***Sign***
+Message:
+Welcome to Edenbrook
+
+(22, 67, 0) ***Sign***
+Message:
+Temple of Baa
+
+(45, 22, 0) ***Sign***
+Message:
+Agar's Laboratory
+
+(57, 75, 0) ***Sign***
+Message:
+Tomb of Ethric The Mad
+
+(68, 81, 0) ***Sign***
+Message:
+Dragoon's Keep
+
+(57, 80, 0) ***Event***
+Message:
+Obelisk #4: t_haat_It_enIc
+
+(107, 60, 0) ***Sign***
+Message:
+Temple of Tsantsa
+
+(100, 78, 0) ***Sign***
+Message:
+Temple of the Sun
+
+(111, 73, 0) ***Sign***
+Message:
+Temple of Baa
+
+(92, 84, 0) ***Sign***
+Message:
+Temple of the Fist
+
+(116, 104, 0) ***Sign***
+Message:
+The Abandoned Temple
+
+(101, 102, 0) ***Sign***
+Message:
+Shadow Guild Hideout
+
+(102, 89, 0) ***Sign***
+Message:
+Hall of the Firelord
+
+(81, 111, 0) ***Sign***
+Message:
+Temple of Baa
+
+(90, 95, 0) ***Sign***
+Message:
+Snergle's Caverns
+
+(16, 67, 0) ***Event***
+Message:
+Obelisk #8: lg_____gtS_cln;__
+
+(91, 47, 0) ***Sign***
+Message:
+The Monolith
+
+(36, 33, 0) ***Sign***
+Message:
+Lair of the Dragon Riders
+
+(54, 29, 0) ***Sign***
+Message:
+Welcome to White Cap
+
+(136, 32, 0) ***Dungeon***
+Name:
+Alamos
+
+(66, 94, 0) ***Sign***
+Message:
+The Dungeons of Castle Darkmoor
+
+(96, 87, 0) ***Sign***
+Message:
+Hareckburg
+
+(37, 70, 0) ***Sign***
+Message:
+Lair of the Wolf
+
+(95, 114, 0) ***Event***
+Message:
+Obelisk #3: _etecpe_ersoede
+
+(95, 116, 0) ***Sign***
+Message:
+The Temple of Baa
+
+(32, 68, 0) ***Stronghold***
+Name:
+Blackshire
+
+(4, 21, 0) ***Heretic***
+Name:
+The Queen
+
+(122, 54, 0) ***Event***
+Message:
+Obelisk #12: _t_staoi_on_oiz_
+
+(104, 89, 0) ***Event***
+Message:
+hd_scawehSfdewee
+
+(79, 26, 0) ***Event***
+Message:
+Obelisk #9: aoflo'h.hbtid_p_
+
+(137, 79, 0) ***Sign***
+Message:
+The Silverhelm Outpost
+
+(34, 83, 1) ***Event***
+Message:
+
+
+(55, 94, 1) ***Sign***
+Message:
+Longfang Witherhide
+
+===== End of file =====

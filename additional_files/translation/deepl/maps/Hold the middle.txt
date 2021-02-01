@@ -1,0 +1,23 @@
+===== Map name =====
+Holding the Middle
+
+===== Map description =====
+The middle city is not too hard to get to, but can you hold it long enough to build a Capitol?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+First day.
+Message:
+Can you reach and hold the middle town long enough to build a Capitol?  Your three opponents will be betting you cannot.
+
+Name:
+Thieves.
+Message:
+Thieves from one of your rivals steal some wood and ore from your reserves.
+
+===== Objects =====
+
+===== End of file =====

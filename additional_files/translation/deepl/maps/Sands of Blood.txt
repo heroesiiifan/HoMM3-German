@@ -1,0 +1,18 @@
+===== Map name =====
+Sands of Blood
+
+===== Map description =====
+Your land has plenty of sand and even gold.  Rumors abound of precious resources hidden beneath the ground.  Surely the first Lord to plunder the resources under the ground will be able to dominate his neighbors.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Your spies report several of your not so friendly neighbors are planning to seize the riches underground so they can dominate the desert sands of your home.  You need to do unto them before they do unto you.
+
+===== Objects =====
+
+===== End of file =====

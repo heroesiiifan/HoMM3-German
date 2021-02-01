@@ -1,0 +1,103 @@
+===== Map name =====
+The Five Rings
+
+===== Map description =====
+The Five Elemental Lords have chosen our world as a new home to reshape in their image.  You must face each in turn to stop them.
+
+===== Rumors =====
+
+Name:
+Tome of Water
+Text:
+Southeast of the Gate Between Worlds in the Ring of Water lies a tome of unimaginable magical power.
+
+Name:
+Tome of Fire
+Text:
+In middle of the Ring of Fire, north of the Demon's Gate, can be found a book that contains the secrets of mystical flame.
+
+Name:
+Tome of Earth
+Text:
+South of a windmill in the northern steppes of the Ring of Earth is buried a volume of spells blessed by Gaea's kiss.
+
+Name:
+Tome of Air
+Text:
+West of the Harpy Loft in the Ring of Air, atop a mighty peak, is nestled a book that contains the collected wisdom of aeromancers the world over.
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+A mighty test has been set before you.  Five Elemental Lords have chosen our world as a new home to reshape in their image.  Only when you pass through the Five Elemental Rings of Existence: Water, Fire, Earth, Air, and Void, may you be able to defeat these insidious lords.
+
+Name:
+Tome Hint
+Message:
+A mage escaping the Elemental Lords hid the mighty Tomes of Elemental Magic somewhere throughout the Rings. Since he had attempted to hide them, you might try looking in places off the path. While hidden well, they will do greatly to aid you in your quest.
+
+===== Objects =====
+
+(35, 29, 0) ***Event***
+Message:
+Nestled amongst the rocks are several nests of baby roc eggs.  Since you know they net a tidy price, you try to get them.  However... Mom is back and she brought friends.
+
+(63, 13, 0) ***Event***
+Message:
+Hiding along the shore are several Water Elementals.  They appear to be guarding something.
+
+(38, 74, 0) ***Event***
+Message:
+Lurking in the hills are several Earth Elementals.  They appear to be guarding something.
+
+(23, 43, 0) ***Event***
+Message:
+Skulking around the cliff face are several Air Elementals.  They appear to be guarding something.
+
+(54, 56, 0) ***Event***
+Message:
+Concealed within the burnt out trees are several Fire Elementals.  They appear to be guarding something.
+
+(53, 54, 1) ***Sign***
+Message:
+Stores of the Elemental Lords.  Keep out!
+
+(64, 42, 1) ***Event***
+Message:
+Buried half in the ground is a small statue.  Touching it brings you a funny feeling.  Suddenly your mind is clearer.
+
+(34, 41, 1) ***Event***
+Message:
+Standing in the center of these confluxes produces a whirlwind of mystical energies that both energize you and tear you apart.  It then dissipates as rapidly as it appeared.
+
+(24, 47, 1) ***Event***
+Message:
+The bones of a long dead warrior crumble at your touch and reveal a cloak that seems to tingle in your hands.
+
+(75, 57, 1) ***Event***
+Message:
+An old man lies huddled amongst the trees, obviously broken and shattered.  You help him up and offer water.  He thanks you for your kindness and expires.  Just as he dies, he touches you and you feel a slight tingle.
+
+(44, 46, 1) ***Event***
+Message:
+Hiding in the brush are some wounded Monks.  You aid them and they offer to join you.
+
+(45, 56, 1) ***Event***
+Message:
+Something shiny catches your eye.  You realize too late that the shiny glint was not off of gold, but from the weapons of Ogres! 
+
+(61, 74, 1) ***Event***
+Message:
+A voice booms out.  "You have violated the inner sanctum of the Elemental Lords!  A pox upon thee!"
+
+(75, 24, 1) ***Event***
+Message:
+As you approach the Gnoll hut, a squad ambushes you.
+
+(45, 37, 1) ***Event***
+Message:
+Concealed carefully is a small sword.  It seems charged with energy.
+
+===== End of file =====

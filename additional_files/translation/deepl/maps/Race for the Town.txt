@@ -1,0 +1,39 @@
+===== Map name =====
+Rithen Falls
+
+===== Map description =====
+The fair maiden Lorel has just become of age, but her father can't decide on a suitor for her.  To ensure her husband will be able to provide for her, he has devised a contest.  The first lord to capture the town of Rithen Falls will have Lorel's hand in marriage 
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(37, 49, 0) ***Pandora's Box***
+Message:
+
+
+(22, 11, 0) ***Pandora's Box***
+Message:
+
+
+(25, 8, 0) ***Pandora's Box***
+Message:
+
+
+(2, 48, 0) ***Pandora's Box***
+Message:
+
+
+(53, 14, 0) ***Pandora's Box***
+Message:
+
+
+(8, 36, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

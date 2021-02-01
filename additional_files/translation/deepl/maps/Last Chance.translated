@@ -1,0 +1,128 @@
+===== Map name =====
+Letzte Chance
+
+===== Map description =====
+Euer König, müde von den ständigen Scharmützeln zwischen den Lords in Eurer Region, hat entschieden, dass nur ein Lord die Kontrolle haben soll.  Und egal ob der König oder die Lords selbst diesen einen wählen, es wird sicherlich Blut fließen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Der königliche Scharfrichter kam heute mit einer Nachricht von Eurem König.  Der König ist verärgert über die ständigen Raubzüge zwischen Euch und Euren Nachbarn.  Er ist der Meinung, dass Ihr und die anderen drei Grenzherren durch die ständigen Kämpfe Euren Bereich an der Grenze des Königreichs nicht mehr schützen könnt.  Der König hat seine Lösung verkündet.  Sollte nach zwei Monaten mehr als ein Lord dieses Gebiet kontrollieren, wird er alle verbleibenden Lords hinrichten und einen Nachfolger aus seinem Hofstaat ernennen.  Seine Majestät wünscht Euch viel Glück in Eurem bevorstehenden Feldzug.
+
+Name:
+Red & Tan Intro (Fortsetzung)
+Message:
+Nachdem Ihr die Nachricht Eures Königs gehört habt, habt Ihr den Henker eingeladen, mit Euch zu speisen.  Sie versichern dem Boten des Königs, dass Sie die volle Absicht haben, den König in zwei Monaten als alleiniger Grenzherr dieses Gebiets zu begrüßen.  Während des Abendessens befehlt Ihr Eurem General, Eure Truppen zusammenzurufen, und nach dem Dessert reitet Ihr mit Euren Truppen aus.
+
+Name:
+Blau & Grün Intro (Fortsetzung)
+Message:
+Nur Ihr Berater, der Sie vor den schrecklichen Folgen unüberlegter Entscheidungen warnt, hält Sie davon ab, den Henker des Königs zu erschlagen.  Das und die Tatsache, dass Sie jetzt den Vorwand haben, auf den Sie gewartet haben, um die Narren, die Sie als Nachbarn haben, zu vernichten.  In der Vergangenheit habt Ihr Eure Angriffe auf einfache Überfälle beschränkt.  Jetzt gibt es keine Beschränkungen mehr.
+
+Name:
+Rot 2
+Message:
+Die Lords Bardene und Godehard grenzen an Ihr Land.  Um zu Lord Tarleton zu gelangen, müssen Sie durch ihre Ländereien gehen.  Bardene führt ein blaues Banner, während Godehard ein grünes und Tarleton ein hellbraunes Banner führt.
+
+Name:
+Blau 2
+Message:
+Die Lords Riston und Tarleton grenzen an Ihr Land.  Um zu Lord Godehard zu gelangen, müssen Sie durch ihre Ländereien gehen.  Riston führt ein rotes Banner, während Tarleton ein hellbraunes und Godehard ein grünes Banner führt.
+
+Name:
+Hellbraun 2
+Message:
+Die Lords Bardene und Godehard grenzen an Ihr Land.  Um zu Lord Riston zu gelangen, müssen Sie durch ihre Ländereien gehen.  Bardene führt ein blaues Banner, während Godehards Banner grün und Ristons Banner rot ist.
+
+Name:
+Grün 2
+Message:
+Die Lords Riston und Tarleton grenzen an Ihr Land.  Um zu Lord Bardene zu gelangen, müssen Sie durch ihre Ländereien gehen.  Riston führt ein rotes Banner, während Tarleton ein hellbraunes und Bardene ein blaues Banner führt.
+
+Name:
+Rot-braune Verkleidung
+Message:
+Unerwartete Nachrichten von euren Außenwächtern sind heute eingetroffen.  Einer Ihrer Feinde, der als Sie verkleidet ist, hätte vor ein paar Tagen beinahe eine Ihrer Minen eingenommen.  Grimmig befiehlst du all deinen Wachen, niemanden heranzulassen, bis die Frist des Königs abgelaufen ist.  Niemand, das betonen Sie, nicht einmal Sie selbst.
+
+Name:
+Blau-grüne Verkleidung
+Message:
+Eure Lakaien haben Euch vor drei Tagen im Stich gelassen.  Sie haben die Einnahme einer von Tarletons Minen vermasselt.  Sie hatten einem befohlen, sich als Tarleton zu verkleiden und Tarletons Männer mit Ihren Truppen abzulösen.  Doch der Narr hat sich verraten.  Zum Glück wurde er getötet.  Zweifellos werden Ihre Feinde versuchen, diesen Trick gegen Sie zu verwenden.  Sie befehlen all Ihren Minenwächtern, jeden zu töten, der sich nähert, bis zwei Monate vergangen sind.
+
+Name:
+Red & Tan Schatzkammer
+Message:
+Nach einigem Zögern haben Sie einige ruchlose Typen angeheuert, um die Schatzkammer Ihrer Feinde zu plündern.  Es ist eine hinterhältige Taktik, aber es bleibt wenig Zeit für Nettigkeiten.
+
+Name:
+Blaue & Grüne Schatzkammer
+Message:
+Heute ist jemand in Ihre Schatzkammer eingebrochen.  Sie sind eigentlich überrascht, dass Ihre Feinde so etwas tun würden.  Sie sind nicht so dumm, wie Sie dachten.  Sie hoffen besser, dass sie nicht mehr am Leben sind, wenn Sie sie in die Finger bekommen!
+
+Name:
+Blauer & Grüner Monat Warnung
+Message:
+Einer Ihrer lästigen Berater erinnert Sie ständig daran, dass die Deadline des Königs nur noch einen Monat entfernt ist.  Sie lassen ihn vor Ihnen hinrichten, während Sie zu Abend essen.  Das ist eine angenehme Ablenkung vom Stress des Kommandos.
+
+Name:
+Rote & Braune Monatswarnung
+Message:
+Heute Morgen hast du deine Offiziere während deines täglichen Kriegsrats daran erinnert, dass die Frist des Königs noch einen Monat entfernt ist.  Sie sagten ihnen, dass Sie vom Ausgang des Krieges überzeugt seien und versprachen, sie für ihre Bemühungen in Ihrem Namen zu belohnen.  Sie haben gejubelt.
+
+===== Heroes =====
+
+===== Objects =====
+
+(2, 13, 0) ***Random Monster 3***
+Message:
+Kreaturen, die von einem Ihrer Feinde bezahlt werden, bewachen diese Ressourcen.  Sie lachen und machen unhöfliche Gesten zu Ihnen.  Wie unkultiviert!
+
+(3, 16, 0) ***Random Monster 4***
+Message:
+Kreaturen, die von Lord Godehard bestochen wurden, bewachen diese Mine.  Sie versuchen, jeden zu töten, der sich ihnen nähert.
+
+(6, 23, 0) ***Random Monster 4***
+Message:
+Kreaturen, die Lord Tarleton treu ergeben sind, bewachen diese Mine.  Sie weigern sich, jemanden passieren zu lassen.
+
+(10, 12, 0) ***Random Monster 3***
+Message:
+Verräter, die einem Ihrer Feinde treu ergeben sind, bewachen diese Ressourcen.  Sie fordern dich zum Einzelkampf heraus.  Sie lachen sie aus!
+
+(34, 4, 0) ***Random Monster 4***
+Message:
+Kreaturen, die von Lord Godehard bestochen wurden, bewachen diesen Teich.  Sie spotten über dich und machen abfällige Bemerkungen über deine Schwester.
+
+(25, 25, 0) ***Random Monster 3***
+Message:
+Kreaturen, die von einem deiner Feinde bezahlt werden, bewachen diese Ressourcen.  Sie lachen und machen unhöfliche Gesten zu dir.  Wie unkultiviert!
+
+(12, 24, 0) ***Random Monster 4***
+Message:
+Einige von Lord Bardenes Schergen versuchen, Sie in einen Hinterhalt zu locken.
+
+(19, 32, 0) ***Random Monster 4***
+Message:
+Kreaturen, die Lord Riston treu ergeben sind, bewachen diese Mine.  Sie weigern sich, jemanden passieren zu lassen.
+
+(31, 35, 0) ***Random Monster 3***
+Message:
+Verräter, die einem Ihrer Feinde treu ergeben sind, bewachen diese Ressourcen.  Sie fordern dich zum Einzelkampf heraus.  Du lachst sie aus!
+
+(30, 10, 0) ***Random Monster 4***
+Message:
+Kreaturen, die Lord Riston gegenüber loyal sind, bewachen dieses Labor.  Sie versperren jedem den Durchgang.
+
+(22, 18, 1) ***Random Monster 4***
+Message:
+Kreaturen, die Lord Tarleton treu ergeben sind, bewachen diesen Teich.  Sie versperren den Zugang zu den Edelsteinen.
+
+(12, 7, 1) ***Random Monster 4***
+Message:
+Kreaturen, die von Lord Bardene bestochen wurden, bewachen dieses Labor.  Sie verhöhnen Sie und machen abfällige Bemerkungen über Ihre Mutter.
+
+===== End of file =====

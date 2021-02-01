@@ -1,0 +1,31 @@
+===== Map name =====
+Tag des Jüngsten Gerichts
+
+===== Map description =====
+Die Legende besagt, dass das sagenumwobene Schwert des Jüngsten Gerichts irgendwo in diesen Höhlen ruht.  Drei Dungeon Overlords haben geschworen, es zu finden, denn wer das Schwert kontrolliert, kontrolliert alles.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1
+Message:
+Irgendwo in diesen Höhlen ist das Schwert des Jüngsten Gerichts versteckt.  Drei der mächtigsten Dungeon Overlords haben sich versammelt, um zu versuchen, die Waffe schnellstmöglich zu finden.  Wer auch immer das Schwert kontrollieren kann, wird alles kontrollieren.
+
+Name:
+Wöchentlicher Tribut
+Message:
+Euer Steuereintreiber ist stolz zu verkünden, dass die wöchentlichen Steuerabgaben eingetroffen sind.
+
+===== Objects =====
+
+(1, 16, 0) ***Sword of Judgement***
+Message:
+Auf einem Altar aus reinem Obsidian liegt ein Schwert, geschmiedet aus feinstem Stahl.  Wollt Ihr seinen schimmernden, juwelenbesetzten Griff ergreifen?
+
+(1, 17, 0) ***Random Monster 7***
+Message:
+Diesen Wächtern wurde die große Aufgabe zuteil, das heilige Schwert des Gerichts zu beschützen.  Seit Jahrhunderten haben diese Wächter über die Klinge gewacht.  Besiegen Sie sie und das Schwert gehört Ihnen.
+
+===== End of file =====

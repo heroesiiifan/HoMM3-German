@@ -1,0 +1,90 @@
+===== Map name =====
+Gorlams Tentakel-Sumpfgebiet
+
+===== Map description =====
+Gorlam's Tentacle Swampland war schon immer ressourcenarm (wahrscheinlich ist Gorlam deshalb kurz nach seiner Ankunft abgereist).  Als eine von zwei neu eingetroffenen Fraktionen ist es Ihre Aufgabe, alle Ressourcen in der Region zu sichern oder vertrieben zu werden.
+
+===== Rumors =====
+
+Name:
+Ressourcen-Caches in der Nähe.
+Text:
+Einige der ehemaligen Bewohner des Sumpfes haben möglicherweise Ressourcen in seichten Löchern in der Region versteckt.
+
+Name:
+Artefakt vergraben.
+Text:
+Ein großes Artefakt, das in den Echsenmenschenkriegen verwendet wurde, ist irgendwo auf einem der "Arme" der Tentakel vergraben.
+
+===== Timed events =====
+
+Name:
+Nachricht von Gläubigern.
+Message:
+Wenn Sie die Ressourcen in diesem Gebiet nicht in drei Monaten sichern können, werden Ihre Gläubiger Sie aus Ihrem Schloss vertreiben!
+
+Name:
+Geschnorrte Ressourcen.
+Message:
+Wenn Sie in der Gegend herumschnüffeln, finden Sie etwas Holz und Erz, das Sie verwenden können.
+
+Name:
+Kaufen Sie ein Stück von Gorlam's Swampland!
+Message:
+Du findest ein Stück Pergament, das halb im Sumpf vergraben ist, etwa eine halbe Meile von deinem Schloss entfernt.  Es lautet: "Warum nicht ein Stück Land kaufen, von dem Sie wissen, dass es im Wert steigen wird!  Gorlam gibt Ihnen seine persönliche Garantie, dass die aufregende Flora und Fauna den Grundstückswert in die Höhe treiben wird, und für die Kinder ist es auch weitgehend sicher!"		Bevor Sie weiter lesen, zerknüllen Sie das Papier und werfen es weg, woraufhin es von einer riesigen Baumkröte gefressen wird.
+
+Name:
+Gläubiger wollen Sicherheiten.
+Message:
+Ihre Gläubiger wollen ein paar Sicherheiten, dass sie ihre Mittel bekommen werden.  Sie können nichts anderes tun, als dem nachzukommen.
+
+Name:
+Die Schwiegereltern kommen zu Besuch.
+Message:
+Die Schwiegereltern kommen auf einen Urlaubsbesuch vorbei, gehen aber schnell wieder, als der Geruch von fauligem Müll und verrottenden Kadavern über das Schloss weht.
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 41, 0) ***Hell Hound***
+Message:
+Die Jagdhunde scheinen ein Schwefelbett in der Nähe zu haben.
+
+(45, 25, 0) ***Harpy Hag***
+Message:
+Die Harpyien lebten in einem Nest aus Gold.
+
+(20, 8, 0) ***Event***
+Message:
+Es sieht so aus, als hätten die alten Bewohner einen kleinen Vorrat an Ressourcen in einem flachen Graben vergraben, den Sie schnell ausgraben.
+
+(39, 46, 0) ***Event***
+Message:
+Piraten tauchen aus dem Sand auf, stehlen etwas von Ihrem Gold und verschwinden im Wasser, bevor Sie etwas unternehmen können.
+
+(2, 29, 0) ***Event***
+Message:
+Sie bemerken ein Paar halb vergrabene Stiefel im Sand.
+
+(61, 15, 0) ***Event***
+Message:
+Unter einem losen Haufen Erde finden Sie einen Cache mit Ressourcen!
+
+(25, 55, 0) ***Event***
+Message:
+Im Sand neben dem Skelett eines Gnolls vergraben, entdeckst du einen Dreschflegel, der von einem Häuptling im letzten Echsenmenschenkrieg benutzt wurde.
+
+(31, 29, 0) ***Event***
+Message:
+Du entdeckst etwas, das leicht aus dem Boden des Felsens herausragt.
+
+(30, 29, 0) ***Vampire***
+Message:
+Als die Vampire angreifen, sieht es so aus, als würden sie etwas bewachen, aber es ist nichts auffällig sichtbar.
+
+(34, 20, 0) ***Archangel***
+Message:
+Einer der Engel tritt vor und warnt: "Die Kräfte des Guten bewachen dieses unterirdische Tor.  Niemand darf es passieren."
+
+===== End of file =====

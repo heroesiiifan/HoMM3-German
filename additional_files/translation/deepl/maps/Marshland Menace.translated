@@ -1,0 +1,222 @@
+===== Map name =====
+Sumpfland-Bedrohung
+
+===== Map description =====
+Eure Vorväter haben eine große Gefahr im Nordsumpf eingedämmt.  Jetzt sprechen einige deiner gierigen Warlord-Nachbarn davon, die Grenzwächter zu plündern, um an die Schätze heranzukommen, die in den Sümpfen verstreut sein sollen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1 Intro
+Message:
+Letzte Nacht haben Ihre drei Kriegsherren-Kollegen den Bann gebrochen, der die Schlüsselmeister-Zelte der Grenzwächter verborgen hielt.  Ein riesiger magischer Sturm wütete die ganze Nacht und den größten Teil des Morgens.  Sobald sich der Sturm gelegt hatte, erhielten Sie Berichte über Monster, die nun Ihre Minen bewachen und in Ihren Ländern für Verwüstung sorgen.  Sie verfluchten Ihre Mitkriegsherren und ritten mit Ihrer persönlichen Garde aus, um Ihre Ländereien zurückzuerobern.  Wenn Sie fertig sind, werden Sie persönlich jeden einzelnen der anderen idiotischen Kriegsherren, die für dieses Chaos verantwortlich sind, ausschalten.  Und vielleicht, nur vielleicht, wird das, was auch immer Ihre Vorväter in die Nordsümpfe gesperrt haben, dort bleiben und Sie in Ruhe lassen.
+
+Name:
+Extra Gold für CP's in menschlichen Startpositionen
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(52, 43, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zitadelle bauen
+Message:
+
+
+Name:
+Rathaus bauen
+Message:
+
+
+Name:
+Horden bauen
+Message:
+
+
+Name:
+Extra Viecher
+Message:
+
+
+(38, 62, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus bauen
+Message:
+
+
+Name:
+Zitadelle bauen
+Message:
+
+
+Name:
+Kreaturenhorde aufbauen
+Message:
+
+
+Name:
+Extra niedrige Critters
+Message:
+
+
+(22, 43, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus bauen
+Message:
+
+
+Name:
+Zitadelle bauen
+Message:
+
+
+Name:
+Kreaturenhorden aufbauen
+Message:
+
+
+Name:
+Extra niedrige Critters
+Message:
+
+
+(34, 13, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+Name:
+Extra Viecher
+Message:
+
+
+Name:
+Rathaus bauen
+Message:
+
+
+Name:
+Zitadelle bauen
+Message:
+
+
+(10, 7, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+Name:
+Extra Viecher
+Message:
+
+
+Name:
+Rathaus bauen
+Message:
+
+
+(50, 15, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+Name:
+Extra Viecher
+Message:
+
+
+Name:
+Rathaus bauen
+Message:
+
+
+Name:
+Zitadelle bauen
+Message:
+
+
+(29, 38, 1) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus bauen
+Message:
+
+
+Name:
+Zitadelle bauen
+Message:
+
+
+Name:
+Horde bauen
+Message:
+
+
+Name:
+Extra niedrige Critters
+Message:
+
+
+(48, 14, 1) ***Fortress***
+
+Timed events:
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+Name:
+Extra Viecher
+Message:
+
+
+===== End of file =====

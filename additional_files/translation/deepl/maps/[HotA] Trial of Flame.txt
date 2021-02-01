@@ -1,0 +1,103 @@
+===== Map name =====
+Trial of Flame
+
+===== Map description =====
+Manfred, a beginner magician is about to pass his first test – the trial of flame. Explore the harsh and unpredictable desert and destroy its inhabitants in two months.	
+
+===== Rumors =====
+
+Name:
+1
+Text:
+Be ready for an unforeseen problems...
+
+Name:
+2
+Text:
+Win… you wouldn't win…
+
+Name:
+3
+Text:
+It's hot today!
+
+===== Timed events =====
+
+Name:
+beginning
+Message:
+My name is Manfred, I'm one of the best fire mages. At least, I try to be. I come from nomadic people who have never had a home. I had to leave my tribe to learn magic.		However, the legends of my people tell of the legendary Desert Fire, where no soldier dared to go. There, the earth itself breathes with heat and fiery creatures seep through the fabric of space in our world. If I can conquer the fiery desert, I will gain expertise of fire magic. But if I hesitate, the land will kill me with its breath. By my calculations, I can survive in this hell for no longer than two months.
+
+Name:
+arrived
+Message:
+This is the place... Scorching sun, sand... Heat is everywhere.	I will not last long here, it is necessary to find suitable shelter with shade...
+
+Name:
+cove
+Message:
+Today I met the first living person in this desert. A nomad as he told me, talked about an old goblin settlement. It is located in the east near the oasis.	Great news!
+
+Name:
+Day 8
+Message:
+The main challenge for me is to conquer the desert. Apparently, the creatures from the Plane of Fire cause strong perturbations of space. I have to destroy them or subdue their will. The space will calm down and the energy flow will normalize.
+
+Name:
+Day 12
+Message:
+I realized that in this hell we need to save not only water, but also people. Not that many brave souls dare to enter these lands.
+
+Name:
+Day 28
+Message:
+I must hurry. Every day it becomes more and more difficult for me to protect the body from the withers.
+
+Name:
+Day 53
+Message:
+This morning I was bleeding from the nose and eyes become less sharp, everything is blurred. We must hurry, my powers are nearly depleted.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 4, 0) ***Sign***
+Message:
+Virnala Oasis
+
+(33, 34, 0) ***Arch Devil***
+Message:
+Mighty fire demons are blocking my way. Their destruction is one one of the key milestones in my journey.
+
+(25, 8, 0) ***Nomad***
+Message:
+Surprisingly, I never thought that such a large tribe of nomads can live in such a hostile place.
+
+(30, 2, 0) ***Seebär***
+Message:
+It seems that a group of pirates has completely lost their mind and was ready to kill any traveler not for gold, but for water.
+
+(20, 23, 0) ***Skeleton Warrior***
+Message:
+I see hundreds and hundreds of bones lying on the sand. Must have been a battle here... I see movement… The Dead Army rises, surrounding my squad.
+
+(2, 8, 0) ***Mummy***
+Message:
+Mummies, damned to rise from the dead. I read about them, but had never met the creatures before.
+
+(18, 19, 0) ***Firebird***
+Message:
+I felt powerful magical energy emissions, as if the sun itself was trying to come down from heaven. Unfortunately, I was not so far from above, as phoenixes descended on us from heaven.
+
+(21, 15, 0) ***Seer's Hut***
+Message:
+An intelligent fire elemental lives here. He came here to find his phoenix pet.
+Elemental hinted that he might generously reward me, if I find his pet.
+As a token of gratitude, the elemental is ready to give me a collection of scrolls of the Plane of Fire. These scrolls contain secret knowledge.
+
+(13, 30, 0) ***Fire Elemental***
+Message:
+Here they are! The embodiment of a pure fire. Amazing creatures...
+
+===== End of file =====

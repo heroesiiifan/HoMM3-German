@@ -1,0 +1,211 @@
+===== Map name =====
+Daggerwin valley
+
+===== Map description =====
+The Daggerwin River valley has since forever been known for its ample wealth. Its corridor is the only trade route to the old continent; taking over it will allow you to bolster your power.
+
+===== Rumors =====
+
+Name:
+Tavern1
+Text:
+Tip of the day: surprise and try to not allow others surprise you!
+
+Name:
+Tavern
+Text:
+Tip of the day: Whoever wields a sword, is in the right.
+
+Name:
+PogloskiGraal1
+Text:
+An old sailor claims he knows where the Gods hid the Grail. As if! Not likely that anyone possessing such knowledge would be sitting here with such a sourpuss expression.
+
+Name:
+PogloskiGraal2
+Text:
+Come on, you don't actually believe this drivel about the Grail, do you?.. Ah, dang it. You adventure seekers are all the same. As soon as you catch the wind of some lost treasure, legendary pile of scrap metal or a bag of useless glitter, your eyes flare up...
+
+Name:
+PogloskiGraal3
+Text:
+You mean you 'really' want to know what that tosspot said after his tenth mug? To the devil with you — here goes: Far up in the Northeast... or maybe West... Anyway, somewhere in the North seas, an Island lies...
+
+Name:
+Tavern2
+Text:
+Tip of the day: Don't expect much, and you will always get more than you signed up for.
+
+Name:
+Tavern3
+Text:
+Tip of the day: A lion doesn's make a good friend for a coyote.
+
+Name:
+Tavern4
+Text:
+Wise words of the day: Never wash pickles down with milk.
+
+Name:
+PogloskiGraal4
+Text:
+So, about the island that the vino claimed to hold the treasure. I'm not sure where it is or what it looks like, but he was adamant he had been there. If I know a thing or two about life, in must be looking like a sieve by now. Well, that is basically all I can say on the matter...
+
+Name:
+PogloskiGraal5
+Text:
+Go to hell and find a pitted island there... Also, just in case the groghound got it all wrong, find an unpitted one, too.
+
+Name:
+Tavern5
+Text:
+Tip of the day: When you go, you do not always come. When you come, you don't usually think of going.
+
+Name:
+Tavern6
+Text:
+Wise words of the day: A good wife is always with her man when hard times hit. A bad wife is always with her man period.
+
+Name:
+Tavern7
+Text:
+Saying of the day: What doesn't kill you, might rape you.
+
+Name:
+Tavern8
+Text:
+Wise words of the day: When you feel like sneezing, better take the finger out of your nose.
+
+Name:
+smokilazur
+Text:
+A trapper told me to avoid the Northern lands. Azure Dragons roost there.
+
+===== Timed events =====
+
+Name:
+Help to the comp
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(176, 9, 0) ***Random Town***
+
+Timed events:
+
+Name:
+buildings to the comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(95, 167, 0) ***Gold***
+Message:
+Dragons are guarding their treasure. Would you like to fight them?	Guards: 7 Black Dragons	Treasure: 10000 gold
+
+(173, 18, 0) ***Gold***
+Message:
+Dragons are guarding their treasure. Would you like to fight them?	Guards: 7 Black Dragons	Treasure: 10000 gold
+
+(11, 95, 0) ***Gold***
+Message:
+Dragons are guarding their treasure. Would you like to fight them?	Guards: 7 Black Dragons	Treasure: 10000 gold
+
+(28, 68, 0) ***Gold***
+Message:
+Dragons are guarding their treasure. Would you like to fight them?	Guards: 7 Black Dragons	Treasure: 10000 gold
+
+(99, 51, 0) ***Pandora's Box***
+Message:
+
+
+(103, 50, 0) ***Pandora's Box***
+Message:
+
+
+(120, 101, 0) ***Pandora's Box***
+Message:
+
+
+(25, 66, 0) ***Random Town***
+
+Timed events:
+
+Name:
+buildings to the comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(10, 92, 0) ***Random Town***
+
+Timed events:
+
+Name:
+buildings to the comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(97, 163, 0) ***Random Town***
+
+Timed events:
+
+Name:
+buildings to the comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(8, 74, 0) ***Pandora's Box***
+Message:
+
+
+(179, 54, 0) ***Pandora's Box***
+Message:
+
+
+(75, 179, 0) ***Pandora's Box***
+Message:
+
+
+(108, 96, 0) ***Shackles of War***
+Message:
+!
+
+(53, 9, 0) ***Pandora's Box***
+Message:
+
+
+(72, 133, 0) ***Pandora's Box***
+Message:
+
+
+(142, 160, 0) ***Pandora's Box***
+Message:
+
+
+(143, 125, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

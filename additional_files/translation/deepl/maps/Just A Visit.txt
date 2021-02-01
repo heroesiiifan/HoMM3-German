@@ -1,0 +1,166 @@
+===== Map name =====
+Just A Visit
+
+===== Map description =====
+Recently the reclusive Emperor announced he would soon visit one of the four lords in his lands.  Knowing that such a visit meant the Emperor wished to choose a successor, the four lords immediately went to war with each other to prove who was mighty enough to rule the land.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Not long ago you and the Emperor announced that he was going to pay a visit to one of the lords within his lands.  The four lords became very excited, for they knew that this could only mean that the reclusive and heirless Emperor wished to choose a successor.  Eager to prove that they were mighty enough to rule the land, each of the lords immediately declared war on one another.  You must defeat the other lords so that the Emperor will choose you to visit.
+
+Name:
+Blue Banner
+Message:
+You stride forward under the blue banner to conquer your enemies and secure the throne for yourself.  It is obvious you are the best choice of the four because you survive in the harshest of climates, and your lands flourish even greater than those who have more fertile lands.  There is no doubt in your mind that you can just as easily beat the other three lords in battle.
+
+Name:
+Orange Banner
+Message:
+The area you hold is one of the largest in the land.  With such abundant resources at your disposal, you are confident you can quickly build a great army, smash the weaker lords and show the Emperor your worth.
+
+Name:
+Purple Banner
+Message:
+The land here is rough, hardening your army into mighty warriors.  With the harsh landscape to your advantage, you will easily roll over the weaklings from the softer lands, seize their castles, and perhaps turn one or two into a vacation home for spending some time with the family.
+
+Name:
+Blue Banner - 2
+Message:
+Reports from the front lines have come back.  Lord Moncien carries the orange banner, proving he is not manly enough to become Emperor.  The purple banner, used by Lord Lenwin, is such an arrogant color for one who will not rule.  Lord Ranaine flies the red color, perhaps because of his bloodthirsty ways.  Now there is a man I can respect!  But the tactics of all three are sloppy, and do not seem to know which way to send their troops.  It shall be easy to trap them and take their castles.
+
+Name:
+Orange Banner - 2
+Message:
+Reports from the front lines have come back.  Lord Ellant flies the Blue banner, obviously from sitting on that iceberg he calls a home for too long.  The purple banner, used by Lord Lenwin, is such an arrogant color for one who will not rule.  Lord Ranaine flies the red color, perhaps because of his bloodthirsty ways.  Now there is a man I can respect!  But the tactics of all three are sloppy, and do not seem to know which way to send their troops.  It shall be easy to trap them and take their castles.
+
+Name:
+Purple Banner - 2
+Message:
+Reports from the front lines have come back.  Lord Ellant flies the Blue banner, obviously from sitting on that iceberg he calls a home for too long.  Lord Moncien carries the orange banner, proving he is not manly enough to become Emperor.  Is his banner Orange because he couldn't find any yellow?  Lord Ranaine flies the red color, perhaps because of his bloodthirsty ways.  Now there is a man I can respect!  But the tactics of all three are sloppy, and do not seem to know which way to send their troops.  It shall be easy to trap them and take their castles.
+
+Name:
+Blue Banner - 3
+Message:
+A spy from Lord Lenwin's forces was caught in your castle.  He is immediately tortured, but the dungeon master is overzealous, and the spy dies before telling anything you need to hear.  Still wanting to put the captured spy to some use, you send his dismembered parts back to Lord Lenwin.  Your messenger later reports when Lord Lenwin opened the package, he staggered back in shock while his wife cried out, "My brother!"  You are now quite satisfied Lord Lenwin understands well your resolve to claim the thrown.
+
+Name:
+Orange Banner - 3
+Message:
+A spy from Lord Lenwin's forces was caught in your castle.  He is immediately tortured, but the dungeon master is overzealous, and the spy dies before telling anything you need to hear.  Still wanting to put the captured spy to some use, you send his dismembered parts back to Lord Lenwin.  Your messenger later reports when Lord Lenwin opened the package, he fell to his knees and cried out, "My brother!"  You are now quite satisfied Lord Lenwin understands well your resolve to claim the thrown.
+
+Name:
+Purple Banner - 3
+Message:
+In just two days you have lost your two brothers and your wife's brother.  Lord Ranaine and Lord Moncien were both caught by Lord Ellant, tortured, dismembered and delivered to your castle.  You resolve to avenge their deaths by tearing your enemies limb from limb and sacrifice their remains to the god of war.  You humbly pray for good fortune, and the god smiles upon you, for you receive a gift.
+
+Name:
+Blue Banner - 4
+Message:
+A large package arrived today, postmarked from your mother.  Suspicious, you place the package in a clearing and open it from a distance.  The package explodes once it is exposed to air - a magical burst obviously meant to destroy you.  Well, it was a poor attempt on your life.  Your mother died a few years ago, and the incident reminds you it's time to put new flowers on her grave.
+
+Name:
+Purple Banner - 4
+Message:
+To avenge your loss, you have sent out three exploding devices to your enemies.  With any luck they will be killed and this war will end swiftly.  After all, you do want to be named the next Emperor and get the throne as quickly as possible.  Satisfied your vengeance will soon be complete, you visit the graves of your lost loved ones and pray that your enemies' deaths will not be too painless.
+
+Name:
+Orange Banner - 4
+Message:
+Today a package came postmarked from your mother.  Mmmm, that can mean only one thing - cookies!  And maybe some warm socks for conquering that cursed land to the north that's always under six feet of ice and snow.  Eager to open the package, one of your apprentices rushes forward and knocks the box out of the window.  As it arches through the air, the box opens and explodes.  You guess Mom was pretty ticked off about you forgetting Mother's Day this year!  Or perhaps Lord Lenwin was upset that you killed a family member.
+
+Name:
+Blue Banner - 5
+Message:
+The Emperor will soon be here, and you've got to get the place looking presentable.  After all, he'll be announcing your coronation date!  You'll need food, wine, wenches and lots of party supplies.  The servants quickly prepare for the impending party, arranging for entertainment, cooks and other needs for the festivities.  Even a tailor has been brought in from afar to make the outfit you will be wearing when the Emperor arrives.  Everything must be perfect, and that means spending large amounts of money.
+
+Name:
+Orange Banner - 5
+Message:
+The Emperor will soon be here, and you've got to get the place looking presentable.  After all, he'll be announcing your coronation date!  You'll need food, wine, wenches and lots of party supplies.  The servants quickly prepare for the impending party, arranging for entertainment, cooks and other needs for the festivities.  Even a tailor has been brought in from afar to make the outfit you will be wearing when the Emperor arrives.  Everything must be perfect, and that means spending large amounts of money.
+
+Name:
+Purple Banner - 5
+Message:
+The Emperor will soon be here, and you've got to get the place looking presentable.  After all, he'll be announcing your coronation date!  You'll need food, wine, wenches and lots of party supplies.  The servants quickly prepare for the impending party, arranging for entertainment, cooks and other needs for the festivities.  Even a tailor has been brought in from afar to make the outfit you will be wearing when the Emperor arrives.  Everything must be perfect, and that means spending large amounts of money.
+
+===== Heroes =====
+
+===== Objects =====
+
+(4, 9, 0) ***Random Town***
+
+Timed events:
+
+Name:
+a
+Message:
+a
+
+(19, 35, 0) ***Random Town***
+
+Timed events:
+
+Name:
+a
+Message:
+a
+
+(16, 59, 0) ***Random Monster 4***
+Message:
+Lord Ranaine has placed us here so we can fend off intruders like you.  Prepare to die, you scum.  No one can take this land!
+
+(11, 22, 0) ***Random Monster 3***
+Message:
+Lord Ranaine has placed us here so we can fend off intruders like you.  Prepare to die, you scum.  No one can take this land!
+
+(6, 67, 0) ***Random Town***
+
+Timed events:
+
+Name:
+a
+Message:
+a
+
+(31, 33, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Moncien sends his regards.  He hopes you die quickly, but there is no way you will die honorably, for such scum as yourself cannot possibly understand honor.  Prepare to die!"
+
+(43, 21, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Ranaine would appreciate it if you would surrender at this point.  No, you say?  Then you must surely have a death wish.  We hope the gods are kinder to you in the next life than they have been in this life.
+
+(17, 17, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Lenwin wishes for you to die quickly so he can be crowned Emperor.  Please oblige us so we can go home and serve the new Emperor."
+
+(67, 21, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Ranaine would appreciate it if you would surrender at this point.  No, you say?  Then you must surely have a death wish.  We hope the gods are kinder to you in the next life than they have been in this life.
+
+(50, 36, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Moncien sends his regards.  He hopes you die quickly, but there is no way you will die honorably, for such scum as yourself cannot possibly understand honor.  Prepare to die!"
+
+(63, 16, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Lenwin wishes for you to die quickly so he can be crowned Emperor.  Please oblige us so we can go home and serve the new Emperor."
+
+(34, 71, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Ranaine would appreciate it if you would surrender at this point.  No, you say?  Then you must surely have a death wish.  We hope the gods are kinder to you in the next life than they have been in this life.
+
+(37, 55, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Lenwin wishes for you to die quickly so he can be crowned Emperor.  Please oblige us so we can go home and serve the new Emperor."
+
+(66, 52, 0) ***Event***
+Message:
+From out of nowhere spring several men, all ready for a fight.  They say, "Lord Moncien sends his regards.  He hopes you die quickly, but there is no way you will die honorably, for such scum as yourself cannot possibly understand honor.  Prepare to die!"
+
+===== End of file =====

@@ -1,0 +1,215 @@
+===== Map name =====
+Unerwartetes Erbe
+
+===== Map description =====
+Ein großer, großer, großer Verwandter (von dem Sie noch nie gehört hatten) ist gestorben und hat Ihnen sein Schloss und seinen Besitz hinterlassen.  Anscheinend waren Ihr Verwandter und der nächste Nachbar zerstritten...
+
+===== Rumors =====
+
+Name:
+Xanadu in der Nähe von Sanctuary
+Text:
+Wenn Sie einen Ort der Zuflucht gefunden haben, befinden Sie sich in der Nähe des sagenumwobenen Xanadu.
+
+Name:
+Xanadu in der Nähe des Sanktuariums 2
+Text:
+Wenn Sie zwei Orte der Zuflucht gefunden haben, haben Sie das sagenumwobene Xanadu passiert.
+
+Name:
+Gelehrte
+Text:
+Eine Gruppe von Scholars erkundet mit einem Führer namens Donner die Berge im Nordwesten.
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Heute Morgen haben Sie Ihr neues Anwesen begutachtet.  Sicher, das Dach hat ein paar undichte Stellen und die Schlosstürme brauchen neuen Mörtel, aber es gehört Ihnen.  Um den Tag zu beginnen, befahlen Sie dem Koch, Ihnen ein herzhaftes Frühstück zuzubereiten.  Sie bemerkten ein paar seltsame Blicke von Ihren Dienern bei diesem Befehl.  Vielleicht hat der alte Lord nicht gefrühstückt?  Sie müssen den Namen Ihres entfernten Verwandten herausfinden und wie er gestorben ist.  Der alte Anwalt, den Sie geerbt haben, hat es Ihnen gesagt (denken Sie), aber er nuschelt so viel, dass Sie nicht mehr als ein Wort von zehn verstehen konnten.
+
+Name:
+Intro (Fortsetzung)
+Message:
+Fast während des gesamten Frühstücks tauchte der Anwalt, Husten-Mumble-Mumble, auf und murmelte, dass Ihr Vorgänger, der alte Mumble-Irgendwas, an Gift gestorben sei.  Sie sollen heute das Urteil über die Köchin verkünden.  Sie spucken den Mund voll Essen aus und können sich kaum zurückhalten, den Justizmord zu begehen.  Nach einem kurzen Besuch auf dem Plumpsklo, wo Sie den Rest Ihres Frühstücks hinwerfen, sagen Sie ruhig zu Husten-Mumble-Mumble, er solle Ihnen alle Einzelheiten von Irgendwas-oder-anderem's Tod mitteilen.  Sie bemerken, dass Ihre Hände um die Kehle des Anwalts sein Nuschelproblem geheilt zu haben scheinen.		Nachdem Sie sich vom Frühstück beruhigt haben, kommen Ihre Generäle auf Sie zu.  Sie erzählen Ihnen, dass es einer Patrouille, die sich im Untergrund verirrt haben soll, gelungen ist, ein Schloss dort unten einzunehmen.
+
+Name:
+Vorkoster
+Message:
+Im Morgengrauen hast du den Koch gehängt und den alten Husten-Mumble-Mumble, den Anwalt, zum persönlichen Vorkoster befördert.  Er schien von der Ehre nicht gerade begeistert zu sein.  Er schien auch unglücklich über die zwei persönlichen Wachen zu sein, die Sie ihm gegeben haben, um sicherzustellen, dass er nicht abwandert und sich verirrt.
+
+Name:
+Karte der Bibliothek
+Message:
+Heute Morgen hast Du eine alte Karte in der Bibliothek gefunden.  Ihr Nachbar befindet sich auf der anderen Seite einer großen Bergkette.  Laut Ihrer Karte sind die Berge für eine Armee unpassierbar, nicht aber für Einzelpersonen und kleine Gruppen.
+
+Name:
+Spione entsenden
+Message:
+In der vergangenen Nacht haben Sie drei Spione ausgesandt, um herauszufinden, was Ihr Feind vorhat.
+
+Name:
+Fallender Block
+Message:
+Heute ist ein großer Steinblock vom Schlossturm gefallen und hat Sie nur knapp verfehlt.  Vielleicht hätten Sie die Spione schon früher aussenden sollen.
+
+Name:
+Späte Nachricht
+Message:
+Heute Nachmittag haben Sie eine dringende Nachricht von Ihren Spionen erhalten.  Der feindliche Herr hat einen Gärtner angeheuert, um eine lockere Zinne auf Sie zu schieben.  Ihr befehlt Euren Wachen, die Gärtner zu befragen.  Sie berichten, dass ein Gärtner seit letzter Nacht vermisst wird.
+
+Name:
+Freimaurer
+Message:
+Ihr habt heute einige Steinmetze angeheuert.  Sie sollen den gesamten Mörtel und das lockere Mauerwerk an Ihren Schlosstürmen reparieren.
+
+Name:
+Rat des Krieges
+Message:
+Heute Morgen hast Du mit Deinen Generälen einen Kriegsrat abgehalten.  Ihre Generäle sagten, die einzige Invasionsroute zu Ihrem Feind sei unterirdisch.  Sie sagten ihnen, sie sollten die Invasionsroute so schnell wie möglich öffnen.
+
+Name:
+Überfall auf einen Versorgungszug
+Message:
+Ihre Spione haben sich endlich als nützlich erwiesen.  Sie machten einen Deal mit einigen Banditen, um den Nachschubzug Ihres Feindes zu überfallen.  Sie lieferten Informationen über den Zug und die Banditen führten den Überfall durch.  Sie bekamen sogar einen Anteil an den Vorräten!
+
+Name:
+"Black" Box Nachricht
+Message:
+Ein wandernder Barde hält an Ihrer Burg an und erzählt Ihnen eine Geschichte über eine Büchse der Pandora, die sich in dieser Gegend befinden soll.  Die Büchse soll einen großen Schatz enthalten und von mächtigen Wächtern bewacht werden.   Du dankst ihm für seine Erzählung und gibst ihm ein großzügiges Geschenk, wenn er am nächsten Morgen wieder geht.
+
+Name:
+Depot-Razzia
+Message:
+Eines Ihrer Versorgungsdepots wurde letzte Nacht überfallen.  Ihre Truppen sind überzeugt, dass es keine Banditen waren, die das Depot überfallen haben.
+
+Name:
+Zimmermädchen
+Message:
+Eine Sonderbotschaft Ihrer Spione teilt Ihnen mit, dass sie in der Burg Ihres Feindes ein Zimmermädchen gefunden haben, das den Herrn hasst.  Für einen sicheren Platz zum Leben und eine kleine Summe Geld ist sie bereit, Euch zu helfen.  Du lachst und reibst dir die Hände vor Vergnügen.  Sie müssen sich überlegen, wie Sie Ihren neuesten Agenten effektiv einsetzen können.
+
+Name:
+Schlange
+Message:
+Nach einigem Nachdenken entscheiden Sie, dass der beste und poetischste Einsatz Ihrer Kammerzofe darin besteht, sie eine Giftschlange in den Nachttopf Ihres Feindes legen zu lassen.  Nachdem sie die Schlange platziert hat, kann sie zu Ihrem Schloss und in Sicherheit fliehen.  Du schickst die nötigen Befehle an deine Spione, zusammen mit etwas Gold und Edelsteinen für das Dienstmädchen.
+
+Name:
+Seltsamer Blick
+Message:
+Nach dem Abendessen bemerken Sie, dass der Anwalt, Husten-Mumble-Mumble, viel Gewicht verloren zu haben scheint.  Sie versuchen zu entscheiden, ob das für einen Lebensmitteltester eine gute oder schlechte Sache ist.  Aus einem Impuls heraus sagen Sie ihm, dass er sich von der Lebensmittelverkostung zurückziehen kann, wenn der Krieg gewonnen ist.  Er wirft Ihnen einen seltsamen Blick zu, der Sie beunruhigt.
+
+Name:
+Dorie
+Message:
+Ihre Zimmermädchen-Agentin, Dorie, ist heute angekommen.  Sie haben Ihren Kammerherrn angewiesen, sie mit einem großzügigen Gehalt auf die Gehaltsliste der Dienerschaft zu setzen.  Als Sie sie befragten, schien sie zu denken, dass sie nun eine Ihrer Spione sei.  Nach einigem Nachdenken sagten Sie ihr, sie solle Ihren Vorkoster, Husten-Mumble-Mumble, genau im Auge behalten.  Sie schien erfreut über ihre neuen Befehle.
+
+Name:
+Wiederholter Banditenüberfall
+Message:
+Ihre Spione haben die Nachricht von einem weiteren erfolgreichen "Banditen"-Überfall auf das gegnerische Nachschubdepot gesendet.  Ihr Anteil an dem Überfall ist heute eingetroffen.
+
+Name:
+Kopfkissen
+Message:
+Nach dem Abendessen entdeckten Sie, dass sich in Ihrem Nachttopf mehrere Skorpione befanden.  Zum Glück hatten Sie mit so etwas gerechnet und waren sehr vorsichtig geworden, ihn zu benutzen.  Es war die Schlange unter dem Kopfkissen, die Sie fast erwischt hätte.  Glücklicherweise entschied die Schlange, dass das Kissen gefährlicher war als Sie.  Die Wachen erwischten später in der Nacht einen der Angestellten des Chamberlain, der versuchte, sich über die Mauer hinauszuschleichen.  Sie haben ihn in den Kerker geworfen.  Dann hast du die Skorpione, ein Kissen und die Schlange mit ihm in die Zelle geworfen.
+
+Name:
+Dorie flüstert
+Message:
+Heute früh hat dich dein verwirrter Hauptmann der Wache geweckt.  Er sagte, Sie hätten einen "geheimen" Besucher.  Sie trafen Ihren "geheimen" Besucher in seinem Quartier.  Es stellte sich heraus, dass es Dorie war, Zimmermädchen-Agentin auf freiem Fuß.  Sie sagte, sie sei sicher, dass der Vorkoster "nichts Gutes" im Schilde führe, aber sie habe ihn nicht bei "irgendetwas" erwischen können.  Sie dachte, er könnte in der Taverne Notizen weitergeben, aber sie konnte nicht nahe genug herankommen, um das zu erkennen, ohne bemerkt zu werden.  Sie musste ein paar Stallburschen rekrutieren, die Cough-mumble-mumble (und war das nicht ein schlauer Spitzname) genauer im Auge behielten, wenn es ihr nichts ausmachte.  Sie waren erstaunt.  Du hättest nicht gedacht, dass es möglich war, so schnell zu sprechen und dabei zu flüstern.  Sie unterdrückten Ihr Lachen, gaben ihr die Erlaubnis, die sie wollte, und gingen zurück ins Bett.
+
+Name:
+Wiederholung des Depotüberfalls
+Message:
+Ihr Versorgungsdepot wurde letzte Nacht erneut überfallen.  Sie sind sich mit Ihren Truppen einig, dass Ihr Feind hinter dem Überfall steckt, auch wenn Banditen ihn durchgeführt haben.
+
+Name:
+Drohendes Attentat
+Message:
+Zur Mittagszeit erreichte Sie eine dringende Nachricht von Ihren Spionen.  Sie glauben, dass ein weiteres Attentat auf Ihr Leben unmittelbar bevorsteht.  Nach einigen Sekunden des Nachdenkens entscheiden Sie, dass jetzt ein ausgezeichneter Zeitpunkt für eine überraschende Inspektion der Wachen in Ihrem Versorgungsdepot wäre.  Bevor Sie gehen, warnen Sie den Hauptmann der Wache, dass es in den nächsten Tagen Probleme geben könnte und dass die Männer wachsam bleiben sollen.
+
+Name:
+Bush-Killer
+Message:
+Die Überraschungsinspektion war ein großer Erfolg.  Die Depotwächter schienen aufmerksam und gut trainiert.  Sie schienen überrascht, als Sie sich entschieden, ein paar Tage mit ihnen zu verbringen.  Die Moral schien sich zu verbessern, als sie erfuhren, dass Du mit den Wachen in der Kaserne wohnst.  In der zweiten Nacht gab es einen Banditenüberfall.  Es war ein dunkler, verwirrender Kampf, aber die Banditen wurden vertrieben.  Die Wachen schienen über Ihre Anwesenheit sehr erfreut zu sein, nicht dass Sie mehr getan hätten, als auf halbsichtige Gestalten, die keine Uniformen trugen, einzuschlagen.  Du glaubst nicht, dass du irgendwelche Banditen getroffen hast, aber du hast sicherlich ein oder zwei Büsche getötet.
+
+Name:
+Explodierender Stuhl
+Message:
+Heute Nachmittag bist Du wieder in Deinem Schloss angekommen.  Anscheinend gab es einige Aufregung, während Du weg warst.  Dein Stuhl in der Großen Halle ist am Morgen, nachdem du zu deiner Überraschungsinspektion aufgebrochen bist, explodiert.  Du verbringst normalerweise jeden Morgen einige Zeit in der Großen Halle und hörst dir Petitionen und Berichte von verschiedenen Bürokraten an.  Sie lassen Ihre Spione wissen, dass sie ein Vergeltungsattentat auf Ihren Feind vorbereiten sollen, am besten eines, das "BANG" macht.
+
+Name:
+Totes Bett
+Message:
+Sie wurden gegen Mitternacht durch einen lauten Schrei vor Ihrer Tür geweckt.  Sie sprangen aus dem Bett, schnappten sich Ihr Schwert und rannten zur Tür.  Dann wurden Sie richtig wach, drehten sich um und versteckten sich hinter Ihrer Kommode.  Die Zimmertür zitterte ein paar Mal, dann platzte sie auf.  Maskierte Männer stürmten in Ihr Zimmer und zerhackten das Bett, die Laken, die Kissen, die Decken, die Decke und die Bettvorhänge in Stücke.  Während sie das Bett zerstörten, schlichen Sie auf Zehenspitzen aus dem Zimmer, vorbei an der verwundeten Wache an der Tür, und rannten zum nächsten Wachzimmer.  Von dort aus ließen Sie die Wache ausschwärmen und die Attentäter angreifen.  Am Ende der Nacht lautete der Spielstand: ein Bett für sie, sieben Meuchelmörder für Sie.
+
+Name:
+Ein weiteres Treffen mit Dorie
+Message:
+Kurz vor dem Morgengrauen wurden Sie vom Hauptmann der Wache geweckt.  Dorie, die Zimmermädchen-Spionin, hatte Informationen für Sie in seinem Quartier.  Sobald Sie ankamen, begann Dorie, ihren Bericht schnell zu flüstern.  Husten-Mumble-Mumble, der Lebensmittelverkoster und Anwalt, "war" der feindliche Spionagemeister.  Er war der "Eine", der für alle "Attentate" verantwortlich war.  Er leitete seine "Operation" von seinem geheimen Hauptquartier aus, das sich im "Plumpsklo" des Schlosses befand.  Sie mussten sich hinsetzen, nachdem Sie diese Nachricht gehört hatten.  Welcher Idiot würde eine Spionageoperation von einem Plumpsklo aus leiten?  Nachdem Sie einen Moment über diese Frage nachgedacht hatten, befahlen Sie dem Hauptmann, ein paar Wachen zu holen und mit Ihnen zu kommen, um Husten-Mumble-Mumble zu verhaften.  
+
+Name:
+Plumpsklo
+Message:
+Der Vorkoster wollte gerade sein Zimmer verlassen, als Sie mit dem Captain, den Wachen und einer schwer vermummten Dorie auftauchten.  Ein Blick auf Ihre Gruppe war genug.  Er rannte los in Richtung seines Hauptquartiers, während alle anderen ihn verfolgten.  Er erreichte das Nebengebäude vor allen anderen und schlug die alte, klapprige Tür zu und verriegelte sie.  Die vier Wachen mit Ihnen versuchten, die Tür aufzubrechen, aber stattdessen stürzte das ganze Nebengebäude um. Da seine Zuflucht weg war, stürzte sich Cough-mumble-mumble auf Sie und versuchte, Sie zu erwürgen.  Der Hauptmann schlug ihn von dir herunter, dann stellte Dorie ihm ein Bein, und der alte Husten-Mumble-Mumble fiel in den Schacht der Schachttoilette und ertrank, bevor ihn jemand herausfischen konnte.  So endete die Sage von Husten-Mumble-Mumble.  Wie hieß er eigentlich?
+
+Name:
+Verantwortungsbewusst peinlich
+Message:
+Tag 84 Ein peinlicher Bote hat letzte Nacht eine Notiz für Sie hinterlassen und ist dann geflohen.  Anscheinend waren Sie für eine Verschwörung verantwortlich, bei der mehrere nicht sehr helle Oger Ihren Feind angriffen, während er in einer Taverne zu Mittag aß.  Sie stürzten sich auf seinen Tisch und schrien aus vollem Halse "BANG, BANG, BANG".  Sie zerstörten offenbar den Tisch und den größten Teil der Taverne, aber Ihr Feind konnte durch eines der Fenster entkommen.  Du schickst eine höfliche Nachricht an deine Spione, in der du ihnen sagst, dass sie NICHT mehr Oger einsetzen sollen.  Du sagst ihnen, sie sollen sich einfach an die Banditen halten.
+
+===== Objects =====
+
+(37, 5, 0) ***Sign***
+Message:
+Bitte füttern Sie die Monster nicht!
+
+(71, 36, 0) ***Sign***
+Message:
+Big Bad Monsters Below.  Betreten auf eigene Gefahr!
+
+(32, 68, 0) ***Sign***
+Message:
+Warnung, Betreten des magischen Katastrophengebiets.
+
+(0, 36, 0) ***Sign***
+Message:
+Hungrige Ungeheuer unten.  Vergessen Sie Ihr Zauberbuch nicht.
+
+(37, 63, 0) ***Event***
+Message:
+Ihre Truppen werden von einer schäbig aussehenden Gruppe von Monstern überfallen.
+
+(34, 10, 0) ***Event***
+Message:
+Ihre Truppen werden von einer schäbig aussehenden Gruppe von Monstern überfallen.
+
+(40, 21, 0) ***Event***
+Message:
+Überfall!  Seltsame Truppen stürmen aus dem Wald und greifen an!
+
+(63, 34, 0) ***Event***
+Message:
+Hinterhalt!  Seltsame Truppen stürmen aus dem Wald und greifen an!
+
+(31, 67, 0) ***Event***
+Message:
+Hinterhalt!  Seltsame Truppen stürmen aus den Bäumen und greifen an!
+
+(15, 61, 0) ***Event***
+Message:
+Hinterhalt!  Fremde Truppen stürmen aus den Bäumen und greifen an!
+
+(6, 6, 1) ***Pandora's Box***
+Message:
+Eine hübsche Kiste, in einer düsteren Höhle, bewacht von wer weiß was.  Die Skelette in der Nähe warnen vor der Gefahr.  Und doch, so eine hübsche, reich aussehende Kiste.  Hmm...
+
+(39, 39, 1) ***Random Town***
+Name:
+Xanadu
+
+(61, 64, 1) ***Pandora's Box***
+Message:
+Eine goldverkrustete Kiste, in einer düsteren Höhle, bewacht von wer weiß was.  Die Skelette in der Nähe warnen vor der Gefahr.  Und doch, so eine hübsche Kiste, mit einem Hauch von Magie.  Hmm...
+
+===== End of file =====

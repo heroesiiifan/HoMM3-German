@@ -1,0 +1,105 @@
+===== Map name =====
+Gefangen in der Mitte (Verbündete)
+
+===== Map description =====
+Seit vielen Jahren sind zwei der größten Landbesitzer des Königreichs befreundet.  Zumindest waren sie das, bevor sie darum wetteten, wer das meiste Land hat.  Jetzt will keiner von beiden akzeptieren, dass er weniger Land hat, und sie befinden sich im Krieg.  Was Sie in der Mitte gefangen hält.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ereignis - 1
+Message:
+Es dauerte nicht lange, bis die beiden größten Landbesitzer des Königreichs den Krieg erklärten.  Der eine behauptete, er hätte den größten Grundbesitz, und der andere war anderer Meinung.  Etwa eine Stunde lang flogen die Beleidigungen hin und her.  Nun befinden sie sich im Krieg.  Unglücklicherweise ist der einzige Weg, wie sie aneinander herankommen können, über Sie.  In der Mitte gefangen zu sein, wird nicht lustig sein.
+
+Name:
+Ereignis - 2
+Message:
+Um sich auf den Krieg vorzubereiten, begannen Sie, das verstaubte alte Schloss zu säubern und öffneten die Flügel, die schon seit einiger Zeit nicht mehr benutzt worden waren.  Die Mägde wurden sorgfältig beobachtet, nur für den Fall, dass eine von ihnen beschloss, etwas von Wert zu stehlen, das dort versteckt war.  Es war gut, dass Sie Wachen aufgestellt hatten, denn sie fanden versteckte Schätze, die Ihre Großmutter für einen regnerischen Tag gebunkert hatte.  Ich schätze, es regnet.
+
+Name:
+Here ya go....
+Message:
+
+
+Name:
+Ereignis - 3
+Message:
+Es ist klar geworden, dass die beiden Lords Aurre und Nennia sich einen Weg durch Sie und die anderen Lords bahnen wollen, um sich als besser als der andere zu beweisen.  Du kannst diese Argumentation von Lord Aurre verstehen: er ist schon immer weit in die Schwärze des Bösen abgetaucht, aber es macht nicht viel Sinn, dass Lord Nennia Lord Aurre so dicht folgt.  Es könnte Ihre einzige Chance sein, Lord Nennia zur Vernunft zu bringen.
+
+Name:
+Ereignis - 4
+Message:
+Da Sie nicht genau wissen, wie Sie Lord Nennia helfen können, senden Sie eine Nachricht und fragen, ob sie zumindest bereit ist, sich anzuhören, was Sie zu sagen haben.  Die Nachricht: "Lord Nennia, ich weiß, wie stolz Ihr auf die Errungenschaften Eurer Familie seid und wie wichtig es ist, die Ehre Eurer Familie zu verteidigen.  Deshalb bin ich bereit, mit Euch Frieden zu schließen und Euren Truppen sicheren Durchzug durch mein Land zu gewähren.  Auf diese Weise könnt Ihr Eure Ehre verteidigen, ohne den Bauern, die Euch im Weg stehen, Schaden zuzufügen.  Bitte antwortet schnell."  Zufrieden schickt Ihr den Brief ab und hofft auf das Beste.
+
+Name:
+Ereignis - 5
+Message:
+Bis jetzt hat sie noch nicht geantwortet, und du weißt, dass es jeden Moment soweit sein kann, dass die Truppen vor deiner Tür auftauchen.  Die Idee, mit Lord Aurre Frieden zu schließen, ist lächerlich, denn er würde eher in Ihr Gebiet expandieren, als mit Ihnen Frieden zu schließen.  Also schickst du ihm keinen Brief und hoffst stattdessen, dass der mächtigere Lord Nennia ihm den Kopf abschlagen kann.
+
+Name:
+Ereignis - 6
+Message:
+Endlich hat Lord Nennia auf deine Nachricht geantwortet.  Es ist kein freundlicher Brief, und am Ende wissen Sie, dass Sie dem Untergang geweiht sind.  "Ich habe kein Interesse daran, solche Vereinbarungen mit Euch zu treffen.  Es heißt, Ihr hättet bereits Absprachen mit Lord Aurre getroffen, um mich in eine verwundbare Lage zu bringen und dann meine Ländereien mit ihm zu teilen.  Da du dich mit einem so bösen Schurken verbündet hast, habe ich keine andere Wahl, als dich zu vernichten.  Bereite dich darauf vor, deinen Schöpfer zu treffen, gespaltene Zunge, Teufel."  Kopfschüttelnd legen Sie den Brief ab, in der Hoffnung, ihn eines Tages wieder lesen zu können.
+
+Name:
+Ereignis - 7
+Message:
+Lord Aurre hat dir ein Problem bereitet.  Er verlangt von Dir, dass Du ihm Vorräte schickst, damit er nicht gleich Deine Stadt vernichten muss.  Du glaubst ihm eigentlich nicht, aber da dir einige seiner Schergen an der Kehle sitzen, bezahlst du sie, damit sie dich in Ruhe lassen.  Sie verschwinden für den Moment, aber Sie wissen, dass die Schurken bald zurückkehren werden.
+
+Name:
+Ereignis - 8
+Message:
+Mit den beiden Armeen, die vor Ihrer Tür stehen, und den beiden anderen Lords, die um ihr eigenes Überleben kämpfen, sind die Leute dieser Tage ziemlich gestresst.  Sie haben sogar den Geburtstag Ihres eigenen Sohnes vergessen, etwas, das Sie noch nie zuvor getan haben.  Bei all dem, was vor sich geht, ist es ein Wunder, dass Sie sich überhaupt daran erinnern können, sich morgens richtig anzuziehen.  Dann schauen Sie zu Boden und seufzen schwer.
+
+Name:
+Ereignis - 9
+Message:
+Vier Wochen Krieg haben an Ihnen gezerrt, und es ist an der Zeit, eine kleine Atempause einzulegen.  Sie verbringen diesen Morgen in einem heißen Bad mit heilenden Mineralien und duftenden Ölen.  Erfrischt und fähig, den Tag zu bewältigen, stellen Sie fest, dass die Dinge vielleicht gerade Ihren Weg gehen.  Einer der Männer hat in einem alten Lager eine Karte gefunden.  Offenbar war Lord Aurre auf der Suche nach einem Schatz, um diesen kleinen Krieg zu finanzieren.  Du folgst den Anweisungen der Karte und schaffst es, einen kleinen Schatz auszugraben und einen Teil der Kosten zu bezahlen.
+
+Name:
+Ereignis - 10
+Message:
+Lord Nennia will nun nichts mehr, als mit Ihnen Frieden zu schließen, aber das ist nicht mehr nötig.  Nach einiger Zeit konntet Ihr ein ganzes Stück Land übernehmen und könntet diesen Krieg vielleicht doch noch gewinnen.  Am Ende bist du es vielleicht, der das meiste Land hat - und zwar alles.  Die anderen Lords stellten keine Bedrohung für dich dar und fielen recht schnell unter deine Fahne.  Lord Aurre ist auf der Flucht, und vielleicht, nur vielleicht, können Sie tatsächlich alles erobern.
+
+Name:
+Ereignis - 11
+Message:
+Deine Mutter ruft an und ist extrem gereizt.  Du verstehst nicht, worüber sie sich aufregen könnte, bis dir einfällt, dass heute Muttertag ist.  Wenn heute etwas nicht bei ihr ankommt, wird sie einen Anfall bekommen, den niemand sehen will.  Mit dem Hinweis, dass etwas, das sie sich schon immer gewünscht hat, vor ihrer Haustür ankommen wird, eilen Sie schnell herum, um die Schmuckstücke zu besorgen, die sie sich gewünscht hat, und zahlen einen kleinen Aufpreis, um sie sofort liefern zu lassen.
+
+Name:
+Ereignis - 12
+Message:
+Mama hat sich über die Juwelen gefreut, und Sie stehen jetzt auf ihrer guten Liste.  Sie hoffen, dass dies ein paar selbstgebackene Kuchen bedeutet.  Stattdessen steht ein Anwalt mit ein paar Papieren vor Ihrer Tür.  Er erklärt Ihnen, dass Sie Ihr Erbe in den nächsten fünf Jahren in Raten erhalten werden.  Fassungslos unterschreiben Sie die Papiere und geben dann schnell das Geld aus, das Sie heute bekommen haben.  Sie können die nächste Rate kaum erwarten.
+
+Name:
+Ereignis - 13
+Message:
+Ihr Erbschaftsgeld ist heute angekommen.  Jetzt können Sie es für einen guten Zweck einsetzen und diesen Krieg beenden.
+
+===== Heroes =====
+
+===== Objects =====
+
+(13, 10, 0) ***Seer's Hut***
+Message:
+Einige Kreaturen kampieren in der Nähe des Monolithen, den ich benutzen muss, um nach Hause zu kommen.  Könntet Ihr sie bitte aus dem Gebiet entfernen?  Wenn du das tust, überlasse ich dir die 40 Golems, die ich erschaffen habe.  Natürlich müssen Sie das Aktivierungswort herausfinden.
+Es tut mir leid, aber ich überlasse dir die Golems erst, wenn mein Weg nach Hause wieder sicher ist.
+Ausgezeichnet!  Ich kann jetzt nach Hause gehen.  Hier sind die Golems.  Viel Glück beim Herausfinden des Aktivierungswortes.
+
+(27, 46, 0) ***Seer's Hut***
+Message:
+Ich grüße Sie.  Ich bin Admiral Smirnov.  Einige Kreaturen haben sich mit meinem Hut davongemacht, und ich kann nicht ohne ihn segeln gehen.  Zu dem Zeitpunkt war ich betrunken, äh, krank und nicht in der Lage zu sehen, wer sie waren und in welche Richtung sie gingen.  Ich weiß nur, dass sie meinen Admiralshut gestohlen haben, und ich würde für seine Rückgabe gut bezahlen.
+Hier sind 10.000 Gold als Belohnung für das Auffinden meines Hutes.  Würdet Ihr ihn mir bitte aushändigen?
+
+(34, 38, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+a
+Message:
+a
+
+===== End of file =====

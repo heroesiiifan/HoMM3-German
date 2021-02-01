@@ -1,0 +1,44 @@
+===== Map name =====
+Die Allianz
+
+===== Map description =====
+Ein weltbewegender Krieg zwischen West und Ost ist im Gange. Sie und Ihre Verbündeten müssen den Feind um jeden Preis vernichten.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(85, 96, 0) ***Random Monster 4***
+Message:
+Sie müssen uns besiegen, bevor Sie den Gefangenen retten können.
+
+(114, 82, 1) ***Event***
+Message:
+Sie stehen vor dem Eingang der Gruft. Zombies erheben sich und starten einen Angriff.
+
+(105, 58, 1) ***Minotaur King***
+Message:
+Willkommen in meinem Labyrinth! Es wird einen großen Teil deines Lebens in Anspruch nehmen!
+
+(94, 69, 1) ***Minotaur***
+Message:
+Ihr könnt meinen haarigen Hintern küssen!!
+
+(90, 53, 1) ***Minotaur***
+Message:
+Probier mal meine mächtige Axt!
+
+(63, 52, 1) ***Minotaur King***
+Message:
+STIRB!!
+
+(36, 115, 1) ***Seer's Hut***
+Message:
+Ich sammle einzigartige Tiere für meinen Zoo. Ich habe schon viele verschiedene Kreaturen, aber immer noch keine Kristalldrachen. Nördlich von hier gibt es eine Behausung von diesen. Besorgt mir einen, und ich werde Euch belohnen.
+Wow! Das ist genau das, was ich brauchte. Wie ich bereits gesagt habe, gibt es viele Kreaturen in meinem Zoo. Darunter auch Feen-Drachen. Sie vermehren sich sehr gut, und ich kann Euch ein paar im Tausch gegen einen Kristalldrachen geben.
+
+===== End of file =====

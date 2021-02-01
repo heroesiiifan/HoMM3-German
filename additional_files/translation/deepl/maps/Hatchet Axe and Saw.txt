@@ -1,0 +1,52 @@
+===== Map name =====
+Hatchet, Axe and Saw
+
+===== Map description =====
+Evil minions have a desperate need for wood and selected the small little villages of Dendroids for harvesting.  A group of elves got wind of the plan and has moved in to stop them.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Opening - Evil
+Message:
+All the wood in your land has rotted.  Some logs lay here and there, but no usable supplies of wood remain.  Now the call has been sent out to locate another source of lumber.  That source has been discovered: Dendroids.		The wood produced by a living Dendroid is far more supple and sturdy than oak or maple.  You have been instructed to locate and conquer the many Dendroid villages dotting this river.  Be warned, the elves are their allies and sworn protectors.  Should they stop you, our cities will fall into decay.
+
+Name:
+Opening - Good
+Message:
+The minions of the dark fiery Inferno have been moving against the world for some time now, and they have been consuming all they survey with no regard for conservation.  Now they are beginning to run out of lumber.		Our spies have learned that the shadowy alchemists of the Inferno plan to harvest the supple, sturdy flesh of Dendroids.  You must raise your armies and march against the dark lords invading this region to save the Dendroid villages along the banks of this river.  Good luck, and may the Light of Heaven shine upon thee.
+
+Name:
+Plague - Good
+Message:
+Blight has ravaged this area.  The druids report that some sort of rot has infested the trees.  A cure may be discovered but not for some time, but perhaps one can be found in one of the Inferno towns.
+
+Name:
+Plague - Evil
+Message:
+The rot affecting our trees has apparently spread to this region as well.  The need to capture those Dendroids has grown even more desperate.
+
+Name:
+Plague Hits
+Message:
+The plague has hit us again.  More wood has rotted in the silos.
+
+===== Heroes =====
+
+===== Objects =====
+
+(51, 17, 0) ***Quest Guard***
+Message:
+None shall be allowed to pass save the most worthy of warriors.  You must be of the elite, those above 10th level, to enter this domain.
+
+(20, 45, 0) ***Event***
+Message:
+The winds are fickled, as often are the Dendroids.  You must be careful, for many are hostile to you.  You must prove yourself worthy for them to honor you by serving in your forces.
+
+(24, 22, 0) ***Quest Guard***
+Message:
+None shall be allowed to pass, save the most worthy of warriors.  You must be of the elite, those above 10th level, to enter this domain.
+
+===== End of file =====

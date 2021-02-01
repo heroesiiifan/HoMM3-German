@@ -1,0 +1,121 @@
+===== Map name =====
+Unholy Quest
+
+===== Map description =====
+Deep below the surface lurk monsters the likes of which no one has ever seen. Word is that the monsters are preparing to rise from the depths and lay claim to the surface world. Go forth and slay their evil armies before they grow too large. You may be the world's only hope!
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(70, 68, 0) ***Pikeman***
+Message:
+Please let us join your quest.
+
+(72, 70, 0) ***Halberdier***
+Message:
+We volunteer to join you and your army.
+
+(70, 71, 0) ***Marksman***
+Message:
+We stand ready to fight by your side.
+
+(69, 74, 0) ***Crusader***
+Message:
+With nothing better to do, we felt compelled to join you.
+
+(67, 73, 0) ***Sign***
+Message:
+"Noma Flactis Xombuxer". Wait a second... doesn't that mean, "Pit of the Fire Demons?"
+
+(66, 70, 0) ***Random Treasure Artifact***
+Message:
+An Imp stands guard. He says, "Keep away, I hold this gift for my Lord. He will be here soon and then all will be ours".
+
+(66, 80, 0) ***Swordsman***
+Message:
+I have gathered my things and await a ship. I will not go below ground ever again. You will have to kill me or I will swim for it, but I shall never join such a crazy quest!
+
+(71, 76, 0) ***Dwarf***
+Message:
+Leave me be. I have just broke free from the underworld. I ran into this forest to hide. The only help below are the remains of the living - seek their bones for they still fight to free their souls.
+
+(130, 96, 0) ***Champion***
+Message:
+Welcome, we have been awaiting your arrival. Most will wish to join your cause, but there are a few in the castles that are scared and would rather die by your blade then return to the underworld. Let us go forth and take all that we need to cleanse the world.
+
+(130, 110, 0) ***Sign***
+Message:
+Undead Not Welcome
+
+(135, 109, 0) ***Archangel***
+Message:
+Be gone with those bones! You will need a new army to fight the underworld and you have come to the right place. Make use of everything good and return to slay the evil one, Fiona.
+
+(132, 110, 0) ***Archangel***
+Message:
+Be gone with those bones! You will need a new army to fight the underworld and you have come to the right place. Make use of everything good and return to slay the evil one, Fiona.
+
+(134, 110, 0) ***Archangel***
+Message:
+Be gone with those bones! You will need a new army to fight the underworld and you have come to the right place. Make use of everything good and return to slay the evil one, Fiona.
+
+(136, 135, 0) ***Cavalier***
+Message:
+We have been training long and hard for such a quest, but still we are not sure if we should join those that have fought along side of the dead. Let us think.
+
+(60, 125, 0) ***Angel***
+Message:
+We will join your quest to rid the underworld of the evil Fiona, if you and your army help me take back this castle.
+
+(13, 10, 1) ***Skeleton***
+Message:
+Oh, our weary bones have been enslaved for sooooo long. Your army does not stand a chance down here. Set them free. Let us and many more make up your new force. It's the only way.
+
+(1, 23, 1) ***Sign***
+Message:
+GOING DOWN!
+
+(9, 53, 1) ***Skeleton***
+Message:
+Come quick! We have taken one of the garrisons and many await to join you.
+
+(24, 134, 1) ***Sign***
+Message:
+GOING DOWN!
+
+(57, 100, 1) ***Skeleton***
+Message:
+Follow the sulfur!
+
+(93, 133, 1) ***Angel***
+Message:
+Why have you enlisted the aid of the dead?  All these bones should be left alone.  Fight us, then follow this tunnel to the Land of the Blessed.  You must be purified!
+
+(67, 106, 1) ***Sign***
+Message:
+Don't Trust The Skeletons
+
+(62, 105, 1) ***Skeleton***
+Message:
+We have helped you in every way we can, but you must stay out of here. Be GONE!
+
+(90, 54, 1) ***Sign***
+Message:
+BEWARE, I LIVE!
+
+(25, 18, 1) ***Skeleton Warrior***
+Message:
+Good, you found us. We have been hiding in this corner in hopes that our scouts would find you.
+
+(79, 67, 1) ***Sign***
+Message:
+Shortcut, this way!
+
+(67, 90, 1) ***Angel***
+Message:
+Shame on you! Don't follow the sulfur, follow the gems to your salvation!
+
+===== End of file =====

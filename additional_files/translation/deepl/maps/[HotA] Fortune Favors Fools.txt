@@ -1,0 +1,82 @@
+===== Map name =====
+Fortune Favors Fools
+
+===== Map description =====
+You've always been a bit thick. For a firstborn son, that's unfortunate. Unable to accept his heir being a good-for-nothing dimwit, your father negotiated an appointment for you. This nice domain is yours to rule; the only task is "don't screw up". It doesn't sound hard, but you've got history.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 36, 0) ***Conflux***
+
+Timed events:
+
+Name:
+hum bonus
+Message:
+You have no idea where all this stuff and men have come from. The keep's majordomo, a wrinkly old mage, is doing his best to not look you in the eye.
+
+(7, 66, 0) ***Fortress***
+
+Timed events:
+
+Name:
+hum bonus
+Message:
+Your soldiers claim to have ransacked an enemy town for some nice booty. Sounds plausible, only somehow they didn't lose a single man, but, on the contrary, have returned in bigger numbers. Ah well.
+
+(67, 8, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+hum bonus
+Message:
+The town's chief Necromancer announces he's discovered a way to raise more dead and save money at the same time. What a supremely lucky turn of events, conclude you.
+
+(3, 16, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Hum bonus
+Message:
+You have no idea where all this stuff and men have come from. The keep's majordomo, a wrinkly old mage, is doing his best to not look you in the eye.
+
+(32, 4, 0) ***Castle***
+
+Timed events:
+
+Name:
+hum bonus
+Message:
+A neighbor lord comes to visit you, claiming he's got a debt to return. You don't remember lending him a thing, but it would be too silly to refuse free money and troops, even for you.
+
+(60, 38, 0) ***Castle***
+
+Timed events:
+
+Name:
+hum bonus
+Message:
+A neighbor lord comes to visit you, claiming he's got a debt to return. You don't remember lending him a thing, but it would be too silly to refuse free money and troops, even for you.
+
+(48, 67, 0) ***Rampart***
+
+Timed events:
+
+Name:
+human bonus
+Message:
+A leprechaun you met on your morning walk insists you accept his cache and disappears before you can open the pot. It's full of newly minted coins and shiny jewelry. What a decent little creature. Oh, and you meet some volunteers on your way back home. What a day!
+
+(33, 23, 0) ***Pandora's Box***
+Message:
+"Mummies aren't always nice, but Daddy is. Here, some friends for you." Signed: D.
+
+===== End of file =====

@@ -8,7 +8,7 @@
 
 from zipfile import ZipFile
 import zipfile
-from shutil import copyfile
+from shutil import copyfile, copy
 import os
 import whatthepatch
 import subprocess
@@ -18,10 +18,31 @@ d = "_tmp/HotA_patched/txt/"
 
 if not os.path.exists(d): os.makedirs(d)
 
-identical = [ "Artslots.txt", "CampDiag.txt", "CastInfo.txt", "CmpEdCmd.txt", "CmpEditr.txt", "CrGen4.txt", "CrGenerc.txt", "Garrison.txt", "HallInfo.txt", "HeroScrn.txt", "JkText.txt", "Lcdesc.txt", "MineEvnt.txt", "OverView.txt", "PlColors.txt", "PriSkill.txt", "RandSign.txt", "Regions.txt", "ResTypes.txt", "SkillLev.txt", "TCommand.txt", "TentColr.txt", "TownName.txt", "TownType.txt", "TurnDur.txt", "TvrnInfo.txt", "VcDesc.txt", "Walls.txt" ]
+identical = [ "Artslots.txt", "CampDiag.txt", "CastInfo.txt", "CmpEdCmd.txt", "CmpEditr.txt", "CrGen4.txt", "CrGenerc.txt", "Garrison.txt", "HallInfo.txt", "HeroScrn.txt", "JkText.txt", "Lcdesc.txt", "MineEvnt.txt", "OverView.txt", "PlColors.txt", "PriSkill.txt", "RandSign.txt", "Regions.txt", "ResTypes.txt", "SkillLev.txt", "TCommand.txt", "TentColr.txt", "TownName.txt", "TownType.txt", "TurnDur.txt", "TvrnInfo.txt", "VcDesc.txt", "Walls.txt" ] + ["CREDITS.TXT", "ObjNames.txt", "TERRNAME.txt"]
+
+def correct_line_ending(file_in, file_out):
+    with open(file_in, "r+b") as f:
+        text = f.read()
+        text = text.decode(encoding='cp1252')
+        string_new = ""
+
+        inside_quote = False
+        for c in text:
+            if c == "\"":
+                inside_quote = not inside_quote
+                string_new += c
+            elif c == "\r":
+                if not inside_quote: string_new += c
+            else:
+                string_new += c
+            char_last = c
+
+        with open(file_out, 'w+b') as the_file:
+            the_file.write(str.encode(string_new, encoding='cp1252'))
 
 for val in identical:
     copyfile(s + val, d + val)
+    correct_line_ending(d + val, d + val)
 
 for filename in os.listdir("additional_files/hota/txt"):
     if filename.endswith(".txt.diff"):
@@ -59,18 +80,27 @@ for filename in os.listdir("additional_files/hota/txt"):
             the_file.write(str.encode(string_new, encoding='cp1252'))
 
 
-copyfile("homm3_files\HotA\Data\HotA.lod", "_tmp/HotA_patched/" + "HotA.lod")
-copyfile("homm3_files\HotA\Data\HotA_lng.lod", "_tmp/HotA_patched/" + "HotA_lng.lod")
+copyfile("homm3_files\HotA\Data\HotA_ext.lod", "_tmp/HotA_patched/" + "HotA_ext.lod")
+copyfile("homm3_files\HotA\Data\HotA_l_ext.lod", "_tmp/HotA_patched/" + "HotA_l_ext.lod")
 
-command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
+command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_ext.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_lng.lod"] + ["_tmp/HotA_patched/txt/" + s for s in os.listdir("_tmp/HotA_patched/txt")]
+command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["_tmp/HotA_patched/txt/" + s for s in os.listdir("_tmp/HotA_patched/txt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_lng.lod"] + ["_tmp/def/" + s for s in os.listdir("_tmp/def/")] + ["additional_files/hota/bmp/" + s for s in os.listdir("additional_files/hota/bmp/")]
+command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["_tmp/def/" + s for s in os.listdir("_tmp/def/")] + ["additional_files/hota/bmp/" + s for s in os.listdir("additional_files/hota/bmp/")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+#command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["homm3_files/HotA/campaign_deepl/" + s for s in os.listdir("homm3_files/HotA/campaign_deepl/")]
+#output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
 zipObj = ZipFile('_out/HoMM3DE_HotA.zip', 'w', zipfile.ZIP_STORED)
-zipObj.write(os.path.join("_tmp/HotA_patched/" + "HotA.lod"), arcname=os.path.join("", "HotA.lod"))
-zipObj.write(os.path.join("_tmp/HotA_patched/" + "HotA_lng.lod"), arcname=os.path.join("", "HotA_lng.lod"))
+zipObj.write(os.path.join("_tmp/HotA_patched/" + "HotA_ext.lod"), arcname=os.path.join("", "HotA_ext.lod"))
+zipObj.write(os.path.join("_tmp/HotA_patched/" + "HotA_l_ext.lod"), arcname=os.path.join("", "HotA_l_ext.lod"))
 zipObj.write(os.path.join("_tmp/HotA_patched/" + "HotA.dat"), arcname=os.path.join("", "HotA.dat"))
+if os.environ["DEEPL_TRANSLATION"] == "1":
+    for filename in os.listdir("additional_files/translation/deepl/maps/out"):
+        if filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("Maps", filename))
+for dirpath,dirs,files in os.walk("homm3_files/RoE_de/Maindisk/Maps"):
+  for f in files:
+    fn = os.path.join(dirpath, f)
+    zipObj.write(fn, arcname=os.path.join("Maps", f))
 zipObj.close()

@@ -1,0 +1,64 @@
+===== Map name =====
+Zu verkaufen
+
+===== Map description =====
+Ein reicher Lord hat sein schönes Königreich zum Verkauf angeboten.  Während Sie Ihre Gegner abwehren, sollen Sie das Geld aufbringen, um das Königreich vor ihnen zu kaufen.  Es gibt nur einen Haken: Sie dürfen Ihre Heimatstadt nicht verlieren.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Ein reicher Herrscher hat sein schönes Schloss zum Verkauf angeboten.  Er hat Pläne, über größere Ländereien zu herrschen und möchte aus diesem winzigen Ort herauskommen.  Er verlangt 50637 Goldstücke.  Das Schloss ist vollständig ausgebaut.  Die Nachricht verbreitet sich im ganzen Land: Der erste Held, der dem Lord die richtige Menge an Gold bringt, bekommt das Schloss.  Die Sache hat nur einen Haken: Man darf seine Heimatstadt nicht verlieren.
+
+Name:
+Diebe auf Abwegen
+Message:
+Es kursieren Gerüchte über eine verrückte Diebesbande, die durch die Gegend streift, Gold stiehlt und diejenigen tötet, die es nicht hergeben.  Sie befehlen Ihren Truppen, nach allem Verdächtigen Ausschau zu halten.
+
+Name:
+Diebe töten
+Message:
+Ein Bote überbringt Ihnen eine schreckliche Nachricht.  Das Gerücht über die Diebesbande ist wahr.  Sie haben letzte Nacht eine ganze Armee überfallen und getötet und sind mit 15037 Gold davongekommen!  Ein kalter Schauer läuft Ihnen über den Rücken, während Sie einen Moment der Stille für die Verstorbenen halten.  Du schickst eine Nachricht nach Hause, um mehr kampfbereite Truppen zur Verfügung zu haben, die Du anheuern kannst.  In der Zwischenzeit sollen sie Tag und Nacht rund um das Königreich Wache stehen, bereit für jeden Überraschungsangriff.
+
+Name:
+5037 Gold gestohlen
+Message:
+Die Diebe haben Ihr Lager geplündert und sind mit 5037 Goldstücken entkommen.  Glücklicherweise haben sie niemanden getötet.  Aber der Verlust dieses Goldes hat der Stadtkasse sehr geschadet.
+
+Name:
+Diebe schlagen wieder zu
+Message:
+Diebe haben wieder in Ihrer Stadt zugeschlagen.  Es muss einen Weg geben, diese Verbrecher zu stoppen!
+
+===== Heroes =====
+
+===== Objects =====
+
+(9, 15, 0) ***Sign***
+Message:
+Zum Verkauf durch den Besitzer 50637 Gold
+
+(11, 15, 0) ***Quest Guard***
+Message:
+Die Wachen hier lassen niemanden passieren, es sei denn, er hat genug Gold, um das Schloss zu kaufen.  Sie werden Sie für 50637 Goldstücke passieren lassen.
+Da Sie nicht 50605 Gold mitgebracht haben, verbieten die Wachen Ihnen den Durchgang.
+Herzlichen Glückwunsch!  Dieses exquisite Schloss gehört Ihnen, wenn Sie den Preis von 50605 Gold bezahlen.  Wollt Ihr es kaufen?
+
+(14, 13, 0) ***Sign***
+Message:
+Zu verkaufen durch den Besitzer 50637 Gold
+
+(2, 1, 0) ***Pandora's Box***
+Message:
+
+
+(2, 2, 0) ***Quest Guard***
+Message:
+Der Inhalt der Kiste ist sehr gefährlich.  Die Wachen beäugen Sie misstrauisch, sind aber einverstanden, Sie durchzulassen, wenn Sie Stufe 9 Erfahrung erreicht haben.
+Die Wachen hier lassen einfach niemanden unter Level 9 passieren.
+Die Wachen erkennen an, dass Sie tatsächlich Stufe 9 erreicht haben.  Möchten Sie zu diesem Zeitpunkt in die Box gehen?
+
+===== End of file =====

@@ -20,5 +20,5 @@ Rank	Player	Campaign	Days
 7	Nymus	Saat der Zwietracht	800	250
 8	Malcom	Befreiung	850	225
 9	Sorsha	Saat der Zwietracht	900	200
-10	Zydar	Lang lebe der König	1000	175
+10	Zydar	Lang lebe der König	1000	150
 11	Euer Name	Spielt eine Karte	2000	1

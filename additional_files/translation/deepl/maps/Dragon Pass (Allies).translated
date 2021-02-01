@@ -1,0 +1,75 @@
+===== Map name =====
+Drachenpass (Verbündete)
+
+===== Map description =====
+Der Drachenpass - seit Generationen eine Quelle des Konflikts, da er reich an Artefakten und Ressourcen ist.  Nachdem der Pass erreicht und leicht geplündert wurde, schließen Sie sich mit Ihrem Verbündeten zusammen und schalten Ihre Gegner aus, um das Spiel zu gewinnen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ereignis von Tag 1.
+Message:
+Als Sie sich an Ihre Hauptaufgabe machen (in den Drachenpass zu gelangen und ihn zu plündern), scheint es, dass sich einige rote Drachen in Ihr Gebiet verirrt haben und sich daran machen, das Zelt mit den Befehlen zu bewachen, die Sie brauchen, um in den Pass zu gelangen ... seufz... nichts ist jemals einfach.  Sie müssen die roten Drachen finden und sie töten, um die Befehle zu erhalten.
+
+Name:
+Drachen im Pass.
+Message:
+Es scheint, dass einige Händler, die in letzter Zeit vom Pass gekommen sind, berichten, dass Drachen wieder angefangen haben, ihn zu bevölkern (stell dir vor).  Die Ressourcen werden nicht mehr so einfach zu erreichen sein wie früher.
+
+===== Objects =====
+
+(8, 34, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Investoren.
+Message:
+Investoren, die wollen, dass die Ressourcen und die Drachen vom Pass geräumt werden, spenden Kreaturen und Geld für die Sache.
+
+(38, 65, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Investoren.
+Message:
+Investoren, die wollen, dass die Ressourcen und die Drachen vom Pass geräumt werden, spenden Kreaturen und Geld für die Sache.
+
+(64, 42, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Investoren.
+Message:
+Investoren, die den Pass von Ressourcen und Drachen säubern wollen, spenden Kreaturen und Geld für den guten Zweck.
+
+(35, 8, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Investoren.
+Message:
+Investoren, die wollen, dass die Ressourcen und die Drachen vom Pass geräumt werden, spenden Kreaturen und Geld für die Sache.
+
+(18, 48, 0) ***Sign***
+Message:
+Willkommen im Drachenpass.
+
+(49, 21, 0) ***Sign***
+Message:
+Willkommen im Drachenpass.
+
+(54, 29, 0) ***Sign***
+Message:
+Willkommen bei Dragon Pass.
+
+(24, 60, 0) ***Sign***
+Message:
+Willkommen bei Dragon Pass.
+
+===== End of file =====

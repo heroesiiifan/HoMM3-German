@@ -1,0 +1,214 @@
+===== Map name =====
+Umstürze deine Nachbarn
+
+===== Map description =====
+Die Guten, die Schlechten und die Überforderten.
+
+===== Rumors =====
+
+Name:
+Artefakte im Norden
+Text:
+Es gibt viele nützliche Artefakte im Norden des Waldes.
+
+Name:
+Schloss in der unteren Wüste.
+Text:
+Späher sagen, dass es eine Stadt in der unteren Wüste gibt, die verlassen ist.  Manche sagen, dass sie von Drachen bewacht wird. 
+
+===== Timed events =====
+
+===== Objects =====
+
+(8, 35, 0) ***Sign***
+Message:
+Langhaarige, verrückte Menschen brauchen sich nicht zu bewerben.
+
+(71, 71, 0) ***Random Resource***
+Message:
+Sie haben den leisen Verdacht, dass dieser Rohstoffhaufen jemandem gehört. Werden Sie ihn trotzdem nehmen?
+
+(65, 61, 0) ***Random Resource***
+Message:
+Sie haben den leisen Verdacht, dass dieser Ressourcenstapel jemandem gehört. Werden Sie ihn trotzdem nehmen?
+
+(69, 1, 0) ***Ocean Bottle***
+Message:
+In alten Zeiten, als die Ritter noch kühn waren und die Toiletten noch nicht erfunden waren, legten die Menschen ihre Lasten an den Straßenrand und gingen zufrieden davon.
+
+(4, 21, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Ein heißer Tag
+Message:
+Ein weiterer heißer Tag in der Wüste. Wessen Idee war es, ein Schloss inmitten dieser Einöde zu bauen? Der Ozean ist mindestens eine Zweitagesreise. Die meisten Ressourcen sind eine eintägige Wanderung. Informanten berichten, dass es einen Kampf um alle Minen des Landes zwischen den Klerikern und den Demoniacs gibt.
+
+Name:
+Für den Kampf vorbereiten
+Message:
+Sie müssen sofort handeln. Das Undenkbare würde passieren, wenn Ihr Königreich die Kontrolle über die Minen des Landes verlieren würde. Du bereitest dich auf deine Reise vor und planst die Schlachten, die vor dir liegen könnten. 
+
+Name:
+Überbesetzt
+Message:
+Eine Volkszählung in Ihrer Stadt ist abgeschlossen. Die Bevölkerung ist in den letzten Jahren ziemlich stark gewachsen. So sehr, dass die Menschen aus der Stadt herauswachsen. Sie beraten sich mit Ihren Beratern und kommen zu dem Schluss, dass Sie eine weitere Stadt brauchen. Nun gibt es ein paar Möglichkeiten, wie Sie dies tun können.  
+
+Name:
+Die Entscheidung liegt bei Ihnen
+Message:
+Erstens: Verbünden Sie sich mit den Zeloten in der Burg des Klerikers im Westen. Zweitens: Verbünden Sie sich mit den Dämonen-Spawns im Inferno, das Sie gerne als Hölle bezeichnen. Drittens: Stürzen Sie sie und nehmen Sie ihre Schlösser ein. Ihre Berater stehen einfach nur da und blinzeln Ihnen in die Augen.
+
+Name:
+Stürzen Sie Ihre Nachbarn
+Message:
+"Ja", sagen Sie zu sich selbst, "ein Umsturz hört sich im Moment gut an."
+
+Name:
+Verlassene Stadt
+Message:
+Späher sagen, dass es eine Stadt in der unteren Wüste gibt, die verlassen wurde. Sie wird jedoch von Drachen bewacht. Besiegt man sie, ist man für immer von Bevölkerungsproblemen befreit. 
+
+(54, 25, 0) ***Castle***
+
+Timed events:
+
+Name:
+Alles ist gut.
+Message:
+Die Dinge laufen gut auf Eurem Schloss. Dein Einfluss hat das ganze Land erreicht ... fast. Du bist führend darin, den Menschen des Landes beizubringen, in Frieden mit sich selbst zu sein, eins mit ihrer Umgebung zu sein, das zu sein, was nicht verblassen kann, das, was nicht verschwinden kann, und von vollkommener Ruhe zu sein.
+
+Name:
+Alles ist wunderbar.
+Message:
+In deinem Reich ist alles wunderbar. Alles ist wunderschön. Doch der böse Anführer von Inferno weigert sich, auch nur die Faser eurer Existenz anzuerkennen, geschweige denn eure Ideale. Das ist sehr beunruhigend für eure utopischen Wege.
+
+Name:
+Senden Sie eine Nachricht.
+Message:
+Also beschließen Sie, eine Nachricht an den Anführer des Infernos zu senden, in der Sie ihn bitten, die Wege der Hierarchie zu berücksichtigen, oder es werden weitere Maßnahmen ergriffen. Sie schicken den Boten auf den Weg, in der Hoffnung, zu einer Art Kompromiss zu kommen. 
+
+Name:
+Beanspruchen Sie die Minen.
+Message:
+Ihre Berater informieren Sie, dass die Minen des Landes vom Feind beansprucht werden. Sie dann erkennen, dass, wenn alle Minen genommen werden Sie Reich wird sicherlich fallen. Sofort machen Sie sich auf den Weg, um so viele Minen wie möglich zu beanspruchen.
+
+Name:
+Antwort auf die Nachricht.
+Message:
+Eine Antwort des Feindes ist in das Königreich gekommen. Diese schreckliche, böse Bestie schickte den Kopf des Boten auf einem Spieß mit einem Stück blutbefleckten Leders zurück, das an eine Haarlocke gebunden war. Auf dem Lederstück sind die Buchstaben W-A-R eingekratzt.
+
+Name:
+Kummer und Leid
+Message:
+Schlimmer noch, er schickt einen Künstler mit dem Boten, um die Trauer und den Kummer der Familie des Boten in einem schrecklichen Gemälde für seinen Anführer festzuhalten. Die ganze Stadt hält eine Gedenkfeier ab, die drei Tage dauert.
+
+Name:
+Beten Sie für den Feind
+Message:
+Die Stadt beschließt, sich die Hände zu reichen und für Wege zu beten, um den Menschen im Inferno zu helfen.  Sie kommen zu dem Schluss, dass es im Inferno fast keine Hoffnung mehr gibt.  Sie befehlen Ihren Beratern, einen Kleriker und ein Dutzend Rosenstöcke zu schicken, um eventuelle Spannungen zu lindern. 
+
+Name:
+Der Kleriker drehte durch.
+Message:
+Ihre Berater informieren Sie, dass der Kleriker aus dem Inferno geflohen ist und sich die Augen aus dem Kopf geschlagen hat, als er das reinste Böse gesehen hat. Sie sagen zu sich selbst: "Ich bin überrascht, dass er so lange durchgehalten hat."
+
+(40, 11, 0) ***Sign***
+Message:
+Das Gras ist auf der anderen Seite immer grüner.
+
+(62, 50, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Ein weiterer langweiliger Tag.
+Message:
+Ein weiterer trüber, grauer Tag im Inferno. Und Sie, der König, haben soeben eine weitere Drohbotschaft von diesen gutmütigen, feenliebenden Städten im Westen erhalten.  Du hast die Schnauze voll von all diesen leeren Drohungen, deine Stadt zu stürzen. Du schaust auf den ziemlich dicken Stapel von Nachrichten, die Dir zugestellt wurden
+
+Name:
+Die heutige Nachricht erregt Ihre Aufmerksamkeit.
+Message:
+über die Wochen hinweg und Sie beschließen prompt, sie zu verbrennen. Ihr Diener, der Sie davon abhält, die Briefe direkt an Ihrem Schreibtisch zu entzünden, überredet Sie, sie in der Feuergrube zu verbrennen. Als Sie die Briefe ins Feuer werfen, erregt der heutige Brief Ihre Aufmerksamkeit. Also lesen Sie ihn noch einmal. 
+
+Name:
+Sie meinen es ernst
+Message:
+Als Sie die Nachricht lesen, erkennen Sie, wie ernst sie es meinen. Wenn Sie weiter lesen, heißt es, dass sie auf dem Weg sind, Ihre Stadt niederzubrennen. Der Brief sagt nicht, wann sie ankommen, aber er sagt: "Wenn du es am wenigsten erwartest." Wütend wirfst du die Nachricht in die Flammen. 
+
+Name:
+Übernehmen Sie die Kontrolle über die Minen.
+Message:
+Du sagst deinen Dienern, sie sollen antworten, indem du ihnen etwas gibst, das sie nicht vergessen werden.  Dann sammeln Sie Ihre Gedanken und bereiten sich auf den Krieg vor. Einer Ihrer Berater schlägt Ihnen vor, dass, wenn Sie die Kontrolle über alle Minen übernehmen, der Feind in kürzester Zeit alle seine Ressourcen verlieren wird. Eine großartige Idee.  
+
+Name:
+Ein Bote weniger
+Message:
+Ihre Antwort, der Kopf des Boten auf einem Spieß, kam bei Ihrem Feind nicht gut an.  Glück für Sie, dass das Geschenk die Reise überdauerte. Unglücklich für sie, dass sie nun einen Boten weniger haben. 
+
+Name:
+Töte deine Nachbarn!
+Message:
+Wie auch immer, es geht Ihnen um Blut, nicht um Ressourcen. "Töte deine Nachbarn!", rufst du. "Wir töten sie alle, nehmen ihre Schlösser und dann nehmen wir alle Minen!" Du hältst inne und fügst hinzu: "Was auch immer zuerst kommt."
+
+Name:
+Bild
+Message:
+Sie haben einen Künstler losgeschickt, um den Kummer und die Trauer der Familie des Boten einzufangen. Er kam mit einem wunderschönen Gemälde zurück, das jetzt in Ihrem Arbeitszimmer hängt.
+
+Name:
+Der Feind betet für Sie.
+Message:
+Angewidert von Ihren abscheulichen und abscheulichen Handlungen versammeln sich die feindlichen Truppen zum Gebet und kommen zu dem Schluss, dass Ihnen nicht mehr zu helfen ist. Sie schicken Ihnen einen Strauß Rosenstängel und einen Kleriker, der Ihnen durch die schweren Zeiten helfen soll.
+
+Name:
+Der Kleriker läuft weg.
+Message:
+Der Kleriker rennt weg und kratzt sich an den Augen, als er erkennt, dass er das reinste Böse gesehen hat. Sie sagen zu sich selbst: "Es wird Zeit, dass diese fette, knollige, wuchernde Masse aus meinen Haaren verschwindet... als ob ich welche hätte."
+
+(63, 51, 0) ***Sign***
+Message:
+Wir wünschen Ihnen einen schönen Tag!
+
+(12, 40, 0) ***Sign***
+Message:
+Lesen Sie dieses Schild nicht
+
+(28, 23, 0) ***Ocean Bottle***
+Message:
+Meine Bonnie liegt über dem Meer...
+
+(21, 54, 0) ***Event***
+Message:
+Du hast deinen Spähern nicht geglaubt, aber sie hatten recht... vier Drachen, die ein verlassenes Schloss bewachen.  In Zeiten wie diesen wünscht man sich, man hätte einen Jägerinnen-Zauber.  Warte mal... was ist das für eine Schriftrolle, die da vorne auf der Straße liegt?
+
+(22, 53, 0) ***Spell Scroll***
+Message:
+Was für ein Glücksfall! Es ist ein Jägerinnen-Zauber! Wer auch immer sie hier abgelegt hat, hat sicher nichts dagegen, wenn Ihr sie ausleiht... hebt Ihr sie auf?
+
+(12, 54, 1) ***Event***
+Message:
+Du findest dich an einem Ort wieder, der aussieht, als hätte er noch nie Leben gesehen. Schnell siehst du dich um. Es ist sehr ruhig. Es liegt ein sehr abgestandener, muffiger Geruch in der Luft. Sie bekommen ein flaues Gefühl im Magen, als Sie all die Skelette auf dem Boden liegen sehen.
+
+(13, 56, 1) ***Sign***
+Message:
+Planen Sie nicht, lebendig zu gehen...
+
+(12, 57, 1) ***Goblin***
+Message:
+"Ich bin schon seit Wochen hier unten, wie es scheint. Ich dachte, ich würde hier sterben. Es gibt hier drei Wege. Der Hinweis, um den Gral zu finden, liegt am Ende eines dieser Wege. Wählen Sie richtig, gehört der Hinweis Ihnen. Wähle falsch und... Worte können den Schmerz nicht beschreiben, den du erleiden wirst."
+
+(24, 46, 1) ***Sign***
+Message:
+Jeder weitere Schritt würde in der Tat den sicheren Tod bedeuten.
+
+(15, 44, 1) ***Sign***
+Message:
+Möge der Allmächtige sich der Seelen erbarmen, die über dieses Zeichen hinausgehen.
+
+(27, 53, 1) ***Sign***
+Message:
+Drehen Sie jetzt um!
+
+===== End of file =====

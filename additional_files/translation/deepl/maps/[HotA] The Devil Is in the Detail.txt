@@ -1,0 +1,632 @@
+===== Map name =====
+The Devil is in the Detail
+
+===== Map description =====
+During last centuries this land has been divided between six nations coexisting in peace. As rumours about underground monsters began spreading, it became obvious the world wouldn't remain like that for long.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+help start
+Message:
+help extra
+
+Name:
+Day 1 - Welcome message
+Message:
+This land has served your kindgom well and will provide enough resources to expand your borders. The old prophet used to say: "Southern regions are rich, but also dangerous".
+
+Name:
+Day 1 - Welcome message
+Message:
+This land has served your kindgom well and will provide enough resources to expand your borders. The old prophet used to say: Northern regions are rich, but also dangerous".
+
+Name:
+Day 3
+Message:
+Old prophet told you of the mythical island that is believed to be the centre of everything. Centuries ago it was an arena where gods fought. It's supposed to be full of treasure.
+
+Name:
+help
+Message:
+help
+
+Name:
+Day 21
+Message:
+The old prophet told you a story about an ancient passage that collapsed centuries ago. Rumors say that evil forces have built a portal to get out from underground.
+
+Name:
+Day 35
+Message:
+An old miner told you about an accident his team had in one of your mines. When digging too deep, a pack of troglodytes attacked them. Seems as evil creatures are already lurking underground.
+
+Name:
+Day  80
+Message:
+There is an ancient shrine on the central island. Some say the runes can be found there from which one can learn to teleport between different locations!
+
+Name:
+extra mins
+Message:
+
+
+Name:
+Day 240
+Message:
+The legions of hell are countless. Your scouts report they have never seen so many demons coming out of hell.
+
+===== Heroes =====
+
+===== Objects =====
+
+(42, 38, 0) ***Castle***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(120, 34, 0) ***Tower***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(210, 31, 0) ***Rampart***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(211, 226, 0) ***Fortress***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(124, 224, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(43, 224, 0) ***Cove***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(54, 178, 0) ***Cove***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(126, 180, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(238, 199, 0) ***Seer's Hut***
+Message:
+Welcome to the Gold brothers merchant bank! We offer great returns if you're willing to invest.
+Oh my, that's simply not enough. We need 10000 Gold. I won't earn a cent if you bring less!
+Finally! Here, give me the Gold and watch it grow before your eyes!
+
+(204, 179, 0) ***Fortress***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(208, 74, 0) ***Rampart***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(129, 73, 0) ***Tower***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(54, 75, 0) ***Castle***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(36, 88, 0) ***Seer's Hut***
+Message:
+I am researching a way to create the ultimate war machine, but I am short of materials for my workshop.  If you could bring me 20 Wood, 20 Mercury, 20 Ore, 20 Sulfur, 20 Crystal, 20 Gems and 10000 Gold, I would be most grateful.
+
+(231, 98, 0) ***Seer's Hut***
+Message:
+Welcome to the most famous tavern on these waters! Many travelers and merchants visit us. The last one hadn't been too polite, and we made him leave something behind for all the mess he made! If you give me some gold, I'll happily pass it on to you.
+
+(240, 50, 0) ***Seer's Hut***
+Message:
+Welcome to the Gold brothers merchant bank! We offer great returns if you're willing to invest.
+Oh my, that's simply not enough. We need 10000 Gold. I won't earn a cent if you bring less!
+Finally! Here, give me the Gold and watch it grow before your eyes!
+
+(159, 25, 0) ***Seer's Hut***
+Message:
+Welcome to the Gold brothers merchant bank! We offer great returns if you're willing to invest.
+Oh my, that's simply not enough. We need 10000 Gold. I won't earn a cent if you bring less!
+Finally! Here, give me the Gold and watch it grow before your eyes!
+
+(9, 49, 0) ***Seer's Hut***
+Message:
+Welcome to the Gold brothers merchant bank! We offer great returns if you're willing to invest.
+Oh my, that's simply not enough. We need 10000 Gold. I won't earn a cent if you bring less!
+Finally! Here, give me the Gold and watch it grow before your eyes!
+
+(9, 194, 0) ***Seer's Hut***
+Message:
+Welcome to the Gold brothers merchant bank! We offer great returns if you're willing to invest.
+Oh my, that's simply not enough. We need 10000 Gold. I won't earn a cent if you bring less!
+Finally! Here, give me the Gold and watch it grow before your eyes!
+
+(158, 202, 0) ***Seer's Hut***
+Message:
+Welcome to the Gold brothers merchant bank! We offer great returns if you're willing to invest.
+Oh my, that's simply not enough.  I need 10000 Gold.  I'll not earn a cent if you bring less!
+Finally!  Here, give the 10000 Gold to me and see how it grows!.
+
+(227, 152, 0) ***Seer's Hut***
+Message:
+Welcome to the most famous tavern on these waters! Many travelers and merchants visit us. The last one hadn't been too polite, and we made him leave something behind for all the mess he made! If you give me some gold, I'll happily pass it on to you.
+
+(158, 153, 0) ***Seer's Hut***
+Message:
+Welcome to the most famous tavern on these waters! Many travelers and merchants visit us. The last one hadn't been too polite, and we made him leave something behind for all the mess he made! If you give me some gold, I'll happily pass it on to you.
+
+(87, 173, 0) ***Seer's Hut***
+Message:
+Welcome to the most famous tavern on these waters! Many travelers and merchants visit us. The last one hadn't been too polite, and we made him leave something behind for all the mess he made! If you give me some gold, I'll happily pass it on to you.
+
+(30, 91, 0) ***Seer's Hut***
+Message:
+Welcome to the most famous tavern on these waters! Many travelers and merchants visit us. The last one hadn't been too polite, and we made him leave something behind for all the mess he made! If you give me some gold, I'll happily pass it on to you.
+
+(117, 93, 0) ***Seer's Hut***
+Message:
+Welcome to the most famous tavern on these waters! Many travelers and merchants visit us. The last one hadn't been too polite, and we made him leave something behind for all the mess he made! If you give me some gold, I'll happily pass it on to you.
+
+(227, 75, 0) ***Seer's Hut***
+Message:
+I am researching a way to create the ultimate war machine, but I am short of materials for my workshop.  If you could bring me 20 Wood, 20 Mercury, 20 Ore, 20 Sulfur, 20 Crystal, 20 Gems and 10000 Gold, I would be most grateful.
+
+(176, 62, 0) ***Seer's Hut***
+Message:
+I am researching a way to create the ultimate war machine, but I am short of materials for my workshop.  If you could bring me 20 Wood, 20 Mercury, 20 Ore, 20 Sulfur, 20 Crystal, 20 Gems and 10000 Gold, I would be most grateful.
+
+(232, 171, 0) ***Seer's Hut***
+Message:
+I am researching a way to create the ultimate war machine, but I am short of materials for my workshop.  If you could bring me 20 Wood, 20 Mercury, 20 Ore, 20 Sulfur, 20 Crystal, 20 Gems and 10000 Gold, I would be most grateful.
+
+(159, 162, 0) ***Seer's Hut***
+Message:
+I am researching a way to create the ultimate war machine, but I am short of materials for my workshop.  If you could bring me 20 Wood, 20 Mercury, 20 Ore, 20 Sulfur, 20 Crystal, 20 Gems and 10000 Gold, I would be most grateful.
+
+(30, 161, 0) ***Seer's Hut***
+Message:
+I am researching a way to create the ultimate war machine, but I am short of materials for my workshop.  If you could bring me 20 Wood, 20 Mercury, 20 Ore, 20 Sulfur, 20 Crystal, 20 Gems and 10000 Gold, I would be most grateful.
+
+(66, 104, 0) ***Castle***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(156, 90, 0) ***Tower***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(217, 97, 0) ***Rampart***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(202, 147, 0) ***Fortress***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(122, 154, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(52, 153, 0) ***Cove***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(28, 196, 0) ***Seer's Hut***
+Message:
+Liches are menacing the southwestern region of this land.  If you could be so bold as to defeat them, I would teach you the "Summon Boat" spell.
+
+(166, 202, 0) ***Seer's Hut***
+Message:
+Liches are menacing the southwestern region of this land.  If you could be so bold as to defeat them, I would teach you the "Summon Boat" spell.
+
+(244, 195, 0) ***Seer's Hut***
+Message:
+Liches are menacing the southwestern region of this land.  If you could be so bold as to defeat them, I would teach you the "Summon Boat" spell.
+
+(239, 44, 0) ***Seer's Hut***
+Message:
+Liches are menacing the southwestern region of this land.  If you could be so bold as to defeat them, I would teach you the "Summon Boat" spell.
+
+(157, 57, 0) ***Seer's Hut***
+Message:
+Liches are menacing the southwestern region of this land.  If you could be so bold as to defeat them, I would teach you the "Summon Boat" spell.
+
+(81, 55, 0) ***Seer's Hut***
+Message:
+Liches are menacing the southwestern region of this land.  If you could be so bold as to defeat them, I would teach you the "Summon Boat" spell.
+
+(240, 121, 0) ***Seer's Hut***
+Message:
+My family has been wiped out many years ago by an evil necromancer. Bring my family back to me and I'll teach you the most powerful magic, the "Resurrection" spell!
+No luck finding my ancestors?
+At last, my family all together again! Please close your eyes, I'll teach you some real magic!
+
+(10, 125, 0) ***Seer's Hut***
+Message:
+My family has been wiped out many years ago by an evil necromancer. Bring my family back to me and I'll teach you the most powerful magic, the "Resurrection" spell!
+No luck finding my ancestors?
+At last, my family all together again! Please close your eyes, I'll teach you some real magic!
+
+(111, 5, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(241, 7, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(247, 245, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(98, 247, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(10, 244, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(2, 14, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Units
+Message:
+
+
+(125, 124, 1) ***Event***
+Message:
+Hell
+
+(59, 15, 1) ***Seer's Hut***
+Message:
+What I have is for Catherine alone. I shall give it to no other. She has been imprisoned, but I promised to keep her share!
+Finally! It is you, Catherine. Here's what I've got for you. Do you accept?
+
+(136, 12, 1) ***Seer's Hut***
+Message:
+What I have is for Dracon alone. I shall give it to no other. He has been imprisoned, but I promised to keep his share!
+
+(216, 12, 1) ***Seer's Hut***
+Message:
+What I have is for Gelu alone. I shall give it to no other. He has been imprisoned, but I promised to keep his share!
+
+(39, 226, 1) ***Seer's Hut***
+Message:
+What I have is for Bidley alone. I shall give it to no other. He has been imprisoned, but I promised to keep his share!
+
+(157, 232, 1) ***Seer's Hut***
+Message:
+What I have is for Kilgor alone. I shall give it to no other. He has been imprisoned, but I promised to keep his share!
+
+(227, 226, 1) ***Seer's Hut***
+Message:
+What I have is for Adrienne alone. I shall give it to no other. She has been imprisoned, but I promised to keep her share!
+
+(110, 37, 1) ***Inferno***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(113, 136, 1) ***Necromancer***
+Name:
+Plague
+
+(88, 42, 1) ***Seer's Hut***
+Message:
+Times are getting hard underground... But if I had more manpower, I would yet grow my business! Can you help me bring more men to work? I'll happily give you some of these lazy monsters that live around!
+No luck in finding the 500 Peasants and 8 Boars? Please hurry, I need help with my business!
+Finally, the 500 Peasants and 8 Boars that'll save my company! Here are some of those useless monsters!
+
+(108, 120, 1) ***Necromancer***
+Name:
+Death
+
+(126, 109, 1) ***Necromancer***
+Name:
+Doom
+
+(144, 120, 1) ***Necromancer***
+Name:
+Grave
+
+(140, 135, 1) ***Necromancer***
+Name:
+Extinction
+
+(116, 124, 1) ***Necromancer***
+Name:
+Sorrow
+
+(109, 139, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+Name:
+money
+Message:
+
+
+(157, 57, 1) ***Seer's Hut***
+Message:
+Times are getting hard underground... But if I had more manpower, I would yet grow my business! Can you help me bring more men to work? I'll happily give you some of these lazy monsters that live around!
+No luck in finding the 500 Peasants and 8 Boars? Please hurry, I need help with my business!
+Finally, the 500 Peasants and 8 Boars that'll save my company! Here are some of those useless monsters!
+
+(225, 42, 1) ***Seer's Hut***
+Message:
+Times are getting hard underground... But if I had more manpower, I would yet grow my business! Can you help me bring more men to work? I'll happily give you some of these lazy monsters that live around!
+No luck in finding the 500 Peasants and 8 Boars? Please hurry, I need help with my business!
+Finally, the 500 Peasants and 8 Boars that'll save my company! Here are some of those useless monsters!
+
+(219, 184, 1) ***Seer's Hut***
+Message:
+Times are getting hard underground... But if I had more manpower, I would yet grow my business! Can you help me bring more men to work? I'll happily give you some of these lazy monsters that live around!
+No luck in finding the 500 Peasants and 8 Boars? Please hurry, I need help with my business!
+Finally, the 500 Peasants and 8 Boars that'll save my company! Here are some of those useless monsters!
+
+(166, 200, 1) ***Seer's Hut***
+Message:
+Times are getting hard underground... But if I had more manpower, I would yet grow my business! Can you help me bring more men to work? I'll happily give you some of these lazy monsters that live around!
+No luck in finding the 500 Peasants and 8 Boars? Please hurry, I need help with my business!
+Finally, the 500 Peasants and 8 Boars that'll save my company! Here are some of those useless monsters!
+
+(77, 194, 1) ***Seer's Hut***
+Message:
+Times are getting hard underground... But if I had more manpower, I would yet grow my business! Can you help me bring more men to work? I'll happily give you some of these lazy monsters that live around!
+No luck in finding the 500 Peasants and 8 Boars? Please hurry, I need help with my business!
+Finally, the 500 Peasants and 8 Boars that'll save my company! Here are some of those useless monsters!
+
+(97, 217, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+units extra
+Message:
+
+
+(104, 120, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+(126, 106, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+(149, 120, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+Name:
+extra money
+Message:
+
+
+(143, 139, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+extra units - late
+Message:
+
+
+(127, 129, 1) ***Necromancer***
+Name:
+Fatality
+
+(186, 212, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+units extra
+Message:
+
+
+(130, 48, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+units extra
+Message:
+
+
+(187, 46, 1) ***Inferno***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(124, 202, 1) ***Inferno***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+(111, 133, 1) ***Necromancer***
+Name:
+Darkness
+
+===== End of file =====

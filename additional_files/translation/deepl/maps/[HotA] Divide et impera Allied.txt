@@ -1,0 +1,31 @@
+===== Map name =====
+Divide et Impera! (Allies)
+
+===== Map description =====
+They say that the rulers of the neighboring provinces do not trust you... What's more, they dream to get a portion of your land! Of course, you understand that this issue is not diplomatically solvable and best defense is the offense.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(32, 103, 1) ***Event***
+Message:
+Garrison was founded here a long time ago, in the times of the isolation policy. Strangely enough, the guards are in place. This is not a problem for you, of course.
+
+(102, 11, 1) ***Event***
+Message:
+Garrison was founded here a long time ago, in the times of the isolation policy. Strangely enough, the guards are in place. This is not a problem for you, of course.
+
+(97, 55, 1) ***Event***
+Message:
+Garrison was founded here a long time ago, in the times of the isolation policy. Strangely enough, the guards are in place. This is not a problem for you, of course.
+
+(10, 40, 1) ***Event***
+Message:
+Garrison was founded here a long time ago, in the times of the isolation policy. Strangely enough, the guards are in place. This is not a problem for you, of course.
+
+===== End of file =====

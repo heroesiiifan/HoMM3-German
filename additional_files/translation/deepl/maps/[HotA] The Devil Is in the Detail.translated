@@ -1,0 +1,632 @@
+===== Map name =====
+Der Teufel steckt im Detail
+
+===== Map description =====
+Während der letzten Jahrhunderte war dieses Land zwischen sechs Nationen aufgeteilt, die in Frieden koexistierten. Als sich Gerüchte über unterirdische Monster zu verbreiten begannen, wurde klar, dass die Welt nicht mehr lange so bleiben würde.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Starthilfe
+Message:
+Hilfe extra
+
+Name:
+Tag 1 - Willkommensnachricht
+Message:
+Dieses Land hat Ihrer Sippe gut gedient und wird genug Ressourcen liefern, um Ihre Grenzen zu erweitern. Der alte Prophet pflegte zu sagen: "Südliche Regionen sind reich, aber auch gefährlich".
+
+Name:
+Tag 1 - Willkommensnachricht
+Message:
+Dieses Land hat Eurer Sippe gute Dienste geleistet und wird genug Ressourcen bieten, um Eure Grenzen zu erweitern. Der alte Prophet pflegte zu sagen: Nördliche Regionen sind reich, aber auch gefährlich".
+
+Name:
+Tag 3
+Message:
+Der alte Prophet erzählte Ihnen von der mythischen Insel, von der man glaubt, dass sie das Zentrum von allem ist. Vor Jahrhunderten war sie eine Arena, in der Götter kämpften. Sie soll voll von Schätzen sein.
+
+Name:
+Hilfe
+Message:
+Hilfe
+
+Name:
+Tag 21
+Message:
+Der alte Prophet hat dir eine Geschichte über einen alten Gang erzählt, der vor Jahrhunderten zusammengebrochen ist. Gerüchte besagen, dass böse Mächte ein Portal gebaut haben, um aus dem Untergrund herauszukommen.
+
+Name:
+Tag 35
+Message:
+Ein alter Bergmann erzählte Ihnen von einem Unfall, den sein Team in einer Ihrer Minen hatte. Als sie zu tief gruben, wurden sie von einem Rudel Troglodyten angegriffen. Es scheint, als würden bereits böse Kreaturen unter der Erde lauern.
+
+Name:
+Tag 80
+Message:
+Auf der zentralen Insel befindet sich ein uralter Schrein. Manche sagen, dass man dort Runen finden kann, mit denen man lernen kann, sich zwischen verschiedenen Orten zu teleportieren!
+
+Name:
+Extra-Minuten
+Message:
+
+
+Name:
+Tag 240
+Message:
+Die Legionen der Hölle sind unzählig. Ihre Späher berichten, dass sie noch nie so viele Dämonen aus der Hölle kommen gesehen haben.
+
+===== Heroes =====
+
+===== Objects =====
+
+(42, 38, 0) ***Castle***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(120, 34, 0) ***Tower***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(210, 31, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(211, 226, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(124, 224, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(43, 224, 0) ***Cove***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(54, 178, 0) ***Cove***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(126, 180, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(238, 199, 0) ***Seer's Hut***
+Message:
+Willkommen bei der Gold Brothers Merchant Bank! Wir bieten tolle Renditen, wenn Sie bereit sind zu investieren.
+Oh je, das ist einfach nicht genug. Wir brauchen 10000 Gold. Ich werde keinen Cent verdienen, wenn ihr weniger bringt!
+Na endlich! Hier, gebt mir das Gold und seht zu, wie es vor Euren Augen wächst!
+
+(204, 179, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(208, 74, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(129, 73, 0) ***Tower***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(54, 75, 0) ***Castle***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(36, 88, 0) ***Seer's Hut***
+Message:
+Ich forsche an einem Weg, die ultimative Kriegsmaschine zu erschaffen, aber mir fehlen Materialien für meine Werkstatt.  Wenn Sie mir 20 Holz, 20 Quecksilber, 20 Erz, 20 Schwefel, 20 Kristall, 20 Edelsteine und 10000 Gold bringen könnten, wäre ich Ihnen sehr dankbar.
+
+(231, 98, 0) ***Seer's Hut***
+Message:
+Willkommen in der berühmtesten Taverne auf diesen Gewässern! Viele Reisende und Kaufleute besuchen uns. Der letzte war nicht sehr höflich, und wir haben ihn gezwungen, etwas für die Unordnung, die er angerichtet hat, zurückzulassen! Wenn Ihr mir etwas Gold gebt, werde ich es gerne an Euch weitergeben.
+
+(240, 50, 0) ***Seer's Hut***
+Message:
+Willkommen bei der Goldbrüder-Händlerbank! Wir bieten großartige Renditen, wenn Sie bereit sind, zu investieren.
+Oh je, das ist einfach nicht genug. Wir brauchen 10000 Gold. Ich werde keinen Cent verdienen, wenn ihr weniger bringt!
+Na endlich! Hier, gebt mir das Gold und seht zu, wie es vor Euren Augen wächst!
+
+(159, 25, 0) ***Seer's Hut***
+Message:
+Willkommen bei der Gold Brothers Merchant Bank! Wir bieten großartige Renditen, wenn Sie bereit sind, zu investieren.
+Oh je, das ist einfach nicht genug. Wir brauchen 10000 Gold. Ich werde keinen Cent verdienen, wenn ihr weniger bringt!
+Na endlich! Hier, gebt mir das Gold und seht zu, wie es vor Euren Augen wächst!
+
+(9, 49, 0) ***Seer's Hut***
+Message:
+Willkommen bei der Gold Brothers Merchant Bank! Wir bieten großartige Renditen, wenn Sie bereit sind, zu investieren.
+Oh je, das ist einfach nicht genug. Wir brauchen 10000 Gold. Ich werde keinen Cent verdienen, wenn ihr weniger bringt!
+Na endlich! Hier, gebt mir das Gold und seht zu, wie es vor Euren Augen wächst!
+
+(9, 194, 0) ***Seer's Hut***
+Message:
+Willkommen bei der Gold Brothers Merchant Bank! Wir bieten großartige Renditen, wenn Sie bereit sind, zu investieren.
+Oh je, das ist einfach nicht genug. Wir brauchen 10000 Gold. Ich werde keinen Cent verdienen, wenn ihr weniger bringt!
+Na endlich! Hier, gib mir das Gold und sieh es vor deinen Augen wachsen!
+
+(158, 202, 0) ***Seer's Hut***
+Message:
+Willkommen bei der Gold Brothers Merchant Bank! Wir bieten tolle Renditen, wenn Sie bereit sind zu investieren.
+Oh je, das ist einfach nicht genug.  Ich brauche 10000 Gold.  Ich werde keinen Cent verdienen, wenn Sie weniger bringen!
+Na endlich!  Hier, geben Sie mir die 10000 Gold und sehen Sie, wie es wächst!.
+
+(227, 152, 0) ***Seer's Hut***
+Message:
+Willkommen in der berühmtesten Taverne auf diesen Gewässern! Viele Reisende und Kaufleute besuchen uns. Der letzte war nicht sehr höflich, und wir haben ihn gezwungen, etwas für die Unordnung, die er angerichtet hat, zurückzulassen! Wenn Ihr mir etwas Gold gebt, werde ich es gerne an Euch weitergeben.
+
+(158, 153, 0) ***Seer's Hut***
+Message:
+Willkommen in der berühmtesten Taverne auf diesen Gewässern! Viele Reisende und Kaufleute besuchen uns. Der letzte war nicht sehr höflich, und wir haben ihn gezwungen, etwas für die Unordnung, die er angerichtet hat, zurückzulassen! Wenn Ihr mir etwas Gold gebt, werde ich es gerne an Euch weitergeben.
+
+(87, 173, 0) ***Seer's Hut***
+Message:
+Willkommen in der berühmtesten Taverne auf diesen Gewässern! Viele Reisende und Kaufleute besuchen uns. Der letzte war nicht sehr höflich, und wir haben ihn gezwungen, etwas für die Unordnung, die er angerichtet hat, zurückzulassen! Wenn Ihr mir etwas Gold gebt, werde ich es gerne an Euch weitergeben.
+
+(30, 91, 0) ***Seer's Hut***
+Message:
+Willkommen in der berühmtesten Taverne auf diesen Gewässern! Viele Reisende und Kaufleute besuchen uns. Der letzte war nicht sehr höflich, und wir haben ihn gezwungen, etwas für die Unordnung, die er angerichtet hat, zurückzulassen! Wenn Ihr mir etwas Gold gebt, werde ich es gerne an Euch weitergeben.
+
+(117, 93, 0) ***Seer's Hut***
+Message:
+Willkommen in der berühmtesten Taverne auf diesen Gewässern! Viele Reisende und Kaufleute besuchen uns. Der letzte war nicht sehr höflich, und wir haben ihn gezwungen, etwas für die Unordnung, die er angerichtet hat, zurückzulassen! Wenn Ihr mir etwas Gold gebt, werde ich es gerne an Euch weitergeben.
+
+(227, 75, 0) ***Seer's Hut***
+Message:
+Ich forsche an einem Weg, die ultimative Kriegsmaschine zu bauen, aber mir fehlen Materialien für meine Werkstatt.  Wenn Ihr mir 20 Holz, 20 Quecksilber, 20 Erze, 20 Schwefel, 20 Kristalle, 20 Edelsteine und 10000 Gold bringen könntet, wäre ich Euch sehr dankbar.
+
+(176, 62, 0) ***Seer's Hut***
+Message:
+Ich erforsche einen Weg, die ultimative Kriegsmaschine zu erschaffen, aber mir fehlen die Materialien für meine Werkstatt.  Wenn Ihr mir 20 Holz, 20 Quecksilber, 20 Erz, 20 Schwefel, 20 Kristall, 20 Edelsteine und 10000 Gold bringen könntet, wäre ich Euch sehr dankbar.
+
+(232, 171, 0) ***Seer's Hut***
+Message:
+Ich erforsche einen Weg, die ultimative Kriegsmaschine zu erschaffen, aber mir fehlen die Materialien für meine Werkstatt.  Wenn Ihr mir 20 Holz, 20 Quecksilber, 20 Erz, 20 Schwefel, 20 Kristall, 20 Edelsteine und 10000 Gold bringen könntet, wäre ich Euch sehr dankbar.
+
+(159, 162, 0) ***Seer's Hut***
+Message:
+Ich erforsche einen Weg, die ultimative Kriegsmaschine zu erschaffen, aber mir fehlen die Materialien für meine Werkstatt.  Wenn Ihr mir 20 Holz, 20 Quecksilber, 20 Erz, 20 Schwefel, 20 Kristall, 20 Edelsteine und 10000 Gold bringen könntet, wäre ich Euch sehr dankbar.
+
+(30, 161, 0) ***Seer's Hut***
+Message:
+Ich forsche an einem Weg, die ultimative Kriegsmaschine zu erschaffen, aber mir fehlen Materialien für meine Werkstatt.  Wenn Sie mir 20 Holz, 20 Quecksilber, 20 Erz, 20 Schwefel, 20 Kristall, 20 Edelsteine und 10000 Gold bringen könnten, wäre ich Ihnen sehr dankbar.
+
+(66, 104, 0) ***Castle***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(156, 90, 0) ***Tower***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(217, 97, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(202, 147, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(122, 154, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(52, 153, 0) ***Cove***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(28, 196, 0) ***Seer's Hut***
+Message:
+Liches bedrohen die südwestliche Region dieses Landes.  Wenn Ihr so kühn sein könntet, sie zu besiegen, würde ich Euch den Zauber "Boot beschwören" beibringen.
+
+(166, 202, 0) ***Seer's Hut***
+Message:
+Liches bedrohen die südwestliche Region dieses Landes.  Wenn Ihr so kühn sein könntet, sie zu besiegen, würde ich Euch den Zauber "Boot beschwören" beibringen.
+
+(244, 195, 0) ***Seer's Hut***
+Message:
+Liches bedrohen die südwestliche Region dieses Landes.  Wenn Ihr so kühn sein könntet, sie zu besiegen, würde ich Euch den Zauber "Boot beschwören" beibringen.
+
+(239, 44, 0) ***Seer's Hut***
+Message:
+Liches bedrohen die südwestliche Region dieses Landes.  Wenn Ihr so kühn sein könntet, sie zu besiegen, würde ich Euch den Zauber "Boot beschwören" beibringen.
+
+(157, 57, 0) ***Seer's Hut***
+Message:
+Liches bedrohen die südwestliche Region dieses Landes.  Wenn Ihr so kühn sein könntet, sie zu besiegen, würde ich Euch den Zauber "Boot beschwören" beibringen.
+
+(81, 55, 0) ***Seer's Hut***
+Message:
+Liches bedrohen die südwestliche Region dieses Landes.  Wenn Ihr so kühn sein könntet, sie zu besiegen, würde ich Euch den Zauber "Boot beschwören" beibringen.
+
+(240, 121, 0) ***Seer's Hut***
+Message:
+Meine Familie wurde vor vielen Jahren von einem bösen Nekromanten ausgelöscht. Bringen Sie mir meine Familie zurück und ich lehre Sie die mächtigste Magie, den "Auferstehungs"-Zauber!
+Kein Glück bei der Suche nach meinen Vorfahren?
+Endlich ist meine Familie wieder vereint! Bitte schließe Deine Augen, ich werde Dir echte Magie beibringen!
+
+(10, 125, 0) ***Seer's Hut***
+Message:
+Meine Familie wurde vor vielen Jahren von einem bösen Nekromanten ausgelöscht. Bring mir meine Familie zurück und ich werde dir die mächtigste Magie beibringen, den "Auferstehungs"-Zauber!
+Kein Glück bei der Suche nach meinen Vorfahren?
+Endlich ist meine Familie wieder vereint! Bitte schließe Deine Augen, ich werde Dir echte Magie beibringen!
+
+(111, 5, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(241, 7, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(247, 245, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(98, 247, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(10, 244, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(2, 14, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(125, 124, 1) ***Event***
+Message:
+Hölle
+
+(59, 15, 1) ***Seer's Hut***
+Message:
+Was ich habe, ist für Catherine allein. Ich werde es keinem anderen geben. Sie wurde gefangen genommen, aber ich habe versprochen, ihren Anteil zu behalten!
+Na endlich! Du bist es, Catherine. Hier ist, was ich für dich habe. Nehmt Ihr an?
+
+(136, 12, 1) ***Seer's Hut***
+Message:
+Was ich habe, ist nur für Dracon. Ich werde es keinem anderen geben. Er wurde gefangen genommen, aber ich habe versprochen, seinen Anteil zu behalten!
+
+(216, 12, 1) ***Seer's Hut***
+Message:
+Was ich habe, ist für Gelu allein. Ich werde es keinem anderen geben. Er wurde gefangen genommen, aber ich habe versprochen, seinen Anteil zu behalten!
+
+(39, 226, 1) ***Seer's Hut***
+Message:
+Was ich habe, ist für Bidley allein. Ich werde es keinem anderen geben. Er wurde inhaftiert, aber ich habe versprochen, seinen Anteil zu behalten!
+
+(157, 232, 1) ***Seer's Hut***
+Message:
+Was ich habe, ist für Kilgor allein. Ich werde es keinem anderen geben. Er wurde gefangen genommen, aber ich habe versprochen, seinen Anteil zu behalten!
+
+(227, 226, 1) ***Seer's Hut***
+Message:
+Was ich habe, ist für Adrienne allein. Ich werde es keinem anderen geben. Sie wurde verhaftet, aber ich versprach, ihren Anteil zu behalten!
+
+(110, 37, 1) ***Inferno***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(113, 136, 1) ***Necromancer***
+Name:
+Seuche
+
+(88, 42, 1) ***Seer's Hut***
+Message:
+Die Zeiten werden hart im Untergrund... Aber wenn ich mehr Arbeitskräfte hätte, würde ich mein Geschäft noch ausbauen! Könnt Ihr mir helfen, mehr Männer an die Arbeit zu bringen? Ich gebe Euch gerne ein paar von diesen faulen Monstern, die hier herumlaufen!
+Kein Glück bei der Suche nach den 500 Bauern und 8 Wildschweinen? Bitte beeilt Euch, ich brauche Hilfe bei meinem Geschäft!
+Endlich, die 500 Bauern und 8 Wildschweine, die meine Firma retten werden! Hier sind ein paar dieser nutzlosen Monster!
+
+(108, 120, 1) ***Necromancer***
+Name:
+Tod
+
+(126, 109, 1) ***Necromancer***
+Name:
+Untergang
+
+(144, 120, 1) ***Necromancer***
+Name:
+Grab
+
+(140, 135, 1) ***Necromancer***
+Name:
+Aussterben
+
+(116, 124, 1) ***Necromancer***
+Name:
+Kummer
+
+(109, 139, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+Name:
+Extra Einheiten - spät
+Message:
+
+
+Name:
+Geld
+Message:
+
+
+(157, 57, 1) ***Seer's Hut***
+Message:
+Die Zeiten werden hart im Untergrund... Aber wenn ich mehr Arbeitskräfte hätte, würde ich mein Geschäft noch ausbauen! Können Sie mir helfen, mehr Männer an die Arbeit zu bringen? Ich gebe dir gerne ein paar von den faulen Monstern, die hier leben!
+Kein Glück bei der Suche nach den 500 Bauern und 8 Wildschweinen? Bitte beeilt Euch, ich brauche Hilfe bei meinem Geschäft!
+Endlich, die 500 Bauern und 8 Wildschweine, die meine Firma retten werden! Hier sind ein paar dieser nutzlosen Monster!
+
+(225, 42, 1) ***Seer's Hut***
+Message:
+Die Zeiten werden hart im Untergrund... Aber wenn ich mehr Arbeitskräfte hätte, könnte ich mein Geschäft noch ausbauen! Könnt Ihr mir helfen, mehr Männer an die Arbeit zu bringen? Ich gebe Euch gerne ein paar von diesen faulen Monstern, die hier leben!
+Kein Glück bei der Suche nach den 500 Bauern und 8 Wildschweinen? Bitte beeilt Euch, ich brauche Hilfe bei meinem Geschäft!
+Endlich, die 500 Bauern und 8 Wildschweine, die meine Firma retten werden! Hier sind ein paar dieser nutzlosen Monster!
+
+(219, 184, 1) ***Seer's Hut***
+Message:
+Die Zeiten werden hart im Untergrund... Aber wenn ich mehr Arbeitskräfte hätte, könnte ich mein Geschäft noch ausbauen! Könnt Ihr mir helfen, mehr Männer an die Arbeit zu bringen? Ich gebe Euch gerne ein paar von diesen faulen Monstern, die hier leben!
+Kein Glück bei der Suche nach den 500 Bauern und 8 Wildschweinen? Bitte beeilt Euch, ich brauche Hilfe bei meinem Geschäft!
+Endlich, die 500 Bauern und 8 Wildschweine, die meine Firma retten werden! Hier sind ein paar dieser nutzlosen Monster!
+
+(166, 200, 1) ***Seer's Hut***
+Message:
+Die Zeiten werden hart im Untergrund... Aber wenn ich mehr Arbeitskräfte hätte, könnte ich mein Geschäft noch ausbauen! Könnt Ihr mir helfen, mehr Männer an die Arbeit zu bringen? Ich gebe Euch gerne ein paar von diesen faulen Monstern, die hier leben!
+Kein Glück bei der Suche nach den 500 Bauern und 8 Wildschweinen? Bitte beeilt Euch, ich brauche Hilfe bei meinem Geschäft!
+Endlich, die 500 Bauern und 8 Wildschweine, die meine Firma retten werden! Hier sind ein paar dieser nutzlosen Monster!
+
+(77, 194, 1) ***Seer's Hut***
+Message:
+Die Zeiten werden hart im Untergrund... Aber wenn ich mehr Arbeitskräfte hätte, könnte ich mein Geschäft noch ausbauen! Könnt Ihr mir helfen, mehr Männer an die Arbeit zu bringen? Ich gebe Euch gerne ein paar von diesen faulen Monstern, die hier leben!
+Kein Glück bei der Suche nach den 500 Bauern und 8 Wildschweinen? Bitte beeilt Euch, ich brauche Hilfe bei meinem Geschäft!
+Endlich, die 500 Bauern und 8 Wildschweine, die meine Firma retten werden! Hier sind ein paar von diesen nutzlosen Monstern!
+
+(97, 217, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Einheiten extra
+Message:
+
+
+(104, 120, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+Extra Einheiten - spät
+Message:
+
+
+(126, 106, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+Extra Einheiten - spät
+Message:
+
+
+(149, 120, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+Extra Einheiten - spät
+Message:
+
+
+Name:
+Extra Geld
+Message:
+
+
+(143, 139, 1) ***Necropolis***
+
+Timed events:
+
+Name:
+units
+Message:
+
+
+Name:
+Extra Einheiten - spät
+Message:
+
+
+(127, 129, 1) ***Necromancer***
+Name:
+Todesfall
+
+(186, 212, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Einheiten extra
+Message:
+
+
+(130, 48, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Einheiten extra
+Message:
+
+
+(187, 46, 1) ***Inferno***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(124, 202, 1) ***Inferno***
+
+Timed events:
+
+Name:
+Einheiten
+Message:
+
+
+(111, 133, 1) ***Necromancer***
+Name:
+Dunkelheit
+
+===== End of file =====

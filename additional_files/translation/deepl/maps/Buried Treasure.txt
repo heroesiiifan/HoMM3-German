@@ -1,0 +1,27 @@
+===== Map name =====
+Buried Treasure
+
+===== Map description =====
+The Titan's Gladius has finally been located after vanishing from this region for centuries. Unfortunately, you're not the only person with this information, and three other leaders have vowed to get there first!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro Hint (part 1)
+Message:
+According to the many scrolls and texts your sages have studied, the greatest clue, surprisingly, came from a children's story, 'Tim and the Terrible Titan.'
+
+Name:
+Intro Hint (part 2)
+Message:
+In this story, it is told that the great Cloud Titans would store their precious belongings below ground, to prevent them from accidentally falling to earth. But the story also talks of scary monsters and traps that the Titans use to guard their treasure. The Gladius MUST be underground!
+
+===== Objects =====
+
+(9, 58, 1) ***Titan's Gladius***
+Message:
+You reach for the Gladius, and Ten Terrible Titans appear out of thin air, just as was described in the story! If you want the Gladius you are clearly going to have to fight them. Do you stay and fight?
+
+===== End of file =====

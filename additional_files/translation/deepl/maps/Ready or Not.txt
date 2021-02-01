@@ -1,0 +1,29 @@
+===== Map name =====
+Ready or Not
+
+===== Map description =====
+A war is coming... ready or not.  Your enemies are charging... ready or not.  You'll have to win... ready or not.  Otherwise, they'll bury you... ready or not!
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(60, 35, 0) ***Fortress***
+Name:
+Cypris Place
+
+(28, 59, 0) ***Inferno***
+Name:
+Flame Tower
+
+(30, 13, 0) ***Rampart***
+Name:
+Wood Hill
+
+(36, 36, 0) ***Sign***
+Message:
+North - Wood Hill.  East - Cypris Place.  South - Flame Tower.
+
+===== End of file =====

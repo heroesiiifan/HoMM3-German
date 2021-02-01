@@ -1,0 +1,112 @@
+===== Map name =====
+The Newcomers
+
+===== Map description =====
+Over the past year there has been a tremendous growth problem. Twelve towns now crowd the already dense Magarian hills. The resources this land has given you are scarcely low. These new towns are taking away what is rightfully your land. You must join the fight and get rid of these towns.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro 1
+Message:
+For years this land has been a fountain of good fortune for all that lived on this corner of the nation of Antagarich. Over the past year there has been a tremendous growth problem. Once a spacious land with six towns and plenty of everything to go around has now become a jam-packed Mecca of massive mining operations. So big in fact that the resources are running scarce. Twelve towns now crowd the already dense Magarian hills. As one of the pioneers of this land, you won't stand for these cramped living conditions any longer. Your cattle no longer have land to graze in. The resources this land has given you are scarce. This land is rightfully yours. Your Forefathers claimed this land. These new towns are taking away what is rightfully yours. You must join the fight and get rid of these new towns. 
+
+Name:
+Day 2
+Message:
+What a fine day.  A light fog lays in the meadow of your town. You attempt to take a deep breath of clean mountain air. The foulest stench fills your nostrils and your eyes begin to water as you realize that this is not a light fog but a combination of smoke, soot, and the stench of burning sulfur. You look only to see smoke billowing from your neighboring town. You notice the smoke covers the entire meadow where your town lies.
+
+Name:
+Day 4
+Message:
+You order a runner to send a message to that town to tell them exactly how you feel about waking up to the rank order of burning sulfur day in and day out. You conclude your message by telling them if they don't stop the stench, you will.
+
+Name:
+Day 8
+Message:
+A messenger has just arrived to tell you that the influx of new towns is only going to grow larger and larger. They will stop at nothing. The messenger is noticeably favoring his left leg. You see a trail of bloody footprints and a small puddle of blood where he stands. 
+
+Name:
+Day 8 b
+Message:
+He breaks down and tells you the about the horrific beasts that dwell in the new towns. "A vicious beast with deep dark eyes grappled and attacked me on the way here." With his face in his hands he cried.  As you begin to dress his wounds, he tells you the plans of the new towns. They are planning for an all out war to take over this land.
+
+Name:
+Day 8 c
+Message:
+He continued between his tears, "They are allowing NO ONE into their town boundaries without a fight. These towns are very secretive. They leave no trace of where they travel. They have control of most of the mines but leave them unmarked and heavily guarded. It seems they send out no troops but somehow continue their mining operations. 
+
+Name:
+Day 8 d
+Message:
+They want no one to know who, or even what, they are. They must be stopped at once! Otherwise they will surely starve us out or kill us off in battle. I suggest we prepare for war." You commend the boy's bravery for getting the information you need. You finish dressing his seriously wounded leg. He stands up and is able to walk. You send home to deliver the news to the town troops. 
+
+===== Objects =====
+
+(19, 13, 0) ***Event***
+Message:
+A bitter cold breeze blows across your face. Your lungs freeze as you breathe in the cold mountain air.  The reflection of the sun from the gorgeous snow-covered landscape is almost blinding. You squint your eyes to get a good look around. By the odor in the air, you know that a mining town is nearby.
+
+(14, 16, 0) ***Event***
+Message:
+A sulfur dune lies at the end of the path. It looks to be unclaimed but does not look abandoned. You look for any clues of anyone being here lately. There are old footprints in the sulfur that look only days old.  You remember what the messenger had said about the unmarked, guarded mines.  
+
+(2, 19, 0) ***Event***
+Message:
+As you stare off into the distance at your new neighbor town your hands clench quickly into fists. The rancid cloud of stench is coming from that heap of twisted evil that has done nothing but defile your lands. Your horse looks at the smoke, snorts, and finds a good patch of grass to munch on. It is time to end this once and for all. 
+
+(24, 25, 0) ***Event***
+Message:
+You've always considered yourself an adventurer and finally it has paid off. 
+
+(33, 21, 0) ***Event***
+Message:
+As a child you remember coming here with your father every winter to play in the snow. Back then you planned to bring your children here to continue the tradition. Those plans have been ruined forever. This mining town has destroyed your place of a million wonderful memories. 
+
+(15, 15, 0) ***Event***
+Message:
+
+
+(26, 17, 0) ***Event***
+Message:
+
+
+(25, 14, 0) ***Event***
+Message:
+
+
+(12, 6, 1) ***Event***
+Message:
+
+
+(7, 3, 1) ***Event***
+Message:
+
+
+(4, 10, 1) ***Event***
+Message:
+
+
+(0, 23, 1) ***Event***
+Message:
+
+
+(31, 17, 1) ***Event***
+Message:
+
+
+(8, 27, 1) ***Event***
+Message:
+
+
+(14, 28, 1) ***Event***
+Message:
+
+
+(18, 34, 1) ***Event***
+Message:
+
+
+===== End of file =====

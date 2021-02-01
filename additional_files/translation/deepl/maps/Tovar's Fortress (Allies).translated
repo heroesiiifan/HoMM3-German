@@ -1,0 +1,73 @@
+===== Map name =====
+Tovar's Festung (Alliierte)
+
+===== Map description =====
+Tovar der Pirat, Tovar der Plünderer und jetzt Tovar der Tote.  Es geht das Gerücht um, dass der berüchtigte Tovar tot ist und sein Vermögen in seiner Festung zur Disposition steht. Die örtlichen Lords wollen es haben, aber wer wird der erste sein, der es erreicht?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ereignis des ersten Tages.
+Message:
+Das Gerangel um den ersten Zugang zu Tovars Schatz (der in seiner Burg versteckt ist) hat begonnen.  Seien Sie gewarnt, dass sich zwei Dungeon Overlords (früher mit Tovar verbündet) in den Kampf eingeschaltet haben, also passen Sie gut auf.
+
+Name:
+Investoren tragen bei.
+Message:
+Investoren spenden Geld in der Hoffnung, ein Stück von Tovars Kuchen abzubekommen.
+
+Name:
+Bonus-Ressourcen für den Computer.
+Message:
+Die U-Bahn-Lords erhalten einen Bonus, weil ihre Untertanen so hart arbeiten.
+
+Name:
+Späher berichten über den Untergrund.
+Message:
+Späher berichten, dass sich die Dungeon Overlords in ihren Kavernen verbarrikadiert haben, so dass keine Armee eindringen kann, so dass man ohne Zaubersprüche nicht in ihre Schlösser gelangen kann (aber natürlich wissen sie, wie man herauskommt).  Späher berichten außerdem von einem Gerücht, dass Tovar nicht wirklich tot ist, sondern sich nur versteckt.
+
+Name:
+Bericht des Beraters.
+Message:
+Basierend auf den Berichten der Späher raten Ihnen Ihre Berater, den Versuch zu vergessen, die Unterweltfürsten (oder irgendeinen anderen Fürsten) zu erledigen und nur zu versuchen, zu Tovars Festung zu gelangen, wo sein Schatz (und der Sieg) wartet.  
+
+===== Objects =====
+
+(48, 46, 0) ***Event***
+Message:
+Sieht so aus, als hätte Tovar einige seiner Schätze nicht sehr gut vergraben!
+
+(49, 37, 0) ***Event***
+Message:
+Tovars Lakaien greifen an!
+
+(45, 32, 0) ***Event***
+Message:
+Sieht so aus, als hätte Tovar einige seiner Schätze nicht sehr gut vergraben!
+
+(47, 39, 0) ***Knight***
+Name:
+Tovar
+Biography:
+Logain der Pirat, Geißel der neun Meere.  Sein Lieblingsspruch:  "Dein Geld oder deine Arme und Beine, es ist mir egal, ich nehme beides". Unnötig zu erwähnen, dass Logain sich einen Namen als einer der reichsten Piraten in diesem Teil der Welt gemacht hat.  
+
+(63, 39, 0) ***Event***
+Message:
+Ein betrunkener Pirat stolziert auf Sie zu und sagt  "Gooods...dass du hier bist, bedeutet, dass Tovar besiegt ist, ich bin raus hier".  Damit fällt der Kerl in Ohnmacht.  Da Sie davon ausgehen, dass niemand hinsieht, plündern Sie die Leiche. 
+
+(63, 38, 0) ***Fortress***
+Name:
+Tovar's Festung
+
+(24, 15, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Ressourcen-Bonus.
+Message:
+Dies ist ein Ressourcenbonus von den Untergrundherren.
+
+===== End of file =====

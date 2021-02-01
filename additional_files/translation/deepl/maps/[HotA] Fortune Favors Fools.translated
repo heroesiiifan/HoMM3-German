@@ -1,0 +1,82 @@
+===== Map name =====
+Das Glück begünstigt die Narren
+
+===== Map description =====
+Du warst schon immer ein bisschen dumm. Für einen erstgeborenen Sohn ist das bedauerlich. Da Ihr Vater nicht akzeptieren konnte, dass sein Erbe ein Taugenichts ist, handelte er eine Ernennung für Sie aus. Diese schöne Domäne sollst du regieren; die einzige Aufgabe ist: "Versaue es nicht". Das klingt nicht schwer, aber Sie haben eine Vorgeschichte.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 36, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Brumm-Bonus
+Message:
+Du hast keine Ahnung, woher all diese Sachen und Männer kommen. Der Haushofmeister des Bergfrieds, ein faltiger alter Magier, tut sein Bestes, um Ihnen nicht in die Augen zu schauen.
+
+(7, 66, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Brumm-Bonus
+Message:
+Ihre Soldaten behaupten, sie hätten eine feindliche Stadt geplündert und dabei eine schöne Beute gemacht. Klingt plausibel, nur irgendwie haben sie keinen einzigen Mann verloren, sondern sind im Gegenteil in größerer Zahl zurückgekehrt. Na ja.
+
+(67, 8, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Brumm-Bonus
+Message:
+Der oberste Nekromant der Stadt verkündet, dass er einen Weg gefunden hat, mehr Tote zu erwecken und gleichzeitig Geld zu sparen. Was für eine äußerst glückliche Wendung der Ereignisse, schließen Sie.
+
+(3, 16, 0) ***Conflux***
+
+Timed events:
+
+Name:
+Brumm-Bonus
+Message:
+Sie haben keine Ahnung, woher all diese Sachen und Männer kommen. Der Haushofmeister des Bergfrieds, ein runzliger alter Magier, tut sein Bestes, um Ihnen nicht in die Augen zu sehen.
+
+(32, 4, 0) ***Castle***
+
+Timed events:
+
+Name:
+Brumm-Bonus
+Message:
+Ein Nachbarfürst kommt Sie besuchen und behauptet, er müsse eine Schuld zurückzahlen. Sie können sich nicht erinnern, ihm etwas geliehen zu haben, aber es wäre zu dumm, kostenloses Geld und Truppen abzulehnen, selbst für Sie.
+
+(60, 38, 0) ***Castle***
+
+Timed events:
+
+Name:
+Brumm-Bonus
+Message:
+Ein Nachbarfürst kommt zu Besuch und behauptet, er müsse eine Schuld zurückzahlen. Sie können sich nicht erinnern, ihm etwas geliehen zu haben, aber es wäre zu dumm, kostenloses Geld und Truppen abzulehnen, selbst für Sie.
+
+(48, 67, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Human-Bonus
+Message:
+Ein Kobold, den Sie bei Ihrem Morgenspaziergang getroffen haben, besteht darauf, dass Sie seinen Cache annehmen und verschwindet, bevor Sie den Topf öffnen können. Er ist voll mit frisch geprägten Münzen und glänzendem Schmuck. Was für eine anständige kleine Kreatur. Oh, und Sie treffen ein paar Freiwillige auf Ihrem Heimweg. Was für ein Tag!
+
+(33, 23, 0) ***Pandora's Box***
+Message:
+"Mumien sind nicht immer nett, aber Daddy schon. Hier, ein paar Freunde für dich." Gezeichnet: D.
+
+===== End of file =====

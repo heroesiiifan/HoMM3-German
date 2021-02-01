@@ -112,3 +112,7 @@ Ausgefransten Bereichs-Radierer auswählen	Ausgefranster Bereichs-Radierer
 Hindernisse in markierten Bereichen platzieren	Hindernisse platzieren
 Den Fluss-Radierer auswählen	Fluss-Radierer
 Den Straßen-Radierer auswählen	Straßen-Radierer
+Terraintyp Hochland wählen	Hochland
+Hochland-Objekte platzieren	Hochland-Objekte
+Terraintyp Einöde wählen	Einöde
+Einöde-Objekte platzieren	Einöde-Objekte

@@ -1,0 +1,41 @@
+===== Map name =====
+Ein warmer und familiärer Ort
+
+===== Map description =====
+Ein Wettbewerb zwischen zwei niederen Lords der Hölle hat begonnen, um König der Familiars zu werden.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Die Herausforderung
+Message:
+Dich und deinen Gegner hat es gejuckt, eine Lücke in der Hierarchie der Höllenarmeen zu füllen.  Es gibt keinen Herrscher über die niederen dämonischen Horden.  Sie haben sich entschieden, diese Rolle zu übernehmen und König der Familiars zu werden.		Um die Herren der Hölle um einen solchen Posten zu bitten, musst du die Unterstützung derer haben, die du kontrollieren willst.  Sie werden Euch nicht ernst nehmen, wenn Ihr nicht beweisen könnt, dass Euch eine halbe Legion von Kobolden zur Verfügung steht.  Nun, 500 Familiars sollten leicht zu beschaffen sein, oder?
+
+Name:
+Tribut
+Message:
+Die Götter der Hölle verlangen Tribut.  Die Zahlung ist obligatorisch, andernfalls werden Qualen ausgeteilt.
+
+===== Heroes =====
+
+===== Objects =====
+
+(8, 4, 0) ***Familiar***
+Message:
+Wir bewachen das Tor zwischen den Ebenen der Hölle.  Hinter uns liegt der Herr, gegen den Ihr um den Titel des Herrn der Kobolde kämpft.  Nehmt euch in Acht, denn er ist ein gerissener Mann.  Stell dich ihm auf eigene Gefahr.
+
+(2, 23, 0) ***Event***
+Message:
+Ein unheimliches Gefühl, dass Sie beobachtet werden, ist hier unerschütterlich.  Warum das so ist, wissen Sie nicht, aber das Gefühl will einfach nicht verschwinden.
+
+(30, 3, 1) ***Familiar***
+Message:
+Wir bewachen die Pforte zwischen den Ebenen der Hölle.  Hinter uns liegt der Herr, gegen den Ihr um den Titel des Herrn der Kobolde kämpft.  Nehmt euch in Acht, denn er ist ein gerissener Mann.  Stell dich ihm auf eigene Gefahr.
+
+(32, 18, 1) ***Event***
+Message:
+Du spürst, wie dir ein kalter Schauer den Rücken hinaufläuft.  Sie haben das Gefühl, dass Sie beobachtet werden.
+
+===== End of file =====

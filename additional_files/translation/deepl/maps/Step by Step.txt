@@ -1,0 +1,13 @@
+===== Map name =====
+Step by Step
+
+===== Map description =====
+A harsh winter has separated what once was your kingdom.  Now that the winter is over, it is time to take your kingdom back, step by step.  
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+===== End of file =====

@@ -1,0 +1,22 @@
+===== Map name =====
+Jihad
+
+===== Map description =====
+All of your six neighbors have declared a Jihad against you and each other, but you have been patient until the signs, omens and priests have agreed it is the proper time.  Now you have declared the seventh and final Jihad against your enemies.  You will sweep them away like a vast desert sandstorm.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Your enemies have existed long enough.  Sweep them from the sands.
+
+===== Objects =====
+
+(0, 35, 1) ***Sign***
+Message:
+Proceed to Cover of Darkness.
+
+===== End of file =====

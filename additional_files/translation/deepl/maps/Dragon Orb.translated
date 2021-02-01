@@ -1,0 +1,120 @@
+===== Map name =====
+Drachenkugel
+
+===== Map description =====
+Die Drachenlords in dieser Region werden den Herrscher unterstützen, der die Sphäre der Beständigkeit findet oder alle anderen Lords in diesem Reich besiegt.  In jedem Fall werden Sie der wahre Herrscher dieses Landes werden. 
+
+===== Rumors =====
+
+Name:
+Gral-Gerücht
+Text:
+Der Gral befindet sich irgendwo im Dragon's Orb.
+
+===== Timed events =====
+
+Name:
+Ereignis des ersten Tages.
+Message:
+Die Drachenfürsten schicken Ihnen eine Nachricht, die besagt, dass die Sphäre der Permanenz irgendwo im Südwesten vermutet wird.
+
+Name:
+Extra Gold.
+Message:
+Die Drachenlords schicken Ihnen ein Geschenk.
+
+===== Objects =====
+
+(23, 56, 0) ***Sphere of Permanence***
+Message:
+Golddrachen tauchen aus dem Wald auf und fordern dich zum Besitz der Sphäre heraus.  Kämpfen Sie gegen sie?
+
+(64, 22, 0) ***Crystal***
+Message:
+Drachen stürzen herab und fordern dich für den Kristall heraus.  Kämpfen Sie gegen sie?
+
+(63, 22, 0) ***Crystal***
+Message:
+Drachen stürzen herab und fordern Sie für den Kristall.  Kämpfen Sie gegen sie?
+
+(64, 23, 0) ***Crystal***
+Message:
+Drachen stürzen herab und fordern dich für den Kristall heraus.  Kämpfen Sie gegen sie?
+
+(63, 23, 0) ***Crystal***
+Message:
+Drachen stürzen herab und fordern dich für den Kristall heraus.  Kämpfen Sie gegen sie?
+
+(67, 20, 0) ***Sulfur***
+Message:
+Drachen stürzen herab und fordern dich für den Schwefel heraus, bekämpfst du sie?
+
+(68, 20, 0) ***Sulfur***
+Message:
+Drachen stürzen herab und fordern dich für den Schwefel heraus, bekämpfst du sie?
+
+(68, 21, 0) ***Sulfur***
+Message:
+Drachen stürzen herab und fordern dich für den Schwefel heraus, kämpfst du gegen sie?
+
+(67, 21, 0) ***Sulfur***
+Message:
+Drachen stürzen herab und fordern dich für den Schwefel heraus, kämpfst du gegen sie?
+
+(69, 17, 0) ***Mercury***
+Message:
+Drachen stürzen herab und fordern dich für das Quecksilber heraus.  Willst du gegen sie kämpfen?
+
+(70, 17, 0) ***Mercury***
+Message:
+Drachen stürzen herab und fordern dich für das Quecksilber heraus.  Möchten Sie mit ihnen darum kämpfen?
+
+(69, 18, 0) ***Mercury***
+Message:
+Drachen stürzen herab und fordern Euch für das Quecksilber heraus.  Möchten Sie mit ihnen darum kämpfen?
+
+(70, 18, 0) ***Mercury***
+Message:
+Drachen stürzen sich auf Sie und fordern Sie für das Quecksilber heraus.  Möchten Sie mit ihnen darum kämpfen?
+
+(69, 13, 0) ***Gems***
+Message:
+Drachen stürzen herab und fordern dich für die Edelsteine heraus.  Willst du mit ihnen darum kämpfen?
+
+(70, 13, 0) ***Gems***
+Message:
+Drachen stürzen herab und fordern dich für die Edelsteine heraus.  Willst du gegen sie kämpfen?
+
+(69, 14, 0) ***Gems***
+Message:
+Drachen stürzen herab und fordern dich für die Edelsteine heraus.  Willst du gegen sie kämpfen?
+
+(70, 14, 0) ***Gems***
+Message:
+Drachen stürzen herab und fordern dich für die Edelsteine heraus.  Willst du gegen sie kämpfen?
+
+(8, 24, 0) ***Red Dragon Flame Tongue***
+Message:
+Wenn du durch den Monolithen schreitest, entdeckst du die Flammenzunge des Roten Drachens, die auf einem Sockel ruht.  Obwohl sie nicht dein Ziel ist, wird dir dieses Artefakt sicherlich bei deiner Suche helfen.
+
+(41, 62, 0) ***Sandals of the Saint***
+Message:
+Wenn Sie den Monolithen durchschreiten, sehen Sie die Sandalen des Heiligen auf einem Sockel ruhen.  Obwohl dies nicht Ihr Ziel ist, wird Ihnen dieses Artefakt bei Ihrer Suche sicherlich nützlich sein.
+
+(47, 43, 0) ***Pandora's Box***
+Message:
+Diese seltsame, verschnörkelte Kiste ist mit Schnitzereien von ineinander verschlungenen geflügelten Schlangen verziert.
+
+(51, 52, 0) ***Pandora's Box***
+Message:
+Offenbar wird diese Kiste von einer kleinen Gruppe Grüner Drachen bewacht.
+
+(52, 51, 0) ***Event***
+Message:
+Sie sehen Drachen im Südwesten.
+
+(61, 46, 1) ***Event***
+Message:
+Diese unterirdische Kaverne stinkt nach Drachen.
+
+===== End of file =====

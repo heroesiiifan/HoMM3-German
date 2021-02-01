@@ -1,0 +1,13 @@
+===== Map name =====
+Times Up
+
+===== Map description =====
+For years and years the people of this land have been on the brink of war.  Now the time has come.  Eliminate your enemies and take control of the land that longs to be yours. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+===== End of file =====

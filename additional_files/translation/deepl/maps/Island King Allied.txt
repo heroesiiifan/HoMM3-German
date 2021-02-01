@@ -1,0 +1,45 @@
+===== Map name =====
+Island King (Allies)
+
+===== Map description =====
+The king has died.  He left seven sons and each of them feels entitled to the throne.  The rivalry between them is heating up to a battle rage as they gather their supporters and rally them to their causes.  The kingdom will surely fragment if the issue of the succession is not decided soon.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+The king has suddenly died without having designated an heir.  He leaves seven sons, all the same age and each born from a different wife in the late king's harem.  Each son feels entitled to the throne, and there is no love lost between them.  Their rivalry has quickly heated up to a battler age as the princes gather their supporters and rally them to their causes. The kingdom will surely fragment if the issue of the succession is not decided soon.
+
+===== Heroes =====
+
+===== Objects =====
+
+(55, 50, 0) ***Pandora's Box***
+Message:
+
+
+(26, 31, 0) ***Pandora's Box***
+Message:
+
+
+(60, 5, 0) ***Pandora's Box***
+Message:
+
+
+(56, 91, 0) ***Pandora's Box***
+Message:
+
+
+(58, 75, 0) ***Pandora's Box***
+Message:
+
+
+(35, 96, 0) ***Quest Guard***
+Message:
+This gold mine is very dangerous inside.  The guards eye you dubiously but agree to let you by when you have achieved the experience level 11.
+The guards here simply will not permit anyone below level 11 to pass.
+
+===== End of file =====

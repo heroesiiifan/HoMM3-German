@@ -1,0 +1,206 @@
+===== Map name =====
+Talentmangel
+
+===== Map description =====
+Sir Mullichs Schauspiel wurde alt. Am Morgen, nachdem der berüchtigte Ritter einen weiteren Gewaltausbruch hatte, wachte er in einem leeren Schloss auf. Seine Leute packten zusammen und reisten mitten in der Nacht ab, gerade als Mullich einen Auftrag zur Schädlingsbekämpfung im königlichen Landhaus erhielt...
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+01 - Beschlagnahmung von Ressourcen
+Message:
+Mullich war noch wütender als sonst. Die fliehenden Soldaten nahmen alles mit, was sie tragen konnten. Es gab niemanden mehr im Schloss. Diener, Stallburschen, Schmiede, die jahrhundertealte Haushälterin, fast alle machten sich aus dem Staub. Der einzige, der blieb, war David, der Knappe, den Mullich am Vortag an einen Pfahl binden ließ, nachdem der Kerl einen Schinken aus der Speisekammer des Hausherrn gestohlen hatte. Der Junge hatte sich auf eine Reihe mieser Tage eingestellt, denn Mullich würde das alles an ihm auslassen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(27, 9, 0) ***Quest Guard***
+Message:
+Der Zutritt kostet Sie 10 Kristalle, nicht weniger.
+Sie haben keine 10 Kristalle übrig? Eine Schande! Und du wagst es, dich einen Ritter zu nennen!
+Gib mir die Kristalle und verschwinde. Ich habe es langsam satt, hier zu faulenzen.
+
+(50, 10, 0) ***Seer's Hut***
+Message:
+Ihre Schützen können sich hier in schwere Infanterie verwandeln.
+Keine Schützen in deiner Armee? Was ist das überhaupt für eine Armee?!
+Sollen wir unser Schwerttraining beginnen?
+
+(49, 10, 0) ***Event***
+Message:
+Gerade als Mullich dachte, das wäre genug Untote für heute Abend...
+
+(58, 16, 0) ***Seer's Hut***
+Message:
+Wollt Ihr das Geheimnis wissen, wie man von Natur aus stark ist? Du wirst nicht einmal mehr diesen Ring brauchen, den ich als meine Bezahlung einfordern werde...
+Ring der Vitalität. Es ist ein hübsches goldenes Schmuckstück. Macht weiter mit Eurer Suche.
+Gebt mir den Ring, und ich verpasse euren Jungs eine schöne Übung.
+
+(46, 2, 0) ***Event***
+Message:
+Die Strapazen des Tages brachten Mullich einige neue Erkenntnisse.
+
+(27, 23, 0) ***Event***
+Message:
+Die Strapazen des Tages brachten Mullich einige neue Erkenntnisse.
+
+(6, 3, 0) ***Castle***
+Name:
+Stadt
+
+(16, 26, 0) ***Seer's Hut***
+Message:
+Na, haben Sie sich endlich entschlossen, Ihren Männern etwas Eindrucksvolleres als Stöcke und Beile zu geben? Dann seid Ihr hier genau richtig...
+Habt Ihr Eure Hellebarde verlegt?!
+Sollen wir mit der Umschulung weitermachen?
+
+(27, 2, 0) ***Seer's Hut***
+Message:
+Wenn Ihr Eure Schussrate erhöhen wollt, müsst Ihr doppelt so viel Arbeit investieren...
+Habt Ihr Euren Bogenschützen verlegt?!
+Bereit, sich die Hände schmutzig zu machen, Junge?
+
+(44, 22, 0) ***Quest Guard***
+Message:
+Hey, ich bin's wieder. Ich nehme dieses Mal 10 Edelsteine.
+Du hast keine 10 Edelsteine übrig? Das ist eine Schande! Und du wagst es, dich einen Ritter zu nennen!
+Wir werden uns wiedersehen...
+
+(51, 2, 0) ***Seer's Hut***
+Message:
+Wir helfen ehemaligen Sündern, sich zu bessern und einen rechtschaffenen Weg im Leben zu finden. Wenn du einem begegnest, bring ihn hierher.
+Wo ist der Schurke?
+Wusstet Ihr, dass Euer Schurke ein Elf ist? Wir geben ihm einen Bogen, er wird gut damit umgehen können.
+
+(9, 44, 0) ***Seer's Hut***
+Message:
+Kommen Sie zu unserem Umrüstungsprogramm! Wir bieten leichtere Schwerter, stabilere Rüstungen und schönere Buc... Helme!
+Wir werden keine Rüstung an irgendeinen beliebigen Stümper ausgeben. Bringt einen erfahrenen Schwertkämpfer mit.
+Hier ist Eure neue Ausrüstung, bitte unterschreibt hier. Das bedeutet auch, dass Ihr Euch sofort zu melden habt, wenn ein Kreuzzug gestartet wird.
+
+(37, 5, 0) ***Event***
+Message:
+Die Strapazen des Tages brachten Mullich einige neue Erkenntnisse.
+
+(1, 35, 0) ***Event***
+Message:
+Die Strapazen des Tages bescherten Mullich einige neue Erkenntnisse.
+
+(12, 38, 0) ***Event***
+Message:
+Die Strapazen des Tages brachten Mullich neue Erkenntnisse.
+
+(12, 34, 0) ***Quest Guard***
+Message:
+Wir können Ihnen nutzlosen Schrott abnehmen. Nun, Ihr würdet es vielleicht als nutzlos bezeichnen, aber wir hoffen, dass wir es gut wiederverwenden können. Hier ist, was wir suchen.
+Ein Helm, ein Schild, ein Brustpanzer und eine Schärpe. Soll ich Ihnen eine Liste schreiben?
+Habt ihr alles bekommen? Oh toll, lade alles hier ab! Ihr müsst erschöpft sein, um so einen Haufen überschüssiger Ausrüstung zu tragen.
+
+(13, 33, 0) ***Event***
+Message:
+Oh, sieh mal, sind das nicht Mullichs ehemalige Truppe? Es hat nicht lange gedauert, bis sie ohne richtige Führung ins Schleudern geraten sind, und es scheint, dass sie hoffen, ihre Verluste durch ihren ehemaligen Kommandanten wieder auszugleichen.
+
+(50, 17, 0) ***Event***
+Message:
+Ein Dieb, den Mullich beim Abtasten seines leeren Geldbeutels erwischte, wurde gezwungen, sich der Sache des Ritters zu verschreiben; die einzige andere Möglichkeit war die sofortige Hinrichtung.
+
+(28, 10, 0) ***Event***
+Message:
+Die Strapazen des Tages brachten Mullich einige neue Erkenntnisse.
+
+(44, 44, 0) ***Seer's Hut***
+Message:
+Wir sind ein kämpferischer Orden. Wäre Ihr Kreuzritter daran interessiert, sich uns anzuschließen?
+Gibt es niemanden, der bereit ist, den monastischen Weg zu gehen?
+Hier ist eine schöne Soutane für unseren neuen Bruder!
+
+(33, 5, 0) ***Event***
+Message:
+Ein Blitzschlag lässt Mullichs Haare zu Berge stehen. Er spürt, wie eine neue Erkenntnis unter seinem Schädel brodelt.
+
+(9, 53, 0) ***Event***
+Message:
+Oh, wie süß! Diese Drachen haben hier ein Date. Schade, dass sie wirklich keine Aufmerksamkeit mögen.
+
+(2, 49, 0) ***Seer's Hut***
+Message:
+Ich glaube, ich habe einen Weg gefunden, Männer zu segnen, die keine angeborenen magischen Fähigkeiten haben. Ich möchte ein Experiment durchführen, aber ich fürchte, es fehlt mir ein geeignetes Subjekt. Habt Ihr zufällig einen Elfen zu entbehren? Ich werde ihn nicht brechen, versprochen!
+Einen Elfen! Ich brauche einen Elfen!
+Ich hoffe, es macht deiner Elfe nichts aus, an meinem Experiment teilzunehmen. Die Sache ist die... es hat einen eher ungewöhnlichen Nebeneffekt.
+
+(10, 52, 0) ***Seer's Hut***
+Message:
+Modische blaue Soutanen und Strombolzen! Nur für vornehme Geistliche.
+Wir bedienen nur den Klerus!
+Treten Sie vor, hier ist Ihr neues Gewand. Versuchen Sie bitte, keine Bolzen ins Haus zu schleudern, ja?
+
+(43, 8, 0) ***Seer's Hut***
+Message:
+Die Axt eines Zentauren? Wozu brauchst du diesen Haufen Eisen? Gib es mir, und ich gebe dir im Gegenzug etwas Nettes.
+Es ist eine Axt. Groß und ziemlich unhandlich. Gib sie mir.
+Hier ist sie! Sollen wir tauschen?
+
+(32, 9, 0) ***Seer's Hut***
+Message:
+Ich habe von einem weisen Mann gehört, dass eine bestimmte Zugschnur, die vom Bogen abgetrennt wurde, Euch hilft, viel besser zu schießen!
+Die Wahl liegt bei Euch...
+Sollen wir sie abreißen?
+
+(33, 60, 0) ***Seer's Hut***
+Message:
+Sie fragen sich, wie unser Baum unversehrt in einem Flammenmeer steht? Nun, wir sind Meister des Elements Wasser, und Feuer kann uns nichts anhaben. Wollt ihr diesen Trick lernen? Dann bringt uns eine Hexe.
+Nur eine Hexe kann unsere komplizierten Zaubertricks beherrschen.
+Hier ist unser Mädchen! Bist du bereit, befördert zu werden?
+
+(38, 54, 0) ***Event***
+Message:
+Dieser Schrein wird doch bewacht! Zu den Waffen!!!
+
+(40, 45, 0) ***Quest Guard***
+Message:
+Ich bin ein Sammler, der sich für Raritäten interessiert, die im Stil des "Graveyard Empire" gefertigt wurden. Ich habe gehört, dass es hier in der Gegend einige solcher Dinge zu finden gibt. Würden Sie sie mir bitte bringen?
+Totenköpfe, Knochen, Verfall und Verzweiflung. Das ist es, wonach ich suche.
+Oh, Gott segne Sie! Meine Sammlung ist jetzt komplett! Möchten Sie weitergeben?
+
+(36, 56, 0) ***Event***
+Message:
+Die Strapazen des Tages brachten Mullich einige neue Erkenntnisse.
+
+(26, 34, 0) ***Event***
+Message:
+
+
+(33, 61, 0) ***Event***
+Message:
+Im Nachhinein war es dumm zu hoffen, dass niemand aus einem Flammenmeer wie diesem herausspringen würde. Nun, siehe da.
+
+(19, 39, 1) ***Event***
+Message:
+Die Strapazen des Tages brachten Mullich einige neue Erkenntnisse.
+
+(14, 33, 1) ***Seer's Hut***
+Message:
+Ich wurde vor vielen Jahren in die Unterwelt verbannt, nachdem ich den Prinzen in einem Bogenschießwettbewerb besiegt hatte. Ich war wirklich gut und würde gerne das, was von meinem Talent übrig geblieben ist, an einen jüngeren Elfen weitergeben.
+Beeilt euch, bringt mir einen Elfen! Ich werde nicht ewig leben!
+Na endlich! Hier, nimm meinen Bogen und meine Rüstung, und verpass dem Bastard von Prinz einen Pfeil in den Bauch, falls du ihm jemals begegnen solltest!
+
+(36, 28, 1) ***Quest Guard***
+Message:
+Hier könnt Ihr lernen, mit großer Genauigkeit zu schießen.
+Hier könnt Ihr lernen, mit großer Genauigkeit zu schießen. Wählen Sie weise!
+Möchten Sie lernen, gut zu schießen?
+
+(35, 32, 1) ***Quest Guard***
+Message:
+Hier können Sie lernen, im doppelten Takt zu marschieren.
+Hier können Sie lernen, im doppelten Takt zu marschieren. Wählen Sie mit Bedacht!
+Möchten Sie lernen, schnell zu marschieren?
+
+(34, 30, 1) ***Sign***
+Message:
+Sie können hier lernen, gut zu schießen oder schnell zu marschieren, aber nicht beides.
+
+===== End of file =====

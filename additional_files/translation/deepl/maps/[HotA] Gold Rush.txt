@@ -1,0 +1,129 @@
+===== Map name =====
+Gold Rush
+
+===== Map description =====
+The treasury is empty, and the mines exhausted... In these toilsome times the King sends you to the border of three countries, where on a rocky island, several yet untouched gold mines sit. Capture all four mines before the heroes of other kingdoms do so or the deadline comes, two months from now.
+
+===== Rumors =====
+
+Name:
+Factory 1 
+Text:
+Rumor has it that these acrid badlands became the new homeland for the Halflings who had fled Eeofol after the demons fell from the sky on burning stars.
+
+Name:
+Factory 2 
+Text:
+In the scorching sun of the prairies... A glimmering mountain stood up and walked at me! Then it became a volcano and let out black smoke, and on top of it, an eye opened.
+
+Name:
+Factory 3
+Text:
+It's said that these dead, rocky wastelands are crawling with pyromancers and arsonists, and skilled smiths forge fire-spitting sticks for them.
+
+Name:
+Factory 4
+Text:
+Ever met a gloomy man in a black cape with a big iron stick? Of course not, or you wouldn't be sitting here listening to this nonsense right now.
+
+Name:
+Factory 5
+Text:
+I swear on all that's holy, when I was working as a prospector, I often felt something moving under my feet, deep under the ground!
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+By order of the monarch, you have arrived at the border of the three kingdoms. You must gain control over the gold mines of the disputed island. Using the resources you brought, you built a fortress for further operations. Time to saddle your faithful horse.
+
+Name:
+intro 2
+Message:
+If you fail to take over the gold mines within two months, or, worse still, the mines will fall under control of other kingdoms, your head will roll. The royal executioner will gladly take it to amuse the impoverished peasants, even if it does not add a single coin to the treasury. 
+
+Name:
+Day 3 AI
+Message:
+
+
+Name:
+Day 3 
+Message:
+The situation turned out to be even worse than expected; you will have to make do despite severe shortage of resources, as there are no developed mines in these lands. You'll have to rely on the scouts' cunning and their sticky fingers. Speaking of them, the scouts tell us that in place of the derilict sawmills and quarries, carts full of resources can be found. It would be nice to capture them.
+
+Name:
+Day 8 repeat
+Message:
+A messenger has arrived from the capital. The situation in the heart of the Kingdom is getting worse by the day. If a way to fill the treasury is not found urgently, hunger riots and rebellions are inevitable, so every Monday you will have to send home a supply of treasure, no matter how much you need it to fulfil your mission. 
+
+Name:
+Day 10 rumors
+Message:
+Scouts report that the rocky island is teeming with all sorts of warlocks and alchemists. Perhaps their secrets will help you solve your financial woes. 
+
+Name:
+Day 28
+Message:
+Half the time you've been given has passed. It would be nice to hurry up and take over these gold mines. 
+
+Name:
+Day 50 Reminder
+Message:
+You're less than a week away from the deadline. Messengers arrive every day, handing over piles of angry demands - you recognize the King's trembling hand. 
+
+Name:
+Day 52
+Message:
+According to reports, hunger riots broke out in the capital. The King sent you a visceral description of the executioner sharpening his axe, which made you shiver. 
+
+Name:
+Day 56 - Miracle
+Message:
+This is the last day. Only a miracle or a perfectly calculated move can still save you and your kingdom. 
+
+===== Heroes =====
+
+===== Objects =====
+
+(3, 5, 0) ***Random Town***
+
+Timed events:
+
+Name:
+silo
+Message:
+Seeing the difficult situation with resource deposits in the region, the King launched a special procedure to build a warehouse in your town, to which supplies will be arriving every day.
+
+(68, 7, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Day 4
+Message:
+Seeing the difficult situation with resource deposits in the region, the King launched a special procedure to build a warehouse in your town, to which supplies will be arriving every day.
+
+(33, 63, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Day 4
+Message:
+Seeing the difficult situation with resource deposits in the region, the King launched a special procedure to build a warehouse in your town, to which supplies will be arriving every day.
+
+(54, 50, 0) ***Ocean Bottle***
+Message:
+
+
+(15, 31, 0) ***Ocean Bottle***
+Message:
+
+
+(34, 37, 0) ***Sign***
+Message:
+Turning minerals into gold. We work weekends. Visit our shop: to the north on the road and then left.
+
+===== End of file =====

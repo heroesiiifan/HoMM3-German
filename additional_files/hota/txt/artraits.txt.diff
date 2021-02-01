@@ -1,0 +1,118 @@
+167c167
+< Um den Hals getragen, erhöht dieser Gegenstand die Nekromantiefähigkeit um 5%."
+---
+> Um den Hals getragen, erhöht dieser Gegenstand die Nekromantiefähigkeit um 2,5%."
+170c170
+< Über die Schultern geworfen, erhöht diese Kutte die Nekromantiefähigkeit um 10%."
+---
+> Über die Schultern geworfen, erhöht diese Kutte die Nekromantiefähigkeit um 5%."
+173c173
+< An den Füßen getragen, erhöhen diese Stiefel die Nekromantiefähigkeit um 15%."
+---
+> An den Füßen getragen, erhöhen diese Stiefel die Nekromantiefähigkeit um 7,5%."
+176c176
+< Am Hals getragen, erhöht dieser Gegenstand Magieresistenz um 5%."
+---
+> Am Hals getragen, erhöht dieser Gegenstand die Chance, einem feindlichen Zauber zu widerstehen um 5%."
+179c179
+< Über die Schultern geworfen, erhöht dieser Gegenstand Magieresistenz um 10%."
+---
+> Über die Schultern geworfen, erhöht dieser Gegenstand die Chance, einem feindlichen Zauber zu widerstehen um 10%."
+182c182
+< An den Füßen getragen, erhöhen diese Stiefel Magieresistenz um 15%."
+---
+> An den Füßen getragen, erhöhen diese Stiefel die Chance, einem feindlichen Zauber zu widerstehen um 15%."
+203c203
+< Am Hals getragen, reduziert der Staatsmannsorden die Kosten einer Kapitulation."
+---
+> Am Hals getragen, reduziert der Staatsmannsorden die Kosten einer Kapitulation um 10%."
+206c206
+< Am Finger getragen, reduziert der Diplomatenring die Kosten einer Kapitulation."
+---
+> Am Finger getragen, reduziert der Diplomatenring die Kosten einer Kapitulation um 10%."
+209c209
+< Über die Schultern geworfen, reduziert die Ehrenschärpe die Kosten einer Kapitulation."
+---
+> Über die Schultern geworfen, reduziert die Ehrenschärpe die Kosten einer Kapitulation um 10%."
+215c215
+< An den Händen getragen, erhöhen diese Handschuhe die Bewegungsrate Eures Helden an Land."
+---
+> An den Händen getragen, erhöhen diese Handschuhe die Bewegungsrate Eures Helden an Land um 200 Punkte."
+218c218
+< Um den Hals getragen, erhöht dieses Halsband die Bewegungsrate Eures Helden auf See."
+---
+> Um den Hals getragen, erhöht dieses Halsband die Bewegungsrate Eures Helden auf See um 1000 Punkte."
+257c257
+< Dieser Gegenstand macht alle Moralboni während des Kampfes, für Euch und Euren Gegner, zunichte."
+---
+> Dieser Gegenstand macht positive Moral während des Kampfes, für Euch und Euren Gegner, zunichte."
+260c260
+< Dieser Gegenstand macht alle Glücksboni während des Kampfes, für Euch und Euren Gegner, zunichte."
+---
+> Dieser Gegenstand macht positives Glück während des Kampfes, für Euch und Euren Gegner, zunichte."
+284c284
+< Im Kampf macht diese Kugel alle natürliche Magieresistenz sämtlicher Kreaturen auf dem Schlachtfeld zunichte."
+---
+> Im Kampf macht diese Kugel alle natürliche Magieimmunität und Chancen, Zaubersprüchen zu widerstehen sämtlicher Kreaturen auf dem Schlachtfeld zunichte. Beeinflusst nicht die in den Zauberbeschreibungen angegebenen Einschränkungen der Anwendbarkeit, sowie die durch Artefakte gewährten Immunitäten."
+299c299
+< An den Füßen getragen, erhöhen diese Stiefel die Bewegungsrate Eures Helden an Land."
+---
+> An den Füßen getragen, erhöhen diese Stiefel die Bewegungsrate Eures Helden an Land um 400 Punkte."
+374c374
+< Wenn sie getragen wird, erhöht diese Mütze Eure Bewegung auf See, ermöglicht das Herbeirufen und Versenken von Booten und schützt Euch vor Strudeln."
+---
+> Wenn sie getragen wird, erhöht diese Mütze Eure Bewegung auf See um 500 Punkte, ermöglicht das Herbeirufen und Versenken von Booten und schützt Euch vor Strudeln."
+380c380
+< Wenn diese Fesseln im Kampf aktiv sind, könnt weder Ihr noch Euer Gegner Euch zurückziehen oder kapitulieren."
+---
+> Wenn diese Fesseln im Kampf zwischen zwei Helden aktiv sind, könnt weder Ihr noch Euer Gegner Euch zurückziehen oder kapitulieren."
+392c392
+< Alle Rampart, Tower, Fortress, Stronghold und Castle Truppen können ohne Moralverlust gemischt werden. Am Anfang eines Kampfes wird Gebet auf Experten-Level ausgesprochen."
+---
+> Zusätzlich zum Komponenteneffekt gewährt die Engelsallianz jeder Spielerarmee die Möglichkeit, gute und neutrale Stadtkreaturen ohne Moralverlust zu mischen. Zu Beginn jedes Kampfes wird die Engelsallianz 10 Runden lang ein Gebet auf Experten-Level sprechen."
+395c395
+< 30% der Toten eines Kampfes werden als Sklette wiederbelebt. Hat der Held schon die Fähigkeit Necromantie, so wird dieser Prozentsatz diese hinzugefügt und ihr Level bestimmt welche Art wiedererweckt werden.
+---
+> Wenn der Held nicht über die Fähigkeit Nekromantie verfügt, erhöht der Umhang des untoten Königs 15% der toten Feinde auf dem Schlachtfeld als Skelette. Wenn der Held bereits über die Fähigkeit Nekromantie verfügt, können mit diesem Umhang zusätzlich zum Komponenteneffekt stärkere untote Einheiten erweckt werden. Die Fähigkeitsstufe bestimmt, welcher Typ wiederbelebt wird.
+401c401
+< Alle Kreaturen bekommen einen 25% Bonus auf ihre Lebenspunkte. Gilt nicht für Untote oder nicht lebende Kreaturen (Golems und Gargoyles)."
+---
+> Zusätzlich zum Komponenteneffekt verleiht das Elixier des Lebens allen Kreaturen in den Reihen des Helden einen 25%igen Bonus auf ihre Gesundheit und die Fähigkeit, jede Runde 50 Trefferpunkte zu regenerieren. Wirkt nicht auf Untote oder nicht lebende Kreaturen."
+404c404
+< Auf alle Gegner wirken die folgenden Sprüche für fünfzig Runden im Kampf: Verlangsamung, Fluch, Schwäche und Unglück."
+---
+> Zusätzlich zum Komponenteneffekt wirkt die Rüstung der Verdammten diese Zauber auf Expertenebene zu Beginn des Kampfes fünfzig Runden lang auf alle Kreaturen deines Gegners: Verlangsamen, Fluch, Schwäche und Unglück."
+407c407
+< Die Kreaturenproduktion wird in allen Städten um 50% erhöht, ausgenommen eines Bonus durch externe Behausungen. Dieser Effekt gilt unabhängig vom Aufenthaltsort des tragenden Helden."
+---
+> Zusätzlich zum Komponenteneffekt gibt Ihnen die Statue des Legionärs +50% Kreaturenwachstum, basierend auf der Kreaturengenerierungsstufe der Burg, für alle Städte, nicht jedoch für beflaggte Strukturen oder andere ähnliche Boni."
+410c410
+< + 6 auf alle Primärfähigkeiten, alle Truppen werden immun gegen Sprüche der ersten bis vierten Stufe."
+---
+> Zusätzlich zum Komponenteneffekt verleiht die Macht des Drachenvaters +6 auf alle primären Fertigkeiten, und die Truppen des Helden werden immun gegen alle Zauber der Stufen 1-4 außer Dispel."
+413c413
+< Der Held bekommt ein Zauberbuch und die Fähigkeit den Spruch Lightning Bolt mit einer Wirkung von 600 Schadenspunkten auszusprechen, ohne dabei Spellpoints zu verlieren."
+---
+> Zusätzlich zum Komponenteneffekt verleiht der Titanendonner dem Helden den Titanenblitz, der 600 Punkte Schaden verursacht und keine Zauberpunkte kostet. Wenn der Held kein Zauberbuch hat, dann wird eines dauerhaft hinzugefügt."
+416c416
+< Es gibt keine Strafe für das An- oder Von-Bord gehen. Bewegungspunke für Wasser und Land werden in einander umgerechnet."
+---
+> Zusätzlich zum Komponenteneffekt entfernt der Admiralshut den Malus für das Entern und Entbooten von Schiffen und wandelt die Bewegungspunkte des Helden zwischen Land und Wasser um."
+419c419
+< Schützen können auch schießen, wenn feindliche Kreaturen neben ihnen stehen. Keine Strafe für Hindernisse oder Entfernung."
+---
+> Zusätzlich zum Komponenteneffekt erlaubt der Bogen des Scharfschützen Fernkampfschützen, Projektile abzufeuern, während sie sich in der Nähe einer feindlichen Kreatur befinden. Entfernt den Bogenschieß-Malus für Entfernung oder Hindernis."
+425c425
+< Alle Sprüche dauern fünfzig Runden länger."
+---
+> Zusätzlich zum Komponenteneffekt erhöht dieser Ring die Zauberdauer um 50 Runden."
+428,429c428,429
+< Der Spieler erhält täglich vier Einheiten der wertvollen Ressourcen Kristalle, Quecksilber, Schwefel und Edelsteine."
+< Diplomat's Suit																			x		R	"{Diplomat's Suit}
+---
+> Zusätzlich zum Komponenteneffekt erzeugt dieser Gegenstand jeden Tag 4 von jeder wertvollen Ressource."
+> Diplomatenmantel																			x		R	"{Diplomat's Suit}
+432c432
+< Mired in Neutrality															x						R	"{Mired in Neutrality}
+---
+> Anhänger der Reflexion															x						R	"{Mired in Neutrality}

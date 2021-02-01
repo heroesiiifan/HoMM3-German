@@ -1,0 +1,39 @@
+===== Map name =====
+Blazing Archipelago
+
+===== Map description =====
+Terrible heat, lack of resources and the constant danger of being attacked by sea creatures make these islands a truly godforsaken place. But what attracts the adventurers?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+You've camped at some large island. Scouts report that your competitors did the same. An ancient treasure map was brought in the evening to the camp; the only matter why you have come to this place...
+
+Name:
+Day 2
+Message:
+Well. It's time to move on to the main goal of deciphering the map, and finding the great treasures...
+
+Name:
+Day 4
+Message:
+You almost have deciphered the ancient map. Soon the treasure will be ours!
+
+Name:
+Day 7
+Message:
+Your time has come! According to the map the treasure is on the island in the center of the archipelago.
+
+===== Heroes =====
+
+===== Objects =====
+
+(61, 84, 0) ***Event***
+Message:
+
+
+===== End of file =====

@@ -1,0 +1,57 @@
+===== Map name =====
+Vial of Life
+
+===== Map description =====
+The King of Kyran has an extremely rare disease which can only be cured with the Vial of Life Blood.  Find the vial and bring it to the King to win the game.  
+
+===== Rumors =====
+
+Name:
+Vampire rumor.
+Text:
+The Vampires have the Vial of Life Blood and are hiding it.
+
+Name:
+Island Liths.
+Text:
+The Islands are connected by monoliths.
+
+Name:
+Dragons in the middle.
+Text:
+The Dragon "Wrethen" guards the Vial of Life Blood.  Doom awaits those who bother him. 
+
+===== Timed events =====
+
+Name:
+First message.
+Message:
+The King of Kyran needs the Vial of Life Blood to survive.  Be the first to bring it to him to claim victory!
+
+===== Objects =====
+
+(13, 24, 0) ***Random Town***
+Name:
+Kyram
+
+(88, 45, 0) ***Random Town***
+Name:
+Kyren
+
+(89, 95, 0) ***Sign***
+Message:
+Refuge Peninsula, all creatures welcome!
+
+(5, 93, 0) ***Sign***
+Message:
+Refugee Camps, Peninsula 2.  All Creatures welcome.
+
+(56, 26, 0) ***Sign***
+Message:
+Current inhabitant - Fiona of the Flame - do not let out for 333 years.
+
+(57, 16, 0) ***Castle***
+Name:
+Kyran
+
+===== End of file =====

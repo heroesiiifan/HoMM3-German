@@ -1,0 +1,72 @@
+===== Map name =====
+Emerald Isles
+
+===== Map description =====
+The Emerald Isles lie along a major shipping route, which several Barons each seek to control for themselves.  You have been chosen to 'persuade' the others to give up their claims.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Opening Text (part 1)
+Message:
+Because of their location, the Emerald Isles are a nexus of trade routes from all over the world.  The Baron who could control these routes would possess riches beyond the wildest dreams of Avarice.
+
+Name:
+Opening Text (part 2)
+Message:
+Your Baron has chosen you, the best of his military leaders, to 'acquire' control of these trade routes from the other Barons.  Use diplomacy where you may, but you are free to demonstrate your might when diplomacy fails.  A wealthy retirement awaits you when, not if, you succeed.
+
+Name:
+Supplies Arrive
+Message:
+Ah, the trade winds blow favorably today - a ship has arrived with much needed supplies.
+
+===== Objects =====
+
+(6, 19, 0) ***Event***
+Message:
+You encounter a peddler who is being attacked by bandits.  Your men drive off the bandits and he rewards you for your assistance.
+
+(19, 62, 0) ***Event***
+Message:
+Hidden amongst the trees is an old cache of bandit treasure.
+
+(16, 18, 0) ***Ocean Bottle***
+Message:
+One by one by the star-dogged moon, too quick for groan or sigh. . .
+
+(28, 20, 0) ***Event***
+Message:
+Washed up by the ocean tides is a buried pirate treasure.
+
+(23, 35, 0) ***Ocean Bottle***
+Message:
+Each turned his face with a ghastly pang and cursed me with his eye. . .
+
+(34, 60, 0) ***Ocean Bottle***
+Message:
+With heavy thump, a lifeless lump, they dropped down. . . one by one.
+
+(27, 50, 0) ***Ocean Bottle***
+Message:
+Four times fifty living men and I heard nor sigh nor groan. . .
+
+(57, 29, 0) ***Ocean Bottle***
+Message:
+Day after day.  Day after day we stuck nor breath nor motion.  As idle as a painted ship upon a painted ocean. . .
+
+(69, 40, 0) ***Ocean Bottle***
+Message:
+Water, water everywhere and all the boards did shrink.  Water, water everywhere nor any drop to drink.
+
+(46, 35, 0) ***Event***
+Message:
+A disembodied voice calls out a curse on you.
+
+(43, 13, 0) ***Event***
+Message:
+Buried in the rocks is a small gold mine, but it collapses after the first load of gold is removed.
+
+===== End of file =====

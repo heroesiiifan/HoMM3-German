@@ -1,0 +1,210 @@
+===== Map name =====
+Zurück zur Revanche
+
+===== Map description =====
+Gerüchten zufolge haben sich die letzten Behemoths vor tausenden von Jahren in die Berge zurückgezogen, um sich vor Jägern und Trappern zu verstecken.   Jetzt sind die Behemoths gekommen, um sich zu rächen.  Die Dörfer rund um die Berge brauchen Ihre Hilfe, um die uralten Bestien zu töten.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Vor tausenden von Jahren wurden Behemoths wegen ihrer Haut gejagt.  Ihr Fell war, und ist es bis heute, sehr wertvoll.   Die Menschen liebten die Felle der Behemoths so sehr, dass die Behemoths fast ausgerottet wurden.  Die verbliebenen Behemoths liefen in die Berge und wurden nie wieder gesehen.  Die meisten Menschen glaubten tatsächlich, dass die Behemoths ausgestorben waren, bis sie eines Tages begannen, das Land um ihre Berge herum zu terrorisieren.  Die Dorfbewohner brauchen Ihre Hilfe, um die alten Behemoths zu besiegen. Das muss innerhalb von fünf Monaten geschehen, sonst werden die Behemoths alle Dörfer in der Gegend komplett zerstören.
+
+Name:
+Der Anfang
+Message:
+Bis jetzt haben sich die Behemoths bedeckt gehalten.  Es hat sich herumgesprochen, dass die Angriffe der Behemoths nicht nur häufiger werden, sondern dass sie auch in unvorstellbarer Zahl von den Bergen herunterkommen.  Da Sie nicht wissen, was der König will, haben Sie beschlossen, einige Boten zu ihm zu schicken, in der Hoffnung, dass er eine Idee hat, was zu tun ist. 
+
+Name:
+Lager aufbrechen
+Message:
+Kurz nach Sonnenaufgang brechen Sie das Lager ab.  Nicht lange nachdem du aufgebrochen bist, hörst du einen Reiter kommen.  Er sprengt durch die Bäume und kommt direkt vor Ihnen zum Stehen und übergibt Ihnen eine Nachricht.  Du öffnest die Nachricht und liest: "Zwei weitere Städte sind zerstört worden.  Ihr müsst Euch beeilen und diese Behemoths finden, denn sie zerstören das Land.  Es ist mir egal, wie es gemacht wird oder durch wen Ihr gehen müsst, um sie zu bekommen.  Sie sind schlauer als sie aussehen: Jedes Mal, wenn sie eine Stadt angreifen, folgen unsere Späher ihnen, nur um in eine Sackgasse zu geraten.  Wir kämpfen gegen einen Feind, den wir nicht fangen können.  Bitte, beeilen Sie sich!"  	   Du schreibst schnell deine Antwort und gibst sie dem Boten.  Dann befiehlst Du einem Soldaten, ihm mehrere frische Reittiere zu geben, und damit ist er weg.
+
+Name:
+Grenztor
+Message:
+Jetzt wird alles klar.  Der ganze Grund, warum die Behemoths vor den Spähern verschwinden können, ist, dass sie durch Grenztore laufen, die Ihre Männer nicht durchdringen können.  Endlich kommen Sie weiter.  Um den König nicht im Regen stehen zu lassen, schreiben Sie schnell einen Brief über das, was Sie gefunden haben, und schicken einen Boten auf den Weg.
+
+Name:
+Steuern
+Message:
+Ihre Steuereintreiber haben Steuern eingezogen und das Geld in die Staatskasse eingezahlt.
+
+===== Heroes =====
+
+===== Objects =====
+
+(105, 5, 0) ***Inferno***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(14, 25, 0) ***Inferno***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(6, 95, 0) ***Castle***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(21, 111, 0) ***Event***
+Message:
+Auf einer Lichtung unweit der Freelancer's Guild finden Sie ein Skelett.  In der knochigen Hand des Skeletts sehen Sie ein Zauberbuch.  Da du weißt, dass das Skelett das Buch nicht benutzen wird, nimmst du es für dich selbst, aber du fühlst dich irgendwie schuldig. 
+
+(138, 24, 0) ***Fortress***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(109, 139, 0) ***Fortress***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(74, 140, 0) ***Castle***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(99, 54, 0) ***Event***
+Message:
+Wir haben von euren Bemühungen gehört, die uralten Bestien zu besiegen, und haben beschlossen, uns eurer Sache anzuschließen.
+
+(98, 54, 0) ***Event***
+Message:
+Wir haben von Ihren Bemühungen gehört, die uralten Bestien zu besiegen, und haben beschlossen, uns Ihrer Sache anzuschließen.
+
+(97, 54, 0) ***Event***
+Message:
+Wir haben von Ihren Bemühungen gehört, die alten Bestien zu besiegen, und haben beschlossen, uns Ihrer Sache anzuschließen.
+
+(95, 54, 0) ***Event***
+Message:
+Wir haben von Ihren Bemühungen gehört, die alten Bestien zu besiegen, und haben beschlossen, uns Ihrer Sache anzuschließen.
+
+(126, 5, 0) ***Tower***
+
+Timed events:
+
+Name:
+Upgrade
+Message:
+Die Menschen in der Stadt sind sehr zufrieden mit Ihrer Führung.  Sie haben beschlossen, Ihnen bei Ihrer Suche zu helfen.
+
+Name:
+comp
+Message:
+a
+
+(111, 38, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Upgrade
+Message:
+Die Menschen in dieser Stadt sind so glücklich, Sie als ihren Anführer zu haben, und sie haben beschlossen, Ihnen bei Ihrer Aufgabe zu helfen, die alten Bestien zu besiegen.
+
+Name:
+Comp Creatures
+Message:
+a
+
+(48, 85, 0) ***Castle***
+
+Timed events:
+
+Name:
+Upgrade
+Message:
+Die Menschen in dieser Stadt sind sehr glücklich, Sie als ihren Anführer zu haben, und sie haben beschlossen, Ihnen bei Ihrer Aufgabe zu helfen, die alten Bestien zu besiegen.
+
+Name:
+Comp
+Message:
+a
+
+(91, 51, 0) ***Ancient Behemoth***
+Message:
+Während Sie Ihre Männer darauf vorbereiten, die vielen Bestien anzugreifen, tritt ein Behemoth vor.  Mit klarer und lauter Stimme sagt er: "Wir wurden schon zu lange gejagt.  Jahrhundertelang wurden unsere Häute genommen und unter eurem Volk verkauft.  Diese Zeit ist nun vorbei, denn heute sterbt ihr. " Und damit stürmen sie los.
+
+(115, 50, 0) ***Event***
+Message:
+Du hältst deine Truppen nicht allzu weit vor dem Tor an, um ihnen eine kleine Pause für die bevorstehende Schlacht zu gönnen.  Als du den Weinschlauch an deinen Mund führst, beginnt die Luft vor dir zu flirren.  Du zückst dein Schwert und schneidest mit erstaunlicher Geschwindigkeit auf das Bild zu, doch dein Schwert geht direkt durch das Bild hindurch.  Sie erkennen, dass dies nur eine Illusion ist und warten geduldig, bis das Bild verschwindet.  Dann, kurz bevor das Bild verschwindet, spricht es.  "Sei gewarnt.  Dies ist kein Ort für die Lebenden. "Genauso plötzlich, wie es gekommen ist, verschwindet das Bild wieder.
+
+(113, 49, 0) ***Event***
+Message:
+Sie beeilen sich, Ihre Truppen nach draußen und durch das Tor zu bringen.  Die Schlacht verlief gut.  Es ging nicht viel verloren, zum Glück.  Gerade als Du Deinen Truppen sagst, dass es Zeit ist, abzureisen, beginnt die Luft vor Dir erneut zu flirren.  Wieder ist es derselbe Schädel, und wieder spricht er zu Euch.  Da du weißt, dass Illusionen dich nicht verletzen können, wartest du geduldig, bis er verschwindet.	   "Ich habe dich schon einmal gewarnt, aber du hast nicht zugehört.  Jetzt wirst du dafür bezahlen!" 	Das nächste, was du weißt, ist, dass du von Geisterdrachen umgeben bist.
+
+(124, 7, 0) ***Event***
+Message:
+Als du auf der Straße stehst, die vor fünf Minuten noch frei war, schaust du geradeaus und siehst Hunderte von Gremlins aus den Bäumen kommen, die alle unisono skandieren: "Bleibt weg von unserer Burg."
+
+(123, 8, 0) ***Sign***
+Message:
+Gremlin-Kreuzung
+
+(104, 120, 0) ***Sign***
+Message:
+Willkommen auf der Kristallinsel.  Bitte genießen Sie Ihren Aufenthalt.
+
+(86, 55, 0) ***Event***
+Message:
+Während Sie durch die Berge wandern, nehmen Sie sich einen Moment Zeit, um Ihre Umgebung zu betrachten.  Überall liegen Knochen und halb aufgefressene Dinge herum.  Sie kommen den Behemoths immer näher; Sie können es spüren.
+
+(99, 56, 0) ***Event***
+Message:
+Als Sie sich dem letzten Tor nähern, bleiben Sie und Ihre Soldaten stehen und hören, was wie Donner klingt.  Donnern?  An einem klaren Tag?  Das macht wenig Sinn.  Da Sie wissen, dass Sie jetzt nicht mehr umkehren können, beschließen Sie, Ihre Truppen zu sammeln und Ihrem Schicksal entgegenzugehen.
+
+(92, 52, 0) ***Event***
+Message:
+Als Du die Spitze eines kleinen Hügels erklimmst, hörst Du den Donner immer lauter und lauter werden.  Dann plötzlich fällt es Ihnen auf.  Es ist nicht der Donner, den Sie hören, sondern das Brüllen von Hunderten von Behemoths.  Das könnte ein bisschen schwieriger werden, als Sie erwartet hatten.
+
+(21, 51, 0) ***Rampart***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(107, 98, 0) ***Rampart***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+===== End of file =====

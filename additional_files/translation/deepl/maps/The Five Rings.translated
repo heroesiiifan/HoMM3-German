@@ -1,0 +1,103 @@
+===== Map name =====
+Die fünf Ringe
+
+===== Map description =====
+Die fünf Elementarherren haben unsere Welt als neue Heimat auserkoren, um sie nach ihrem Bilde umzugestalten.  Sie müssen sich jedem einzelnen von ihnen stellen, um sie aufzuhalten.
+
+===== Rumors =====
+
+Name:
+Foliant des Wassers
+Text:
+Südöstlich des Tores zwischen den Welten im Ring des Wassers liegt ein Foliant von unvorstellbarer magischer Kraft.
+
+Name:
+Foliant des Feuers
+Text:
+In der Mitte des Rings des Feuers, nördlich des Dämonentors, befindet sich ein Buch, das die Geheimnisse der mystischen Flamme enthält.
+
+Name:
+Foliant der Erde
+Text:
+Südlich einer Windmühle in der nördlichen Steppe des Rings der Erde ist ein Band mit Zaubersprüchen vergraben, die durch den Kuss von Gaea gesegnet wurden.
+
+Name:
+Foliant der Luft
+Text:
+Westlich der Harpyienhöhle im Ring der Lüfte, auf einem mächtigen Gipfel, liegt ein Buch, das die gesammelte Weisheit der Aeromancer der ganzen Welt enthält.
+
+===== Timed events =====
+
+Name:
+Tag 1
+Message:
+Eine mächtige Prüfung liegt vor Euch.  Fünf Elementarfürsten haben unsere Welt als neue Heimat auserkoren, um sie nach ihrem Bilde umzugestalten.  Nur wenn du die fünf Elementar-Ringe des Daseins durchschreitest: Wasser, Feuer, Erde, Luft und Leere, kannst du diese heimtückischen Herren besiegen.
+
+Name:
+Foliant-Hinweis
+Message:
+Ein Magier, der vor den Elementarherren floh, versteckte die mächtigen Folianten der Elementarmagie irgendwo in den Ringen. Da er versucht hatte, sie zu verstecken, können Sie versuchen, an Orten abseits des Weges zu suchen. Auch wenn sie gut versteckt sind, werden sie Euch bei Eurer Suche sehr helfen.
+
+===== Objects =====
+
+(35, 29, 0) ***Event***
+Message:
+Eingebettet zwischen den Felsen befinden sich mehrere Nester mit Baby-Roc-Eiern.  Da Sie wissen, dass sie einen ordentlichen Preis erzielen, versuchen Sie, sie zu bekommen.  Aber... Mama ist zurück und sie hat Freunde mitgebracht.
+
+(63, 13, 0) ***Event***
+Message:
+Am Ufer verstecken sich mehrere Wasserelementare.  Sie scheinen etwas zu bewachen.
+
+(38, 74, 0) ***Event***
+Message:
+In den Hügeln lauern mehrere Erd-Elementare.  Sie scheinen etwas zu bewachen.
+
+(23, 43, 0) ***Event***
+Message:
+An der Felswand schleichen mehrere Luftelementare herum.  Sie scheinen etwas zu bewachen.
+
+(54, 56, 0) ***Event***
+Message:
+In den ausgebrannten Bäumen verstecken sich mehrere Feuer-Elementare.  Sie scheinen etwas zu bewachen.
+
+(53, 54, 1) ***Sign***
+Message:
+Die Läden der Elementarherren.  Bleibt draußen!
+
+(64, 42, 1) ***Event***
+Message:
+Halb im Boden vergraben liegt eine kleine Statue.  Wenn Sie sie berühren, haben Sie ein komisches Gefühl.  Plötzlich ist Ihr Geist klarer.
+
+(34, 41, 1) ***Event***
+Message:
+Wenn Sie in der Mitte dieses Zusammenflusses stehen, entsteht ein Wirbelwind aus mystischen Energien, der Sie sowohl mit Energie versorgt als auch zerreißt.  Er löst sich dann so schnell auf, wie er erschienen ist.
+
+(24, 47, 1) ***Event***
+Message:
+Die Knochen eines lange toten Kriegers zerbröckeln bei Ihrer Berührung und enthüllen einen Mantel, der in Ihren Händen zu kribbeln scheint.
+
+(75, 57, 1) ***Event***
+Message:
+Ein alter Mann liegt zusammengekauert zwischen den Bäumen, offensichtlich gebrochen und zerschmettert.  Du hilfst ihm auf und bietest ihm Wasser an.  Er dankt dir für deine Freundlichkeit und erlischt.  Gerade als er stirbt, berührt er Sie und Sie spüren ein leichtes Kribbeln.
+
+(44, 46, 1) ***Event***
+Message:
+Im Gebüsch verstecken sich ein paar verwundete Mönche.  Du hilfst ihnen und sie bieten Dir an, sich Dir anzuschließen.
+
+(45, 56, 1) ***Event***
+Message:
+Etwas Glänzendes fällt Ihnen ins Auge.  Du erkennst zu spät, dass das Glitzern nicht von Gold stammt, sondern von den Waffen der Oger! 
+
+(61, 74, 1) ***Event***
+Message:
+Eine Stimme dröhnt auf.  "Du hast das Allerheiligste der Elementarherren verletzt!  Verflucht seist du!"
+
+(75, 24, 1) ***Event***
+Message:
+Als du dich der Gnoll-Hütte näherst, greift dich ein Trupp aus dem Hinterhalt an.
+
+(45, 37, 1) ***Event***
+Message:
+Sorgfältig versteckt ist ein kleines Schwert.  Es scheint mit Energie geladen zu sein.
+
+===== End of file =====

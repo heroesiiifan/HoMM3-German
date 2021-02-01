@@ -1,0 +1,31 @@
+===== Map name =====
+Judgment Day
+
+===== Map description =====
+Legend has it that the fabled Sword of Judgment rests somewhere in these caverns.  Three Dungeon Overlords have vowed to find it, for he who controls the Sword, controls all.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+Hidden somewhere in these caverns is the Sword of Judgment.  Three of the most powerful Dungeon Overlords have gathered to attempt a swift retrieval of the weapon.  Whoever can control the Sword, shall control all.
+
+Name:
+Weekly Tribute
+Message:
+Your tax collector is proud to announce the weekly tax contributions have arrived.
+
+===== Objects =====
+
+(1, 16, 0) ***Sword of Judgement***
+Message:
+Placed on an altar made of pure obsidian lies a sword forged from the finest steel.  Do you wish to grasp its shimmering jeweled hilt?
+
+(1, 17, 0) ***Random Monster 7***
+Message:
+These guardians have been given the grand task of protecting the sacred Sword of Judgment.  For centuries these sentinels have stood watch over the blade.  Defeat them and the sword is yours.
+
+===== End of file =====

@@ -1,0 +1,300 @@
+===== Map name =====
+Ödland
+
+===== Map description =====
+Die lokalen Lords kehren in die Ödlande zurück, nachdem sie den Nekromanten besiegt haben. Der Sieg war nicht einfach. Doch kurz vor seinem Tod hat der Nekromant sie verflucht, so dass aus ehemaligen Verbündeten Feinde wurden. Nun werden sie sich gegenseitig bekämpfen.
+
+===== Rumors =====
+
+Name:
+Schreckens-Ritter
+Text:
+Man sagt, dass das Töten von Dread Knights gut bezahlt wird. Obwohl ich es nicht selbst überprüft habe.
+
+Name:
+Nekropole
+Text:
+Man sagt, dass der Käfig der Seelen in der Nekropole gebaut wird.
+
+Name:
+Klinge des Armageddon 1
+Text:
+Es heißt, dass die Armageddon's Blade wirklich existiert.
+
+Name:
+Klinge des Armageddon 2
+Text:
+Es heißt, der Nekromant habe die Klinge des Armageddon versteckt und Legionen von Kriegern dazu gebracht, sie zu verteidigen.
+
+Name:
+Klinge des Armageddon 3
+Text:
+Ich habe gehört, dass die Armageddon's Blade in einer Büchse der Pandora versteckt ist.
+
+Name:
+Über Gerüchte
+Text:
+Es gibt eine Menge Gerüchte. Sie müssen nicht alle davon glauben.
+
+Name:
+Gral
+Text:
+Man sagt, dass man reich wird, wenn man in einem Sumpf gräbt.
+
+Name:
+Nekromant 2
+Text:
+Man sagt, dass der Necromancer gar nicht so böse war. Er ließ tote Menschen wieder auferstehen.
+
+Name:
+Buch des Feuers
+Text:
+Es gibt Gerüchte, dass es nur noch ein einziges Buch der Elemente gibt, das Buch des Feuers. Vielleicht lohnt es sich, danach zu suchen.
+
+Name:
+Fläschchen
+Text:
+Man sagt, dass die Phiole des Drachenblutes leicht gefunden und mitgenommen werden kann, da sie niemand bewacht. Ich habe gehört, dass sie sich auf einer Insel im Norden befindet.
+
+Name:
+Dracoliches
+Text:
+Einige Leute behaupten, dass sie sich an Dracoliches erinnern, aber ich glaube, sie haben etwas falsch verstanden.
+
+Name:
+Wasserwandern
+Text:
+Man sagt, dass einheimische Fischer einen Helden gesehen haben, der auf dem Wasser ging. Ich weiß nicht, ob man ihnen glauben kann, aber solche Wunder gab es in unserem Land seit Anbeginn der Zeit nicht.
+
+Name:
+Utopie
+Text:
+Man sagt, dass der Nekromant sein großes Artefakt unsichtbar gemacht und in der Nähe von Dragon Utopia versteckt hat.
+
+Name:
+Über hero
+Text:
+Man sagt, dass das letzte Mal Mutare Drake in einer überfluteten Höhle bemerkt wurde.
+
+Name:
+Nekromant
+Text:
+Man sagt, dass Necromancer nach seinem Tod eine Menge Schätze hinterlassen hat.
+
+===== Timed events =====
+
+Name:
+Sie werden arm
+Message:
+Plötzlich wird all Ihr Geld zu Sand und rieselt zwischen Ihren Fingern.
+
+Name:
+Sie können nicht so arm sein
+Message:
+Die Menschen geben Ihnen einige Ressourcen, damit Sie wenigstens ein Fort bauen können.
+
+Name:
+KI-Hilfe
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 5, 0) ***Sign***
+Message:
+Halbinsel Sumpf
+
+(33, 5, 0) ***Pandora's Box***
+Message:
+
+
+(64, 146, 0) ***Pandora's Box***
+Message:
+
+
+(150, 181, 0) ***Sign***
+Message:
+Ackerland
+
+(5, 205, 0) ***Pandora's Box***
+Message:
+
+
+(174, 198, 0) ***Seer's Hut***
+Message:
+Ja, ich bin der Held, der über Wasser gehen kann. Und wenn du willst, kann ich dir beibringen, wie man das macht, aber es kostet viel.Ich brauche eine gute Armee, um wieder zu wandern. Nur Azurblaue Drachen werden akzeptiert. Ich denke, Ihr werdet Euch nicht weigern, mir zu helfen und mir 6 Azurblaue Drachen zu geben.
+Ich brauche keine anderen Krieger als Azurblaue Drachen. Oder Ihr werdet nie erfahren, wie man auf dem Wasser läuft.
+Du hast 6 Azurblaue Drachen gefunden! Nun, ich werde die Städte erobern und Ihr könnt versuchen, auf dem Wasser zu gehen.
+
+(106, 187, 0) ***Ocean Bottle***
+Message:
+Ich hätte diesen Scharlatan in die Pfanne hauen sollen und nicht auf diese Märchen über riesige Schätze hören sollen!
+
+(194, 141, 0) ***Pandora's Box***
+Message:
+
+
+(215, 167, 0) ***Seer's Hut***
+Message:
+Wir sind Adepten des Kultes der Titanen. Wir brauchen 5 Schwarze Drachen für die Opferung. Wenn Ihr uns helft, werden wir Eure Angriffsfähigkeiten verbessern.
+Ist es so schwer, 5 Schwarze Drachen für die Opferung zu finden? Beeilt Euch bitte, denn unsere Riten hängen von Euch ab.
+Endlich, 5 Schwarze Drachen! Wie versprochen, verbessern wir Eure Angriffsfähigkeiten.
+
+(63, 114, 0) ***Event***
+Message:
+Ihr kommt Eurem Ziel näher und näher. Die Klinge des Armageddon befindet sich in einer dieser Kisten der Pandora.
+
+(67, 121, 0) ***Pandora's Box***
+Message:
+Sind Sie sicher, dass "Armageddon's Blade" in dieser Box ist?
+
+(63, 117, 0) ***Pandora's Box***
+Message:
+Sind Sie sicher, dass "Armageddon's Blade" in dieser Box ist?
+
+(27, 180, 0) ***Seer's Hut***
+Message:
+Wir sind örtliche Holzfäller und haben einen Lieferauftrag für 1000 Holz. Wir haben schon fast die Hälfte geschnitten, als wir plötzlich den Baum der Erkenntnis fanden. Wir haben viele Male versucht, ihn zu fällen, aber alles war vergeblich. Viele von uns starben in diesem verdammten Wald. Wir werden nicht dorthin zurückkehren. Wenn Ihr uns helft, 576 Holz zu beschaffen, die wir brauchen, werden wir Euch gute Krieger zur Verfügung stellen.
+Das ist nicht genug. Ich brauche 576 Holz oder der Lieferauftrag wird nicht ausgeführt.
+Na endlich! Ich hoffe, ihr habt diesen ganzen verdammten Wald abgeholzt. Nun, gebt mir 576 Holz und ihr werdet etwas bekommen. 
+
+(119, 1, 0) ***Pandora's Box***
+Message:
+
+
+(83, 4, 0) ***Seer's Hut***
+Message:
+Alles ist einfach: zahlen Sie etwas Geld für einen Zauberspruch.
+Kein Geld, kein Zauberspruch.
+Geben Sie mir 7500 Gold und ich gebe Ihnen dafür einen Zauberspruch.
+
+(145, 72, 0) ***Sign***
+Message:
+Die Inschrift ist unleserlich
+
+(142, 76, 0) ***Pandora's Box***
+Message:
+
+
+(119, 16, 0) ***Pandora's Box***
+Message:
+
+
+(189, 123, 0) ***Pandora's Box***
+Message:
+
+
+(96, 60, 0) ***Pandora's Box***
+Message:
+
+
+(99, 131, 0) ***Sign***
+Message:
+Insel der Elementare
+
+(136, 115, 0) ***Sign***
+Message:
+Insel der Elementare
+
+(148, 101, 0) ***Seer's Hut***
+Message:
+Wir wollen einen großen Helden mit Angriffsfähigkeit 23 oder mehr finden.
+Haben Sie einen großen Helden gesehen? Er muss Angriffsfertigkeit 23 oder mehr haben. Wenn Ihr ihn findet, lasst ihn wissen, dass wir auf ihn warten...
+Wir haben immer davon geträumt, einen so großen Helden wie Euch zu treffen. Können wir uns Eurer Truppe anschließen?
+
+(27, 16, 0) ***Pandora's Box***
+Message:
+
+
+(68, 104, 0) ***Seer's Hut***
+Message:
+Wir suchen einen fähigen Helden, um unter seinem Kommando neue Länder zu erobern. Ein Held mit Level 20 oder mehr kann uns in seine Armee aufnehmen.
+Endlich! Ein fähiger Held! Unter seinem Kommando können wir ein Vermögen machen.
+
+(49, 96, 0) ***Pandora's Box***
+Message:
+
+
+(8, 115, 0) ***Pandora's Box***
+Message:
+
+
+(183, 199, 0) ***Pandora's Box***
+Message:
+
+
+(160, 49, 0) ***Pandora's Box***
+Message:
+
+
+(208, 80, 0) ***Pandora's Box***
+Message:
+
+
+(18, 151, 0) ***Pandora's Box***
+Message:
+
+
+(106, 164, 0) ***Pandora's Box***
+Message:
+
+
+(204, 214, 0) ***Pandora's Box***
+Message:
+
+
+(91, 202, 0) ***Pandora's Box***
+Message:
+
+
+(198, 102, 0) ***Pandora's Box***
+Message:
+
+
+(53, 186, 0) ***Pandora's Box***
+Message:
+
+
+(59, 118, 0) ***Pandora's Box***
+Message:
+Sind Sie sicher, dass "Armageddon's Blade" in dieser Box ist?
+
+(66, 118, 0) ***Pandora's Box***
+Message:
+Sind Sie sicher, dass "Armageddon's Blade" in dieser Box ist?
+
+(117, 98, 1) ***Seer's Hut***
+Message:
+Wenn Sie Dread Knights besiegen, die das schwarze Zelt verteidigen, erhalten Sie eine Menge Erfahrung.
+Verzweifeln Sie nicht. Es ist schwer, Dread Knights zu besiegen. Aber noch schwieriger ist es, sie zu finden.
+Endlich sind die Dread Knights besiegt! Bist du bereit, den Preis zu bekommen?
+
+(62, 72, 1) ***Event***
+Message:
+
+
+(98, 112, 1) ***Sign***
+Message:
+Insel der Nekromanten
+
+(139, 101, 1) ***Sign***
+Message:
+Insel der Totenbeschwörer
+
+(72, 21, 1) ***Sign***
+Message:
+Verlorenes Land
+
+(141, 124, 1) ***Sign***
+Message:
+Insel der Nekromanten
+
+(20, 191, 1) ***Seer's Hut***
+Message:
+Wir sind ruhelose Mumien, die an diesem verwunschenen Ort eingeschlossen sind. Wir warten auf einen Helden, der in der Lage ist, uns zu befreien. Ihr werdet uns befreien, wenn Ihr beweist, dass Euch mindestens 1 Mumie gedient hat.
+Solange Du nicht beweist, dass Dir Mumien gedient haben, werden wir uns Dir nicht anschließen.
+Sie sind unser Meister. Sind Sie bereit, uns sofort zu akzeptieren?
+
+===== End of file =====

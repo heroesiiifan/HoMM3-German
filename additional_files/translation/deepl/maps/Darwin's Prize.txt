@@ -1,0 +1,33 @@
+===== Map name =====
+Darwin's Prize
+
+===== Map description =====
+With four lords fighting for control of the area only the fittest will survive.  Destroy the other lords before they crush you under their bootheel.  You will have to fight at least one, possibly two, other lord for precious resources so move quickly or lose the initiative.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(3, 4, 0) ***Random Town***
+Name:
+Maruk
+
+(2, 47, 0) ***Random Town***
+Name:
+Greyson
+
+(67, 50, 0) ***Random Town***
+Name:
+Kelan
+
+(45, 66, 0) ***Random Town***
+Name:
+Dia
+
+(55, 6, 0) ***Random Town***
+Name:
+Fulom
+
+===== End of file =====

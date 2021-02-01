@@ -1,0 +1,1497 @@
+===== Map name =====
+Pandora's Box
+
+===== Map description =====
+Hades has taken a vacation, leaving some of his minions in charge.  For a little while things went well, but now it seems something drastic has happened down there.  If he does not return soon or someone doesn't fix whatever the problem is, then Greece will be buried in the dead.
+
+===== Rumors =====
+
+Name:
+Zeus
+Text:
+Zeus is located in the northern part of Greece on Mount Olympus.
+
+Name:
+Hades
+Text:
+Hades has been overrun by evil people.
+
+Name:
+Melpomene
+Text:
+The Muse of Tragedy is looking for resources. 
+
+Name:
+Melpomene
+Text:
+Melpomene, the Muse of Tragedy believes guilliability is a tragedy.
+
+Name:
+Melpomene
+Text:
+The Muse of Tragedy will try to trick you into giving her resources in return for a fictional sword.
+
+===== Timed events =====
+
+Name:
+Zeus
+Message:
+Once again you must prove you are better than all of the other Gods, for you are Zeus.  This time things are a bit more serious as you must find out what has happened in Hades.  All of your dalliances are to be put aside, well most anyway.  One or two can't hurt - No! you must focus or else all will be lost.  Hercules and Persues were successful as your Heroes and are more than willing to help out again.  This is, afterall a very worthy cause and quite within their realm of expertise.  Now you must find out what is going on around here.
+
+Name:
+Ares
+Message:
+Once again duty has called for the God of War to come to save the day.  You are quite used to such things as the other Gods wouldn't know how to run an assault to save their lives.  These disturbances in Hades don't normally concern you, but it seems the undead are getting a little a little out of hand.  No matter, you will prevail.  Paris, the man who started the Trojan war and Enyo, the Greek Goddess of War, have joined up with your cause, wanting to support you in this hour of glory.
+
+Name:
+Apollo
+Message:
+Once again the Sun God has taken to Greece in order to save the day.  Not that you, Apollo, mind so much, but it is sort of mundane to not be driving your chariot across the sky each day.  The boys are pretty well trained and should do well without your guidance for some time.  These happenings in Hades have nothing to do with your realm, but it seems very important to Zeus, and Demeter can be such a pain when she wants to.  Since her daughter, Perspone, is down there everyone has to help out or she'll get uppity.  You've recruited Abaris and Laocoon to act as your scouts and guides.
+
+Name:
+Athena
+Message:
+It seems Greece is once again in need of your great wisdom and intellect, but then again who does not need the Goddess of Wisdom on their side?  As Zeus's favored daughter you are practically necessary to the entire ordeal.  Last time did teach you a valuable lesson though.  Artemis is far too much trouble to have around on the Greek lands.  The woman really needs to quit bathing in public and then killing those poor Peeping Toms.  This time you have recruited Theseus and Erechtheus.  Much better choices, excellent heroes who will accomplish this task quickly.
+
+Name:
+Aphrodite
+Message:
+Once again you will have the opportunity to tortue the mortal men with your astounding beauty and charm.  As the Goddess of Beauty you aren't all that concerned with what happens in Hades, but who knows?  It could just be fun.  If it's not, then you can easily leave.  You will easily find out what the trouble is and take all of the credit.  This sort of thing goes over well with followers.  Eros, your son and Aeneas a handsome man you have admired for some time now, will aid your quest by being your heroes.
+
+Name:
+Hades Takes a Vacation
+Message:
+For the past two months Hades has been on vacation.  Up until now things have been quiet and there hasn't been any troubles what so ever.  However, the Oracles at Delphi warned of a great problem, and it would be best for the gods to prepare for a disaster.  Henceforth, the five of you are here, preparing your heroes for what is to come.  Whatever that may be.  Some have been rather miffed because Hades hasn't even sent a note as to how his vacation is going.  Demeter is really upset because he didn't take Perspone, and is thinking he's dishonouring his wife.
+
+Name:
+Time of Year
+Message:
+In the northern areas of Greece winter has fallen, covering the lands in a thick blanket of snow.  Throughout the middle parts of Greece Autumn is slowly gaining it's grip on the land, but summer has still kept hold in the southern parts.  You know Demeter, the Goddess of Earth is upset because her daughter has to stay with Hades for six months of the year.  Wanting her precious daughter to herself, Demeter cannot have what she wants and takes her frustrations out on the citizens of Greece.  Soon the entire country will be engulfed in snow.  Then Perspone will return to lands above the Underworld and to her loving mother's care.  Once this occurs, Spring will return and all will be happy.  For this day all of Greece waits and the land goes into a frozen sleep.
+
+Name:
+Pandora Releases Evil
+Message:
+A young woman named Pandora is the great granddaughter of the original Pandora, who released the evil spirits into the world.  Now, it appears this one has released evil demons into the world.  They fled through the night, wreaking havoc and attacking the townsfolk.  Heroes and militia were able to drive the beasts away, but they were released into the world none the less.  Pandora, fearing retribution is nowhere to be found.  Apparently she fears the gods will punish her for releasing these horrors.
+
+Name:
+Power - 1
+Message:
+Each and every morning you use your Godly powers to take care of the menial things in life.  This morning you feel slightly winded after the routine.  It is a strange feeling, one you can easily brush off.  After all, you are a god and nothing can harm you.
+
+Name:
+Scouts
+Message:
+Each of you have sent out men to search for these evil beasts, knowing they will cause many problems if they are not soon caught.  They are sent to the four corners of Greece, and a small band is sent to check out the Underworld.
+
+Name:
+News
+Message:
+Those who searched Greece found few traces of the evil Demons.  All of the traces pointed towards the openings to the Underworld.  With Hades out of town and these beasts on the loose things could get pretty bad soon.  Worrying about the creatures you send another group to investigate.
+
+Name:
+Pandora's Box
+Message:
+Pandora did not just leave the box where she found it, but took it with her.  After some tracking they know she left mainland Greece, but do not know where.  Rumor has it she left the box somewhere secluded in order to ensure no one will open it again.  You must find the box because as everyone knows the means to defeating these horrid creatures are within Pandora's Box.  More people are sent out in order to search for the Box, and all pray to the Gods the box is found soon.
+
+Name:
+Nemesis
+Message:
+Nemesis and her assistant, Dike have begun to dole out punishment to those who deserve it.  She had gone away, seeking to bring punishment to people in a far off land, but has returned and has much catching up to do.
+
+Name:
+Punishment - Zeus
+Message:
+Many times have your eyes and hands strayed from your body, violating your marital vows.  Even knowing your wife's harshness and cruelty, Nemesis gives you no room for such weak excuses.  Unable to physically harm you, she removes some of the resources from your lands.
+
+Name:
+Punishment - Ares
+Message:
+There are several accounts of you starting fights and wars in places where peace had reigned for a long time.  Your punishment is harsh, she takes many of your troops causing you to pay dearly to have them replaced.
+
+Name:
+Punishment - Apollo
+Message:
+There is still the little matter of a few women who met their death because they were running from your attentions.  Nemesis punishes you by inflicting you with a desease only cured by an expensive and hard to get herb.  You spend quite a bit of resources on an excursion to retrieve the herb, and create the cure.
+
+Name:
+Punishment - Athena
+Message:
+Since Artemis was under your guidance when you last dabbled in the mortal world you are responsible for her actions.  Included are the murders of several men who innocently happened across the bathing Goddess.  You pay the families of the men Artemis killed and swear you'll take it out of her hide.
+
+Name:
+Punishment - Aphrodite
+Message:
+Your little scheme to get back at Zeus and Hera did not go unnoticed.  A poor, innocent young woman died because of your treachery and now you shall be punished.  Nemesis has you create a shrine in honor of the young woman, who's only crime was to fall in love. 
+
+Name:
+Power 2
+Message:
+All this week you have felt tired at some point in the day.  Not the tired that comes with dealing with mortals, but the kind from using too much power.  For a God this is an impossible thing.  Immediately you send some wise men to investigate and come up with a solution.
+
+Name:
+Oracle
+Message:
+Word has been confirmed, the Oracle of Delphi knows where Pandora is.  However, the Oracle will only speak to the Heroes of a God.  In order to find out where the box is, or where Pandora is you must go to the Oracle located at Delphi.
+
+Name:
+Power -3 
+Message:
+The wise men have conferred.  These Devils and Demons have found a way to drain the power from the Gods.  If they are not destroyed in ten months you will become nothing more than a mortal.  According to the Scholar's calculations you have already wasted over forty days!  Horrified you contact the others, who also report the same troubles.  They must be stopped.
+
+Name:
+Secret Meeting with Ares
+Message:
+With great excitement you prepare for your meeting with Ares.  Thoughts of his perfect figure cause electric ripples to course through your body and mind.  Gleefully you journey to Hephaestus's Smithy, where there is no one to see you.  Using the small cot behind the forge area, you enjoy your hours alone with Ares.
+
+Name:
+Secret Meeting with Aphrodite
+Message:
+With great excitement you prepare for your meeting with Aphrodite.  Thoughts of her voluptuous figure causes electric ripples to course through your body and mind.  Gleefully you journey to Hephaestus's Smithy, where there is no one to see you.  Using the small cot behind the forge area, you enjoy your hours alone with Aphrodite.
+
+Name:
+Marpessa
+Message:
+A marvelous woman with long brown hair and beautiful eyes of placid water has drawn your thoughts each day for some time now.  Unable to stand it any longer you go to her home with intentions of wooing her.  Successfully you do so, for she is enamored with your wit, charm, and beautiful poems you can devise and beautifully sing.
+
+Name:
+Wisdom
+Message:
+As the grey-eyed Goddess of Wisdom you are often called the mind of the gods.  You are able to bestow skill and courage, victory in war for the just or destruction for the unjust at a whim.  		Today is a day of trials, when cases which are so difficult no other can sort them out, you are the one who does so.  After five cases you had the opportunity to punish three who were unjust and reward two who were very just.
+
+Name:
+Marpessa
+Message:
+Returning to her cabin you find her gone, only a note saying she has left with Idas in a winged chariot.  Enraged you pursue the couple, hunting them across Greece.  Finding them, you are prepared to destroy Idas and take Marpessa for your own.  Posiedon, the one who gave Idas the winged chariot intervenes and says Zeus should decide the matter.  Taking the issue to Zeus he agrees to decide the case.  You explain your undying love and infatuation for Marpessa very eloquently.  She steps forward with fear in her voice, and whispers her concerns.  Marpessa fears you will leave her in her old age, when she is no longer a vision of perfection.  Zeus agrees with her wise decision and rules Marpessa will be wife to Idas.  Brokenhearted you storm from the place.
+
+Name:
+Discovery
+Message:
+Again you have traveled to Haphaestus's smithy in order to be with your lover.  Lying on the bed, entwined in each other's arms you are suddenly bound by metal strips, tightly holding you to the bed.  To your shock and horror the other gods appear and begin to laugh at the two of you caught in the bed, naked and exposed.  Glaring you realize it was Helius, the Sun-God who sees everything, who told Haphaestus about your midnight excursions in his forge.  Burning with rage you break free and run from the smithy.
+
+Name:
+Discovery
+Message:
+Haphaestus calls all of the gods to his forge, but tells you not to mention a word to Aphrodite or Ares.  Wondering what could possibly be going on you quietly wait with the others in a dark corner of the smithy.  Eventually Ares arrives, and then Aphrodite.  Together they undress and climb into the small cot just behind the forge.  Trying to stifle a giggle at their pillow talk you suddenly howl with laughter as the two are surprised with metal arms springing from the bed and clamping them tightly in.  Laughing and pointing at their naked bodies you laugh until your sides hurt, and tears wobble out of your eyes.  With rage, the couple flees from the smithy, but you still roll on the floor laughing.
+
+Name:
+Prometheus
+Message:
+With great rage you tear after Prometheus, the fool who gave man fire.  Nailing his sorry carcass to Mount Caucasus you send an eagle to him every day.  There the eagle can swoop down and devour the exposed liver of Prometheus.  Each night the liver will grow again so he can undergo this vicious tortue the next day.  Satisfied he has been punished enough you sleep well tonight.
+
+Name:
+Power 4
+Message:
+Today, it was hard going just to grant a few simple requests.  You were supposed to help out your loyal followers, but only cryptic messages got through.  This whole draining of your godly power is rediculous!  It must be stopped soon.
+
+Name:
+Nightmare
+Message:
+With the weakening of your power nightmares are creeping into your uneasy sleep.  Terrifying images of being too weak to snap vines or ropes cause cold sweats to soak your bed.  The most vivid nightmare is when the Aloads bound you for just over a year.  The bonds held you inside a small, enclosed brazen jar on which you could not escape.  For so long those little walls were your whole life and dark terror played tricks and games with your mind.  Just as you were to collapse Hermes rescued you.  To this day you wake with a scream in your throat if you so much as think about what would happen if he didn't.
+
+Name:
+Olive Branch
+Message:
+For some time now you have realized the peasantry was missing out on some very important skills.  Taking the olive tree from a rock you bring it to farmers and show them how to plant and grow olive trees.  From there you show them how to make olive oil and learn to cook with it.  This is part of your daily life because you are the Goddess of Wisdom, and the one with all of the knowledge the people need.
+
+Name:
+Affair with Hermes
+Message:
+Hermes, the handsome messenger of the gods has been attracted to you for some time now.  Ares, now unwilling to even speak to you, is out of your horizon for a long time.  Doesn't matter, Hermes is much better looking and a lot less pushy than the God of War.  After a few glasses of wine, and some small chit chat you discover exactly what Hermes can deliver.  Enjoying your evening thoroughly, you invite him to deliver a message to you again.
+
+Name:
+Cyparissus
+Message:
+One of your more loyal followers, Cyparissus, has been praying to you because he can find no consolation.  One of his prized stags was killed, and he is asking permission to grieve forever.  Granting him the wish you turn him into a Cypress tree deciding his place would always be where others could grieve.
+
+Name:
+Affair with Hermes
+Message:
+Hermes was obviously unable to wait very long before delivering a message, sening your head into the clouds and your heart on cloud nine.  After coming down you realize this coupling will produce a wonderful bundle of joy.  Telling Hermes about this, he seems a little chillier than before.  Reassuring him he will be able to visit the child at any time, but wasn't expected to be around.  After all, message delivery is a busy business, and things have been sort of crazy lately.
+
+Name:
+Report
+Message:
+The reports from the Underworld have come in.  Things are not well there.  Perspone has been captured and Demeter has flown off the handle and gone to rescue her daughter.  The Demons and Devils are everywhere, guarding their new realm.  Tartarus has been turned into a play ground for the wicked. Someone must go restore order.  The dead are not being processed and are begining to pile up here and there, even in some places above ground.  No one knows what happened to Hades' assistants, but all must be released to continue with their jobs. 
+
+Name:
+Clothing
+Message:
+It has been a while since you helped the people invent better clothing.  Haphaestus has helped with armor and such, as he is the Smith-God, but he doesn't concern himself with clothing so much.  So you introduce embroidery and other fineries related to clothing.  Styles will soon change in Greece, and clothing will become more complex - and hopefully a little more covering.
+
+Name:
+Hephaestus
+Message:
+Hephaestus has been nothing but trouble, and you will have to cast him out of the heavens.  Hera and you were having one of your fights and the little twerp tried to interfere on her behalf!  Then again, when you were arguing with Athena, he tried to help her!  So now, he gets the boot and you don't have to worry about some stupid, meddling smith god every time you want to have a good row.
+
+Name:
+Hermaphroditus
+Message:
+Having no time to be in a motherly way you speed the pregnancy along.  After careful deliberation you find a deserted island and leave your beautiful boy with the water nymphs so they can look after him for a while.  
+
+Name:
+Glass Blowing
+Message:
+Now that the peasantry has Pottery down, and it's incorporated into their lifestyle, you decide they should learn how to create glass and use it in their homes.  After many burned fingers and hot hours you teach a few how to blow glass.  All of the nobles want glass in their homes to keep the bugs out, and you are getting much praise these days.
+
+Name:
+Hyacinthus
+Message:
+A young man so sweet and pure of heart has turned your head.  He is a wonderful youth with great potential.  Interested in encouraging Hyacinthus you go to meet him.  But, because of this power fluctuation you arrive and much to your horror kill him accidently.  His blood stains the ground, and a flower springs forth which you name after your lost love, Hyacinthus.
+
+Name:
+Ganymedes
+Message:
+It seems Aphrodite and some of the other female goddesses have taken up with this Ganymedes, a handsome youth who is the son of King Laomedon of Troy.  Sighing, you decide the youth will have to be the cupbearer of the gods, just to keep the hands of the ladies off him.  In compensation to his father for the deflowering of his son, you have to give the King some fine mares.  The ladies will definitely hear about this.
+
+Name:
+Anchises
+Message:
+A handsome mortal man has caught your eye, Anchises.  Enchanted by your wit and charm Anchises is quickly caught up in your splendor.  Romancing him for the evening is a pleasant break from the trials of this war.  Using your invention keeps the little ones at bay, and you are pleased with yourself as you leave him in the morning.
+
+Name:
+Power 5
+Message:
+Things are slowly getting worse.  You've come to the conclusion if things are not stopped soon you'll fade away into nothingness.  Gods after all, are made up only of their power.  Without it, you will cease to exist.
+
+Name:
+Anniversary of Trial
+Message:
+This is the day when you try to remember what could have happened if you were not aquitted.  This is the day when you are calm, when nothing is allowed to disturb your contemplation.  Many years ago one of Posiedon's sons, Halirrhothius attemtped to violate your precious daughter Alcippe.  You were able to stop the beastly brat, but only by killing him.  Angry Posiedon called for a trial, and you were tried before the twelve other gods.  Fear had gripped your spine that day, for if you had been convicted all of your power would be stripped.  The Areogapus Hill, which is now called the Hill of Ares, still has the power to set your skin crawling.  You will never forget what it was like to gain vengence, but will also know it can only be done on the battlefield where it is acceptable.
+
+Name:
+Murder of Clytaemnestra
+Message:
+Orestes, is a young man who recently killed his mother Clytaemnestra.  With no one to stand over the trial because none have ever been held before, you are the obvious choice to be the first to oversee this case.  It was complicated because Clytaemnestra had killed her husband, Agamemnon.  You determine that Orestes should be aquitted because he was avenging the murder of his father.
+
+Name:
+Bacchanalia
+Message:
+This is the celebration of Wine and Song, Bacchanalia in honor of Bacchus who brings such wonderful beverages.  Singing contests, ballads, poetry, and plenty of drink go around today.  Many people spend the day eating and enjoying wine-tasting contests.  That evening you relax with your troops, drinking as much wine as you can consume and singing until your throat is sore.  No one cares if anyone can sing well or off-key.  It's a night for parties and friends, a good night to be alive and well.
+
+Name:
+Ow.
+Message:
+You're paying for last night.  When will you ever learn that wine gives you a headache?  People are in a good mood, despite the abundance of hangovers.  At least you were smart enough to drink lots of water and avoid the worst of it.  Can't wait until next year, but Hermes won't be drinking and flying ever again.
+
+Name:
+Power 6
+Message:
+With each passing day you worry more and more about your waning powers.  The men are beginning to note a slight difference in you.  The simple act of keeping yourself smellling clean and fresh has become a luxury you cannot afford.  You actually had to take a bath today.  What a fiasco!
+
+Name:
+Aphrodisia
+Message:
+Aphrodisia is the celebration of Aphrodite, or more specifically of love.  It is celebrated across Greece, by people of all walks of life.  Even you, a god celebrates today by spending it with your loved ones.  You buy your significant other a nice present, plan a romantic dinner & enjoy the night.
+
+Name:
+Phaethon
+Message:
+While trapsing through some woods you came across a young man in the tender flower of glorious youth.  Breathtakingly beautiful you decide immediately you must have him.  Without another thought you wisk him away to your castle and show him the wonders of your room.
+
+Name:
+War Wound
+Message:
+Earlier in the morning it had been raining, and caused your thigh to ache.  Not knowing what this could be you confidentially asked an aid.  There is no reason for such pain, and you have never experienced this before.  He asked you if you have ever been wounded there.  Yes, Hercules had scored on you when you were helping the Pylians with their war.  The little fart was able to take a good chunk out of your thigh.  The aid explains why weather affects old wounds.  You realize it's better to be a god than to be mortal.
+
+Name:
+Callirrhoe
+Message:
+Callirrhoe has always been a loyal follower.  Now she asks a favor of you, that her sons will be fully grown in order to avenge their father's murder.  Thinking on the request, knowing it is cruel to deprive a child of their childhood, but still even more cruel to have them grow up without a father, you agree.  With a wave of your hand the boys are fully grown, have weapons and armor, and directions to their father's murderer.
+
+Name:
+Phaethon
+Message:
+For two days you have enjoyed the tender touches of the youthful Phaethon.  It has been a joyful and wonderful time for you both, but now must end.  The duties of being a god are beginning to hedge in on your little vacation.  Regretfully you send Phaethon back to his woodland home.
+
+Name:
+Hephaestus
+Message:
+Hephaestus pays you a visit after tasting some of Dionysus's wines.  Knowing he is drunk and in an amorous mood you try to politely fend off his advances.  Eventually you are forced to clock him as a few drops of liquid fall upon your leg.  Disgusted you flick the semen off your leg and kick the unconscious God.  He does nothing more than belch and roll over.  Rolling your eyes you are glad your virginity is still intact and leave the building.
+
+Name:
+Hymenaeus
+Message:
+Watching the mortals has caused your eye to stray towards a handsome young man by the name of Hymenaeus.  While spending much time with him you forget to keep an eye on things back at the castle.  Hermes, the eternal trickster is able to steal some of your cattle, sending the herders into a tizzy.  Enraged you are able to get them back, but you do lose time spent with Hymenaeus.
+
+Name:
+Power 7
+Message:
+In order to keep underlings and opponents in check you often use a simple power to augment your glory and power.  This time it didn't work quite so well and you ended up looking more like a blowhard than a powerful god.  This is not good at all.
+
+Name:
+Erichthonius
+Message:
+It seems the encounter with the Smith god, Hephaestus produced an offspring.  Apparently the boy has the lower body of a snake and the upper body of a human.  His name is Erichthonius.  Taking pity on the poor boy you change the lower half of his body into that of human form and send him off to Athens where he can be educated by your priests.
+
+Name:
+Adonis
+Message:
+A young man with unparalleled ability in sculpting has often produced works which have entranced you.  Enjoying your quiet visits to his studio you are always interested to see what he is working on next.  This time he has made a woman of pure white stone, a breathtaking beauty.  Bitterly he throws his chisel on the ground and weeps at the feet of the statue.  Heartbroken to see your favorite sculptor like this you listen closely to his heart to find the root of the problem.  You need not listen too hard.  He is weeping because he has fallen in love with the statue.  She is created in the perfect image of his ideal lover, and has given her all of the traits he would want, reflecting them in her statue.  With great pity you breathe life into the statue, exactly as he has hoped.  Filled with joyful wonder Adonis takes the woman in his arms and praises you, knowing only Aphrodite would do something like this for love.
+
+Name:
+Alcinoe
+Message:
+A poor woman who is a spinner named Nicandra beseeches you at your temple in Athens.  She worked a full year for Alcinoe, but did not recieve all of her pay.  Now she is out on the street with not enough money to live on.  Angry that someone would treat one of your weavers so poorly you seek vengence on Alcinoe.
+
+Name:
+Juturna
+Message:
+A beautiful maiden who visits an exquisite lake everyday has turned your head.  Ensuring Hera is busy elsewhere you go and ravish the woman.  Afterwards you hold her in your arms, whispering sweet nothings in her ear.  Realizing she is shuddering with sobs you ask her what is wrong.  Apparently she was a follower of Artemis, and the Virgin Goddess will be displeased with her.  Knowing Artemis will most likely punish her, you decide it would be better to make her a goddess.  Therefore, she becomes the Goddess of Lakes and Rivers, with eyes like placid pools - which you will often get lost in.
+
+Name:
+Battle
+Message:
+A recent battle, close to one of your castles took place while you were away.   The first thing you ask is if Deimos and Phobus were there.  The general nods his head yes.  The sons of Ares, Fear and Terror were there to whip the enemy into small pieces.  You grin proudly, for your warrior sons are the pride of your offspring.
+
+Name:
+Alcinoe
+Message:
+Your vengence on Alcinoe has come to fruitition.  She has fallen in love with a rogue who will take her far away and dump her when he's done.  In the meantime Alcinoe's husband needs to have a wife to raise his three children.  Just as luck would have it Nicandra knows the children well and they get along.  So Nicandra has a home and Alcinoe will be on the street soon.  All is right with the world.
+
+Name:
+Anthesteria
+Message:
+Hurray!  It is Anthesteria, the Celebration of Spring.  The long winter is over, Persephone has returned from the underworld, to enter into the sunlight with her mother Demeter.  Demeter has released her icy grip on the world and let all things grow again.  What a wonderful time!
+
+Name:
+Party
+Message:
+Time to Paaarty!  In celebration of Spring everyone cuts loose.  Even Hera lets her hair down.  Everyone drinks deeply and eats well.  Peasants and craftsmen make merry all day long.  You enjoy the parties and contests, just living it up well into the night.  Even if the snow has yet to lift, it will surely do so soon.
+
+Name:
+Hangover
+Message:
+Well, you're paying for last night's parties.  Your head feels like it's going to explode and the last thing you remember was praying to stop turning your stomach inside out.  The cat walks far too heavily and you swear the dead are making the loudest racket you've ever heard.
+
+Name:
+Power - 8
+Message:
+It has become apparent you are slowly losing your powers.  The simple things are no longer simple, and it gets harder to keep up the more complicated things.  Soon your powers will fade away all together.  Either destroy the demons or face oblivion.
+
+Name:
+Prince of Thieves
+Message:
+Autolycus, the Prince of Thieves was seen outside of your court the other day.  His giddy laughter was heard in the Marketplace as he tossed a coin into the air.  Fearing the worst your Treasurer counts the Kingdom's resources and comes up a bit short.  Screaming mad you want that Thief's head, but none can find him.  Some day rather soon you will find the weaselly little schmuck and tear him limb from limb.
+
+Name:
+Power - 9
+Message:
+The drain on your power has become more and more obvious.  The weaker you get the less likely you will be able to fend off the mortals.  Soon it will be almost all up to the demi-gods who do not rely on such power to complete this mission.  
+
+Name:
+Strikes Again!
+Message:
+The Prince of Thieves has struck again - or at least someone looking a lot like the sneaky thief.  Now he has definitely gone one step too far, but no one can get their hands on him.  Zeus is going to set up a trap for him, hopefully it'll work.
+
+Name:
+Trap fails
+Message:
+Zeus attempts to catch the thief, but he laughs in the God's face and skips away merrily.  Along with him he takes some resources.  For several days you kick the kitchen dogs in outrage.
+
+Name:
+Power - 10
+Message:
+You have grown so weak, it is easier to choose a human form and stay in it, rather than conduct the search for the demons in your god form.  Relying on messengers and the magicks of mortals to keep up the lesser communications is beginning to grind on you.  But until order can be restored all you can do is kick the dog.
+
+Name:
+Finally!
+Message:
+This time you know the trap will work.  Each of you are working hard to catch Autolycus and stop him from taking all of your resources.  You need those to save the world.  Well, he sneaks in past everyone, but the second he touches the tempting diamond, BAM!  He's caught like the rat he is.  
+
+Name:
+Caught!
+Message:
+Autolycus is dumped upside down and shaken for all he's worth.  Once everything is sorted out and split up there isn't much.  Seems he had a great few weeks on you.  Smacking him around a bit, and tossing him into jail, Autolycus decides rather quickly he will stop robbing from the gods and stick to the mortals.
+
+Name:
+Butes
+Message:
+A handsome youth, with a strong body and a love for travel has caught your eye.  He is Butes, and traveled with Jason and the Argonauts for some time.  You watch over him, ensuring no harm comes to him for if you get the time he will know you in a very personal way.
+
+Name:
+Butes
+Message:
+Butes swam off to be with the Sirens, enchanted by their vile song.  With a quick hand you fish him out of the sea and place him in Sicily.  There he will be safe from the Sirens, and from the demons who are running amuck these days.  Feeling as if you need a good night you tell Butes who rescued him, and exactly how he can repay you.  He is a willing partner in the night's activities.
+
+Name:
+Diomedes
+Message:
+Your son, Diomedes is the King of Bistonians in Thrace.  Soon his birthday will be coming up and you have to think of a suitable present.  Otherwise his mother, Cyrene will once again give the better gift.  She left you a few years ago.   Of course, it's all due to Apollo who found her wrestling a lion without any weapons and fell in love with her.  He's always falling in love - with other people's women that is.  Rage burns in your heart and you need to consider the issue longer.
+
+Name:
+Rhoeo
+Message:
+A beautiful young woman by the name of Rhoeo has caught your attention, and you pay her a visit.  After spending the night in exquisite pleasure you take your leave, waking no one in the household.
+
+Name:
+Helius
+Message:
+A handsome man by the name of Helius, with a sharp mind and great wisdom has been praying steadily at your temple.  His only wish is to be able to meet you once, and he will forever be happy.  In order to entice you into meeting him he has been just, kind and has learned all he can.  Also he has tried to be humble and caring to all those around him.  Finally swayed by his actions you agree to meet with him.  Upon meeting him you realize how much you enjoy his company and wish to continue to see him.  That evening, as you hold him close you know both of you will be extremely happy for a long time.
+
+Name:
+Diomedes
+Message:
+Ha!  You have arrived upon the perfect gift.  Diomedes loves horses, but he also thinks that everything should be a carnivore.  So you will give him some flesh-eating horses.  That'll keep the peasantry in line as well, and definitely show up Cyrene.
+
+Name:
+Aegina
+Message:
+A daughter of the river god Asopus, Aegina is a most beautiful woman.  Carrying her away in the guise of an eagle to the island Oenone you have your way with the beautiful woman.  You promise the island will be named after her, Aegina.  While you are spending some time with the beauty her father pursues you.  Using your lightning bolts you are able to send him away to his own streams and leave the two of you alone.
+
+Name:
+Rhoeo
+Message:
+Able to return to your beloved Rhoeo you find she is not in her room.  Wondering what happened to her you begin to question the servants.  Her father became aware of Rhoeo's indiscretion and believed it was a common man who put her in the motherly way.  Angry, he has shut her up in a chest and cast her into the sea.  Terrified she would die you immediately get a hold of Posiedon.
+
+Name:
+Power - 11
+Message:
+You stink.  This whole being mortal thing all of the time is a difficult and obnoxious situation.  Bathing?  What in Hades is that?  Well, one of your Generals politely informs you how to bathe, comb your hair, brush your teeth and a lot of other embarassing details that should never be mentioned again.  This whole thing is getting old pretty darn quick.  Time to destroy the demons and get back to normal!
+
+Name:
+Rhoeo
+Message:
+Posiedon was able to find the chest and float it to the shores of Delos where she would be safe.  You arrange for her to have a mortal husband and whisper in her ear to name your son Anius and help him become one of your priests.
+
+Name:
+Diomedes
+Message:
+Diomedes loved your present much better than his mother's gifts.  She got him a couple of girls who dance well, and probably sing or something, but nothing could compare to those perfect flesh-eating horses.  Cyrene had said it was something only you and Diomedes could appreciate, no one else could.  Good, you think.  Afterall who else matters?
+
+Name:
+Helius
+Message:
+Now you have had time to spend with him and know him much better, in many ways, you decide he must be kept safe.  Placing Helius on a island with only his close friends and a few servants you ensure his safety.  Taking your leave you intend to return once all of the troubles with the demons is done.
+
+Name:
+Lemnian Women
+Message:
+With all of the power drains it is imperative that each god is worshipped to maximum capacity, especially now.  You have discovered that no woman of Lemnian has honored you in some time.  With great rage you arrive there to forcefully explain the situation.  Believing the Goddess of Love to be irrelevant they scorn you and turn their backs.  With great anger you remove the love between them and their husbands, causing the husbands to consort with Thracian women who are in need of good men.  After this the men leave the Lemnian women, leaving the island inhabited solely by bitter women.
+
+Name:
+Cycnus
+Message:
+Cycnus is one of your daughters.  She is a bit uppity, but she is the daughter of a god after all.  One of her suitors, a handsome youth by the name of Phylius is constantly trying to win her heart.  Unfortunately she keeps having him do all sorts of tasks or bring her gifts.  You bring her to the castle to talk sense into her.  Of course she does not listen to her father.  Do children ever?
+
+Name:
+Britomartis
+Message:
+Your daughter by Carme, Britomartis was pursued by King Minos of Create.  She leapt from the cliffs, and you feared she was dead.  Luckily, some fishermen caught her up in their nets and cared for her.  Artemis, hearing of the maidens lengths to keep her maiden hood intact, has made Britomartis a Goddess of the Moon.  Well, it is better than a dead or ravished daughter, but another Goddess of the Moon?
+
+Name:
+Cycnus
+Message:
+Cycnus has gone too far this time.  The poor young man will not complete one of the tasks.  Desperate and out of hope he throws himself from a cliff.  Feeling pity for the poor young man you turn him into a swan so he may lead a more placid and fulfilling life than running after your foolish daughter.
+
+Name:
+Corybantes
+Message:
+It has become apparent you are going to have Helius's child.  Knowing it will not do to be in a motherly way now, you speed things up and bring the boy, named Corybantes to the island with his father.  Now you can see both of them at once when it is convient for you.
+
+Name:
+Lemnian Women
+Message:
+After a few days of no men the women begin to see things your way.  They worship heavily, fasting and making several offerings.  Finally appeased you send them new men, but remind the Lemnian women to never scorn any god.
+
+Name:
+Meleager
+Message:
+One of your sons, Meleager was one of the Argonauts, a great fighter and warrior.  Proud of one son who could fight well and was considered honorable you always ensured the chest with the brand in it was kept safe.  Of course it had been Althaea's idea to keep the brand from burning out so Meleager could live a long and full life.  If it burned out he would die, or at least according to the Moerae - who are rarely wrong.		But today your pride has ended for him.  Meleager has killed all of his mother's brothers.  Each were good men with families, and Althaea has cried bitterly all day.  Now she has pulled the brand from the chest and lit it.  Knowing this is the only way for her to ensure Meleager does nothing so cruel again, you let her end your son's life.
+
+Name:
+Cycnus
+Message:
+Heartbroken, your daughter Cycnus comes to you.  She has finally realized her love for Phylius and feels guilty about the whole thing, and wants to be with him.  Sighing heavily you decide to help her out, but not the way she thinks.  Quietly you turn her into a swan so she and Phylius can live peacefully together forever.
+
+Name:
+Power - 12
+Message:
+Your limits of patience have been maxed out and pushed beyond belief.  Being mortal rots, and all you want to do is go back to Mt. Olympus.  Unfortunately, with all of the power drained from it, Mt. Olympus is nothing more than a big hunk of rock.  Darn it!  Patience at an end you throw a fit worthy of a bedraggled God and plan the last stages of your assault on the demons.
+
+Name:
+Level Designers
+Message:
+A group of strange men are sitting in a glen, chatting about the philosophies which is better, beer or wine.  Heatedly discussing such fine points as, wine and beer help you have fun, according to Ryionius and Waltus.   Davius and Mikeus were discussing that if they drank at all it would have to be wine because it would be better to follow Dionysus.  Marcus, who was named after Mars, the Roman God of War was arguing that wine and beer simply addle the senses and make you unable to fight well.   After listening to them ramble on for a while, another joins the fray, Gustus chimed in from just outside the glen that wine is definitely better, along with Bonitius who agrees.  Laughing gaily at their lighthearted converstaion you introduce yourself. 		After all of the jaws are picked up off the ground they begin to ask you questions:  Are good are you in bed?  (which was responded with "How Wude" from Gustus)  My house or yours?  and of course the classic: " What is your sign?"
+
+Name:
+Level Designers
+Message:
+A group of young men sit around trying to play instruments while another attempts to warble acceptably.  Others, who are their friends, clap their hands over their ears and pray someone will silence the young group who calls themselves the "Honkeys".  Davius comments they are called that because of the horrid sounds the group makes.  Waltus says they can't even be considered a musical group, but could be considered a weapon of war.  As the insults continue you decide to do something to help this poor band.		Arriving on the scene all are relieved.  The listeners are happy - thinking you will at least push the mute button on these guys.  The 'musicians' are happy, thinking you have come to congratulate their work.  Both sets are disappointed at first.		"I will not stop you, but will help you get a little better."  You say and wave your hand, causing the group to understand the concepts of harmony, rythym and beat.  Afterwards everyone is much happier.
+
+Name:
+Level Designers
+Message:
+A group of young men, known only as the "Designers" are standing around, showing off hand-to-hand combat moves, albeit badly.  Laughing and playing around at beating each other up you decide to show them how it is really done.		Upon your arrival they instantly recognize you as you introduce yourself.  The responses are as follows:  Mikeus: "Peace Bro".  Ryan, "Hi" he squeaks and pees himself.  Marcus, "Prove it" Davius, "Fight any good wars lately?"  Timieas, "Want a Honkeys sticker?"  Waltus - passed out.		Things went downhill from here.
+
+Name:
+Level Designers
+Message:
+A discussion of "Why" has come up.  Of course the various answers are, "Why is Ryionus stupid?"  "Because he was born that way, or he worked really hard at it."  More questions of Why? came about, but all went on in a rediculous endless cycle of why.  Amused by the amateur philosophies passing about you decide to pay them a visit.		Introducing yourself they immediately begin to barrage you with inane questions.  Jeffius, "What was it like coming out of that dude's brain?"  Ryionus, "How much wood can a woodchuck chuck?"  Marcus, "Why do hotdogs come in packages of 10 and buns in packages of 8?"  Waltius, "How big-?" Ryionus interrupts - "is the world in centimeters?"  Davius, "Where ever you go, there you are."  Mikeus, "Is it OK for Vegetarians to eat Animal Crackers?"		You decide they really don't want to have any of your wisdom, frown,  and turn them into toads.
+
+Name:
+Level Designers
+Message:
+Coming around the mountain you come across a group of men called the Designers.  They are sitting around chatting when you walk into the middle of the glen.		Ryionus, instantly recognizing you says, "Hey!  Do lightning bolts really come out of your arse?"  You respond with, "I'm Zeus, not William Wallace!"  And turn him into a million atoms.  Davius says, "Finally!"  Waltius Chimes in, "Cool!  Can you do it again?"  You think about it and turn him into a million atoms.  Mikeus drops to his knees and begins to bow saying, "I'm not worthy!  I'm not worthy!"  Marcus begins to dance a jig.		Realizing these guys are lunatics you make a hasty exit, stage left.
+
+===== Objects =====
+
+(78, 55, 0) ***Dungeon***
+Name:
+Lamia
+
+(125, 83, 0) ***Dungeon***
+Name:
+Ithaca
+
+(18, 37, 0) ***Dungeon***
+Name:
+Ioaannina
+
+(47, 95, 0) ***Castle***
+Name:
+Patras
+
+(68, 101, 0) ***Castle***
+Name:
+Sparta
+
+(49, 111, 0) ***Rampart***
+Name:
+Kalamata
+
+(90, 101, 0) ***Dungeon***
+Name:
+Corinth
+
+(98, 121, 0) ***Dungeon***
+Name:
+Komotini
+
+(109, 106, 0) ***Castle***
+Name:
+Athens
+
+(74, 73, 0) ***Rampart***
+Name:
+Delphi
+
+(87, 6, 0) ***Tower***
+Name:
+Kavala
+
+(62, 6, 0) ***Tower***
+Name:
+Abderas
+
+(52, 20, 0) ***Tower***
+Name:
+Mt. Olypus
+
+(41, 48, 0) ***Dungeon***
+Name:
+Cadmeia
+
+(41, 34, 0) ***Rampart***
+Name:
+Winery
+
+(106, 12, 0) ***Tower***
+Name:
+Phrygia
+
+(51, 61, 0) ***Rampart***
+Name:
+Arcadia
+
+(40, 10, 0) ***Prison***
+Name:
+Abderus
+Biography:
+Abderus is a loyal and good friend of Hercules.  He traveled with Hercules, doing good deeds throughout Greece.  In an attempt to stop raiders he found himself in jail for several years.  
+
+(66, 4, 0) ***Prison***
+Name:
+Achates
+Biography:
+Achates was the companion of Aeneas in his wanderings and his subsequent flight from Troy.  He typifies the faithful friend and companion.  After parting company with Aeneas he has been wandering Greece, seeking a purpose.
+
+(82, 105, 0) ***Seer's Hut***
+Message:
+Greetings traveler, I am Aoede, the Muse of Song.  Unfortunately there are some Harpy Hags lurking about the entrance to where I take my holidays.  If you would be so kind as to get rid of them, I will reward you greatly.
+At last, you defeated the Harpy Hags, and I can take my holiday.  Thank you so much.  You have learned much here, and shall be rewarded with greater knowledge.
+
+(95, 128, 0) ***Seer's Hut***
+Message:
+I beg you, please help me.  I am Admetus, and this woman is my wife, Alcestis.  She gave up her life so I could live.  If you bring me the Vial of Lifeblood the wise man will be able to bring her back.  He promises to teach you much of what he knows.  Will you help me?
+
+(100, 83, 0) ***Castle***
+Name:
+Chios
+
+(100, 79, 0) ***Seer's Hut***
+Message:
+Hello, I have been waiting for your arrival.  There are some new creatures who have come to visit Greece.  They call themselves Psi Elementals.  If you would be so kind as to bring them so I can discuss philosophies with them, I will reward you with magical power.
+No luck in finding the Psi Elementals?  Maybe they are located in their home.
+Excellent!  If you would be so kind as to show them in the door, and take your leave.  There is much I would like to discuss with them.
+
+(41, 70, 0) ***Seer's Hut***
+Message:
+I am Clio, the muse of History.  There is a Bowstring of the Unicorn, made from the threads of a Unicorn's mane.  Besides it's magical properties there are other historical information woven within the strings.  Please bring this to me and I will reward you for your efforts.
+I am so glad you have found the Bowstring.  If you are willing to trade it, I will grant you much experience, in your layman's terms, it would be 5,000 points.  Will you trade?
+
+(62, 52, 0) ***Dungeon***
+Name:
+Nauplia
+
+(62, 45, 0) ***Seer's Hut***
+Message:
+I am old and wise, and I do not admit just anyone into my home.  You may enter when you have reached experience level 20.
+Now you are worthy of coming into my home.  I am Terpsichore, the Muse of Education.  Stay a while and I will teach you more in one hour than you could learn in weeks.
+
+(3, 5, 0) ***Tower***
+Name:
+Lydia
+
+(24, 10, 0) ***Seer's Hut***
+Message:
+Greetings traveler, I am Melpomene.  I am performing some very important experiments in order to help destroy the demons which have invaded Greece.  If you could bring me 50 Wood and Ore, and 25 of each of the other precious resources, along with 10,000 gold I will give you a weapon powerful enough to defeat the demons.
+Finally!  Here, give the 50 Wood, 25 Mercury, 50 Ore, 25 Sulfur, 25 Crystal, 25 Gems and 10,000 Gold to me, and I'll give you Armageddon's Blade.
+
+(65, 129, 0) ***Rampart***
+Name:
+Aethiopia
+
+(62, 36, 0) ***Rampart***
+Name:
+Volos
+
+(12, 28, 0) ***Seer's Hut***
+Message:
+I am the muse of Astronomy, Urania.  In order to further study the stars I need the Speculum.  Please bring it to me and I will give you these.  She shows you a bag of gems.
+
+(72, 65, 0) ***Seer's Hut***
+Message:
+I am Erato, the Muse of Lyric Art.  Inspiration has been hard to come by recently, but I am sure that if you bring me 20 beautiful gems I could find the inspiration I need.  Normally this Golden Bow is my inspiration for beauty, but it has not been working lately.  Since I've no other need for it, I'll exchange it for the 50 Gems.
+I'm sorry, but I have to stick to my original number of 20 gems.  This is afterall, quite a beautiful bow.
+Thank you!  They are so beautiful, inspiration is already coming to me.  Will you exchange the Bow for the gems?
+
+(49, 1, 0) ***Seer's Hut***
+Message:
+Excellent!  You have arrived.  I am Euterpe, the Muse of the Flute.  My classes are beginning soon, but I am short by several flutes.  If you could bring me 100 wood then I would be able to construct the flutes.  There isn't much of great value here, but I do have this pretty paperweight I could give you.
+Thank you so much!  Will you give me the wood?  I will of course give you this pretty paperweight.
+
+(77, 74, 0) ***Event***
+Message:
+Greetings travelor.  We know why you are here.  Seek the one called Pandora in a strange place beyond the great mountains to the North.  The name of the city is Lydia.  There you will find the young woman.  Only she knows where the Box is.
+
+(76, 74, 0) ***Sign***
+Message:
+Oracle ------>
+
+(83, 69, 0) ***Event***
+Message:
+You can easily see that the valley surrounding Delphi has been infested with the new evil beasts.  You are positive the Oracle is not pleased with this new turn of events.
+
+(81, 72, 0) ***Horned Demon***
+Message:
+This is our valley!  It was stupid of you to come here!
+
+(64, 72, 0) ***Sign***
+Message:
+To get to Lydia, where Pandora is, take the boat south and follow the ocean to the first Island you come across.
+
+(14, 134, 0) ***Event***
+Message:
+Here, on this Island Pandora hid her box somewhere in the trees.  Now you must find the Box, open it and take the contents to defeat the Devils.  Moving away from the teleporter you are attacked!  Demons are protecting the box!
+
+(6, 135, 0) ***Pandora's Box***
+Message:
+Here is Pandora's Box!  Finally you will be able to take the treasures within and defeat the demons who have invaded Hades.  While looking to open the box a Horde of Medusas slither out.  "None shall take this box.  It is our revenge for being scorned by the gods!"
+
+(142, 132, 0) ***Event***
+Message:
+Down this pit and into the underground caves is the entrance to Hades.  This is the way Aneas took to venture into the Netherlands.  It is the path you have chosen to get into the Underworld.
+
+(134, 104, 0) ***Sign***
+Message:
+The water passage to the Underworld is temporarily out of order.  When the demons are gone this will be reopened.
+
+(32, 61, 0) ***Serpent Fly***
+Message:
+I am Achelous, and these are my underlings.  There is no one who can defeat me, God of the River!  Prepare to meet thy doom weak mortal!
+
+(90, 143, 0) ***Demon***
+Message:
+We are the Alastor, the avenging demons.  We seek vengence on all who have slandered our Mistress!  We know you have, for there are none who have not.  Prepare to die.
+
+(19, 92, 0) ***Event***
+Message:
+Passing through the glade you see a statue of a man.  The inscription reads, "Here is a man turned into stone, to reflect what was in his heart.  He could not return the love of another."  It is signed by Anteros, the God of Mutual Love.  You hope there isn't anyone who's secretly in love with you!
+
+(124, 128, 0) ***Event***
+Message:
+Within this lush island you see a beautiful woman tending to the vegetation.  She smiles coyly at you and your men, but bashfully turns away.  Inflamed by her beauty the men decide to pursue her, despite your protests.  They quickly follow her deeper into the lush gardens.
+
+(123, 127, 0) ***Event***
+Message:
+The woman shows the troops a place of great beauty and peace.  Here she finally explains herself.  She is Antheia, the goddess of Gardens and Blossoming Love.  Here she can instill the passions kept bottled with the human soul.  You may not believe her, but it's definitely good for morale.
+
+(13, 106, 0) ***Cyclops***
+Message:
+We are the Arimaspians, and are here for business reasons.  None are allowed onto this island until we are done.  We don't want you here.  Go away!  What was that?  Oh, so you want to play rough?  Well that's just fine with us!
+
+(19, 109, 0) ***Cyclops King***
+Message:
+Saw that you didn't take our brethern seriously.  Now, you've dealt with the rest, you'll have to deal with the best!  Arimaspians unite!
+
+(23, 108, 0) ***Griffin***
+Message:
+You have destroyed our enemies, the Arimaspians.  For that we will be grateful.  They always wish to take our gold, those greedy one-eyed fools.  Up to a few months ago, they couldn't even get on the island, but have been pushing us farther and farther back.  Mind if we join such a brave hero?
+
+(24, 113, 0) ***Griffin***
+Message:
+We are extremely glad you could help us.  There is more gold here, please take it as reward for killing those beastly Arimaspians.  Such brutes, not a brain in their oversized heads, just a big blinking eye that sees nothing.  We would be glad to join such an individual as yourself.  May we join?
+
+(21, 111, 0) ***Griffin***
+Message:
+Thank you so much for taking those Arimaspians and teaching them a lesson.  Seems like they would never leave us alone.  Hopefully they'll take the hint and permanently stay far away from us.  Fortunately we were able to move most of our gold.  Would you like some more help in your travels?
+
+(26, 135, 0) ***Event***
+Message:
+You realize this must be approximately where Atlantis, the lost city would have been.  Now there is nothing more than a few mountain peaks here and there.  Towards the west is a little more land, but there is little left of this legendary place.  So many people died here, such sadness.
+
+(6, 37, 0) ***Event***
+Message:
+A voice calls out, "This is a cursed island.  Here are those who have done terrible deeds and have paid for their sins against the Gods and man.  Beware all who travel here, do not fall into the traps these poor souls once did."  The omninous voice fades away, but the chills along your spine don't.
+
+(3, 36, 0) ***Event***
+Message:
+Here you can see a banquet, the woman and Thyestes are in attendance, along with the snooping man.  Turns out he is the King of Mycenae, Atreus.  Smugly he watches as servants bring the main dish.  He does not eat.  Once the dinner is over he announces it was Thyestes's son they had feasted on!
+
+(3, 37, 0) ***Event***
+Message:
+You come across a startling sight.  Seems a man is seducing a woman, obviously married.  The man's name is Thyestes and according your memory the brother of the King of Mycenae, but he has been dead for quite some time.  The two of them couple, and then part ways.  You notice a man watching, hidden.
+
+(3, 35, 0) ***Random Resource***
+Message:
+You wonder if this little pile of trinkets had been worth the horrid sight you had witnessed.  Your men are still wretching from the vilness of it all.
+
+(128, 109, 0) ***Silver Pegasus***
+Message:
+Greetings travelor, I am Aurora, the Goddess of the Dawn.  These are my followers, who help me ensure each and every dawn is a perfect one.  I have heard of the troubles with the underworld.  We shall help, if you will have us.
+
+(122, 36, 0) ***Event***
+Message:
+You see nothing, but do feel the slight rustling off to your left.  Turning, there is nothing but thin air there.  After a few moments you press on, only hearing the faint laughter of a young man.  Puzzled, you don't know what to make of it.  Brushing the incident off you continue on your way.
+
+(121, 38, 0) ***Event***
+Message:
+Stopping for a quick break you soon urge the men forward.  Suddenly, about a dozen fall on their face.  Someone had tied their shoelaces together!  Grumbling, you curse under your breath as they collect themselves with others snicker quietly behind their hands.  This is rediculous!
+
+(120, 39, 0) ***Event***
+Message:
+Breaking out of the winding path you are glad for a bit of the openness here on this small island.  The horses can go water down by the lake and you can take a breather.  The quiet laughter can be heard once again, and your men look about nervously.  It's almost as if you're walking into a trap.
+
+(118, 37, 0) ***Event***
+Message:
+Out of nowhere a dazzling youth appears before you.  He tips his hat, bowing deeply and says in a jesting manner, "It's been nice doing business with you!" and he disappears.  With a sinking feeling you take stock of your inventory.  It appears Autolycus, Prince of Thieves has taken you for a ride.
+
+(124, 34, 0) ***Cerberus***
+Message:
+It appears some of those evil beasts have begun to take over other areas besides the underworld.  This is not a good sign.
+
+(70, 49, 0) ***Event***
+Message:
+You can see this is where Boan broke the law and visited the sacred well without the rank of Hero.  She was punished by the Gods, as the well rose up and pursued her.  In an effort to escape she prayed hard for forgiveness and was turned into the river Boyne.
+
+(66, 39, 0) ***Sign***
+Message:
+Welcome to the River Boyne.  No fishing Please.
+
+(68, 41, 0) ***Event***
+Message:
+Puzzled by the sign you ask one of your advisors about it.  "See those nine trees along the river?  From those nine trees the Salmon of Knowledge feeds.  The person who eats them will know everything.  Guess the Gods don't want you to know everything."  You decide to honor the God's wishes.
+
+(126, 110, 0) ***Air Elemental***
+Message:
+Greetings, I am Boreas, the North Wind God.  I see you have met my mother, Aurora.  I too would like to join your ranks in hopes of defeating the evil found below.  Will you let me and my friends join you?
+
+(134, 116, 0) ***Event***
+Message:
+Startled you come across a giant with a hundred hands and fifty heads.  You instantly recognize Briareus, the giant who helped Zeus imprison and guard the Titans in Tartarus.  It must be bad down there for him to be here.  He personally cannot help you, but his children can.
+
+(33, 26, 0) ***Event***
+Message:
+Stumbling upon a serpent staff you realize you have come across the Wand of Hermes, the Caduceus!  You shout out your good fortune.  On winged feet a god arrives.  It's Hermes.  "Thanks for finding this.  Here's a few coins for your trouble."  He tosses the bag of gold, takes the wand and flies off.
+
+(17, 95, 0) ***Event***
+Message:
+Nestled away in this beautiful glade is a woman of eloquence and grace.  She is reciting heroic poetry to a small crowd.  Only Calliope, the chief of the Muses could speak so eloquently.  You consider yourself lucky to have heard her.  Complimenting her speech, she smiles, and good fortune shines on you.
+
+(142, 97, 0) ***Sign***
+Message:
+Welcome to Ogygia.
+
+(140, 95, 0) ***Event***
+Message:
+A beautiful sea nymph appears from seemingly nowhere.  Enchanted, the men forget their mission.  Wondering what to do against such a powerful woman you remember she is Calypso, the one who waylaid Odysseus.  Reminding the men of her treachery they want to leave, but she won't let you!
+
+(27, 99, 0) ***Event***
+Message:
+Here, you find Clio, the muse of History giving lessons on what has happened around the world, and in Greece.  Deciding you could use a little brushing up, you sit in on her lecture for a while, learning much about what has past.
+
+(20, 97, 0) ***Event***
+Message:
+Chancing upon a wedding in progress you see this lucky couple has a beautiful woman with a more beautiful voice singing exquisite songs.  Once she is done, you realize this is the Muse Erato, who sings Love and Marriage Songs.  For such enthusastic applause she gives you a gift.
+
+(19, 91, 0) ***Unicorn***
+Message:
+None shall pass.  This island and it's inhabitants are to remain undisturbed.  This is by order of Apollo.  We will not fail him.  You should have left when you had the chance.
+
+(21, 89, 0) ***Sign***
+Message:
+Private island.  Muses and guests only.  All others should leave immediately.  By order of Apollo.
+
+(22, 96, 0) ***Event***
+Message:
+A few women play merrily.  You can see there is one with exceptional beauty.  Noticing you, she introduces herself, "I am Daphne, mother of Persues.  Once he freed me from the bronze tower my father had placed me in, I was invited here by Apollo."  You leave her, not wanting to upset the gods.
+
+(53, 49, 0) ***Event***
+Message:
+Passing through you see a young man herding sheep.  He looks remarkably like Hermes, but has nymph-like qualities.  Noticing your curiosity he explains, "My father is Hermes, and my mother a nymph.  She abandonded me to be raised by Sheperds.  I am Daphnis"  He continues on, herding sheep.
+
+(51, 67, 0) ***Event***
+Message:
+This stream seems to have a little more than water running in it.  A merry, pudgy man with a large belly and a pitcher of wine comes strolling your way.  He grins, laughs and begins to sing a merry tune.  Giggling, he falls into the stream, causing more wine to flow.  You recognize Dionysus instantly
+
+(52, 66, 0) ***Event***
+Message:
+Merrily following you and the men, Dionysus finally convinces everyone to have a little fun and join him in the festivities.  Seems he's celebrating his "Unbirthday", a concept he found in his travels, in order to have a party on normal days of the week.  Seems to work, and is good for morale.
+
+(59, 60, 0) ***Event***
+Message:
+After spending much time with Dionysus your men are now suffering from a wicked hangover.  Holding their heads and emptying their stomachs, it'll be a long while before anyone imbibes like that again.  Ugh.
+
+(48, 57, 0) ***Event***
+Message:
+Along this enchanted woodland path you see glimpses of beautiful women, barely clothed, playing within the borders of the forest.  They are nymphs, or Dryades, as the locals call them.  They have a tendancy to steal away men, or precious items.  After passing through you check your pockets.
+
+(51, 56, 0) ***Event***
+Message:
+Shouting for your men to go towards the School you find your voice repeated back to you.  From around the bend, in the tree line you see a shy nymph.  Whatever is said to her, she says back.  Then you remember a cursed nymph, her name is Echo and is cursed to never have an original thought.
+
+(45, 63, 0) ***Event***
+Message:
+Here you see a woman tending to the oaks.  She is obviously the one who keeps this beautiful oak forest in good order.  She introduces herself as Egeria, the Goddess of Healing Springs and the Oak-Queen.  You give her a hand with the work, and she awards you with a gift.
+
+(139, 5, 0) ***Event***
+Message:
+Admiring the Eastern sky is a beautiful woman.  She looks out to the sea, with a wistful look.  Asking to see if she needs help, she replies, "I am Eos, the Goddes of Dawn.  I find it easier to create perfect sunrises if I am close to the east."  You leave the Goddess to her thoughts.
+
+(47, 106, 0) ***Event***
+Message:
+A Picnic, involving three people is laid pleasantly on the grass.  A man, his wife and his daughter are quietly enjoying themselves on a beautiful afternoon.  Their clothing is strange, from a foreign country.  You move closer to inquire as to who they are.
+
+(48, 106, 0) ***Event***
+Message:
+Approaching the three you discover they are the King of Egypt and his wife, Epaphus and Cassiopeia.  His daughter is Libya, soon to be married.  Epaphus is proud because her husband will name the country after her.  Seems he and his wife are from Greece, he being a son of Zeus and Io.
+
+(62, 87, 0) ***Event***
+Message:
+A man appears from the woods, surprising you.  "Can you identify me?"  He roars, and when you can't he continues, "You could identify my brother, Prometheus, but not me.  Oh no, no one recognizes Epimetheus.  Well from now on they will!  Defend yourself ignoramus!"
+
+(68, 30, 0) ***Event***
+Message:
+The strange device up ahead has a circle of darkness rising from it.  Curious you ask the man who is working on it.  "It brings darkness to your enemies, even during the day.  It is my invention, I am Erato the God of Darkness."  Not a bad idea, maybe you should try it out.
+
+(38, 73, 0) ***Master Genie***
+Message:
+I am Eridanus, the River God, this is my territory.  You are tresspassing!  Prepare to pay for your insolence.  No one passes through here without paying homage to me!
+
+(24, 98, 0) ***Event***
+Message:
+Most beautiful music floats this way, streaming towards you like a melodious dream.  Following the enchanting music you come across a voluptuous woman who is playing an instrument like a goddess.  There is no mistaking Euterpe, the Muse of Music.  Listening all afternoon you lull into peacefulness.
+
+(67, 115, 0) ***Event***
+Message:
+Hello there, I'm Fama, who are you?  Anyhow, I just had to tell you about this totally kewl piece of information.  Did you know that Zeus had, like followed this woman into her bedroom and then, had like you know, done the nasty with her?  Now Hera is totally-" You disengage from the woman, running.
+
+(66, 115, 0) ***Event***
+Message:
+Well, like anyhow, Hera's like totally ticked off and is so ready to fly off the handle and turn her into a toad or something.  Did you hear what Ares did last night?  Like Oh, my Gods.  He went right through this poor little village and burned them to the ground cause they like Apollo better than-
+
+(64, 114, 0) ***Event***
+Message:
+This woman just isn't giving up.  She is harassing you with tidbits of gossip, keeping you from your goal.  Finally you realize she is the Goddess of Gossip and Word of Mouth.  You pray she'll get larengitis.
+
+(63, 113, 0) ***Event***
+Message:
+No such luck.  "Did you know that Aphrodite invented this thing that everyone has been using?  I heard you swallowed it and then it goes to were it's supposed to and stop you from like, you know, having kids or something.  I totally don't believe it.  It's such a load of nonsense.  Anyhow..."
+
+(63, 112, 0) ***Event***
+Message:
+Finally!  The gods have smiled and Fama has found someone else to harass.  For once there is silence in these woods.  You decide it'd be best just to get the heck out of here.
+
+(95, 81, 0) ***Event***
+Message:
+Here you see a woman who is suckling young children.  Instantly you recognize Felicitas, Goddess of Happiness and Laughter.  She also takes care of the young children abandoned by their families.  Realizing she needs a little help you donate to her cause.
+
+(93, 85, 0) ***Harpy***
+Message:
+One harpy steps forward and cackles, "I am Aello, one who is to punish all who have commited a crime.  I know of your crimes and I am here to punish you.  Of course I don't play fair and brought a few friends along.
+
+(94, 81, 0) ***Harpy Hag***
+Message:
+You approach, seeing another, yet more vicious group of harpies.  Appears these too are here to punish the wicked.  The leader here is Ocypete.  Haven't you suffered enough?  Well, they don't think so.
+
+(97, 73, 0) ***Harpy***
+Message:
+"I am here to punish all for their crimes.  Not sure if you have committed any yet, but I'll get you now for ones you'll make in the future!"  This must be Celaeno, one of the Harpies who is set to punish men for their crimes.
+
+(47, 40, 0) ***Water Elemental***
+Message:
+"I am Hebrus, the River God.  These are my consorts.  Please, come join us for a little flip in the river.  If you do not do well, I will be upset and forced to kill you,  But we don't want to think about now do we?"
+
+(49, 132, 0) ***Event***
+Message:
+A woman of amazing beauty is seen near the small lake.  She is quietly cooling her feet.  Stunned by her exquisite features it slowly dawns on you this is Helen of Troy.  Now you understand why they started a war over this perfect beauty.
+
+(136, 124, 0) ***Event***
+Message:
+Here is a man eminating light, with sun-gold blond hair and sparkling blue eyes.  He is Helios, the God of Light.  To look upon him is to go nearly blind because of his brilliance.  Quickly, he moves away, but drops something on the grass.
+
+(105, 38, 0) ***Event***
+Message:
+"Greetings, Travelor.  I am Hemera, Goddess of Day.  My hopes are that you enjoy the days I bring to mortal man.  Personally, I think they are much better than the nights Nyx brings."  Not wanting to upset her, you compliment her work.  For you extravagent compliments she rewards you.
+
+(96, 35, 0) ***Event***
+Message:
+You see a woman who is traveling towards her home nestled in the mountains.  She stops long enough to greet you.  "Greetings.  I am Hestia, the Goddess of Hearth.  My sources have reported you take good care of yours.  I shall reward your diligence."
+
+(141, 52, 0) ***Event***
+Message:
+You see a bearded, aged man with the wings of a hawk and a pet lizard at his side.  Knowing the signs you realize this is Hypnos, God of Dreams.  His power is great and has cast a great dream upon you and your men.  You wake feeling refreshed and ready to continue on your way.
+
+(140, 51, 0) ***Horned Demon***
+Message:
+"Ha!  Do-gooders trying to rid the overworld of us.  Not a chance you foolish mortals.  We will destroy you!  Prepare to die!"
+
+(112, 38, 0) ***Event***
+Message:
+You see a fleet getting ready to sail away.  In order to secure favorable winds he begins to sacrifice a young woman!  Getting ready to thwart him, you are beaten to the punch by the Goddess Artemis.  She says, "Agamemnon, you shall not sacrifice your daughter Iphigenia.  She will become a Goddess."
+
+(45, 124, 0) ***Event***
+Message:
+Approaching the peaceful glen you see a woman of great beauty frolicking with animals of all sorts.  Beautiful silk gowns flutter about her every movement, putting your mind at rest and ease.  After she leaves you realize the woman was Irene, the Goddess of Peace.
+
+(43, 28, 0) ***Event***
+Message:
+By the dwelling you see Pegasi frolicking about with a woman whose hair is the colors of the rainbow.  Without a doubt this woman must be Iris, the Goddess of the Rainbow who is so merrily playing with the Pegasi.  Once done, she drops a few pretty items.
+
+(19, 32, 0) ***Event***
+Message:
+You come across three sweet natured women, who are old and wrinkled, haggard with age.  They ask you what it is you most pray for.  Your response must have been a correct one because they have decided to grant your wish for something useful on your journeys.  You realize they must be the Litai.
+
+(25, 31, 0) ***Event***
+Message:
+"Greetings travelor.  I see you have traveled far.  My name is Meditrina, and I wish to help you on your journey.  To help you rid Greece of this menace I will give you this ring.  Use it well."  She fades away and in her place is a ring.  You take the gift, thanking the beautiful Goddess of Health.
+
+(59, 35, 0) ***Event***
+Message:
+Traveling forward you see a woman telling tales.  Having a little extra time you stop and listen.  Her tale is that of a great tragedy, one so moving all are in tears once she is done.  Leaving the glade  you realize it's not good to listen to the muse Melpomene's stories before a battle.
+
+(41, 36, 0) ***Event***
+Message:
+Seems Dionysus is not at his winery these days.  He must be out frolicking somewhere else.  Wouldn't hurt to sample his wines.  Now would it?
+
+(62, 7, 0) ***Knight***
+Name:
+Hercules
+Biography:
+Hercules is the famed son of Zeus.  He has traveled through Greece, righting wrongs.  He is known for defeating Cerebus, completing the 12 Trials, including cleaning out of the Agean Stables.  Now he will serve his father in order to restore order to Greece.
+
+(52, 22, 0) ***Knight***
+Name:
+Perseus
+Biography:
+Persues is the son of Zeus, and is a Greek Hero.  Of his exploits he cut off the head of the original Medusa in order to prove his birthright and claim the throne.  He later rescued and married Andromeda with the aid of Pegasus.
+
+(90, 102, 0) ***Warlock***
+Name:
+Abaris
+Biography:
+Abaris is a priest of Apollo, one of his favorites.  So favored is Abaris that Apollo gave him a golden arrow which rendered him invisible.  It also cured diseases and gave oracles.  Abaris has answered the call of Apollo and will serve him until the demons are gone from Greece.
+
+(98, 123, 0) ***Warlock***
+Name:
+Laocoon
+Biography:
+Laocoon is a Trojan phophet, son of Antenor.  He is a priest of both Apollo and Poseidon, and warned the Trojans against the Wooden Horse.  Scoffed at, he was driven from the city because the Gods did not want him to die.  Now he serves Apollo in an attempt to rid Greece of these demons.
+
+(34, 73, 0) ***Rampart***
+Name:
+Troy
+
+(32, 55, 0) ***Rampart***
+Name:
+Hania
+
+(30, 56, 0) ***Ranger***
+Name:
+Aeneas
+Biography:
+Aeneas is the son of Anchises and Aphrodite.  He was a participant in the Trojan War, and led the survivors of the Trojan war to Italy.  There he helped them build new lives.  Once completed with that task he has recently returned to his native Greece.
+
+(34, 78, 0) ***Druid***
+Name:
+Eros
+Biography:
+Eros is the Greek God of Love and the son of Aphrodite.  He ensures that lovers find each other, and each individual finds love in their life.  He also punishes those who abuse or try to thwart love.  At the moment he is defending Greece in order to continue with what he loves to do.
+
+(101, 84, 0) ***Cleric***
+Name:
+Theseus
+Biography:
+Theseus is the son of Aegeus and Aethra.  In order to prove his worthiness of claiming the throne of Athens he had to kill the Minotaur.  Successfully doing so he was crowned King of Athens and became a staunch ally of Athena.
+
+(110, 107, 0) ***Knight***
+Name:
+Erechtheus
+Biography:
+Erechtheus is the son of Hephaestus and Atthis.  He was raised by Athena because his parents were concerned with other matters.  Considering her his real mother he has often fallen into her service, as now.
+
+(68, 102, 0) ***Knight***
+Name:
+Paris
+Biography:
+Paris is the man responsible for the Trojan war.  Aphrodite promised him Helen if he voted her the most beautiful goddess in a contest with Hera and Athena.  He did so and she enabled him to take Helen with him to Troy.  Now he is working with Ares, who loves a man who can start a war.
+
+(47, 96, 0) ***Knight***
+Name:
+Poena
+Biography:
+Poena is the Attendent of Punishment to Nemesis.  With great skill in doling out punishment for those who have commited crimes she has spent many years in carrying out the judgement of the Gods.  Now she is here to punish the demons for taking over the Underworld and destroying the balance in Greece.
+
+(23, 66, 0) ***Prison***
+Name:
+Acastus
+Biography:
+Acastus is the son of Pelias, and one of the argonauts.  While traveling with Jason he was lost overboard, and considered lost at sea.  Able to drift to land after weeks of floating in the ocean, he landed on the beach of a small village.  Attempting to tell the locals his story, he was thought insane and locked up.
+
+(15, 81, 0) ***Prison***
+Name:
+Selene
+Biography:
+Selene is one of the many Greek Goddesses of the moon.  Because of the recent events in the Underworld she has lost most of her powers.  Believed to be nothing more than a crazy, powerful woman the townspeople tricked her into prison.  Now she will do anything to destroy the demons and get her power back.
+
+(74, 96, 0) ***Prison***
+Name:
+Alcaeus
+Biography:
+Alcaeus is the son of Perseus and Andromeda.  Knowing the heroics of his father, hearing all of the stories endlessly has driven Alcaeus to search out his own glory.  In an attempt to rescue some merchants, he was caught by the very creatures he was trying to defeat.  Rather than risk killing the grandson of Zeus, the monsters locked him in prison until someone more worthy could release him.
+
+(93, 107, 0) ***Prison***
+Name:
+Amphion
+Biography:
+Amphion is the son of Zeus and Antiope.  Taught by Hermes, he learned quickly the musical arts.  Excellent with a lyre, he was able to move even the stones of the earth, and help construct the walls of Thebes.  On his way home to marry his sweetheart, Niobe, he was waylaid by some who thought it was the instrument, not the musician who held the power.
+
+(112, 128, 0) ***Prison***
+Name:
+Antilochus
+Biography:
+Antilochus is the son of Nestor.  Recently a hero of the Trojan War, he was killed in battle by Memnon.  Fleet of foot to the point where he was able to outrun death, at least while Hades is on vacation anyway, he ran to the overworld, only to land himself in jail.
+
+(96, 78, 0) ***Prison***
+Name:
+Astrea
+Biography:
+Astrea is the daughter of Zeus and Themis.  She was made the Goddess of Justice, but has found her powers waning significantly due to the acitivity in the Underworld.  Unable to keep those who hate justice at bay, she became imprisoned unjustly.
+
+(104, 88, 0) ***Prison***
+Name:
+Zethus
+Biography:
+Zethus is the son of Zeus and Antiope, and the twin brother of Amphion.  Trying to create his own identity he struck out on his own at a young age, seeking his fortune in this world.  Up until recently it has been a decent fortune, but an unlucky encounter with a rogue landed him in jail.
+
+(56, 30, 0) ***Prison***
+Name:
+Artemis
+Biography:
+Artemis is the Greek Goddess of the Moon, perhaps the original.  She is also the Great Virgin Goddess of Fertility, Vegetation, Wild Animal Life and the Chase.  She doesn't like men who try and deflower women, and will do much to protect a woman's virginity.  
+
+(35, 29, 0) ***Prison***
+Name:
+Lacedaemon
+Biography:
+Lacedaemon is the son of Zeus and Taygete.  He is now married to Sparte, and the King of Lacedaemon.  Creating a beautiful city he named it Sparta, after his lovely wife.  At the moment he is on a retreat, attempting to relax and take a break from the rigors of the throne.  Unfortunately he and his men were waylaid by bandits, and will be a little late getting home.
+
+(90, 56, 0) ***Prison***
+Name:
+Odysseus
+Biography:
+Odysseus is a Greek hero, one of the greatest of all times.  With a brilliant tactical mind he devised the strategy of the Wooden Horse and brought about the downfall of Troy.  After the Trojan War he began to wander Greece, and was recently captured, but will soon escape.
+
+(110, 77, 0) ***Prison***
+Name:
+Orpheus
+Biography:
+Orpheus is a poet and musician, the son of Apollo and Calliope who is a muse.  He is now married to Eurydice, whom he loves greatly.  Away on business he has been sent to this island by a great storm.  Using his superb skills as a musician he was able to entertain people, but came across a Lord who will not release him, for he loves Orpheus' music too much.
+
+(77, 130, 0) ***Prison***
+Name:
+Polydeuces
+Biography:
+Polydeuces was the twin brother of Castor, and the son of Zeus and Leda.  He was born from an egg after Zeus snuck in and visited his mother disguised as a swan.  His sister Helen was the cause of the Trojan war, and he was part of the group of men who went to retrieve her.
+
+(48, 119, 0) ***Prison***
+Name:
+Castor
+Biography:
+Castor is the twin brother of Polydeuces, and the son of Zeus and Leda.  Born from an egg, like his brother and sister.  This occured beause Zeus visited his mother in the guise of a swan.  He was one of those who went to retrieve his sister, Helen from Paris of Troy.
+
+(2, 41, 0) ***Prison***
+Name:
+Tlepolemus
+Biography:
+Tlepolemus is the son of Hercules, and the King of Argos.  After killing his uncle Licymnius, he had to flee the country.  In obedience to an orace he settled in Rhodes, and founded the cities of Lindos, Isalysos and Cameirus.  He joined the Greeks in the Trojan war, and was killed by Sarpedon, King of Lycia.  Trying to warn the overworld, he was captured by some demons and imprisoned.
+
+(103, 38, 0) ***Prison***
+Name:
+Rhea
+Biography:
+Rhea is the Greek Goddess of the Earth, Mountains and Forests.  With the take over of the Underworld her powers began to waver, and was forced into this isolated island in order to escape hordes of demons and devils.
+
+(134, 50, 0) ***Prison***
+Name:
+Themis
+Biography:
+Themis is the Greek Goddess of Human Rights.  Daughter of Uranus and Gaea she was a powerful goddess until the demons began removing the rights of those around them, undercutting her source of power. 
+
+(130, 66, 0) ***Prison***
+Name:
+Tyche
+Biography:
+Tyche is the Greek Goddess of Luck.  Hers ran out, and became stuck on this small island.  She is the daughter of Zeus, and her mother was never known to her.  For all of the luck she can cause others, it seems bad luck is often lumped heavily upon her.
+
+(134, 123, 0) ***Prison***
+Name:
+Tyndareus
+Biography:
+Tyndareus is the King of Sparta.  Disposed by Hippocoon, he was later reinstated by Hercules.  Due to recent events Ares placed him on this island in order to not have to share rule with anyone.  He is looking eagerly to going home.
+
+(140, 136, 0) ***Prison***
+Name:
+Xuthrus
+Biography:
+Xuthrus is the son of Helen and the nymph Orseis.  He was the King of Peloponnesus and the husband of Creusa.  After the death of his father, Xuthus was expelled from Thessaly by his brothers, and was on his way to Athens, but did not make it due to a great storm.  He is hoping to go there soon.
+
+(37, 41, 0) ***Prison***
+Name:
+Mnemosyne
+Biography:
+Mnemosyne is the mother of the muses.  She signifies the memory of great events.  When asked by the demons if what they have done is a great event, she told them no.  For her answer she was imprisoned and guarded, but they dare not kill her until the power of Apollo is drained more significantly.
+
+(21, 37, 0) ***Prison***
+Name:
+Harmonia
+Biography:
+Harmonia is the daughter of Ares and Aphrodite.  She was recently married to cadmus in a lavish wedding.  At the wedding she was given a necklace made by Hephaestus which conferred irresistible beauty upon the wearer.  Unfortunately that meant a powerful Lord had her imprisoned so no one else could have her.
+
+(10, 45, 0) ***Lizardman***
+Message:
+Greetings travelor.  My name is Abas, a victim of Demeter's temper and inability to forgive a little harmless jesting.  You of course have probably heard of my magical shield and thinking I'm a weak lizardman you could take it from me.  Well I will show you!
+
+(16, 29, 0) ***Efreeti***
+Message:
+We will not let you continue on your path to destroy us.  Prepare to die!
+
+(81, 33, 0) ***Prison***
+Name:
+Terminus
+Biography:
+Terminus is the Greek God of Boundaries.  After telling the demons they had gone far beyond their boundaries, and attempting to warn Mt. Olympus he was imprisoned and heavily guarded.
+
+(88, 82, 0) ***Seer's Hut***
+Message:
+We are looking for the Bird of Perception.  If you would be so helpful as to get it for us from those demon brutes we would be willing to follow you where ever you will go.  Please consider our proposal, as we are powerful people.
+I see that you have found the Bird of Perception.  Ten of us will follow you.  What?  Not enough?  Very well then, how many do you wish to have follow you?  Fifty!  I don't think so.  Twenty.  Fourty?!  Thirty, and that is our final offer.  Excellent!  Leave the Bird and thirty of us will follow you.
+
+(84, 7, 0) ***Seer's Hut***
+Message:
+I am Melete, the Muse of Practice.  Only when someone has practiced their skills to the point where they are considered a perfect 10 in Attack, Defense, Spell Power and Knowledge I will not even consider teaching them.
+I'm sorry, but you haven't practiced enough.
+Excellent, now you are worthy of my attention.  Will you spend a little time and practice a few things with me?
+
+(132, 118, 0) ***Seer's Hut***
+Message:
+Greetings travelers.  I am Mneme, the Muse of Memory.  In order to confirm a doubt one of my students has I need to go to the eastern coast of this island.  Unfortunately there are some Magma Elementals who do not want us to pass.  Defeat them and I will reward you greatly.
+At last, you defeated the Magma elementals, and I can prove that my memory does not fail, no matter my age.  Are you ready to accept your gift?
+
+(128, 141, 0) ***Seer's Hut***
+Message:
+Oh thank you for coming!  I am Polymnia, the Muse of Dance.  My favorite area to dance in is the forest on this little island, but unfortunately some Rust Dragons are keeping me from my forest.  Please convince them to leave.  If you do so I can reward you for a deed well done.
+At last, you defeated the Rust Dragons, and I can go dance among the trees.  Please take this Pendant.  It is a beautiful item, but I have no need of it.
+
+(101, 69, 0) ***Seer's Hut***
+Message:
+Ha!  You consider yourself worthy? I am a Muse, Thalia.  You're nothing more than a young pup.  When you are level 30 you can come back to me.  Until then, go elsewhere.
+You actually went out an became level 30 just for me?  What a joke!  What a rich, wonderful joke.  And you expect something in return for this?  Why should I?  Afterall being powerful is it's own reward!  You're funnier than I thought.  I'll have to add this to my comedy act, afterall that is what I am Muse of - Comedy!
+
+(39, 87, 0) ***Unicorn***
+Message:
+We have been hunted for a long time for our horns and manes, so now we have taken over one of your precious mines!  No one will take this from us!
+
+(78, 82, 0) ***Efreet Sultan***
+Message:
+We like it when toys come to play with us.  Will you tango?  Or do you prefer the jitterbug?
+
+(3, 6, 0) ***Event***
+Message:
+Beware the Melpomene, the Muse of Tragedy.  She believes being guilliable is extremely tragic.  Do not believe what she says.  Her home is to the east of here.
+
+(58, 102, 0) ***Prison***
+Name:
+Britomartis
+Biography:
+Britomartis is the daughter of Zeus and Carme.  She is a virgin huntress who has been living in the woods close by.  Jealous of her parentage villagers drove her out of their area, forcing her to transgress against the local lord's lands, and into prison she went.  Now she will gratefully serve any who can get her out of the confining prison.
+
+(95, 143, 0) ***Event***
+Message:
+A young woman is relaxing in the cool shade of the forest.  You approach her and ask her name.  Maranthea, she replies and you introduce yourself.  You chat for some time.  Before you can leave she shows you a small niche you did not see and then promptly disappears.  Presents!
+
+(54, 96, 1) ***Event***
+Message:
+Just ahead you see the pit that Odysseus dug in order to call the spirits of the dead.  He poured milk, honey, wine and water over the area and sprinkled it with white barley.  Only after he slit the throats of a ram and ewe did the spirits of the dead come and answer his questions.
+
+(54, 95, 1) ***Event***
+Message:
+It seems the souls of the dead that Odysseus called never bothered to return from which they came.  Or maybe they couldn't return and aren't happy about spending eternity here.
+
+(70, 97, 1) ***Sign***
+Message:
+Unlucky are the souls who are not buried, for Charon will not take them across Lake Cocytus to cross to the other side.
+
+(128, 23, 1) ***Sign***
+Message:
+Welcome to the River Lethe.  Only those who are not yet born or those who are to be reborn should drink from Oblivion's waters.
+
+(128, 24, 1) ***Event***
+Message:
+As you approach the beach there are hundreds of transparent souls dipping into the waters and drinking deeply from Oblivion.  When they are done their soul suddenly shoots upwards and disappears.  Maybe you shouldn't get too close to the water.
+
+(82, 140, 1) ***Sign***
+Message:
+To reach Hades realm you must pass through the eight horrors of the Underworld.
+
+(65, 58, 1) ***Event***
+Message:
+Following the path you enter the Asphodel Fields.  You know here lie the souls who cannot pass through the Vale of Mourning.  They are those who died in Childhood, condemned to death on a false charge, and those who kill themselves.  You pity these poor lost souls for the fate they must suffer.
+
+(65, 62, 1) ***Event***
+Message:
+Just up ahead you notice Cerebrus is not there, doing his job.  Then you remember Hades went on vacation and took him along as well.  Seems they did leave some others to watch the underworld though.
+
+(65, 57, 1) ***Event***
+Message:
+These craggy, cold hills once contained the lost souls, but no more.  Now the area is strangely void of all citizens.  Seems they snuck by while Hades was out.
+
+(105, 30, 1) ***Halberdier***
+Message:
+These are the guardians to the Elysium Fields.  They keep out those who do not belong here.  However, it's been such a long time since anyone hasn't been down here that they're way out of practice, but they'll put up a good fight.  After all you can't die twice. 
+
+(107, 25, 1) ***Crusader***
+Message:
+You come across of men who are reenacting the great Trojan war.  Seems that's all the men down here can think of.  But then again, that was what most of them were doing right when they were killed.  
+
+(110, 29, 1) ***Zealot***
+Message:
+A group of squabbling men draw your attention.  These are all of the dead zealous monks who have come here to discuss theology and other such high ideas.  What else would they do with eternity?
+
+(113, 21, 1) ***Centaur Captain***
+Message:
+This seems to be the Centaur area.  These Centaur are romping about the fields and enjoying a dip in the lake.  When you pass through the forest they stop to chat with you.
+
+(122, 21, 1) ***Battle Dwarf***
+Message:
+Here frolic the dwarves of the Elysium Fields.  Men, women and children roll about enjoying themselves.  Upon seeing intruders into their eternal happiness the men form up quickly and decide what to do with you.
+
+(130, 22, 1) ***Marksman***
+Message:
+Seems as if a group has gotten together for an archery contest.  They ask if you want to join.  Upon declining they decide to use you for target practice.
+
+(112, 32, 1) ***Event***
+Message:
+Like she always did, your mother sneaks up on you and begins to lecture you about washing behind your ears, and eating right.  You listen to her for about an hour then your dad rescues you.  Luckily they leave before she goes into more personal issues.  The men snicker behind your back for days.
+
+(121, 25, 1) ***Champion***
+Message:
+It seems horses get to come along with their masters when they die in battle together.  The group of champions are practicing with lances.  You decide it would be fun to join in.
+
+(76, 119, 1) ***Sign***
+Message:
+Ahead lies the Tree to which False Dreams cling.
+
+(73, 117, 1) ***Event***
+Message:
+Not believing the sign you decided to see if your false dreams were clinging to this tree as well.  After dreaming of great wealth you realize you should have believed the sign.  For now your dreams of wealth are gone, and so are some of your precious items!
+
+(65, 63, 1) ***Event***
+Message:
+Charon tells you, "I will accept my fee on the other bank when I bring you back across.  Until then I will wait for you here."
+
+(65, 90, 1) ***Event***
+Message:
+Charon the ferryman now demands his fee for taking you across Lake Cocytus.  He stretches out his bony hand and accepts the gold piece that you hand him.  He climbs back into his boat, waiting patiently.
+
+(80, 141, 1) ***Event***
+Message:
+You enter into the land of the dead and wonder why Aeneas took this route.  It's barren and desolate, filled with horrors beyond imagining.  Now you are beginning to wonder why you entered into this lifeless void.  Surrounding the narrow path is nothingness.  
+
+(88, 21, 1) ***Inferno***
+Name:
+Courthouse
+
+(99, 46, 1) ***Inferno***
+Name:
+Hade's House
+
+(59, 123, 1) ***Rampart***
+Name:
+Palace
+
+(50, 104, 1) ***Prison***
+Name:
+Perspone
+Biography:
+Perspone is the daughter of Zeus and Demeter, and the wife of Hades.  While he left for vacation she was to look after things in Hades.  Unfortunately she was not powerful enough to stem the tide of demons and devils, and was imprisoned in her own lands.  
+
+(55, 106, 1) ***Event***
+Message:
+As you round the corner you see a Prison constructed here, one that should not be.  This is supposed to be Perspone's area, a place of peace and harmony.  Who could have been imprisoned there and why?
+
+(50, 105, 1) ***Event***
+Message:
+Up ahead you see Perspone and her troops in the Prison!  Shocked you ask her why.  She tells you some devils arrived some time ago and have been wreaking havoc ever since.  She begs you to help her to escape in exchange for her helping you to put things right
+
+(53, 106, 1) ***Vampire***
+Message:
+So you think you can get past us?  Not a chance you foolish mortal.  We will drain your troops and then drain you!  Prepare to join us!
+
+(11, 14, 1) ***Power Lich***
+Message:
+Go back foolish mortal!  Only those most powerful can pass by us.  Save your sorry skins and return to the land of the living.
+
+(77, 25, 1) ***Sign***
+Message:
+Welcome to the realm of Hades.
+
+(77, 21, 1) ***Vampire Lord***
+Message:
+We do not want your kind here.  Go back!  There is only death ahead for you!  If you insist we will drain you of your life essence.
+
+(77, 102, 1) ***Event***
+Message:
+Because no one is taking care of Hades the Lost Souls have begun to wander out of the area from which they were supposed to stay until their bodies have been buried.  Now they are floating around all over the place!
+
+(81, 139, 1) ***Infernal Troglodyte***
+Message:
+We are the First Horror of the underworld, a sightless creature who can still hit you with great accuracy.  It is too late to flee.  You will become one of the residents soon after this!
+
+(80, 123, 1) ***Black Dragon***
+Message:
+We are the Eigth and final horror of the Underground.  There are none more powerful than we.  Not even you.  It is time for you to join your friends
+
+(82, 137, 1) ***Harpy Hag***
+Message:
+We are the Second Horror of the Underworld.  We are sisters to the Harpies, those who have better learned how to fight.  
+
+(84, 133, 1) ***Medusa Queen***
+Message:
+We are the Fourth Horror of the Underworld.  Our ancestor, Medusa was spurned by the Gods, driven to remote areas of Greece and finally here, to the Underworld.  It is their fault we are such hideous creatures, it is the Gods fault we are going to slay you.
+
+(82, 131, 1) ***Minotaur King***
+Message:
+We are the Fifth Horror of the Underground, an abomination which is the handiwork of the Gods.  If they had not made our female ancestor lustful for a Bull we would not be here to slaughter you today.  Blame them.
+
+(80, 129, 1) ***Scorpicore***
+Message:
+We are the Sixth Horror of the Underground, a bastardization of the Lion and the Scorpion.  The gods were bored one day and created us.  Giving us no land or place above, we are here to prey upon those foolish enough to attempt entry into Hades.
+
+(79, 127, 1) ***Red Dragon***
+Message:
+We are the Seventh Horror of the Underground, second only to those breathern who have lived longer than we, the Black Dragons.  You are going to make us a find dinner.
+
+(85, 135, 1) ***Evil Eye***
+Message:
+We are the Third Horror of the Underworld.  A casual glance from us will bring death and if you are lucky enough to come close we will fry you with our tentacles.  Time here passes slowly and you offer a great diversion, we are grateful for that.
+
+(54, 142, 1) ***Prison***
+Name:
+Demeter
+Biography:
+Demeter is the Greek Goddess of the Earth and the daughter of Cronus and Rhea.  In an attempt to find her daughter Perspone she was captured and imprisoned here.  She seeks great vengeance on those who were foolish enough to capture her and her daughter.
+
+(65, 93, 1) ***Event***
+Message:
+Once, the Erinys, the revered goddesses who punish the departed for crimes they had not yet atoned for, were here punishing the impure souls.  Now they are gone, taken a holiday as it were because the boss is gone.  Lucky for you!
+
+(65, 60, 1) ***Minotaur***
+Message:
+Hades offered us the job of watching the entrance so Cerebrus could go on vacation with him.  Beats hanging out in that stupid labrynth all of the time.  However, we're not going to let you pass.  That's part of the job, see.
+
+(66, 51, 1) ***Event***
+Message:
+The vale seems smaller than you remember.  It's almost as if the inky darkness has been creeping in on Hades territory.  But that would be impossible right?  After all he is an all powerful god...
+
+(67, 27, 1) ***Sign***
+Message:
+---> Palace of Hades	---> Elysium Fields	<--- Tartarus
+
+(73, 40, 1) ***Sign***
+Message:
+Here rest those famous in war.
+
+(73, 39, 1) ***Event***
+Message:
+This is supposed to be where great warriors rest, but it looks as if there is nothing but skeletons littering the ground around here.  Where did they all go?
+
+(73, 36, 1) ***Event***
+Message:
+One of the skeletons has tattered clothing and moves slightly.  You realize it is the hideous remains of a war hero.  He clutches at you and says, "We tried to stop them, but could not.  Too many of them.  Please, tell Hades the others have gone into oblivion.  I don't want to-"  He fades away.
+
+(71, 42, 1) ***Vampire Lord***
+Message:
+I am Busiris, used to be the King of Egypt, but one of you hero types killed me!  Thebes stands only because I ordered it built, a great city, but no more!  Now I am an undead wretch, forced to feed on the lifeblood of the living, and you are lunch!
+
+(22, 20, 1) ***Event***
+Message:
+You see not all of the tortured have escaped.  Ixion, the King of Lapithae in Thessaly is still being punished.  The Wheel of Fire still revolves with him on it.  Now Imps take cheap shots at him with daggers.  Seeing you they found a new target.
+
+(95, 21, 1) ***Prison***
+Name:
+Absyrtus
+Biography:
+Absyrtus is one of Hades Judges.  He was the son of Aeetes, King of Colchis and brother of Medea.  When Medea fled with Jason she took Absyrtus with her and murdered him.  Carving him into pieces he was flung on the road so her father was delayed picking up the pieces of his son.  
+
+(87, 41, 1) ***Prison***
+Name:
+Acestes
+Biography:
+Acestes is a Sicilian bowman who in a trial of skill discharged an arrow with such force it ignited.  He was killed later on in the Trojan war, but was placed as one of the guards of Hades.  Now imprisoned he waits until he can use his skills on the demons who have invaded Greece.
+
+(66, 47, 1) ***Prison***
+Name:
+Hermes
+Biography:
+Hermes is the Greek God of Messengers.  Captured while trying to deliver the message that the Underworld had been taken over, he will wait until he can either deliver the message or beat the nonsense out of the demons.
+
+(105, 31, 1) ***Event***
+Message:
+You see before you a place filled with wonder and beauty.  This must be the Elysium fields.  You can hear the laughter and happy sounds of it's inhabitants.  Children and adults alike play and laugh here, for the rest of eternity.
+
+(12, 28, 1) ***Event***
+Message:
+Up ahead you see the new castle built for the evil residents of Tartarus.  This is their home base and you must defeat them to restore order in Hades.  It's not going to be an easy battle.
+
+===== End of file =====

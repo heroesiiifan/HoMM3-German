@@ -1,0 +1,47 @@
+===== Map name =====
+The Challenge
+
+===== Map description =====
+Extraction of precious resources has been put on hold after Kreegans invaded the land. Four lords, eager to put their fate to the test, are getting ready to fight for their homeland in order to bring it back to glory.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(44, 34, 0) ***Sign***
+Message:
+This little shrub will grow into a big tree someday...
+
+(12, 20, 1) ***Genie***
+Message:
+You have found an ancient lamp. After rubbing it, a group of Genies appeared in front of you.
+
+(4, 13, 1) ***Genie***
+Message:
+You have found an ancient lamp. After rubbing it, a group of Genies appeared in front of you.
+
+(5, 7, 1) ***Pandora's Box***
+Message:
+
+
+(33, 25, 1) ***Genie***
+Message:
+You fished out an old bottle. After rubbing it, a group of Genies appeared in front of you.
+
+(26, 28, 1) ***Genie***
+Message:
+You fished an old bottle out of the water. After rubbing it, clouds of magic smoke erupted, and a group of Genies materialized on the deck.
+
+(19, 17, 1) ***Sign***
+Message:
+<CROSSED> Cave of Knowledge	<Send> Azure Dragon Cave	
+
+(5, 18, 1) ***Genie***
+Message:
+You have found an ancient lamp. After rubbing it, a group of Genies appeared in front of you.
+
+===== End of file =====

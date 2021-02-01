@@ -1,0 +1,61 @@
+===== Map name =====
+Heroes of Might, Not Magic
+
+===== Map description =====
+An evil sorcerer has siphoned all the magic from this land into his Vial of Dragon Blood.  The only way to get the magic back is to unite all the towns in battle against him.  However, each town thinks they can rule this land better than the other.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1 
+Message:
+This beautiful land was once filled with sorcery and magic, harmony and peace.  That was twenty years ago, and much has changed since then.  After the good King Vandaine passed on, an evil sorcerer named Corthim, assumed his throne and rules the kingdom with an iron fist.  However, all of the towns in this land have been secretly training their sorcerers in hope they might defeat Corthim and change everything back to the old ways.
+
+Name:
+Day 2
+Message:
+A tax collector has delivered news of another tax hike from Corthim.  Henceforth all towns in this region shall pay 2500 gold pieces per week.  That's half again as much as you were paying before!  In a fit of rage you smash your fists on your desk and yell obscenities.  You know that if you don't pay Corthim, he will not kill you but make your entire city suffer eternally.
+
+Name:
+Takes all magic. 
+Message:
+You dig into you backpack and find the precious stone your grandfather, one of the greatest sorcerers to come out of this land, gave to you when you were a child.  You remember him telling you, "My boy, as long as there is magic, this stone will bring you peace.  Just place it your hand and it will raise and hover."  You place the rock in your hand but it just sits there like an ordinary rock. This has never happened before!	Suddenly a cloudy figure appears before you, and you instantly recognize it as Corthim.  You feel the rage build up inside of you as he speaks: "I've been watching you and the others.  You all have quite an army of sorcerers hidden so nicely.  You're training them to defeat me, but your efforts will be to no avail.  You see I have done something extraordinary today.  Do see this vial?"  He holds up a glass container.  "It now contains all of the magic from this land.  As you have been building up your army, I have been siphoning the magic away.  You were fools to think I could be thwarted by magic when I am the greatest sorcerer in the land!"	As the figure vanishes in to a cloud of smoke, you think to yourself, "The only way to dethrone Corthim is by uniting the forces of all the land's towns and take him with might."
+
+Name:
+Tax Time
+Message:
+Know that your generous contributions will help bring better armies, better training and better weapons.
+
+Name:
+no compliance
+Message:
+Everyone is finally over the initial shock of losing the land's magic.  The sorcerers have moved to a deserted town down south and started a chess league.  You have received messages from the other towns about uniting forces to dethrone Corthim, but they have not been positive.  King Vandaine was the only good king who could rule this land and make things the way they used to be.  Since he is gone, they believe any person to take his place will be no better than Corthim.  Some have chosen to fight to keep Corthim in charge.  Others are fighting to dethrone him.  As everyone fights among each other, Corthim grows more and more powerful.
+
+Name:
+Advice
+Message:
+Your advisor has come up with a plan.  He suggests you should train as many troops as possible, defeat all of your neighboring towns and gain control of their resources and troops.  Once you have done this, you can declare war against Corthim.  He grows more powerful every day, so the quicker you act, the better your chances are.
+
+===== Heroes =====
+
+===== Objects =====
+
+(55, 63, 0) ***Pandora's Box***
+Message:
+
+
+(40, 37, 0) ***Random Monster 2***
+Message:
+"If you care to pass, you'll have to get past us first!"
+
+(49, 21, 0) ***Random Monster 3***
+Message:
+Only one person shall pass here.  You are not that person.
+
+(32, 43, 0) ***Random Monster 2***
+Message:
+None shall pass here!
+
+===== End of file =====

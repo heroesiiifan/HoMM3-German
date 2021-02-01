@@ -1,0 +1,41 @@
+===== Map name =====
+The Challenge
+
+===== Map description =====
+The king has just announced that he is dying.  Since he will only live for about another 6 months he has offered a challenge.  The first person to build the grail structure in the capitol city, Osha, will be named as the king's successor.  The gauntlet has been thrown, are you up to the challenge. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(56, 7, 0) ***Event***
+Message:
+
+
+(64, 47, 0) ***Event***
+Message:
+A band of goblins approach you and demand a "donation"  for walking through their valley.  
+
+(45, 14, 0) ***Sign***
+Message:
+Isle of Gold	
+
+(59, 28, 0) ***Event***
+Message:
+You have found buried treasure
+
+(58, 26, 0) ***Sign***
+Message:
+No buried treasure here!
+
+(3, 15, 0) ***Castle***
+Name:
+Osha
+
+(41, 7, 0) ***Event***
+Message:
+As you walk in the sand your foot kicks something hard.  Upon inspection you uncover gold. Lots of gold. 
+
+===== End of file =====

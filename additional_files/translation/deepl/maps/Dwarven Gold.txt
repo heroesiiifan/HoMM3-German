@@ -1,0 +1,112 @@
+===== Map name =====
+Dwarven Gold
+
+===== Map description =====
+Dwarven gold madness swept the region when Invis Smythers (renowned Dwarven miner) hit the jackpot and found a vein worth 75,000 gold pieces.  Local lords have started mounting expeditions.  The first Lord to acquire 75,000 gold pieces wins.
+
+===== Rumors =====
+
+Name:
+Big veins still out there.
+Text:
+There are veins of gold worth over 50,000 gold pieces still out there.
+
+Name:
+Dwarven treasury.
+Text:
+The dwarves have an underground treasury with tons of treasure worth more than 150,000 gold pieces.
+
+===== Timed events =====
+
+Name:
+Warning.
+Message:
+Gold rush fever has struck the region with the discovery of vast veins of gold in the underground mines.  Scouts report the dwarves can be highly protective of their gold, so be warned.
+
+Name:
+Gold miners are a drain.
+Message:
+A flood of poor gold miners arrives in the area.  You give them gold so they will go away before they find the rich gold vein that should belong to you.
+
+Name:
+Gold eating rock slime.
+Message:
+Gold-eating rock slime has bubbled up into your storeroom and eaten some of your profits.  Curse that slime!  The cleaning crew will be working overtime tonight.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 18, 0) ***Dwarf***
+Message:
+As the dwarves attack, you notice they have some of the mine's gold stuffed into their pockets.
+
+(28, 13, 0) ***Dwarf***
+Message:
+As the dwarves attack, you notice they have some of the mine's gold stuffed into their pockets.
+
+(8, 2, 0) ***Dwarf***
+Message:
+As the dwarves attack, you notice they have some of the mine's gold stuffed into their pockets.
+
+(9, 16, 0) ***Dwarf***
+Message:
+As the dwarves attack, you notice they have some of the mine's gold stuffed into their pockets.
+
+(18, 21, 0) ***Dwarf***
+Message:
+As the dwarves attack, you notice they have some of the mine's gold stuffed into their pockets.
+
+(32, 3, 0) ***Dwarf***
+Message:
+As the dwarves attack, you notice they have some of the mine's gold stuffed into their pockets.
+
+(28, 33, 1) ***Event***
+Message:
+Gold-eating rock slime bubbles out of the ground and eats some of your resources.
+
+(13, 16, 1) ***Sign***
+Message:
+Dwarven Treasury.  Keep out!
+
+(16, 35, 1) ***Gold***
+Message:
+Evil Eyes seem to be guarding this large stack of mined gold; do you want to try to take it?
+
+(11, 34, 1) ***Event***
+Message:
+A cave-in sends your army into disarray.  You must hire a small group of mining dwarves to dig out all your units.  With all the confusion going on, gold-eating rock slime takes some of your resources also.
+
+(29, 5, 1) ***Event***
+Message:
+Gold0eating rock slime bubbles out of the ground and eats some of your resources.
+
+(14, 7, 1) ***Event***
+Message:
+At the end of the room gold glints in the wall.
+
+(34, 33, 1) ***Gold***
+Message:
+A small army of dwarves suddenly appears before the gold vein and warns that you will have to go through them to take the gold.  It looks like a rich, thick vein.  Do you want to fight them?
+
+(3, 14, 1) ***Event***
+Message:
+More dwarves boil out of the ground and attack.
+
+(4, 19, 1) ***Event***
+Message:
+More dwarves boil out of the ground and attack.
+
+(8, 9, 1) ***Gold***
+Message:
+A small army of dwarves suddenly appears before the gold vein and warns that you will have to go through them to take it.  It looks like a rich thick vein.  Do you want to fight them?
+
+(10, 16, 1) ***Battle Dwarf***
+Message:
+An army of dwarves rushes towards you to protect their treasure area.
+
+(34, 6, 1) ***Gold***
+Message:
+A small army of dwarves suddenly appears before the gold vein and warns that you will have to go through them to take it.  It looks like a rich thick vein.  Do you want to fight them?
+
+===== End of file =====

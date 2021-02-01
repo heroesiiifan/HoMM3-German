@@ -1,0 +1,42 @@
+===== Map name =====
+Rumble in the Bogs (Allies)
+
+===== Map description =====
+A classic case of the grass being greener on the other side, you and your ally must first dispose of your pesky swamp neighbor, then slog across a swamp to claim the riches that wait for you beyond.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+FedEx for Computer (Player 5)
+Message:
+
+
+Name:
+Intro Part 1
+Message:
+You have always lived a peaceful life, humbly coexisting with your neighbor in a modest coastal region of the world whose most interesting feature was that it was bordered by a deep, dreary marshland.
+
+Name:
+Intro Part 2
+Message:
+One day, much to everyone's surprise, a traveler emerged from the swamp, telling a tale not only of riches within the marsh, but of an even more fantastic land on the other side!  Eager to learn more, you sent scouts into the swamp, but they never returned.
+
+Name:
+Intro Part 3
+Message:
+At first you thought the scouts were lost, but then a thought occurred to you. Perhaps the land across the swamps was SO fantastic that the scouts refused to leave? You share your idea with your neighbor, and he agrees with you.
+
+Name:
+Intro Part 4
+Message:
+Before you quite realize what is happening, you find yourself agreeing to an alliance to seize these fantastic lands and divide them between you and your neighbor.
+
+===== Objects =====
+
+(42, 37, 0) ***Event***
+Message:
+Just looking at this place you realize that you are probably the first living creature to set foot here in centuries.  You shiver against the chill of dread that crawls up your spine.
+
+===== End of file =====

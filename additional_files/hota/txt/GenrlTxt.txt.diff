@@ -1,0 +1,50 @@
+43,44c43,44
+< Angriff %s (%s Schaden)
+< Schuss %s (1 Schuss übrig, %s Schaden)
+---
+> Angriff %s (Schaden: %s)
+> Schuss %s (1 Schuss übrig, Schaden: %s)
+82c82
+< Dimensionstor hat versagt! 
+---
+> Sie können sich mit einer Dimensionstür nicht vom Meer an Land oder umgekehrt teleportieren. 
+119c119
+< Eure Anfangsstadt wird zufällig aus acht verschiedenen Stadttypen ausgesucht.
+---
+> Eure Anfangsstadt wird zufällig ausgesucht.
+178c178
+< Balliste
+---
+> Artillerie-Maschine
+349c349
+< Schuss %s (%d Schuss übrig, %s Schaden)
+---
+> Schuss %s (%d Schuss übrig, Schaden: %s)
+368c368
+< Diese Kreatur wurde bereits aufgerüstet.
+---
+> Diese Kreatur kann hier nicht aufgerüstet werden.
+522c522
+< HEROES3 /S0 /I0
+---
+> h3hota /S0 /I0
+524c524
+< Startet Heroes III ohne Sound und ohne Intro.
+---
+> Startet Heroes III: HotA ohne Sound und ohne Intro.
+624c624
+< Kann Datei nicht öffnen - Video.vid
+---
+> Fehler beim öffnen der Datei - Video.vid
+757c757
+< Kann Datei nicht öffnen - Heroes3.snd
+---
+> Fehler beim öffnen der Datei - Heroes3.snd
+846c846
+< Der Host generiert eine Zufallskarte...
+---
+> Der Host generiert eine Zufallskarte
+850c850
+< Shadow of Death-Kampagne auswählen
+---
+> Horn of the Abyss-Kampagne auswählen

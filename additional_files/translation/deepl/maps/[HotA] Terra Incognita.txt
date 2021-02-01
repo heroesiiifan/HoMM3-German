@@ -1,0 +1,23 @@
+===== Map name =====
+Terra Incognita
+
+===== Map description =====
+You managed to get a very old map. It marked a town filled with untold riches... Eliminate the competition and get to the treasure first!
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 15, 1) ***Sign***
+Message:
+Hidden path
+
+(7, 15, 1) ***Event***
+Message:
+Undoubtedly, this tunnel should lead to the place where the town is!
+
+===== End of file =====

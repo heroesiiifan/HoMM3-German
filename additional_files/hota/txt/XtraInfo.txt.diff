@@ -1,0 +1,32 @@
+2c2
+< (Glück +2 bis zum nächsten Kampf)
+---
+> (Glück +2 bis zum nächsten Kampf für alle verbliebenen Bewegungen)
+4c4
+< (Verändert das Glück bis zum nächsten Kampf)
+---
+> (Glück +1, +2, +3, oder -1  bis zum nächsten Kampf)
+14,15c14,15
+< (Moral +1 bis zum nächsten Kampf und extra Bewegungen für 1 Tag)
+< (Kreaturen aufrüsten)
+---
+> (Moral +1 bis zum nächsten Kampf und +400 extra Bewegungspunkte für 1 Tag)
+> (Kreaturen aufrüsten: Stufe 1 kostenlos, 2 - für 25% Preis, 3 - für 50%, 4 - für 75%, 5-7 - für 100%)
+18,19c18,19
+< (Glück und Moral +1 bis zum Kampf und extra Bewegungen für 1 Tag)
+< (Stufe +1)
+---
+> (Glück und Moral +1 bis zum Kampf und +400 Bewegungspunkte für 1 Tag)
+> (Stufe +1 umsonst, 2000 Gold oder 10 Edelsteine)
+23,24c23,24
+< (Glück oder Moral +1 bis zum nächsten Kampf)
+< (Erhöht die Moral bis zum nächsten Kampf)
+---
+> (Glück und/oder Moral +1 bis zum nächsten Kampf)
+> (Moral +1 oder +2 bis zum nächsten Kampf)
+27,28c27,28
+< (Moral +1 bis zum nächsten Kampf und extra Bewegungen für 1 Tag)
+< (Moral +1 bis zum nächsten Kampf und extra Bewegungen für 1 Tag)
+---
+> (Moral +1 bis zum nächsten Kampf und +800 Bewegungspunkte für 1 Tag)
+> (Moral +1 bis zum nächsten Kampf und +400 Bewegungspunkte für 1 Tag)

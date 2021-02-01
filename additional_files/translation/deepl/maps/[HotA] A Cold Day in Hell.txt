@@ -1,0 +1,186 @@
+===== Map name =====
+A Cold Day in Hell
+
+===== Map description =====
+It all went downhill in the blink of an eye. Our plans for a first strike went bust. No time for new strategies, all we can still hope for is to merely survive.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+purple comp
+Message:
+
+
+Name:
++ blue & green
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(56, 8, 0) ***Inferno***
+
+Timed events:
+
+Name:
++рес
+Message:
+
+
+(18, 31, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Purple comp
+Message:
+
+
+(14, 57, 0) ***Castle***
+
+Timed events:
+
+Name:
+blue comp
+Message:
+
+
+(55, 29, 0) ***Fortress***
+
+Timed events:
+
+Name:
++
+Message:
+
+
+Name:
+++
+Message:
+
+
+(33, 66, 0) ***Tower***
+
+Timed events:
+
+Name:
++ Building
+Message:
+
+
+Name:
++ Creature
+Message:
+
+
+(35, 51, 0) ***Stronghold***
+
+Timed events:
+
+Name:
++ Creature
+Message:
+
+
+(55, 69, 0) ***Pandora's Box***
+Message:
+
+
+(55, 58, 0) ***Pandora's Box***
+Message:
+
+
+(65, 55, 0) ***Rampart***
+
+Timed events:
+
+Name:
+green comp
+Message:
+
+
+(54, 53, 0) ***Event***
+Message:
+
+
+(25, 60, 0) ***Event***
+Message:
+
+
+(40, 69, 0) ***Event***
+Message:
+
+
+(48, 63, 0) ***Event***
+Message:
+
+
+(35, 54, 0) ***Event***
+Message:
+
+
+(1, 55, 0) ***Event***
+Message:
+
+
+(10, 69, 0) ***Event***
+Message:
+
+
+(64, 32, 0) ***Event***
+Message:
+
+
+(11, 32, 0) ***Event***
+Message:
+
+
+(62, 46, 0) ***Event***
+Message:
+
+
+(44, 35, 0) ***Event***
+Message:
+
+
+(33, 26, 0) ***Event***
+Message:
+
+
+(23, 8, 0) ***Event***
+Message:
+
+
+(64, 18, 0) ***Event***
+Message:
+
+
+(66, 8, 0) ***Event***
+Message:
+
+
+(15, 20, 0) ***Event***
+Message:
+
+
+(5, 10, 0) ***Event***
+Message:
+
+
+(26, 17, 0) ***Event***
+Message:
+
+
+(46, 7, 0) ***Event***
+Message:
+
+
+(64, 65, 0) ***Event***
+Message:
+
+
+===== End of file =====

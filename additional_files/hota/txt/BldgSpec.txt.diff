@@ -1,0 +1,36 @@
+10c10
+< Koloss	Die Präsenz des Kolosses erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht die Moral aller verbündeten Helden um +2.	
+---
+> Koloss	Die Präsenz des Kolosses erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht die Moral all Ihrer Helden um +2.	
+21c21
+< Wachgeist	Die Präsenz des Wachgeistes erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht das Glück aller verbündeten Helden um +2.	
+---
+> Wachgeist	Die Präsenz des Wachgeistes erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht das Glück all Ihrer Helden um +2.	
+49c49
+< Nekro-Verstärker	Der Nekromantie-Verstärker erhöht die Nekromantiefähigkeit aller Eurer Totenbeschwörer um +10%.	
+---
+> Nekro-Verstärker	Der Nekromantie-Verstärker erhöht die Nekromantiefähigkeit aller Eurer Totenbeschwörer um +5%.	
+54c54
+< Seelenkerker	Die Präsenz des Seelenkerkers erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und verbessert die Nekromantiefähigkeit aller verbündeten Helden (die diese Fähigkeit haben) um 20%.	
+---
+> Seelenkerker	Die Präsenz des Seelenkerkers erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und verbessert die Nekromantiefähigkeit all Ihrer Helden (die diese Fähigkeit haben) um 20%.	
+61c61
+< Portal der Beschwörung	Mit dem Portal der Beschwörung könnt ihr Kreaturen aus Behausungen in Eurem ganzen Hoheitsgebiet rekrutieren.	
+---
+> Portal der Beschwörung	Mit dem Portal der Beschwörung könnt ihr zusätzliche Kreaturen aus Behausungen in Eurem ganzen Hoheitsgebiet rekrutieren.	
+82,83c82,83
+< Skulptur der Furcht	Die Skulptur der Furcht erhöht die Verteidigung eines verteidigenden Garnisonshelden um +2 bei Belagerungen.	
+< Blut-Obelisk	Die Präsenz des Blut-Obelisken erhöht den Angriff eines Garnisonshelden um +2 bei Belagerungen.	
+---
+> Skulptur der Furcht	Die Skulptur der Furcht erhöht die Angriff eines verteidigenden Garnisonshelden um +2 bei Belagerungen.	
+> Blut-Obelisk	Die Präsenz des Blut-Obelisken erhöht den Verteidigung eines Garnisonshelden um +2 bei Belagerungen.	
+90,91c90,91
+< Garten des Lebens	Dieses Gebäude erhöht die Produktion von Feen um 10 pro Woche.	
+< Garten des Lebens	Dieses Gebäude erhöht die Produktion von Elfen um 10 pro Woche.	
+---
+> Garten des Lebens	Der Garten des Lebens erhöht die Produktion von Feen um 10 pro Woche.	
+> Garten des Lebens	Der Garten des Lebens erhöht die Produktion von Elfen um 10 pro Woche.	
+98c98
+< Nordlicht	Die Präsenz des Nordlichts erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und fügt der Magiergilde alle Zaubersprüche hinzu.	
+---
+> Nordlicht	Die Präsenz des Nordlichts erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und fügt der Magiergilde alle nicht verbannten Zaubersprüche bis zum aktuellen Magiergilden-Level hinzu.	

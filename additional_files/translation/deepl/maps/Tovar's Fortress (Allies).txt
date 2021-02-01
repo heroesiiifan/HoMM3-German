@@ -1,0 +1,73 @@
+===== Map name =====
+Tovar's Fortress (Allies)
+
+===== Map description =====
+Tovar the pirate, Tovar the plunderer, and now Tovar the dead.  A rumor has started that the infamous Tovar is dead and his fortune is up for grabs in his fortress. The local lords want it, but who will be the first to reach it?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day one event.
+Message:
+The scramble to be the first to reach Tovar's treasure hoard (stashed in his castle) is on.  Be warned that two dungeon overlords (formerly allied with Tovar) have joined in the fray, so watch the ground carefully.
+
+Name:
+Investors contribute.
+Message:
+Investors contribute money in hopes of getting a piece of Tovar's pie.
+
+Name:
+Bonus resources for the computer.
+Message:
+The underground lords recieve a bonus because their subjects work so hard.
+
+Name:
+Scouts report on underground.
+Message:
+Scouts report that the Dungeon Overlords have baracaded themselves in their caverns so no army can enter, so barring using spells you will not be able to get to their castles (but of course they know how to get out).  Scouts also report a rumor that Tovar is not really dead, just hiding out.
+
+Name:
+Advisor's report.
+Message:
+Based on scout reports your advisor's tell you to forget about tring to finish off the undergoround lords (or any other lords) and just try to get to Tovar's fortress where his treasure hoard (and victory) awaits.  
+
+===== Objects =====
+
+(48, 46, 0) ***Event***
+Message:
+Looks like Tovar didn't bury some of his treasure very well!
+
+(49, 37, 0) ***Event***
+Message:
+Tovar's flunkies attack!
+
+(45, 32, 0) ***Event***
+Message:
+Looks like Tovar didn't bury some of his treasure very well!
+
+(47, 39, 0) ***Knight***
+Name:
+Tovar
+Biography:
+Logain the pirate, scourge of the nine seas.  His favorite saying:  "Your money or your arms and legs, I don't care I'll take either one". Needless to say Logain has made a name for himself as one of the richest pirates in this part of the world.  
+
+(63, 39, 0) ***Event***
+Message:
+A drunken pirate swaggers up to you saying:  "Gooods..you being here means Tovar ith defeated, im outa here".  With that the guy passes out.  Figuring no one is looking you loot the body. 
+
+(63, 38, 0) ***Fortress***
+Name:
+Tovar's Fort
+
+(24, 15, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Resource bonus.
+Message:
+This is a resource bonus from the underground lords.
+
+===== End of file =====

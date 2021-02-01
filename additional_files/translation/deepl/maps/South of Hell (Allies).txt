@@ -1,0 +1,90 @@
+===== Map name =====
+South of Hell (Allies)
+
+===== Map description =====
+The Brochure from the land to the north reads: "Come join us! Hell's not so bad.  We have heated pools, warm mud baths..." Needless to say you have turned their offer down and now they have decided to take the southern lands by force.
+
+===== Rumors =====
+
+Name:
+Deity of fire.
+Text:
+It is said that the Deity of Fire himself is helping Hell.
+
+===== Timed events =====
+
+Name:
+Team up.
+Message:
+Your long time enemy across the way has decided to help you fend off Hell's land grab.  It's rough trusting someone you fought against, but Hell's a big place and you need all the help you can get.
+
+Name:
+Hell's advisors.
+Message:
+Spies report that Hell has snuck over some 'advisors' to try to 'convince' you that their offer to buy you out is your only option.
+
+===== Objects =====
+
+(10, 102, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Creatures rally
+Message:
+The local creatures rally to your side as they find out that Hell has a really high tax rate and they would rather not be paying them.
+
+Name:
+Increase the tax a little.
+Message:
+To help pay for the new creatures you raise the taxes a little.
+
+(50, 75, 0) ***Quest Guard***
+Message:
+Four thousand gold must be paid for the purchase of this town.
+Since you have not brought 4000 Gold, you obviously do not want this castle.
+The guards here are charging for this castle.  They will let you have it for 4000 Gold.  Do you wish to pay?
+
+(5, 44, 0) ***Sign***
+Message:
+Welcome to HELL!	Enjoy your stay.
+
+(21, 45, 0) ***Sign***
+Message:
+Welcome to HELL!	Enjoy your stay.
+
+(63, 50, 0) ***Sign***
+Message:
+Welcome to HELL!	Can't stand the heat, get out of kitchen (i.e. Hell).
+
+(96, 43, 0) ***Sign***
+Message:
+Welcome to HELL!	Enjoy your stay.
+
+(49, 42, 0) ***Sign***
+Message:
+Welcome to HELL!	Enjoy your stay.
+
+(51, 76, 0) ***Sign***
+Message:
+Town for sale... first come first serve (A small fee is required for first purchase).
+
+(64, 69, 0) ***Ocean Bottle***
+Message:
+Hell hath no fury like a woman scorned.
+
+(99, 101, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Creatures rally.
+Message:
+The local creatures rally to your side as they find out that Hell has a really high tax rate and they would rather not be paying them.
+
+Name:
+Increase the tax a little.
+Message:
+To help pay for the new creatures you raise the taxes a little.
+
+===== End of file =====

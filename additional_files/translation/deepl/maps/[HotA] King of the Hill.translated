@@ -1,0 +1,39 @@
+===== Map name =====
+König des Hügels
+
+===== Map description =====
+Der Hass von acht Lords ist wie ein Vulkan im Begriff, in einem blutigen Krieg gegeneinander auszubrechen. Es wird bald heiß werden!
+
+===== Rumors =====
+
+Name:
+Panik
+Text:
+Egal, wer gewinnen wird. Der Vulkan wird jeden Moment ausbrechen und der Strom der geschmolzenen Lava wird sowohl die Gewinner als auch die Verlierer zerstören.
+
+Name:
+Panik 2
+Text:
+Wir werden alle sterben!
+
+===== Timed events =====
+
+Name:
+öffnen
+Message:
+Du zitterst. Entweder vor Wut oder vor dem eigentlichen Erdbeben. Diese sieben Schurken, diese Mistkerle! Das werden sie büßen! Ihre Rache wird wie ein Feuersturm sein. Mit diesen Gedanken hast du dem Fahnenträger befohlen, die Fahne deiner Farbe zu hissen. Der Marsch hat begonnen! Scharlachrot leuchtet weithin sichtbar auf dem Gipfel des Berges.
+
+Name:
+öffnen2
+Message:
+Das Glühen hat sich am Horizont verdichtet. Außerdem hat sich die Luft mit kleinsten Aschepartikeln gefüllt. Der mächtige Vulkan bricht aus. Die Burgen Ihrer Feinde stehen an seiner Seite. Die Legende besagt, dass sich tief im Inneren eine Herzstadt befindet. Derjenige, der diese Stadt kontrolliert, wird in der Lage sein, die Kraft des Vulkans zu kontrollieren. Du hast mit deinen vergilbten Zähnen gegrinst und deinem Pferd die Sporen gegeben.
+
+===== Heroes =====
+
+===== Objects =====
+
+(17, 17, 1) ***Inferno***
+Name:
+Herz
+
+===== End of file =====

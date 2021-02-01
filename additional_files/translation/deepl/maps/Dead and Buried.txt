@@ -1,0 +1,13 @@
+===== Map name =====
+Dead and Buried
+
+===== Map description =====
+Who do you want to fight first?  The dead, or the buried?
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+===== End of file =====

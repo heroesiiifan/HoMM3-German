@@ -1,0 +1,40 @@
+===== Map name =====
+When Dragons Clash
+
+===== Map description =====
+In the war of Good vs. Evil, someone must eventually win, but victory here relies on your ability to control the creatures of this land.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Initial Instructions - Evil
+Message:
+The pansy do-gooders on the surface have actually gone so far as to declare war against you!  But for them to do this, they will need to gather troops.  Make sure that it is YOUR flag that flies on every creature dwelling in the land, and victory shall be yours!
+
+Name:
+Initial Instructions - Good
+Message:
+You have always known that Evil lurks below the surface of this land, but now they have openly declared war against you.  Fly your flag on every dwelling, and deny your enemies the troops they need for victory!
+
+===== Objects =====
+
+(64, 22, 0) ***Event***
+Message:
+An old man is living here in the woods and decides to teach you a thing or two.
+
+(58, 66, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Fresh Troops
+Message:
+Your second-in-command informs you that reinforcements have arrived, along with a message that you are doing well.
+
+(30, 63, 1) ***Spell Scroll***
+Message:
+An old man waits patiently for a fierce warrior.  Upon seeing you he hands you a scroll.  "This will aid you in your battles ahead."
+
+===== End of file =====

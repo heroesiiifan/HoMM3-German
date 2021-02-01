@@ -1,0 +1,103 @@
+===== Map name =====
+Versuch der Flamme
+
+===== Map description =====
+Manfred, ein Anfänger-Magier, steht vor seiner ersten Prüfung - der Prüfung der Flamme. Erforschen Sie die raue und unberechenbare Wüste und vernichten Sie ihre Bewohner in zwei Monaten.	
+
+===== Rumors =====
+
+Name:
+1
+Text:
+Seien Sie bereit für ein unvorhergesehenes Problem...
+
+Name:
+2
+Text:
+Gewinnen... Sie würden nicht gewinnen...
+
+Name:
+3
+Text:
+Heute ist es heiß!
+
+===== Timed events =====
+
+Name:
+Anfang
+Message:
+Mein Name ist Manfred, ich bin einer der besten Feuermagier. Zumindest versuche ich es zu sein. Ich stamme von einem Nomadenvolk ab, das nie eine Heimat hatte. Ich musste meinen Stamm verlassen, um Magie zu lernen.		Doch die Legenden meines Volkes erzählen von der legendären Feuerwüste, in die sich kein Soldat traute. Dort atmet die Erde selbst vor Hitze und feurige Kreaturen sickern durch das Gewebe des Raums in unserer Welt. Wenn ich die feurige Wüste bezwingen kann, werde ich die Feuermagie erlernen. Aber wenn ich zögere, wird mich das Land mit seinem Atem töten. Nach meinen Berechnungen kann ich in dieser Hölle nicht länger als zwei Monate überleben.
+
+Name:
+angekommen
+Message:
+Das ist der Ort... Sengende Sonne, Sand... Die Hitze ist überall.	Ich werde hier nicht lange durchhalten, es ist notwendig, einen geeigneten Unterschlupf mit Schatten zu finden...
+
+Name:
+Bucht
+Message:
+Heute habe ich den ersten lebenden Menschen in dieser Wüste getroffen. Ein Nomade, wie er mir erzählte, sprach von einer alten Goblinsiedlung. Sie befindet sich im Osten in der Nähe der Oase.	Tolle Neuigkeiten!
+
+Name:
+Tag 8
+Message:
+Die größte Herausforderung für mich ist es, die Wüste zu erobern. Offenbar verursachen die Kreaturen aus der Feuerebene starke Störungen im Raum. Ich muss sie zerstören oder ihren Willen bezwingen. Der Raum wird sich beruhigen und der Energiefluss wird sich normalisieren.
+
+Name:
+Tag 12
+Message:
+Mir wurde klar, dass wir in dieser Hölle nicht nur Wasser, sondern auch Menschen retten müssen. Nicht viele tapfere Seelen wagen sich in dieses Land.
+
+Name:
+Tag 28
+Message:
+Ich muss mich beeilen. Jeden Tag wird es für mich schwieriger, den Körper vor dem Widerrist zu schützen.
+
+Name:
+Tag 53
+Message:
+Heute Morgen habe ich aus der Nase geblutet und die Augen werden unscharf, alles ist verschwommen. Wir müssen uns beeilen, meine Kräfte sind fast erschöpft.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 4, 0) ***Sign***
+Message:
+Virnala-Oase
+
+(33, 34, 0) ***Arch Devil***
+Message:
+Mächtige Feuerdämonen versperren mir den Weg. Ihre Vernichtung ist einer der wichtigsten Meilensteine auf meiner Reise.
+
+(25, 8, 0) ***Nomad***
+Message:
+Überraschenderweise hätte ich nie gedacht, dass ein so großer Nomadenstamm an einem so feindlichen Ort leben kann.
+
+(30, 2, 0) ***Seebär***
+Message:
+Es scheint, dass eine Gruppe von Piraten völlig den Verstand verloren hat und bereit war, jeden Reisenden nicht für Gold, sondern für Wasser zu töten.
+
+(20, 23, 0) ***Skeleton Warrior***
+Message:
+Ich sehe Hunderte und Aberhunderte von Knochen auf dem Sand liegen. Hier muss es eine Schlacht gegeben haben... Ich sehe Bewegung... Die Armee der Toten erhebt sich und umzingelt meinen Trupp.
+
+(2, 8, 0) ***Mummy***
+Message:
+Mumien, dazu verdammt, von den Toten aufzuerstehen. Ich habe über sie gelesen, war den Kreaturen aber noch nie begegnet.
+
+(18, 19, 0) ***Firebird***
+Message:
+Ich spürte mächtige magische Energieausstöße, als ob die Sonne selbst vom Himmel herunterkommen wollte. Leider war ich nicht so weit oben, denn vom Himmel stiegen Phönixe auf uns herab.
+
+(21, 15, 0) ***Seer's Hut***
+Message:
+Ein intelligentes Feuerelementar lebt hier. Er kam hierher, um sein Phönix-Haustier zu finden.
+Der Elementar deutete an, dass er mich großzügig belohnen würde, wenn ich sein Haustier finde.
+Als Zeichen der Dankbarkeit ist der Elementar bereit, mir eine Sammlung von Schriftrollen der Ebene des Feuers zu geben. Diese Schriftrollen enthalten geheimes Wissen.
+
+(13, 30, 0) ***Fire Elemental***
+Message:
+Hier sind sie! Die Verkörperung des reinen Feuers. Erstaunliche Kreaturen...
+
+===== End of file =====

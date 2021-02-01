@@ -1,0 +1,252 @@
+===== Map name =====
+Viking We Shall Go! (Allies)
+
+===== Map description =====
+The Place: Europe	The Time: The Dark Ages	Vikings have begun their raids while the kings of Europe take the opportunity to grab land from their neighbors.
+
+===== Rumors =====
+
+Name:
+North Sea
+Text:
+In the North Sea, to west of Eire there is said to be a graveyard of dead ships.
+
+===== Timed events =====
+
+Name:
+Viking Opening
+Message:
+You are the Jarl of the Viking nation.  It has come to pass that you have been overtaken by the burning in your blood to pillage and plunder.  Now you must plunder the land and destroy all of the other so-called kings.  Those that oppose you shall meet you in Valhalla.  Glory be to Odin, the All-Father.
+
+Name:
+French Opening
+Message:
+Rumor has it the Norsemen have begun their surge into the lands again.  Now is a prime opportunity for you to take land for France.  Those irritating Spaniards to the south as well as the English to the northwest will most assuredly attempt to stop you.  We must be especially careful when taking land from Italy to not upset the Pope.  Perhaps by taking their land we can show His Eminence that he is vulnerable and should move the center of Christendom to Paris.  Hmm... an interesting idea.		Viva la France!
+
+Name:
+Italian Opening
+Message:
+The Pope has learned that the Norsemen have begun raids along the coastline and are pressing into Russia.  These savages must be stopped, and he has decreed it a Holy Crusade for you to bring the word of God to them by whatever means are necessary.  Gaining their attention is not going to be easy, but he has the utmost of confidence in you.  God speed.
+
+Name:
+Spanish Opening
+Message:
+The Norse have attacked and are threatening to bring their heathen ways to the world.  This cannot be allowed to happen.  If you were to stop them, grabbing some territory along the way, I'm sure the Pope could be convinced to ignore the means with which we stop these barbarians.  Stop the Vikings if you can, but take the French lands as is due us for putting up with their insufferable attitude. We are the Spanish, the mightiest nation on Earth.  We should rule.
+
+Name:
+English Opening
+Message:
+The raids have begun once more.  Those dread Norsemen have come to raid the coast of Europe again and this time we shall not sit idly by and let the plunder continue.  Take your armies and crush the Viking raiders.  The Russians have already offered to assist us in this.		The French minister informed us they shall not allow English armies upon their soil and will declare war should we leave our island.  I take this as a declaration of war, and we shall not sit for this.  The Spanish are no better nor are the Italians.  They will surely take this as an opportunity to grab for land.  Defend England and further her empire.  God save the Queen.
+
+Name:
+The Pope's Blessing - Italy, France, and Spain
+Message:
+His Eminence, the Pope, sends his blessings to you for your assistance in this most holy of Crusades.
+
+Name:
+The 13th Day
+Message:
+'Tis the 13th day since the Norsemen began their attacks on our beloved Christendom, and a black day it is.  His Eminence, the Pope, has fallen ill and no one can seem to revive him.  This bodes ill.
+
+Name:
+News About the Pope
+Message:
+I have heard the Pope has fallen ill and is dying.  This will cause our enemies to bicker amongst themselves even more than usual.  Now is the time to strike.  If we are able to sack Rome, the Christians will be fearful of our wrath and might.  We must remain true to the teachings of Odin and his sire.  Perhaps if we are successful, Heimdal shall greet us at the Bridge when we die with stout ale, a salute, and many fine young women.
+
+Name:
+Thor's Fury
+Message:
+A raging storm whips the land and sea, and your shaman tells you this means Thor is eager to assist in your conquest.  Press on, and achieve honor and much glory.
+
+Name:
+A terrible storm
+Message:
+A terrible storm rages across the land and destroys crops everywhere.  Starvation runs rampant and the cost of cleaning up the dead is astronomical.  Perhaps God himself is punishing us.
+
+Name:
+The Pope Worsens
+Message:
+The Pope's condition has worsened, or so the rumormongers claim.  This is a dark time we live in.
+
+Name:
+2 Months Have Passed
+Message:
+It has been two long months since His Eminence fell into a fevered slumber.  The pox, which rages through his body, threatens to consume him and return him to God.  The time has come when the Council of Cardinals must choose a successor.  As soon as one has been chosen, you shall all be notified.
+
+===== Heroes =====
+
+===== Objects =====
+
+(8, 6, 0) ***Tower***
+Name:
+Reykjavik
+
+(84, 34, 0) ***Stronghold***
+Name:
+Oslo
+
+(20, 126, 0) ***Castle***
+Name:
+Granada
+
+(18, 97, 0) ***Castle***
+Name:
+Santiago
+
+(23, 37, 0) ***Rampart***
+Name:
+Dublin
+
+(8, 114, 0) ***Castle***
+Name:
+Lisbon
+
+(23, 111, 0) ***Castle***
+Name:
+Madrid
+
+(105, 129, 0) ***Rampart***
+Name:
+Palermo
+
+(112, 79, 0) ***Castle***
+Name:
+Venice
+
+(127, 11, 0) ***Stronghold***
+Name:
+Bodin
+
+(69, 99, 0) ***Necropolis***
+Name:
+Nice
+
+(46, 89, 0) ***Necropolis***
+Name:
+Bordeaux
+
+(112, 54, 0) ***Dungeon***
+Name:
+Warsaw
+
+(137, 86, 0) ***Inferno***
+Name:
+Sarajevo
+
+(91, 60, 0) ***Castle***
+Name:
+Berlin
+
+(121, 41, 0) ***Dungeon***
+Name:
+Tallinn
+
+(78, 53, 0) ***Castle***
+Name:
+Hamburg
+
+(61, 78, 0) ***Necropolis***
+Name:
+Paris
+
+(76, 69, 0) ***Castle***
+Name:
+Frankfurt
+
+(87, 82, 0) ***Tower***
+Name:
+Zurich
+
+(110, 105, 0) ***Castle***
+Name:
+Rome
+
+(103, 14, 0) ***Stronghold***
+Name:
+Stockholm
+
+(101, 94, 0) ***Castle***
+Name:
+Genoa
+
+(134, 114, 0) ***Rampart***
+Name:
+Taranto
+
+(89, 107, 0) ***Rampart***
+Name:
+Monaco
+
+(74, 87, 0) ***Sign***
+Message:
+North to Paris	South to Nice	East to Zurich
+
+(46, 66, 0) ***Necropolis***
+Name:
+Calais
+
+(135, 27, 0) ***Fortress***
+Name:
+Helsinki
+
+(98, 42, 0) ***Tower***
+Name:
+Copenhagen
+
+(35, 34, 0) ***Rampart***
+Name:
+Glasgow
+
+(35, 54, 0) ***Rampart***
+Name:
+London
+
+(54, 4, 0) ***Sign***
+Message:
+Congratulations!  You have landed at the Arctic Circle.
+
+(11, 119, 0) ***Sign***
+Message:
+Now entering Portugal.
+
+(34, 101, 0) ***Sign***
+Message:
+North to France.  South to Spain and Portugal.
+
+(75, 74, 0) ***Sign***
+Message:
+West to France.  East to Germany.
+
+(107, 52, 0) ***Sign***
+Message:
+Welcome to North Russia.  Beware of Cossacks!
+
+(89, 27, 0) ***Sign***
+Message:
+Welcome to Norway, home of the Vikings!
+
+(33, 56, 0) ***Sign***
+Message:
+The British Isles
+
+(19, 40, 0) ***Sign***
+Message:
+Welcome to the emerald isle of Ireland.
+
+(129, 67, 0) ***Inferno***
+Name:
+Kiev
+
+(141, 47, 0) ***Inferno***
+Name:
+Moscow
+
+(45, 137, 0) ***Castle***
+Name:
+Algiers
+
+(18, 135, 0) ***Castle***
+Name:
+Casablanca
+
+===== End of file =====

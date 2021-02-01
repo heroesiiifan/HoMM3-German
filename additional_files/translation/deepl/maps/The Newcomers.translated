@@ -1,0 +1,112 @@
+===== Map name =====
+Die Neuankömmlinge
+
+===== Map description =====
+Im letzten Jahr hat es ein enormes Wachstumsproblem gegeben. Zwölf Städte drängen sich nun in den ohnehin schon dichten magarischen Hügeln. Die Ressourcen, die euch dieses Land gegeben hat, sind kaum noch vorhanden. Diese neuen Städte nehmen euch weg, was rechtmäßig euer Land ist. Ihr müsst euch dem Kampf anschließen und diese Städte loswerden.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro 1
+Message:
+Jahrelang war dieses Land eine Quelle des Glücks für alle, die in dieser Ecke der Nation von Antagarich lebten. Im letzten Jahr hat es ein enormes Wachstumsproblem gegeben. Einst ein weitläufiges Land mit sechs Städten und reichlich allem, was dazugehört, ist es nun zu einem überfüllten Mekka mit massiven Bergbauunternehmen geworden. So groß sogar, dass die Ressourcen knapp werden. Zwölf Städte drängen sich nun in den ohnehin schon dichten magarischen Hügeln. Als einer der Pioniere dieses Landes werden Sie diese beengten Lebensverhältnisse nicht länger hinnehmen. Ihr Vieh hat kein Land mehr, auf dem es grasen kann. Die Ressourcen, die dieses Land Ihnen gegeben hat, sind knapp. Dieses Land gehört rechtmäßig euch. Eure Vorväter beanspruchten dieses Land. Diese neuen Städte nehmen euch weg, was euch rechtmäßig gehört. Ihr müsst euch dem Kampf anschließen und diese neuen Städte loswerden. 
+
+Name:
+Tag 2
+Message:
+Was für ein schöner Tag.  Ein leichter Nebel liegt auf der Wiese vor Deiner Stadt. Du versuchst, einen tiefen Atemzug sauberer Bergluft zu nehmen. Der übelste Gestank füllt Ihre Nasenlöcher und Ihre Augen beginnen zu tränen, als Sie erkennen, dass es sich nicht um einen leichten Nebel handelt, sondern um eine Kombination aus Rauch, Ruß und dem Gestank von brennendem Schwefel. Sie sehen nur den Rauch, der aus der benachbarten Stadt aufsteigt. Sie bemerken, dass der Rauch die gesamte Wiese bedeckt, auf der Ihre Stadt liegt.
+
+Name:
+Tag 4
+Message:
+Du befiehlst einem Läufer, eine Nachricht an diese Stadt zu schicken, um ihnen genau mitzuteilen, wie du dich fühlst, wenn du tagein, tagaus mit der Rangordnung von brennendem Schwefel aufwachst. Sie schließen Ihre Nachricht damit ab, dass Sie ihnen sagen, wenn sie den Gestank nicht stoppen, werden Sie es tun.
+
+Name:
+Tag 8
+Message:
+Ein Bote ist soeben eingetroffen, um Ihnen mitzuteilen, dass der Zustrom neuer Städte nur noch größer und größer wird. Sie werden vor nichts Halt machen. Der Bote schont merklich sein linkes Bein. Sie sehen eine Spur von blutigen Fußabdrücken und eine kleine Blutlache, wo er steht. 
+
+Name:
+Tag 8 b
+Message:
+Er bricht zusammen und erzählt Ihnen von den schrecklichen Bestien, die in den neuen Städten hausen. "Eine bösartige Bestie mit tiefdunklen Augen hat mich auf dem Weg hierher gepackt und angegriffen." Mit dem Gesicht in seinen Händen weint er.  Während Sie beginnen, seine Wunden zu verbinden, erzählt er Ihnen von den Plänen der neuen Städte. Sie planen einen totalen Krieg, um das Land zu erobern.
+
+Name:
+Tag 8 c
+Message:
+Zwischen seinen Tränen fuhr er fort: "Sie lassen niemanden ohne Kampf in ihre Stadtgrenzen. Diese Städte sind sehr geheimnisvoll. Sie hinterlassen keine Spuren, wohin sie reisen. Sie haben die Kontrolle über die meisten Minen, aber sie lassen sie unmarkiert und schwer bewacht. Es scheint, dass sie keine Truppen aussenden, aber irgendwie ihre Minenoperationen weiterführen. 
+
+Name:
+Tag 8 d
+Message:
+Sie wollen, dass niemand weiß, wer oder gar was sie sind. Sie müssen sofort gestoppt werden! Sonst werden sie uns sicher aushungern oder im Kampf töten. Ich schlage vor, wir bereiten uns auf den Krieg vor." Du lobst die Tapferkeit des Jungen, weil er die Informationen beschafft hat, die du brauchst. Du beendest den Verband für sein schwer verwundetes Bein. Er steht auf und ist in der Lage zu gehen. Du schickst ihn nach Hause, um die Nachricht an die Stadttruppen zu überbringen. 
+
+===== Objects =====
+
+(19, 13, 0) ***Event***
+Message:
+Eine bitterkalte Brise weht Ihnen ins Gesicht. Deine Lungen gefrieren, als du die kalte Bergluft einatmest.  Die Reflexion der Sonne in der herrlichen, schneebedeckten Landschaft blendet fast. Du kneifst die Augen zusammen, um dich gut umsehen zu können. An dem Geruch in der Luft erkennen Sie, dass eine Bergbaustadt in der Nähe ist.
+
+(14, 16, 0) ***Event***
+Message:
+Am Ende des Weges liegt eine Schwefeldüne. Sie scheint unbewohnt zu sein, sieht aber nicht verlassen aus. Sie suchen nach Hinweisen darauf, dass hier in letzter Zeit jemand gewesen ist. Es gibt alte Fußabdrücke im Schwefel, die nur wenige Tage alt zu sein scheinen.  Du erinnerst Dich daran, was der Bote über die unmarkierten, bewachten Minen gesagt hatte.  
+
+(2, 19, 0) ***Event***
+Message:
+Während Sie in die Ferne auf Ihre neue Nachbarstadt starren, ballen sich Ihre Hände schnell zu Fäusten. Die ranzige Stinkwolke kommt von diesem Haufen verdorbenen Übels, der nichts anderes getan hat, als Ihre Ländereien zu beschmutzen. Dein Pferd sieht sich den Rauch an, schnaubt und sucht sich ein gutes Stück Gras, um daran zu knabbern. Es ist an der Zeit, dies ein für alle Mal zu beenden. 
+
+(24, 25, 0) ***Event***
+Message:
+Du hast Dich schon immer als Abenteurer gesehen und endlich hat es sich ausgezahlt. 
+
+(33, 21, 0) ***Event***
+Message:
+Sie erinnern sich, wie Sie als Kind jeden Winter mit Ihrem Vater hierher kamen, um im Schnee zu spielen. Damals haben Sie geplant, Ihre Kinder hierher zu bringen, um die Tradition fortzusetzen. Diese Pläne sind für immer ruiniert worden. Diese Bergbaustadt hat Ihren Ort mit einer Million wunderbarer Erinnerungen zerstört. 
+
+(15, 15, 0) ***Event***
+Message:
+
+
+(26, 17, 0) ***Event***
+Message:
+
+
+(25, 14, 0) ***Event***
+Message:
+
+
+(12, 6, 1) ***Event***
+Message:
+
+
+(7, 3, 1) ***Event***
+Message:
+
+
+(4, 10, 1) ***Event***
+Message:
+
+
+(0, 23, 1) ***Event***
+Message:
+
+
+(31, 17, 1) ***Event***
+Message:
+
+
+(8, 27, 1) ***Event***
+Message:
+
+
+(14, 28, 1) ***Event***
+Message:
+
+
+(18, 34, 1) ***Event***
+Message:
+
+
+===== End of file =====

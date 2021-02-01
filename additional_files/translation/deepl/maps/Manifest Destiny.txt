@@ -1,0 +1,18 @@
+===== Map name =====
+Manifest Destiny
+
+===== Map description =====
+The neighboring lands have become increasingly more crowded.  Only one kingdom is fit to rule the others.  It is time to show the other petty nobles it is your manifest destiny to rule this land.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+You have thrown down the gauntlet and manned your garrisons.  Now is the time to go out and fulfill your destiny.  He who controls the resources, controls the land.  Just make sure that person is you!
+
+===== Objects =====
+
+===== End of file =====

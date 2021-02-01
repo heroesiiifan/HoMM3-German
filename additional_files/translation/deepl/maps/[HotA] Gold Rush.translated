@@ -1,0 +1,129 @@
+===== Map name =====
+Goldrausch
+
+===== Map description =====
+Die Schatzkammern sind leer und die Minen erschöpft... In diesen mühsamen Zeiten schickt Sie der König an die Grenze dreier Länder, wo auf einer felsigen Insel mehrere noch unberührte Goldminen liegen. Erobern Sie alle vier Minen, bevor die Helden der anderen Königreiche dies tun, oder die Frist läuft ab, in zwei Monaten.
+
+===== Rumors =====
+
+Name:
+Fabrik 1 
+Text:
+Gerüchten zufolge wurde dieses beißende Ödland zur neuen Heimat für die Halblinge, die aus Eeofol geflohen waren, nachdem die Dämonen auf brennenden Sternen vom Himmel gefallen waren.
+
+Name:
+Fabrik 2 
+Text:
+In der sengenden Sonne der Prärien... Ein schimmernder Berg erhob sich und ging auf mich zu! Dann wurde er zu einem Vulkan und stieß schwarzen Rauch aus, und auf seiner Spitze öffnete sich ein Auge.
+
+Name:
+Fabrik 3
+Text:
+Man sagt, dass es in dieser toten, felsigen Einöde von Pyromantikern und Brandstiftern wimmelt, und geschickte Schmiede schmieden für sie feuerspeiende Stöcke.
+
+Name:
+Fabrik 4
+Text:
+Haben Sie schon einmal einen düsteren Mann in einem schwarzen Umhang mit einem großen Eisenstab getroffen? Natürlich nicht, sonst würden Sie jetzt nicht hier sitzen und sich diesen Unsinn anhören.
+
+Name:
+Werk 5
+Text:
+Ich schwöre bei allem, was heilig ist, als ich als Goldsucher gearbeitet habe, habe ich oft gespürt, dass sich etwas unter meinen Füßen bewegt, tief unter der Erde!
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Auf Befehl des Monarchen seid Ihr an der Grenze der drei Königreiche angekommen. Sie müssen die Kontrolle über die Goldminen der umstrittenen Insel erlangen. Mit den mitgebrachten Ressourcen haben Sie eine Festung für weitere Operationen errichtet. Zeit, Ihr treues Pferd zu satteln.
+
+Name:
+Einleitung 2
+Message:
+Wenn Sie es nicht schaffen, die Goldminen innerhalb von zwei Monaten zu übernehmen, oder, noch schlimmer, die Minen unter die Kontrolle anderer Königreiche fallen, wird Ihr Kopf rollen. Der königliche Henker wird ihn zur Belustigung der verarmten Bauern gerne nehmen, auch wenn er der Staatskasse keine einzige Münze einbringt. 
+
+Name:
+Tag 3 KI
+Message:
+
+
+Name:
+Tag 3 
+Message:
+Die Situation hat sich als noch schlimmer herausgestellt als erwartet; Sie werden sich trotz schwerer Ressourcenknappheit behelfen müssen, da es in diesen Gebieten keine erschlossenen Minen gibt. Sie werden sich auf die Gerissenheit der Späher und ihre klebrigen Finger verlassen müssen. Apropos, die Späher erzählen uns, dass anstelle der verfallenen Sägewerke und Steinbrüche Karren voller Rohstoffe zu finden sind. Es wäre schön, sie zu erobern.
+
+Name:
+Tag 8 Wiederholung
+Message:
+Es ist ein Bote aus der Hauptstadt eingetroffen. Die Situation im Herzen des Königreichs wird von Tag zu Tag schlimmer. Wenn nicht schleunigst ein Weg gefunden wird, die Schatzkammer zu füllen, sind Hungeraufstände und Rebellionen vorprogrammiert. Deshalb müsst Ihr jeden Montag einen Vorrat an Schätzen nach Hause schicken, egal wie sehr Ihr sie zur Erfüllung Eurer Mission braucht. 
+
+Name:
+Tag 10 Gerüchte
+Message:
+Späher berichten, dass es auf der felsigen Insel von allerlei Hexenmeistern und Alchemisten wimmelt. Vielleicht helfen deren Geheimnisse Ihnen, Ihre finanziellen Sorgen zu lösen. 
+
+Name:
+Tag 28
+Message:
+Die Hälfte der Zeit, die man Ihnen gegeben hat, ist vergangen. Es wäre schön, wenn Sie sich beeilen und diese Goldminen übernehmen würden. 
+
+Name:
+Tag 50-Erinnerung
+Message:
+Sie sind weniger als eine Woche von der Deadline entfernt. Jeden Tag treffen Boten ein, die Stapel von wütenden Forderungen überreichen - Sie erkennen die zitternde Hand des Königs. 
+
+Name:
+Tag 52
+Message:
+Berichten zufolge sind in der Hauptstadt Hungerrevolten ausgebrochen. Der König schickte Ihnen eine viszerale Beschreibung des Henkers, der seine Axt wetzt, was Sie erschauern ließ. 
+
+Name:
+Tag 56 - Wunder
+Message:
+Dies ist der letzte Tag. Nur ein Wunder oder ein perfekt berechneter Schachzug kann Sie und Ihr Reich noch retten. 
+
+===== Heroes =====
+
+===== Objects =====
+
+(3, 5, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Silo
+Message:
+Da der König die schwierige Situation mit den Rohstoffvorkommen in der Region gesehen hat, hat er in einer Sonderaktion ein Lagerhaus in Ihrer Stadt bauen lassen, in das täglich Nachschub geliefert wird.
+
+(68, 7, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Tag 4
+Message:
+Da der König die schwierige Situation mit den Rohstoffvorkommen in der Region gesehen hat, hat er ein spezielles Verfahren eingeleitet, um in Ihrer Stadt ein Lagerhaus zu errichten, in dem jeden Tag Nachschub eintreffen wird.
+
+(33, 63, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Tag 4
+Message:
+Da der König die schwierige Situation mit den Rohstoffvorkommen in der Region sieht, hat er ein spezielles Verfahren eingeleitet, um in Ihrer Stadt ein Lagerhaus zu errichten, in dem täglich Nachschub eintrifft.
+
+(54, 50, 0) ***Ocean Bottle***
+Message:
+
+
+(15, 31, 0) ***Ocean Bottle***
+Message:
+
+
+(34, 37, 0) ***Sign***
+Message:
+Mineralien in Gold verwandeln. Wir arbeiten an Wochenenden. Besuchen Sie unser Geschäft: nördlich an der Straße und dann links.
+
+===== End of file =====

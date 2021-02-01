@@ -1,0 +1,61 @@
+===== Map name =====
+Verbrannte Erde
+
+===== Map description =====
+Ein Vulkanausbruch zwingt Sie dazu, den Abbau von Rohstoffen auf der Insel einzustellen. Die Minen sind eingestürzt, abgebrannt oder wurden mit kochender Lava überflutet. Die einzige verbliebene Quelle für Vorräte sind die Lagerhäuser. Offenbar hat auch ein benachbarter Lord ein Auge auf sie geworfen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ruinen
+Message:
+Das einst fruchtbare Land liegt in Trümmern. Minen sind nach einem Ausbruch auf der Insel eingestürzt. Unsere einzige Hoffnung liegt in den Lagerhäusern. Die dort angesammelten Waren werden uns helfen, wieder zu Kräften zu kommen.	Wie immer kommt der Ärger nicht allein: Was nicht von der Lava zerstört wurde, wurde von Piraten und Geiern geplündert. Außerdem hat der Lord, mit dem Sie jahrelang gekämpft haben, beschlossen, Ihre geschwächte Armee anzugreifen, in der Hoffnung, die gesamte Insel zu erobern. Verhandeln ist keine Option. Sie müssen sich auf die Schlacht vorbereiten.
+
+Name:
+Garnison
+Message:
+Das restliche Geld wurde für die Bezahlung von Dieben ausgegeben, die Ihre entfernte Garnison bemannen. Vielleicht ersparen sie uns für einige Zeit den Ärger mit unerwarteten Gästen.
+
+Name:
+res
+Message:
+Ressourcen
+
+Name:
+res2
+Message:
+Weitere Ressourcen.
+
+Name:
+Verliese
+Message:
+Man munkelt, dass einige Minen in den Dungeons überlebt haben könnten.
+
+Name:
+Minen
+Message:
+Die überlebenden Arbeiter konnten die Trümmer etwas aufräumen. Einige der abgebauten Ressourcen konnten geborgen werden.
+
+===== Heroes =====
+
+===== Objects =====
+
+(35, 34, 0) ***Event***
+Message:
+Als ob es nicht schon genug wäre, dass Piraten die Insel plündern, haben sie auch noch die Überreste eines Dorfes übernommen.		Es ist nicht die beste Idee, ein Lager in der Nähe des ausbrechenden Vulkans aufzuschlagen, aber das scheint diese Typen wenig zu kümmern.	
+
+(67, 27, 0) ***Ocean Bottle***
+Message:
+Du hast eine Flasche aus dem Wasser gefischt, aber du hast nichts weiter als einen ausgezeichneten Rum darin gefunden. Das hier ist für den Piraten, der sie verloren hat!
+
+(51, 15, 1) ***Pandora's Box***
+Message:
+
+
+(17, 51, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

@@ -1,0 +1,58 @@
+===== Map name =====
+Zerbrochener Kompass
+
+===== Map description =====
+Alles steht Kopf in diesen Ländern, in die Sie durch puren Zufall geraten sind. Der Schnee liegt im Süden, die Sonne geht im Norden auf, und die Gezeiten scheinen sich an keine Logik zu halten. Ist es an der Zeit, einen neuen Weg des Rechnens zu finden?
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(33, 51, 0) ***Pandora's Box***
+Message:
+
+
+(77, 61, 0) ***Pandora's Box***
+Message:
+
+
+(85, 27, 0) ***Pandora's Box***
+Message:
+
+
+(107, 5, 0) ***Pandora's Box***
+Message:
+
+
+(23, 44, 0) ***Castle***
+
+Timed events:
+
+Name:
+alle bon
+Message:
+
+
+(85, 100, 0) ***Conflux***
+
+Timed events:
+
+Name:
+elem
+Message:
+
+
+(15, 48, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+cpu medusa bon
+Message:
+
+
+===== End of file =====

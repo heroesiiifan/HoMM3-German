@@ -1,0 +1,32 @@
+===== Map name =====
+A Terrible Rumor
+
+===== Map description =====
+The two lords of Shireton, the Guardians as they are called, are rumored to have sided with the denizens of The Underworld against the King.  If true, you must bring about the destruction of the Guardians and venture into the deep of the underworld to end the ever-present threat from below.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+Shortly after dubbing you his court investigator, King Milner III has sent you on errand to the Shireton.  As you know, The Shireton is the most dangerous region in the kingdom.  It is the sentinel land standing guard against the terrors of the underworld, and the only realm haunted by the presence of subterranean gates, which loom as gaping bridges between the two worlds.		A rumor of unholy union, of foul deed and dark intents, has reached the King.  The two lords of Shireton, the Guardians as they are called, are rumored to have sided with the denizens of The Underworld against the King.  You must go and confirm this vile rumor.  If true, you must bring about the destruction of the Guardians and venture into the deep of the underworld to end the ever-present threat from below.
+
+===== Heroes =====
+
+===== Objects =====
+
+(26, 14, 0) ***Pandora's Box***
+Message:
+
+
+(9, 23, 0) ***Pandora's Box***
+Message:
+
+
+(25, 11, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

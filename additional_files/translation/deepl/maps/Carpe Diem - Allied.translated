@@ -1,0 +1,34 @@
+===== Map name =====
+Carpe Diem (Verbündete)
+
+===== Map description =====
+Vor ein paar Jahren haben die Götter beschlossen, dass sie keinen Anteil mehr an dieser Welt haben wollen.  Jetzt herrscht totale Anarchie.  Jeder gibt jedem anderen die Schuld, dass die Götter sie im Stich gelassen haben.  Während Sie im Thronsaal sitzen, haben Sie und Ihr Verbündeter beschlossen, dass Sie die einzigen Menschen sind, die zum Regieren geeignet sind.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Sie sind der Meinung, dass nicht die Götter ihr Volk im Stich gelassen haben, sondern das Volk seine Götter im Stich gelassen hat.  Um die Götter zurückzubringen, müssen Sie und Ihr Verbündeter das Volk dazu bringen, wieder an die Götter zu glauben, wenn nötig mit Gewalt. 
+
+Name:
+Schlussfolgerungen
+Message:
+Es hat nicht lange gedauert, bis Sie gemerkt haben, dass sich das Volk einem neuen Gott nicht so leicht beugen wird, wie Sie es vielleicht gerne hätten. Gut, sagst du dir, wenn sie einen Krieg wollen, dann werden sie ihn auch bekommen!
+
+Name:
+Besteuerung...
+Message:
+Da Sie wissen, dass es teuer ist, einen Krieg zu führen, geben Sie einige Ressourcen ab, um die Dinge zu beschleunigen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(66, 0, 1) ***Spell Scroll***
+Message:
+Gerade als Ihr Euch bückt, um das alte Pergament aufzuheben, hört Ihr, wie sich etwas hinter Euch bewegt.  Als Sie sich umdrehen, bemerken Sie einige Scharfschützen in den Bäumen.  Sie sind sich nicht ganz sicher, warum, aber Sie haben das Gefühl, dass sie angreifen werden, wenn Sie das Pergament aufheben.  Willst du das Pergament aufheben?
+
+===== End of file =====

@@ -1,0 +1,37 @@
+===== Map name =====
+Sangraals Dieb (Verbündete)
+
+===== Map description =====
+Nach jahrelanger Suche haben Sie endlich den Heiligen Gral gefunden, aber letzte Nacht hat ihn einer Ihrer Feinde gestohlen.  Sie müssen den Gral zurück in die Stadt bringen, aus der er gestohlen wurde, und den Gralsbau errichten.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1
+Message:
+Die Sonne strahlt hell durch Ihr Schlafzimmerfenster und weckt Sie.  Es ist ein guter Tag, denn in der vergangenen Nacht wurde nach sieben Monaten der Suche endlich der Heilige Gral gefunden!  Heute werden Sie ein neues Pferdegespann und einen Wagen anheuern, um ihn zu holen.		Ihre gute Laune wird jäh erschüttert, als Ihr Berater in Panik in Ihr Zimmer platzt.  "Der Gral!  Er ist weg!  Jemand hat den Heiligen Gral gestohlen!  Die Wächter sind alle tot - alle.  Wir müssen sofort etwas unternehmen!"		Schnell schlüpfen Sie aus Ihrem Nachtgewand und berufen eine Versammlung ein.  In der Besprechung befehlen Sie Ihren Wächtern, ihre Augen nach allem offen zu halten, was verdächtig aussieht.  Ein Berater teilt Ihnen mit, dass das Team der Ausgräber zur Gralsstätte zurückgekehrt ist, um nach Hinweisen auf die Identität des Diebes zu suchen.  Er rät Ihnen dann, die Truppen der Stadt zu sammeln und sich darauf vorzubereiten, den Gral zurückzuerobern.
+
+Name:
+Tag 3
+Message:
+Ein Läufer überbringt eine Nachricht vom Team der Ausgräber.  Er liest: "Wir bedauern, Ihnen mitteilen zu müssen, dass das perfekte Verbrechen begangen wurde.  Wir können keine Spuren finden, wer den Gral gestohlen haben könnte.  Aber wir werden weiter nach Hinweisen suchen."		Sie senden eine Nachricht zurück: "Stellen Sie Ihre Ermittlungen ein.  Gehen Sie zurück in die Stadt und machen Sie sich bereit, mit mir einen Suchtrupp zu bilden.  Wir werden den Dieb finden, und wenn wir den ganzen Kontinent durchkämmen müssen."
+
+===== Heroes =====
+
+===== Objects =====
+
+(3, 24, 0) ***Pandora's Box***
+Message:
+
+
+(18, 59, 0) ***Pandora's Box***
+Message:
+
+
+(58, 47, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

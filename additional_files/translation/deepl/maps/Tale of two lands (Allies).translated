@@ -1,0 +1,72 @@
+===== Map name =====
+Geschichte zweier Länder (Verbündete)
+
+===== Map description =====
+Die Kontinente Ost- und West-Varesburg haben beschlossen, ein letztes Mal Krieg zu führen.  Sichern Sie die Ressourcen Ihres Kontinents (mit Hilfe Ihres Verbündeten) und ziehen Sie dann so schnell wie möglich auf den anderen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ereignis des ersten Tages.
+Message:
+Der Varesburg-Krieg ist eröffnet!  Können Sie der Sieger in der Schlacht zweier Kontinente sein? 
+
+Name:
+Steuern
+Message:
+Erhöhte Steuern für den Kriegseinsatz bringen zusätzliche Ressourcen.
+
+Name:
+Ruhetag
+Message:
+Das Monatsende bedeutet bei den Varesburgern immer einen Ruhetag.  Leider bedeutet das, dass keine Arbeit für die Kriegsanstrengungen geleistet wird und Geld verloren geht.
+
+===== Objects =====
+
+(20, 14, 0) ***Sign***
+Message:
+West Varesburg- Nördliches Ende
+
+(104, 19, 0) ***Sign***
+Message:
+Ost-Varesburg - Nördliches Ende
+
+(102, 124, 0) ***Sign***
+Message:
+Ost-Varesburg - Südende
+
+(35, 115, 0) ***Sign***
+Message:
+West Varesburg - Südliches Ende
+
+(34, 78, 0) ***Sign***
+Message:
+West Varesburg University...denn der Preis für Freiheit ist Wissen.
+
+(95, 64, 0) ***Sign***
+Message:
+Universität Ost-Varesburg, denn der Preis für die Freiheit ist Wissen.
+
+(34, 67, 1) ***Quest Guard***
+Message:
+Ein altes Gespenst von einem Wächter sagt: "Nur derjenige, der die Erfahrung des Kraken oder größer hat, darf passieren"
+
+(40, 57, 1) ***Quest Guard***
+Message:
+Ein alter Wächter sagt: "Nur wer die Macht und das Wissen der Krake oder größer hat, darf passieren" 
+
+(51, 57, 1) ***Quest Guard***
+Message:
+Ein alter geisterhafter Wächter stellt fest: "Nur wer die Kraft und die Verteidigung des Kraken oder größer hat, darf passieren"
+
+(116, 71, 1) ***Quest Guard***
+Message:
+Ein alter Geisterwächter sagt: "Man braucht eine Bäckermenge davon in Stufen, um zu passieren"
+
+(109, 87, 1) ***Quest Guard***
+Message:
+Ein alter Geisterwächter sagt: "Nur wer die Erfahrung der Deco-Hydra hat, darf passieren" 
+
+===== End of file =====

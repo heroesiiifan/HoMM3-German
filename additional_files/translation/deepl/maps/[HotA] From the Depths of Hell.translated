@@ -1,0 +1,281 @@
+===== Map name =====
+Aus den Tiefen der Hölle
+
+===== Map description =====
+Die Menschen auf einer Insel wachen durch ein Erdbeben auf. Mitten auf dem Land ist ein Portal aus den Tiefen der Hölle erschienen. Werden Kuttans und seine Leute den ankommenden Dämonen widerstehen und das Portal schließen?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+[Comp] Ressourcen auf 0 halten
+Message:
+
+
+Name:
+[Spieler] Startnachricht, 0 Ressourcen beim Start
+Message:
+Ein Erdbeben hat die gesamte Bevölkerung von Camp Kuttans aufgeweckt. Die Menschen konnten eine schwarze, vulkanische Wolke sehen, die von den Bergen in der Mitte der Insel aufstieg. Ein Portal direkt aus der Hölle ist dort erschienen und ein paar Kobolde sind bereits herausgesprungen und haben die Bewohner über mehrere Dämonen informiert, die darauf warten, beschworen zu werden, um die Menschen vom Angesicht der Insel zu tilgen. Der erste Dämon wird am Ende dieser Woche kommen. Wirst du, Kuttans der Kampfmagier, ihren heftigen Angriffen widerstehen und dein Volk beschützen?		Da die Bewohner Ihrer Stadt noch nie die Grausamkeit und den Schrecken eines echten Krieges zu spüren bekommen haben, haben sie auch nie daran gedacht, Ressourcen für schlechte Zeiten anzuhäufen. Deshalb fangen Sie ohne jegliche Ressourcen an und müssen die Materialien selbst sammeln.
+
+Name:
+[Spieler] Startnachricht (Verteidigung)
+Message:
+Ihr erstes Ziel sollte es sein, Ihre Stadt zu befestigen. Camp Kuttans ist in seinem jetzigen Zustand zu anfällig für eine Belagerung. Um das zu erreichen, sollten Sie sich umsehen und Baumaterialien finden. Die Leute erzählen Ihnen von einem verlassenen Samwill einen Tag von der Stadt entfernt, der jetzt von den Gnollen bewohnt wird. Westlich von Ihrem derzeitigen Standort befindet sich ein Erzlager, das von wilden, auf Wildschweinen reitenden Goblins bevölkert wird. Wenn die Vorräte, die Sie dort finden, nicht ausreichen, sollten Sie sich noch ein wenig umsehen. Sie wissen auch von einem Lager exzellenter Bogenschützen im Westen der Insel, die sich ebenfalls als nützlich gegen die Dämonen erweisen könnten.
+
+Name:
+[Spieler] Holz, Erz, Gold
+Message:
+Eine Gruppe von Stadtbewohnern hat diese Ressourcen für den Schutz der Stadt gesammelt.
+
+Name:
+[Player] Rote Abschlusswarnung
+Message:
+Die Menschen in der Stadt sind alle entsetzt über das, was heute Abend passieren wird. Sie heben ihre Moral, aber tief im Inneren wissen Sie nicht, ob all die Vorbereitungen, die Sie in dieser Woche getroffen haben, ausreichen werden.
+
+Name:
+[Rot] Aktivieren
+Message:
+
+
+Name:
+[Tan] Blau aufwecken
+Message:
+
+
+Name:
+[Spieler] Dämonische Nachricht
+Message:
+Sie haben Ihre Stadt erfolgreich gegen den ersten Dämonenangriff verteidigt. Bevor Sie Ignatius den letzten Schlag versetzten, lachte er und sagte: 	"Ihr mögt mich töten, aber gegen meine Nachfolger habt ihr keine Chance! Meine Mentorin Fiona hungert bereits ihre Hunde aus, um sie so wild wie nie zuvor zu machen! Sie werden sich an den Leichen von Euch, Eurer Familie und Eurem ganzen erbärmlichen Volk laben!"
+
+Name:
+[Spieler] Nachricht der 2. Woche
+Message:
+Obwohl Ihr Euer Volk verteidigt und den ersten Dämon getötet habt, gab es viele Verluste. Die Leute sind erschöpft von den Kämpfen der letzten Nacht, aber Sie können spüren, dass ihre Hoffnung zu überleben viel größer ist als vor der Schlacht.
+
+Name:
+[Spieler] Holz, Erz, Gold
+Message:
+Eine Gruppe von Stadtbewohnern hat diese Ressourcen für den Schutz der Stadt gesammelt.
+
+Name:
+[Blau] Aktivieren
+Message:
+
+
+Name:
+[Grün] Tan aufwecken
+Message:
+
+
+Name:
+[Spieler] Dämonische Nachricht
+Message:
+Wie schon beim letzten Mal hat die dämonische Fiona Ihnen ihre letzte Nachricht zukommen lassen, bevor sie ihrer gerechten Strafe zugeführt wird: 	"Meine Armee mag zu klein gewesen sein, um dem Sperrfeuer eurer Schützen standzuhalten. Aber wartet eine Woche, bis meine Meisterin Marius mit ihren Streitkräften kommt! Sie hat ihre Dämonen erfolgreich mit Ogern gekreuzt, so dass ihre Armee zäh und wild ist wie keine Armee zuvor!"
+
+Name:
+[Spieler] Holz, Erz, Gold
+Message:
+Eine Gruppe von Stadtbewohnern hat diese Ressourcen für den Schutz der Stadt gesammelt.
+
+Name:
+[Tan] Aktivieren
+Message:
+
+
+Name:
+[Orange] Grün aufwecken
+Message:
+
+
+Name:
+[Spieler] Dämonische Nachricht
+Message:
+Bereits Ihren Sieg feiernd, warfen Sie die gefangene Dämonin Marius auf die Knie und gaben ihr die Möglichkeit zu sprechen. Ihre letzten Worte waren: 	"Erbärmliche Menschen, die sich in ihren kleinen erbärmlichen Schlössern verschließen! Meine Kräfte waren nicht stark genug, um eure Befestigungen zu überwinden, aber wartet noch eine Woche, bis meine Schwester kommt! Nymus wird eure Burgmauern und Schützentürme zerstören, dann mit ihren gigantischen Bestien in euren Hof stürmen und euch in Stücke reißen, bevor ihr reagieren könnt!"
+
+Name:
+[Spieler] Nix?
+Message:
+Späher haben von seltsamen, reptilienartigen Kreaturen in den seichten Gewässern an der Küste berichtet. Handelt es sich dabei um die Rasse der Nix? Was sind ihre Absichten?
+
+Name:
+[Grün] Aktivieren
+Message:
+
+
+Name:
+[Lila] Wake up Orange
+Message:
+
+
+Name:
+[Spieler] Dämonische Nachricht
+Message:
+Die riesigen Behemots waren immer noch nicht stark genug, um Sie zu besiegen. Die letzte Nachricht von Nymus war:	"Meine rohe Kraft hat mich im Stich gelassen! Feiere deinen Sieg, denn dies ist die letzte Woche deines Lebens! Mein Nachfolger weiß viel weniger über den direkten Kampf als ich, aber ich war immer neidisch auf seine Zauberkräfte! Solmyr, der blauhäutige Dämon, wird die Magie nach besten Kräften einsetzen, um dich von der Erde zu tilgen."
+
+Name:
+[Spieler] Ressourcen
+Message:
+Eine Gruppe von Stadtbewohnern hat diese Mittel zum Schutz der Stadt aufgebracht.
+
+Name:
+[Orange] Aktivieren
+Message:
+
+
+Name:
+[Rosa] Lila aufwecken
+Message:
+
+
+Name:
+[Spieler] Dämonische Nachricht
+Message:
+Solmyr, der blauhäutige Dämon, war nicht so gesprächig über den kommenden Dämon wie seine Vorgänger. Alles was er sagte war:	"Es spielt keine Rolle, ob ihr meinen Nachfolger in der nächsten Woche besiegt. In zwei Wochen kommt unser großer Dämonenherr an die Oberfläche. Seine Macht ist für jeden Menschen unübertrefflich und seine Kräfte sind zahlreicher als alle Lebewesen auf eurer Insel zusammen. Ihr müsstet euch in die Tiefen der Hölle wagen und den Höllenaltar zerstören, um das Portal zu eurer Insel zu versiegeln."
+
+Name:
+Weitere Ressourcen
+Message:
+Eine Gruppe von Stadtbewohnern hat diese Ressourcen für den Schutz der Stadt aufgebracht.
+
+Name:
+[Lila] Aktivieren
+Message:
+
+
+Name:
+[Spieler] Dämonische Nachricht
+Message:
+Octavia, der letzte der sieben Dämonen, sagte Ihnen in ihren letzten Momenten:	"Ich war der letzte Dämon, mit dem du gekämpft hast. In einer Woche wird eine Armee, die eure Stärke um das Hunderttausendfache übertrifft, auf diese Ländereien marschieren und alles plündern und verwüsten, was euch lieb und teuer ist. Ihr habt im direkten Kampf absolut keine Chance, nicht einmal hinter Euren Burgmauern. Meine Seele ist jedoch an den Höllenaltar gebunden und mein Tod wird das Portal zu den Tiefen der Hölle öffnen, wenn Ihr also vorzeitig sterben wollt, könnt Ihr dorthin gehen und gegen die Dämonenburg antreten. Wenn du erfolgreich bist, was ich bezweifle, könntest du den Dämonenfürsten davon abhalten, alles Leben von der Insel zu tilgen. Wenn du jedoch versagst, wird deine Seele in den unendlichen Labyrinthen der Hölle umherwandern!"
+
+Name:
+[Spieler] Geh zum Portal
+Message:
+Das PORTAL zur Hölle ist GEÖFFNET! Du hast SIEBEN TAGE Zeit, den Altar in den Tiefen der Hölle zu zerstören, um das Portal zu schließen, bevor der Dämonenlord beschworen wird und alles verloren ist!
+
+Name:
+[Player] Erinnerung - 3 Tage
+Message:
+Nur noch knapp eine halbe Woche bis zur Ankunft des Dämonenlords. Wenn Sie noch nicht alle Truppen versammelt haben und durch das Portal hinter dem Vulkan in die Hölle marschiert sind, sollten Sie sich jetzt auf den Weg dorthin machen.
+
+Name:
+[Rosa] Aktivieren
+Message:
+
+
+Name:
+[Rosa] Holz
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(24, 19, 0) ***Cove***
+Name:
+Lager Kuttans
+
+Visiting Battle Mage:
+Name:
+Kuttans
+Biography:
+Kuttans
+
+Timed events:
+
+Name:
+Hütte
+Message:
+Die Stadtbewohner haben einen Platz gebaut, um alle jungen Männer zu versammeln und ihnen eine gute Kampfausbildung zu geben.
+
+Name:
+Schmied
+Message:
+Die Städter haben eine Schmiede gebaut.
+
+Name:
+Rathaus, Verstärkung
+Message:
+Ihre Leute haben das Rathaus aufgerüstet. Als Sie Ihre Siege sehen, kommen weitere Freiwillige von der Insel, die bereit sind, gegen die Dämonen zu kämpfen.
+
+Name:
+Nix Fort
+Message:
+Die Nix sind aus den Gewässern an die Oberfläche gekommen. Sie beweisen Ihnen Loyalität und sind bereit, für den größeren Ruhm zu kämpfen!
+
+Name:
+Upg. Nix Fort
+Message:
+Die Nix haben die letzten Tage trainiert und sind nun kampfbereiter denn je.
+
+Name:
+Weitere Verstärkungen
+Message:
+Es kommen immer mehr Menschen von der Insel, um eine Kampfausbildung zu erhalten und die Dämonen von den Ländereien zu vertreiben.
+
+Name:
+Fregatte
+Message:
+Die Piraten sind bereit, gegen die Dämonen zu kämpfen.
+
+Name:
+Mehr Verstärkung, Capitol
+Message:
+Nachdem Sie Ihre unfassbaren Erfolge gegen die dämonischen Invasoren gesehen haben, kommen viele Menschen an den Toren von Camp Kuttans an und bitten um ein Kampftraining, um die Streitkräfte zu stärken!	Die Stadt ist inzwischen so groß, dass die Städter ein Kapitol gebaut haben.
+
+Name:
+Nix-Verstärkungen
+Message:
+Weitere Nix-Krieger sind an die Oberfläche gekommen und haben sich Ihren Stadttruppen angeschlossen.
+
+Name:
+Verstärkung
+Message:
+Andere Leute kamen aus anderen Teilen der Insel und wollen das Camp Kuttans verteidigen!
+
+(10, 26, 0) ***Quest Guard***
+Message:
+Der Fluss ist unpassierbar, weil die Brücke zerstört ist. Man braucht 12 Holzstücke, um sie zu reparieren, damit man den Fluss passieren kann.
+Du brauchst 12 Holzstücke, um die Brücke zu reparieren.
+Willst du die Brücke für 12 Holzstücke reparieren?
+
+(12, 11, 0) ***Quest Guard***
+Message:
+Du stehst vor einem Portal, das in die Tiefen der Hölle führt. Leider ist es verschlossen. Wahrscheinlich würde es sich öffnen, wenn du alle eindringenden Dämonen besiegst.
+Du stehst vor einem Portal, das in die Tiefen der Hölle führt. Leider ist es verschlossen. Wahrscheinlich würde es sich öffnen, wenn du alle eindringenden Dämonen besiegt hättest.
+Das Portal in die Tiefen der Hölle ist wieder funktionsfähig. Willst Du es betreten?
+
+(13, 11, 0) ***Event***
+Message:
+Du wurdest von dämonischen Kräften überfallen, bevor du das Portal betreten konntest!
+
+(25, 9, 1) ***Inferno***
+Name:
+Höllentiefen
+
+Visiting Heretic:
+Name:
+Dämonen-Lord
+
+(16, 35, 1) ***Demoniac***
+Name:
+Solmyr
+
+(24, 15, 1) ***Event***
+Message:
+Dutzende von gequälten Seelen haben sich Ihnen genähert. Überraschenderweise sind sie nicht feindselig, sondern bitten Sie um eine Chance, an der Schlacht teilzunehmen, um ihre Seelen zu erlösen.
+
+(23, 13, 1) ***Wight***
+Message:
+Die verlorenen Seelen suchen nach einem starken Anführer, um an seiner Seite zu kämpfen. Werden Sie ihnen erlauben, sich Ihnen anzuschließen?
+
+(25, 11, 1) ***Wraith***
+Message:
+"Lasst uns mit euch gegen die Dämonen kämpfen! Wir haben seit Ewigkeiten auf einen solchen Moment gewartet!"
+
+(24, 35, 1) ***Demoniac***
+Name:
+Dämon Herr
+
+===== End of file =====

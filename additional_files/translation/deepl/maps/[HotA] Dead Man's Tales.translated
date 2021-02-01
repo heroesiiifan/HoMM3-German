@@ -1,0 +1,865 @@
+===== Map name =====
+Geschichten eines toten Mannes
+
+===== Map description =====
+Dieser Archipel ist nur den Regnans bekannt. Eine Legende besagt, dass es tief unter den Inseln eine Stadt gibt, von der aus man durch Portale nach Jadam oder nach Enroth gelangen kann; man nennt sie den Kreuzweg.	...Die erathianische Flotte verfolgte die Piraten, und sie mussten auf den unbekannten Inseln landen. Diesmal kann man nirgendwohin fliehen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Regna - Ressourcen 1
+Message:
+{Einrichten der Start-Schatzkammer...}
+
+Name:
+Regna - Ressourcen 2
+Message:
+(Fertig mit dem Einrichten des Startschatzes!)
+
+Name:
+Erathia - Ressourcen 1
+Message:
+{Die Startschatzkammer einrichten...}
+
+Name:
+Erathia - Ressourcen 2
+Message:
+{Fertig mit dem Einrichten der Start-Schatzkammer!}
+
+Name:
+Regna - 1
+Message:
+"Regnanische Fregatten SIND schließlich die schnellsten Schiffe in ganz dem verflixten Enroth! Wir haben sie gut abgeschüttelt und hatten genug Zeit, um einen Umweg zu machen. Wir haben es sogar geschafft, auf der Insel Fuß zu fassen und eine Verschnaufpause in unseren Forts einzulegen.		Diese Inseln sollten unsere vorübergehende Basis sein, da wir über den Endlosen Ozean zur Vori-Insel unterwegs waren, aber die Erathianer schafften es, die Meere zu blockieren. Unser Plan B war riskant; er beinhaltete, dass wir uns in Richtung der Crossroads, einer unterirdischen Stadt, durchkämpfen mussten. Dort gibt es Portale, die nach Enroth und Jadam führen, einige weit entfernte Orte, viele Meilen von Antagarich und diesen Inseln entfernt. Wir werden sie zerstören, nachdem wir hindurchgegangen sind, und den Rittern den Weg abschneiden. Die Erathianer werden nicht den Mumm haben, uns auf einem anderen Kontinent zu jagen...		Es gibt allerdings ein Problem; irgendein Nighon-Lord hat die Stadt zu seinem persönlichen verrückten Zoo gemacht. Weiß der Teufel, was ihn dorthin geführt hat, aber wir müssen uns durchkämpfen. Zu allem Übel gibt es Nekromanten auf der Insel, wo man zur Kreuzung hinabsteigt.		Wir haben Glück, dass Tazar und sein Sumpfvolk mitkamen - für einen Preis, natürlich. Die Tatalianer können kaum kämpfen, aber ihr Kapitän ist sehr gut.		Es gibt auch eine letzte Möglichkeit: einfach alle zu zerschlagen; aber wir haben wahrscheinlich nicht genug Schießpulver, um jeden erathianischen Hund zu erschießen."
+
+Name:
+Erathia - 1
+Message:
+"Wir hätten sie ein paar Mal fast verloren, hielten aber noch durch; allerdings schüttelten sie uns in Küstennähe ab. Ich habe den Admiral der zweiten Flotte über meinen magischen Spiegel kontaktiert, und die Regnans sind auch nicht da. Diese Hunde kennen sich hier aus, aber diesmal wird es ihre eigene Falle sein.	Das Land... Diese Inseln sind auf keiner unserer Karten zu finden.		Wir mussten die Burgen der örtlichen Lords einnehmen, aber ein Bracadan-Herzog im Norden bot seine Hilfe im Kampf gegen die Piraten an. Er schlug vor, dass die Piraten hier gelandet sind, weil es eine Stadt unterhalb des Archipels gibt. In der Stadt gibt es Portale, die nach Enroth und Jadam führen. Sie wurde von irgendeinem Nighon-Lord eingenommen, und obwohl er gestorben ist, wimmelt es dort immer noch von Monstern. Zu allem Übel haben Nekromanten die Kontrolle über den unterirdischen Gang.		Wenn es dort unten wirklich eine Stadt gibt, müssen wir sie einnehmen und die Portale zerstören, um den Piraten die Flucht zu versperren. Jadam und Enroth sind ziemlich weit von Antagarich entfernt, und wir können sie verlieren, wenn wir hier keinen Erfolg haben."
+
+Name:
+KI - Ressourcen
+Message:
+
+
+Name:
+Braun - Ressourcen
+Message:
+
+
+Name:
+Regna - 2
+Message:
+"Wir konnten Elmore nicht finden. Er hat sich in einem Sturm verirrt, obwohl er versucht hat, in der Nähe unseres Geschwaders zu bleiben. Sieht aus, als wäre er von den Wasserelementaren geholt worden, die hier überall sind. Was für ein guter Seemann er war...		Eovacius' Schiff wurde von einheimischen Söldnern geentert, die sich auf die Seite der Erathianer stellten. Er wird wahrscheinlich auf einer der kleineren Inseln im Norden oder Süden festgehalten."
+
+Name:
+Erathia - 2
+Message:
+"Es klingt absurd, aber Sylvia, eine der besten Seefahrerinnen Erathias, hat sich verfahren. Sie konnte den Kurs nicht halten, was dazu führte, dass ein Teil der Flotte zu spät kam. Manche sagen, der Grund dafür seien die Seeungeheuer gewesen, die ihr Schiff weggezerrt haben..."
+
+Name:
+Erathia - 2,5
+Message:
+"Nachdem die Insel den Besitzer wechselte, wurden die Soldaten der besiegten Armeen zu Banditen. Sie verdienen ihren Lebensunterhalt damit, Menschen auf den Straßen und in den Wäldern auszurauben und zu töten. Seid sehr vorsichtig bei der Erkundung. Sie haben bereits eine unserer Handelskarawanen gekapert. Aus Sicherheitsgründen muss jeder Kommandant eine Eskorte von mindestens fünfzig Bogenschützen und zwei Dutzend Kreuzrittern haben".
+
+Name:
+Regna - 3
+Message:
+"Wir könnten jetzt etwas leichtes Geld gebrauchen. Es gibt irgendwo im Nordosten eine Halbinsel, auf der sich ein Portal befindet, das zu einer kleinen unterirdischen Stadt führt. Man munkelt, dass die Pilzfarmen dort sehr profitabel sind. 		Aber scheiß auf die Kerker."
+
+Name:
+Erathia - 3
+Message:
+"Coleshire erwähnte, dass bracadanische Magier, die den Archipel zu ihrer neuen Heimat machten, das "Eiskönigreich" - Regnum Nevis - erschufen. Wir konnten mit diesen Lügengeschichten von der "großen, unterirdischen Burg, die auf gefrorenem Wasser steht und deren Wände wie feines, klares Glas sind" nichts anfangen; aber es gab einen curoischen Teil. Die Magier haben offenbar Titanen hergebracht. Eine ganze Armee von mächtigen Riesen, komplett mit ihren Blitzen, die meilenweit schlagen. Wir sollten nach diesem Ort suchen, denn die Titanen könnten sich als entscheidend für unseren Feldzug erweisen".
+
+Name:
+KI - Ressourcen
+Message:
+
+
+Name:
+Braun - Joe die Krücke
+Message:
+
+
+Name:
+Braun - Maghbore
+Message:
+
+
+Name:
+Braun - Wavekiller und Manshere 
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(39, 8, 0) ***Castle***
+Name:
+Heilige Gärten
+
+Timed events:
+
+Name:
+Heilige Gärten - Mönche
+Message:
+Heilige Gärten - Mönche.
+
+Name:
+AI - Ressourcen und zusätzliche Truppen
+Message:
+
+
+(19, 28, 0) ***Castle***
+Name:
+Eisenhut
+
+Timed events:
+
+Name:
+Ironhold - Pikeniere, Scharfschützen, Schwertkämpfer
+Message:
+Ironhold - Pikeniere, Scharfschützen, Schwertkämpfer.
+
+(10, 111, 0) ***Castle***
+Name:
+Fortus
+
+Timed events:
+
+Name:
+Fortus - Kavaliere
+Message:
+Fortus - Kavaliere.
+
+Name:
+Fortus - Upg Kavaliere
+Message:
+In der Stadt Fortus wurde ein verbessertes Trainingsgelände fertiggestellt. Sie können dort nun Champions anheuern.
+
+(18, 135, 0) ***Castle***
+Name:
+Angelorum
+
+Timed events:
+
+Name:
+Angelorum - Engel, Kreuzritter, Mönche
+Message:
+Angelorum - Engel, Kreuzritter, Mönche.
+
+Name:
+Angelorum - Upg Engel
+Message:
+Verbessertes Portal der Herrlichkeit wurde in der Stadt Angelorum fertiggestellt. Sie können dort nun Erzengel anheuern.
+
+Name:
+AI - Ressourcen und zusätzliche Truppen
+Message:
+
+
+Name:
+AI - Startressourcen und Truppen
+Message:
+
+
+(125, 119, 0) ***Cove***
+Name:
+Vorago
+
+Timed events:
+
+Name:
+Vorago - Seeschlangen, Korsaren, Crewmates
+Message:
+Vorago - Seeschlangen, Korsaren, Crewmates.
+
+Name:
+Vorago - Upg Seeschlangen
+Message:
+Upgraded Maelstrom wurde in der Stadt Vorago fertiggestellt. Sie können nun dort Haspiden anheuern.
+
+Name:
+AI - Ressourcen und zusätzliche Truppen
+Message:
+
+
+Name:
+AI - Startressourcen und Truppen
+Message:
+
+
+(140, 36, 0) ***Cove***
+Name:
+Marine-Nevma
+
+Timed events:
+
+Name:
+Marine-Nevma - Nymphen
+Message:
+Marine-Nevma - Nymphen.
+
+Name:
+Marine-Nevma - Meereshexen
+Message:
+Marine-Nevma - Meereshexen.
+
+Name:
+AI - Ressourcen und zusätzliche Truppen
+Message:
+
+
+(78, 26, 0) ***Conflux***
+Name:
+Aves-Flamma
+
+Timed events:
+
+Name:
+Aves-Flamma - Phönixe
+Message:
+Aves-Flamma - Phönixe.
+
+(93, 29, 0) ***Conflux***
+Name:
+Essentia
+
+Timed events:
+
+Name:
+Essentia - Sprites, Magische Elementare
+Message:
+Essentia - Sprites, Magische Elementare.
+
+(99, 51, 0) ***Necropolis***
+Name:
+Sombra
+
+(51, 47, 0) ***Rampart***
+Name:
+Elvengard
+
+Timed events:
+
+Name:
+Elvengard - Elfen
+Message:
+Elvengard - Elfen.
+
+(4, 6, 0) ***Tower***
+Name:
+Maghort
+
+Timed events:
+
+Name:
+Maghort - Gremlins, Golems
+Message:
+Maghort - Gremlins, Golems.
+
+Name:
+Maghort - Magi, Genies
+Message:
+Maghort - Magi, Genies.
+
+Name:
+Maghort - Upg Magi
+Message:
+In der Stadt Maghort wurde ein verbesserter Magierturm fertiggestellt. Sie können nun dort Erzmagier anheuern.
+
+Name:
+Maghort - Upg Genies
+Message:
+In der Stadt Maghort wurde ein verbesserter Altar der Wünsche fertiggestellt. Sie können dort nun Meistergenies anheuern.
+
+Name:
+AI - Ressourcen und zusätzliche Truppen
+Message:
+
+
+(33, 46, 0) ***Seer's Hut***
+Message:
+Eine alte Frau bittet Sie, einen Haufen Trolle westlich von hier zu finden und auszulöschen. Sie verspricht, Ihnen als Belohnung eine Schriftrolle mit dem Zauber "Blind" zu geben.
+Die alte Hexe schmeißt dich raus, sobald sie herausfindet, dass du dich noch nicht um die Trolle gekümmert hast.
+Die alte Frau belohnt Sie mit einer Zauberschriftrolle.
+
+(14, 57, 0) ***Castle***
+Name:
+Pull-Allice
+
+Timed events:
+
+Name:
+Pull-Allice - Griffins
+Message:
+Pull-Allice - Griffins
+
+Name:
+Pull-Allice - Griffin Bas
+Message:
+Griffin Bastion wurde in der Stadt Pull-Allice fertiggestellt. Sie können dort nun weitere Greifen anheuern.
+
+Name:
+AI - Starttruppen
+Message:
+
+
+(50, 90, 0) ***Castle***
+Name:
+Maritimum
+
+Timed events:
+
+Name:
+Maritimum - Handelsressourcen
+Message:
+Maritimum - Handelsressourcen.
+
+Name:
+Maritimum - Handelsressourcen
+Message:
+Maritimum - Handelsressourcen.
+
+Name:
+Maritimum - Werft
+Message:
+Die Werft wurde in der Stadt Maritimum fertiggestellt.
+
+Name:
+AI - Starttruppen
+Message:
+
+
+(48, 94, 0) ***Halberdier***
+Message:
+- Bereit zu dienen, mein Herr!
+
+(1, 125, 0) ***Pandora's Box***
+Message:
+lol
+
+(81, 137, 0) ***Pandora's Box***
+Message:
+
+
+(131, 94, 0) ***Fortress***
+Name:
+Fortalesa
+
+Timed events:
+
+Name:
+Fortalesa - Schlangenfliegen, Eidechsenmenschen
+Message:
+Fortalesa - Schlangenfliegen, Eidechsenmenschen.
+
+Name:
+Fortalesa - Gorgonen, Wyvern
+Message:
+Fortalesa - Gorgonen, Wyverns.
+
+Name:
+Fortalesa - Upg Gorgons, Wyverns
+Message:
+In der Stadt Fortalesa wurden eine verbesserte Gorgonenhöhle und ein verbessertes Wyvernest fertiggestellt. Sie können dort nun Mighty Gorgons und Wyvern Monarchs anheuern.
+
+(140, 4, 0) ***Cove***
+Name:
+Bucht
+
+Timed events:
+
+Name:
+Bucht - Crewmates, Piraten
+Message:
+Bay - Crewmates, Piraten.
+
+Name:
+Bucht - Upg Crewmates, Piraten
+Message:
+Aufgerüstete Fregatte, aufgerüstete Hütte und Kneipe wurden in der Stadt Bay fertiggestellt. Sie können dort nun Korsaren und Seeleute anheuern. Das Wachstum der Seemänner ist gestiegen.
+
+Name:
+Bucht - Schießpulver-Lager
+Message:
+Gunpowder Warehouse wurde in der Stadt Bay fertiggestellt. Sie können dort jetzt Seehunde anheuern.
+
+Name:
+AI - Ressourcen und zusätzliche Truppen
+Message:
+
+
+(120, 73, 0) ***Cove***
+Name:
+Cubent
+
+Timed events:
+
+Name:
+Cubent - Ayssiden
+Message:
+Cubent - Ayssids.
+
+Name:
+Cubent - Roost
+Message:
+Roost wurde in der Stadt Cubent fertiggestellt. Sie können dort nun weitere Ayssiden anheuern.
+
+Name:
+AI - Starttruppen
+Message:
+
+
+(116, 85, 0) ***Cove***
+Name:
+Garth
+
+Timed events:
+
+Name:
+Garth - Nix, Piraten
+Message:
+Garth - Nix, Piraten.
+
+Name:
+Garth - Handelsressourcen
+Message:
+Garth - Handelsressourcen.
+
+Name:
+Garth - Upg Nix
+Message:
+In der Stadt Maghort wurde ein erweitertes Nix-Fort fertiggestellt. Sie können nun dort Nix-Krieger anheuern. Óëó÷øåííûé ôîğò íèêñîâ áûë ïîñòğîåí â ãîğîäå Ãàğò. Òåïåğü âû ìîæåòå íàíèìàòü íèêñîâ-âîèíîâ.
+
+Name:
+AI - Starttruppen
+Message:
+
+
+(116, 100, 0) ***Quest Guard***
+Message:
+Beseitigen Sie die Nymphen in der Nähe, dann lassen wir Sie durch.
+Die Nymphen sind noch da, holt sie euch.
+Ihr dürft passieren.
+
+(15, 88, 0) ***Pandora's Box***
+Message:
+
+
+(125, 120, 0) ***Captain***
+Name:
+Korken
+
+(18, 136, 0) ***Cleric***
+Name:
+Loynis
+
+(49, 91, 0) ***Knight***
+Name:
+Trystan
+Biography:
+Trystan geriet bei seiner Familie in Ungnade, weil er sein Geld für kaputte Aufträge ausgab, anstatt seine Ländereien zu verbessern. In der Zwischenzeit war er bei den Heerführern sehr beliebt. Soldaten, die für Trystan kämpften, führten ein kurzes, aber dekadentes Leben. 
+
+(4, 7, 0) ***Alchemist***
+Name:
+Coleshire
+Biography:
+Coleshire ist ein bracadanischer Alchemist, der lange in Frieden im Norden des Vergessenen Archipels gelebt hat. Nachdem die Flotte von Erathia in das Land einfiel und die alten Herren stürzte, bot er den Neuankömmlingen gerne seine Talente an.
+
+(105, 140, 0) ***Inferno***
+Name:
+Gaher-Glocke
+
+Timed events:
+
+Name:
+Gaher-Bell - Verstärkungen
+Message:
+Gaher-Bell - Magogs, Gehörnte Dämonen, Grubenfürsten.
+
+(103, 70, 0) ***Lich***
+Message:
+- Du wirst zu einem Haufen Knochenstaub, und ich behalte deine Rippen als Andenken.
+
+(91, 7, 0) ***Conflux***
+Name:
+Trybus
+
+Timed events:
+
+Name:
+Trybus - die drei Elemente
+Message:
+Trybus - die drei Elemente.
+
+(84, 71, 0) ***Pandora's Box***
+Message:
+
+
+(65, 72, 0) ***Pandora's Box***
+Message:
+
+
+(96, 67, 0) ***Quest Guard***
+Message:
+- Nur der wahre König der Untoten darf passieren.
+- Nur der wahre untote König darf passieren.
+- Willkommen zurück, Eure Dunkelheit.
+
+(2, 37, 0) ***Pandora's Box***
+Message:
+Vielleicht solltest du nicht?
+
+(90, 97, 0) ***Quest Guard***
+Message:
+- Nur diejenigen, die mindestens zehn Geisterdrachen aus dem Königreich Sombra besitzen, dürfen hier passieren.
+- Zutritt verweigert. Nur Sombra-Lords mit einem Gefolge von zehn Geisterdrachen dürfen passieren.
+- Willkommen.
+
+(91, 66, 0) ***Pandora's Box***
+Message:
+
+
+(61, 45, 0) ***Seer's Hut***
+Message:
+- Meine Handelsflotte wurde von den Seebiestern nördlich von hier zerstört. Wischen Sie sie aus, und ich tauche Sie mit einem Trupp meiner besten Scharfschützen.
+- Das ist einfach nicht gut genug.
+- Ich danke Euch! Du hast bewiesen, dass du das Recht hast, diesen Trupp anzuführen.
+
+(70, 103, 0) ***Pandora's Box***
+Message:
+
+
+(83, 79, 0) ***Pandora's Box***
+Message:
+
+
+(71, 66, 0) ***Event***
+Message:
+Ein Hinterhalt der Elfen! Sieht so aus, als hätten wir diese avleischen Häfen nicht plündern und uns am Holzschmuggel beteiligen sollen. Diese Elfen sind boshafte Bastarde...
+
+(87, 52, 0) ***Event***
+Message:
+"Was macht ein Elfenschiff hier? Haben sie uns schon in einen Hinterhalt gelockt?"		
+
+(24, 19, 0) ***Event***
+Message:
+Eine Banditenbande hat Sie überfallen!
+
+(4, 48, 0) ***Troll***
+Message:
+- Ist das mein Axthe?	- Nö! - Hier ist es nicht, du Dummkopf! Gottha!		Das war wahrscheinlich die unverständlichste Unterhaltung, die du je in deinem Leben geführt hast.
+
+(91, 79, 0) ***Event***
+Message:
+Plötzlich erhebt sich ein Heer von Toten vor euren Truppen aus dem Boden. Zu den Waffen!
+
+(69, 70, 0) ***Event***
+Message:
+Auf einem Schild am Grenztor steht:	"Wer auch immer den Fuß in den Glanz des weißen Portals setzt, wird bald die Quintessenz seines Lebens erfahren."
+
+(69, 72, 0) ***Event***
+Message:
+Sie werden von den Grenzwächtern begrüßt: "Nur für den Fall, dass Sie die Nachricht nicht erhalten haben, dies ist ein Einwegportal! Bleiben Sie besser weg, wenn Sie nicht sicher sind, dass Sie auf der Höhe sind!"
+
+(92, 76, 0) ***Sign***
+Message:
+Galthrans Wohnsitz liegt im Süden.	Die Burg von Sombra liegt im Norden.
+
+(37, 117, 0) ***Event***
+Message:
+Ein Haufen Banditen hat dich überfallen.
+
+(9, 81, 0) ***Event***
+Message:
+Eine Banditenbande hat Dich überfallen!
+
+(94, 80, 0) ***Event***
+Message:
+Plötzlich erhebt sich vor Ihren Truppen eine Armee von Toten aus dem Boden. Zu den Waffen!
+
+(43, 24, 0) ***Pandora's Box***
+Message:
+
+
+(45, 26, 0) ***Pandora's Box***
+Message:
+
+
+(40, 27, 0) ***Pandora's Box***
+Message:
+
+
+(39, 36, 0) ***Ocean Bottle***
+Message:
+"Man munkelt, dass der Weiße Schlüsselmeister irgendwo im Untergrund ist."
+
+(21, 44, 0) ***Event***
+Message:
+Eine Banditenbande hat Sie überfallen.
+
+(15, 128, 0) ***Event***
+Message:
+Eine Banditenbande hat Sie überfallen!
+
+(38, 94, 0) ***Lizardman***
+Message:
+- Sieht aus, als hätten die Echsenmenschen die Bogenschützen. Lassen wir sie frei!
+
+(37, 19, 0) ***Seer's Hut***
+Message:
+- Diese verdammten Golems, die ich erschaffen habe, haben mich hier eingesperrt! Danke, dass Ihr mich freigelassen habt.	Ich kann einen Haufen Soldaten aus Bauern für dich machen. Bringt sie einfach her.
+- 65! Besorg mir ein paar Bauern, ja?
+- Diese Soldaten werden dir gut dienen, das verspreche ich dir! Auf Wiedersehen!
+
+(133, 103, 0) ***Seer's Hut***
+Message:
+- Ich bin ein alter Seemann, der seit mindestens sieben Jahrzehnten hier lebt, was könnte ich für Euch von Interesse haben?  Nun... Ich habe ein paar Waffen übrig, gut für, sagen wir, einen Trupp von 45. Ich bringe ihnen bei, das Auge eines Albatros aus 200 Schritt Entfernung zu treffen.
+- Ich dachte, wir hätten eine Abmachung - 45 Mann!
+- Ich hoffe, der Kerl ist nur ein Kannibale, der lieber Schwarze isst, also gab er mir die Weißen, sonst...		Du wirst in den nächsten Tagen nicht gut schlafen können.
+
+(122, 106, 0) ***Crewmitglied***
+Message:
+- Verdammt, Mann, ich dachte schon, wir würden hier in Untote verwandelt werden...
+
+(123, 107, 0) ***Crewmitglied***
+Message:
+- Freunde! Das sind Freunde!
+
+(62, 53, 0) ***Pandora's Box***
+Message:
+
+
+(69, 2, 0) ***Seer's Hut***
+Message:
+Sie betreten das Haus, das auf Stapeln steht, aber es ist völlig leer. Allerdings finden Sie bald eine Tür mit einem leuchtenden Griff. Sie lässt sich nicht öffnen oder eintreten. Wahrscheinlich ist sie magisch verschlossen.
+Sie haben immer noch keine Ahnung, wie Sie die Tür aufschließen können.
+Schließlich führen Sie einen ausgeklügelten Plan aus, um die Klinke mit einem Vorschlaghammer zu zertrümmern, und hinter der Tür befindet sich eine reiche Bibliothek.
+
+(61, 11, 0) ***Pandora's Box***
+Message:
+
+
+(54, 87, 0) ***Pandora's Box***
+Message:
+Auf der Kiste ist ein Schriftzug zu finden: "Made in Nighon".
+
+(80, 96, 0) ***Pandora's Box***
+Message:
+
+
+(131, 131, 0) ***Pandora's Box***
+Message:
+
+
+(80, 114, 0) ***Pandora's Box***
+Message:
+
+
+(116, 62, 0) ***Seer's Hut***
+Message:
+- Wenn du diese Arschlöcher in einem Fort im Osten von hier zerschlägst, bringe ich dir ein paar Kampftricks bei.
+- Diese Arschlöcher gibt es immer noch!
+Du glaubst zwar nicht, dass du jetzt einen Azurblauen Drachen mit einem Schlag einer Rumflasche töten kannst, wie es dein Lehrer behauptet, aber du hast auf jeden Fall etwas Neues gelernt.
+
+(93, 74, 0) ***Event***
+Message:
+Plötzlich erhebt sich ein Heer von Toten vor Ihren Truppen aus dem Boden. Zu den Waffen!
+
+(91, 92, 0) ***Event***
+Message:
+Plötzlich erhebt sich ein Heer von Toten aus dem Boden vor euren Truppen. Zu den Waffen!
+
+(97, 120, 0) ***Pandora's Box***
+Message:
+
+
+(99, 107, 0) ***Seer's Hut***
+Message:
+Auf dem Dach befindet sich ein großes Schild mit der Aufschrift "Sklaven gesucht. Guter Preis".
+Das Schild ist immer noch da.
+Der Besitzer der Hütte öffnete die Tür und nahm Ihr Angebot schweigend an. Er hat sofort die Sklaven an die Arbeit geschickt und ihnen befohlen, einen großen Sack auf Ihr Schiff zu laden.
+
+(4, 107, 0) ***Pandora's Box***
+Message:
+
+
+(71, 135, 0) ***Seer's Hut***
+Message:
+- Wenn Ihr die höllische Brut im Süden von hier auslöscht, werden sich meine Champions Eurer Armee anschließen.
+- Das haben wir nicht vereinbart.
+- Sie werden Euch gut dienen!
+
+(37, 26, 0) ***Seer's Hut***
+Message:
+- Gesegnet seist du, mein Held, dafür, dass du diese frechen Kristalldrachen aus meiner Brutstätte vertrieben hast... Sie gehörten einst mir, aber sie wurden aus irgendeinem Grund verrückt. Alles, was ich jetzt habe, sind diese hier, die Feen-Drachen... Wie kann ich meine Dankbarkeit ausdrücken?
+- Es schmerzt mich, mich von ihnen zu trennen, aber es gibt keinen anderen Weg, euch zu belohnen. Lebt wohl, meine lieben Kleinen.
+
+(48, 92, 0) ***Event***
+Message:
+- Ein Trupp Hellebardiere soll auf dem Wachposten auf mich warten.
+
+(81, 44, 0) ***Pandora's Box***
+Message:
+
+
+(93, 85, 0) ***Event***
+Message:
+Plötzlich erhebt sich ein Heer von Toten vor Ihren Truppen aus dem Boden. Zu den Waffen!
+
+(120, 66, 1) ***Dungeon***
+Name:
+Der Kreuzweg
+
+(93, 62, 1) ***Pandora's Box***
+Message:
+
+
+(30, 35, 1) ***Seer's Hut***
+Message:
+- Du musst genauso verrückt sein wie ich, wenn du es geschafft hast, hierher zu kommen. Wisst Ihr was - schlagt die Seeungeheuer im Süden von hier aus zu Brei, und ich überlasse Euch meine Piraten, da Ihr sie wahrscheinlich mehr braucht.	Übrigens gibt es ein sicheres Portal aus diesem Kerker nach Westen, aber es ist gut bewacht.
+- Was wollt Ihr?
+- Gänsehaut, du hast es geschafft! Ich hoffe, meine Jungs werden Euch gute Dienste leisten.
+
+(45, 55, 1) ***Pandora's Box***
+Message:
+
+
+(75, 10, 1) ***Pandora's Box***
+Message:
+
+
+(54, 106, 1) ***Conflux***
+Name:
+Panopticum
+
+(94, 131, 1) ***Pandora's Box***
+Message:
+
+
+(70, 11, 1) ***Pandora's Box***
+Message:
+
+
+(68, 63, 1) ***Quest Guard***
+Message:
+- Für 7500 Gold und 8 Kristalle erhalten Sie acht ausgezeichnete Grüne Drachen.
+- Kein Geld, kein Spaß.
+- Hier sind sie!
+
+(80, 53, 1) ***Quest Guard***
+Message:
+- Für 10000 Gold und 10 Kristalle erhältst du zehn ausgezeichnete Grüne Drachen.
+- Kein Geld, kein Spaß.
+- Hier sind sie!
+
+(73, 54, 1) ***Quest Guard***
+Message:
+- Für 5500 Gold und 6 Kristalle erhältst du sechs ausgezeichnete Grüne Drachen.
+- Kein Geld, nicht lustig.
+- Hier sind sie!
+
+(64, 47, 1) ***Event***
+Message:
+Auf einem Schild über dem Grenztor steht: "Schwarzer-Welle-Kult".
+
+(78, 45, 1) ***Pandora's Box***
+Message:
+
+
+(75, 49, 1) ***Zauberin***
+Message:
+- Nein! Wagt es nicht, unser Ritual zu stören! Haltet sie auf, Schwestern!
+
+(56, 67, 1) ***Prison***
+Name:
+Phalm
+Biography:
+Phalm der Große ist ein alter Drache, der von den Kultisten hereingelegt wurde. Sie ergriffen ihn und versuchten, ihn als Köder zu benutzen, um eine noch mächtigere Kreatur zu beschwören.
+
+(18, 39, 1) ***Ocean Bottle***
+Message:
+"Phalm der Große wird in die Welt zurückkehren, und seine Macht wird den Ski zerschmettern~" - Der unvollendete Zettel ist mit Blut befleckt.
+
+(51, 26, 1) ***Ocean Bottle***
+Message:
+"Cattelberg, 1099" Das war wohl ein richtig guter Wein.
+
+(115, 33, 1) ***Tower***
+Name:
+Regnum-Nevis
+
+Timed events:
+
+Name:
+Regnum-Nevis - Erzmagier
+Message:
+Regnum-Nevis - Erzmagier.
+
+Name:
+Regnum-Nevis - Titanen
+Message:
+Regnum-Nevis - Titanen.
+
+Name:
+Regnum-Nevis - Ressourcen
+Message:
+Regnum-Nevis - abgebaute Ressourcen.
+
+(111, 30, 1) ***Sign***
+Message:
+Die Godforsaken-Mine.
+
+(114, 18, 1) ***Pandora's Box***
+Message:
+
+
+(25, 118, 1) ***Seer's Hut***
+Message:
+- Hier ist der Deal. Ihr vertreibt die Evil Eyes aus dem Quecksilberlabor im Osten von hier, und ich gebe Euch 4000 Gold. Wird das funktionieren?
+- Das war so nicht abgemacht.
+- Sehr gut gemacht. Jetzt entschuldigt mich, ich muss mich um meine Pilzfarm kümmern.
+
+(13, 118, 1) ***Seer's Hut***
+Message:
+- Du verjagst die Bösen Augen aus dem Quecksilberlabor, und ich gebe dir eine Gruppe Minotauren. Abgemacht?
+
+(20, 110, 1) ***Seer's Hut***
+Message:
+- Hier ist der Deal. Ihr vertreibt die Bösen Augen aus dem Quecksilberlabor im Westen von hier, und ich gebe Euch 4.000 Gold. Wird das funktionieren?
+- Das war so nicht abgemacht.
+- Sehr gut gemacht. Jetzt entschuldigt mich, ich muss mich um meine Pilzfarm kümmern.
+
+(17, 113, 1) ***Sign***
+Message:
+Willkommen im Pilzland! Das beste Quecksilber kommt von hier.
+
+(140, 1, 1) ***Heretic***
+Name:
+Joe der Krüppel
+
+(140, 5, 1) ***Demoniac***
+Name:
+Maghbore
+
+(82, 105, 1) ***Pandora's Box***
+Message:
+
+
+(93, 109, 1) ***Pandora's Box***
+Message:
+
+
+(140, 9, 1) ***Demoniac***
+Name:
+Wellenkiller
+
+(140, 13, 1) ***Demoniac***
+Name:
+Manshere
+
+===== End of file =====

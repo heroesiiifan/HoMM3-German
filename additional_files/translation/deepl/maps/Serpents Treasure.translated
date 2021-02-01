@@ -1,0 +1,39 @@
+===== Map name =====
+Der Schatz der Schlange
+
+===== Map description =====
+In vergangenen Zeiten herrschten Drachen über dieses Reich, können sie wieder herrschen? (natürlich mit deiner Hilfe)
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Erster Tag.
+Message:
+Ein Bote des ehemaligen Drachenfürsten dieser Region sagt dir, dass er dir helfen wird, deine Feinde zu besiegen, wenn du 25 schwarze Drachen dazu bringen kannst, sich deiner Sache anzuschließen.  Du stimmst zu, aber als der Bote davonreitet, kannst du nicht anders, als dich zu fragen, wer eigentlich regieren würde, wenn alle Lords besiegt wären? 
+
+Name:
+Extra Gold
+Message:
+Die Drachenlords geben dir 1000 Gold, um deiner (ihrer) Sache zu helfen.
+
+===== Objects =====
+
+(123, 60, 0) ***Sign***
+Message:
+Eingesperrt:  Rion der Kleriker.  Verurteilt wegen:  Zu viel Gutmenschentum.  Strafe:  Lebenslänglich
+
+(125, 61, 0) ***Cerberus***
+Message:
+Die Gefängnis-Wachhunde greifen an!
+
+(56, 133, 0) ***Pandora's Box***
+Message:
+Sie finden und retten einen alten Mann vor einem kleinen Wyvern, er belohnt Sie mit Gegenständen aus seiner Hütte.
+
+(137, 17, 0) ***Event***
+Message:
+Erd- und Feuerelementare steigen aus dem Boden auf und greifen an.
+
+===== End of file =====

@@ -1,0 +1,90 @@
+===== Map name =====
+Südlich der Hölle
+
+===== Map description =====
+In der Broschüre aus dem Land im Norden steht: "Komm zu uns! Die Hölle ist gar nicht so schlimm.  Wir haben beheizte Pools, warme Schlammbäder..." Unnötig zu sagen, dass Sie ihr Angebot abgelehnt haben und sie nun beschlossen haben, die südlichen Länder mit Gewalt zu erobern.
+
+===== Rumors =====
+
+Name:
+Gottheit des Feuers.
+Text:
+Es wird gesagt, dass die Gottheit des Feuers selbst der Hölle hilft.
+
+===== Timed events =====
+
+Name:
+Ein weiterer Feind
+Message:
+Es kommt noch schlimmer... nicht nur die Hölle versucht, Ihr Land zu erobern, sondern auch Ihr langjähriger Feind aus dem schneebedeckten Land neben Ihnen hat beschlossen, einen Krieg mit Ihnen zu beginnen.  Werden Sie es schaffen, beide Gegner abzuwehren?
+
+Name:
+Hells Berater.
+Message:
+Spione berichten, dass Hell einige "Berater" eingeschleust hat, die versuchen, Sie zu "überzeugen", dass ihr Angebot, Sie auszukaufen, Ihre einzige Option ist.
+
+===== Objects =====
+
+(10, 102, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Erhöhen Sie die Steuer ein wenig.
+Message:
+Die einheimischen Kreaturen schlagen sich auf Ihre Seite, als sie herausfinden, dass die Hölle eine wirklich hohe Steuerrate hat und sie diese lieber nicht zahlen würden.
+
+Name:
+Erhöhen Sie die Steuer ein wenig.
+Message:
+Um die neuen Lebewesen zu bezahlen, erhöht man die Steuern ein wenig.
+
+(50, 75, 0) ***Quest Guard***
+Message:
+Für den Kauf dieser Stadt müssen 4000 Gold bezahlt werden.
+Da Sie keine 4000 Gold mitgebracht haben, wollen Sie diese Burg offensichtlich nicht.
+Die Wächter hier verlangen für diese Burg Geld.  Sie werden es Euch für 4000 Gold überlassen.  Wollt Ihr bezahlen?
+
+(5, 44, 0) ***Sign***
+Message:
+Willkommen in der HÖLLE!	Genießen Sie Ihren Aufenthalt.
+
+(21, 45, 0) ***Sign***
+Message:
+Willkommen in der HÖLLE!	Genießen Sie Ihren Aufenthalt.
+
+(63, 50, 0) ***Sign***
+Message:
+Willkommen in der HÖLLE!	Wenn Sie die Hitze nicht ertragen können, verlassen Sie die Küche (d.h. die Hölle).
+
+(96, 43, 0) ***Sign***
+Message:
+Willkommen in der HÖLLE!	Genießen Sie Ihren Aufenthalt.
+
+(49, 42, 0) ***Sign***
+Message:
+Willkommen in der HÖLLE!	Genießen Sie Ihren Aufenthalt.
+
+(51, 76, 0) ***Sign***
+Message:
+Stadt zu verkaufen... wer zuerst kommt, mahlt zuerst (eine kleine Gebühr wird für den ersten Kauf verlangt).
+
+(64, 69, 0) ***Ocean Bottle***
+Message:
+Die Hölle hat keinen Zorn wie eine verschmähte Frau.
+
+(99, 101, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Kreaturen versammeln sich.
+Message:
+Die einheimischen Kreaturen schlagen sich auf Ihre Seite, als sie herausfinden, dass die Hölle eine wirklich hohe Steuerrate hat und sie diese lieber nicht zahlen würden.
+
+Name:
+Erhöhen Sie die Steuer ein wenig.
+Message:
+Um die neuen Lebewesen zu bezahlen, erhöht man die Steuern ein wenig.
+
+===== End of file =====

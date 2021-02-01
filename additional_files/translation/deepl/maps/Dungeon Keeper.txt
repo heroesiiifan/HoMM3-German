@@ -1,0 +1,51 @@
+===== Map name =====
+Dungeon Keeper
+
+===== Map description =====
+You are the evil Dungeon Overlord, master of all that is dark and insidious.  Your master has determined it is time to have your evil seep into the lands above and destroy those fools happily residing in Pleasantville.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Introduction
+Message:
+You received a message from your Master.  The small village above you has been far too happy for far too long.  It is time you go up there and show them what evil is all about.  Beware the heroes that roam the land.  They are powerful and will try to fend you off.  
+
+Name:
+Celebration
+Message:
+It appears some sort of celebration is going on up there.  You can hear them having all sorts of fun and dancing around.  The racket is deafening and drives you to slap a servant so hard that three of his ribs break.  You feel better.
+
+Name:
+Birthday
+Message:
+Today is a special day; it's your birthday.  So the servants get out the whips, chains and cat-o-nine tails for you to use on some elves caught yesterday just for the occasion.  With gleeful bloody strokes, you flay alive the first elf and proceed to enjoy the screams of the others during the day.
+
+Name:
+Feeling Old
+Message:
+Feeling a little old today because you found one gray hair this morning, you suddenly decide to see if you can still take on three large beasts with your bare hands.  After breaking the bones in the first, you shred the second and disembowel the third.  Ah, yes.  You still have the touch.
+
+Name:
+What?
+Message:
+Seems your minions are fighting amongst themselves.  With an iron-spiked gauntlet, you backhand the Medusas, kick the Troglodytes in the tail, and punch out the Evil Eyes.  Once your aggressions have been released and all others are unconscious, peaceful torture returns to your lands.
+
+Name:
+Faeries
+Message:
+Those stinking Elves started trying to get uppity and planted stinking, horrid, reeking, putrid flowers all along the base of your Dungeon.  How could they be so cruel?  In retaliation you send forth the Minotaurs to behead all of those pansies and hang them on pikes.
+
+===== Objects =====
+
+(17, 18, 0) ***Rampart***
+Name:
+Pleasantville
+
+(15, 15, 1) ***Dungeon***
+Name:
+Dark Moor
+
+===== End of file =====

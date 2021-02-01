@@ -1,0 +1,108 @@
+===== Map name =====
+Schattentäler
+
+===== Map description =====
+Ihr Tal ist zu klein für einen Mann Ihres Formats und Ihrer Ambitionen.  Zum Glück können Sie Ihren Besitz durch die Beschlagnahmung der Ländereien Ihrer Nachbarn angemessen erweitern.  Wenn Sie alle Ihre Nachbarn im Tal vernichtet haben, können Sie sich mit den Taugenichtsen auf dem Berg befassen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Ihre Spione verraten Ihnen, dass Ihre Nachbarn eine Verschwörung gegen Sie anzetteln.  Zum Glück für Sie befinden sie sich noch in der Planungsphase.  Zum Pech für sie marschieren Ihre Armeen heute.
+
+===== Heroes =====
+
+===== Objects =====
+
+(62, 65, 0) ***Tower***
+
+Timed events:
+
+Name:
+Rathaus bauen
+Message:
+
+
+Name:
+Zitadelle bauen
+Message:
+
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+(12, 7, 0) ***Tower***
+
+Timed events:
+
+Name:
+Rathaus bauen
+Message:
+
+
+Name:
+Zitadelle bauen
+Message:
+
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+(22, 31, 0) ***Sign***
+Message:
+Heiliger Boden
+
+(23, 31, 0) ***Event***
+Message:
+Die Erdgeister helfen Ihnen ... für einen Preis.
+
+(48, 41, 0) ***Sign***
+Message:
+Seelenloser Boden
+
+(47, 41, 0) ***Event***
+Message:
+Die Geister der Verdammten helfen dir... für einen Preis.
+
+(57, 7, 0) ***Sign***
+Message:
+Kochender Boden
+
+(58, 7, 0) ***Event***
+Message:
+Die Geister der Hitze amüsieren sich, indem sie Ihre Sache unterstützen... für eine kleine Gebühr.
+
+(19, 71, 0) ***Sign***
+Message:
+Ertrunkene Erde
+
+(18, 71, 0) ***Event***
+Message:
+Die Geister der Ertrunkenen amüsieren sich, indem sie Ihre Sache unterstützen... gegen eine kleine Gebühr.
+
+(11, 14, 1) ***Tower***
+
+Timed events:
+
+Name:
+Extra-Einkommen
+Message:
+
+
+(59, 60, 1) ***Tower***
+
+Timed events:
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+===== End of file =====

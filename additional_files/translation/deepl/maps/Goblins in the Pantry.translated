@@ -1,0 +1,28 @@
+===== Map name =====
+Kobolde in der Speisekammer
+
+===== Map description =====
+Ein Goblin-Dorf ist der Schlüssel zur Kontrolle dieser Region, und Sie müssen sie auf Ihre Seite ziehen, bevor Ihre Gegner es tun.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Eröffnung
+Message:
+Hier in diesem Land gibt es viele Goblinstämme.  Alle Stämme in der Region, bis auf einen, haben sich für das kommende Fest des Lebens für eine Seite entschieden.  Ihr müsst diesen letzten Stamm überzeugen, sich Eurer Sache anzuschließen.  Das Problem ist, dass es drei andere Barbarenfürsten gibt, die das Gleiche versuchen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(42, 19, 0) ***Goblin***
+Message:
+Nur vor den Starken werden wir uns verbeugen.  Besiegt uns und wir werden uns Euch anschließen, aber Ihr müsst uns alle besiegen.
+
+(28, 19, 0) ***Goblin***
+Message:
+Wir sind hier, um zu kämpfen.  Wirst du kämpfen oder vor Angst weglaufen?
+
+===== End of file =====

@@ -1,0 +1,222 @@
+===== Map name =====
+Marshland Menace
+
+===== Map description =====
+Your forefathers sealed off a great danger in the Northern Swamp.  Now some of your greedy warlord neighbors are talking about razing the Border Guards to gain access to the mounds of treasure rumored to be scattered about the swamps.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1 Intro
+Message:
+Last night your three fellow Warlords broke the spell that kept the Keymaster Tents for the Border Guards hidden.  A huge magic storm raged all night and most of the morning.  As soon as the storm broke, you began receiving reports of monsters now guarding your mines and causing havoc in your lands.  Cursing your fellow Warlords, you rode out with your personal guard to reclaim your lands.  When finished, you are going to personally take out each and every one of the other idiot Warlords responsible for this mess.  And maybe, just maybe, whatever your forefathers locked into the Northern Swamps will stay there and leave you alone.
+
+Name:
+Extra Gold for CP's in Human start postions
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(52, 43, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Build Citadel
+Message:
+
+
+Name:
+Build Town Hall
+Message:
+
+
+Name:
+Build Hordes
+Message:
+
+
+Name:
+Extra Critters
+Message:
+
+
+(38, 62, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Build Town Hall
+Message:
+
+
+Name:
+Build Citadel
+Message:
+
+
+Name:
+Build Creature Horde
+Message:
+
+
+Name:
+Extra Low Critters
+Message:
+
+
+(22, 43, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Build Town Hall
+Message:
+
+
+Name:
+Build Citadel
+Message:
+
+
+Name:
+Build Creature Hordes
+Message:
+
+
+Name:
+Extra Low Critters
+Message:
+
+
+(34, 13, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Gold
+Message:
+
+
+Name:
+Extra Income
+Message:
+
+
+Name:
+Extra Critters
+Message:
+
+
+Name:
+Build Townhall
+Message:
+
+
+Name:
+Build Citadel
+Message:
+
+
+(10, 7, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Gold
+Message:
+
+
+Name:
+Extra Income
+Message:
+
+
+Name:
+Extra Critters
+Message:
+
+
+Name:
+Build Townhall
+Message:
+
+
+(50, 15, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Gold
+Message:
+
+
+Name:
+Extra Income
+Message:
+
+
+Name:
+Extra Critters
+Message:
+
+
+Name:
+Build Townhall
+Message:
+
+
+Name:
+Build Citadel
+Message:
+
+
+(29, 38, 1) ***Random Town***
+
+Timed events:
+
+Name:
+Build Town Hall
+Message:
+
+
+Name:
+Build Citadel
+Message:
+
+
+Name:
+Build Horde
+Message:
+
+
+Name:
+Extra Low Critters
+Message:
+
+
+(48, 14, 1) ***Fortress***
+
+Timed events:
+
+Name:
+Gold
+Message:
+
+
+Name:
+Extra Income
+Message:
+
+
+Name:
+Extra critters
+Message:
+
+
+===== End of file =====

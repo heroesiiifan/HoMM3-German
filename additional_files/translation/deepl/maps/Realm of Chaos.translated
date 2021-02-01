@@ -1,0 +1,76 @@
+===== Map name =====
+Reich des Chaos
+
+===== Map description =====
+Das Gute will das Böse vernichten, die Neutralen wollen alles nur für sich, und das Böse will die Welt zerstören!  Natürlich hat jeder seine eigenen Pläne, wie er seine teuflischen Vorhaben durchsetzen will...
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1
+Message:
+Jeder deiner guten Nachbarn hat seine eigenen Pläne, wie er das Böse zerstören kann.  Eure Meinungen gehen so weit auseinander, dass es unter euren Verbündeten zu Kämpfen gekommen ist.  Zeigen Sie ihnen, wer der Boss ist, und befreien Sie die Welt vom Bösen!
+
+Name:
+Tag 1
+Message:
+Du dachtest, du hättest einen Kameraden gefunden, der dir helfen würde, die Reichtümer der Welt zu erobern, aber er scheint alles für sich behalten zu wollen.  Erteilen Sie ihm eine Lektion, und plündern Sie dann los!
+
+Name:
+Tag 1
+Message:
+Seit vielen Jahren streiten Sie und Ihre beiden niederträchtigen Nachbarn darüber, wie Sie die Welt erobern können.  Da Sie erkannt haben, dass keine Einigung erzielt werden kann, haben Sie beschlossen, Ihre Nachbarn einfach zu eliminieren und Ihren Plan zur Eroberung der Welt zu starten!
+
+===== Objects =====
+
+(20, 47, 0) ***Sign***
+Message:
+
+
+(9, 7, 0) ***Sign***
+Message:
+Direkt unter den gefrorenen Ländern liegt das Tor zur Unterwelt.  Lang leben die Kräfte des Lichts!
+
+(66, 7, 0) ***Sign***
+Message:
+
+
+(48, 3, 0) ***Random Monster 3***
+Message:
+Sie sehen sie mit einer funkelnden Halskette spielen und beschließen, dass Sie sie für sich selbst haben wollen.
+
+(57, 62, 0) ***Sign***
+Message:
+Hier entlang für eine bessere Truppe.
+
+(46, 34, 1) ***Sign***
+Message:
+Unbefugte werden auf der Stelle erschlagen!
+
+(51, 65, 1) ***Sign***
+Message:
+Hüten Sie sich vor lästigen Weltverbesserern.
+
+(9, 22, 1) ***Event***
+Message:
+Auf diesem Boden wurde eine große Schlacht geschlagen.  Ein Ritter von großer Güte kämpfte hart und verlor gegen die dunklen Mächte des Bösen.  Mit seinem sterbenden Atem verfluchte er die Dunkelheit.  Bis zum heutigen Tag hält der Boden an dem Fluch fest.
+
+(23, 39, 1) ***Event***
+Message:
+Wenn Sie dieses Gebiet betreten, stoßen Sie auf das Land, das dieser magischen grünen Unterwelt ihre Kraft verleiht.  Dies ist die Quelle der Kraft von Shangri-La.
+
+(18, 43, 1) ***Sign***
+Message:
+500 Goldstücke Strafe für Vermüllung in Shangri-La.
+
+(18, 38, 1) ***Event***
+Message:
+Ein Elf in einer seltsamen blauen Uniform taucht aus dem Gebüsch auf, kurz nachdem Sie die Eingeweide von Ihren Waffen abgewischt haben.  Er runzelt die Stirn und sagt: "Man hat Sie gewarnt, in Shangri-La keine Abfälle zu hinterlassen.  Es ist ziemlich viel Arbeit nötig, um diese Gegend schön zu halten.  Das wird eine Strafe von 500 Goldstücken sein."  Schüchtern bezahlst du ihn.
+
+(23, 43, 1) ***Sign***
+Message:
+Willkommen in Shangri-La.
+
+===== End of file =====

@@ -1,0 +1,45 @@
+===== Map name =====
+Inselkönig
+
+===== Map description =====
+Der König ist gestorben.  Er hinterließ sieben Söhne und jeder von ihnen fühlt sich berechtigt, den Thron zu besteigen.  Die Rivalität zwischen ihnen heizt sich zu einer Schlachtenwut auf, während sie ihre Anhänger versammeln und sie für ihre Sache gewinnen.  Das Königreich wird mit Sicherheit zerbrechen, wenn die Frage der Nachfolge nicht bald geklärt wird.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Der König ist plötzlich verstorben, ohne einen Erben bestimmt zu haben.  Er hinterlässt sieben Söhne, alle im gleichen Alter und jeder von einer anderen Frau aus dem Harem des verstorbenen Königs geboren.  Jeder Sohn fühlt sich berechtigt, den Thron zu besteigen, und es gibt keine verlorene Liebe zwischen ihnen.  Ihre Rivalität hat sich schnell zu einem Kampf aufgeheizt, während die Prinzen ihre Anhänger um sich scharen und für ihre Sache werben. Das Königreich wird mit Sicherheit zerbrechen, wenn die Frage der Thronfolge nicht bald entschieden wird.
+
+===== Heroes =====
+
+===== Objects =====
+
+(55, 50, 0) ***Pandora's Box***
+Message:
+
+
+(26, 31, 0) ***Pandora's Box***
+Message:
+
+
+(60, 5, 0) ***Pandora's Box***
+Message:
+
+
+(56, 91, 0) ***Pandora's Box***
+Message:
+
+
+(58, 75, 0) ***Pandora's Box***
+Message:
+
+
+(35, 96, 0) ***Quest Guard***
+Message:
+Diese Goldmine ist innen sehr gefährlich.  Die Wachen beäugen Sie misstrauisch, lassen Sie aber durch, wenn Sie die Erfahrungsstufe 11 erreicht haben.
+Die Wachen hier lassen einfach niemanden unter Level 11 passieren.
+
+===== End of file =====

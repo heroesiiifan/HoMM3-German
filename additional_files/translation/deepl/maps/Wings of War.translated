@@ -1,0 +1,53 @@
+===== Map name =====
+Schwingen des Krieges
+
+===== Map description =====
+Die Greifen laufen Amok.  Es scheint, dass der Greifenkönig Pläne hat, die Welt zu übernehmen... Sie müssen ihm das Gegenteil beweisen.
+
+===== Rumors =====
+
+Name:
+König
+Text:
+Der Greifen-König war einst weise und gut.  Seine Greifen waren einst der größte Schutz des Landes.
+
+Name:
+Zauberin
+Text:
+Schlossdiener erzählten mir, dass der Greifenkönig sich vor ein paar Jahren eine Geliebte genommen hat.  Es wurde gemunkelt, dass sie eine Zauberin sei.
+
+Name:
+Gift
+Text:
+Die Greifen begannen ihre Raubzüge so plötzlich, dass man sich fragt, ob der König verhext oder vergiftet wurde.
+
+===== Timed events =====
+
+Name:
+RAIDERS!
+Message:
+Greife steigen aus dem Himmel herab und plündern Ihre Mineralienvorräte.  Sie fliegen davon, bevor Sie sie angreifen können.
+
+===== Objects =====
+
+(31, 7, 0) ***Griffin***
+Message:
+Sie sehen Greife, die um ihr Zuhause fliegen.  Sie erspähen Sie und tauchen ein.
+
+(66, 36, 0) ***Castle***
+Name:
+Greifen-König
+
+Visiting Druid:
+Name:
+Griffin King
+
+(48, 53, 0) ***Event***
+Message:
+Der schmale Streifen Land wird von einer Reihe von Greifen bewacht.  Sie warnen dich, dich vom Haus ihres Königs fernzuhalten.
+
+(53, 58, 0) ***Event***
+Message:
+Als Du um eine Kurve kommst, siehst Du weitere Greife.  Sie krächzen empört.  "Wie könnt Ihr es wagen, in unser Land einzudringen!"  Mit ausgestreckten Krallen stürzen sie sich auf dich.
+
+===== End of file =====

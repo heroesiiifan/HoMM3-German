@@ -1,0 +1,23 @@
+===== Map name =====
+Captive
+
+===== Map description =====
+Terrible news! Last night one of your ships was attacked. The captain of the vessel was captured, and the cargo was lost... Now, your main goal is to free the poor lad and find the goods.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(16, 30, 1) ***Sign***
+Message:
+Catacombs
+
+(13, 4, 1) ***Event***
+Message:
+It seems that Kreegans left strong guards here...
+
+===== End of file =====

@@ -1,0 +1,206 @@
+===== Map name =====
+Talent Shortage
+
+===== Map description =====
+Sir Mullich's act got old. The morning after the infamous knight had another violent ourburst, he woke up to an empty castle. His people packed up and left in the thick of the night, just as Mullich was given a pest control mission in the royal countryhouse...
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+01 - resource confiscation
+Message:
+Mullich was even madder than usual. The fleeing soldiers took everything they could carry. There was no one left in the castle. Valets, stableboys, blacksmiths, the century-old housekeeper, just about everyone legged it. The only one to stay was David the squire, whom Mullich ordered to tie to a pole the day before after the guy stole a ham from the master pantry. The kid was in for a rotten string of days, as Mullich would definitely be taking it all out on him.
+
+===== Heroes =====
+
+===== Objects =====
+
+(27, 9, 0) ***Quest Guard***
+Message:
+Admittance will set you back 10 crystals, no less.
+You don't have 10 crystals to spare? For shame! And you dare call yourself a knight!
+Hand over the crystals, and begone. I myself am getting tired of slacking here.
+
+(50, 10, 0) ***Seer's Hut***
+Message:
+Your shooters may convert into heavy infantry here.
+No shooters in your army? What kind of an army it even is?!
+Shall we start our sword practice?
+
+(49, 10, 0) ***Event***
+Message:
+Just as Mullich thought that was about enough Undead business for tonight...
+
+(58, 16, 0) ***Seer's Hut***
+Message:
+Would you like to know the secret to be naturally sturdy? You won't even need this ring anymore, which I'm going to claim as my payment...
+Ring of Vitality. It's a pretty gold trinket. Carry on with your search.
+Hand over the ring, and I'll give your guys a nice drill.
+
+(46, 2, 0) ***Event***
+Message:
+Tribulations of the day gave Mullich some new knowledge.
+
+(27, 23, 0) ***Event***
+Message:
+Tribulations of the day gave Mullich some new knowledge.
+
+(6, 3, 0) ***Castle***
+Name:
+City
+
+(16, 26, 0) ***Seer's Hut***
+Message:
+Gee, you finally decided to give your men something more impressive than sticks and hatchets? You've come to the right place then...
+Have you misplaced your halberdier?!
+Shall we get on with the retraining?
+
+(27, 2, 0) ***Seer's Hut***
+Message:
+If you want to up your shooting rate, you'll have to put in twice as much work...
+Have you misplaced your archer?!
+Ready to get your hands dirty, kid?
+
+(44, 22, 0) ***Quest Guard***
+Message:
+Hey, it's me again. I'll take 10 gems this time.
+You don't have 10 gems to spare? For shame! And you dare call yourself a knight!
+We'll meet again...
+
+(51, 2, 0) ***Seer's Hut***
+Message:
+We help former reprobates reform and find a righteous path in life. If you encounter one, bring him here.
+Where's the rogue?
+Did you know your rogue was an elf? We'll set him up with a bow, he'll do good with it.
+
+(9, 44, 0) ***Seer's Hut***
+Message:
+Come join our refitting program! We offer lighter swords, sturdier armor and nicer buc... helmets!
+We won't issue armament to some random scrub. Bring an experienced swordsman.
+Here's your new equipment, please sign here. This also means you're to report immediately if a crusade is launched.
+
+(37, 5, 0) ***Event***
+Message:
+Tribulations of the day gave Mullich some new knowledge.
+
+(1, 35, 0) ***Event***
+Message:
+Tribulations of the day gave Mullich some new knowledge.
+
+(12, 38, 0) ***Event***
+Message:
+Tribulations of the day gave Mullich some new knowledge.
+
+(12, 34, 0) ***Quest Guard***
+Message:
+We can take useless scrap off your hands. Well, you might call it useless, but we hope to repurpose it nicely Here's what we're after.
+A helmet, a shield, a breastplate, and a sash. Would you like me to write you a list?
+Did you get it all? Oh great, dump it all here! You must be exhausted to carry such a pile of surplus gear.
+
+(13, 33, 0) ***Event***
+Message:
+Oh look, aren't these Mullich's former squad? It didn't take long for them to hit the skids without proper leadership, and it seems they're hopeful to recoup their losses out of their former commander.
+
+(50, 17, 0) ***Event***
+Message:
+A thief who Mullich caught feeling around his empty purse was forced to pledge himself to the knight's cause; the only other option was to be executed immediately.
+
+(28, 10, 0) ***Event***
+Message:
+Tribulations of the day gave Mullich some new knowledge.
+
+(44, 44, 0) ***Seer's Hut***
+Message:
+We are a militant order. Would your crusader be interested to join?
+Is there no one willing to take the monastic path?
+Here's a nice cassock for our new brother!
+
+(33, 5, 0) ***Event***
+Message:
+A charge of lightning made Mullich's hair stand up. He feels some new knowledge boiling under his skull.
+
+(9, 53, 0) ***Event***
+Message:
+Oh, cute! These dragons are having a date here. Shame they really don't like attention.
+
+(2, 49, 0) ***Seer's Hut***
+Message:
+I believe I've found a way to bless men who don't have innate magical abilities. I want to carry out and experiment, but I'm afraid I'm lacking a suitable subject. Do you happen to have an elf to spare? I won't break him, I promise!
+An elf! I need an elf!
+I hope your elf doesn't mind partaking in my experiment. Thing is... it has a rather unusual side-effect.
+
+(10, 52, 0) ***Seer's Hut***
+Message:
+Fashionable blue cassocks and powered-up bolts! For distinguished clergy only.
+We only serve the clergy!
+Step right up, here's your new vestment. Just try to abstain from hurling bolts indoors, will you?
+
+(43, 8, 0) ***Seer's Hut***
+Message:
+A Centaur's Axe? What do you need this hunk of iron for? Hand it over, and I'll give you something nice in return.
+It's an axe. Big and rather unwieldy. Get it to me.
+Here it is! Shall we trade?
+
+(32, 9, 0) ***Seer's Hut***
+Message:
+I heard from a wise man that a certain drawstring, severed from its bow, helps you shoot way better!
+The choice is yours...
+Shall we tear it off?
+
+(33, 60, 0) ***Seer's Hut***
+Message:
+Are you wondering how our tree stands unscathed in a sea of flames? Well, we're masters of the element of water, and fire can't touch us. Would you like to learn this trick? Then bring us a witch.
+Only a witch can master our complicated magicks.
+Here's our girl! Are you ready to get promoted?
+
+(38, 54, 0) ***Event***
+Message:
+This shrine is guarded after all! To arms!!!
+
+(40, 45, 0) ***Quest Guard***
+Message:
+I'm a collector interested in rarities crafted in the "graveyard Empire" style. I heard there are several things like that to be found in around these parts. Would you mind bringing them to me?
+Skulls, bones, decay and despair. That's what I'm looking for.
+Oh, bless you! My collection is complete now! Would you like to pass?
+
+(36, 56, 0) ***Event***
+Message:
+Tribulations of the day gave Mullich some new knowledge.
+
+(26, 34, 0) ***Event***
+Message:
+
+
+(33, 61, 0) ***Event***
+Message:
+In hindsight, it was silly to hope no one would jump out of a sea of flames like this one. Well, lo and behold.
+
+(19, 39, 1) ***Event***
+Message:
+Tribulations of the day gave Mullich some new knowledge.
+
+(14, 33, 1) ***Seer's Hut***
+Message:
+I was banished into the underworld many years ago, after defeating the prince in an archery contest. I was really good, and I'd like to pass what remained of my talent onto a younger elf.
+Hurry up, bring me an elf! I'm not going to last forever!
+At last! Here, take my bow and my armor, and get that prince bastard an arrow in the belly for me if you ever happen to meet him!
+
+(36, 28, 1) ***Quest Guard***
+Message:
+You can learn to shoot with great accuracy here.
+You can learn to shoot with great accuracy here. Choose wisely!
+Would you like to learn to shoot well?
+
+(35, 32, 1) ***Quest Guard***
+Message:
+You can learn to march double time here.
+You can learn to march double time here. Choose wisely!
+Would you like to learn to march fast?
+
+(34, 30, 1) ***Sign***
+Message:
+You may learn to shoot well or to march fast here, but not both.
+
+===== End of file =====

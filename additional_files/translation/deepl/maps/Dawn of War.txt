@@ -1,0 +1,26 @@
+===== Map name =====
+Dawn of War
+
+===== Map description =====
+It has been rumored that the barbarians have been preparing for war for quite a while.  Today looks to be like the day they have been waiting for.  They have launched an attack upon the cities and now war is breaking out everywhere. It is up to you and only you to take control.  
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+The Barbarians have been preparing for war for some time now.  A few days ago they started their campaign to rid the world of everyone else.  Seeing this the other lords of this realm have risen up in arms.  It is now up to you to get everyone under control. 
+
+===== Objects =====
+
+(0, 1, 0) ***Event***
+Message:
+As you are walking through the forest you come across a half buried skeleton.  Thinking to yourself that this is an improper burial you decide to dig up the skeleton  and give it a proper burial.   It took about 3 hours to dig the hole and place the skeleton inside.  As you throw dirt inside the hole you notice a glint as the sun hits something metal inside the pile of dirt.  Reaching for it, you find a magnificent sword.  
+
+(10, 0, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

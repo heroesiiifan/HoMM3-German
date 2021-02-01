@@ -1,0 +1,23 @@
+===== Map name =====
+Key to Victory
+
+===== Map description =====
+A war is about to occur and the two forces are separated only by a heavily guarded mountain pass.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro part 1
+Message:
+For 400 years, the Border Guards between your kingdom and the lands to the north have prevented your enemies from invading.  Now, however, your astrologers believe that the northern lands have weakened enough for you to invade, but you will still need a strong army to do so.
+
+Name:
+Intro part 2
+Message:
+Build your forces, and when you are ready, command your Border Guards to stand down.  The time has come for you to eliminate, rather than block, the threat of invasion.
+
+===== Objects =====
+
+===== End of file =====

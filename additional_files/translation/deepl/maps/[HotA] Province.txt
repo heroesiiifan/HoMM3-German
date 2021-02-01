@@ -1,0 +1,24 @@
+===== Map name =====
+Province
+
+===== Map description =====
+Scarce on resources, a small province was knee-deep at war between four lords. The land is barren and has no value to it, however not a single side will step back. It is a matter of principle now probably.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Introduction
+Message:
+These scarce lands are ravaged by war, and will not allow you to keep a large army. It is better to wait for your opponents to weaken each other, and then take a chance at delivering a final blow.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 12, 0) ***Sign***
+Message:
+
+
+===== End of file =====

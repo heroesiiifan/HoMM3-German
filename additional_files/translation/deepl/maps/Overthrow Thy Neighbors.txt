@@ -1,0 +1,214 @@
+===== Map name =====
+Overthrow Thy Neighbors
+
+===== Map description =====
+The good, the bad, and the over crowded.
+
+===== Rumors =====
+
+Name:
+Artifacts up north
+Text:
+There are many useful artifacts up north in the forest.
+
+Name:
+Castle in lower desert.
+Text:
+Scouts are saying that there is a town in the lower desert that has been deserted.  Some say it's guarded by dragons. 
+
+===== Timed events =====
+
+===== Objects =====
+
+(8, 35, 0) ***Sign***
+Message:
+Long haired freaky people need not apply.
+
+(71, 71, 0) ***Random Resource***
+Message:
+You have a sneaking suspicion that this resource pile belongs to someone. Will you take it anyway?
+
+(65, 61, 0) ***Random Resource***
+Message:
+You have a sneaking suspicion that this resource pile belongs to someone. Will you take it anyway?
+
+(69, 1, 0) ***Ocean Bottle***
+Message:
+In days of old when knights were bold and toilets weren't invented, people laid their loads beside the road and walked away contented.
+
+(4, 21, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+A hot day
+Message:
+Another hot day in the desert. Whose idea was it to build a castle in the middle of this wasteland? The ocean is at least a two day journey. Most resources are a one day hike. Informants tell you that there is a battle to take over all of the mines of the land between the Clerics and the Demoniacs.
+
+Name:
+Prepare for battle
+Message:
+You must take action at once. The unthinkable would happen if your kingdom were to lose control of the mines of the land. You prepare for your journey and plan for battles that might lay ahead. 
+
+Name:
+Over populated
+Message:
+A census of your town has been completed. The population has grown quite a bit in the past few years. So much in fact that the people are outgrowing the town. You consult with your advisors and come to the conclusion that you need another town. Now there are few ways you can do this.  
+
+Name:
+The decision is yours
+Message:
+One: Become allies with those zealots at the Cleric's castle due west. Two: Become allies with the demon spawns at the Inferno which you like to refer to as Hell. Three: Overthrow them and take their castles. Your advisors just stand there and blink their eyes at you.
+
+Name:
+Overthrow thy neighbors
+Message:
+"Yes," you say to yourself, "An overthrow sounds good right about now."
+
+Name:
+Deserted Town
+Message:
+Scouts are saying that there is a town in the lower desert that has been deserted. However it is guarded by dragons. Defeating them will solve you population problems for ever. 
+
+(54, 25, 0) ***Castle***
+
+Timed events:
+
+Name:
+Things are well.
+Message:
+Things are going well at your castle. Your influence has reached the entire land... almost. You are a leader in teaching the people of the land to be at peace with themselves, be one with their surroundings, be that which cannot fade, that which cannot disappear, and be of perfect repose.
+
+Name:
+Everything is wonderful.
+Message:
+In your kingdom everything is wonderful. Everything is beautiful. However, the evil leader of Inferno refuses to even acknowledge the very fiber of your existence, let alone your ideals. This is very disturbing to your utopian ways.
+
+Name:
+Send a message.
+Message:
+So you decide to send a message to the Inferno leader asking him to consider the ways of the hierarchy or further action will take place. You send the messenger on his way hoping to come to some sort of compromise. 
+
+Name:
+Claim the mines.
+Message:
+Your advisors inform you that the mines of the land are being claimed by the enemy. You then realize that if all the mines are taken you kingdom will surely fall. Immediately you set out to claim as many mines as you can.
+
+Name:
+Reply to message.
+Message:
+A reply from the enemy has come to the kingdom. That horrible evil beast sent back the messenger's head on a pike with a piece of blood stained leather tied to a lock of hair. Scratched onto the piece of leather are the letters W-A-R.
+
+Name:
+Grief and Sorrow
+Message:
+Even worse, he sent an artist with the messenger to capture the grief and sorrow of the messenger's family in a horrific painting for his leader. The entire town holds a memorial, lasting three days.
+
+Name:
+Pray for the enemy
+Message:
+The town decides to join hands and pray for ways to help those at the Inferno.  They come to the conclusion that Inferno is almost beyond hope.  You order your advisors to send a Cleric and a dozen rose stems to ease any tensions that might exist. 
+
+Name:
+The cleric went crazy.
+Message:
+Your advisors inform you that the Cleric ran away from Inferno clawing at his eyes realizing that he has seen the purest of evil. You say to yourself, "I'm surprised he lasted that long."
+
+(40, 11, 0) ***Sign***
+Message:
+The grass is always greener on the other side.
+
+(62, 50, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Another dull day.
+Message:
+Another dull gray day at the Inferno. And you, the King, just received another threatening message from those goodie goodie faerie loving towns due west.  You've had it up to HERE with all these empty threats to overthrow your town. You look at the rather thick stack of messages delivered to you
+
+Name:
+Today's message gets your attention.
+Message:
+over the weeks and you promptly decide to burn them. Your servant, stopping you from igniting the letters right at your desk, convinces you to burn them in the fire pit. As you are tossing the letters into the fire today's letter catches your attention. So you read it again. 
+
+Name:
+They're serious
+Message:
+As you read the message you realize how serious they are. Reading on it says that they're on their way to burn down your town. The letter does not say when they are arriving but it does say, "When you least expect it." Angrily you throw the message into the flames. 
+
+Name:
+Take control of the mines.
+Message:
+You tell your servants to reply by giving them something they won't forget.  You then gather your thoughts and prepare for war. One of your advisors suggests to you that if you take control of all the mines the enemy will lose all of their resources in a very short time. A splendid idea.  
+
+Name:
+One less messenger
+Message:
+Your reply, the messenger's head on a pike, was not well received by your enemy.  Lucky for you the gift lasted the journey. Unlucky for them to now have one less messenger. 
+
+Name:
+Kill thy neighbors!
+Message:
+However, you're in this for blood, not resources. "Kill thy neighbors!" you shout. "We'll kill them all, take their castles, and then we'll take all the mines!" You pause and add, "Whichever comes first."
+
+Name:
+Picture
+Message:
+You did send an artist along to capture the grief and sorrow of the messenger's family. He returned with a beautiful painting that now hangs in your study.
+
+Name:
+The enemy prays for you.
+Message:
+Disgusted by your revolting and heinous actions the enemy troops gather for prayer and come to the conclusion that you are beyond help. They send you a bouquet of rose stems and a Cleric to help you through the tough times you've been having.
+
+Name:
+The cleric runs away.
+Message:
+The Cleric runs away clawing at his eyes realizing that he has seen the purest of evil. You say to yourself, "It's about time that fat bulbous rambling mass got out of my hair... as if I had any."
+
+(63, 51, 0) ***Sign***
+Message:
+Have a happy day!
+
+(12, 40, 0) ***Sign***
+Message:
+Don't read this sign
+
+(28, 23, 0) ***Ocean Bottle***
+Message:
+My Bonnie lies over the ocean...
+
+(21, 54, 0) ***Event***
+Message:
+You didn't believe your scouts, but they were right... four dragons guarding a deserted castle.  It's times like this you wish you had a Slayer spell.  Wait a second... what's that scroll lying in the road just up ahead?
+
+(22, 53, 0) ***Spell Scroll***
+Message:
+What good fortune! It's a Slayer spell! Whoever dropped it here probably won't mind if you borrow it... will you pick it up?
+
+(12, 54, 1) ***Event***
+Message:
+You find yourself in a place that looks like it has never seen life. Quickly, you look around. It's very quiet. There is a very stale musty odor in the air. You get a sinking feeling in your stomach as you notice all of the skeletons lying on the ground.
+
+(13, 56, 1) ***Sign***
+Message:
+Don't plan on leaving... alive.
+
+(12, 57, 1) ***Goblin***
+Message:
+"I've been down here for weeks it seems. I thought I would die here. There are three roads here. The clue to finding the Grail is at the end of one of these roads. Choose correctly and the clue is yours. Choose incorrectly and... words can't say the pain you'll go through."
+
+(24, 46, 1) ***Sign***
+Message:
+To proceed any further would indeed result in certain death.
+
+(15, 44, 1) ***Sign***
+Message:
+May the Almighty have mercy on the souls that go beyond this sign.
+
+(27, 53, 1) ***Sign***
+Message:
+Turn back now!
+
+===== End of file =====

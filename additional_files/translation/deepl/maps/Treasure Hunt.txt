@@ -1,0 +1,23 @@
+===== Map name =====
+Treasure Hunt
+
+===== Map description =====
+Proving you worthy to be king will be easy. Claim all the mines of this land in your father's name and you become the great leader of your father's kingdom so he can retire. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day One
+Message:
+You have finally reached your destination. This island is where you must prove you are worthy to become a leader and take your father's place in his kingdom. Your assigned quest seems rather simple. Go to the monster-infested island of Glak and claim all of the mines in your father's name. 
+
+Name:
+Day 1b
+Message:
+You thought that there would be some turmoil on the way but it was all smooth sailing. Maybe they've got something up their sleeve. You laugh as you poke your fathers flag in the dirt in front of you as you gaze at the sleepy quiet isle. This should take a week at most.
+
+===== Objects =====
+
+===== End of file =====

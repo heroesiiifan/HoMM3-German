@@ -1,0 +1,23 @@
+===== Map name =====
+Good to Go
+
+===== Map description =====
+In an effort to reduce the frequency of wars between the various nations, the Emperor has set aside a small region to be used as a battleground to settle differences between quarreling Lords. Your castle starts fully constructed so that you may concentrate on defeating your opponent. Good luck!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Starting Resources
+Message:
+The duel has begun, and will end only when one of you remains. As part of the ritual of combat in this region, you are provided with enough supplies with which to wage war.
+
+Name:
+Warning
+Message:
+You must also be careful, as the natives will try to stop both you and your opponent from winning!
+
+===== Objects =====
+
+===== End of file =====

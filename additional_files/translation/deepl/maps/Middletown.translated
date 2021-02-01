@@ -1,0 +1,79 @@
+===== Map name =====
+Middletown
+
+===== Map description =====
+Das Land Carpatha war schon immer in Aufruhr, aber was es wirklich braucht, ist eine Stadt in zentraler Lage, um dem ganzen Chaos ein Ende zu setzen.  Nehmen Sie die mittlere Stadt ein oder besiegen Sie alle anderen Spieler, um das Spiel zu gewinnen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1 Ereignis.
+Message:
+Carpatha braucht eine starke Hand, um es zu beherrschen.  Der Sieg geht an den ersten Anführer, der die Stadt Middletown erobert.
+
+===== Objects =====
+
+(78, 37, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Komp-Bonus
+Message:
+Komp-Bonus
+
+(55, 53, 0) ***Sign***
+Message:
+Willkommen in Middletown, Carpatha!  (Vorsicht, die Stadt ist noch im Aufbau).
+
+(61, 98, 0) ***Event***
+Message:
+Wachen an der Tür verlangen einen Eintritt.
+
+(26, 80, 0) ***Event***
+Message:
+Eine Masse von Piraten springt hinter den Bäumen hervor, der nächste ruft: "Sie versuchen, unsere Leuchtturm-Kameraden zu nehmen...arrrrr".  Während sie angreifen, bemerken Sie einen vergrabenen Piratenschatz in der Nähe.
+
+(80, 17, 0) ***Pandora's Box***
+Message:
+Eine Horde von Gargoyles scheint sich an den Überresten einer Piratenbande zu laben.
+
+(86, 16, 0) ***Event***
+Message:
+Kobolde sprudeln aus dem Boden und greifen an!
+
+(66, 27, 0) ***Sign***
+Message:
+Carpathan Schools of War... Studenten bringen ihre Ausweise für einen Rabatt mit.
+
+(25, 50, 0) ***Sign***
+Message:
+Karpathanische Universitäten, Stipendien werden von Fall zu Fall vergeben.
+
+(3, 80, 0) ***Sign***
+Message:
+Grabmal von Carpatha dem Ersten.  Bitte nicht stören!
+
+(54, 51, 0) ***Castle***
+Name:
+Middletown
+
+(58, 95, 0) ***Sign***
+Message:
+Willkommen im Carpatha Stadion, der Heimat der Carpathan Caterpillars.
+
+(76, 53, 1) ***Sign***
+Message:
+Karpathaner Minen - Ost.  Schutzhelm erforderlich.
+
+(21, 54, 1) ***Sign***
+Message:
+Karpathanische Minen - West.  Schutzhelm erforderlich.
+
+(47, 57, 1) ***Random Major Artifact***
+Message:
+Eine Gruppe von Flügeldrachen scheint in der Nähe zu nisten. Willst du es riskieren, sie zu stören, indem du das Artefakt nimmst?
+
+===== End of file =====

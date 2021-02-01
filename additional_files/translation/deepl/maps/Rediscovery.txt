@@ -1,0 +1,18 @@
+===== Map name =====
+Rediscovery
+
+===== Map description =====
+There has been no contact with anyone ever since the last war.  It was decided by the lords that the people could use some solitude.  After about a month of seclusion you and your people are going nuts.  The time for isolation is over. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+For several months you and your people have lived isolated inside your castle walls.  No other person was let in or out of the town.  The Lord of this town declared this to be because the people were getting into combat with the other lords too often.   Now the seclusion is driving you and everyone else mad.  Its time to venture out into the real world again, and if war starts...so be it. 
+
+===== Objects =====
+
+===== End of file =====

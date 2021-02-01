@@ -1,0 +1,22 @@
+===== Map name =====
+Dschihad
+
+===== Map description =====
+Alle deine sechs Nachbarn haben den Dschihad gegen dich und gegeneinander ausgerufen, aber du hast geduldig gewartet, bis die Zeichen, Omen und Priester zugestimmt haben, dass es die richtige Zeit ist.  Jetzt hast du den siebten und letzten Dschihad gegen deine Feinde ausgerufen.  Du wirst sie hinwegfegen wie ein gewaltiger Wüstensandsturm.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Deine Feinde haben lange genug existiert.  Fege sie aus dem Wüstensand.
+
+===== Objects =====
+
+(0, 35, 1) ***Sign***
+Message:
+Fahren Sie fort mit Cover of Darkness.
+
+===== End of file =====

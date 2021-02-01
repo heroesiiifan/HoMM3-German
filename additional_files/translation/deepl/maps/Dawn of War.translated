@@ -1,0 +1,26 @@
+===== Map name =====
+Morgengrauen des Krieges
+
+===== Map description =====
+Es wird gemunkelt, dass sich die Barbaren schon seit geraumer Zeit auf einen Krieg vorbereiten.  Heute scheint der Tag zu sein, auf den sie gewartet haben.  Sie haben einen Angriff auf die Städte gestartet und nun bricht überall der Krieg aus. Es liegt an Ihnen und nur an Ihnen, die Kontrolle zu übernehmen.  
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Die Barbaren bereiten sich schon seit einiger Zeit auf einen Krieg vor.  Vor ein paar Tagen haben sie ihren Feldzug begonnen, um die Welt von allen anderen zu befreien.  Als sie dies sahen, haben sich die anderen Fürsten dieses Reiches zu den Waffen erhoben.  Es liegt nun an Ihnen, alle unter Kontrolle zu bringen. 
+
+===== Objects =====
+
+(0, 1, 0) ***Event***
+Message:
+Als Sie durch den Wald gehen, stoßen Sie auf ein halb vergrabenes Skelett.  Du denkst dir, dass dies eine unangemessene Bestattung ist und beschließt, das Skelett auszugraben und es ordentlich zu bestatten.   Es hat etwa 3 Stunden gedauert, das Loch zu graben und das Skelett hineinzulegen.  Als Sie Erde in das Loch werfen, bemerken Sie ein Glitzern, als die Sonne etwas Metallisches in dem Haufen Erde trifft.  Als Du danach greifst, findest Du ein prächtiges Schwert.  
+
+(10, 0, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

@@ -1,0 +1,53 @@
+===== Map name =====
+Wings of War
+
+===== Map description =====
+Griffins have been running amok.  It seems that the Griffin King has plans to take over the world... you need to show him otherwise.
+
+===== Rumors =====
+
+Name:
+King
+Text:
+The Griffin King was once wise and good.  His griffins were once the greatest protection of this land.
+
+Name:
+Sorceress
+Text:
+Castle servants told me that the Griffin King took a mistress a few years ago.  It was rumored that she was a sorceress.
+
+Name:
+Poison
+Text:
+The griffins started their raids so suddenly that one wonders if the king was bewitched or poisoned.
+
+===== Timed events =====
+
+Name:
+RAIDERS!
+Message:
+Griffins descend out of the sky and raid your mineral stores.  They fly off before you are able to attack them.
+
+===== Objects =====
+
+(31, 7, 0) ***Griffin***
+Message:
+You see griffins flying around their homes.  They spy you and dive in.
+
+(66, 36, 0) ***Castle***
+Name:
+Griffin King
+
+Visiting Druid:
+Name:
+Griffin King
+
+(48, 53, 0) ***Event***
+Message:
+The narrow strip of land is guarded by a number of griffins.  They warn you to stay away from their King's home.
+
+(53, 58, 0) ***Event***
+Message:
+As you round a bend, you see more griffins.  They screech in outrage.  "How dare you intrude on our lands!"  Talons outstretched, they dive towards you.
+
+===== End of file =====

@@ -1,0 +1,52 @@
+===== Map name =====
+Island of Fire
+
+===== Map description =====
+The Devil Memphos and his hordes have taken up residence on the Isle to the southeast, destroy him before his influence corrupts the entire region.
+
+===== Rumors =====
+
+Name:
+Angels help?
+Text:
+Some angels live in a canyon nearby, maybe they will help in the fight against the devils? 
+
+===== Timed events =====
+
+Name:
+First warning.
+Message:
+Elven scouts tell you that it will take about four months for the devils to amass enough troops to cross over.  You need to take out Memphos to stop this from happening.
+
+Name:
+Time limit warning,
+Message:
+The shadow of the devils creeps closer.  You do not have much time left to defeat Memphos and save this land.
+
+===== Objects =====
+
+(39, 64, 0) ***Event***
+Message:
+Uh oh... devil tracks in the grass, looks like some of the beasts have already made it over.
+
+(0, 27, 0) ***Event***
+Message:
+An old man hobbles up to you saying that he's hungry.  After you give him some food he tells you that there are angels in this canyon that you may wish to seek for assistance.
+
+(63, 42, 0) ***Arch Devil***
+Message:
+Memphos and his horde spot your army and gleefully attack.  This is it, defeat Memphos and the land is saved!
+
+(66, 22, 0) ***Sign***
+Message:
+"A tribute to the dead"
+
+(5, 25, 0) ***Angel***
+Message:
+The angels have decided to aid you in your fight against the devils.
+
+(36, 27, 0) ***Event***
+Message:
+Devil tracks abound in this area.  It looks like they are scouting the coast.
+
+===== End of file =====

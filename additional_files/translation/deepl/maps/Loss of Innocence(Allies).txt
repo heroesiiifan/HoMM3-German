@@ -1,0 +1,26 @@
+===== Map name =====
+Loss of Innocence (Allies)
+
+===== Map description =====
+For years the separate countries have lived in peace.  But now two strong lords have joined forces and are planning to kill everyone that stands in their way. The other lords have also joined forces.  You and your ally must stop the other lords from ever thinking about conquering this land again.  
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+It has begun.  The other lords have decided to start their conquest to rule the world.  You are the only one that stands in their way.  You must stop the other cruel lords.  Stop them from slaughtering the innocent. 
+
+===== Objects =====
+
+(9, 104, 0) ***Event***
+Message:
+You stumble across an area that looks like it was part of the library at one point in time.  Looking around you come across a book that was left behind. 
+
+(62, 102, 0) ***Event***
+Message:
+You come across a clearing and notice something glitter on the ground.  Looking down you find a ring.  Figuring the dragons left it behind you pick it up. 
+
+===== End of file =====

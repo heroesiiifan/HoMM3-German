@@ -1,0 +1,69 @@
+===== Map name =====
+And One For All
+
+===== Map description =====
+Four kings, four lands, one unified rebellion.  Can you retake what was yours?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro part 1
+Message:
+In the place you call home, the natural terrain allowed the kingdom to be easily divided into four roughly equal lands.  For generations your family has ruled peacefully, coexisting with the other three ruling families, although you have always wondered if it would be possible to unite the kingdom under a single throne.
+
+Name:
+Intro part 2
+Message:
+Recent events may give you the chance to find out.  Your previously loyal subjects have joined with their brothers from the other lands, issuing a kingdom-wide declaration of their independence from the ruling houses!  You realize you must move quickly to retake the lands that are yours, but why stop there?  With the other families fighting for control, you could take their lands as well!
+
+Name:
+Day 8 Red Warning
+Message:
+The situation is worse then you originally thought.  Your spies have learned the house to the west, across Azure Pass, has its own plans to conquer the entire kingdom.  You must move quickly, or you may find yourself serving THEM!
+
+Name:
+Day 8 Blue Warning
+Message:
+The situation is worse then you originally thought.  Your spies have learned the house to the east, across Azure Pass, has its own plans to conquer the entire kingdom.  You must move quickly, or you may find yourself serving THEM!
+
+Name:
+Day 8 Green Warning
+Message:
+The situation is worse then you originally thought.  Your spies have learned the house to the south, across Azure Pass, has its own plans to conquer the entire kingdom.  You must move quickly, or you may find yourself serving THEM!
+
+Name:
+Day 8 Orange Warning
+Message:
+The situation is worse then you originally thought.  Your spies have learned the house to the north, across Azure Pass, has its own plans to conquer the entire kingdom.  You must move quickly, or you may find yourself serving THEM!
+
+===== Heroes =====
+
+===== Objects =====
+
+(33, 34, 0) ***Sign***
+Message:
+Azure Pass: Beyond here, there are dragons!
+
+(34, 37, 0) ***Sign***
+Message:
+Azure Pass: Beyond here, there are dragons!
+
+(36, 36, 0) ***Azure Dragon***
+Message:
+Your hopes of sneaking through Azure Pass without a fight are dashed as you see not one but two Dragons, a mated pair, diving out of the clouds toward you.
+
+(37, 33, 0) ***Sign***
+Message:
+Azure Pass: Beyond here, there are dragons!
+
+(38, 36, 0) ***Sign***
+Message:
+Azure Pass: Beyond here, there are dragons!
+
+(65, 52, 0) ***Event***
+Message:
+You find an ocean bottle washed up on shore.  Opening it, you read the message inside.  "I can't believe what has happened.  My three-hour sightseeing tour was blown off course, and we were shipwrecked on some uncharted island in the middle of nowhere.  The local barbarians seemed nice enough at first, but the deal we made to assist each other kept getting changed every time I complete my end of the bargain.  Not only that, but for some unknown reason they seem to think I'm some sort of fragrance alchemist or such nonsense.  For the love of the Gods, somebody save me!  -Sir Christian"
+
+===== End of file =====

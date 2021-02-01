@@ -1,0 +1,69 @@
+===== Map name =====
+Und einer für alle
+
+===== Map description =====
+Vier Könige, vier Länder, eine vereinte Rebellion.  Könnt Ihr zurückerobern, was Euch gehörte?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro Teil 1
+Message:
+An dem Ort, den du dein Zuhause nennst, konnte das Königreich aufgrund der natürlichen Gegebenheiten leicht in vier etwa gleich große Länder aufgeteilt werden.  Seit Generationen regiert Ihre Familie friedlich und koexistiert mit den anderen drei Herrscherfamilien, obwohl Sie sich immer gefragt haben, ob es möglich wäre, das Königreich unter einem einzigen Thron zu vereinen.
+
+Name:
+Intro Teil 2
+Message:
+Die jüngsten Ereignisse geben Ihnen vielleicht die Chance, das herauszufinden.  Ihre ehemals loyalen Untertanen haben sich mit ihren Brüdern aus den anderen Ländern zusammengeschlossen und eine königreichsweite Erklärung ihrer Unabhängigkeit von den herrschenden Häusern veröffentlicht!  Euch ist klar, dass Ihr schnell handeln müsst, um die Ländereien, die Euch gehören, zurückzuerobern, aber warum dort stehen bleiben?  Da die anderen Familien um die Kontrolle kämpfen, könntet Ihr auch ihre Ländereien einnehmen!
+
+Name:
+Tag 8 Rote Warnung
+Message:
+Die Situation ist schlimmer, als Sie ursprünglich dachten.  Deine Spione haben erfahren, dass das Haus im Westen, jenseits des Azure Passes, eigene Pläne hat, das gesamte Königreich zu erobern.  Sie müssen schnell handeln, oder Sie könnten sich in deren Diensten wiederfinden!
+
+Name:
+Tag 8 Blaue Warnung
+Message:
+Die Situation ist schlimmer, als Sie ursprünglich dachten.  Deine Spione haben herausgefunden, dass das Haus im Osten, jenseits des Azure-Passes, seine eigenen Pläne hat, das gesamte Königreich zu erobern.  Sie müssen schnell handeln, oder Sie könnten sich in deren Diensten wiederfinden!
+
+Name:
+Tag 8 Grüne Warnung
+Message:
+Die Situation ist schlimmer, als Sie ursprünglich dachten.  Deine Spione haben erfahren, dass das Haus im Süden, jenseits des Azure Passes, eigene Pläne hat, das gesamte Königreich zu erobern.  Sie müssen schnell handeln, oder Sie könnten sich als Diener von ihnen wiederfinden!
+
+Name:
+Tag 8 Orangefarbene Warnung
+Message:
+Die Situation ist schlimmer, als Sie ursprünglich dachten.  Deine Spione haben herausgefunden, dass das Haus im Norden, jenseits des Azure-Passes, seine eigenen Pläne hat, das gesamte Königreich zu erobern.  Sie müssen schnell handeln, oder Sie könnten sich in deren Diensten wiederfinden!
+
+===== Heroes =====
+
+===== Objects =====
+
+(33, 34, 0) ***Sign***
+Message:
+Azure Pass: Jenseits von hier gibt es Drachen!
+
+(34, 37, 0) ***Sign***
+Message:
+Azure-Pass: Jenseits von hier gibt es Drachen!
+
+(36, 36, 0) ***Azure Dragon***
+Message:
+Ihre Hoffnungen, sich kampflos durch den Azure Pass zu schleichen, werden enttäuscht, als Sie nicht nur einen, sondern gleich zwei Drachen, ein gepaartes Paar, aus den Wolken auf Sie zukommen sehen.
+
+(37, 33, 0) ***Sign***
+Message:
+Azure-Pass: Jenseits von hier gibt es Drachen!
+
+(38, 36, 0) ***Sign***
+Message:
+Azurblauer Pass: Jenseits von hier gibt es Drachen!
+
+(65, 52, 0) ***Event***
+Message:
+Du findest eine Ozeanflasche, die an den Strand gespült wurde.  Du öffnest sie und liest die Nachricht darin.  "Ich kann nicht glauben, was passiert ist.  Meine dreistündige Sightseeing-Tour wurde vom Kurs abgebracht, und wir erlitten Schiffbruch auf einer unbekannten Insel mitten im Nirgendwo.  Die einheimischen Barbaren schienen anfangs nett genug zu sein, aber die Abmachung, die wir getroffen hatten, um uns gegenseitig zu helfen, wurde jedes Mal geändert, wenn ich meinen Teil der Abmachung erfüllt hatte.  Nicht nur das, aus irgendeinem unbekannten Grund scheinen sie zu denken, ich sei eine Art Duft-Alchemist oder so ein Unsinn.  Um der Liebe der Götter willen, rette mich jemand!  -Sir Christian"
+
+===== End of file =====

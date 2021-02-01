@@ -1,0 +1,53 @@
+===== Map name =====
+Knee Deep in the Dead
+
+===== Map description =====
+You awaken to a world greatly changed.  Zombies are everywhere.  You appear to be Knee Deep in the Dead.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+While on maneuvers, your army camped and fell into a deep sleep.  Upon awakening you find yourselves surrounded by a massive army of zombies, many of whom appear to be your former perimeter sentries.  Disoriented, you must escape and find your home.
+
+Name:
+Day 2
+Message:
+It appears that you have become the victim of a legend that claims that on the full moon of the first year of the seventh Cycle of the Wyrm, the Necrolord will arrive and rise the dead from their graves to take back the land of the living.  If you could only find the Necrolord and banish him...
+
+Name:
+Evil Laughter
+Message:
+You hear a sickening evil laughter on the wind.  Did you really hear it or was it just your overactive imagination?
+
+Name:
+Shipment of Goods
+Message:
+A shipment from the outer reaches of your kingdom arrives.  This shipment is one of vital import.  Many of the supplies you will need for the coming battle are included.
+
+===== Objects =====
+
+(20, 20, 0) ***Knight***
+Name:
+Christian
+
+(2, 5, 0) ***Necropolis***
+Name:
+Scorch
+
+(2, 6, 0) ***Necromancer***
+Name:
+Necrolord
+
+(34, 13, 0) ***Event***
+Message:
+As you approach the frozen regions of the Necrolord you get a sense of foreboding.
+
+(24, 19, 0) ***Sign***
+Message:
+West to Castle.  East to the marshalling fields.
+
+===== End of file =====

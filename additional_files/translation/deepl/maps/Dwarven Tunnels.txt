@@ -1,0 +1,13 @@
+===== Map name =====
+Dwarven Tunnels
+
+===== Map description =====
+Ancient tunnels dug by the dwarves have long since been infested by creatures of all sorts.  Steep mountains and thick forests block the path to your enemies, but these old tunnels may prove very useful in conquering the world.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+===== End of file =====

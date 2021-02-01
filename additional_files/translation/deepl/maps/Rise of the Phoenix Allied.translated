@@ -1,0 +1,53 @@
+===== Map name =====
+Aufstieg des Phönix (Verbündete)
+
+===== Map description =====
+Der Erste Phönix ist in dieser Region der Welt wieder auferstanden und unterbricht einen langjährigen Krieg zwischen zwei Herrscherpaaren.  Es wäre eine große Ehre, den Ersten Phönix zu besiegen, und wenn dies einer der verbündeten Seiten gelänge, würde die andere Seite sicherlich den Kampf aufgeben und sich vor den Siegern verbeugen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Jagd auf den Phönix.
+Message:
+Die Jagd auf den ersten Phönix hat begonnen!  Seien Sie der Erste, der ihn besiegt und das Recht beansprucht, die Region zu regieren!  (Oder du kannst es auf die langweilige Art machen und die andere verbündete Seite besiegen.  Sie haben die Wahl.)
+
+Name:
+Die große Phönixjagd
+Message:
+Überall feiern die Menschen die so genannte "Große Phönixjagd" und unterstützen Sie mit Gold bei Ihren Bemühungen, den Phönix zur Strecke zu bringen.
+
+Name:
+Der Verkauf von Phönix-Mon-Puppen geht in die Höhe!
+Message:
+Bei all dem Phoenix-Hype ist der Verkauf der neuen Phoenix-Mon-Puppe und anderer verwandter Spielzeuge durch die Decke gegangen!
+
+Name:
+Wütende Feuer-Elementare.
+Message:
+Feuerelementare, die eifersüchtig auf die ganze Aufmerksamkeit sind, die ihren Phoenix-Cousins zuteil wird, brechen in Ihre Geschäfte ein und zerstören einige Ressourcen.
+
+Name:
+Bestechung der Wasserelementare. 
+Message:
+Verärgert über den ganzen Ärger, den die Feuerelementare verursachen, heuerst du einige Wasserelementare an, um ihnen eine Lektion zu erteilen.  Hoffentlich werden sie dadurch beschäftigt und Sie können sich um den Phönix kümmern.
+
+Name:
+Rauch und Dampf.
+Message:
+Rauch und Dampf steigen über dem Schlachtfeld auf.  Es sieht so aus, als würden die Elementare richtig loslegen!  Hoffentlich ist dies das letzte, was man von ihnen hört.
+
+===== Heroes =====
+
+===== Objects =====
+
+(48, 58, 0) ***Event***
+Message:
+Feuerelementare springen aus der umgebenden Lava und greifen an!
+
+(50, 58, 0) ***Phoenix***
+Message:
+Es sieht so aus, als hätte der Erste Phönix einige Nachkommen gezeugt, und sie greifen alle sofort an.
+
+===== End of file =====

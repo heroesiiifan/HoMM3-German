@@ -1,0 +1,53 @@
+===== Map name =====
+Rise of the Phoenix (Allies)
+
+===== Map description =====
+The First Phoenix has risen again in this region of the world, interrupting a long-standing war between two sets of lords.  Defeating the First Phoenix would be a great honor, and if one allied side were to do so the other side would surely give up the fight and bow down to the victors.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Hunt for the Phoenix.
+Message:
+The hunt for the First Phoenix is on!  Be the first to defeat it and claim the right to rule the region!  (Or you could do it the boring way and defeat the other allied side.  The choice is yours.)
+
+Name:
+The Great Phoenix Hunt
+Message:
+People everywhere celebrate what is now termed "The Great Phoenix Hunt" and pitch in gold to help out in your efforts to hunt it down.
+
+Name:
+Sale of phoenix-mon dolls go up!
+Message:
+With all the Phoenix hype, the sales of the new Phoenix-mon doll and other related toys has gone through the roof!
+
+Name:
+Angry fire elementals.
+Message:
+Fire elementals, jealous about all the attention given to their Phoenix cousins, break into your stores and destroy some resources.
+
+Name:
+Bribing of the water elementals. 
+Message:
+Angered at all the trouble the fire elementals are causing, you hire some water elementals to teach them a lesson.  Hopefully, this will keep them busy and leave you free to pursue the Phoenix.
+
+Name:
+Smoke and steam.
+Message:
+Smoke and steam arise over the battlefield.  It looks like the elementals are really going at it!  Hopefully, this will be the last you hear from them.
+
+===== Heroes =====
+
+===== Objects =====
+
+(48, 58, 0) ***Event***
+Message:
+Fire elementals jump out of the surrounding lava and attack!
+
+(50, 58, 0) ***Phoenix***
+Message:
+It looks like the First Phoenix has spawned some progeny, and they all immediately attack.
+
+===== End of file =====

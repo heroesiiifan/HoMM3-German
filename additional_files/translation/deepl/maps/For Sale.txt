@@ -1,0 +1,64 @@
+===== Map name =====
+For Sale
+
+===== Map description =====
+A rich lord has put his beautiful kingdom up for sale.  While fighting off your opponents, you are to raise the money to purchase the kingdom before they do.  There is one catch: you cannot lose your home town.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+A rich lord has put his beautiful castle up for sale.  He has plans of ruling bigger lands and wants to get out of this tiny place.  He is asking 50637 gold pieces.  The castle is fully built.  The word is out all over the land: the first hero to bring the lord the proper amount of gold gets the castle.  There is one catch: you cannot lose your home town.
+
+Name:
+Thieves amuck
+Message:
+There are rumors spreading around of a mad band of thieves roaming the area stealing gold and killing those who don't give it up.  You order you troops to keep an eye out for anything suspicious.
+
+Name:
+Thieves kill
+Message:
+A messenger delivers you terrible news.  The rumor about the band of thieves is true.  They attacked and killed an entire army last night, getting away with 15037 gold!  A cold chill runs down your spine as you have a moment of silence for the deceased.  You send home a message to have more battle-ready troops available for you to hire.  In the meantime, have them stand guard around the kingdom night and day, ready for any surprise attacks.
+
+Name:
+Stole 5037 gold
+Message:
+The thieves ransacked your camp and got away with 5037 gold pieces.  Fortunately, they killed no one.  But losing that gold really hurt your towns' treasury.
+
+Name:
+Thieves strike again
+Message:
+Thieves have struck your town again.  There must be a way to stop these outlaws!
+
+===== Heroes =====
+
+===== Objects =====
+
+(9, 15, 0) ***Sign***
+Message:
+For Sale	by owner	50637 gold
+
+(11, 15, 0) ***Quest Guard***
+Message:
+The guards here will let no one pass unless they have enough gold to buy the castle.  They will let you pass for 50637 gold pieces.
+Since you have not brought 50605 Gold, the guards forbid your passage.
+Congratulations!  This exquisite castle is yours if you pay the price of 50605 gold.  Do you wish to buy it?
+
+(14, 13, 0) ***Sign***
+Message:
+For Sale	By Owner	50637 Gold
+
+(2, 1, 0) ***Pandora's Box***
+Message:
+
+
+(2, 2, 0) ***Quest Guard***
+Message:
+The contents of the box are very dangerous.  The guards eye you dubiously but agree to let you by when you have reached level 9 experience.
+The guards here simply will not permit anyone below level 9 to pass.
+The guards acknowledge that you have indeed reached level 9.  Do you wish to go to the box at this time?
+
+===== End of file =====

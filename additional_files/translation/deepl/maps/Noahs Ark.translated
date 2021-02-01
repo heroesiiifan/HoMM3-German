@@ -1,0 +1,84 @@
+===== Map name =====
+Die Arche Noah
+
+===== Map description =====
+Die große Flut kommt, und nur wenn Sie zwei von jedem Lebewesen kontrollieren, können Sie hoffen, zu überleben.
+
+===== Rumors =====
+
+Name:
+Monster-Gruppen.
+Text:
+Einige große Monstergruppen schließen sich jedem Helden an, der sie mitnehmen will.
+
+Name:
+Unterirdisch.
+Text:
+Die unterirdischen Gänge verbinden die Behausungen der Kreaturen, aber Vorsicht - es wimmelt von Monstern!
+
+===== Timed events =====
+
+Name:
+Start-Infos.
+Message:
+Späher berichten, dass unterirdische Gänge auch die Bereiche verbinden, die wir erreichen müssen, vielleicht könnten sie genutzt werden, um die Kontrolle über die Kreaturenbehausungen früher zu übernehmen.
+
+===== Objects =====
+
+(83, 66, 0) ***Event***
+Message:
+Eine kleine Lichtung voller Oger erscheint weiter unten auf dem Weg.  Sie sehen gelangweilt aus, vielleicht schließen sie sich euch an?
+
+(30, 88, 0) ***Event***
+Message:
+Die Flügeldrachen in diesem Gebiet sehen abgemagert aus und sind nicht bereit für einen Kampf.  Wenn du sie fütterst, schließen sie sich vielleicht deiner Armee an?
+
+(77, 26, 0) ***Event***
+Message:
+Die Wolfsreiter sehen verloren und führungsbedürftig aus.  Vielleicht werden sie sich einem starken Anführer anschließen?
+
+(47, 22, 0) ***Event***
+Message:
+Die Magier um den Turm herum sehen mehr daran interessiert aus, zu studieren als gegen dich zu kämpfen.
+
+(21, 35, 0) ***Event***
+Message:
+Die Mönche sehen aus, als wären sie bereit, sich Eurer Sache anzuschließen.  Vielleicht solltet Ihr mit ihnen reden.
+
+(56, 83, 0) ***Sign***
+Message:
+Gildengold.  Nicht anfassen, was seid Ihr ein Dieb?
+
+(8, 24, 1) ***Event***
+Message:
+Die Medusen beäugen Sie misstrauisch, sehen aber so aus, als könnten sie über Bedingungen diskutieren.
+
+(4, 65, 1) ***Event***
+Message:
+Die Vampire sehen aufgedunsen aus, als hätten sie kürzlich gespeist.  Wenn Ihr mit ihnen redet, werden sie sich vielleicht Eurer Armee anschließen.
+
+(102, 100, 1) ***Event***
+Message:
+Diese Hydras sind an den Boden gekettet.  Wenn Sie sie befreien, schließen sie sich Ihnen vielleicht an.
+
+(24, 12, 1) ***Event***
+Message:
+Diese Gnolls sehen eher wie Diebe aus.  Vielleicht schließen sie sich dir bei deiner Suche nach Reichtümern an.
+
+(5, 102, 1) ***Event***
+Message:
+Die Kobolde sehen aus, als wären sie bereit zu spielen, nicht bereit zu kämpfen.
+
+(102, 52, 1) ***Event***
+Message:
+Sieht aus, als hätten diese Zwerge alles Gold in der Gegend abgebaut.  Vielleicht schließen sie sich Ihnen an, um einen Teil der Beute zu bekommen.
+
+(51, 99, 1) ***Event***
+Message:
+Die Hunde in dieser Höhle sehen eher verspielt aus als alles andere.
+
+(95, 93, 1) ***Sign***
+Message:
+Skelett-Schlachtfeld, Vorsicht!
+
+===== End of file =====

@@ -1,0 +1,31 @@
+===== Map name =====
+Barbarenausbruch (Verbündete)
+
+===== Map description =====
+Bauen Sie Ihre Kräfte auf, bevor die Barbaren aus der Isolation ausbrechen und versuchen, Sie zu überrennen.  Vorsicht, sie sind zäher als Sie denken, also ist etwas Teamarbeit gefragt.
+
+===== Rumors =====
+
+Name:
+Märkte
+Text:
+Sie können Gold und andere Ressourcen an Ihre Verbündeten schicken... oder sogar an einen Feind.
+
+===== Timed events =====
+
+Name:
+Die Barbaren kommen.
+Message:
+Sie müssen Ihre Streitkräfte schnell aufstocken. Die Barbaren sind zwar isoliert, aber sie wollen Ihre Ländereien als die ihren beanspruchen. Sie werden nicht ewig warten!
+
+===== Objects =====
+
+(26, 11, 0) ***Stronghold***
+Name:
+Stremgarth
+
+(14, 26, 1) ***Stronghold***
+Name:
+Stremgeth
+
+===== End of file =====

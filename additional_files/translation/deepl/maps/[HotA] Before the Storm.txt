@@ -1,0 +1,19 @@
+===== Map name =====
+Before the Storm
+
+===== Map description =====
+These eight domains managed to keep peace for many years, but a kitchen this small can't hold so many cooks for long. Something's got to give very soon, and you'll be in the very middle of what's about to happen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(53, 47, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

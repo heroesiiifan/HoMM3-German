@@ -66,7 +66,7 @@ Eure drei Anfangsstädte erhalten je eine Magiergilde der 1. Stufe."
 Eure zentrale Stadt erhält eine Magiergilde der 3. Stufe."
 "{Stiefel der Geschwindigkeit}
 
-Die Stiefel der Geschwindigkeit erhöhen die Bewegungsrate eines Helden an Land."
+Die Stiefel der Geschwindigkeit erhöhen die Bewegungsrate eines Helden an Land um 400."
 "{Logistik einfach}
 
 Euer Anfangsheld beginnt mit Logistik einfach."

@@ -1,0 +1,36 @@
+===== Map name =====
+Carpe Jugulum
+
+===== Map description =====
+Two realms have been battling over this patch of land for a century now. None has been able to take a firm hold of a certain land bridge so far. You will have to grab this war by the throat.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+AI bonus
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(46, 44, 0) ***Pandora's Box***
+Message:
+
+
+(22, 26, 0) ***Pandora's Box***
+Message:
+
+
+(53, 53, 0) ***Pandora's Box***
+Message:
+
+
+(27, 32, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

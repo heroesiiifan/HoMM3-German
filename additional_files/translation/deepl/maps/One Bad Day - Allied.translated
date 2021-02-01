@@ -1,0 +1,155 @@
+===== Map name =====
+Ein schlechter Tag (Allies)
+
+===== Map description =====
+Der Krieg hat das Land lange Zeit geplagt. Nun sollte der Krieg nach vielen Jahren mit zwei arrangierten Ehen zu Ende gehen. Alles lief relativ gut, bis die Brautpaare, die mit diesem Arrangement nicht einverstanden waren, abgehauen sind. Jetzt streiten sich die Eltern wieder, diesmal für immer
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Einleitung
+Message:
+Der Krieg hat das Land schon lange geplagt.  Jetzt, nach vielen Jahren, sollte der Krieg mit zwei Hochzeiten endlich ein Ende finden.  Alles lief nach Plan, oder zumindest nach dem Plan der Eltern, bis die Kinder vor ihrem Hochzeitstag verschwanden.  Nun geben sich die Eltern gegenseitig die Schuld und haben erneut den Krieg erklärt.
+
+Name:
+Ereignis - 2 Rot
+Message:
+Ihre Tochter Asrae ist weggelaufen, und es ist offensichtlich Torilanes Schuld, denn sein Sohn ist ein Possenreißer, den Ihr kostbares kleines Mädchen unmöglich heiraten konnte.  Das Schwein muss irgendetwas getan haben, um sie nach ihrem Treffen am Abend zuvor zu verletzen.  Du hast geschworen, dich an beiden zu rächen.
+
+Name:
+Ereignis - 2 Blau
+Message:
+Eure Tochter Altaldil ist weggelaufen, und es ist offensichtlich Aguks Schuld, denn sein Sohn ist ein Possenreißer, den Euer kostbares kleines Mädchen unmöglich heiraten konnte.  Das Schwein muss irgendetwas getan haben, um sie nach ihrem Treffen am Abend zuvor zu verletzen.  Du hast geschworen, dich an beiden zu rächen.
+
+Name:
+Ereignis - 2 Orange
+Message:
+Ihr Sohn Cothim ist weggelaufen, und es ist offensichtlich Manirapius' Schuld, denn seine Tochter ist das hässlichste Geschöpf, das Sie seit langem gesehen haben.  Sie muss aus dem obersten Ast des hässlichen Baumes gefallen sein und auf dem Weg nach unten jeden Ast getroffen haben.  Kein Wunder, dass Ihr Junge weggelaufen ist - das hätten Sie auch fast getan, als Sie sie zum ersten Mal sahen!  Jetzt müssen Sie ihn beschützen, indem Sie Manirapius den Schädel einschlagen.
+
+Name:
+Ereignis - 2 Lila
+Message:
+Ihr Sohn Boruk ist weggelaufen, und es ist offensichtlich Bralaks Schuld, denn seine Tochter ist das hässlichste Geschöpf, das Sie seit langem gesehen haben.  Sie muss aus dem obersten Ast des hässlichen Baumes gefallen sein und auf dem Weg nach unten jeden Ast getroffen haben.  Kein Wunder, dass Ihr Junge weggelaufen ist - das hätten Sie auch fast getan, als Sie sie zum ersten Mal sahen!  Jetzt musst du ihn beschützen, indem du Bralak den Schädel einschlägst.
+
+Name:
+Ereignis - 3
+Message:
+Es kursieren Gerüchte über etwas, das die Macht des Drachenvaters genannt wird.  Ihr habt noch nie davon gehört, glaubt aber, dass es nützlich sein könnte, wenn Ihr Eure Rache einfordert.  Ein paar Ihrer Gelehrten recherchieren den Namen, da Sie sich nicht einmal sicher sind, was es ist.
+
+Name:
+Ereignis - 4
+Message:
+Die Gelehrten haben gute Nachrichten.  Die Macht des Drachenvaters ist ein Kombinationsartefakt, das für seine glorreichen Kräfte bekannt ist.  Es kann die Fähigkeiten des Trägers erhöhen und alle Kreaturen, die mit dem Träger befreundet sind, gegen Zauber bis zur vierten Stufe immun machen.  Ein solcher Gegenstand muss in dein Arsenal gehören!  Du schickst Späher aus, um herauszufinden, wo sich die nötigen Stücke befinden.
+
+Name:
+Ereignis - 5
+Message:
+Die Späher sind zurückgekehrt, und Ihr wisst nun, wo sich vier Teile der Macht des Drachenvaters befinden.  Die Krone des Drachenzahns befindet sich in der Hütte einer weisen Frau und ihr Name ist Autena.  Die Halskette des Drachenzahns ist im Haus von Liladone versteckt.  Gwyad hält das Stille Auge des Drachen in der Hand.  Igata besitzt den Wappenrock des Drachenflügels.  Die anderen sind an verschiedenen Orten verstreut, ihre genauen Standorte sind noch nicht bekannt.
+
+Name:
+Ereignis - 6
+Message:
+Der Standort der Drachenknochen-Greifer wurde entdeckt.  Wenn Sie sich in das Land der brennenden Lava begeben und sich hinter die Glücksgöttin stellen, werden Sie sie finden.  Zumindest besagt das die Legende.
+
+Name:
+Ereignis - 7
+Message:
+Zwischen den Ländern Gras und Schnee im Osten ist die Drachenschuppen-Rüstung versteckt.  Gerüchten zufolge wird die Rüstung von grünen Drachen bewacht, aber andere behaupten, sie seien nur eine Illusion.  Da es töricht wäre, sich auf die Illusion zu verlassen, beschließt man, schwer bewaffnete Truppen auszusenden, um die Rüstung zu holen.
+
+Name:
+Ereignis - 8
+Message:
+In einem Land des Glücks und der vierblättrigen Kleeblätter liegt die Flammenzunge des Roten Drachen, ein uraltes Artefakt, das aus der Zunge des Großvaters Roter Drache erschaffen wurde.  Sie müssen die Monolithen benutzen, um dorthin zu gelangen, und wenn Sie dort sind, müssen Sie sich auf einen Kampf gefasst machen.  Rote Drachen sind nicht dafür bekannt, dass sie Artefakte aus ihrem Erbe so leicht aufgeben.
+
+Name:
+Ereignis - 9
+Message:
+Der Legende nach ist das Grab des Kriegers, das sich am südlichen Ende des Bodens aus gehärteter Lava befindet, der Ort, an dem man sich umdrehen muss, um den Drachenschuppenschild zu finden.  Wenn Sie entlang der Küstenlinie nach Süden reisen, werden Sie das Artefakt finden.  Niemand hat es bisher gefunden, weil es keinen anderen Grund gibt, dorthin zu gehen.
+
+Name:
+Ereignis - 10
+Message:
+Die anderen Lords geben Dir die Schuld für all die Probleme mit ihren Kindern.  Diese Gören sind nicht Deine Schuld und Du hast Probleme mit Deinem eigenen Kind.  Das ist genau der Grund, warum Du die Herrschaft über alle Länder übernehmen solltest!  Die anderen sind nicht kompetent genug, um selbst Verantwortung zu übernehmen.
+
+Name:
+Ereignis - 11
+Message:
+Eure Tochter ist heute mit einem jungen Mann am Arm erschienen.  Sie hat diesen Grobian geheiratet und ist bereits schwanger.  Offensichtlich ist sie ihm völlig egal, sonst hätte er Ihnen nicht gesagt, dass sie lieber in Armut leben wollen, als sich zu trennen.  Da du nicht weißt, was du sonst tun sollst, versteckst du die beiden im Schloss und hoffst, dass die anderen Lords nichts von dieser Peinlichkeit erfahren.
+
+Name:
+Ereignis - 11
+Message:
+Ihr Sohn ist heute mit einer jungen Frau am Arm erschienen.  Er hat eine Bäuerin geheiratet, die bereits schwanger ist.  Offensichtlich ist sie ihm völlig gleichgültig, sonst hätte sie Ihnen nicht gesagt, dass sie lieber in Armut leben wollen, als sich zu trennen.  Da Sie nicht wissen, was Sie sonst tun sollen, verstecken Sie die beiden im Schloss und hoffen, dass die anderen Herren nichts von dieser Peinlichkeit erfahren.
+
+===== Heroes =====
+
+===== Objects =====
+
+(11, 13, 0) ***Sign***
+Message:
+Nicht betreten
+
+(15, 62, 0) ***Sign***
+Message:
+Nicht betreten
+
+(48, 47, 0) ***Sign***
+Message:
+Nicht betreten
+
+(70, 8, 0) ***Sign***
+Message:
+Nicht betreten
+
+(26, 19, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Schatz
+Message:
+Steuern eintreiben macht immer glücklicher.
+
+(52, 6, 0) ***Seer's Hut***
+Message:
+Seid gegrüßt, Wanderer.  Mein Name ist Autena, und ich wusste, dass Ihr nach mir sucht.  Ich werde Euch bei Eurem Bestreben helfen, die Macht des Drachenvaters zu erschaffen, aber Ihr müsst Euch erst als würdig erweisen.  Eine Arena, die von meinem Bruder geführt wird, wird von Rocs belagert.  Er hatte nur junge Knappen in der Arena, als sie angriffen, und niemand hat versucht, sie zu vertreiben.  Zerstöre sie, und ich werde dir die Krone des Drachenzahns geben.
+Es tut mir leid, aber mein Bruder ist immer noch in der Arena gefangen.  Erst wenn Ihr die Roks besiegt habt, gebe ich Euch die Krone des Drachenzahns.
+Wie ich wusste, bist du wahrlich würdig, die Macht des Drachenvaters zu tragen.  Nimm die Drachenzahnkrone und setze deine Reise fort.  Ich habe Gerüchte über ein Stück gehört, das im Süden in den Lavalandschaften liegt.  Es ist an einem Ort versteckt, den nur wenige betreten würden, südlich vom Grab des Kriegers.
+
+(32, 56, 0) ***Event***
+Message:
+Ich habe hier ewig gewartet und wollte, dass jemand gegen mich kämpft, aber jetzt bin ich zu müde.  Ich werde dir den Drachenschuppen-Schild geben.  Es gibt Gerüchte, dass es ein kleiner Teil des Ganzen ist, die Macht des Drachenvaters.  Viel Glück beim Finden.
+
+(71, 42, 0) ***Seer's Hut***
+Message:
+Hallo, mein Freund.  Meine Tage des Abenteuers sind schon lange vorbei.  Es gibt eine Mine nicht weit von hier, die Edelsteine hat, eine wertvolle Ressource, von der ich leben könnte.  In meinem hohen Alter ist es allerdings schwierig, diese zu sammeln. Wenn Ihr mir also, sagen wir, fünfzig geben würdet, würde ich Euch im Gegenzug den Wappenrock der Drachenflügel geben.  
+Oh je, das ist einfach nicht genug.  Ich brauche fünfzig Edelsteine, mit weniger kann ich nicht überleben.
+Ausgezeichnet, jetzt habe ich genug Edelsteine, um mich richtig zur Ruhe zu setzen.  Gebt mir die fünfzig Edelsteine, und ich gebe Euch den Wappenrock der Drachenflügel.  Nur für den Fall, dass Ihr Euch wundert, dies ist ein integraler Bestandteil der "Macht des Drachenvaters"-Rüstung.  Ohne ihn werdet Ihr nicht in der Lage sein, den mächtigen Gegenstand herzustellen.  Seid Ihr bereit zum Tausch?
+
+(18, 45, 0) ***Seer's Hut***
+Message:
+Seid gegrüßt, Reisende.  Ich bin Liladone, und meine Gruppe hat sich erheblich verkleinert.  Ohne jemanden, der für mich arbeitet, bin ich nur noch ein gewöhnlicher Ganove.  Tut mir einen Gefallen und rekrutiert 40 Schurken.  Sie leben nicht weit von hier, aber mir fehlt das Geld, um sie anzuheuern.  Tun Sie das, und wir unterhalten uns über die Kette mit dem Drachenzahn, auf die Sie so scharf sein sollen.
+Tut mir leid, Kumpel, aber wenn du mir nicht 40 Schurken besorgst, fange ich gar nicht erst mit dem Feilschen an.
+Da du sie in einem Stück hergebracht und bezahlt hast, werde ich nichts weiter von dir verlangen.  Du lässt sie in mein Haus, und ich gebe dir diese Kette aus Drachenzähnen.  Was sagst du dazu?
+
+(13, 25, 0) ***Seer's Hut***
+Message:
+Ich wollte mich schon immer mal mit jemandem unterhalten, der mehr Erfahrung hat als ich.  Wenn Du Rang 10 erreichst, setze ich mich mit Dir zusammen und erzähle Dir, was ich weiß, und Du kannst mir sagen, was Du weißt.  Nicht genug?  Dann gebe ich dir diesen Ring, den ich hier herumliegen habe.   Hier, das ist das Stille Auge des Drachen.
+Faugh!  Du schon wieder!  Komm wieder, wenn du Level 10 erreicht hast, wie ich es dir gesagt habe.
+Na toll!  Setzen wir uns und plaudern, damit wir wissen, was der andere macht.  Bist du bereit, dich zu mir zu setzen?  Wenn ja, dann gebe ich Euch das Stille Auge des Drachen.
+
+(21, 19, 0) ***Red Dragon Flame Tongue***
+Message:
+Wir sind die Roten Drachen, die dieses alte Relikt unserer Vorfahren beschützen.  Wenn du darauf bestehst, ein Dieb zu sein, werden wir dich mit unseren tödlichen Atemwaffen verbrennen.  Lauf, mickriger Sterblicher, oder du wirst einen schnellen, aber schmerzhaften Tod erleiden.
+
+(50, 31, 0) ***Event***
+Message:
+Nach stundenlanger Suche habt Ihr endlich die Dragonbone Greaves gefunden.  Vorsichtig schaust Du Dich nach einem plötzlichen Angriff um und seufzt erleichtert, als es keinen gibt.  Du ziehst die Beinschienen an und machst dich eilig auf den Weg.
+
+(65, 35, 0) ***Event***
+Message:
+Du siehst eine Schuppenrüstung am Wegesrand.  Als du sie aufheben willst, wirst du plötzlich von einigen sehr wütenden Grünen Drachen angegriffen, die nicht wollen, dass du ihr Eigentum stiehlst.  Bevor du jedoch schreiend wegrennst, erkennt einer deiner Magier die Wahrheit und du drehst dich um, um gegen die Weicheier zu kämpfen.
+
+===== End of file =====

@@ -1,0 +1,95 @@
+===== Map name =====
+Kriegstreiber
+
+===== Map description =====
+Das Leben war relativ friedlich, bis die drei Lords auf der anderen Seite des Meeres beschlossen, sich zusammenzutun und Ihnen den Krieg zu erklären. Bauen Sie auf, bevor sie einmarschieren, aber passen Sie auf Ihre Nachbarn auf, die vielleicht andere Ideen haben.
+
+===== Rumors =====
+
+Name:
+Banditen.
+Text:
+Vorsicht! Banditen können ohne Vorwarnung auftauchen.
+
+===== Timed events =====
+
+Name:
+Erster Tag
+Message:
+Die drei Feinde auf der anderen Seite der Meerenge haben sich zusammengetan und werden bald einmarschieren. Seien Sie bereit, aber achten Sie auch auf Ihre Nachbarn.
+
+===== Objects =====
+
+(21, 102, 0) ***Random Resource***
+Message:
+Sie finden einen kleinen Vorrat an Ressourcen.
+
+(21, 103, 0) ***Random Resource***
+Message:
+Sie finden einen kleinen Vorrat an Rohstoffen.
+
+(31, 0, 0) ***Random Resource***
+Message:
+Sie finden einen kleinen Cache an Ressourcen.
+
+(32, 0, 0) ***Random Resource***
+Message:
+Sie finden einen kleinen Cache mit Ressourcen.
+
+(18, 32, 0) ***Sign***
+Message:
+Dieses Tor ist ständig besetzt.  Kein Durchgang ohne Genehmigung.
+
+(21, 28, 0) ***Sign***
+Message:
+Dieses Tor ist immer besetzt.  Unbefugtes Passieren ist verboten.
+
+(53, 44, 0) ***Sign***
+Message:
+Dieses Tor ist immer besetzt.  Unbefugtes Passieren ist verboten.
+
+(54, 40, 0) ***Sign***
+Message:
+Dieses Tor ist immer besetzt.  Unbefugtes Passieren ist verboten.
+
+(37, 85, 0) ***Sign***
+Message:
+Dieses Tor ist immer besetzt.  Unbefugtes Passieren ist verboten.
+
+(34, 82, 0) ***Sign***
+Message:
+Dieses Tor ist immer besetzt.  Unbefugtes Passieren ist verboten.
+
+(15, 113, 0) ***Sign***
+Message:
+Dieses Tor ist immer besetzt.  Unbefugtes Passieren ist verboten.
+
+(16, 116, 0) ***Sign***
+Message:
+Dieses Tor ist immer besetzt.  Unbefugtes Passieren ist verboten.
+
+(82, 125, 0) ***Event***
+Message:
+Banditen springen hinter einigen Felsen hervor und greifen an!
+
+(47, 3, 0) ***Event***
+Message:
+Banditen tauchen unter dem Schnee hervor und greifen an!
+
+(92, 55, 0) ***Sign***
+Message:
+Willkommen auf Lighthouse Isle, bitte keine vergrabenen Schätze.
+
+(90, 58, 0) ***Event***
+Message:
+Sie finden einen vergrabenen Schatz!
+
+(96, 53, 0) ***Event***
+Message:
+Du findest einen vergrabenen Schatz!
+
+(59, 51, 0) ***Event***
+Message:
+Banditen springen hinter den Bäumen hervor und greifen an.
+
+===== End of file =====

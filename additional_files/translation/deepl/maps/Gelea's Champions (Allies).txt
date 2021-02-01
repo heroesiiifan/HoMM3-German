@@ -1,0 +1,75 @@
+===== Map name =====
+Gelea's Champions (Allies)
+
+===== Map description =====
+You and your ally have been invaded by warlords from another world.  The time has come to strike back.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Opening Text
+Message:
+You live in the kingdom of Gelea and have been subjugated by warlords from another dimension. You and an ally have taken a stand against these invaders.  However, to stop them once and for all, you must invade their realm and take their lands.
+
+Name:
+Gifts
+Message:
+To aid you in your cause, the people have contributed what they could.
+
+===== Objects =====
+
+(56, 26, 0) ***Event***
+Message:
+Kneeling next to the water, you pray and receive a blessing from the sprirts of the water.
+
+(62, 71, 0) ***Event***
+Message:
+A small encampment can be seen that appears to be watching over the lonely obelisk that resides on the peninsula to the west.
+
+(51, 58, 0) ***Event***
+Message:
+Sitting at the water's edge is a woman who is crying.  She tells you a tale of a lost child and the evil abductors who stole her.  You swear revenge and feel even more enraged at the senseless invasion of your world.
+
+(51, 10, 0) ***Event***
+Message:
+The still waters of the northern sea part momentarily to wash up an old man.  Lords of Light!!!  It's the vassal of your father.  Those evil invaders have slain the best friend you ever had.  
+
+(38, 15, 0) ***Event***
+Message:
+As you approach the grove of trees, several armed men jump out and attack you.  "STAND AND DELIVER!!!" one yells.
+
+(12, 51, 0) ***Event***
+Message:
+As your army marches towards it's destiny, you notice an odd person shambling about in the same direction as you.  When you ask where he is going, he ignores you, mumbling something about meeting evil face to face.
+
+(22, 25, 0) ***Event***
+Message:
+Half buried in the swamp is an old royal carriage that appears to have been here for some time.  You search it and find that there is a small amount of gold and jewels still inside.  Obviously whatever thieves robbed it failed to capture the treasures they sought.
+
+(28, 58, 0) ***Event***
+Message:
+Hiding in the rocks are several ruffians.  Some of whom wish to join you.  The rest are out to get you, no matter the cost.
+
+(10, 37, 0) ***Event***
+Message:
+You stop to train your troops and find the training manueuvers quite useful.
+
+(53, 52, 0) ***Event***
+Message:
+You stop to train your troops and find the training manueuvers quite useful.
+
+(27, 33, 1) ***Sign***
+Message:
+Mondo's Boats . . . Members Only!
+
+(25, 38, 1) ***Ocean Bottle***
+Message:
+There is a whirlpool that leads to another world.
+
+(2, 4, 1) ***Event***
+Message:
+As you approach the whirlpool that should lead back to your world, you see a ship cresting the waves and it is flying a flag with a grinning skull and crossed swords.
+
+===== End of file =====

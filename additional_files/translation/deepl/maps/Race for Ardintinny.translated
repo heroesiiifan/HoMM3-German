@@ -1,0 +1,180 @@
+===== Map name =====
+Rennen um Ardintinny
+
+===== Map description =====
+Sie und vier andere Lords begehren die Medallion Bay, eine profitable Handelsroute.  Vor Ihren Gegnern oder vor Ablauf von sechs Monaten müssen Sie die Kontrolle über Ardintinny übernehmen, die Stadt, die die Medallion Bay kontrolliert.
+
+===== Rumors =====
+
+Name:
+Tore
+Text:
+Es gibt zwei Pforten zur Unterwelt.
+
+Name:
+Insel
+Text:
+Eine Insel, die nur über einen Monolithen erreichbar ist, ist der Weg nach Ardintinny.
+
+===== Timed events =====
+
+Name:
+Aufstand!
+Message:
+Die Bevölkerung, die Ardintinny kontrolliert, hat revoltiert und Lord Thormis gehängt. Nun, da sie die Kontrolle über den Reichtum haben, der aus der Medallion-Bucht fließt, haben sie sich als unabhängiger Staat etabliert. König Magdor hat verfügt, dass der Lord, der die Stadt zurückerobern kann, die Kontrolle über die Medallion-Bucht erhält. 
+
+Name:
+Die Suche
+Message:
+Du und vier andere Lords kämpfen darum, Ardintinny zuerst zu erreichen. Deinen Spionen zufolge gibt es große Gebirgszüge mit dichten Wäldern, die Ardintinny umgeben.
+
+Name:
+Erkundung
+Message:
+Ihr Berater schlägt vor, dass Sie Ihr Land schnell erkunden. Die jüngsten Aufstände und Unruhen haben die Minenproduktion verlangsamt. Sie sollten jemanden losschicken, um die Bauern wieder zur Arbeit zu bewegen. Außerdem gibt es vielleicht Orte, an denen Sie weitere Armeen für Ihren Ausflug nach Ardintinny rekrutieren können.
+
+Name:
+Infestationen
+Message:
+Es gibt Berichte über den Befall von fiesen Viechern in der Gegend! Während Ihr im Palast wart, wurden diese Kreaturen frech und zogen in Euer Gebiet. Wie unhöflich!
+
+Name:
+Späher
+Message:
+Schnell schickst du Späher aus, um mehr über diese Monolithen herauszufinden. Es ist immer gut zu wissen, ob man eine jungfräuliche Jungfrau, ein Kalb oder etwas anderes braucht, um Zugang zu ihren Kräften zu bekommen. Sie müssen einen Teil Ihrer Ressourcen ausgeben, um diese kleine Operation zu finanzieren.
+
+Name:
+Zum Meer
+Message:
+Nachdem Sie entdeckt haben, dass es auf hoher See Schätze geben könnte, schicken Sie Ihre Schiffsflotte aus, um die Umgebung Ihrer Küste zu erkunden. Visionen von schwer beladenen Goldschiffen schwimmen in Ihrem Kopf. Sofort geben Sie den Bau von sechs neuen Schiffen in Auftrag.
+
+Name:
+Wrackteile
+Message:
+Ein Schiff trudelt schwer beschädigt im Hafen ein. Sie hatten mit schweren Winden und schrecklichem Wetter zu kämpfen, beides hat die Flotte auf die Riffe geschleudert. Sie berichteten jedoch von einem seltsamen Strudel, der sie in die Medallion Bay brachte. Leider gibt es dort absolut keinen Platz zum Anlanden.
+
+Name:
+Wo sind sie?
+Message:
+Eure Späher sind noch nicht zurückgekehrt, und es hätte nicht so lange dauern dürfen, bis sie von den Monolithen zurückkehren. Sie mussten nur herausfinden, was die Monolithen für den Truppentransport brauchen. Wo könnten sie sein?
+
+Name:
+Jeden Tag...
+Message:
+Diese Späher sollten jetzt jeden Tag auftauchen...
+
+Name:
+Gute Nachrichten vom Meer
+Message:
+Ein weiteres Eurer unglückseligen Schiffe ist in den Hafen zurückgekehrt. Dieses ist mit wertvollem Kristall beladen. Es war in der Lage, die Riffe (gerade noch) zu umschiffen und nach Hause zurückzukehren. Es fand eine kleine Insel im Nordwesten, die eine Fülle von Kristallen hatte. Sie blieben jedoch nicht dort, um mit den Einheimischen zu plaudern.
+
+Name:
+Immer noch kein Wort
+Message:
+Die dröhnende Stille, die von Ihren Spähern ausgeht, hindert Sie daran, in der Nacht friedlich zu ruhen.
+
+Name:
+Heimkehr
+Message:
+Ein Späher hat es endlich nach Hause geschafft. Leider hat er die meisten seiner Truppen verloren und auch das ganze Geld, das Sie ihm gegeben haben. "Wir sind in die anderen Reiche gereist, haben es aber nicht einmal bis nach Ardintinny geschafft. Es war pures Glück, dass wir auch nach Hause kommen konnten." Das sind nicht die guten Nachrichten, die du dir erhofft hast.
+
+Name:
+Gute Nachrichten
+Message:
+Ein weiterer Scout, und Sie nehmen an, der letzte, ist von seiner langen Abwesenheit von zu Hause zurückgekehrt. Er hat es nach Ardintinny geschafft! Mit Glück, und das allein, kann man zu einer Mittelinsel gelangen, die nach Ardintinny führt. Allerdings sollte man sich der Aufgabe stellen, denn der Weg ist tückisch und schwer.
+
+===== Objects =====
+
+(33, 42, 0) ***Sign***
+Message:
+Das Ende des Weges
+
+(50, 28, 0) ***Event***
+Message:
+Eine frierende alte Frau wärmt Sie und segnet Sie mit viel Glück für Ihren nächsten Kampf.
+
+(52, 23, 0) ***Tower***
+Name:
+Masseron
+
+(107, 66, 0) ***Inferno***
+Name:
+Vinsen
+
+(100, 61, 0) ***Sign***
+Message:
+Vorsicht bei umliegenden Veranstaltungen.
+
+(100, 60, 0) ***Event***
+Message:
+So weit weg von zu Hause zu sein, führt dazu, dass Ihre Truppen ihre Familien vermissen.
+
+(100, 62, 0) ***Event***
+Message:
+Eine Gruppe von Banditen stürmt aus dem Nichts herbei und stiehlt Ihnen Gold und Edelsteine!
+
+(101, 61, 0) ***Event***
+Message:
+Sie haben Ihre Glückshasenpfote verloren!
+
+(99, 62, 0) ***Event***
+Message:
+Die Pferde traben über einen alten Friedhof und tun ihre Pflicht. Ihre Truppen verlieren die Moral, während die Pferde diesen heiligen Ort entweihen.
+
+(113, 124, 0) ***Fortress***
+Name:
+Seranil
+
+(79, 60, 0) ***Ocean Bottle***
+Message:
+
+
+(25, 113, 0) ***Stronghold***
+Name:
+Juntar
+
+(24, 63, 0) ***Castle***
+Name:
+Aberworth
+
+(84, 41, 0) ***Rampart***
+Name:
+Ardintinny
+
+(13, 34, 0) ***Ocean Bottle***
+Message:
+Vorsicht vor den Felsen!
+
+(72, 110, 0) ***Mystic Orb of Mana***
+Message:
+Du siehst eine wundersame Kugel direkt vor dir. Ihre Kraft strahlt weit genug aus, dass du sie spüren kannst. Leider wird sie von fünf Erzengeln bewacht, die sie als Ball in irgendeinem Spiel benutzen. Willst Du versuchen, mit ihnen darum zu kämpfen?
+
+(87, 22, 0) ***Event***
+Message:
+Dein Meister hat immer gesagt: "Bevor man in unbekannte Gebiete vordringt, ist es weise, sich gut auf die Möglichkeit langer, mühsamer Kämpfe vorzubereiten." Sie haben aus Erfahrung gelernt, dass er Recht hatte. Vielleicht ist es am besten, wenn Sie Ihre Truppen doppelt überprüfen, nur für den Fall.
+
+(104, 49, 0) ***Event***
+Message:
+Dein Meister hat immer gesagt: "Es ist am besten, wenn man gut vorbereitet in unbekannte Länder reist." Er hatte die schlechte Angewohnheit, Recht zu haben. Vielleicht ist es ratsam, die Bereitschaft Ihrer Truppen doppelt zu überprüfen.
+
+(94, 115, 0) ***Event***
+Message:
+Ihr alter Meister pflegte zu sagen: "Es ist am besten, mit einer gut vorbereiteten Gruppe von Truppen zu reisen. Es hat keinen Sinn, Schlachten zu gewinnen, wenn man den Krieg aufgrund mangelnder Voraussicht verliert." Es könnte eine weise Idee sein, auf ihre Worte zu hören und Ihre Truppen doppelt zu überprüfen.
+
+(43, 110, 0) ***Event***
+Message:
+Ihr ganzes Leben lang hat Ihr Vater gesagt: "Geh vorbereitet ins Unbekannte." Er lebte ein langes und gesundes Leben, hauptsächlich weil er auf das Unerwartete vorbereitet war. Jetzt wäre kein schlechter Zeitpunkt, auf den alten Knacker zu hören.
+
+(60, 97, 0) ***Event***
+Message:
+Ihr Meister sagte immer: "Bevor man in unbekannte Gebiete vordringt, ist es klug, sich auf die Möglichkeit langer, mühsamer Kämpfe vorzubereiten." Sie haben aus Erfahrung gelernt, dass er Recht hatte. Vielleicht ist es am besten, wenn Sie Ihre Truppen doppelt überprüfen, nur für den Fall.
+
+(93, 128, 1) ***Event***
+Message:
+Ihre Truppen vermissen das Sonnenlicht und die freie Natur. Sie verlieren die Hoffnung, dass sie jemals wieder über den Boden gehen werden.
+
+(92, 128, 1) ***Event***
+Message:
+Ihre Truppen haben begonnen, das Tageslicht zu vermissen und verlieren die Hoffnung.
+
+===== End of file =====

@@ -1,0 +1,70 @@
+===== Map name =====
+King of Pain
+
+===== Map description =====
+The King of Arule has gone mad and is eliminating his lords one by one.  He plans to wipe them all out, believing them to be touched by evil.  The king must be stopped and a new king put on the throne, but who will it be?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Opening - Red/Orange
+Message:
+The king has gone stark raving mad and challenged all of his vassals.  He claims you are all out to get him, and he will destroy you.  You have decided to raise an army in defense, depose the mad king, and claim the throne for yourself.  The problem is that other lords might get the same idea.  Defeating all who stand in your way is the only answer.  Divine Right says only the strong should rule and you are indeed strong.
+
+Name:
+Opening - Blue
+Message:
+You are the king, ruler of all you survey, but your insipid, petty, incompetent vassals are plotting against you.  Such treachery taints your beloved kingdom and cannot go unpunished.  For the good of the kingdom, they must be destroyed.    Divine Right dictates their lives are in your hands, and yours alone, to do with as you see fit.
+
+Name:
+Madness Setting In
+Message:
+Your regent enters your chambers to report grave news.  Several of the lords nearest your castle have openly defied your summons.  They must be infected with the Dark Madness, as you have feared.  But when you share your fears with your regent, he greets you with a look of pity and disbelief.  Since he must be similarly infected, you command him to be staked out in the sun to cleanse his body of the Dark Madness threatening to consume him and your beloved kingdom.
+
+Name:
+Blue's Treason
+Message:
+The Duke to the north, carrying the blue banner, has chosen to take the opportunity in this time of great strife to seize power from our mad King.  However, he represents the old ways, the old powers.  The time is ripe for change.		For countless years you have strived to help the people, make their lives richer and more comfortable.  Today is the day to rise up against the oppressive feudal system and create a new way of life in which the simple people have a voice in how the kingdom is ruled.		Divine Right says the strong should rule, and you are out to prove that correct, for you believe in the strength of the common man's heart.  Gathering your advisors and most trusted allies amongst the peasant class, you set off on a mission of truth and honor, a mission to rescue this land from ignorance, intolerance and arrogance.  Only the gods know if you will succeed or not.
+
+Name:
+The King's Madness Grows
+Message:
+Word reaches you that the king has been torturing his messengers if they bring him news of your uprising.  The madness has gripped him more fiercely than you had imagined.  Now, more than ever, you must redouble your efforts to attain the throne.  The mad king will most assuredly bring about Arule's downfall should he be allowed to continue to rule.
+
+Name:
+Tax Levy
+Message:
+The king sends a taxman to levy that which he is owed.  He also sends a message to all who bear the "taint of the Dark Madness", outlining the methods with which he shall cleanse your soul.  Unfortunately, his methods all involve damaging your bodies.  This seems a bit harsh, you think.  You send his messenger back empty=handed.
+
+Name:
+Orange's Deception
+Message:
+Your neighbor, he of the orange flag, has betrayed your trust.  He has taken up arms against the king as you have.  He is one who allies himself with the peasants.  This betrayal of feudal system that has governed Arule well for so many generations cannot go unpunished.  It is treason, pure and simple.  Orange must be stopped!!!
+
+Name:
+Tax Levy Returns
+Message:
+The tainted ones have sent back your tax collector empty-handed.  Such insolence demands a reply!  You order your forces to go forth and smite something the tainted ones value highly.
+
+Name:
+Official Act
+Message:
+They think you mad; well, it is they who are afflicted with the Dark Madness.  It is they who have taken up arms against their sovereign King, and it shall be they who pay with their lives.  The only way to save them now is to release their souls after their bodies have been cleansed of impurities.  Your torture master is ready and willing to perform this noble task.		So that everyone shall know those who bear the stain of impurity, you send out a decree hereby stripping the lands from the Duke of Steadfast and the Count of Aronward.  They will have no choice but to forfeit their holdings and submit to your cleansing procedure.
+
+Name:
+The King's Decree Reaches Your Ears - Red
+Message:
+Word reaches you that the King has decreed that your lands are forfeit and you must immediately return to the capitol to submit yourself for his "cleansing."  This madness has now gone unchecked for too long!  You tear up the decree, slice the nose off of the messenger and send him back to your former King as a declaration of contempt for his rule.
+
+Name:
+The King's Decree Reaches Your Ears - Orange
+Message:
+So, the King has declared you an outlaw and stripped you of your lands.  This land has been in your family for countless generations and there is no way a simple decree by a madman is going to sway you from your course.  It is time for the people to rise up and rule themselves.  Strike your blows for the people!  Let revolution into your heart and guide your destiny!  It is a destiny that shall lead to the salvation of you all of Arule.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

@@ -1,0 +1,48 @@
+===== Map name =====
+All for One
+
+===== Map description =====
+Three life-long friends become enemies when each inherits a portion of the kingdom following the King's death.  You must show your former friends how to rule... through conquest.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro part 1
+Message:
+You and your two best friends were inseparable as youths, never doing anything without the others being present.  Later, you entered the King's service, and though you were often assigned to different tasks, the three of you always celebrated together when all was said and done.
+
+Name:
+Intro part 2
+Message:
+When the King died, however, your friendship changed.  Each of you inherited a portion of the kingdom to rule, but when it came down to running the kingdom, each of you had very different opinions on how it should be done.
+
+Name:
+Intro part 3
+Message:
+Yesterday, the three of you stopped speaking to each other.  You have decided that the only form of communication that your two "friends" will understand is an all-out war.
+
+===== Objects =====
+
+(17, 41, 0) ***Ocean Bottle***
+Message:
+Find the Grail, It's your only hope!
+
+(20, 30, 0) ***Event***
+Message:
+An old man approches and says: "Supposedly, the witch Verdish has the Boots of Polarity, but she is locked away in a Prison!"
+
+(12, 15, 1) ***Imp***
+Message:
+My precious, hehe...
+
+(34, 57, 1) ***Imp***
+Message:
+Finders keepers, hehe...
+
+(50, 53, 1) ***Pandora's Box***
+Message:
+Oh #%$& !
+
+===== End of file =====

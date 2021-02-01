@@ -1,0 +1,27 @@
+===== Map name =====
+Vergrabener Schatz
+
+===== Map description =====
+Der Gladius des Titanen wurde endlich gefunden, nachdem er jahrhundertelang aus dieser Region verschwunden war. Leider sind Sie nicht die einzige Person mit dieser Information, und drei andere Anführer haben geschworen, zuerst dorthin zu gelangen!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro-Hinweis (Teil 1)
+Message:
+Nach den vielen Schriftrollen und Texten, die Ihre Weisen studiert haben, stammt der größte Hinweis überraschenderweise aus einer Kindergeschichte, 'Tim und der schreckliche Titan'.
+
+Name:
+Intro-Hinweis (Teil 2)
+Message:
+In dieser Geschichte wird erzählt, dass die großen Wolkentitanen ihre kostbaren Besitztümer unter der Erde aufbewahrten, um zu verhindern, dass sie versehentlich auf die Erde fallen. Aber die Geschichte erzählt auch von furchterregenden Monstern und Fallen, die die Titanen benutzen, um ihren Schatz zu bewachen. Der Gladius MUSS unter der Erde sein!
+
+===== Objects =====
+
+(9, 58, 1) ***Titan's Gladius***
+Message:
+Du greifst nach dem Gladius, und zehn schreckliche Titanen erscheinen aus dem Nichts, genau wie in der Geschichte beschrieben! Wenn du das Gladius haben willst, musst du gegen sie kämpfen. Bleibst du und kämpfst?
+
+===== End of file =====

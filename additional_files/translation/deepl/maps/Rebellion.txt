@@ -1,0 +1,43 @@
+===== Map name =====
+Rebellion
+
+===== Map description =====
+The peasants are revolting, just when you need them to fight a war.  The only hope for peace lies in finding the Grail.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro part 1
+Message:
+As you and your two neighbors prepare for war, the populace of all three nations begins to revolt, wishing nothing more than a life of peace, harmony and love.  These uprisings will likely continue until the land is united under one flag.
+
+Name:
+Intro part 2
+Message:
+The City of Pleasanton lies at the junction of all three nations.  You are convinced that the only way to unite the land, and the people, is to not only hold the city, but to permanently house the Grail there.
+
+Name:
+Intro part 3
+Message:
+The problem, naturally, is finding the Grail before your opponents.  Find the Grail and bring it to Pleasanton first, and the people of three nations shall celebrate your name for generations to come.
+
+===== Objects =====
+
+(36, 35, 0) ***Castle***
+Name:
+Pleasanton
+
+Timed events:
+
+Name:
+Revolt!
+Message:
+The populace of the city is unhappy with your apparent lack of leadership.  You must spend considerable time and resources to calm the rioting citizens.
+
+(58, 48, 0) ***Event***
+Message:
+These desolate wastelands are home to the hardy barbarians.  The remains of those who have tried to conquer this kingdom lie at the pass to warn all who would try to take them.
+
+===== End of file =====

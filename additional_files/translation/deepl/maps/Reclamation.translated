@@ -1,0 +1,112 @@
+===== Map name =====
+Reklamation
+
+===== Map description =====
+Vor Äonen wurden drei Nationen von Invasoren besiegt und aus ihren angestammten Gebieten vertrieben.  Die siegreiche Nation hat sich seitdem in mehrere kleinere Königreiche aufgeteilt. Nun kehren die alten Völker des Landes zurück, um ihre Heimat zurückzuerobern.  Sie weigern sich jedoch, sich ihr Land zurücknehmen zu lassen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Einleitung
+Message:
+Vor Äonen wurden drei Völker von Invasoren besiegt und aus ihrem angestammten Land vertrieben. Sie wurden gezwungen, sich auf Inseln im Süden oder in der eisigen Wüste im Norden niederzulassen.  Die siegreiche Invasionsnation hat sich seitdem in mehrere kleinere Königreiche aufgespalten, die lose unter der Führung eines Rates von vier Hochkönigen vereint sind.		Kürzlich haben Vulkanausbrüche die Inseln der Siedler zerstört.  Die Siedler kehren nun zurück, um ihre Heimat zu beanspruchen, um das Land, das ihren Vorfahren gestohlen wurde, zurückzunehmen.  Doch die jetzigen Bewohner werden sich nicht rühren.  Sie waren nicht diejenigen, die das Land gestohlen haben, erklären sie, denn all das geschah vor Tausenden von Jahren!  Da keine der beiden Seiten der anderen nachgibt, ist die Situation in einen Krieg ausgeartet.
+
+===== Heroes =====
+
+===== Objects =====
+
+(14, 38, 0) ***Random Town***
+Name:
+Seattlesburg
+
+(8, 57, 0) ***Random Town***
+Name:
+Redwood
+
+(47, 62, 0) ***Random Town***
+Name:
+Denver
+
+(134, 47, 0) ***Random Town***
+Name:
+Castlerock
+
+(114, 104, 0) ***Random Town***
+Name:
+Fort Pierce
+
+(93, 63, 0) ***Random Town***
+Name:
+Chicago
+
+(47, 20, 0) ***Random Town***
+Name:
+Calgary
+
+(126, 38, 0) ***Random Town***
+Name:
+Quebec
+
+(103, 136, 0) ***Random Town***
+Name:
+Chetumal
+
+(21, 18, 0) ***Random Town***
+Name:
+Vancouver
+
+(138, 6, 0) ***Random Town***
+Name:
+Schefferville
+
+(40, 84, 0) ***Random Town***
+Name:
+Flagstaff
+
+(60, 46, 0) ***Random Town***
+Name:
+Pierre
+
+(89, 79, 0) ***Random Town***
+Name:
+Columbus
+
+(84, 29, 0) ***Sign***
+Message:
+Willkommen in Kanada, Eh!
+
+(118, 73, 0) ***Random Town***
+Name:
+Richmond
+
+(23, 77, 0) ***Sign***
+Message:
+Wir verlassen jetzt Kalifornien. Bitte nehmen Sie Ihr normales Verhalten wieder auf.
+
+(44, 48, 0) ***Random Town***
+Name:
+Cody
+
+(87, 17, 0) ***Random Town***
+Name:
+Thompson
+
+(66, 133, 0) ***Random Town***
+Name:
+Puebla
+
+(39, 101, 0) ***Random Town***
+Name:
+Nogales
+
+(53, 98, 0) ***Random Town***
+Name:
+Austin
+
+(12, 78, 0) ***Random Town***
+Name:
+Agoura
+
+===== End of file =====

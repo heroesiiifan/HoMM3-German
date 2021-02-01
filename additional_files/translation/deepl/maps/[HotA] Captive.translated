@@ -1,0 +1,23 @@
+===== Map name =====
+Gefangenschaft
+
+===== Map description =====
+Schreckliche Nachrichten! Letzte Nacht wurde eines Eurer Schiffe angegriffen. Der Kapitän des Schiffes wurde gefangen genommen, und die Ladung ging verloren... Euer Hauptziel ist es nun, den armen Kerl zu befreien und die Ware zu finden.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(16, 30, 1) ***Sign***
+Message:
+Katakomben
+
+(13, 4, 1) ***Event***
+Message:
+Es scheint, dass Kreegans hier starke Wachen hinterlassen hat...
+
+===== End of file =====

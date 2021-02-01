@@ -1,0 +1,18 @@
+===== Map name =====
+Thousand Islands (Allies)
+
+===== Map description =====
+An evil wizard has cast a spell that has caused volcanoes to erupt on the islands of Norkko. The people are in a state of panic and no one knows who the evil wizard is. These vicious volcanoes destroy entire towns. Someone must find him and destroy him.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+For many generations the Norkko islands have been a peaceful friendly place to settle. Everything needed was at hand as long as everyone worked together to make these islands a small paradise, until now. On the southern islands Volcanoes are erupting and destroying entire islands. An evil wizard has decided to destroy the islands one by one by casting a spell to summon huge volcanoes. No one knows who this wizard is or what his motives are. The people of Norkko are in a panic and are sending their finest armies out to find and destroy this wicked wizard.  You have been chosen to represent your home island. Your advisor tells you that the volcanoes have hit the southern islands hard and there is not much left of them. You must find this evil wizard and destroy him. No one knows who or what he is. The only thing known about him is he carries two things. The Tome of Earth Magic and the Tome of Fire Magic. This wizard could be anyone so it is safest not to trust anyone. Go forth and save your land!  		 
+
+===== Objects =====
+
+===== End of file =====

@@ -1,0 +1,41 @@
+===== Map name =====
+Die Herausforderung
+
+===== Map description =====
+Der König hat gerade angekündigt, dass er sterben wird.  Da er nur noch etwa 6 Monate leben wird, hat er eine Herausforderung angeboten.  Die erste Person, die das Gralsgebäude in der Hauptstadt Osha errichtet, wird zum Nachfolger des Königs ernannt.  Der Fehdehandschuh ist geworfen worden, sind Sie der Herausforderung gewachsen. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(56, 7, 0) ***Event***
+Message:
+
+
+(64, 47, 0) ***Event***
+Message:
+Eine Gruppe von Goblins kommt auf Sie zu und verlangt eine "Spende" dafür, dass Sie durch ihr Tal gehen.  
+
+(45, 14, 0) ***Sign***
+Message:
+Insel des Goldes	
+
+(59, 28, 0) ***Event***
+Message:
+Sie haben einen vergrabenen Schatz gefunden
+
+(58, 26, 0) ***Sign***
+Message:
+Hier gibt es keine vergrabenen Schätze!
+
+(3, 15, 0) ***Castle***
+Name:
+Osha
+
+(41, 7, 0) ***Event***
+Message:
+Beim Gehen im Sand stößt Ihr Fuß gegen etwas Hartes.  Bei der Inspektion entdeckst Du Gold. Sehr viel Gold. 
+
+===== End of file =====

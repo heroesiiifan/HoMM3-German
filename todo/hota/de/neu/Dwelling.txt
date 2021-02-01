@@ -88,14 +88,14 @@ Orkturm	Der Orkturm dient zur Rekrutierung von Orks.
 Ogerfort	Das Ogerfort dient zur Rekrutierung von Ogern.
 Felsennest	Das Felsennest dient zur Rekrutierung von Rocs.
 Zyklopenhöhle	Die Zyklopenhöhle dient zur Rekrutierung von Zyklopen.
-Behemothhöhle	Die Behemothhöhle dient zur Rekrutierung von Behemothen.
+Behemothfelsen	Der Behemothfelsen dient zur Rekrutierung von Behemothen.
 Aufg. Goblinkaserne	Die Goblinkaserne dient zur Rekrutierung von Hobgoblins.
 Aufg. Wolfspferch	Der Wolfspferch dient zur Rekrutierung von Wolfskriegern.
 Aufg. Orkturm	Der Orkturm dient zur Rekrutierung von Orkführern.
 Aufg. Ogerfort	Das Ogerfort dient zur Rekrutierung von Ogermagiern.
 Aufg. Felsennest	Das Felsennest dient zur Rekrutierung von Donnervögeln.
 Aufg. Zyklopenhöhle	Die Zyklopenhöhle dient zur Rekrutierung von Zyklopenkönigen.
-Aufg. Behemothhöhle	Die Behemothhöhle dient zur Rekrutierung von Ur-Behemothen.
+Aufg. Behemothfelsen	Der Behemothfelsen dient zur Rekrutierung von Ur-Behemothen.
 Gnollhütte	Die Gnollhütte dient zur Rekrutierung von Gnollen.
 Echsenhöhle	Die Echsenhöhle dient zur Rekrutierung von Echsenmenschen.
 Schlangenfliegenstock	Der Schlangenfliegenstock dient zur Rekrutierung von Schlangenfliegen.
@@ -117,12 +117,12 @@ Altar des Feuers	Der Altar des Feuers dient zur Rekrutierung von Feuer-Elementar
 Altar der Erde	Der Altar der Erde dient zur Rekrutierung von Erd-Elementaren.
 Altar der Gedanken	Der Altar der Gedanken dient zur Rekrutierung von Psi-Elementaren.
 Scheiterhaufen	Der Scheiterhaufen dient zur Rekrutierung von Feuervögeln.
-Aufg. Magische Laterne	Der Magische Pool dient zur Rekrutierung von Elfen.
-Aufg. Altar der Luft	Der Donnertempel dient zur Rekrutierung von Sturm-Elementaren.
-Aufg. Altar des Wassers	Der Eistempel dient zur Rekrutierung von Eis-Elementaren.
-Aufg. Altar des Feuers	Der Energietempel dient zur Rekrutierung von Energie-Elementaren.
-Aufg. Altar der Erde	Der Magmatempel dient zur Rekrutierung von Magma-Elementaren.
-Aufg. Altar der Gedanken	Der Magische Tempel dient zur Rekrutierung von Magie-Elementaren.
+Aufg. Magische Laterne	Die Magische Laterne dient zur Rekrutierung von Elfen.
+Aufg. Altar der Luft	Der Altar der Luft dient zur Rekrutierung von Sturm-Elementaren.
+Aufg. Altar des Wassers	Der Altar des Wasser dient zur Rekrutierung von Eis-Elementaren.
+Aufg. Altar des Feuers	Der Altar des Feuers dient zur Rekrutierung von Energie-Elementaren.
+Aufg. Altar der Erde	Der Altar der Erde dient zur Rekrutierung von Magma-Elementaren.
+Aufg. Altar der Gedanken	Der Altar der Gedanken dient zur Rekrutierung von Magie-Elementaren.
 Aufg. Scheiterhaufen	Der Scheiterhaufen dient zur Rekrutierung von Phönixen.
 Stufe 1 Kreaturengenerator	Dient zur Rekrutierung von Stufe 1 Kreaturen.
 Stufe 2 Kreaturengenerator	Dient zur Rekrutierung von Stufe 2 Kreaturen.

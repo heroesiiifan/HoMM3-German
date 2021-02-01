@@ -1,0 +1,28 @@
+===== Map name =====
+Goblins in the Pantry
+
+===== Map description =====
+A goblin village is the key to controlling this region, and you must sway them to your side before your opponents do.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Opening
+Message:
+Here in this land are a great many goblin tribes.  All the tribes in the region, save one, have chosen sides for the coming Festival of Life.  You must convince this last tribe to join your cause.  The problem is that there are three other Barbarian lords trying the same thing.
+
+===== Heroes =====
+
+===== Objects =====
+
+(42, 19, 0) ***Goblin***
+Message:
+Only for the strong shall we bow down.  Defeat us and we shall join you, but you must defeat all of us.
+
+(28, 19, 0) ***Goblin***
+Message:
+We are here to fight.  Are you going to fight or run away in fear?
+
+===== End of file =====

@@ -1,0 +1,252 @@
+===== Map name =====
+Viking We Shall Go! (Verbündete)
+
+===== Map description =====
+Der Ort: Europa Die Zeit: Das dunkle Mittelalter Die Wikinger haben mit ihren Raubzügen begonnen, während die Könige Europas die Gelegenheit nutzen, ihren Nachbarn Land abzunehmen.
+
+===== Rumors =====
+
+Name:
+Nordsee
+Text:
+In der Nordsee, westlich von Eire, soll es einen Friedhof der toten Schiffe geben.
+
+===== Timed events =====
+
+Name:
+Wikinger Eröffnung
+Message:
+Du bist der Jarl der Wikingernation.  Das Brennen in deinem Blut, zu plündern und zu brandschatzen, hat dich eingeholt.  Nun musst du das Land plündern und alle anderen sogenannten Könige vernichten.  Diejenigen, die sich euch widersetzen, werden euch in Walhalla treffen.  Gepriesen sei Odin, der Allvater.
+
+Name:
+Französische Eröffnung
+Message:
+Gerüchten zufolge haben die Nordmänner ihren Vormarsch in die Ländereien wieder aufgenommen.  Jetzt ist die beste Gelegenheit für Sie, Land für Frankreich zu erobern.  Die lästigen Spanier im Süden und die Engländer im Nordwesten werden mit Sicherheit versuchen, Sie aufzuhalten.  Wir müssen besonders vorsichtig sein, wenn wir Land von Italien nehmen, um den Papst nicht zu verärgern.  Vielleicht können wir Seiner Eminenz durch die Einnahme ihres Landes zeigen, dass er verwundbar ist und das Zentrum der Christenheit nach Paris verlegen sollte.  Hmm... eine interessante Idee.		Viva la France!
+
+Name:
+Italienische Eröffnung
+Message:
+Der Papst hat erfahren, dass die Nordmänner mit Überfällen entlang der Küstenlinie begonnen haben und nach Russland vordringen.  Diese Wilden müssen gestoppt werden, und er hat es zum Heiligen Kreuzzug erklärt, dass Sie ihnen das Wort Gottes mit allen notwendigen Mitteln bringen sollen.  Es wird nicht leicht sein, ihre Aufmerksamkeit zu erlangen, aber er hat größtes Vertrauen in Sie.  Gott sei Dank.
+
+Name:
+Spanische Öffnung
+Message:
+Die Nordmänner haben angegriffen und drohen, ihre heidnischen Bräuche in die Welt zu bringen.  Das darf nicht geschehen.  Wenn Ihr sie aufhaltet und dabei einige Gebiete einnehmt, bin ich sicher, dass der Papst überzeugt werden kann, die Mittel zu ignorieren, mit denen wir diese Barbaren aufhalten.  Haltet die Wikinger auf, wenn Ihr könnt, aber nehmt die französischen Ländereien, wie es uns zusteht, weil wir ihre unerträgliche Haltung ertragen haben. Wir sind die Spanier, die mächtigste Nation der Erde.  Wir sollten herrschen.
+
+Name:
+Englische Eröffnung
+Message:
+Die Raubzüge haben wieder einmal begonnen.  Die gefürchteten Nordmänner sind gekommen, um die Küsten Europas erneut zu überfallen, und dieses Mal werden wir nicht tatenlos zusehen, wie die Plünderungen weitergehen.  Nehmt Eure Armeen und zerschlagt die Wikinger-Räuber.  Die Russen haben bereits angeboten, uns dabei zu helfen.		Der französische Minister hat uns mitgeteilt, dass sie keine englischen Armeen auf ihrem Boden dulden und uns den Krieg erklären werden, sollten wir unsere Insel verlassen.  Ich betrachte das als Kriegserklärung, und das werden wir nicht hinnehmen.  Die Spanier sind nicht besser und die Italiener auch nicht.  Sie werden das sicher als Gelegenheit sehen, nach Land zu greifen.  Verteidigen Sie England und fördern Sie ihr Imperium.  Gott schütze die Königin.
+
+Name:
+Der Segen des Papstes - Italien, Frankreich und Spanien
+Message:
+Seine Eminenz, der Papst, sendet Euch seinen Segen für Eure Unterstützung in diesem heiligsten aller Kreuzzüge.
+
+Name:
+Der 13. Tag
+Message:
+Es ist der 13. Tag, seit die Normannen ihre Angriffe auf unsere geliebte Christenheit begannen, und es ist ein schwarzer Tag.  Seine Eminenz, der Papst, ist erkrankt und niemand scheint ihn wiederbeleben zu können.  Das verheißt nichts Gutes.
+
+Name:
+Nachrichten über den Papst
+Message:
+Ich habe gehört, dass der Papst krank geworden ist und im Sterben liegt.  Das wird unsere Feinde dazu veranlassen, noch mehr als sonst untereinander zu streiten.  Jetzt ist es an der Zeit, zuzuschlagen.  Wenn es uns gelingt, Rom zu plündern, werden sich die Christen vor unserem Zorn und unserer Macht fürchten.  Wir müssen den Lehren von Odin und seinem Vater treu bleiben.  Wenn wir erfolgreich sind, wird uns Heimdal vielleicht an der Brücke begrüßen, wenn wir sterben, mit starkem Bier, einem Gruß und vielen schönen jungen Frauen.
+
+Name:
+Thors Zorn
+Message:
+Ein wütender Sturm peitscht das Land und das Meer, und Ihr Schamane sagt Ihnen, dass dies bedeutet, dass Thor Ihnen bei Ihrer Eroberung helfen will.  Machen Sie weiter und erlangen Sie Ehre und viel Ruhm.
+
+Name:
+Ein schrecklicher Sturm
+Message:
+Ein furchtbarer Sturm wütet über das Land und zerstört überall die Ernten.  Hungersnot macht sich breit und die Kosten für die Beseitigung der Toten sind astronomisch.  Vielleicht straft uns Gott selbst.
+
+Name:
+Der Papst verschlimmert sich
+Message:
+Der Zustand des Papstes hat sich verschlechtert, zumindest behaupten das die Gerüchteköche.  Dies ist eine dunkle Zeit, in der wir leben.
+
+Name:
+2 Monate sind verstrichen
+Message:
+Es sind zwei lange Monate vergangen, seit Seine Eminenz in einen fiebrigen Schlummer fiel.  Die Pocken, die in seinem Körper wüten, drohen ihn zu verzehren und ihn zu Gott zurückzuführen.  Die Zeit ist gekommen, in der der Rat der Kardinäle einen Nachfolger wählen muss.  Sobald ein solcher gewählt ist, werdet Ihr alle benachrichtigt werden.
+
+===== Heroes =====
+
+===== Objects =====
+
+(8, 6, 0) ***Tower***
+Name:
+Reykjavik
+
+(84, 34, 0) ***Stronghold***
+Name:
+Oslo
+
+(20, 126, 0) ***Castle***
+Name:
+Granada
+
+(18, 97, 0) ***Castle***
+Name:
+Santiago
+
+(23, 37, 0) ***Rampart***
+Name:
+Dublin
+
+(8, 114, 0) ***Castle***
+Name:
+Lissabon
+
+(23, 111, 0) ***Castle***
+Name:
+Madrid
+
+(105, 129, 0) ***Rampart***
+Name:
+Palermo
+
+(112, 79, 0) ***Castle***
+Name:
+Venedig
+
+(127, 11, 0) ***Stronghold***
+Name:
+Bodin
+
+(69, 99, 0) ***Necropolis***
+Name:
+Nizza
+
+(46, 89, 0) ***Necropolis***
+Name:
+Bordeaux
+
+(112, 54, 0) ***Dungeon***
+Name:
+Warschau
+
+(137, 86, 0) ***Inferno***
+Name:
+Sarajewo
+
+(91, 60, 0) ***Castle***
+Name:
+Berlin
+
+(121, 41, 0) ***Dungeon***
+Name:
+Tallinn
+
+(78, 53, 0) ***Castle***
+Name:
+Hamburg
+
+(61, 78, 0) ***Necropolis***
+Name:
+Paris
+
+(76, 69, 0) ***Castle***
+Name:
+Frankfurt
+
+(87, 82, 0) ***Tower***
+Name:
+Zürich
+
+(110, 105, 0) ***Castle***
+Name:
+Rom
+
+(103, 14, 0) ***Stronghold***
+Name:
+Stockholm
+
+(101, 94, 0) ***Castle***
+Name:
+Genua
+
+(134, 114, 0) ***Rampart***
+Name:
+Tarent
+
+(89, 107, 0) ***Rampart***
+Name:
+Monaco
+
+(74, 87, 0) ***Sign***
+Message:
+Nord bis Paris Süd bis Nizza Ost bis Zürich
+
+(46, 66, 0) ***Necropolis***
+Name:
+Calais
+
+(135, 27, 0) ***Fortress***
+Name:
+Helsinki
+
+(98, 42, 0) ***Tower***
+Name:
+Kopenhagen
+
+(35, 34, 0) ***Rampart***
+Name:
+Glasgow
+
+(35, 54, 0) ***Rampart***
+Name:
+London
+
+(54, 4, 0) ***Sign***
+Message:
+Herzlichen Glückwunsch!  Sie sind am Polarkreis gelandet.
+
+(11, 119, 0) ***Sign***
+Message:
+Jetzt in Portugal.
+
+(34, 101, 0) ***Sign***
+Message:
+Im Norden nach Frankreich.  Im Süden nach Spanien und Portugal.
+
+(75, 74, 0) ***Sign***
+Message:
+Westlich nach Frankreich.  Osten nach Deutschland.
+
+(107, 52, 0) ***Sign***
+Message:
+Willkommen in Nordrussland.  Vorsicht vor Kosaken!
+
+(89, 27, 0) ***Sign***
+Message:
+Willkommen in Norwegen, der Heimat der Wikinger!
+
+(33, 56, 0) ***Sign***
+Message:
+Die Britischen Inseln
+
+(19, 40, 0) ***Sign***
+Message:
+Willkommen auf der Smaragdinsel Irland.
+
+(129, 67, 0) ***Inferno***
+Name:
+Kiew
+
+(141, 47, 0) ***Inferno***
+Name:
+Moskau
+
+(45, 137, 0) ***Castle***
+Name:
+Algier
+
+(18, 135, 0) ***Castle***
+Name:
+Casablanca
+
+===== End of file =====

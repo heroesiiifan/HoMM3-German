@@ -1,0 +1,31 @@
+===== Map name =====
+Fort Noxis
+
+===== Map description =====
+Fort Noxis, Ihr wichtigster Geldbringer, wird belagert!  Verteidigen Sie es lange genug, bis Verstärkung eintrifft (und die Bedrohung ausschaltet), oder verlieren Sie es und geben das Spiel auf.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ereignis des ersten Tages.
+Message:
+Sie müssen Fort Noxis verteidigen, bis Hilfe eintrifft. Ein Berater sagt, dass es für Ihren Untergrundhelden ratsam sein könnte, in der Nähe von Fort Noxis zu bleiben, bis diese Hilfe eintrifft. Viel Glück!
+
+===== Objects =====
+
+(17, 18, 1) ***Random Town***
+Name:
+Fort Noxis
+
+(4, 5, 1) ***Random Town***
+
+Timed events:
+
+Name:
+Extra Gold.
+Message:
+Bürger, die hoffen, ein Stück vom Kuchen abzubekommen, spenden.
+
+===== End of file =====

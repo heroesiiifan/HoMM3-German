@@ -1,0 +1,17 @@
+===== Map name =====
+Ascension
+
+===== Map description =====
+Three Lords, three regions.  Each region is easy to hold, yet difficult to invade.  Do you have what it takes to expand your borders and be rid of your pesky neighbors forever?
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(13, 42, 0) ***Sign***
+Message:
+No Fishing
+
+===== End of file =====

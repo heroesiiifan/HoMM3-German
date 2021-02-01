@@ -1,0 +1,75 @@
+===== Map name =====
+Gelea's Meister
+
+===== Map description =====
+Ihr seid von Warlords aus einer anderen Welt überfallen worden.  Die Zeit ist gekommen, zurückzuschlagen.  Das einzige Problem ist, dass jemand anderes aus Ihrer Welt alles beherrschen will, auch Ihre Welt.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Eröffnungstext
+Message:
+Seit Äonen ist Euer Königreich den Launen und der Gnade der Menschen aus Shadoor ausgeliefert, einer Welt, die Eurer eigenen sehr ähnlich ist, aber mit ganz anderen Empfindlichkeiten.  Sie haben Euer Volk mit nichts als Verachtung behandelt, und Ihr habt genug davon.  Es gibt einen anderen König hier in Gelea, der die Shadoor genauso erobern möchte wie Sie, aber er ist einfach nur auf Eroberung aus.  Sie hingegen wollen schlicht und einfach Rache.  Sie können weder zulassen, dass die Shadoor Sie besiegen, noch können Sie zulassen, dass Ihr Rivale ebenfalls die Macht übernimmt.  Zu diesem Zweck bist du gezwungen, alles zu erobern, sonst lebst du deine Tage als Sklave.  Ein Sklave sollst du nicht länger sein.
+
+Name:
+Geschenke
+Message:
+Um Euch in Eurem Vorhaben zu unterstützen, haben die Menschen beigetragen, was sie konnten.
+
+===== Objects =====
+
+(56, 26, 0) ***Event***
+Message:
+Neben dem Wasser kniend, beten Sie und erhalten einen Segen von den Sprühern des Wassers.
+
+(62, 71, 0) ***Event***
+Message:
+Ein kleines Lager ist zu sehen, das über den einsamen Obelisken zu wachen scheint, der sich auf der Halbinsel im Westen befindet.
+
+(51, 58, 0) ***Event***
+Message:
+Am Rande des Wassers sitzt eine weinende Frau.  Sie erzählt Ihnen eine Geschichte von einem verlorenen Kind und den bösen Entführern, die es gestohlen haben.  Du schwörst Rache und fühlst dich noch wütender über die sinnlose Invasion in deiner Welt.
+
+(51, 10, 0) ***Event***
+Message:
+Die stillen Wasser des Nordmeeres teilen sich kurz, um einen alten Mann anzuspülen.  Lords of Light!!!  Es ist der Vasall Eures Vaters.  Diese bösen Invasoren haben den besten Freund, den Ihr je hattet, erschlagen.  
+
+(38, 15, 0) ***Event***
+Message:
+Als Sie sich der Baumgruppe nähern, springen mehrere bewaffnete Männer heraus und greifen Sie an.  "STEHEN UND LIEFERN!!!", schreit einer.
+
+(12, 51, 0) ***Event***
+Message:
+Während Ihre Armee ihrem Schicksal entgegen marschiert, bemerken Sie eine seltsame Person, die in die gleiche Richtung wie Sie schlurft.  Als Sie fragen, wohin er geht, ignoriert er Sie und murmelt etwas von einer Begegnung mit dem Bösen von Angesicht zu Angesicht.
+
+(22, 25, 0) ***Event***
+Message:
+Halb im Sumpf begraben liegt eine alte königliche Kutsche, die schon eine Weile hier zu stehen scheint.  Du durchsuchst sie und stellst fest, dass sich darin noch eine kleine Menge Gold und Juwelen befinden.  Offensichtlich haben die Diebe, die sie ausgeraubt haben, nicht die Schätze erbeutet, die sie suchten.
+
+(28, 58, 0) ***Event***
+Message:
+In den Felsen verstecken sich mehrere Raufbolde.  Einige von ihnen wollen sich Ihnen anschließen.  Der Rest ist darauf aus, Sie zu kriegen, koste es, was es wolle.
+
+(10, 37, 0) ***Event***
+Message:
+Sie halten an, um Ihre Truppen zu trainieren und finden die Trainingsmanöver recht nützlich.
+
+(53, 52, 0) ***Event***
+Message:
+Sie halten an, um Ihre Truppen zu trainieren, und finden die Trainingsmanöver recht nützlich.
+
+(27, 33, 1) ***Sign***
+Message:
+Mondo's Boote . . . Nur für Mitglieder!
+
+(25, 38, 1) ***Ocean Bottle***
+Message:
+Es gibt einen Strudel, der in eine andere Welt führt.
+
+(2, 4, 1) ***Event***
+Message:
+Als Sie sich dem Strudel nähern, der zurück in Ihre Welt führen sollte, sehen Sie ein Schiff auf den Wellen, das eine Flagge mit einem grinsenden Totenkopf und gekreuzten Schwertern führt.
+
+===== End of file =====

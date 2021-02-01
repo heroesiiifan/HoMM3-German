@@ -1,0 +1,112 @@
+===== Map name =====
+Reclamation (Allies)
+
+===== Map description =====
+Eons ago, three nations were defeated by invaders and driven from their ancestral lands.  The victorious nation has since split into several smaller kingdoms. Now, the ancient peoples of the land are returning to seize back their homelands.  However, you refuse to let them take back what you own.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+intro
+Message:
+Eons ago, three nations were defeated by invaders and driven from their ancestral lands, forced to settle on islands to the South or in the frozen wastes to the North.  The victorious invading nation has since split into several smaller kingdoms, loosely united under the leadership of a counsel of four high kings.		Recently, volcanic eruptions have destroyed the settler's islands.  The settlers are now returning to lay claim to their homeland, to take back the land stolen from their ancestors.  However, the current inhabitants will not budge.  They were not the one's who stole the land, they explain, for all this happened thousands of years ago!  With neither side giving ground to the other, the situation has erupted into war.
+
+===== Heroes =====
+
+===== Objects =====
+
+(14, 38, 0) ***Random Town***
+Name:
+Seattlesburg
+
+(8, 57, 0) ***Random Town***
+Name:
+Redwood
+
+(47, 62, 0) ***Random Town***
+Name:
+Denver
+
+(134, 47, 0) ***Random Town***
+Name:
+Castlerock
+
+(114, 104, 0) ***Random Town***
+Name:
+Fort Pierce
+
+(93, 63, 0) ***Random Town***
+Name:
+Chicago
+
+(47, 20, 0) ***Random Town***
+Name:
+Calgary
+
+(126, 38, 0) ***Random Town***
+Name:
+Quebec
+
+(103, 136, 0) ***Random Town***
+Name:
+Chetumal
+
+(21, 18, 0) ***Random Town***
+Name:
+Vancouver
+
+(138, 6, 0) ***Random Town***
+Name:
+Schefferville
+
+(40, 84, 0) ***Random Town***
+Name:
+Flagstaff
+
+(60, 46, 0) ***Random Town***
+Name:
+Pierre
+
+(89, 79, 0) ***Random Town***
+Name:
+Richmond
+
+(84, 29, 0) ***Sign***
+Message:
+Welcome to Canada, Eh!
+
+(118, 73, 0) ***Random Town***
+Name:
+Richmond
+
+(23, 77, 0) ***Sign***
+Message:
+Now leaving California. Please resume normal behavior.
+
+(44, 48, 0) ***Random Town***
+Name:
+Cody
+
+(87, 17, 0) ***Random Town***
+Name:
+Thompson
+
+(66, 133, 0) ***Random Town***
+Name:
+Puebla
+
+(39, 101, 0) ***Random Town***
+Name:
+Nogales
+
+(53, 98, 0) ***Random Town***
+Name:
+Austin
+
+(12, 78, 0) ***Random Town***
+Name:
+Agoura
+
+===== End of file =====

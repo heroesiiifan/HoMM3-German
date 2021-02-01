@@ -1,0 +1,90 @@
+===== Map name =====
+Gorlam's Tentacle Swampland
+
+===== Map description =====
+Gorlam's Tentacle Swampland has always been resource poor (probably why Gorlam left shortly after arriving).  As one of two newly arrived factions, it is your job to secure all the resources in the region or be forced out.
+
+===== Rumors =====
+
+Name:
+Resource Caches nearby.
+Text:
+Some of the swamp's former inhabitants might have hidden resources in shallow holes around the region.
+
+Name:
+Artifact buried.
+Text:
+A great artifact used in the Lizardman Wars is buried somewhere on one of the "arms" of the tentacles.
+
+===== Timed events =====
+
+Name:
+Message from creditors.
+Message:
+If you cannot secure the resources in the area in three months, your creditors are going to force you out of your castle!
+
+Name:
+Scrounged resources.
+Message:
+Scrounging around the area, you find some wood and ore you can use.
+
+Name:
+Buy a piece of Gorlam's Swampland!
+Message:
+You find a piece of parchment half buried in the swamp about a half-mile from your castle.  It reads, "Why not buy a piece of property that you know will go up in value!  Gorlam will give you his own personal guarantee that the exciting flora and fauna will make the property values go up, and it's mostly safe for the kids too!"		Before reading any further you crumple up and throw away the paper, which is promptly eaten by a giant tree toad.
+
+Name:
+Creditors want some collateral.
+Message:
+Your creditors want some reassurances that they will get their resources.  You can do nothing but comply.
+
+Name:
+In-laws stop over for a visit.
+Message:
+The in-laws stop over for a holiday visit but quickly leave when the smell of putrid garbage and rotting carcasses wafts over the castle.
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 41, 0) ***Hell Hound***
+Message:
+The hounds seem to have a bed of sulfur nearby.
+
+(45, 25, 0) ***Harpy Hag***
+Message:
+The Harpies were living on a nest made of gold.
+
+(20, 8, 0) ***Event***
+Message:
+It looks like the old inhabitance left a small cache of resources buried in a shallow ditch, which you unearth quickly.
+
+(39, 46, 0) ***Event***
+Message:
+Pirates pop out of the sand, steal some of your gold and disappear into the water before anything can be done.
+
+(2, 29, 0) ***Event***
+Message:
+You notice a pair of half buried boots in the sand.
+
+(61, 15, 0) ***Event***
+Message:
+Under a loose pile of dirt you find a cache of resources!
+
+(25, 55, 0) ***Event***
+Message:
+Buried in the sand next to a Gnoll's skeleton, you uncover a flail used by a chieftain in the last Lizardman War.
+
+(31, 29, 0) ***Event***
+Message:
+You spot something sticking slightly out of the bottom of the rock.
+
+(30, 29, 0) ***Vampire***
+Message:
+As the vampires attack it looks like they may be guarding something, but nothing is noticeably visible.
+
+(34, 20, 0) ***Archangel***
+Message:
+One of the angels steps forward and warns, "The forces of good guard this underground gate.  No one shall pass."
+
+===== End of file =====

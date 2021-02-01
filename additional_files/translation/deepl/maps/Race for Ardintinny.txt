@@ -1,0 +1,180 @@
+===== Map name =====
+Race for Ardintinny
+
+===== Map description =====
+You and four other lords covet Medallion Bay, a profitable trade route.  Before your opponents or before six months is up you must take control of Ardintinny, the town controlling Medallion Bay.
+
+===== Rumors =====
+
+Name:
+Gates
+Text:
+There are two Gates to the Underworld.
+
+Name:
+Island
+Text:
+An island only reachable by monolith is the way to Ardintinny.
+
+===== Timed events =====
+
+Name:
+Revolt!
+Message:
+The populace controlling Ardintinny has revolted, hanging Lord Thormis. Now in control of the wealth that flows from Medallion Bay they have set themselves up as an independent state. King Magdor has decreed that the lord who can retake the town can have control of Medallion Bay. 
+
+Name:
+The Quest
+Message:
+You and four other lords are fighting to reach Ardintinny first. According to your spies there are large mountain ranges filled with thick forests surrounding Ardintinny.
+
+Name:
+Exploration
+Message:
+Your advisor suggests that you quickly explore your lands. Recent uprisings and troubles have caused mine production to slow. You should send someone out to get the peasants working hard again. Also, there may be places to recruit more armies for your excursion to Ardintinny.
+
+Name:
+Infestations
+Message:
+Reports have come back of infestations of nasty critters in the area! While you were off at the palace these creatures became bold and moved into your area. How rude!
+
+Name:
+Scouts
+Message:
+Quickly, you send out scouts to find out more about these monoliths. It is always good to know if you need a virginal maiden, a calf, or something else in order to gain access to their powers. You must spend some of your resources to fund this little operation.
+
+Name:
+To the Sea
+Message:
+Discovering there is possibility of treasure on the high seas you send out your fleet of ships to explore around your shores. Visions of heavily laden gold ships swim in your head. You immediately order six new ships built.
+
+Name:
+Wreckage
+Message:
+One ship straggles into port, heavily damaged. They faced heavy winds and horrid weather, both of which dashed the fleet onto the reefs. They did report of a strange whirlpool that brought them to Medallion Bay. Unfortunately there is absolutely no place to land.
+
+Name:
+Where are they?
+Message:
+Your scouts have yet to return, and it shouldn't have taken them this long to return from the monoliths. All they had to do was to discover what the monoliths needed to transport troops. Where could they be?
+
+Name:
+Any day now...
+Message:
+Those scouts should show up any day now...
+
+Name:
+Good news from the Sea
+Message:
+One more of your ill-fated ships has returned to port. This one is laden with precious crystal. It was able to navigate the reefs (barely) and return home. It found a small island to the northwest that had an abundance of crystal. They did not stick around to chat with the locals though.
+
+Name:
+Still no word
+Message:
+The resounding silence from your scouts keeps you from resting peacefully at night.
+
+Name:
+Homecoming
+Message:
+One scout has finally made it home. Unfortunately he lost most of his troops, and all of the money you gave him. "We traveled to the other realms, but never once made it to Ardintinny. It was sheer luck that we were able to come home as well." This is not the good news you were hoping for.
+
+Name:
+Good News
+Message:
+Another scout, and you assume the last, has returned from his long time away from home. He made it to Ardintinny! With luck, and that alone, one can get to a center island that leads to Ardintinny. However, you had better be committed to the task for the way is treacherous and hard.
+
+===== Objects =====
+
+(33, 42, 0) ***Sign***
+Message:
+End of the Road
+
+(50, 28, 0) ***Event***
+Message:
+Warming a freezing old woman she blesses you with good luck for your next battle.
+
+(52, 23, 0) ***Tower***
+Name:
+Masseron
+
+(107, 66, 0) ***Inferno***
+Name:
+Vinsen
+
+(100, 61, 0) ***Sign***
+Message:
+Beware surrounding events.
+
+(100, 60, 0) ***Event***
+Message:
+Being so far from home causes your troops to miss their families.
+
+(100, 62, 0) ***Event***
+Message:
+A group of bandits rush out from no where and steal gold and gems from you!
+
+(101, 61, 0) ***Event***
+Message:
+You lost your lucky rabbit's foot!
+
+(99, 62, 0) ***Event***
+Message:
+Traipsing over an ancient burial ground, the horses do their duty. Your troops lose moral as the horses desecrate this hallowed place.
+
+(113, 124, 0) ***Fortress***
+Name:
+Seranil
+
+(79, 60, 0) ***Ocean Bottle***
+Message:
+
+
+(25, 113, 0) ***Stronghold***
+Name:
+Juntar
+
+(24, 63, 0) ***Castle***
+Name:
+Aberworth
+
+(84, 41, 0) ***Rampart***
+Name:
+Ardintinny
+
+(13, 34, 0) ***Ocean Bottle***
+Message:
+Beware the rocks ahead!
+
+(72, 110, 0) ***Mystic Orb of Mana***
+Message:
+You see a wondrous orb just up ahead. It's power radiates far enough for you to feel it. Unfortunately it's guarded by five Archangels who are using it as a ball in some game. Do you want to try and fight them for it?
+
+(87, 22, 0) ***Event***
+Message:
+Your master always said, "Before traversing into unknown areas it is wise to be well prepared for the possibility of long arduous battles." You have learned through experience that he was right. Maybe it is best to double check your troops, just in case.
+
+(104, 49, 0) ***Event***
+Message:
+Your master always said, "It is best to travel into unknown lands fully prepared." He had that bad habit of being right. It just may be wise to double check the readiness of your troops.
+
+(94, 115, 0) ***Event***
+Message:
+Your old master used to say, "It is best to travel with a well prepared group of troops. No point in winning battles if you lose the war due to lack of foresight." It just may be a wise idea to listen to her words and double check your troops.
+
+(43, 110, 0) ***Event***
+Message:
+All of your life your Father has said, "Go into the unknown prepared." He lived a long and healthy life, mainly because he was prepared for the unexpected. Now wouldn't be a bad time to listen to the old fart.
+
+(60, 97, 0) ***Event***
+Message:
+Your master always said, "Before traversing into unknown areas it is wise to be well prepared for the possibility of long arduous battles." You have learned through experience that he was right. Maybe it is best to double check your troops, just in case.
+
+(93, 128, 1) ***Event***
+Message:
+Your troops miss the sunlight and outdoors. They are losing hope that they will ever go above ground again.
+
+(92, 128, 1) ***Event***
+Message:
+Your troops have begun to miss the daylight and are losing hope.
+
+===== End of file =====

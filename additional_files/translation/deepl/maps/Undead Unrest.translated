@@ -1,0 +1,131 @@
+===== Map name =====
+Untote Unruhen
+
+===== Map description =====
+Viele Untote aus Castle Nightmare sind ausgebrochen und versammeln sich um die "Vampir-Kuhle".  Finden Sie die Kutte, um die Unruhen unter den Untoten zu beenden.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Alptraum 
+Message:
+Der Lord von Castle Nightmare ist ein wenig verärgert über das Verschwinden der "Vampire's Cowl" (ganz zu schweigen von den rebellierenden Untoten).  Wenn er die Kutte zuerst findet, ist alles verloren.
+
+Name:
+Nosferatu geht in den Untergrund.
+Message:
+Ein Tipp aus verlässlicher Quelle besagt, dass ein Nosferatu zuletzt mit dem Umhang gesehen wurde, und dieser bestimmte Nosferatu ist ganz sicher für eine Weile in den Untergrund gegangen (um den greifenden Klauen von Castle Nightmare zu entkommen). 
+
+===== Objects =====
+
+(66, 13, 0) ***Sign***
+Message:
+Mönch-Rückzug ... shhh ... halten Sie den Lärm auf ein Minimum.
+
+(6, 5, 0) ***Sign***
+Message:
+Greifen Sie Aryes. 
+
+(27, 17, 0) ***Skeleton Warrior***
+Message:
+Ihr stoßt auf eine große Gruppe von Skeletten (jeder hält einen Beutel), die von den Söldnern im Lager in Schach gehalten werden...
+
+(6, 6, 0) ***Walking Dead***
+Message:
+Die Zombies scheinen die Greifen hungrig anzustarren.
+
+(66, 14, 0) ***Zombie***
+Message:
+Die Zombies scheinen darauf zu warten, dass die Mönche aus ihrer Gebetsstunde kommen.
+
+(40, 22, 0) ***Power Lich***
+Message:
+Eine kleine Gruppe von Liches (mit Roben, die vor Ressourcen strotzen) scheint die Flagge zu begutachten.
+
+(39, 30, 0) ***Vampire***
+Message:
+Einer dieser Vampire scheint einen schönen Schild zu tragen.
+
+(44, 14, 0) ***Walking Dead***
+Message:
+Arena-Wachen scheinen die Zombies (die Säcke mit irgendetwas tragen) in Schach zu halten.
+
+(63, 4, 0) ***Zombie***
+Message:
+Zombies scheinen vergeblich gegen die Tür zur Universität zu hämmern.
+
+(44, 28, 0) ***Skeleton Warrior***
+Message:
+Eine Horde von Skeletten scheint die Feen um den Ring zu jagen.
+
+(40, 56, 0) ***Walking Dead***
+Message:
+Die Zombies (die Säcke mit irgendetwas in der Hand halten) scheinen hungrig auf die Pferde zu starren.
+
+(9, 4, 0) ***Zombie***
+Message:
+Die Zombies scheinen von 10 stämmigen Halbadiern am Tor festgehalten zu werden (wie man an den vielen herumliegenden Körperteilen erkennen kann).
+
+(32, 34, 0) ***Zombie***
+Message:
+Die Zombies (die Säcke mit irgendetwas tragen) scheinen erfolglos gegen das Tor des Hillforts zu hämmern.
+
+(28, 24, 0) ***Lich***
+Message:
+Eine kleine Gruppe von Liches scheint sich um die Eingangstür der Bibliothek zu scharen, auf einem Schild neben der Tür steht: "Geschlossen wegen Mittagspause, kommt in einer Stunde wieder" 
+
+(34, 6, 0) ***Necropolis***
+Name:
+Alptraum
+
+Timed events:
+
+Name:
+Schwarze Ritter
+Message:
+Schwarze Ritter beschließen, sich niederzulassen und bei dem Untotenproblem zu helfen.
+
+Name:
+Bonus-Ressourcen für Schloss Alptraum.
+Message:
+Castle Nightmare bearbeitet seine Untoten bis auf die Knochen für zusätzliche Ressourcen.
+
+(46, 19, 0) ***Event***
+Message:
+Ein Geisterdrache bricht aus dem Boden hervor und greift an.
+
+(39, 40, 0) ***Skeleton Warrior***
+Message:
+Sie stoßen auf eine große Gruppe von Skeletten (jeder hält einen Beutel), die von den Söldnern im Lager in Schach gehalten werden.
+
+(31, 58, 1) ***Vampire Lord***
+Message:
+Sie bemerken, dass einer der Nosferatu an der Front die Kutte des Vampirs trägt, als der Kampf beginnt.
+
+(44, 14, 1) ***Random Minor Artifact***
+Message:
+Zombies graben sich ihren Weg aus dem Boden, um dieses Artefakt zu bewachen; willst du mit ihnen darum kämpfen?
+
+(21, 20, 1) ***Random Minor Artifact***
+Message:
+Skelette graben sich ihren Weg aus dem Boden, um dieses Artefakt zu bewachen; wollen Sie mit ihnen darum kämpfen?
+
+(34, 17, 1) ***Random Minor Artifact***
+Message:
+Zombies kochen aus dem Boden, um dieses Artefakt zu bewachen; wollen Sie gegen sie darum kämpfen?
+
+(22, 14, 1) ***Vampire***
+Message:
+Die Vampire (die Säcke mit Gold in der Hand) sehen aus, als hätten sie Angst, die Höhle rechts zu betreten.
+
+(52, 8, 1) ***Vampire***
+Message:
+Die Vampire (mit Taschen voller Gold) scheinen zu zögern, die Kaverne links zu betreten.
+
+(45, 1, 1) ***Random Minor Artifact***
+Message:
+Skelette krallen sich aus dem Boden; wollen Sie gegen sie um das Artefakt kämpfen?
+
+===== End of file =====

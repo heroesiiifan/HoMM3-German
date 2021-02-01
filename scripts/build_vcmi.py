@@ -14,6 +14,9 @@ zipObj.write(os.path.join("additional_files/vcmi", "mod.json"), arcname=os.path.
 for filename in os.listdir("additional_files/vcmi/config"):
     zipObj.write(os.path.join("additional_files/vcmi/config", filename), arcname=os.path.join("content/config", filename))
 
+if os.environ["DEEPL_TRANSLATION"]:
+    for filename in os.listdir("additional_files/translation/deepl/maps/out"):
+        if not filename.startswith("[") and filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("content/maps", filename))
 for filename in os.listdir("homm3_files/RoE_de/Maindisk/Maps"):
     zipObj.write(os.path.join("homm3_files/RoE_de/Maindisk/Maps", filename), arcname=os.path.join("content/maps", filename))
 for filename in os.listdir("additional_files/translation/campaign/extra"):

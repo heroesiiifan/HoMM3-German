@@ -1,0 +1,39 @@
+===== Map name =====
+Perfect Equality
+
+===== Map description =====
+The plot is as old as the world – a dying king told four sons to find a worthy successor in a fair fight. The kingdom is great, and the king was able to give a fair piece of land to every son, so that there would be no unfair advantage. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(14, 61, 0) ***Seer's Hut***
+Message:
+You come to a small dwelling, built directly within an old but still quite mighty tree. In the bottom window a dim light was burning – apparently a candlestick was the only way to illuminate the house. While you were gathering your thoughts whether to come and knock on the door or not, it opened by itself and an old man stepped outside.		An old warrior lives here. He will be ready to teach you some tricks, but you must be worthy. Return when you have at least 32 attack and 14 defense.
+The old man refuses to speak until you are strong enough.
+The old man looks excited and proud of you. He grants you his knowledge.
+
+(52, 39, 0) ***Seer's Hut***
+Message:
+You enter a small house, which appears to be a library. You randomly take a book from the shelf, but fail to understand the strange writings in it. Perhaps, possession of 32 knowledge and 14 power will grant you the knowledge of these pages.
+You know that at the current time the library is a waste of time. You need more knowledge and power.
+You come in the library, and are finally able to understand what the books are about. You learn a lot in your short time here.
+
+(31, 16, 0) ***Seer's Hut***
+Message:
+You notice a small house on the outskirts of the forest. You decide to check what’s inside. You meet a mage, who is willing to grant you great power for 32 power and 14 knowledge.
+You try to open the door again, but you see the 32 and 14 numbers appearing on it. You walk away.
+You are potent enough, and the mage grants you some of his power.
+
+(50, 22, 0) ***Seer's Hut***
+Message:
+A few steps from the house, an arrow hits the ground under your legs.		"Protection - 32 points and attack - 14 points. Don’t dare to come closer without these stats."
+You avoid the small house, as you know you are not yet prepared.
+You are approaching the house, knowing that you are ready. Inside, a man welcomes you. He offers his powers to train you in the arts of defense.
+
+===== End of file =====

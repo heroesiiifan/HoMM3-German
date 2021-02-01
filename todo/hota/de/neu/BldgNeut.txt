@@ -3,7 +3,7 @@ Magiergilde Stufe 2	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten
 Magiergilde Stufe 3	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten Zaubersprüche zu lernen. 
 Magiergilde Stufe 4	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten Zaubersprüche zu lernen. 
 Magiergilde Stufe 5	Die Magiergilde erlaubt Euren Helden, die darin aufbewahrten Zaubersprüche zu lernen. 
-Taverne	Die Taverne steigert die Moral der Truppen, die die Stadt verteidigen.
+Taverne	In der Taverne können Sie Helden anheuern, den neuesten Klatsch hören und die Diebesgilde besuchen. Es erhöht auch die Moral für Truppen, die die Stadt verteidigen.
 Schiffswerft	Die Schiffswerft erlaubt Euch Schiffe zu kaufen.
 Fort	Das Fort beschützt Eure Stadt mit defensiven Mauern. 
 Zitadelle	Die Zitadelle fügt der Verteidigung einer Stadt einen Geschützturm und erhöht das Wachstum der Kreaturen um 50%.

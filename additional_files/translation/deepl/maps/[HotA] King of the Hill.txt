@@ -1,0 +1,39 @@
+===== Map name =====
+King of the Hill
+
+===== Map description =====
+The hatred of eight lords, like volcano, is about to erupt towards each other in a bloody war. It will get hot soon!
+
+===== Rumors =====
+
+Name:
+Panic
+Text:
+No matter who will win. The volcano will erupt any moment and the flow of molten lava will destroy both the winners and the losers.
+
+Name:
+Panic 2
+Text:
+We'll gonna all die!
+
+===== Timed events =====
+
+Name:
+open
+Message:
+You are trembling. Either from anger, or from the actual earthquake. Those seven scoundrels, those bastards! They will pay! Your revenge will be like a firestorm. With these thoughts you ordered the standard-bearer to raise the flag of your color. The march has begun! Scarlet glow is seen far away on top of the mountain.
+
+Name:
+open2
+Message:
+The glow has densed on the horizon. Furthermore, the air has been filled with smallest ash particles. The mighty volcano is erupting. The castles of your enemies are standing at its side. The legend tells that deep inside there is a Heart city. The one controlling that city will be able to control the volcano's power. You grinned with your yellowed teeth and spurred your horse.
+
+===== Heroes =====
+
+===== Objects =====
+
+(17, 17, 1) ***Inferno***
+Name:
+Heart
+
+===== End of file =====

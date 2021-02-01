@@ -1,0 +1,25 @@
+===== Map name =====
+Merchant Princes (Allies)
+
+===== Map description =====
+A clash over the prices of resources results in a war of the merchant class.  Money truly may be the root of all evil.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Opening
+Message:
+You and your ally cannot take incessant whining of your fellow merchants any more, and you feel the need to silence them.  Removing the competition will not only stabilize prices but also give your tender ears a rest from the constant bickering.  You do not feel guilt over your decision, for your god is the almighty gold coin.
+
+Name:
+Day of Reckoning
+Message:
+Today is the Day of Reckoning.  All merchants must pay their fair share of goods and monies to the Guild, as is tradition.  So sayeth the Tax Collector General.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

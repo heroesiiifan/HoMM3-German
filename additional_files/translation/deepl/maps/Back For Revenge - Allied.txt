@@ -1,0 +1,210 @@
+===== Map name =====
+Back for Revenge (Allies)
+
+===== Map description =====
+Rumor has it thousands of years ago the last of the Behemoths went into the mountains to hide from hunters and trappers.   Now the Behemoths have come for their revenge.  The villages around the mountains need your help killing the ancient beasts.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Thousands of years ago Behemoths were hunted for their hide.  Their hide was, and still is to this day, highly valued.   The people loved Behemoth hides so much that Behemoths nearly became extinct.  The remaining Behemoths ran into the mountains and were never seen again.  Most people actually believed the Behemoths were extinct until the other day when they began terrorizing the land around their mountains.  The villagers need your help in defeating the ancient Behemoths, which must come within five months or the Behemoths will completely destroy all the villages in the area.
+
+Name:
+The Beginning
+Message:
+Until now the Behemoths have been lying low.  Word has reached you that not only are the Behemoths' attacks becoming more frequent, but they are coming down from the mountains in impossible numbers.  Not knowing what the king wants, you have decided to send some messengers to him, hoping he will have an idea of what to do. 
+
+Name:
+Breaking Camp
+Message:
+Just a little while after dawn you break camp.  It wasn't long after you started out that you could hear a rider coming.  He bursts through the trees and comes to a halt right in front of you, handing over a message.  Opening the message, you read, "Two more towns have been destroyed.  You must hurry and find those Behemoths because they are destroying the land.  I don't care how it's done or who you have to go through to get them.  They are smarter than they look: every time they attack a town our scouts follow them only to come to a dead end.  We are fighting an enemy we can't catch.  Please, hurry!"  	   You quickly pen your reply and give it to the messenger.  You then order a soldier to give him several fresh mounts, and with that he is gone.
+
+Name:
+Border gate
+Message:
+It is all becoming clear now.  The whole reason the Behemoths are able to disappear from the scouts is because they are running through border gates that your men can't penetrate.  Finally you are getting somewhere.  Not wanting to leave the king out of the loop, you quickly write a letter on what you have found and send a messenger on his way.
+
+Name:
+Tax
+Message:
+Your tax collectors have collected taxes and added the money to your treasury.
+
+===== Heroes =====
+
+===== Objects =====
+
+(105, 5, 0) ***Inferno***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(14, 25, 0) ***Inferno***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(6, 95, 0) ***Castle***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(21, 111, 0) ***Event***
+Message:
+In a clearing not far from the Freelancer's Guild you find a skeleton.  In the skeleton's bony hand you see a spell book.  Knowing the skeleton isn't going to use the book, you take it for yourself but you do feel kind of guilty. 
+
+(138, 24, 0) ***Fortress***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(109, 139, 0) ***Fortress***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(74, 140, 0) ***Castle***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(99, 54, 0) ***Event***
+Message:
+We heard about your effort to defeat the ancient beasts and have decided to join your cause.
+
+(98, 54, 0) ***Event***
+Message:
+We heard about your effort to defeat the ancient beasts and have decided to join your cause.
+
+(97, 54, 0) ***Event***
+Message:
+We heard about your effort to defeat the ancient beasts and have decided to join your cause.
+
+(95, 54, 0) ***Event***
+Message:
+We heard about your effort to defeat the ancient beasts and have decided to join your cause.
+
+(126, 5, 0) ***Tower***
+
+Timed events:
+
+Name:
+Upgrade
+Message:
+The people of the town are extremely happy with your leadership.  They have decided to help you in your quest.
+
+Name:
+comp
+Message:
+a
+
+(111, 38, 0) ***Necropolis***
+
+Timed events:
+
+Name:
+Upgrade
+Message:
+The people of this town are so happy to have you as their leader, and they have decided to help you in your quest to defeat the ancient beasts.
+
+Name:
+Comp Creatures
+Message:
+a
+
+(48, 85, 0) ***Castle***
+
+Timed events:
+
+Name:
+Upgrade
+Message:
+The people of this town are very happy to have you as their leader, and they have decided to help you in your quest to defeat the ancient beasts.
+
+Name:
+Comp
+Message:
+a
+
+(91, 51, 0) ***Ancient Behemoth***
+Message:
+As you prepare your men to charge at the many beasts. one Behemoth comes forward.  In a clear and loud voice he says, "We have been hunted for too long now.  For centuries our skins have been taken and sold among your people.  That time is over now, for today you DIE. "	And with that, they charge.
+
+(115, 50, 0) ***Event***
+Message:
+You stop your troops not too far from the gate ahead of you, allowing them a little rest for the upcoming battle.  As you bring the wineskin to your mouth the air in front of you starts to shimmer.  Your sword is out and you slice at the image with amazing speed, yet your sword goes right through the image.  Realizing this is just an illusion, you wait patiently for the image to go away.  Then just before the image leaves, it speaks.  "Be warned.  This is not a place for the living. "  Just as suddenly as it came, the image disappears.
+
+(113, 49, 0) ***Event***
+Message:
+You are quick to move your troops out and through the gate.  The battle went well.  Not much was lost, fortunately.  Just as you tell your troops it's time to move out, the air in front of you starts to shimmer once more.  Once again it is the same skull, and once again it speaks to you.  Knowing that illusions can't hurt you, you wait patiently for it to leave.	   "I have warned you once but you didn't listen.  Now you will pay!" 	The next thing you know, you are surrounded by Ghost Dragons.
+
+(124, 7, 0) ***Event***
+Message:
+Standing on the road that was clear five minutes ago, you look straight ahead and see hundreds of Gremlins come out of the trees, all chanting in unison, "Stay away from our castle."
+
+(123, 8, 0) ***Sign***
+Message:
+Gremlin Crossing
+
+(104, 120, 0) ***Sign***
+Message:
+Welcome to Crystal Isle.  Please enjoy your stay.
+
+(86, 55, 0) ***Event***
+Message:
+As you hike through the mountains you take a moment to look at your surroundings.  Bones and half-eaten... things... lay around all over.  You are getting closer to the Behemoths; you can feel it.
+
+(99, 56, 0) ***Event***
+Message:
+As you near the last of the gates you and your soldiers stop and listen to what sounds like thunder.  Thunder?  On a clear day?  This makes little sense.  Knowing you can't turn back now, you decide to muster your troops and press on towards you destiny.
+
+(92, 52, 0) ***Event***
+Message:
+As you crest the top of a small hill you can hear the thunder get louder and louder.  Then suddenly it strikes you.  It isn't thunder that you are hearing but the roar of hundreds and hundreds of Behemoths.  This might be a little tougher than you had anticipated.
+
+(21, 51, 0) ***Rampart***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+(107, 98, 0) ***Rampart***
+
+Timed events:
+
+Name:
+comp
+Message:
+a
+
+===== End of file =====

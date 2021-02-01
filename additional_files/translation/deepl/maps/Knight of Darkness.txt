@@ -1,0 +1,18 @@
+===== Map name =====
+Knight of Darkness
+
+===== Map description =====
+A terrible necromancer rules over this land and the Queen has charged you to destroy him.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+There is a terrible necromancer terrorizing this region.  The Queen has charged you with destroying this menace.  He is powerful so you will need to gather your forces carefully.  
+
+===== Objects =====
+
+===== End of file =====

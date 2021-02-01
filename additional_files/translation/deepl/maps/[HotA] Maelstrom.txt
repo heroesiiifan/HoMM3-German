@@ -1,0 +1,690 @@
+===== Map name =====
+Maelstrom
+
+===== Map description =====
+No one can predict which side the wheel of fortune turns. Try your luck, warrior, in the lands that may want you to abandon your home forever. Advance in the lands where nothing is permanent!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Hard bonus
+Message:
+
+
+Name:
+Golden present
+Message:
+
+
+Name:
+Golden Present X
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(3, 104, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(67, 47, 0) ***Random Town***
+
+Timed events:
+
+Name:
+First week gift
+Message:
+
+
+Name:
+Second week gift
+Message:
+
+
+Name:
+Third week gift
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon 2
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(49, 92, 0) ***Random Town***
+
+Timed events:
+
+Name:
+First week gift
+Message:
+
+
+Name:
+Second week gift
+Message:
+
+
+Name:
+Third week gift
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon 2
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(11, 71, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(24, 63, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Third week gift
+Message:
+
+
+Name:
+Second week gift
+Message:
+
+
+Name:
+First week gift
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon 2
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(103, 5, 0) ***Random Town***
+
+Timed events:
+
+Name:
+First week gift
+Message:
+
+
+Name:
+Second week gift
+Message:
+
+
+Name:
+Third week gift
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+comp first mon 2
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(32, 40, 0) ***Random Town***
+
+Timed events:
+
+Name:
+First week gift
+Message:
+
+
+Name:
+Second week gift
+Message:
+
+
+Name:
+Third week gift
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon 2
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(13, 17, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(104, 95, 0) ***Random Town***
+
+Timed events:
+
+Name:
+First week gift
+Message:
+
+
+Name:
+Second week gift
+Message:
+
+
+Name:
+Third week gift
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon 2
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(0, 71, 0) ***Pandora's Box***
+Message:
+
+
+(106, 106, 0) ***Pandora's Box***
+Message:
+
+
+(91, 8, 0) ***Pandora's Box***
+Message:
+
+
+(56, 78, 0) ***Pandora's Box***
+Message:
+
+
+(33, 96, 0) ***Pandora's Box***
+Message:
+
+
+(33, 84, 0) ***Pandora's Box***
+Message:
+
+
+(81, 19, 0) ***Pandora's Box***
+Message:
+
+
+(77, 65, 0) ***Pandora's Box***
+Message:
+
+
+(43, 37, 0) ***Pandora's Box***
+Message:
+
+
+(0, 44, 0) ***Pandora's Box***
+Message:
+
+
+(86, 24, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(46, 4, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(102, 55, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Bonus
+Message:
+
+
+Name:
+Month gift
+Message:
+
+
+Name:
+Month comp
+Message:
+
+
+Name:
+Build Comp
+Message:
+
+
+Name:
+Comp first mon
+Message:
+
+
+Name:
+comp build
+Message:
+
+
+Name:
+Second week comp
+Message:
+
+
+Name:
+Fourth week comp
+Message:
+
+
+(35, 5, 0) ***Pandora's Box***
+Message:
+
+
+(88, 75, 0) ***Pandora's Box***
+Message:
+
+
+(19, 27, 1) ***Event***
+Message:
+
+
+(57, 66, 1) ***Event***
+Message:
+
+
+(92, 67, 1) ***Event***
+Message:
+
+
+(52, 17, 1) ***Event***
+Message:
+
+
+(53, 41, 1) ***Event***
+Message:
+
+
+(23, 62, 1) ***Event***
+Message:
+
+
+===== End of file =====

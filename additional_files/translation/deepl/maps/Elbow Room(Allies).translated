@@ -1,0 +1,90 @@
+===== Map name =====
+Ellbogenraum (Verbündete)
+
+===== Map description =====
+Die Welt ist nicht groß genug für uns alle. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Es scheint, als ob Sie jeden Tag in einen Streit mit Ihrem Nachbarn geraten.  Nach einer kurzen Rücksichtnahme auf Ihre Leute haben Sie entschieden, dass Sie den Streit leid sind.  Jetzt sterben sie. 
+
+===== Objects =====
+
+(31, 32, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zeugs
+Message:
+Als Sie aufwachen, geben Ihnen Ihre Scouts, was sie die Woche über gesammelt haben
+
+(3, 32, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zeugs
+Message:
+Wenn du aufwachst, geben dir deine Scouts, was sie die Woche über gesammelt haben
+
+(31, 5, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Sachen
+Message:
+Wenn Sie aufwachen, geben Ihnen Ihre Scouts, was sie die Woche über gesammelt haben
+
+(3, 19, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zeugs
+Message:
+Wenn du aufwachst, geben dir deine Scouts, was sie die Woche über gesammelt haben
+
+(17, 6, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zeugs
+Message:
+Wenn du aufwachst, geben dir deine Scouts, was sie die Woche über gesammelt haben
+
+(31, 19, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Sachen
+Message:
+Wenn Sie aufwachen, geben Ihnen Ihre Scouts, was sie die Woche über gesammelt haben
+
+(18, 32, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zeugs
+Message:
+Wenn du aufwachst, geben dir deine Scouts, was sie die Woche über gesammelt haben
+
+(2, 5, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zeugs
+Message:
+Wenn du aufwachst, geben dir deine Scouts, was sie die Woche über gesammelt haben
+
+===== End of file =====

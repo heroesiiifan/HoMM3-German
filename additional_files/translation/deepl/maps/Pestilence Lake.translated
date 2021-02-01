@@ -1,0 +1,178 @@
+===== Map name =====
+See der Pestilenz
+
+===== Map description =====
+Der Pestilenz-See liegt in einem Tal tief in einer ahnungsvollen Bergkette.  Sie haben die Abwesenheit von Nachbarn immer als Vorteil Ihres Standorts empfunden.  Vor kurzem sind mehrere Lords in die Gegend gezogen.  Nun versuchen sie, Sie zu verdrängen.  Sie planen, sie stattdessen zu vertreiben!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Sie sind ursprünglich nach Pestilence Lake gezogen, um dem Rest der Welt zu entkommen.  Vor einigen Monaten entdeckten Sie zu Ihrem Ärger, dass Sie einen neuen Nachbarn hatten.  Sie haben Ihren neuen Nachbarn ignoriert, in der Hoffnung, er würde auch Sie ignorieren.  Letzte Woche haben Ihre Späher Ihnen dann mitgeteilt, dass ein weiterer Herr in die Gegend gezogen ist.  Ihre Späher fanden auch heraus, dass Ihre beiden neuen Nachbarn Armeen für den Krieg aufstellen.  Sie wollen also Krieg!  Du wirst beide aus den Bergen vertreiben und deinen Frieden und deine Ruhe zurückgewinnen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(91, 14, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliche Einnahmen
+Message:
+
+
+Name:
+Zusätzliche Kreaturen
+Message:
+
+
+(62, 14, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus
+Message:
+
+
+Name:
+Magier-Gilde
+Message:
+
+
+Name:
+Schmied
+Message:
+
+
+Name:
+Marktplatz
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliche Einnahmen
+Message:
+
+
+Name:
+Zusätzliche Kreaturen
+Message:
+
+
+(92, 40, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus
+Message:
+
+
+Name:
+Zitadelle
+Message:
+
+
+Name:
+Hortgebäude
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+Name:
+Zusätzliche Kreaturen
+Message:
+
+
+(35, 13, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliche Einnahmen
+Message:
+
+
+Name:
+Zusätzliche Kreaturen
+Message:
+
+
+(68, 35, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+(53, 69, 0) ***Sign***
+Message:
+Pestilenzsee Trinken Sie das Wasser nicht.
+
+(67, 54, 0) ***Sign***
+Message:
+Pestilenzsee Trinken Sie das Wasser nicht.
+
+(41, 55, 0) ***Sign***
+Message:
+Pestilenz-See Trinken Sie das Wasser nicht.
+
+(48, 44, 0) ***Sign***
+Message:
+Pestilenz-See Trinken Sie das Wasser nicht.
+
+(76, 13, 0) ***Event***
+Message:
+Die Magischen Ebenen geben dir einen besonderen Vorteil!
+
+(92, 27, 0) ***Event***
+Message:
+Die Magischen Ebenen geben dir einen besonderen Vorteil!
+
+(41, 10, 0) ***Event***
+Message:
+Die Magischen Ebenen gewähren Ihnen einen besonderen Vorteil!
+
+===== End of file =====

@@ -40,8 +40,8 @@ Keine
 Hohe Moral erlaubt der %s-Einheit erneut anzugreifen.
 Niedrige Moral lässt %s vor Furcht erstarren.
 Macht Platz für die %s in Eurer Armee.
-Angriff %s (%s Schaden)
-Schuss %s (1 Schuss übrig, %s Schaden)
+Angriff %s (Schaden: %s)
+Schuss %s (1 Schuss übrig, Schaden: %s)
 Kampagnenbeschreibung
 %s ist aktiv.
 Sitzungsname
@@ -79,7 +79,7 @@ Ping=%dms
 "Seid Ihr sicher, dass Ihr ein neues Spiel laden wollt?
 (Euer jetziges Spiel geht verloren)"
 Seid Ihr sicher, dass Ihr beenden wollt?
-Dimensionstor hat versagt! 
+Sie können sich mit einer Dimensionstür nicht vom Meer an Land oder umgekehrt teleportieren. 
 Wählt einen Anfangsbonus:
 ping
  %s anpingen…
@@ -116,7 +116,7 @@ Chaos.mp2
 {Zufälliger Held}
 Ein Anfangsheld wird zufällig aus den Klassen, die in der angezeigten Anfangsstadt vorkommen, ausgesucht.
 {Zufällige Stadt}
-Eure Anfangsstadt wird zufällig aus acht verschiedenen Stadttypen ausgesucht.
+Eure Anfangsstadt wird zufällig ausgesucht.
 %s kapituliert und erhält freien Abzug für %d Gold.
 "Die Heroes III: %s CD-ROM wurde nicht gefunden!
 
@@ -175,7 +175,7 @@ Durch die dunkle Kunst der Totenbeschworung kann Euer Held einen Feind von den T
 
 Zauberpunkte werden benötigt, um Zaubersprüche auszusprechen. Die Höchstzahl an Zauberpunkten ist 10 mal Euer Wissen. Wegen besonderer Ereignisse oder Orte ist es hin und wieder möglich, mehr als diese Höchstzahl zu haben."
 Digitaler Sound ist auf diesem System im Moment nicht verfügbar.
-Balliste
+Artillerie-Maschine
 Euer Rucksack ist voll.
 In eurem Rucksack kann so etwas Großes (%s) nicht verstaut werden.
 "
@@ -346,7 +346,7 @@ Glückwunsch! Ihr habt Euer Ziel mit der wertvolllen Ladung heil erreicht und gew
 Der Feind hat die wertvolle Ladung heil abgeliefert und gewinnt!
 %s hierher bewegen.
 %s hierher fliegen.
-Schuss %s (%d Schuss übrig, %s Schaden)
+Schuss %s (%d Schuss übrig, Schaden: %s)
 %s Info ansehen
 Keine Schüsse übrig!
 %s wiederbeleben
@@ -365,7 +365,7 @@ Eure Streitkräfte kapitulieren vor dem Feind und müssen schmachvoll abziehen.
 Eure feigen Sreitkräfte fliehen aus der Schlacht.
 Eure Streitkräfte erleiden eine bittere Niederlage.
 Das Katapult muss geladen werden.
-Diese Kreatur wurde bereits aufgerüstet.
+Diese Kreatur kann hier nicht aufgerüstet werden.
 Ihr könnt Euch die Aufrüstung dieser Kreatur nicht leisten.
 Alle Kreaturen sind bereits aufgerüstet.
 Ihr könnt Euch die Aufrüstung aller Kreaturen nicht leisten.
@@ -519,9 +519,9 @@ Gesamt punktzahl
 
 Beispiel:
 
-HEROES3 /S0 /I0
+h3hota /S0 /I0
 
-Startet Heroes III ohne Sound und ohne Intro.
+Startet Heroes III: HotA ohne Sound und ohne Intro.
 "
 %s hat eine höhere Stufe erreicht.
 %s ist nun: Stufe %d, %s.
@@ -621,7 +621,7 @@ Ihr müsst Euch positionieren, bevor Ihr das Spiel starten könnt.
 Chat verbergen
 Chat anzeigen
 Host bereitet Spielstart vor...
-Kann Datei nicht öffnen - Video.vid
+Fehler beim öffnen der Datei - Video.vid
 Video-Datei Fehler!
 %s' hindert %s daran, Zaubersprüche der 3. Stufe oder höher zu verwenden.
 Winde vom 'Verfluchten Boden' aus der Umgebeung hindern Euren Helden daran, Zaubersprüche einer anderen Stufe als Stufe 1 auszusprechen
@@ -754,7 +754,7 @@ Glückwunsch! All Eure Feinde sind besiegt! Der Sieg ist Euer!
 Alle Eure Streitmächte sind besiegt und Ihr werdet aus dem Land verbannt!
 Szenario-Information
 ESC drücken, um Einzelspieler-Modus abzubrechen
-Kann Datei nicht öffnen - Heroes3.snd
+Fehler beim öffnen der Datei - Heroes3.snd
 Fehler in Sound Datei!
 Entschuldigt, Eure Version #%s ist nicht kompatibel mit der Host-Version #%s. Ihr könnt nicht an diesem Spiel teilnehmen.
 "Das zurücksetzen der High Scores wird alles, was Ihr erreicht habt, löschen.
@@ -843,11 +843,11 @@ Um Heroes III: %s zu spielen, benötigen Sie die %s CD.
 Für die Teilnahme an einem Multiplayerspiel, das von einem anderen Spieler gehostet wird, wird keine CD benötigt und Sie können fortfahren.
 
 Wenn Sie ein Einzelszenario oder eine Kampagne spielen möchten, beenden Sie das Spiel, legen Sie die %s CD ein und starten Sie %s neu."
-Der Host generiert eine Zufallskarte...
+Der Host generiert eine Zufallskarte
 Zauberspruch abgebrochen
 Ihr besitzt alle Komponenten, um %s zusammen zu setzen. Möchtet Ihr das Artefakt zusammen setzen?
 Möchtet Ihr dieses Artefakt zerlegen?
-Shadow of Death-Kampagne auswählen
+Horn of the Abyss-Kampagne auswählen
 Zauberin
 Yog hat die Magie in allen Formen aufgegeben. Seine Kenntnisse der Kriegskunst und der Taktik müssen ausreichen, um ihn durch den Rest seines Lebens zu bringen.
 Glückwunsch, Ihr habt die drei benötigten Teile von den barbarischen Brüdern zurück erlangt.

@@ -1,0 +1,208 @@
+===== Map name =====
+Feen!
+
+===== Map description =====
+Die Elfen sind schwach und brauchen deine Art der Führung... hart und grausam.  Versammle deine Truppen und töte sie alle.
+
+===== Rumors =====
+
+Name:
+Essen-Witz
+Text:
+Es gibt nur eine Art, eine Fee zu essen. . gebraten mit ein paar gegrillten Zwiebeln, vielleicht etwas Cayennepfeffer.
+
+Name:
+Witz
+Text:
+Was bekommt man, wenn man einen kleinen Hund mit einer Fee kreuzt?  Einen Chihuownie!
+
+Name:
+Flüstert
+Text:
+Das Flüstern im Wind erzählt von einem großen Artefaktversteck im eisigen Norden.
+
+===== Timed events =====
+
+Name:
+Eröffnungs-Text
+Message:
+Das abgeschiedene Land der Elfen ist schwach und braucht deine Art der Führung ... hart und grausam.  Sie sitzen hinter ihren Bergen und Wäldern und verhöhnen dich.  Durchquere die Länder und versammle deine dunkle Horde.  Zerquetsche diese dreckigen, faulen Elfen unter deinem Stiefel!  Lasst keinen Elfen mehr das Licht der Welt erblicken!
+
+Name:
+Pixie Unruhestifter
+Message:
+Eine Elfe fliegt auf und wirft dir eine faule Tomate ins Gesicht und fliegt dann lachend davon.  Du packst sie fest und drückst zu, so dass ihre kleinen Augen aus ihrem Kopf springen.  Knurrend stapfen Sie davon, um Ihren Feldzug fortzusetzen.
+
+Name:
+Feen-Mooning-Nachricht
+Message:
+Die Feenkönigin schickt dir eine Nachricht.  Sie lautet "Nyah Nyah!" und zeigt eine Kohlezeichnung einer Fee, die dich mit dem Mond bescheint.
+
+Name:
+Kinder stehlen Essen
+Message:
+Mehrere Elfenkinder schleichen sich in deine Zitadelle und stehlen etwas Essen und ein paar Münzen.
+
+Name:
+Konfetti-Bombe
+Message:
+Ein Paket wird geliefert, das vor Ihren Augen explodiert und Sie und Ihren Thronsaal in buntes Konfetti hüllt.
+
+Name:
+Zwerg
+Message:
+Ein Zwerg wird gefangen genommen, als er sich in die Burg schleicht.  Er erwähnt, dass Überraschungen auf Sie warten, wenn Sie deren Hauptburgen angreifen.
+
+Name:
+Kaninchenkiste
+Message:
+Ein Händler kommt mit mehreren großen Kisten in seinem Wagen in die Stadt.  Nachdem er sich niedergelassen hat, öffnen sich die Kisten und heraus kommen Hunderte von süßen kleinen rosa und weißen Häschen.  Der Schaden, der durch das Einfangen dieser Hasen entsteht, ist atemberaubend.
+
+Name:
+Astral-Zauberer
+Message:
+Während Sie in Ihrem Thronsaal sitzen und eine Tasse heiße Lava genießen, werden Sie von der Erscheinung eines Zauberers gestört, der sich offensichtlich auf der Astralebene befindet.  Er beginnt zu versuchen, Sie dazu zu bringen, Ihr Verhalten zu ändern.  Mit einem einfachen Zauberspruch reißen Sie ihn aus dem Äther, reißen ihm das Herz aus dem Brustkorb und essen es langsam auf.
+
+Name:
+Das Böse stinkt! banner
+Message:
+Die Feenkönigin schickt Ihnen ein Banner mit der Aufschrift "Das Böse stinkt!"
+
+Name:
+Es regnet
+Message:
+Es beginnt zu regnen ... nur auf Sie!
+
+Name:
+Der Regen hört auf, die Rosenblüten beginnen
+Message:
+Es hört auf zu regnen, aber jetzt fallen Ihnen spontan Rosenblätter in den Weg, wo immer Sie gehen.  Wie eklig.
+
+Name:
+Blütenblätter Stop
+Message:
+Heute Morgen hörten plötzlich die Rosenblätter auf, beim Gehen zu Ihren Füßen zu fallen, was wunderbar war.  Endlich können Sie wieder in Ihr tristes Leben zurückkehren, das von wundersamer Bosheit geprägt ist.  
+
+===== Objects =====
+
+(2, 35, 0) ***Familiar***
+Message:
+"Howdy Boss.  Wo melden wir uns an?  Wir wollen den Feen in den Hintern treten, wenn du uns führst."
+
+(3, 30, 0) ***Sign***
+Message:
+Die brennende Wüste von Sharrahana
+
+(62, 26, 0) ***Event***
+Message:
+Als du dich dem verfluchten Land näherst, hörst du ein kicherndes Lachen im Gebüsch.  Plötzlich peitscht ein Fellwirbel an deinem Gesicht vorbei, während Hunderte von kleinen rosa Häschen um deine Armee herumlaufen und herumhüpfen und dann so schnell verschwinden, wie sie aufgetaucht sind.
+
+(5, 61, 0) ***Event***
+Message:
+Oben auf den Mauern der Burg stehen viele Elfen, die Töpfe mit etwas vorbereiten, das wie kochendes Öl aussieht.  In Wirklichkeit handelt es sich, sehr zu Ihrem Leidwesen, um mehrere hundert Gallonen Ahornsirup.  Nachdem die klebrige Substanz auf Ihre Männer gegossen wurde, öffnen sie Kisten mit Federn auf Ihnen und beginnen spöttisch zu gackern.
+
+(37, 43, 0) ***Event***
+Message:
+Als Ihre Armee an der Burgmauer ankommt, hören Sie das Geräusch von Katapulten.  Dann sehen Sie entsetzt zu, wie Ihre Armee mit Tomaten, Salat, Mais, Haferflocken, Fledermausguano, Nachttopfresten und anderer "lustiger" Munition beworfen wird.  Als Sie einen toten Fisch aus dem Ohr ziehen, hören Sie elfisches Gelächter.
+
+(18, 43, 0) ***Event***
+Message:
+In den Bäumen, die die Straße säumen, siehst du etwas, das wie ein Hinterhalt aussieht und auf dich wartet.  Du befiehlst deinen Bogenschützen, das Feuer zu eröffnen und diese verrotteten Elfen mit Pfeilen zu durchlöchern.  Bei näherer Betrachtung handelt es sich lediglich um ausgestopfte Strohmänner, an denen ein Zettel befestigt ist.  Darauf steht "HA HA!"
+
+(48, 33, 0) ***Event***
+Message:
+Als Sie sich auf dem Weg zum Schloss nähern, wird Ihre Armee von mehreren hundert rosa und weißen Häschen angegriffen.  Sie springen und hüpfen um Sie herum und verschwinden dann so schnell wie sie aufgetaucht sind im Wald.
+
+(24, 32, 0) ***Event***
+Message:
+Was war das, in das Sie gerade hineingetreten sind... .?	Vergessen Sie's.  Das wollen Sie gar nicht wissen.
+
+(28, 21, 0) ***Event***
+Message:
+Im Schnee vergraben sind mehrere kleine glänzende Objekte.
+
+(64, 71, 0) ***Event***
+Message:
+Am Fuße eines Berges ist eine kleine Hütte versteckt, in der ein Einsiedler lebt. Er bietet Ihnen an, Ihnen etwas über das Leben beizubringen, wenn Sie ihn nur in Ruhe lassen.
+
+(0, 40, 0) ***Event***
+Message:
+Hinter einem Busch versteckt sich ein schüchterner Elf.  Du schlägst ihn zum Spaß besinnungslos und zwingst ihn dann, dir alles zu erzählen, was er weiß.  Er bringt Ihnen etwas bei, aber unter Zwang.
+
+(27, 56, 0) ***Event***
+Message:
+Sniff . . . Schnüffeln . . . EWWWWWW!!!!!     @$&%?!#%^@~ Feen!
+
+(16, 20, 0) ***Ocean Bottle***
+Message:
+Du findest eine Fee, die in einer Flasche gefangen ist.  Du gackerst vergnügt, während du die kleine Fee ertränkst.
+
+(42, 63, 0) ***Event***
+Message:
+Eine Gruppe von Elfen-Truppen liegt im Hinterhalt.  Großer Fehler.
+
+(56, 66, 0) ***Event***
+Message:
+Mehrere Elfen-Trupps angeln in der Nähe des Teichrandes.  Als Sie sich nähern, springen sie auf und greifen an.  Sie scheinen eine Art Karren zu bewachen.
+
+(55, 5, 0) ***Event***
+Message:
+Der Eingang zu diesem Bereich riecht nach Tod.  Was für ein glückliches Gefühl.
+
+(24, 39, 0) ***Event***
+Message:
+Sie treffen auf einen Hirten und seine Herde.  Er fleht Sie an, seinen Schafen nichts anzutun, aber Sie füttern Ihre Truppen und ignorieren seine Bitten um Gnade.  Nachdem Sie Ihre Männer gefüttert haben, lassen Sie ihn zur Unterhaltung nach dem Essen aufspießen.
+
+(34, 56, 0) ***Event***
+Message:
+Auf der Straße liegt ein kleiner Blumenstrauß, der scheinbar von einem Wagen gefallen ist.  Du trittst darauf, um die verfaulten, hübschen Blumen zu zerquetschen und wirst von einem feinen Sprühnebel verwöhnt, der funkelt und deine Rüstung leuchtend rosa werden lässt.  In der Ferne hören Sie das Gekicher von höchst amüsierten Feen.
+
+(49, 47, 0) ***Event***
+Message:
+Ein kleiner haarloser Hund mit einem Hut auf dem Kopf kommt auf Sie zu und murmelt etwas lästig Klingendes in einer fremden Sprache, die Sie nicht verstehen.  Ein schneller Stupser entfernt den lästigen Elfenhund aus Ihrem Blickfeld.
+
+(14, 30, 0) ***Event***
+Message:
+Ein älterer Elf, der sich am Ufer sonnt, wird von Ihnen entdeckt.  Du prügelst ihn windelweich, nur weil er dir im Weg steht.  Macht das Böse nicht Spaß?
+
+(38, 14, 0) ***Event***
+Message:
+Das Knirschen des Schnees unter deinen Hufen enthüllt einen kleinen Stamm von Familiars, die fest gefroren sind.  Du taut sie auf und sie bieten dir an, sich dir anzuschließen.
+
+(7, 21, 0) ***Centaur Captain***
+Message:
+Ein Rudel Zentauren-Hauptmänner bewundert sich selbst in den schimmernden Kristallen.  Sie nehmen Ihre Anwesenheit kaum zur Kenntnis, als Sie sich nähern.  Deine geifernden Bestien kaum in Schach haltend, lächelst du ein böses Lächeln und krümmst dem Anführer einen Finger.  "Komm her, du Wichtigtuer.  Ich habe ein Geschenk für dich."
+
+(2, 10, 0) ***Centaur***
+Message:
+"Bei den Göttern, dieser Ort stinkt.  Unsere Königin hat uns mit der Aufgabe betraut, dies zu bewachen, koste es, was es wolle.  Geh weg!"
+
+(4, 17, 0) ***Centaur Captain***
+Message:
+"Ist dieser See nicht wunderschön?", sagte der weibliche Zentaurenkapitän und klimperte mit ihren langen Wimpern gegen dich.  "Es ist eine Schande, dass ihr ihn mit eurer stinkenden Lava-Asche so verschmutzt.  Ihr seid zum Kotzen!  Schnappt ihn euch, Jungs!"
+
+(13, 9, 0) ***Centaur***
+Message:
+"Keiner darf passieren", erklärt der Zentaurenanführer stur.  Seine unteren Vorderbeine sind mit rosafarbenen Bändern aus einer Art dehnbarem Stoff geschmückt und um seinen Hals sind Blumen zu einer Kette angeordnet.  Sein Hemd ist von leuchtenden Farben in einem floralen Muster.
+
+(10, 4, 0) ***Centaur***
+Message:
+"Wir wurden hierher geschickt, um dich aufzuhalten, du böser Bösewicht", sagte der Zentaur, während er seine Zunge herausstreckte und seltsame Spottgeräusche machte.
+
+(52, 34, 1) ***Event***
+Message:
+Ein alter Mann kommt auf Sie zu und bittet Sie um Hilfe.  Seine Familie wurde von Troglodyten gekidnappt und in den Untergrund verschleppt.  Du lachst ihm ins Gesicht und gehst weg, während er auf die Knie fällt und unkontrolliert schluchzt.
+
+(11, 10, 1) ***Event***
+Message:
+Die feuchten, dunklen Kerker sind eine angenehme Abwechslung zu all dem ekligen Sonnenschein der Welt da oben.  Du kannst es kaum erwarten, deine Hände um die glatten Kehlen der kichernden Feen zu wickeln.  Ahh, die Unmenschlichkeit.
+
+(17, 49, 1) ***Event***
+Message:
+Eingebettet zwischen den Stalagmiten befinden sich mehrere schelmische Figuren.  Fröhlich gackernd hüpfen sie um Ihren Kopf herum und tanzen in Ihrer Hose.  Nach etwa 2 Sekunden dieses Unsinns brüllen Sie wütend auf und verwüsten die gesamte Gruppe der Heinzelmännchen.  Diese Beleidigung soll nicht ungestraft bleiben.
+
+(26, 34, 1) ***Event***
+Message:
+Ein Trupp Feen, beschützt von ihrem großen Bruder, springt auf Sie zu.  "Wir sind hier, um euch aufzuhalten.  Das Böse stinkt nach Eiern, und das tut ihr auch.  Stirb, du stinkender, böser Bastard."
+
+===== End of file =====

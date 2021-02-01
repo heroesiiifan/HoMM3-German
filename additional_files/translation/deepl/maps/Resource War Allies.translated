@@ -1,0 +1,74 @@
+===== Map name =====
+Ressourcen Krieg (Alliierte)
+
+===== Map description =====
+Durch einen Glücksfall der Natur sind die Ressourcen dieses Landes in vielen verschiedenen Gebieten konzentriert.  Um ruinöse Rohstoffsammelkosten zu vermeiden, haben Sie sich mit einem Fürsten verbündet, der hat, was Ihnen fehlt und dem fehlt, was Sie haben.  Dieses Bündnis hat Ihre bisherigen Rohstofflieferanten verärgert.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Nachdem Sie von einem Handelsabkommen zwischen Ihnen und einem benachbarten Lord erfahren haben, haben Ihre früheren Rohstofflieferanten Ihnen den Krieg erklärt.  Auch Ihre Nachbarn haben aus Angst vor Ihrer neuen Allianz zu den Waffen gegriffen.  Glücklicherweise sind nicht alle Ihre Feinde verbündet, und sie haben die Gelegenheit genutzt, sich gegenseitig den Krieg zu erklären.
+
+===== Heroes =====
+
+===== Objects =====
+
+(18, 17, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Handelsposten
+Message:
+Als Geste des guten Willens baut Ihr Verbündeter einen Marktplatz für Sie.
+
+(38, 35, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Marktplatz
+Message:
+Als Geste des guten Willens baut Ihr Verbündeter einen Marktplatz für Sie.
+
+(50, 41, 0) ***Tower***
+
+Timed events:
+
+Name:
+Marktplatz
+Message:
+Als Geste des guten Willens baut Ihr Verbündeter einen Marktplatz für Sie.
+
+(61, 51, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Marktplatz
+Message:
+Als Geste des guten Willens baut Ihr Verbündeter einen Marktplatz für Sie.
+
+(28, 25, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Marktplatz
+Message:
+Als Geste des guten Willens baut Ihr Verbündeter einen Marktplatz für Sie.
+
+(42, 25, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Marktplatz
+Message:
+Als Geste des guten Willens baut Ihr Verbündeter einen Marktplatz für Sie.
+
+===== End of file =====

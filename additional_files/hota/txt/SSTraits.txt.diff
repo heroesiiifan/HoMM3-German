@@ -1,0 +1,92 @@
+19c19
+< Die einfache Logistik erhöht die Bewegungspunkte Eures Helden an Land um 10%."	"{Logistik verbessert}
+---
+> Die einfache Logistik erhöht die Bewegungspunkte Eures Helden an Land um 5%."	"{Logistik verbessert}
+21c21
+< Die verbesserte Logistik erhöht die Bewegungspunkte Eures Helden an Land um 20%."	"{Logistik meisterhaft}
+---
+> Die verbesserte Logistik erhöht die Bewegungspunkte Eures Helden an Land um 10%."	"{Logistik meisterhaft}
+23c23
+< Die meisterhafte Logistik erhöht die Bewegungspunkte Eures Helden an Land um 30%."
+---
+> Die meisterhafte Logistik erhöht die Bewegungspunkte Eures Helden an Land um 20%."
+28c28
+< Das verbesserte Spähen erlaubt Eurem Helden, 2 Felder weiter in die Dunkelheit zu sehen."	"{Spähen meisterhaft}
+---
+> Das verbesserte Spähen erlaubt Eurem Helden, 3 Felder weiter in die Dunkelheit zu sehen."	"{Spähen meisterhaft}
+30c30
+< Das meisterhafte Spähen erlaubt Eurem Helden, 3 Felder weiter in die Dunkelheit zu sehen."
+---
+> Das meisterhafte Spähen erlaubt Eurem Helden, 5 Felder weiter in die Dunkelheit zu sehen."
+61c61
+< Die einfache Mystik erlaubt Eurem Helden, 2 Zauberpunkte pro Tag zu regenerieren."	"{Mystik verbessert}
+---
+> Die einfache Mystik erlaubt Eurem Helden, 5 Zauberpunkte pro Tag zu regenerieren."	"{Mystik verbessert}
+63c63
+< Die verbesserte Mystik erlaubt Eurem Helden, 3 Zauberpunkte pro Tag zu regenerieren."	"{Mystik meisterhaft}
+---
+> Die verbesserte Mystik erlaubt Eurem Helden, 10 Zauberpunkte pro Tag zu regenerieren."	"{Mystik meisterhaft}
+65c65
+< Die meisterhafte Mystik erlaubt Eurem Helden,  4 Zauberpunkte pro Tag zu regenerieren."
+---
+> Die meisterhafte Mystik erlaubt Eurem Helden,  15 Zauberpunkte pro Tag zu regenerieren."
+89c89
+< Die einfache Nekromantie erlaubt, 10% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."	"{Nekromantie verbessert}
+---
+> Die einfache Nekromantie erlaubt, 5% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."	"{Nekromantie verbessert}
+91c91
+< Die verbesserte Nekromantie erlaubt, 20% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."	"{Nekromantie meisterhaft}
+---
+> Die verbesserte Nekromantie erlaubt, 10% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."	"{Nekromantie meisterhaft}
+93c93
+< Die meisterhafte Nekromantie erlaubt, 30% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."
+---
+> Die meisterhafte Nekromantie erlaubt, 15% der im Kampf gefallenen Kreaturen als Skelette wieder auferstehen zu lassen."
+96c96
+< Ein Held mit Grundbesitz steuert 125 Goldstücke pro Tag zu Eurer Sache bei."	"{Grundbesitz verbessert}
+---
+> Ein Held mit Grundbesitz steuert 250 Goldstücke pro Tag zu Eurer Sache bei."	"{Grundbesitz verbessert}
+98c98
+< Ein Held mit verbessertem Grundbesitz steuert 250 Goldstücke pro Tag zu Eurer Sache bei."	"{Grundbesitz meisterhaft}
+---
+> Ein Held mit verbessertem Grundbesitz steuert 500 Goldstücke pro Tag zu Eurer Sache bei."	"{Grundbesitz meisterhaft}
+100c100
+< Ein Held mit meisterhaftem Grundbesitz steuert 500 Goldstücke pro Tag zu Eurer Sache bei."
+---
+> Ein Held mit meisterhaftem Grundbesitz steuert 1000 Goldstücke pro Tag zu Eurer Sache bei."
+145c145
+< Die einfache Artillerie überträgt Eurem Helden die Steuerung der Balliste, und erlaubt 2 Schüsse mit einer 50%igen Chance, den doppelten Schaden anzurichten."	"{Artillerie verbessert}
+---
+> Die einfache Artillerie überträgt Eurem Helden die Kontrolle über die Ballista, die Verteidigungstürme und die Kanone. Außerdem erhält die Ballista eine 50%ige Chance, doppelten Schaden zu verursachen. Die Kanone fügt zusätzlichen Schaden an Befestigungen zu."	"{Artillerie verbessert}
+147c147
+< Die verbesserte Artillerie überträgt Eurem Helden die Steuerung der Balliste, und erlaubt 2 Schüsse mit einer 75%igen Chance, den doppelten Schaden anzurichten."	"{Artillerie meisterhaft}
+---
+> Die verbesserte Artillerie überträgt Eurem Helden die Kontrolle über die Ballista, Verteidigungstürme und die Kanone. Außerdem erhält die Ballista eine 75-prozentige Chance, doppelten Schaden anzurichten. Die Ballista schießt zweimal. Die Kanone fügt doppelten Schaden zu und fügt zusätzlichen Schaden an Befestigungen zu."	"{Artillerie meisterhaft}
+149c149
+< Die meisterhafte Artillerie überträgt Eurem Helden die Steuerung der Balliste, und erlaubt 2 Schüsse, die den doppelten Schaden anrichten."
+---
+> Die meisterhafte Artillerie überträgt Eurem dem Helden die Kontrolle über die Ballista, Verteidigungstürme und die Kanone. Die Ballista fügt doppelten Schaden zu und schießt zweimal. Die Kanone fügt dreifachen Schaden zu und verursacht maximalen Schaden an Befestigungen.."
+173c173
+< Die einfache Intelligenz erhöht die maximale Anzahl von Zauberpunkten um 25%."	"{Intelligenz verbessert}
+---
+> Die einfache Intelligenz erhöht die maximale Anzahl von Zauberpunkten um 20%."	"{Intelligenz verbessert}
+175c175
+< Die verbesserte Intelligenz erhöht die maximale Anzahl von Zauberpunkten um 50%."	"{Intelligenz meisterhaft}
+---
+> Die verbesserte Intelligenz erhöht die maximale Anzahl von Zauberpunkten um 35%."	"{Intelligenz meisterhaft}
+177c177
+< Die meisterhafte Intelligenz verdoppelt die maximale Anzahl von Zauberpunkten."
+---
+> Die meisterhafte Intelligenz erhöht die maximale Anzahl von Zauberpunkten um 50%."
+187c187
+< Die einfache Resistenz gibt den Truppen Eures Helden eine 5%ige Chance, dass gegnerische Zaubersprüche scheitern."	"{Resistenz verbessert}
+---
+> Die einfache Resistenz erhöht Ihre Chance, einem feindlichen Zauber zu widerstehen, um 5%."	"{Resistenz verbessert}
+189c189
+< Die verbesserte Resistenz gibt den Truppen Eures Helden eine 10%ige Chance, dass gegnerische Zaubersprüche scheitern."	"{Resistenz meisterhaft}
+---
+> Die verbesserte Resistenz erhöht Ihre Chance, einem feindlichen Zauber zu widerstehen, um 10%."	"{Resistenz meisterhaft}
+191c191
+< Die meisterhafte Resistenz gibt den Truppen Eures Helden eine 15%ige Chance, dass gegnerische Zaubersprüche scheitern."
+---
+> Die meisterhafte Resistenz erhöht Ihre Chance, einem feindlichen Zauber zu widerstehen, um 20 %."

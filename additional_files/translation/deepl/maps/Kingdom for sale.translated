@@ -1,0 +1,197 @@
+===== Map name =====
+Königreich zu verkaufen 
+
+===== Map description =====
+Das Inselkönigreich des Lichts bietet Ländereien für benachbarte Lords an... für einen Preis.  Können Sie erfolgreich alle Konkurrenten aufkaufen (und schließlich vertreiben)?
+
+===== Rumors =====
+
+Name:
+Bessere Garnisonen.
+Text:
+Die teureren Ländereien sind mit einer besseren Garnison ausgestattet.
+
+===== Timed events =====
+
+Name:
+Ereignis des ersten Tages.
+Message:
+Ein Immobilienmakler hält an und erzählt Ihnen von Möglichkeiten, die sich auf den Lichtinseln auftun, wenn Sie mutig genug (und reich genug) sind, sie zu nutzen. Er erwähnt auch, dass er bei allen anderen Lords in der Gegend vorbeigekommen ist und ihnen dasselbe erzählt hat.
+
+Name:
+Leihe.
+Message:
+Die örtliche Bank leiht Ihnen 1000 Gold, in der Hoffnung, einige Zinsen aus den Ländereien zu bekommen, die Sie vielleicht bekommen (oder haben).
+
+Name:
+Zinsen nehmen.
+Message:
+Die örtliche Bank nimmt 500 Zinsen für ihr Darlehen ein.
+
+===== Objects =====
+
+(56, 90, 0) ***Random Town***
+Name:
+Sandstark
+
+(72, 40, 0) ***Random Town***
+Name:
+Craigan Hack
+
+(70, 68, 0) ***Random Town***
+Name:
+Indiovar
+
+(47, 37, 0) ***Random Town***
+Name:
+Camden
+
+(35, 69, 0) ***Random Town***
+Name:
+Craigmoore
+
+(39, 81, 0) ***Random Town***
+Name:
+West Herpsen
+
+(52, 77, 0) ***Random Town***
+Name:
+Ost Herpsen
+
+(9, 96, 0) ***Random Town***
+Name:
+Forgen
+
+(32, 94, 0) ***Random Town***
+Name:
+Südbender
+
+(99, 97, 0) ***Random Town***
+Name:
+Rauhstein
+
+(74, 101, 0) ***Random Town***
+Name:
+Seitenpfosten
+
+(47, 38, 0) ***Quest Guard***
+Message:
+Für 4000 bekommen Sie die Camden Estates.
+
+(35, 70, 0) ***Quest Guard***
+Message:
+Für 6000 Gold erhalten Sie die Craigmoor-Siedlungen.
+
+(39, 82, 0) ***Quest Guard***
+Message:
+Für 6000 Gold erhalten Sie die West Herpsen-Siedlungen.
+
+(72, 41, 0) ***Quest Guard***
+Message:
+Für 5000 Gold erhalten Sie Craigon Hack.
+
+(52, 78, 0) ***Quest Guard***
+Message:
+Für 6000 Gold erhalten Sie die Ost-Herpsen-Siedlungen.
+
+(56, 91, 0) ***Quest Guard***
+Message:
+Für 6000 Gold erhalten Sie das Landgut Sandstrong.
+
+(54, 23, 0) ***Quest Guard***
+Message:
+Für 5000 Gold erhalten Sie das Landgut Vulcanam.
+
+(51, 51, 0) ***Random Town***
+Name:
+Newvorde
+
+(51, 52, 0) ***Quest Guard***
+Message:
+Für 10000 Gold erhalten Sie das Landgut Newvorde.
+
+(9, 97, 0) ***Quest Guard***
+Message:
+Für 10000 Gold erhalten Sie die Forgen-Siedlungen.
+
+(32, 95, 0) ***Quest Guard***
+Message:
+Für 10000 Gold erhalten Sie die Southbender-Siedlungen.
+
+(96, 5, 0) ***Random Town***
+Name:
+Redworth
+
+(96, 6, 0) ***Quest Guard***
+Message:
+8000 erhalten Sie die Redworth-Siedlungen.
+
+(48, 39, 0) ***Sign***
+Message:
+Willkommen in den Camden estates.
+
+(55, 24, 0) ***Sign***
+Message:
+Willkommen in den Vulcanam-Siedlungen.
+
+(54, 22, 0) ***Random Town***
+Name:
+Vulcanam
+
+(95, 7, 0) ***Sign***
+Message:
+Willkommen in den Redworth-Siedlungen.
+
+(57, 92, 0) ***Sign***
+Message:
+Willkommen in den Sandstrong-Siedlungen.
+
+(53, 79, 0) ***Sign***
+Message:
+Willkommen in den East Herpson-Siedlungen.
+
+(40, 83, 0) ***Sign***
+Message:
+Willkommen bei West Herpsen estates.
+
+(36, 71, 0) ***Sign***
+Message:
+Willkommen bei Craigmoor Estates.
+
+(33, 96, 0) ***Sign***
+Message:
+Willkommen bei Southbender estates.
+
+(10, 98, 0) ***Sign***
+Message:
+Willkommen bei Forgen estates.
+
+(73, 42, 0) ***Sign***
+Message:
+Willkommen bei Craigan Hack estates,
+
+(71, 70, 0) ***Sign***
+Message:
+Willkommen bei Indiovar estates.
+
+(52, 53, 0) ***Sign***
+Message:
+Willkommen bei Newvorde estates.
+
+(99, 98, 0) ***Quest Guard***
+Message:
+Für 10000 Gold erhalten Sie Roughstone Estates.
+
+(74, 102, 0) ***Quest Guard***
+Message:
+Für 10000 Gold erhalten Sie das Landgut Sagepost.
+
+(101, 98, 0) ***Sign***
+Message:
+Willkommen in Roughstone, genießen Sie Ihren Aufenthalt.
+
+(76, 102, 0) ***Sign***
+Message:
+Willkommen bei Sagepost, genießen Sie Ihren Aufenthalt.
+
+===== End of file =====

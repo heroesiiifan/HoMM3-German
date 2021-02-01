@@ -1,0 +1,88 @@
+===== Map name =====
+Beware of Demons!
+
+===== Map description =====
+You were entrusted with an important mission Ц to explore areas not marked on any map. But what awaits the adventurer in these dangerous and mysterious lands?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+arrived
+Message:
+It has been a few weeks since you left the last inhabited island and went to the seas. Now finally you see on the horizon something that seemed to be an unknown land...
+
+Name:
+scout
+Message:
+The scouts reported that there is a castle on the north-east... The bad news - there are necromancers there.
+
+Name:
+nec and dem
+Message:
+Local savages kept saying that the necromancers from the north made a deal with the demons in the dungeons... It is said that soon the underground creatures will complete their ritual and will be able to invade the surface!
+
+Name:
+story
+Message:
+The local savages told me the legend of the ancient hero and they also told me about one mad old man who lives on the bank of a river.
+
+Name:
+captive
+Message:
+I've been thinking about the legend of the ancient hero... Maybe releasing him we will give us a chance to survive in the battle with the demons.
+
+Name:
+help
+Message:
+This morning, we equipped a small vessel and sent people back to the port from which we got here. I hope they get back home without problems and tell about all of the horrors perpetrated in these parts. They should also ask for reinforcements. If all goes according to plan, the main fleet will arrive here in about 2 months.
+
+Name:
+ending
+Message:
+Not much waiting left! Our Sorceresses report that ships are in 4 days away from this place!
+
+===== Heroes =====
+
+===== Objects =====
+
+(12, 31, 0) ***Seer's Hut***
+Message:
+Stranger! Do you know about the ancient legend of these places? A long time ago the terrible demons of the underworld caught a great ancient hero and put him into an impregnable fortress. As the years passed, ocean waves swept the coastal areas of the island... Since then, the fortress, which has become a tomb for the ancient warrior, was dominated by the water school. Do you see this {blade}? Legend says that a prisoner of the tomb will be able to take it and bring the demons to justice!
+Have you seen the tomb that sleeps at the bottom of the sea, stranger?
+He's back! Praise the gods!
+
+(1, 27, 0) ***Prison***
+Name:
+Dagon
+Biography:
+???
+
+(34, 31, 0) ***Sign***
+Message:
+Den
+
+(5, 27, 0) ***Ocean Bottle***
+Message:
+"Beware of demons of the underworld..."
+
+(3, 30, 1) ***Inferno***
+
+Timed events:
+
+Name:
+хал€ва
+Message:
+
+
+(6, 3, 1) ***Inferno***
+
+Timed events:
+
+Name:
+хал€ва
+Message:
+
+
+===== End of file =====

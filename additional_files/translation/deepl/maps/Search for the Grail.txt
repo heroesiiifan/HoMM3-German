@@ -1,0 +1,18 @@
+===== Map name =====
+Search For The Grail
+
+===== Map description =====
+Somewhere lost in the area is the Grail. You have been charged with locating and retrieving it. Beware, as the minions of your enemies are also searching for it.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+All the research has been done, all the texts have been studied, all the stories have been checked out, and your advisors have concluded that the Grail can be found in THIS area.  Find it, and bring it to any city you control.  You must not fail!
+
+===== Objects =====
+
+===== End of file =====

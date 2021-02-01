@@ -1,0 +1,67 @@
+===== Map name =====
+Peacemaker
+
+===== Map description =====
+Die Elfenstadt Sharath ist nach dem sechsten Grenzstreit im letzten Monat den umliegenden Lords feindlich gesinnt.  Übernehmen Sie Sharath, um den Streit zu beenden.  
+
+===== Rumors =====
+
+Name:
+Insel-Gerüchte
+Text:
+Die Inseln halten den Schlüssel, um die elfischen Barrieren zu knacken.
+
+Name:
+Orks
+Text:
+Im Wald gibt es Orks, die sich Ihnen im Kampf gegen die Elfen anschließen werden.
+
+===== Timed events =====
+
+Name:
+Das Volk der Elfen versammelt sich.
+Message:
+Die Elfen haben Verstärkung angefordert, und du schätzt, dass es vier Monate dauern wird, bis eine Horde wütender Waldelfen eintrifft und sich um Sharath schart.  Sharath muss vor dieser Zeit fallen.
+
+Name:
+Andere Lords.
+Message:
+Du schickst eine Nachricht an die anderen Lords, dass es klug wäre, sich zu verbünden und Sharath zu bekämpfen, und wartest gespannt auf ihre Antwort.
+
+Name:
+Antwort.
+Message:
+Die Antwort der anderen Lords ist weniger enthusiastisch, sie glauben alle, dass sie sich gegenseitig und auch die Elfen besiegen können.  Tja, sieht so aus, als wären sie auf sich allein gestellt.
+
+Name:
+Zusätzliche Ressourcen.
+Message:
+Reiche Gönner von jenseits der Meere schicken dir Gold, um deine Sache zu unterstützen.
+
+===== Objects =====
+
+(34, 37, 0) ***Rampart***
+Name:
+Sharath
+
+(8, 27, 0) ***Ocean Bottle***
+Message:
+Die Inseln sind der Schlüssel.
+
+(69, 57, 0) ***Ocean Bottle***
+Message:
+Die Inseln sind der Schlüssel.
+
+(24, 45, 0) ***Orc***
+Message:
+Die Orks schließen sich bereitwillig Ihrem Kampf gegen die Elfen an.
+
+(42, 25, 0) ***Orc***
+Message:
+Die Orks schließen sich bereitwillig Deinem Kampf gegen die Elfen an.
+
+(49, 35, 0) ***Orc***
+Message:
+Die Orks schließen sich bereitwillig Deinem Kampf gegen die Elfen an.
+
+===== End of file =====

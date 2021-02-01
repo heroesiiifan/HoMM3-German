@@ -1,0 +1,89 @@
+===== Map name =====
+Pirate's Utopia
+
+===== Map description =====
+The treasure of the legendary pirate queen is buried on an island. Search for it!
+
+===== Rumors =====
+
+Name:
+1
+Text:
+I've heard that there are a lot of hermits on the islands that are bored without civilization.
+
+Name:
+2
+Text:
+Had you known about a beautiful legend telling the Winter's love to an unknown prince? They say that he is imprisoned far to the south at the kingdom of ancient ice.
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(97, 93, 0) ***Crystal***
+Message:
+Много кристаллов.
+
+(102, 131, 0) ***Sign***
+Message:
+The way to the plane of air is closed. Perhaps you may find it.
+
+(111, 105, 0) ***Pandora's Box***
+Message:
+
+
+(14, 132, 0) ***Tower***
+Name:
+An ice cliff
+
+(12, 138, 0) ***Event***
+Message:
+A legendary ice palace is directly above you. Centuries ago, there lived a prince who rejected the love of the Goddess of Winter, and for that she turned him and all his possessions into dead ice. Prince can be released by those who are brave enough and smart.
+
+(13, 134, 0) ***Event***
+Message:
+Once you're close to the ice palace, ice blocks, which must have pinned down the palace for centuries, began to melt...
+
+(18, 138, 0) ***Prison***
+Name:
+Prince
+Biography:
+Once a captive of the Goddess of Winter. Now set free by a brave hero.
+
+(118, 133, 0) ***Sign***
+Message:
+Wasteland
+
+(126, 136, 0) ***Event***
+Message:
+You can barely read the letters in separate words. Looks like it is a poem of some sort...
+
+(93, 143, 0) ***Event***
+Message:
+Your army thinks you're crazy.
+
+(116, 96, 0) ***Seer's Hut***
+Message:
+Do you want to hire a group of evil-looking, but kind-hearted rogues?
+No money - no help.
+What would you say, my lord?
+
+(28, 90, 0) ***Event***
+Message:
+You have found an ancient lamp. After rubbing it, a group of Genies appeared in front of you.
+
+(84, 35, 0) ***Pandora's Box***
+Message:
+
+
+(143, 143, 0) ***Event***
+Message:
+You want some of this? Come and get it.
+
+(40, 143, 0) ***Event***
+Message:
+Your team is seriously thinking about rebellion.
+
+===== End of file =====

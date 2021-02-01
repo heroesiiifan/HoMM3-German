@@ -1,0 +1,84 @@
+===== Map name =====
+Noah's Ark
+
+===== Map description =====
+The great flood is coming, and only by controlling two of every creature dwelling can you hope to survive.
+
+===== Rumors =====
+
+Name:
+Monster groups.
+Text:
+Some large monster groups will join any hero willing to take them along.
+
+Name:
+Underground.
+Text:
+The underground passages connect the creature dwellings, but beware - monsters abound!
+
+===== Timed events =====
+
+Name:
+Starting Info.
+Message:
+Scouts report that underground passages also connect the areas we need to reach, perhaps they could be used to take control of the creature dwellings sooner.
+
+===== Objects =====
+
+(83, 66, 0) ***Event***
+Message:
+A small clearing filled with ogres appears further down this trail.  They look bored, maybe they'll join you?
+
+(30, 88, 0) ***Event***
+Message:
+The wyverns in this area look emaciated and not ready for a fight.  Maybe if you feed them they will join your army?
+
+(77, 26, 0) ***Event***
+Message:
+The wolf riders look lost and ready for guidance.  Maybe they'll join a strong leader?
+
+(47, 22, 0) ***Event***
+Message:
+The mages around the tower look more interested in studying then in fighting you.
+
+(21, 35, 0) ***Event***
+Message:
+The monks look like they may be willing to join your cause.  Maybe you should talk to them.
+
+(56, 83, 0) ***Sign***
+Message:
+Guild gold.  Do not touch, what are you a thief?
+
+(8, 24, 1) ***Event***
+Message:
+The medusas eye you warily, but look like they might discuss terms.
+
+(4, 65, 1) ***Event***
+Message:
+The vampires look bloated, as if they had recently fed.  Perhaps if you talk to them they'll join your army.
+
+(102, 100, 1) ***Event***
+Message:
+These hydras are chained to the floor.  If you release them maybe they'll join you.
+
+(24, 12, 1) ***Event***
+Message:
+These gnolls look more like thieves.  Perhaps they'll join you in your quest for riches.
+
+(5, 102, 1) ***Event***
+Message:
+The imps look like they are ready to play, not ready to fight.
+
+(102, 52, 1) ***Event***
+Message:
+Looks like these dwarves mined all the gold in the area.  Maybe they'll join you for a share of the loot.
+
+(51, 99, 1) ***Event***
+Message:
+The hounds in this cave look more playful then anything else.
+
+(95, 93, 1) ***Sign***
+Message:
+Skeleton battle grounds, beware!
+
+===== End of file =====

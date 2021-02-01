@@ -1,0 +1,90 @@
+===== Map name =====
+Der Fehdehandschuh
+
+===== Map description =====
+Können Sie "The Gauntlet" überleben?, ein zermürbendes Rennen gegen die Zeit, um die fünf gegen Sie verbündeten Lords zu besiegen.  Die gute Nachricht ist, dass Sie nur gegen einen nach dem anderen kämpfen müssen, die schlechte Nachricht ist, dass jeder von ihnen ziemlich hart ist.  Dieses Spiel ist nichts für Ängstliche.
+
+===== Rumors =====
+
+Name:
+Der sechste Lord hat den heiligen Gral.
+Text:
+Der fünfte Fürst hat den heiligen Gral.
+
+Name:
+Dungeon Lord.
+Text:
+Der Dungeon-Lord hat sich mit Horden von Betrachtern verbündet.
+
+Name:
+Letzter Fürst
+Text:
+Die einzige Möglichkeit, zur Triade der Inferno-Burgen zu gelangen, besteht darin, über die Berge zu fliegen.
+
+===== Timed events =====
+
+Name:
+Startnachricht.
+Message:
+Willkommen bei "The Gauntlet"; besiegen Sie die fünf gegen Sie verbündeten Lords, bevor die Zeit abläuft.  Viel Glück!
+
+===== Objects =====
+
+(83, 66, 0) ***Pandora's Box***
+Message:
+Eine Horde Dämonen kommt aus der Kiste...einige beschließen, sich Ihnen anzuschließen, andere wollen Sie auf die Probe stellen.
+
+(55, 1, 0) ***Ocean Bottle***
+Message:
+Auf einem Zettel in einer Flasche steht: "Die Zeit wartet auf niemanden, schon gar nicht auf dich.  Hören Sie jetzt auf, Zeit zu schinden und gehen Sie wieder an die Arbeit".		Gezeichnet, Die Spießrutenlauf-Aufseher.
+
+(102, 26, 0) ***Spell Scroll***
+Message:
+Wasserelementare formieren sich aus der nahen Wasserstelle.  Sie bewegen sich, um dich daran zu hindern, die Schriftrolle zu holen, willst du gegen sie kämpfen?
+
+(18, 83, 0) ***Event***
+Message:
+Ihr trefft auf den Schiffskapitän, der vor seinem Schiff wartet, und er sagt euch, dass es eine gute Idee wäre, die Zelte im Nordwesten dieser Insel zu besuchen (falls ihr das nicht schon getan habt).  
+
+(8, 75, 0) ***Sign***
+Message:
+Das braune Zelt im Norden ist nicht unbedingt notwendig.		Gezeichnet, Die Gauntlet-Aufseher.
+
+(23, 81, 0) ***Ocean Bottle***
+Message:
+Die Notiz in der Flasche lautet:  "Die kleine Insel direkt nördlich ist Euer erstes Ziel, versucht nicht zu verweilen" Gezeichnet, The Gauntlet Overseers
+
+(3, 0, 0) ***Event***
+Message:
+Eine ominöse Stimme spricht: "Glückwunsch, dass Sie den ersten Gegner überstanden haben, hier ist Ihre Belohnung"
+
+(68, 16, 0) ***Event***
+Message:
+Eine unheilvolle Stimme spricht: "Du hast den dritten Gegner überstanden, hier ist deine Belohnung"
+
+(75, 52, 0) ***Event***
+Message:
+Eine ominöse Stimme spricht: "Du hast den vierten Gegner überstanden, viel Glück beim fünften.  Hier ist Ihre Belohnung".  Die Stimme klingt nicht so optimistisch.
+
+(74, 44, 0) ***Sign***
+Message:
+Gehen Sie vor die Hütte der Magier, um Ihre letzte Belohnung zu erhalten.		Gezeichnet, Die Gauntlet-Aufseher
+
+(83, 33, 0) ***Sign***
+Message:
+Die Schriftrolle ist der Schlüssel, um sich über das Wasser zu bewegen, siehst du?		Gezeichnet, The Gauntlet Overseers
+
+(69, 19, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Comp-Bonus
+Message:
+Dies ist das Computer-Bonusmaterial.
+
+(30, 23, 1) ***Event***
+Message:
+Eine ominöse Stimme spricht: "Herzlichen Glückwunsch zum Bestehen des zweiten Gegners, hier ist Ihre Belohnung"
+
+===== End of file =====

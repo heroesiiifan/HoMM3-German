@@ -1,0 +1,122 @@
+===== Map name =====
+Adventures of Jared Haret
+
+===== Map description =====
+Can Jared Haret, renowned explorer, make his way home from the dark catacombs in which he finds himself lost?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1 event.
+Message:
+A cave-in from behind has cut you off from most of your gold and army.  To make matters worse, your map was also lost.  Well, Jared Haret never let adversity get him down before, and he's not going to let it get him down now. Castle Haret or bust! 
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 10, 0) ***Event***
+Message:
+Finally you see the sun after so long.  You cheer as do most your troops, but this journey isn't over until you finally reach home.
+
+(8, 4, 0) ***Arch Mage***
+Message:
+The wizards proclaim, "Tumlac says no one shall pass, especially you."
+
+(4, 18, 0) ***Alchemist***
+Name:
+Thenith
+Biography:
+Thenith is Tumlac's second lieutenant and is utterly loyal to him.
+
+(5, 7, 0) ***Event***
+Message:
+A small group of Marksmen and Swordsmen huddle next to a campfire.  These troops were once part of your garrison; now they're a rag-tag group of refugees.  As they agree to join you, you vow to avenge them.
+
+(27, 24, 0) ***Event***
+Message:
+These angels usually want to be left alone, but maybe you can "convince" them to join your cause.
+
+(25, 9, 0) ***Event***
+Message:
+Bad news!  The head shipwright tells you the neighboring wizard Tumlac has taken your castle.  Looks like getting to the surface was not the end to this adventure.
+
+(6, 32, 0) ***Alchemist***
+Biography:
+Josephine is Tumlac's first lieutenant and she is very loyal to him.
+
+(31, 25, 0) ***Sign***
+Message:
+Welcome all to Castle Har-- Tumlac.  No Harets allowed on premises.
+
+(31, 27, 0) ***Event***
+Message:
+A bunch of bandits climb out of the trees as you approach. You recognize most as loyal subjects of the Haret family.  "We have been hiding too long, Mr. Haret.  Let's take back our castle and kick some Tumlac butt," they say as they join you.
+
+(33, 23, 0) ***Castle***
+Name:
+Castle Haret
+
+(9, 29, 0) ***Tower***
+Name:
+Castle Tumlac
+
+(33, 24, 0) ***Wizard***
+Name:
+Tumlac
+
+(6, 33, 1) ***Knight***
+Name:
+Jared Haret
+
+(7, 31, 1) ***Infernal Troglodyte***
+Message:
+The troglodytes run to protect their treasure hoard.
+
+(19, 32, 1) ***Event***
+Message:
+A lost contingent of marksmen who have been wandering down here for days gladly joins you.
+
+(25, 7, 1) ***Event***
+Message:
+Looks like a cave-in has blocked the passage to the left.  Hopefully nothing important was beyond it.
+
+(16, 13, 1) ***Dragonbone Greaves***
+Message:
+These greaves are old and have seen much use (probably before their owner got toasted). 
+
+(16, 14, 1) ***Golden Bow***
+Message:
+An ancient bow lies next to the skeleton of a long-dead elf. As you take it, you give a small prayer to whatever gods he might have worshiped.
+
+(25, 19, 1) ***Event***
+Message:
+Some rag-tag marksmen and crusaders being held captive by the Minotaurs decide it would be prudent to join you.
+
+(25, 26, 1) ***Equestrian's Gloves***
+Message:
+From the claw marks on these discarded gloves, it looks like Minotaurs tried to put them on, but they didn't quite fit.
+
+(26, 25, 1) ***Event***
+Message:
+A ragged group of crusaders and marksmen held captive by the Minotaurs joins you!
+
+(15, 13, 1) ***Helm of the Alabaster Unicorn***
+Message:
+This nice shiny helmet seems to have only a few scorch marks.
+
+(16, 19, 1) ***Event***
+Message:
+A small order of monks held captive by the Minotaurs joins you.
+
+(28, 11, 1) ***Overlord***
+Name:
+Lothelen
+
+(30, 3, 1) ***Event***
+Message:
+A small group of swordsmen, seemingly lost and bewildered, look up and wave as you approach.
+
+===== End of file =====

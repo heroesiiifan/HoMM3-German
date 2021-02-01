@@ -1,0 +1,18 @@
+===== Map name =====
+Warlords! (Allies)
+
+===== Map description =====
+The region where the Stin and Devos Rivers meet is populated by four pairs of  Warlords who are constantly battling for control of the region. The winner of this struggle will dominate the region and control trade for four nations.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+You and your brother have agreed to launch the "final" campaign for control of the Stin-Devos region.  You have both taken the oath:  "Success or Death".
+
+===== Objects =====
+
+===== End of file =====

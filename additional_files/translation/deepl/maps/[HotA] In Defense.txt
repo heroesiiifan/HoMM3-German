@@ -1,0 +1,129 @@
+===== Map name =====
+In Defence
+
+===== Map description =====
+Local villages have caught wind of a menace coming from the sea. Pirates are on their way to pillage these lands. The Erathian army is far away, and the villagers are on their own here…
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Help for AI
+Message:
+Here is some
+
+Name:
+Beginning
+Message:
+A group of fishermen have come from Galantier. They ran like hell itself was on their heels to deliver troubling news: they spied a group of pirates burning fires on a nearby island. This is bad. Looks like the scoundrels are planning to attack us. The biggest problem is, Erathian army's on a march far away, having spared only a couple of guards to protect us. Tough luck for anyone who settled down here. Anyway, we cannot possibly run and the army will take too long to get here. So it seems we've no other option than to stand our ground against the uninvited guests. 
+
+Name:
+Fort Bullden
+Message:
+We must take control over Fort Bullden. It won't take much material to rebuild it, but, according to locals, it's currently occupied by a band of brigands. We should deal with those and start preparing to face the pirates there, although it would be even better to attack first.
+
+Name:
+Dulvein and Galantier
+Message:
+The remaining settlements, namely Dulvein and Galantier, are still not aware of the pirate presence. We should get there, gather the militia and prepare for the worst. It would be very useful to erect walls and battlements there, but we'll need scores of wood and ore for that. We have to act, and quickly!
+
+===== Heroes =====
+
+===== Objects =====
+
+(15, 67, 0) ***Castle***
+Name:
+Ourt-Delph
+
+(55, 66, 0) ***Castle***
+Name:
+Kersan
+
+(38, 4, 0) ***Cove***
+Name:
+Deansaur
+
+(11, 17, 0) ***Cove***
+Name:
+Gaulvein
+
+(34, 49, 0) ***Castle***
+Name:
+Fort Bullden
+
+(64, 41, 0) ***Castle***
+Name:
+Galantier
+
+(5, 41, 0) ***Castle***
+Name:
+Dulvein
+
+(36, 67, 0) ***Sign***
+Message:
+Erathia to the south
+
+(50, 18, 0) ***Event***
+Message:
+
+
+(40, 63, 0) ***Event***
+Message:
+This place reeks of death...
+
+(33, 51, 0) ***Sign***
+Message:
+Erathian fort Bullden
+
+(11, 58, 0) ***Seer's Hut***
+Message:
+I have heard about your trouble. It turns out I've got some as well. My Ring of Infinite Gems was stolen by thieves and sold for quite a price to the titans on the shore. I understand that you have the pirate menace on your hands, but I can offer you a decent price for the ring. I train enchanters here, and 25 of my students would be eager to come to your aid.
+A deal is a deal. No Ring of Infinite Gems means no army of Enchanters for you.
+Oh, I've almost lost hope of ever seeing my treasure again! As we agreed, 25 of my students are ready to come under your banner. I assure you, they'll prove to be much more useful than this ring.
+
+(27, 53, 0) ***Sign***
+Message:
+Shamrock Scent Inns
+
+(56, 42, 0) ***Seer's Hut***
+Message:
+A pack of Green Dragons have settled nearby. They are a great danger to everyone, not only a knight travelling on his own. I can't really pay you anything, but I can share my experience. It should come in handy in your war with pirates.
+The Green Dragons are still there.
+I can't believe you did it! Although I don't have to since you brought the heads of these beasts. Well, a deal's a deal, i guess? Make yourself comfortable, and I'll tell you all you need to know.
+
+(17, 37, 0) ***Orb of Driving Rain***
+Message:
+A horde of creatures with fish-like tails and icy skin are gathered around some sort of an orb. If you wish you may fight them for it.
+
+(55, 2, 0) ***Pandora's Box***
+Message:
+
+
+(8, 6, 0) ***Pandora's Box***
+Message:
+
+
+(27, 5, 0) ***Pandora's Box***
+Message:
+
+
+(63, 8, 0) ***Cove***
+Name:
+Porkwell
+
+(37, 40, 1) ***Dungeon***
+Name:
+Shaque-fael
+
+(44, 39, 1) ***Seer's Hut***
+Message:
+Greetings, stranger! Do you suppose you could help me? I'm conducting a very important experiment, but a small nuance escaped me: I need 60 sulphur to complete it, and I currently have none. I'll lose all progress I made if I don't get it, and soon! Could you provide me with the material? I assure you, it will not go unrewarded. I don't have enough money to pay for that, but I've got an item that might be of some use for you.
+But this is not enough…
+Oh my! You really went and granted my request! I cannot express my joy with words! Now my experiment may continue without a hitch. I won't even regret parting with a relic for that. This sword has been collecting dust inside my chest for too long already. It is yours.
+
+(32, 39, 1) ***Golden Bow***
+Message:
+You observe a small vault, looking like an open temple with the legendary Golden Bow floating inside it. It is however guarded by Dread Knights. Do you wish to fight for that magnificent artifact?
+
+===== End of file =====

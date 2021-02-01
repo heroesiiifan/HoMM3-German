@@ -1,0 +1,31 @@
+===== Map name =====
+Fort Noxis
+
+===== Map description =====
+Fort Noxis, your main money-maker is under siege!  Defend it long enough for reinforcements to arrive (and take out the threat) or lose it and forfeit the game.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day one event.
+Message:
+You must defend Fort Noxis until help arrives. An advisor states, it might be advisable for your underground hero to stay close to Fort Noxis until this help arrives. Good luck!
+
+===== Objects =====
+
+(17, 18, 1) ***Random Town***
+Name:
+Fort Noxis
+
+(4, 5, 1) ***Random Town***
+
+Timed events:
+
+Name:
+Extra gold.
+Message:
+Citizens hoping to get a piece of the action give to the cause.
+
+===== End of file =====

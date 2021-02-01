@@ -1,0 +1,15 @@
+===== Map name =====
+Face to Face
+
+===== Map description =====
+There is nothing better than finding the strongest one in a fair duel. The only set of valuable mines is a core and essence of conflict between the two rivals.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

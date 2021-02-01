@@ -1,0 +1,177 @@
+===== Map name =====
+Brave New World (Allies)
+
+===== Map description =====
+A great upheaval shook the very foundations of the world, breaking apart continents and dividing territories in new ways.  After the earth stood still once more the people crawled out from their hiding places and have begun to rebuild in this Brave New World.
+
+===== Rumors =====
+
+Name:
+Crag Hack
+Text:
+Crag Hack is an immortal who will always be with us.
+
+Name:
+Mark
+Text:
+The grouchy old ruler took away our free meals.
+
+Name:
+Greg
+Text:
+One of the Visonaries is a neat freak.
+
+Name:
+David
+Text:
+If you tug on one of the Visoniary's goatee you will get good luck - or a slap.
+
+Name:
+Gus
+Text:
+The Grand Engineer has created contraptions the likes of which even he cannot defeat.
+
+Name:
+Jen
+Text:
+There is a lady who has tamed two purple dragons.
+
+Name:
+Marcus
+Text:
+A Visionary likes loud noise he calls music.
+
+Name:
+Ryan
+Text:
+One of the Visionaries played with children's toys.
+
+Name:
+Dave
+Text:
+One of the Visionaries is a cheapskate.
+
+Name:
+Mike
+Text:
+One of the Visionaries already has four kids!
+
+Name:
+Walter
+Text:
+There is an old Visionary, much older than all the others.
+
+Name:
+Jon
+Text:
+The creator of the world is so powerful he tamed the Viper and uses it to ride across the sky.
+
+Name:
+Jeff
+Text:
+The assistant to the creator has a list of people to fire.  One of the Visionaries is on it!
+
+Name:
+Bonnie
+Text:
+The leader of the Artists is a Faire Lady with the power of Crystals at her beck and call.
+
+Name:
+David R.
+Text:
+A Great Engineer has created the tools needed for the Visionaries to shape this world.
+
+Name:
+George
+Text:
+One of the Artists likes to sketch the creatures of the world.
+
+Name:
+Adam
+Text:
+One of the Artists likes to draw women in scanty, leather outfits.
+
+Name:
+Ed & Becky
+Text:
+There are two Artists who are a couple, and have a Grand Garden in their workplace.
+
+Name:
+Julia
+Text:
+An Artist has let her garden grow wild and free as nature intended.
+
+===== Timed events =====
+
+Name:
+Day one
+Message:
+After the Great Upheaval factions have sprung up, but some have learned to work together.  No one Visionary could rule the New World, so the eight Visionaries have chosen their partner and will conquer the world together.  You are one of these powerful Visionaries who will bring about the new age, the Age of Wonder.  Use your vast resources to encourage troops and heroes to follow your banner and unify the other, errant Visionaries under your glorious vision.
+
+===== Objects =====
+
+(19, 9, 0) ***Seer's Hut***
+Message:
+Please help us!  We are completely unable to fend off those horrible bloodsucking vampires who always attack our homes.  Right now there is a guardpost to keep them out, but it didn't work!  They just flew right over the flowers!  If you kill them, return with the Vampire's Cowl as proof.  Then you can escort us to our home, and there you will find a big reward!
+I'm sorry, but we can't go home until the Vampires are all dead.
+Yaaay!  You did it!  Our hero.  Give us the Cowl and we'll join you.  That way you can bring us home.  OK?
+
+(96, 95, 0) ***Seer's Hut***
+Message:
+<Ugh> Me Grog.  You get Orb of Inhibition for me.  Me give you old Scale Armor.  Stupid Magic Elementals gots Orb.  They cast lots of spells.  Me no win battle against pansy mages.  <Ugh> Bring me orb or I bite head off!  Go North near the ocean to find Elementals.
+No Orb?  Me bite your head off!  Go north to other School of War.  Stupid!
+Good! <Ugh> Give me Orb and I give you Dragon Scale Armor.  You want to trade don't you? <Ugh>
+
+(64, 43, 0) ***Event***
+Message:
+Half burried somewhere behind the freelancer's guild is a very old book.  Deciding that no one else needs the book you put it in your backpack. 
+
+(13, 84, 0) ***Seer's Hut***
+Message:
+Please help us!  We were living peacefully to the south of here in the hills until some Ice Elementals claimed the area!  If you get rid of them we can pay you.  Our savings is quite substantial, about 10,000 gold.  We'll give you all of it just to return home.
+Don't lose heart.  Defeating the Ice Elementals is a difficult task, but you will surely succeed.
+At last, you defeated the Ice Elementals, and we can go home again!  Are you ready to accept the 10,000 gold?
+
+(18, 52, 0) ***Sign***
+Message:
+Look at that artifact over there.
+
+(37, 24, 0) ***Ocean Bottle***
+Message:
+
+
+(34, 92, 0) ***Seer's Hut***
+Message:
+Hello there.  Come in out of the cold.  Right now I am working on some new formulas, but I need Crystal Dragons.  If I was to obtain say, two of these dragons I would be willing to part with a potion of mine that increases your Attack by ten.  But only if you bring me two Crystal Dragons.
+No luck in finding the 2 Crystal Dragons?  I'm sure you'll find some to the west of here.  
+At last, 2 Crystal Dragons.  If you would be so kind as to chain them outside I will give you the potion.  You are still willing to trade aren't you?
+
+(78, 27, 0) ***Seer's Hut***
+Message:
+Only those who are well rounded enough can come in and kiss the Blattner Stone.  Once you have reached 10 in each of your primary skills you may come in and raise the morale of your men by three.
+You're not worthy.
+Now you are worthy.  Come in and kiss the Blattner Stone to raise the morale of your men by three.
+
+(59, 62, 0) ***Seer's Hut***
+Message:
+We're trying to build a new place on one of those cozy islands off the coast.   If you could bring me 10 Wood, 5 Mercury, 10 Ore, 5 Sulfur, 5 Crystal, 5 Gems and 3000 Gold, we could get the construction underway.  If you do so I'll teach you some tricks I bet you didn't learn in school!
+Oh my, that's simply not enough.  I need 10 Wood, 5 Mercury, 10 Ore, 5 Sulfur, 5 Crystal, 5 Gems and 3000 Gold.  I'll never complete it with what you have.
+Finally!  Here, give me the resources and I'll teach you what they don't know in schools.  You'll learn a lot and it'll help you rise through the ranks quicker.  Still willing to fess up the resources?
+
+(18, 37, 0) ***Quest Guard***
+Message:
+I am sorry, but this glen belongs to the Sprites.  Only when all 75 of them have found transportation here shall we move from our post.
+I am sorry, you have not returned with all of them.
+Now you may enter their territory as they have come home.  If you will be so kind as to release them to us so we can be on our way.  You will do this won't you?
+
+(18, 36, 0) ***Celestial Necklace of Bliss***
+Message:
+"Thanks so much!"  The Sprites say as the flit about in their little home.  "Have this pretty Necklace we've been hanging onto.  Just being home will be enough bliss for us!"
+
+(96, 7, 0) ***Seer's Hut***
+Message:
+We are a horde of Magma Elementals who are looking for someone to follow.  Only a hero of great renown and at least rank ten will be able to lead us.  Come back when you are worthy of our loyalty.
+Faugh.  You again.  Come back when you are level 10, for you are not worthy.
+Finally!  Someone who is worthy to lead us.  Will you take us with you?
+
+===== End of file =====

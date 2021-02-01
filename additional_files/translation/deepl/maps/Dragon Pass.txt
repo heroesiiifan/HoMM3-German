@@ -1,0 +1,75 @@
+===== Map name =====
+Dragon Pass 
+
+===== Map description =====
+Dragon pass - a source of conflict for generations due to its artifacts and being resource rich.  Get to the pass and plunder it quickly, then take out your enemies.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1 event.
+Message:
+As you start out on your main task (to get into Dragon pass and loot it) it seems that some red dragons have gotten loose into your area and are set about guarding the tent with the orders you need to get into the pass ..sigh.. nothing is ever easy.  You need to find the red dragons and kill them in order to get those orders.
+
+Name:
+Dragons in the pass.
+Message:
+It seems a few traders that have come in from the pass recently report that dragons have started populating it again (go figure).  The resources will not be as simple to get to as they once were.
+
+===== Objects =====
+
+(8, 34, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Investors.
+Message:
+Investors who want the resources and the dragons cleared from the pass donate creatures and money to the cause.
+
+(38, 65, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Investors.
+Message:
+Investors who want the resources and the dragons cleared from the pass donate creatures and money to the cause.
+
+(64, 42, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Investors.
+Message:
+Investors who want the resources and the dragons cleared from the pass donate creatures and money to the cause.
+
+(35, 8, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Investers.
+Message:
+Investors who want the resources and the dragons cleared from the pass donate creatures and money to the cause.
+
+(18, 48, 0) ***Sign***
+Message:
+Welcome to Dragon Pass.
+
+(49, 21, 0) ***Sign***
+Message:
+Welcome to Dragon Pass.
+
+(54, 29, 0) ***Sign***
+Message:
+Welcome to Dragon Pass.
+
+(24, 60, 0) ***Sign***
+Message:
+Welcome to Dragon Pass.
+
+===== End of file =====

@@ -1,0 +1,89 @@
+===== Map name =====
+Zwillinge
+
+===== Map description =====
+Der Sohn des Königs hat sich entschieden, die Hand eines Mädchens zu nehmen. Die Hochzeit wird in sechs Monaten stattfinden. Jeder im Land ist überglücklich über das bevorstehende Ereignis. Nun, fast alle.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Die Ankündigung wurde gemacht. Der Sohn des Königs hat die Hand eines Mädchens gewählt, um es zu heiraten. Die Pläne für den großen Tag werden gemacht. Dieses Ereignis wird mit Sicherheit in die Geschichte eingehen. Jeder im Land ist überglücklich über das bevorstehende Ereignis. Nun, fast alle.
+
+===== Objects =====
+
+(20, 21, 0) ***Event***
+Message:
+Sie scheinen auf eine Art verwunschenen Boden gekommen zu sein.  Den Gesichtern der Wachen nach zu urteilen, sehen sie nicht glücklich aus, Euch zu sehen.  "Was ist das für ein Ort?" Du fragst. Du erhältst einen der kältesten bösen Blicke, die der Menschheit bekannt sind. Du spürst, dass diese Beziehung nicht sehr lange halten wird.	
+
+(10, 3, 0) ***Sign***
+Message:
+Hüte dich vor dem, was im Osten lauert.	
+
+(28, 12, 0) ***Event***
+Message:
+Sie bemerken ein Stück Seil, das auf dem Boden liegt und in die Bäume hineinragt. Misstrauisch schreiten Sie ganz leise über das Seil. Einer Ihrer hungrigen Truppe bemerkt einen Apfel, der an das Ende des Seils gebunden ist, und geht hin, um ihn aufzuheben. Du rufst: "DON'T DO IT IT'S A TRAP!"
+
+(8, 33, 0) ***Event***
+Message:
+Auf der Lichtung sehen Sie eine Frau, die sich sonnt. Sie kommt auf Sie zu und scheint so gut wie nichts zu tragen. Um sie nicht noch mehr in Verlegenheit zu bringen, nehmen Sie Ihren Helm ab und stellen sich ihr vor. Sie sieht Sie an und rennt weg, um sich zu bedecken. Sie bemerken, dass sie alle ihre Besitztümer zurückgelassen hat. 
+
+(1, 24, 0) ***Event***
+Message:
+Überfall!  Ein Rudel Wolfsjäger spürt, dass Du in ihr Territorium eindringst.
+
+(10, 27, 0) ***Event***
+Message:
+Einer deiner Wächter entdeckt einen Axtmann, der auf deinem Land Bäume fällen will. Ihre Wachen greifen ihn an. Er lässt seine gesamte Habe zurück und schafft es, zu entkommen. 
+
+(6, 25, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Intro 1
+Message:
+Sie haben gerade eine Nachricht vom König erhalten, die Ihre Beziehung zu seinem Sohn betrifft. Sie lautet: 	"Obwohl mein Sohn Ihre Schwester im Laufe der Jahre sehr liebgewonnen hat, bin ich zu dem Schluss gekommen, dass er Sie anstelle von ihr heiraten sollte. Ich bin der Meinung, dass Sie besser geeignet sind, meinem Sohn bei der Führung meines Königreichs zu helfen. Seid Euch bewusst, dass diese Entscheidung zum Wohle meines Sohnes und meines Königreiches ist. Die Hochzeit wird in sechs Monaten von heute an stattfinden. Ich hoffe, Ihr nehmt diese Nachricht freudig an. Ich vertraue darauf, dass Ihr meinem Willen folgen werdet, der König.	Du starrst ungläubig auf den Brief. Du liest ihn noch einmal. Das ist das Beste, was dir je passiert ist. Du kannst nicht glauben, dass dies geschieht. Das schreit nach einer Feier! Du sagst deinem Diener, er soll dem König mit einer Mitgift antworten. 
+
+Name:
+Tag 2
+Message:
+Sie und Ihre Dienerschaft beginnen mit der Planung für den großen Tag. Eine Ihrer Mägde fragt, wie Ihre Zwillingsschwester die Nachricht aufnehmen wird. Innerlich fühlst Du Dich schlecht für sie. Sie wird sicher untröstlich sein. Gleichzeitig fühlst Du Dich aber auch erleichtert. Sie hat immer alles bekommen, was sie sich jemals gewünscht hat. Trotzdem machen Sie sich Sorgen über ihr hitziges Temperament. Du weißt, dass sie der Typ ist, der die Hochzeit ruiniert, weil sie nicht die Braut war. Du sagst deinen Dienstmädchen, sie sollen kein Risiko eingehen, denn deine Schwester ist unberechenbar und könnte Pläne schmieden, um die Hochzeit zu ruinieren.
+
+Name:
+Tag 3
+Message:
+Sie beauftragen einen Läufer, einen Brief an Ihre Schwester zu schicken und um ein Treffen zu bitten, in der Hoffnung, dass sie die Nachricht gut aufgenommen hat. Der Bote nimmt zögernd den versiegelten Brief und macht sich auf den Weg. 
+
+Name:
+Tag 7
+Message:
+Ihr Läufer ist mit einer Antwort auf Ihren Brief zurückgekehrt. Er liest ihn Ihnen laut vor.	"Er gehört mir! Du wirst ihn nicht heiraten. Er gehört mir! Merk dir das, meine Schwester. Keiner kann uns auseinanderhalten. Weißt du noch, wie wir als Kinder immer die Plätze getauscht haben? Du solltest besser aufpassen, dass sich die Geschichte nicht wiederholt.  Zwillinge für immer, Schwesterherz.	"Sie hat den Verstand verloren", denkst du bei dir. "Sie wird mich sicher umbringen und meinen Platz bei der Hochzeit einnehmen. Das kann ich nicht zulassen." Du befiehlst deinen Beratern, die Armee der Stadt zu verstärken. Niemand darf die Stadt mit Eurer Zustimmung betreten. 
+
+Name:
+Sie gewinnen
+Message:
+Der große Tag ist da. Da stehst Du in Deinem wunderschönen Hochzeitskleid. Die Diener des Königs sind eingetroffen, um Sie zur königlichen Hochzeit in den Palast zu geleiten. In einem Anfall von Eifersucht hat Deine Schwester versucht, den wichtigsten Tag in Deinem Leben zu ruinieren. Sie hat versagt. Wegen ihrer Pläne, dich zu töten, wird sie gefasst, verhaftet und lebenslang eingesperrt. Sie und der Prinz werden glücklich bis ans Ende ihrer Tage leben.
+
+(22, 26, 1) ***Event***
+Message:
+Bei einem Rundgang durch Ihr Land entdecken Sie eine Höhle in einem der umliegenden Berge Ihres Königreichs. Du beschließt, sie zu erkunden. Im Inneren finden Sie mehrere verstümmelte Körperteile. Das letzte, was Sie brauchen, ist ein Sapiens-Kabob zu werden. Während Sie aus der Höhle laufen, stolpern Sie über etwas. 
+
+(27, 23, 1) ***Random Town***
+
+Timed events:
+
+Name:
+Tag Eins
+Message:
+Sie haben gerade eine Nachricht vom König erhalten, die Ihre Beziehung zu seinem Sohn betrifft. Sie lautet: 	"Obwohl mein Sohn Sie im Laufe der Jahre sehr lieb gewonnen hat, bin ich zu dem Schluss gekommen, dass er Ihre Zwillingsschwester heiraten sollte. Ich bin der Meinung, dass sie besser geeignet ist, meinem Sohn bei der Führung meines Königreichs zu helfen. Erkenne, dass dein Leiden zum Wohle meines Königreichs ist, Der König Empört zerreißt du den Brief in Fetzen.  Alle Pläne, die du für das Königreich gemacht hast, sind weg.  In einem Anfall von Wut zerstörst du alles in deinem Zimmer. In diesem Moment kommt dir eine Idee. Niemand kann dich und deine Schwester auseinanderhalten. Was, wenn du deine Schwester tötest und ihren Platz einnimmst?	Du lachst.  Du siehst dich im Spiegel an und lachst wieder.
+
+Name:
+You Lose
+Message:
+Deine Schwester heiratet heute. Dein Plan, sie zu töten und sie bei der Hochzeit zu entführen, ist gescheitert. Der König hat von deinem Plan erfahren und schickt seine Wachen, um dich zu verhaften und für immer einzusperren. Wegen deiner Eifersucht wird dein ganzes Leben ruiniert werden. Du wirst nie wieder das Licht der Welt erblicken.
+
+===== End of file =====

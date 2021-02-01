@@ -1,0 +1,34 @@
+===== Map name =====
+Carpe Diem
+
+===== Map description =====
+A few years back the Gods decided they no longer wanted any part in this world.  Now there is total anarchy.  Everybody blames everyone else for the gods abandoning them.  While sitting in the throne room, you decided you are the only person fit to rule.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+It is your belief that the gods didn't abandon their people, but the people have abandoned their gods.  To bring the gods back, you must make the people believe in the gods again, by force if necessary. 
+
+Name:
+Conclusions
+Message:
+It didn't take too long for you to realize the people will not bow down to a new god as easily as you might like. Fine, you tell yourself, if it's a war they want, it's a war they're going to get!
+
+Name:
+Taxing...
+Message:
+Knowing that waging war is expensive, you hand over some resources to help speed things up.
+
+===== Heroes =====
+
+===== Objects =====
+
+(66, 0, 1) ***Spell Scroll***
+Message:
+Just as you bend to pick up the old parchment you hear something move behind you.  Turning around, you notice some marksmen in the trees.  You are not really sure why, but you get the feeling that if you pick up the parchment they will attack.  Do you want to pick up the parchment?
+
+===== End of file =====

@@ -1,0 +1,52 @@
+===== Map name =====
+Insel des Feuers
+
+===== Map description =====
+Der Teufel Memphos und seine Horden haben sich auf der Insel im Südosten niedergelassen. Vernichten Sie ihn, bevor sein Einfluss die gesamte Region korrumpiert.
+
+===== Rumors =====
+
+Name:
+Helfen die Engel?
+Text:
+Einige Engel leben in einer Schlucht in der Nähe, vielleicht helfen sie im Kampf gegen die Teufel? 
+
+===== Timed events =====
+
+Name:
+Erste Warnung.
+Message:
+Elfen-Späher sagen dir, dass es ungefähr vier Monate dauern wird, bis die Teufel genug Truppen gesammelt haben, um hinüberzugehen.  Du musst Memphos ausschalten, um dies zu verhindern.
+
+Name:
+Zeitlimit-Warnung,
+Message:
+Der Schatten der Teufel schleicht näher.  Sie haben nicht mehr viel Zeit, um Memphos zu besiegen und das Land zu retten.
+
+===== Objects =====
+
+(39, 64, 0) ***Event***
+Message:
+Uh oh... Teufelsspuren im Gras, es sieht so aus, als hätten es einige der Biester bereits hinüber geschafft.
+
+(0, 27, 0) ***Event***
+Message:
+Ein alter Mann humpelt zu Dir und sagt, dass er hungrig ist.  Nachdem Sie ihm etwas zu essen gegeben haben, erzählt er Ihnen, dass es in diesem Canyon Engel gibt, die Sie vielleicht um Hilfe bitten möchten.
+
+(63, 42, 0) ***Arch Devil***
+Message:
+Memphos und seine Horde entdecken Ihre Armee und greifen schadenfroh an.  Das ist es, besiege Memphos und das Land ist gerettet!
+
+(66, 22, 0) ***Sign***
+Message:
+"Ein Tribut an die Toten"
+
+(5, 25, 0) ***Angel***
+Message:
+Die Engel haben beschlossen, Sie im Kampf gegen die Teufel zu unterstützen.
+
+(36, 27, 0) ***Event***
+Message:
+In dieser Gegend gibt es viele Spuren von Teufeln.  Es sieht so aus, als würden sie die Küste auskundschaften.
+
+===== End of file =====

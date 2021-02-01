@@ -1,0 +1,100 @@
+===== Map name =====
+Land der Titanen 
+
+===== Map description =====
+Der Titanenkönig hat eine Proklamation ausgesandt: Besiege ihn in 5 Monaten und werde Herrscher über sein Land.  Haben Sie das Zeug dazu, ihn innerhalb dieses Zeitrahmens zu besiegen, oder werden Sie untergehen wie alle anderen?
+
+===== Rumors =====
+
+Name:
+Artefakte der Legion.
+Text:
+Ein vollständiger Anzug der Artefakte der Legion befindet sich irgendwo im Gebiet der Titanen.
+
+Name:
+Wo der König wohnt.
+Text:
+Der König der Titanen hängt an den meisten Tagen bei seiner Burg ab.
+
+===== Timed events =====
+
+Name:
+Ereignis des ersten Tages.
+Message:
+Der König der Titanen bietet sein Königreich demjenigen an, der ihn in 5 Monaten besiegen kann, aber die Berater sagen, dass man sich wahrscheinlich zuerst um den Nachbarn von nebenan kümmern sollte.  
+
+Name:
+Späher-Bericht.
+Message:
+Späher berichten, dass sie ein unterirdisches Tor im nordöstlichen Teil des Landes der Titanen gefunden haben, das den Schlüssel für den Weg ins Innere enthalten könnte.
+
+Name:
+Bericht bestätigt.
+Message:
+Die Späher bestätigen, dass das Tor zu einem Tunnel führt, der schließlich zu einem anderen Land hinaufführt, in dem sich das Questzelt befindet, das Sie benötigen, um das Land der Titanen zu betreten.  Ihre Berater sagen, dass Sie so schnell wie möglich dorthin gelangen sollten, verweilen Sie zu lange und die fünf Monate werden vorbei sein und der Titanenkönig wird immer noch sein Land besitzen.
+
+Name:
+Nachricht vom König.
+Message:
+Eine Nachricht des Titanenkönigs trifft ein, in der er die Gültigkeit Ihrer Herkunft in Frage stellt (er nennt Sie den Sohn einer Ziege).  Du schickst eine ebenso vernichtende Erwiderung zurück (und nennst ihn den Sprössling eines hässlichen Ungetüms).
+
+===== Objects =====
+
+(1, 76, 0) ***Seer's Hut***
+Message:
+Ein älterer Titan begrüßt Sie in der Hütte.  Er setzt sich auf seinen Stuhl und sagt: "Unser Familienerbstück, der Gladius des Titanen, wurde gestohlen, wenn du ihn für uns zurückholst, werden wir dich bei deiner Aufgabe unterstützen, den König zu besiegen, der uns nicht helfen will.  Wir würden es selbst tun, aber der König verbietet uns, unsere Hütte zu verlassen.  Bitte helft uns."
+Danke, dass Ihr unser Familienerbstück zurückgebracht habt. Wie versprochen, werden wir uns Euch anschließen, um unseren ungerechten König zu besiegen.
+
+(65, 44, 0) ***Sign***
+Message:
+Hier ist das Land der Titanen, der Zutritt ist nur mit Genehmigung erlaubt, ansonsten bereitet Euch darauf vor, zerquetscht zu werden.
+
+(37, 86, 0) ***Event***
+Message:
+Titanen, die ihrem König treu ergeben sind, stellen Euch einen Hinterhalt.
+
+(7, 71, 0) ***Event***
+Message:
+Titanen, die ihrem König treu ergeben sind, überfallen dich.
+
+(52, 101, 0) ***Seer's Hut***
+Message:
+Ein älterer Titan, der auf seinem antiken Stuhl sitzt, sagt: "Ich habe in den letzten Jahren nach allen Artefakten der Legion gesucht, aber ich werde zu alt, wenn du sie alle für mich findest, gebe ich dir den Helm der himmlischen Erleuchtung (ich habe sowieso zwei davon)".
+
+(15, 93, 0) ***Tower***
+Name:
+Tyfus
+
+(63, 45, 0) ***Event***
+Message:
+Sie stoßen auf einen riesigen Fußabdruck mit einigen Blutspuren am Boden.
+
+(15, 95, 0) ***Sign***
+Message:
+Das Winterschloss von König Tyfus.	Kommen Sie nächstes Jahr wieder, wenn er nicht zu Hause ist.	Vielen Dank für Ihre Zeit und Geduld.
+
+(18, 40, 0) ***Sign***
+Message:
+Hier ist das Land der Titanen, Zutritt nur mit Genehmigung, ansonsten bereitet euch darauf vor, zerquetscht zu werden.
+
+(65, 75, 0) ***Sign***
+Message:
+Hier ist das Land der Titanen, Zutritt nur mit Genehmigung, sonst wirst du zerquetscht.
+
+(21, 82, 1) ***Titan***
+Message:
+Der König und seine Gefolgsleute greifen an!
+
+(19, 92, 1) ***Random Relic***
+Message:
+Titanen und ihre Haustiere bewachen dieses Artefakt.  Willst du gegen sie kämpfen?
+
+(22, 85, 1) ***Random Relic***
+Message:
+Titanen und ihre Haustiere bewachen dieses Artefakt.  Willst Du sie bekämpfen?
+
+(12, 101, 1) ***Sign***
+Message:
+Willkommen in der Heimat von König Tyfus der Titanen... willkommen in deinem Untergang.
+
+===== End of file =====

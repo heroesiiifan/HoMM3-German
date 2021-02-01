@@ -1,0 +1,48 @@
+===== Map name =====
+Alle für Einen
+
+===== Map description =====
+Drei lebenslange Freunde werden zu Feinden, als jeder nach dem Tod des Königs einen Teil des Königreichs erbt.  Sie müssen ihren ehemaligen Freunden zeigen, wie man regiert ... durch Eroberung.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro Teil 1
+Message:
+Als Jugendliche waren Sie und Ihre beiden besten Freunde unzertrennlich und unternahmen nie etwas, ohne dass die anderen dabei waren.  Später traten Sie in den Dienst des Königs, und obwohl Sie oft mit unterschiedlichen Aufgaben betraut wurden, feierten Sie drei am Ende immer gemeinsam.
+
+Name:
+Intro Teil 2
+Message:
+Als der König starb, änderte sich jedoch eure Freundschaft.  Jeder von Euch erbte einen Teil des Königreichs, um es zu regieren, aber wenn es darum ging, das Königreich zu leiten, hatte jeder von Euch sehr unterschiedliche Ansichten darüber, wie es gemacht werden sollte.
+
+Name:
+Intro Teil 3
+Message:
+Gestern habt Ihr drei aufgehört, miteinander zu sprechen.  Sie haben beschlossen, dass die einzige Form der Kommunikation, die Ihre beiden "Freunde" verstehen werden, ein totaler Krieg ist.
+
+===== Objects =====
+
+(17, 41, 0) ***Ocean Bottle***
+Message:
+Finden Sie den Gral, er ist Ihre einzige Hoffnung!
+
+(20, 30, 0) ***Event***
+Message:
+Ein alter Mann nähert sich und sagt: "Angeblich hat die Hexe Verdish die Stiefel der Polarität, aber sie ist in einem Gefängnis eingesperrt!"
+
+(12, 15, 1) ***Imp***
+Message:
+Mein Schatz, hehe...
+
+(34, 57, 1) ***Imp***
+Message:
+Wer's findet, dem gehört's, hehe...
+
+(50, 53, 1) ***Pandora's Box***
+Message:
+Oh #%$& !
+
+===== End of file =====

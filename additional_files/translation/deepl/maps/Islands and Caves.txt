@@ -1,0 +1,23 @@
+===== Map name =====
+Islands and Caves
+
+===== Map description =====
+You own an island, as do three of your rivals.  The King long ago forbade the use of boats to keep you out of trouble, but you have recently discovered a network of caves connecting all the islands.  Mass your forces, and destroy your rivals once and for all!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Generations ago, four warring factions were threatening to plunge the entire kingdom into chaos.  The King had the four leaders and their followers banished to a chain of islands and forbade the use of boats in an effort to keep them and their descendants out of trouble.
+
+Name:
+Intro Part 2
+Message:
+Little did the King realize, however, that the islands were connected by a series of underground tunnels and caverns, allowing underground access to most of the islands in the area!  At last, you have the opportunity to finish the feud that your ancestors started so long ago!
+
+===== Objects =====
+
+===== End of file =====

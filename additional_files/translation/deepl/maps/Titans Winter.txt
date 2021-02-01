@@ -1,0 +1,17 @@
+===== Map name =====
+Titan's Winter
+
+===== Map description =====
+A terrible earthquake has torn apart the land.  Many different factions have arisen.  Now is the time for you to reunite the Kingdom, but this time under YOUR banner! 
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(71, 11, 0) ***Pandora's Box***
+Message:
+Upon opening the box you find an amazing piece of armor.  You decide to keep it, but your guilty conscience forces you to leave some gold for the previous and unfortunate owner. 
+
+===== End of file =====

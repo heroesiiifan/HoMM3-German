@@ -1,0 +1,40 @@
+===== Map name =====
+Wenn Drachen aufeinanderprallen
+
+===== Map description =====
+Im Krieg von Gut gegen Böse muss am Ende jemand gewinnen, aber der Sieg hängt hier von Ihrer Fähigkeit ab, die Kreaturen dieses Landes zu kontrollieren.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Erste Anweisungen - Das Böse
+Message:
+Die verweichlichten Weltverbesserer auf der Oberfläche sind sogar so weit gegangen, Ihnen den Krieg zu erklären!  Doch dafür müssen sie Truppen aufstellen.  Stellen Sie sicher, dass es IHRE Flagge ist, die auf jeder Kreatur weht, die im Land lebt, und der Sieg wird Ihnen gehören!
+
+Name:
+Erste Anweisungen - Gut
+Message:
+Du hast immer gewusst, dass das Böse unter der Oberfläche dieses Landes lauert, aber jetzt haben sie dir offen den Krieg erklärt.  Hiss deine Flagge auf jeder Behausung und verweigere deinen Feinden die Truppen, die sie für den Sieg brauchen!
+
+===== Objects =====
+
+(64, 22, 0) ***Event***
+Message:
+Ein alter Mann lebt hier in den Wäldern und beschließt, dir ein oder zwei Dinge beizubringen.
+
+(58, 66, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Frische Truppen
+Message:
+Ihr Stellvertreter informiert Sie, dass Verstärkung eingetroffen ist, zusammen mit einer Nachricht, dass Sie sich gut machen.
+
+(30, 63, 1) ***Spell Scroll***
+Message:
+Ein alter Mann wartet geduldig auf einen grimmigen Krieger.  Als er dich sieht, überreicht er dir eine Schriftrolle.  "Dies wird dir in deinen kommenden Kämpfen helfen."
+
+===== End of file =====

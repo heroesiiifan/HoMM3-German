@@ -1,0 +1,172 @@
+===== Map name =====
+Hort
+
+===== Map description =====
+Der Große Krieg tobt nun schon seit geraumer Zeit.  Da alle größeren Truppen weit weg im Krieg kämpfen, sind nur noch die kleineren Truppen mit den älteren Helden übrig, um die Heimatländer zu verteidigen.  Setzen Sie die Horte der Wientruppen weise ein, um Ihre Länder zu verteidigen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Einführung
+Message:
+Der Große Krieg in Aerston hat den Großteil der Ressourcen, Truppen und Helden des Königreichs abgezogen.  Der König hat all seine Anstrengungen darauf verwendet, diesen Krieg zu gewinnen.  Um den Großen Krieg zu führen, ließ der König seine Helden zuerst die kleinen Lords übernehmen, die sich nicht für eine Seite entscheiden konnten, und verbündete sich mit denen
+
+Name:
+Einleitung Cont
+Message:
+deren Ausrichtungen parallel zu Ihren eigenen waren.  Sie kämpfen den Krieg gemeinsam und versuchen, ihre Feinde gemeinsam zu besiegen.  Im Moment sind nur ein paar Helden im Ruhestand und die kleineren, weniger würdigen Truppen zum Schutz der Heimat da.  Der König hat Ihnen die Verantwortung für die wenigen Helden und Truppen überlassen
+
+Name:
+Intro
+Message:
+um die Dinge im Lot zu halten, während er und die anderen weg sind.  Deine Aufgabe ist es, den Frieden zu Hause zu bewahren und dafür zu sorgen, dass Monster und Abtrünnige nicht auf komische Ideen kommen, während der König und seine große Truppe weg sind.
+
+Name:
+Nachrichten von der Front
+Message:
+Es scheint, dass sich herumgesprochen hat, dass Sie sich im Krieg gut schlagen.  Leider ist Euer Nachbar mit Eurer Taktik nicht einverstanden.  Wie unverschämt! Immerhin sind es Ihre Länder, die den größten Teil der Unterstützung und der Intelligenz für diesen Krieg liefern.
+
+Name:
+Verbrauchsmaterial
+Message:
+Die Dinge an der Front sind nicht billig und es wird jede Woche Nachschub benötigt.  Sie schicken die Vorräte.  Sie hoffen, dass Sie sie zu Hause nicht so bald brauchen werden.
+
+Name:
+Nachricht
+Message:
+Sie erhalten eine Nachricht von Ihrem Nachbarn, der sagt, dass Sie ein Weichei sind und es verdienen, übernommen zu werden.  Als Gründe führt er mangelnde militärische Stärke und Intelligenz an.  Er glaubt, dass er diesen Krieg nur gewinnen kann, wenn er die Kontrolle über alles hat.  
+
+Name:
+Antwort
+Message:
+Sie antworten auf die Nachricht des Narren mit einer eigenen.  Es fehlt ihm an militärischer Stärke, was?  Nun, du schickst ihm die Teile seines Botschafters zurück, zusammen mit einer Phiole mit Gift und der Aufschrift "Trink das".  Du hoffst, dass er dumm genug ist, dies tatsächlich zu tun.
+
+===== Objects =====
+
+(18, 8, 0) ***Centaur***
+Message:
+Jetzt, wo die 'großen' Truppen weg sind, bittet Ihr also uns kleine Leute um Hilfe.  Nun, vergesst es einfach!  Wir sind nie gut genug für euch, um uns bei euren kleinen Abenteuern mitzunehmen, also werden wir euch auch jetzt nicht helfen.  Geh und leg ein Ei, Dorkus!
+
+(33, 8, 0) ***Centaur***
+Message:
+Jetzt, wo die "großen" Truppen weg sind, kommen Sie also zu uns kleinen Leuten und bitten um Hilfe.  Nun, vergesst es einfach!  Wir sind nie gut genug für euch, um uns bei euren kleinen Abenteuern mitzunehmen, also werden wir euch auch jetzt nicht helfen.  Geh und leg ein Ei, Dorkus!
+
+(24, 8, 0) ***Dwarf***
+Message:
+Normalerweise werden wir zurückgelassen, weil wir langsam sind und niemand gerne auf uns wartet.  Aber wir sind Zwerge!  Wir sind eine stolze, zähe Rasse, die viel einstecken und austeilen kann.  Da wir gesehen haben, wie ihr diese armen Zentauren abgeschlachtet habt, haben wir beschlossen, uns euch anzuschließen, und weil wir schon eine Weile keine Schlacht mehr gesehen haben.
+
+(23, 6, 0) ***Wood Elf***
+Message:
+Hey! Wir haben auf Euch gewartet und uns gefragt, wo Ihr geblieben seid.  Hat ja auch lange genug gedauert, bis ihr hierher gekommen seid.  Haben dich diese blöden Zentauren genervt?  Sie jammern immer, dass sie nie mitkommen dürfen, aber sie sind so weinerlich, dass wir nur Ressourcen verschwenden würden, um ihre Ärsche herumzuschleppen.
+
+(61, 8, 0) ***Gnoll***
+Message:
+Hey! Was glaubst du, was du da tust?  Du bittest uns Trottel um Hilfe, wenn die "Guten" weg sind?  Du kannst es dir sonst wo hinstecken, du eingebildeter Held.  Wir werden dir überhaupt nicht helfen.  Du bist einfach ein großer Fiesling, weil du uns nie mitgenommen hast!
+
+(63, 4, 0) ***Lizardman***
+Message:
+Wir haben gesehen, was ihr diesen armen Gnolls angetan habt, und wir sind nicht daran interessiert, dass uns das auch angetan wird, also werden wir uns euch anschließen.  Ich kann nicht glauben, dass du so ein großer Depp bist und auf uns kleinen Jungs herumhackst.  Andererseits behandelt ihr Heldentypen uns nie mit dem Respekt, den wir verdienen.  Ihr seid einfach nur ein Pferdearsch.
+
+(67, 4, 0) ***Serpent Fly***
+Message:
+Hat ja auch lange genug gedauert, bis du hierher gekommen bist.  Warum hast du dich mit den kleinen Jungs angelegt?  Was meinst du damit, dass alle anderen abgehauen sind.  Willst du mir sagen, dass wir alles sind, was du hast?  Oh, wir werden diesen kleinen Krieg sooo verlieren.  Gnolls und Echsenmenschen sind einfach völlig nutzlos.
+
+(46, 35, 0) ***Pikeman***
+Message:
+Oh, jetzt braucht ihr also unsere Hilfe.  All die Male, die ihr uns einfach in der Burg sitzen und verrotten lasst, um von einem schrecklichen bösen Kerl rekrutiert zu werden, und dann kommt ihr und tötet uns später, ohne auf unsere Gefühle bei der ganzen Sache Rücksicht zu nehmen.  Nun, wir werden dir nicht helfen, du großes Arschloch.
+
+(44, 26, 0) ***Pikeman***
+Message:
+Oh, jetzt brauchst du also unsere Hilfe.  All die Male, die ihr uns einfach in der Burg sitzen und verrotten lasst, um von einem schrecklichen bösen Kerl rekrutiert zu werden, und dann kommt ihr und tötet uns später, ohne unsere Gefühle bei der ganzen Sache zu berücksichtigen.  Nun, wir werden dir nicht helfen, du großes Arschloch.
+
+(54, 55, 0) ***Skeleton***
+Message:
+Ihr denkt also, dass ihr in eurer Stunde der Not auf diejenigen von uns zurückgreifen könnt, die ihr all die Jahre vernachlässigt habt?  Nun, jetzt werden wir uns auflehnen und euch zeigen, dass wir nicht mehr eure Sündenböcke sind.  Bereite dich auf den Kampf vor, du grausamer Held.
+
+(45, 45, 0) ***Skeleton***
+Message:
+Ihr glaubt also, dass ihr euch in eurer Stunde der Not auf diejenigen von uns berufen könnt, die ihr all die Jahre ausgesucht habt?  Nun, jetzt werden wir uns auflehnen und euch zeigen, dass wir nicht mehr eure Sündenböcke sind.  Bereite dich auf den Kampf vor, du grausamer Held.
+
+(49, 52, 0) ***Walking Dead***
+Message:
+Jetzt kommt Ihr also zu uns langsamen Pokes und bittet um Hilfe.  *seufz* Das ist der Weg unseres Unlebens.  Wir werden zurückgelassen, bis jemand verzweifelt ist und unsere Hilfe braucht.  Ich nehme an, wir sollten uns in eure Reihen einreihen und euch wieder helfen.  Wird uns jemals gedankt werden?  Nein, natürlich nicht.  Was für ein Unleben.
+
+(47, 49, 0) ***Wight***
+Message:
+Wir haben darauf gewartet, dass Sie kommen und uns abholen.  Wir sind bereit, uns mit allem anzulegen, was euch im Nacken sitzt.  Wir saugen das Leben aus den Lebenden und helfen euch, mehr Tote zu erwecken.
+
+(20, 52, 0) ***Imp***
+Message:
+Wir sind also die schwächsten Kreaturen, was?  Weicheier sind wir?  Wir werden es dir zeigen, du übergroßer, erbsenhirniger, infantiler alter Furz.  Wir treten dir in den Schwanz und schicken dich nach Hause zu Mama.
+
+(9, 48, 0) ***Imp***
+Message:
+Wir sind also die schwächsten Kreaturen, was?  Weicheier sind wir?  Dir werden wir's zeigen, du übergroßer, erbsenhirniger, infantiler alter Furz.  Wir treten dir in den Schwanz und schicken dich nach Hause zu Mama.
+
+(14, 47, 0) ***Gog***
+Message:
+Weißt du, alle lassen uns immer zuerst stehen, wenn du Platz brauchst, und behaupten, wir seien nicht gut genug.  Sie nennen es "Ressourcenverschwendung", uns manchmal zu kaufen.  Wie unhöflich!  Schätze, wir werden euch wieder aus der Patsche helfen.  Es sieht uns nicht ähnlich, uns darüber zu beschweren oder so.  Nein, niemals, wir retten euch nur ständig und bekommen nichts.
+
+(59, 71, 0) ***Goblin***
+Message:
+Ihr denkt also, dass ihr in eurer Stunde der Not auf diejenigen von uns zurückgreifen könnt, die ihr all die Jahre vernachlässigt habt?  Nun, jetzt werden wir uns auflehnen und euch zeigen, dass wir nicht mehr eure Sündenböcke sind.  Bereite dich auf den Kampf vor, du grausamer Held.
+
+(45, 71, 0) ***Goblin***
+Message:
+Ihr glaubt also, dass ihr euch in eurer Stunde der Not auf diejenigen von uns berufen könnt, die ihr all die Jahre ausgesucht habt?  Nun, jetzt werden wir uns auflehnen und euch zeigen, dass wir nicht mehr eure Sündenböcke sind.  Bereite dich auf den Kampf vor, du grausamer Held.
+
+(56, 69, 0) ***Wolf Rider***
+Message:
+Wir haben gesehen, was du mit unseren armen Goblin-Cousins gemacht hast.  Du bist so ein großer, fieser Trottel, der auf kleinen Jungs herumhackt.  Wir haben keine andere Wahl, als uns dir anzuschließen, oder?  Wenn wir uns euch nicht anschließen, werdet ihr uns einfach abschlachten, wie ihr es mit den Goblins gemacht habt.  Schön, wie du willst, du großer Fiesling.
+
+(51, 66, 0) ***Orc***
+Message:
+Wir sind rau, wir sind zäh und wir sind bereit, ein paar Lilien in den Hintern zu treten.  Unsere Äxte sind scharf und wir haben viel geübt.  Hauptsächlich, weil wir nichts zu tun hatten, denn normalerweise werden wir zurückgelassen, wenn es nicht genug Platz gibt.
+
+(17, 50, 0) ***Hell Hound***
+Message:
+Bellen! Dach!  Das hat ja lange genug gedauert.  Wir haben darauf gewartet, dass du uns abholst, damit wir unsere Zähne in ein paar matschige Lebewesen versenken können.
+
+(59, 12, 1) ***Fire Elemental***
+Message:
+Meine Atmer haben mir gesagt, dass wir uns eurem Kreuzzug anschließen müssen, denn wenn wir es nicht tun, werdet ihr uns alle töten.  Es ist eine unfreundliche Art, Anhänger zu gewinnen, aber ich nehme an, sie ist effektiv.  Barbaren.
+
+(68, 15, 1) ***Water Elemental***
+Message:
+Wir haben gesehen, was Ihr den Feuerelementaren angetan habt, und haben beschlossen, uns Euren Reihen anzuschließen.  Es ist offensichtlich, dass du ein großer Krieger mit einer großen Aufgabe bist.  Bitte nehmt unser Angebot an.
+
+(68, 9, 1) ***Earth Elemental***
+Message:
+Wer seid Ihr?  Was wollt ihr hier?  Wir wollen solche Fremden nicht in unserem Gebiet?  Wie bist du an den Feuerelementaren vorbeigekommen?  Was für eine schreckliche Bestie, die unschuldige Elementare vernichtet, nur damit ihr den Rest von uns zwingen könnt, sich euch anzuschließen.  Nun, das werden wir nicht zulassen!
+
+(16, 45, 1) ***Behemoth***
+Message:
+Ich bin froh, dass ihr hierher gekommen seid.  Wir sitzen nur hier und versuchen, jeden zu finden, der vorbeikommen will.  Die interessieren sich immer mehr für die Angels, Devils und Titans.  Keiner mag uns, wenn sie in der Nähe sind.  Also sind wir hierher gezogen, aber jetzt kommt nie jemand vorbei, weil wir so weit weg sind.  Können wir uns euch anschließen?
+
+(56, 56, 1) ***Troglodyte***
+Message:
+Wir wissen, wie ihr uns nennt.  Blind und langsam, so nennt ihr uns.  Nur weil wir ein bisschen anders sind als alle anderen, heißt das nicht, dass wir die Arbeit nicht erledigen können.  Nur um es euch zu beweisen, werden wir euch in den Hintern treten und dann werdet ihr sehen, wer Recht hat und wer nicht.
+
+(66, 66, 1) ***Troglodyte***
+Message:
+Wir wissen, wie Sie uns nennen.  Blind und langsam, so nennen Sie uns.  Nur weil wir ein wenig anders sind als alle anderen, heißt das nicht, dass wir den Job nicht erledigen können.  Nur um es euch zu beweisen, werden wir euch in die Pfanne hauen und dann werdet ihr sehen, wer Recht hat und wer falsch liegt.
+
+(58, 61, 1) ***Harpy***
+Message:
+Wir haben immer das Nachsehen, wenn Sie einen anderen finden, der "besser" ist.  Es ist einfach nicht fair, dass Sie uns treue Harpyien zurücklassen, wenn es Ihnen passt.  Das ist einfach unhöflich.  Du solltest mehr auf deine Manieren achten.  Wir denken, dass du in dein Zimmer gehen und darüber nachdenken solltest.  Wenn du damit fertig bist, werden wir uns zu
+
+(62, 63, 1) ***Beholder***
+Message:
+Weißt du, es ist schon eine Weile her, dass uns jemand gesagt hat, was hier los ist.  Kannst du diesmal die Minotauren davon abhalten, auf uns herumzuhacken?  Wir sind nicht gut im Nahkampf, aber wir sind gute Bogenschützen.  Was soll das heißen, sie sind alle weg?  Wir sind also die Besten?  Cool!  Wenn das so ist, haben wir ein paar Forderungen zu erfüllen.
+
+(58, 4, 1) ***Air Elemental***
+Message:
+Ihr müsst ein großer und mächtiger Held sein, wenn ihr die Trottel besiegt habt.  Schollen?  Oh, ja, unser Spitzname für die dummen Erdelementare, die langsam sind und nichts als Schlamm zwischen den Ohren haben.  Natürlich sind wir viel klüger und besser als sie.  
+
+(57, 17, 1) ***Fire Elemental***
+Message:
+Ahh, wie ich sehe, habt Ihr beschlossen, die Elementare für Euren Kreuzzug zu rekrutieren, um Eure Feinde in die Unterwerfung zu schlagen.  In der Vergangenheit wurde unsere Art ignoriert und in euren Städten nicht zugelassen.  Nun, da ihr uns braucht, brauchen wir euch nicht.  Geht weg!
+
+===== End of file =====

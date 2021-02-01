@@ -1,0 +1,58 @@
+===== Map name =====
+Divided Loyalties
+
+===== Map description =====
+The once friendly surface dwellers have declared war against each other, thus dragging the underground lords to do likewise.  Take over all enemy castles to claim victory.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Warning.
+Message:
+Build your forces and crush your enemies, but be warned - the proximity of the Subterranean Gates means that an enemy can sneak up on you!
+
+===== Objects =====
+
+(17, 66, 0) ***Sign***
+Message:
+Orc village Wensal, no elves allowed.
+
+(23, 26, 0) ***Sign***
+Message:
+Welcome to the beautiful goblin villa of Atha.
+
+(68, 62, 0) ***Gold***
+Message:
+A group of Ogres and Ogre Magi are milling about a pile of gold, do you want to fight them for it?
+
+(6, 23, 0) ***Gold***
+Message:
+A small army of dwarves seems to be guarding this gold, do you wish to attack?
+
+(51, 26, 1) ***Sign***
+Message:
+Troglodyte mating baths...no loud noises Please!
+
+(0, 62, 1) ***Event***
+Message:
+Bandits jump out from behind the trees and attack.
+
+(21, 33, 1) ***Gold***
+Message:
+Dwarves guard this gold, do you want to fight them for it?
+
+(23, 38, 1) ***Sign***
+Message:
+Welcome to the Dwarven Villa of  Dwith. 
+
+(39, 20, 1) ***Event***
+Message:
+Rather angry looking dwarves jump out of the mine and attack.
+
+(37, 19, 1) ***Sign***
+Message:
+Dwarven gold mine, no admittance.
+
+===== End of file =====

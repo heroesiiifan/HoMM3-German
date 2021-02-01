@@ -1,0 +1,18 @@
+===== Map name =====
+Crimson and Clover
+
+===== Map description =====
+Yesterday, while sailing along the shore of your homeland, a sudden fog appeared as if by magic. A few minutes after the fog appeared, your ship ran aground and was wrecked. The fog suddenly vanished, revealing a nearby unoccupied castle. Is this some sort of game?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+At night you are awakened by a tremendous crash of thunder.  Floating in the castle courtyard is the giant ghostly figure of a man with the head of a stag.  "I have brought you and three others here to contest for the title of Lord of the Land.  Do not fail or your blood will water the clover."
+
+===== Objects =====
+
+===== End of file =====

@@ -1,0 +1,57 @@
+===== Map name =====
+Phiole des Lebens
+
+===== Map description =====
+Der König von Kyran hat eine extrem seltene Krankheit, die nur mit der Phiole des Lebensblutes geheilt werden kann.  Finden Sie die Phiole und bringen Sie sie dem König, um das Spiel zu gewinnen.  
+
+===== Rumors =====
+
+Name:
+Gerücht über Vampire.
+Text:
+Die Vampire haben die Phiole des Lebensblutes und verstecken sie.
+
+Name:
+Island Liths.
+Text:
+Die Inseln sind durch Monolithen verbunden.
+
+Name:
+Drachen in der Mitte.
+Text:
+Der Drache "Wrethen" bewacht die Phiole des Lebensblutes.  Das Verhängnis erwartet diejenigen, die ihn stören. 
+
+===== Timed events =====
+
+Name:
+Erste Nachricht.
+Message:
+Der König von Kyran braucht die Phiole des Lebensblutes, um zu überleben.  Sei der Erste, der sie ihm bringt, um den Sieg zu erringen!
+
+===== Objects =====
+
+(13, 24, 0) ***Random Town***
+Name:
+Kyram
+
+(88, 45, 0) ***Random Town***
+Name:
+Kyren
+
+(89, 95, 0) ***Sign***
+Message:
+Refuge Peninsula, alle Kreaturen willkommen!
+
+(5, 93, 0) ***Sign***
+Message:
+Refugee Camps, Halbinsel 2.  Alle Kreaturen willkommen!
+
+(56, 26, 0) ***Sign***
+Message:
+Aktuelle Bewohnerin - Fiona von der Flamme - seit 333 Jahren nicht mehr rausgelassen.
+
+(57, 16, 0) ***Castle***
+Name:
+Kyran
+
+===== End of file =====

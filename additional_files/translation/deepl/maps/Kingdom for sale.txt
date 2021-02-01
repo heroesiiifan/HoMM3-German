@@ -1,0 +1,197 @@
+===== Map name =====
+Kingdom for Sale 
+
+===== Map description =====
+The Island kingdom of Light is offering estates to nearby lords... for a price.  Can you successfully buy out (and eventually kick out) all the competition?
+
+===== Rumors =====
+
+Name:
+Better garrisons.
+Text:
+The more expensive estates have a better garrison attached to them.
+
+===== Timed events =====
+
+Name:
+Day one event.
+Message:
+A real-estate agent stops buy and tells you of opportunities that are opening up on the Light Isles, if you are brave enough (and rich enough) to go for them. He also mentions that he has dropped by all the other lords in the area and told them the same thing.
+
+Name:
+Loan.
+Message:
+The local bank loans you 1000 gold in hopes of getting some interest out of the estates you might get (or have).
+
+Name:
+Take interest.
+Message:
+The local banks takes 500 in interest on its loan.
+
+===== Objects =====
+
+(56, 90, 0) ***Random Town***
+Name:
+Sandstrong
+
+(72, 40, 0) ***Random Town***
+Name:
+Craigan Hack
+
+(70, 68, 0) ***Random Town***
+Name:
+Indiovar
+
+(47, 37, 0) ***Random Town***
+Name:
+Camden
+
+(35, 69, 0) ***Random Town***
+Name:
+Craigmoore
+
+(39, 81, 0) ***Random Town***
+Name:
+West Herpsen
+
+(52, 77, 0) ***Random Town***
+Name:
+East Herpsen
+
+(9, 96, 0) ***Random Town***
+Name:
+Forgen
+
+(32, 94, 0) ***Random Town***
+Name:
+Southbender
+
+(99, 97, 0) ***Random Town***
+Name:
+Roughstone
+
+(74, 101, 0) ***Random Town***
+Name:
+Sagepost
+
+(47, 38, 0) ***Quest Guard***
+Message:
+4000 will get you the Camden estates.
+
+(35, 70, 0) ***Quest Guard***
+Message:
+6000 gold will get you the Craigmoor estates.
+
+(39, 82, 0) ***Quest Guard***
+Message:
+6000 gold will get you the West Herpsen estates.
+
+(72, 41, 0) ***Quest Guard***
+Message:
+5000 gold will get you Craigon Hack.
+
+(52, 78, 0) ***Quest Guard***
+Message:
+6000 gold will get you the East Herpsen estates.
+
+(56, 91, 0) ***Quest Guard***
+Message:
+6000 gold will get you Sandstrong estates.
+
+(54, 23, 0) ***Quest Guard***
+Message:
+5000 will get you the Vulcanam estates.
+
+(51, 51, 0) ***Random Town***
+Name:
+Newvorde
+
+(51, 52, 0) ***Quest Guard***
+Message:
+10000 gold will get you the Newvorde estates.
+
+(9, 97, 0) ***Quest Guard***
+Message:
+10000 gold will get you the Forgen estates.
+
+(32, 95, 0) ***Quest Guard***
+Message:
+10000 gold will get you Southbender estates.
+
+(96, 5, 0) ***Random Town***
+Name:
+Redworth
+
+(96, 6, 0) ***Quest Guard***
+Message:
+8000 will get you the Redworth estates.
+
+(48, 39, 0) ***Sign***
+Message:
+Welcome to Camden estates.
+
+(55, 24, 0) ***Sign***
+Message:
+Welcome to Vulcanam estates.
+
+(54, 22, 0) ***Random Town***
+Name:
+Vulcanam
+
+(95, 7, 0) ***Sign***
+Message:
+Welcome to Redworth estates.
+
+(57, 92, 0) ***Sign***
+Message:
+Welcome to the Sandstrong estates.
+
+(53, 79, 0) ***Sign***
+Message:
+Welcome to East Herpson estates.
+
+(40, 83, 0) ***Sign***
+Message:
+Welcome to West Herpsen estates.
+
+(36, 71, 0) ***Sign***
+Message:
+Welcome to Craigmoor Estates.
+
+(33, 96, 0) ***Sign***
+Message:
+Welcome to Southbender estates.
+
+(10, 98, 0) ***Sign***
+Message:
+Welcome to Forgen estates.
+
+(73, 42, 0) ***Sign***
+Message:
+Welcome to Craigan Hack estates,
+
+(71, 70, 0) ***Sign***
+Message:
+Welcome to Indiovar estates.
+
+(52, 53, 0) ***Sign***
+Message:
+Welcome to Newvorde estates.
+
+(99, 98, 0) ***Quest Guard***
+Message:
+10000 gold will get you Roughstone estates.
+
+(74, 102, 0) ***Quest Guard***
+Message:
+10000 gold will get you Sagepost estates.
+
+(101, 98, 0) ***Sign***
+Message:
+Welcome to Roughstone, enjoy your stay.
+
+(76, 102, 0) ***Sign***
+Message:
+Welcome to Sagepost, enjoy your stay.
+
+===== End of file =====

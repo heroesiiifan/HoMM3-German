@@ -1,0 +1,47 @@
+===== Map name =====
+Die Herausforderung
+
+===== Map description =====
+Die Förderung wertvoller Ressourcen wurde auf Eis gelegt, nachdem die Kreeganer in das Land eingefallen sind. Vier Lords, die ihr Schicksal auf die Probe stellen wollen, bereiten sich auf den Kampf um ihre Heimat vor, um sie wieder zu Ruhm und Ehre zu führen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(44, 34, 0) ***Sign***
+Message:
+Dieser kleine Strauch wird eines Tages zu einem großen Baum heranwachsen...
+
+(12, 20, 1) ***Genie***
+Message:
+Sie haben eine uralte Lampe gefunden. Nachdem Sie sie gerieben haben, ist eine Gruppe von Genies vor Ihnen erschienen.
+
+(4, 13, 1) ***Genie***
+Message:
+Sie haben eine uralte Lampe gefunden. Nachdem Sie sie gerieben haben, erschien eine Gruppe von Genies vor Ihnen.
+
+(5, 7, 1) ***Pandora's Box***
+Message:
+
+
+(33, 25, 1) ***Genie***
+Message:
+Du hast eine alte Flasche herausgefischt. Nachdem Du sie gerieben hast, ist eine Gruppe von Genies vor Dir erschienen.
+
+(26, 28, 1) ***Genie***
+Message:
+Du hast eine alte Flasche aus dem Wasser gefischt. Nachdem Sie sie gerieben hatten, stiegen Wolken aus magischem Rauch auf, und eine Gruppe von Genies materialisierte sich auf dem Deck.
+
+(19, 17, 1) ***Sign***
+Message:
+<CROSSED> Höhle des Wissens <Send> Azurblaue Drachenhöhle	
+
+(5, 18, 1) ***Genie***
+Message:
+Du hast eine uralte Lampe gefunden. Nachdem Sie sie gerieben haben, erschien eine Gruppe von Genies vor Ihnen.
+
+===== End of file =====

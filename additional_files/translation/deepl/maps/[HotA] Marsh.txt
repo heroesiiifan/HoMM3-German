@@ -1,0 +1,25 @@
+===== Map name =====
+Marsh
+
+===== Map description =====
+The roads are clean and safe, but the one who dares to turn into a dark thicket, will gain wealth and power.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+The people of these godforsaken lands live in constant fear. Anyone daring to turn from the broad road in the thicket, does not come back... every day a few people disappear in the swamp. Someone said that this is an evil spirit’s deed. Others accuse forest animals, but no one knows the truth.
+
+Name:
+Day 1 cont
+Message:
+It is time to change this situation once and for all! To succeed, resolve the conflict with the other three lords that rule over these marshes. The diplomatic negotiation resulted in a stalemate. Not a single diplomat returned from the mission. Also, not a single representative of other lords has visited you. They might have perished at hands of foul spirit in the swamp... Or maybe enemy armies are marching towards you already, ready for a sneak attack! In that case, we have to forestall them!
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

@@ -1,0 +1,15 @@
+===== Map name =====
+Strait of Storms — Skirmish
+
+===== Map description =====
+Strait of Storms is a strategically important point on this land. Supersede a competitor from the other side and get full control over the strait!
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

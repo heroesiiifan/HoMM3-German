@@ -1,0 +1,23 @@
+===== Map name =====
+Southern Cross
+
+===== Map description =====
+Some say this chain of islands in the southern seas was created by the ancients as a gigantic calendar. Can you claim this region as your own?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro part 1
+Message:
+The layout of this strange chain of islands in the southern seas has led many to speculate that it was created by the ancients as a great calendar or some other fantastic device.
+
+Name:
+Intro part 2
+Message:
+The arguments between astrologers over the region's true origins have become so heated in recent weeks that they have convinced you to go to war with your neighbors. Apparently, the last nation standing gets to write the history books.
+
+===== Objects =====
+
+===== End of file =====

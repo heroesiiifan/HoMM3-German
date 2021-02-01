@@ -1,0 +1,36 @@
+139c139
+< (Klein, Mittel, Groß, Extragroß)"						
+---
+> (Klein, Mittel, Groß, Extragroß, Riesig, Extrariesig, Gigantisch)"						
+310c310
+< Jeder Spieler darf mit einer Stadt anfangen oder auch nicht. Die Wahl besteht zwischen Zufall, Schloss, Schutzwall, Turm, Inferno, Necropolis, Dungeon, Burg, Festung und Konflux.
+---
+> Jeder Spieler darf mit einer Stadt anfangen oder auch nicht. Die Wahl besteht zwischen Zufall, Schloss, Schutzwall, Turm, Inferno, Necropolis, Dungeon, Burg, Festung, Konflux und Bucht.
+372c372,374
+< Statusfenster	SELECTION WINDOW																						
+---
+> Statusfenster	"{Status Window}
+> 
+> Dieses Fenster gibt Auskunft über den Status Ihres Helden oder Königreichs und zeigt das Datum an.  Klicken Sie hier mit der linken Maustaste, um diese Fenster zu durchlaufen."
+566c568
+< Zurück zum Spiel	"{Zurück zum Spiel}
+---
+> Zurück zur Schlacht	"{Zurück zur Schlacht}
+606c608
+< AUTO_BALLISTA_ID,	"{Balliste}
+---
+> AUTO_BALLISTA_ID,	"{Angriffs-Kampfmaschine}
+608c610
+<  Während des Kampfes werden Eure Ballistetruppen entscheiden, auf welche gegenerischen Einheiten sie zielen. Wenn Eure Artillerie-Fähigkeit hoch genug ist, könnt ihr das Ziel selbst bestimmen.
+---
+>  Während des Kampfes werden Eure Angriffs-Kampfmaschinentruppen entscheiden, auf welche gegenerischen Einheiten sie zielen. Wenn Eure Artillerie-Fähigkeit hoch genug ist, könnt ihr das Ziel selbst bestimmen.
+757c759
+< Hieb und Stich	Hieb und Stich		
+---
+> Horn des Abgrunds	Horn des Abgrunds		
+759,760c761,762
+< Neuanfang	Neuanfang		
+< Elixier des Lebens	Elixier des Lebens																						
+---
+> Unter der Piratenflagge	Unter der Piratenflagge		
+> Schrecken der Meere	Schrecken der Meere																						

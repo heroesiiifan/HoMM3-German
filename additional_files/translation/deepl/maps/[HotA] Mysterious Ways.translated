@@ -1,0 +1,146 @@
+===== Map name =====
+Mysteriöse Wege
+
+===== Map description =====
+Dieses kleine Reich lebt nach seinen eigenen Regeln. Alles kann sich hier mit einem Fingerschnippen verändern. Neue Wege tauchen in den Wäldern auf und warten auf einen Abenteurer, der sie betritt. Sie werden sich Ihren eigenen Weg bahnen müssen, um zu triumphieren.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+04 Res + (alle)
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(9, 5, 0) ***Castle***
+
+Timed events:
+
+Name:
+08 Lebewesen +\ Gold + (hum)
+Message:
+
+
+(4, 22, 0) ***Inferno***
+
+Timed events:
+
+Name:
+03 Gold +\ Lebewesen +
+Message:
+
+
+Name:
+08 Lebewesen + (Brummen)
+Message:
+
+
+(15, 32, 0) ***Tower***
+
+Timed events:
+
+Name:
+01 Gold + (Brummen)
+Message:
+
+
+Name:
+02 Gold +
+Message:
+
+
+Name:
+02 Taverne +
+Message:
+
+
+(19, 19, 0) ***Rampart***
+
+Timed events:
+
+Name:
+03 Res +
+Message:
+
+
+Name:
+08 Res +
+Message:
+
+
+Name:
+05 Lebewesen +
+Message:
+
+
+Name:
+03 Lebewesen + (Brummen)
+Message:
+
+
+Name:
+08 Res + (Brummen)
+Message:
+
+
+(31, 6, 0) ***Event***
+Message:
+
+
+(22, 18, 0) ***Event***
+Message:
+
+
+(3, 23, 0) ***Event***
+Message:
+
+
+(19, 21, 0) ***Event***
+Message:
+
+
+(10, 32, 0) ***Event***
+Message:
+
+
+(29, 15, 0) ***Event***
+Message:
+
+
+(2, 3, 0) ***Event***
+Message:
+
+
+(27, 28, 0) ***Event***
+Message:
+
+
+(2, 32, 0) ***Event***
+Message:
+
+
+(30, 4, 0) ***Fortress***
+
+Timed events:
+
+Name:
+04 Res +
+Message:
+
+
+Name:
+08 Gold +\Lebewesen +
+Message:
+
+
+Name:
+08 Schaffen + (Brummen)
+Message:
+
+
+===== End of file =====

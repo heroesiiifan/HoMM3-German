@@ -1,0 +1,41 @@
+===== Map name =====
+A Warm and Familiar Place
+
+===== Map description =====
+A competition has begun between two lesser lords of Hell to become King of the Familiars.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+The Challenge
+Message:
+You and your opponent have been itching to fill a void in the hierarchy of Hell's armies.  There is no ruler of the lesser demonic hordes.  You have chosen to fill this role and become King of the Familiars.		To petition the Lords of Hell for such a post, you must have the support of those you wish to control.  They will not take you seriously unless you can prove half a Legion of Imps is at your disposal.  Now 500 Familiars should be easy to gather, no?
+
+Name:
+Tribute
+Message:
+The Gods of Hell demand Tribute.  Payment is mandatory or else torment will be dispensed.
+
+===== Heroes =====
+
+===== Objects =====
+
+(8, 4, 0) ***Familiar***
+Message:
+We guard the gateway between levels of Hell.  Beyond us lies the Lord against whom you compete for the title of Lord of the Imps.  Beware, for he is a crafty one.  Face him at your peril.
+
+(2, 23, 0) ***Event***
+Message:
+An eerie feeling that you are being watched is unshakable here.  Why that is you do not know, but the feeling will simply not go away.
+
+(30, 3, 1) ***Familiar***
+Message:
+We guard the gateway between levels of Hell.  Beyond us lies the Lord against whom you compete for the title of Lord of the Imps.  Beware, for he is a crafty one.  Face him at your peril.
+
+(32, 18, 1) ***Event***
+Message:
+You feel a shivering cold run up your spine.  You feel as though you are being watched.
+
+===== End of file =====

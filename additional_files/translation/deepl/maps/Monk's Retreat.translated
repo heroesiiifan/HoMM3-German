@@ -1,0 +1,88 @@
+===== Map name =====
+Rückzug der Mönche
+
+===== Map description =====
+Die Mönche, die dieses Gebiet der Welt jahrelang beherrscht haben, sind endlich auf ihre Heimatinseln zurückgedrängt worden.  Als einer der Lords, die durch den Rückzug der Mönche neu befreit wurden, sehen Sie es als Ihre Aufgabe an, diese Länder unter Ihrer Herrschaft zu vereinen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Mönche gibt es immer noch.
+Message:
+Als du dich aufmachst, die Region zu erobern, hörst du Gerüchte, dass die Mönche, die früher herrschten, immer noch irgendwo auf ihren Heimatinseln verbarrikadiert sind.  Wenn Sie in diese Gebiete vordringen und all das Gold und die Artefakte plündern könnten, die die Mönche im Laufe der Jahre an sich gerissen haben, könnte Ihnen das im Kampf gegen die anderen Herrscher helfen.
+
+Name:
+Mönche bewachen Begräbnisstätten.
+Message:
+Späher berichten, dass die Mönche unterirdische Grabstätten bewachen.  Dies würde erklären, warum sie sich in diese Gebiete zurückgezogen haben.  Es lässt auch Ihre Augen leuchten bei all den möglichen Ressourcen und Artefakten, die dort unten vergraben sein könnten.
+
+Name:
+Tal des Klees
+Message:
+Du hörst zufällig von einem vorbeikommenden Händler, dass es im Tal des Klees riesige Reichtümer gibt, aber weil die Mönche es bewachen, konnte er nicht hineingehen, um es selbst zu sehen.
+
+Name:
+Tal des Nebels
+Message:
+Einige Abenteurer erzählen Ihnen vom Tal der Nebel und all den Reichtümern und Artefakten, die in den dichten Wolken verborgen sind.  Leider bewachen die Mönche alles, so dass es ein großes Problem wäre, dorthin zu gelangen.
+
+Name:
+Tal des Tons
+Message:
+Sie finden ein Buch auf einer nahegelegenen Insel, auf der sich das "Tal des Tons" befindet.  Das Buch erzählt von der reichen Flora und Fauna auf dieser Insel und auch von den Reichtümern, die dort zu finden sind.  Leider wird es, wie die anderen Täler auch, von Mönchen streng bewacht.
+
+===== Heroes =====
+
+===== Objects =====
+
+(31, 78, 0) ***Sign***
+Message:
+Jetzt betreten - Tal des Klees
+
+(56, 31, 0) ***Sign***
+Message:
+Jetzt betreten - Tal des Nebels
+
+(64, 59, 0) ***Sign***
+Message:
+Jetzt betreten - Tal des Tons
+
+(62, 60, 0) ***Event***
+Message:
+Mönche schauen von den Zinnen bedrohlich auf Sie herab.
+
+(29, 79, 0) ***Event***
+Message:
+Mönche blicken von den Zinnen bedrohlich auf Sie herab.
+
+(59, 32, 0) ***Event***
+Message:
+Mönche blicken von den Zinnen bedrohlich auf dich herab.
+
+(52, 31, 1) ***Sign***
+Message:
+Innerhalb dieser Mauern ist es nicht erlaubt, länger als eine Stunde zu leben.
+
+(38, 79, 1) ***Monk***
+Message:
+Wir werden nicht zulassen, dass Sie die Toten stören!
+
+(71, 62, 1) ***Monk***
+Message:
+Wir werden nicht zulassen, dass Sie die Toten stören!
+
+(50, 33, 1) ***Monk***
+Message:
+Wir werden nicht zulassen, dass ihr die Toten stört!
+
+(74, 61, 1) ***Sign***
+Message:
+Geht leise, denn die Toten wollen nicht gestört werden.
+
+(40, 77, 1) ***Sign***
+Message:
+Lasst die Toten ruhen.  Unbefugtes Betreten ist verboten.
+
+===== End of file =====

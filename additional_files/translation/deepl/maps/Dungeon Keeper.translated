@@ -1,0 +1,51 @@
+===== Map name =====
+Kerkerwächter
+
+===== Map description =====
+Du bist der böse Dungeon Overlord, Herr über alles, was dunkel und heimtückisch ist.  Dein Meister hat beschlossen, dass es an der Zeit ist, dein Böses in das Land darüber sickern zu lassen und die Narren zu vernichten, die glücklich in Pleasantville wohnen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Einführung
+Message:
+Du hast eine Nachricht von deinem Meister erhalten.  Das kleine Dorf über dir ist schon viel zu lange viel zu glücklich gewesen.  Es ist an der Zeit, dass Du dorthin gehst und ihnen zeigst, was es mit dem Bösen auf sich hat.  Nimm dich vor den Helden in Acht, die das Land durchstreifen.  Sie sind mächtig und werden versuchen, Dich abzuwehren.  
+
+Name:
+Feiern
+Message:
+Es scheint, dass dort oben eine Art Feier stattfindet.  Du kannst hören, wie sie sich amüsieren und herumtanzen.  Der Lärm ist ohrenbetäubend und treibt Sie dazu, einen Diener so hart zu schlagen, dass drei seiner Rippen brechen.  Sie fühlen sich besser.
+
+Name:
+Geburtstag
+Message:
+Heute ist ein besonderer Tag; es ist Ihr Geburtstag.  Also holen die Diener die Peitschen, Ketten und Neunerkatzenschwänze heraus, damit Sie sie an einigen Elfen anwenden können, die gestern nur für diesen Anlass gefangen wurden.  Mit schadenfrohen blutigen Schlägen häuten Sie den ersten Elfen bei lebendigem Leibe und erfreuen sich im Laufe des Tages an den Schreien der anderen.
+
+Name:
+Sich alt fühlen
+Message:
+Da Sie sich heute ein wenig alt fühlen, weil Sie heute Morgen ein graues Haar gefunden haben, beschließen Sie plötzlich, zu sehen, ob Sie es noch mit drei großen Bestien mit bloßen Händen aufnehmen können.  Nachdem Du dem ersten die Knochen gebrochen hast, zerfetzt Du das zweite und weidest das dritte aus.  Ah, ja.  Du hast es immer noch drauf.
+
+Name:
+Was?
+Message:
+Es sieht so aus, als würden sich deine Lakaien untereinander bekämpfen.  Mit einem eisenbespickten Fehdehandschuh verpasst du den Medusen einen Rückhandschlag, trittst den Troglodyten in den Schwanz und schlägst die Evil Eyes nieder.  Sobald Ihre Aggressionen abgebaut und alle anderen bewusstlos sind, kehrt wieder friedliche Folter in Ihr Land ein.
+
+Name:
+Feen
+Message:
+Diese stinkenden Elfen haben angefangen, hochnäsig zu werden und haben stinkende, eklige, stinkende, faulige Blumen überall auf dem Boden deines Dungeons gepflanzt.  Wie konnten sie nur so grausam sein?  Als Vergeltung schickst du die Minotauren aus, um all diese Stiefmütterchen zu enthaupten und sie an Spießen aufzuhängen.
+
+===== Objects =====
+
+(17, 18, 0) ***Rampart***
+Name:
+Pleasantville
+
+(15, 15, 1) ***Dungeon***
+Name:
+Dunkler Moor
+
+===== End of file =====

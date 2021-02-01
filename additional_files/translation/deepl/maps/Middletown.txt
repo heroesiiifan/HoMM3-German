@@ -1,0 +1,79 @@
+===== Map name =====
+Middletown
+
+===== Map description =====
+The land of Carpatha has always been in turmoil, but what it really needs is a city in a central location to put an end to all the chaos.  Take the middle city or defeat all other players to win the game.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1 Event.
+Message:
+Carpatha needs a strong hand to rule it.  Victory goes to the first leader to capture the town of Middletown.
+
+===== Objects =====
+
+(78, 37, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Comp Bonus
+Message:
+Comp Bonus
+
+(55, 53, 0) ***Sign***
+Message:
+Welcome to Middletown, Carpatha!  (Watch your head, town still under construction).
+
+(61, 98, 0) ***Event***
+Message:
+Guards at the door demand an entrance fee.
+
+(26, 80, 0) ***Event***
+Message:
+A mass of pirates jump out from behind the trees, the nearest one shouts "They're tryin' to take our lighthouse mates...arrrrr".  As they attack, you notice some buried pirate treasure nearby.
+
+(80, 17, 0) ***Pandora's Box***
+Message:
+A horde of gargoyles seems to be feasting on the remains of a pirate band.
+
+(86, 16, 0) ***Event***
+Message:
+Imps boil out of the ground and attack!
+
+(66, 27, 0) ***Sign***
+Message:
+Carpathan Schools of War... students bring your ID's for a discount.
+
+(25, 50, 0) ***Sign***
+Message:
+Carpathan Universities, scholarships granted on a case by case basis.
+
+(3, 80, 0) ***Sign***
+Message:
+Tomb of Carpatha the First.  Do not disturb!
+
+(54, 51, 0) ***Castle***
+Name:
+Middletown
+
+(58, 95, 0) ***Sign***
+Message:
+Welcome to Carpatha Stadium, home of the Carpathan Caterpillars.
+
+(76, 53, 1) ***Sign***
+Message:
+Carpathan Mines - East.  Hard hat required.
+
+(21, 54, 1) ***Sign***
+Message:
+Carpathan Mines - West.  Hard hat required.
+
+(47, 57, 1) ***Random Major Artifact***
+Message:
+A group of wyverns seems to be nesting nearby, do you want to chance disturbing them by taking the artifact?
+
+===== End of file =====

@@ -1,0 +1,178 @@
+===== Map name =====
+Pestilenzsee (Verbündete)
+
+===== Map description =====
+Der Pestilenz-See liegt in einem Tal tief in einer unheimlichen Bergkette.  Sie dachten, nur einen Nachbarn zu haben, sei ein Vorteil Ihrer Lage.  Vor kurzem ist ein weiterer Lord in die Gegend gezogen.  Nun versucht er, Sie und Ihren Verbündeten zu vertreiben.  Sie planen, ihn stattdessen zu vertreiben!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Sie und Ihr Verbündeter sind ursprünglich zum Pestilenzsee gezogen, um dem Rest der Welt zu entkommen.  Dann haben deine Späher letzte Woche berichtet, dass ein anderer Lord in die Gegend gezogen ist.  Deine Späher fanden heraus, dass dein neuer Nachbar Armeen für einen Krieg aufstellt.  Also will er Krieg!  Deine Allianz plant, ihn stattdessen zu vertreiben!
+
+===== Heroes =====
+
+===== Objects =====
+
+(91, 14, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliche Einnahmen
+Message:
+
+
+Name:
+Zusätzliche Kreaturen
+Message:
+
+
+(62, 14, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus
+Message:
+
+
+Name:
+Magier-Gilde
+Message:
+
+
+Name:
+Schmied
+Message:
+
+
+Name:
+Marktplatz
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliche Einnahmen
+Message:
+
+
+Name:
+Zusätzliche Kreaturen
+Message:
+
+
+(92, 40, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus
+Message:
+
+
+Name:
+Zitadelle
+Message:
+
+
+Name:
+Hortgebäude
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+Name:
+Zusätzliche Kreaturen
+Message:
+
+
+(35, 13, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Rathaus
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Zusätzliche Einnahmen
+Message:
+
+
+Name:
+Zusätzliche Kreaturen
+Message:
+
+
+(68, 35, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Zusätzliches Einkommen
+Message:
+
+
+(53, 69, 0) ***Sign***
+Message:
+Pestilenzsee Trinken Sie das Wasser nicht.
+
+(67, 54, 0) ***Sign***
+Message:
+Pestilenzsee Trinken Sie das Wasser nicht.
+
+(41, 55, 0) ***Sign***
+Message:
+Pestilenz-See Trinken Sie das Wasser nicht.
+
+(48, 44, 0) ***Sign***
+Message:
+Pestilenz-See Trinken Sie das Wasser nicht.
+
+(76, 13, 0) ***Event***
+Message:
+Die Magischen Ebenen geben dir einen besonderen Vorteil!
+
+(92, 27, 0) ***Event***
+Message:
+Die Magischen Ebenen geben dir einen besonderen Vorteil!
+
+(41, 10, 0) ***Event***
+Message:
+Die Magischen Ebenen gewähren Ihnen einen besonderen Vorteil!
+
+===== End of file =====

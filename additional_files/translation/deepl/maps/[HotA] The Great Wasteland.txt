@@ -1,0 +1,55 @@
+===== Map name =====
+The Great Wasteland
+
+===== Map description =====
+Back in the day, these lands had been bustling with life and prospering, before an experiment of a mad alchemist gone awry turned them into a charred wasteland. The lords who survived the calamity aim to take over this place, odd-looking but still full of treasure. You must act immediately to beat t
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 19, 0) ***Sign***
+Message:
+Burial ground.
+
+(49, 1, 0) ***Ocean Bottle***
+Message:
+Why would you even want this bottle? There's nothing in it. Well, since you're here anyway, let me tell you the Grail's in the underworld.
+
+(2, 23, 0) ***Event***
+Message:
+The dead rise from their graves and attack!
+
+(56, 21, 0) ***Pandora's Box***
+Message:
+
+
+(31, 68, 1) ***Sign***
+Message:
+Dangur! Git outta hear!
+
+(32, 67, 1) ***Event***
+Message:
+You'se gonna regrat bein' born!
+
+(2, 7, 1) ***Zealot***
+Message:
+May the Light guide you on your path!
+
+(20, 57, 1) ***Sign***
+Message:
+Possible Archangel dwelling
+
+(18, 64, 1) ***Sign***
+Message:
+Here lives a famous card magician, also a sorcerer and a conjurer!
+
+(42, 29, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

@@ -1,0 +1,44 @@
+===== Map name =====
+With Sword and Fire
+
+===== Map description =====
+There comes a day when even a ranger as legendary as Kyrre can't find her way out of the forest maze. To make things worse, the woods are peppered with traps and riddles. Seeing as elves can't bring themselves to hurt the trees, she will have to hack and burn someone else.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+- all res
+Message:
+You have no gold or resources.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 9, 0) ***Pandora's Box***
+Message:
+
+
+(12, 6, 0) ***Pandora's Box***
+Message:
+
+
+(24, 15, 0) ***Pandora's Box***
+Message:
+
+
+(1, 24, 0) ***Pandora's Box***
+Message:
+
+
+(32, 20, 0) ***Pandora's Box***
+Message:
+
+
+(10, 2, 0) ***Marksman***
+Message:
+No Pixies beyond this line.
+
+===== End of file =====

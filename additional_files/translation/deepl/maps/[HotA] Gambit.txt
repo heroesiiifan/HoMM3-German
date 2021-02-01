@@ -1,0 +1,20 @@
+===== Map name =====
+Gambit
+
+===== Map description =====
+This rigorous land is as unbelievably rich in resources and artifacts as in enemies. Conquer the nearest isles, roam the seas or try to defeat the guards of mysterious portal. Anyway, be ready for war.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Oops...
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

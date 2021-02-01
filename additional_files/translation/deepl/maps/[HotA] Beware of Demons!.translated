@@ -1,0 +1,88 @@
+===== Map name =====
+Hüten Sie sich vor Dämonen!
+
+===== Map description =====
+Sie wurden mit einer wichtigen Mission betraut - Sie sollen Gebiete erkunden, die auf keiner Karte eingezeichnet sind. Doch was erwartet den Abenteurer in diesen gefährlichen und geheimnisvollen Gegenden?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+angekommen
+Message:
+Es ist schon ein paar Wochen her, dass Sie die letzte bewohnte Insel verlassen haben und sich auf die Meere begeben haben. Nun endlich sehen Sie am Horizont etwas, das ein unbekanntes Land zu sein schien...
+
+Name:
+Pfadfinder
+Message:
+Die Späher berichten, dass es im Nordosten eine Burg gibt... Die schlechte Nachricht: Es gibt dort Nekromanten.
+
+Name:
+nec und dem
+Message:
+Die einheimischen Wilden erzählten immer wieder, dass die Nekromanten aus dem Norden einen Pakt mit den Dämonen in den Kerkern geschlossen haben... Es heißt, dass die unterirdischen Kreaturen bald ihr Ritual vollenden werden und in der Lage sein werden, an die Oberfläche zu kommen!
+
+Name:
+Geschichte
+Message:
+Die einheimischen Wilden erzählten mir die Legende des alten Helden und sie erzählten mir auch von einem verrückten alten Mann, der am Ufer eines Flusses lebt.
+
+Name:
+gefangen
+Message:
+Ich habe über die Legende des alten Helden nachgedacht... Vielleicht haben wir, wenn wir ihn befreien, eine Chance, im Kampf gegen die Dämonen zu überleben.
+
+Name:
+Hilfe
+Message:
+Heute Morgen haben wir ein kleines Schiff ausgerüstet und die Leute zurück in den Hafen geschickt, von dem aus wir hierher gekommen sind. Ich hoffe, dass sie ohne Probleme nach Hause kommen und von all den Schrecken berichten, die in dieser Gegend verübt werden. Sie sollten auch um Verstärkung bitten. Wenn alles nach Plan läuft, wird die Hauptflotte in etwa 2 Monaten hier eintreffen.
+
+Name:
+Ende
+Message:
+Nicht mehr lange warten! Unsere Zauberinnen berichten, dass die Schiffe in 4 Tagen hier sind!
+
+===== Heroes =====
+
+===== Objects =====
+
+(12, 31, 0) ***Seer's Hut***
+Message:
+Fremde! Kennst du die uralte Legende von diesen Orten? Vor langer Zeit fingen die schrecklichen Dämonen der Unterwelt einen großen alten Helden und sperrten ihn in eine uneinnehmbare Festung. Als die Jahre vergingen, schwemmten Meereswellen die Küstengebiete der Insel... Seitdem wird die Festung, die zur Grabstätte des alten Kriegers geworden ist, von der Wasserschule beherrscht. Siehst du diese Klinge? Die Legende besagt, dass ein Gefangener des Grabes es an sich nehmen und die Dämonen zur Rechenschaft ziehen kann!
+Hast du das Grabmal gesehen, das auf dem Grund des Meeres schläft, Fremder?
+Er ist wieder da! Gelobt seien die Götter!
+
+(1, 27, 0) ***Prison***
+Name:
+Dagon
+Biography:
+???
+
+(34, 31, 0) ***Sign***
+Message:
+Den
+
+(5, 27, 0) ***Ocean Bottle***
+Message:
+"Hüte dich vor den Dämonen der Unterwelt..."
+
+(3, 30, 1) ***Inferno***
+
+Timed events:
+
+Name:
+õàëÿâà
+Message:
+
+
+(6, 3, 1) ***Inferno***
+
+Timed events:
+
+Name:
+õàëÿâà
+Message:
+
+
+===== End of file =====

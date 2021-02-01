@@ -1,0 +1,23 @@
+===== Map name =====
+Gut zu gehen
+
+===== Map description =====
+Um die Häufigkeit der Kriege zwischen den verschiedenen Nationen zu reduzieren, hat der Kaiser eine kleine Region als Schlachtfeld festgelegt, um die Differenzen zwischen den streitenden Lords zu schlichten. Ihr Schloss beginnt vollständig aufgebaut, so dass Sie sich darauf konzentrieren können, Ihren Gegner zu besiegen. Viel Glück!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Start-Ressourcen
+Message:
+Das Duell hat begonnen und wird erst enden, wenn einer von Ihnen übrig bleibt. Als Teil des Rituals des Kampfes in dieser Region werden Sie mit genügend Vorräten ausgestattet, mit denen Sie den Krieg führen können.
+
+Name:
+Warnung
+Message:
+Seien Sie vorsichtig, denn die Eingeborenen werden versuchen, sowohl Sie als auch Ihren Gegner vom Sieg abzuhalten!
+
+===== Objects =====
+
+===== End of file =====

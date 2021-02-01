@@ -1,0 +1,21 @@
+===== Map name =====
+Irrational Hostility
+
+===== Map description =====
+Over the years there has been peace.  The lack of war has weakened your armies and brought the morale of your kingdom down.  It is time to liven things up....well, get to work.   
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(15, 11, 0) ***Sign***
+Message:
+Unicorn Valley to the south.  Enter at your own risk. 	
+
+(35, 32, 0) ***Sign***
+Message:
+Unicorn Valley to the North.  Enter at your own risk. 
+
+===== End of file =====

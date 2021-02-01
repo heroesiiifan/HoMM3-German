@@ -1,0 +1,90 @@
+===== Map name =====
+Elbow Room
+
+===== Map description =====
+This world ain't big enough for all of us. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+It seems like every day you get into a fight with your neighbor.  After a brief consideration for your people you decided that you are tired of arguing.  Now they Die. 
+
+===== Objects =====
+
+(31, 32, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Stuff
+Message:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(3, 32, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Stuff
+Message:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(31, 5, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Stuff
+Message:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(3, 19, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Stuff
+Message:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(17, 6, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Stuff
+Message:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(31, 19, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Stuff
+Message:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(18, 32, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Stuff
+Message:
+As you wake up, your scouts give you what they have been foraging for the week
+
+(2, 5, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Stuff
+Message:
+As you wake up, your scouts give you what they have been foraging for the week
+
+===== End of file =====

@@ -117,14 +117,14 @@ Ein gebräuchliches Beispiel für diese Art Fehler ist das Beflaggen von Minen, Be
 """%s hat eine Schiffswerft, ist aber von Land umschlossen.""
 Wenn eine Stadt mit einer Werft im Binnenland liegt, kann der Spieler zwar Boote kaufen, aber die Boote erscheinen nicht auf der Karte. Eine Stadt muss mit der linken oder rechten unteren Ecke des Stadteingangs an ein Uferfeld grenzen.
 "
-"""Es gibt nur einen Zweiwege-Monolithen (%s) auf der Karte.""
-‘Zweiwege’-Monolithen sind 'Teleporter'. Wenn Ihr nur einen Zweiwege-Monolithen platziert, gibt es keinen Ausgang für Helden, die ihn betreten.
+"""Es gibt nur einen %s auf der Karte.""
+‘Zweiwege’-Monolithen/Portale sind 'Teleporter'. Wenn Ihr nur ein Zweiwege-Monolithen/Portal platziert, gibt es keinen Ausgang für Helden, die ihn betreten.
 "
-"""Es gibt einen oder mehr Einweg-Monolithen Eingänge auf der Karte, aber keine Ausgänge (%s).""
-Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen. Wenn Ihr einen Einweg-Monolithen Eingang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Ausgang geben.
+"""Es gibt einen oder mehr %s auf der Karte, aber keine zugeordneten Ausgänge.""
+Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen/Portale. Wenn Ihr einen Einweg-Monolithen/Portal Eingang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Ausgang geben.
 "
-"""Es gibt einen oder mehrere Einweg-Monolithen Ausgänge (%s) auf der Karte, aber keine Eingänge (%s).""
-Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen. Wenn Ihr einen Einweg-Monolithen Ausgang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Eingang geben.
+"""Es gibt einen oder mehrere %s auf der Karte, aber keine zugeordneten Eingänge.""
+Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen/Portale. Wenn Ihr einen Einweg-Monolithen/Portal Ausgang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Eingang geben.
 "
 """Es gibt einen oder mehrere Untergrundtore, aber diese Karte hat noch keine unterirdische Ebene.""
 Normalerweise werden die Untergrundtore benutzt, um zu den unterirdischen Ebenen zu gelangen. Wenn es keine Untergrundebene gibt, wird der Held, der den Eingang benutzt, einfach abgewiesen.
@@ -134,7 +134,7 @@ Am Anfang des Szenarios werden alle Untergrundtore paarweise mit dem nächsten To
 """Es gibt mehr Untergrundtore im Untergrund als auf der Oberfläche.""
 Am Anfang des Szenarios werden alle Untergrundtore paarweise mit dem nächsten Tor auf der gegenüberliegenden Ebene verbunden. Wenn es mehr Tore im Untergrund gibt, können sie nicht paarweise verbunden werden."
 """Das Such-Artefakt (%s) ist: '%s', aber das Artefakt wurde noch nicht auf der Karte platziert.""
-Damit ein Spieler die Aufgabe der Seher-Hütte lösen kann, muss das Suchobjekt (das zugewiesene Artefakt) auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer anderen Seher-Hütte.
+Damit ein Spieler die Aufgabe der Seher-Hütte, des Aufgabenwächters oder dem Aufgabentor lösen kann, muss das Suchobjekt (das zugewiesene Artefakt) auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste, in einer Kreaturenbank, als Belohnung in einer anderen Seher-Hütte oder als Teil eines kombinierten Artefaktes. Bei einem kombinierten Artefakt können seine Komponenten anstelle des Artefakts selbst auf der Karte vorhanden sein.
 "
 """Es gibt nur einen Spieler auf der Karte, und es gibt keine spezielle Siegesbedingung.""
 Wenn es nur einen Spieler auf der Karte gibt, und keine spezielle Siegesbedingung, dann würde der Spieler das Spiel augenblicklich gewinnen.
@@ -143,7 +143,7 @@ Wenn es nur einen Spieler auf der Karte gibt, und keine spezielle Siegesbedingun
 Wenn es nur einen Spieler auf der Karte gibt, und die normale Siegesbedingung nicht deaktiviert wurde, würde der Spieler das Spiel augenblicklich gewinnen."
 """Es gibt keine Probleme mit dieser Karte."""
 """Die spezielle Siegesbedingung ist, das Artefakt '%s' zu beschaffen, aber es wurde noch nicht auf der Karte platziert.""
-Um die Siegesbedingung 'bestimmtes Artefakt beschaffen' erfüllen zu können, muss das entsprechende Artefakt auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer Seher-Hütte."
+Um die Siegesbedingung 'bestimmtes Artefakt beschaffen' erfüllen zu können, muss das entsprechende Artefakt auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste, in einer Kreaturenbank, als Belohnung in einer anderen Seher-Hütte oder als Teil eines kombinierten Artefaktes. Bei einem kombinierten Artefakt können seine Komponenten anstelle des Artefakts selbst auf der Karte vorhanden sein."
 """Die spezielle Siegesbedingung ist, das Artefakt '%s' zu beschaffen, aber %s besitzt dieses Artefakt bereits.""
 Wenn der Held eines Spielers das Spiel mit dem Artefakt beginnt, das benötigt wird, um die spezielle Siegesbedingung zu erfüllen, hat er das Spiel augenblicklich gewonnen."
 """Die spezielle Siegesbedingung ist, %d %s zu beschaffen, aber %s hat bereits %d %s.""
@@ -178,7 +178,7 @@ Wenn ein menschlicher Spieler, oder einer seiner Verbündeten, die angegebene Sta
 """Die spezielle Siegesbedingung ist, alle Minen zu besetzen, aber %s besitzt bereits alle Minen.""
 "
 """Die spezielle Siegesbedingung ist, das Artefakt '%s' zu transportieren, aber dieses Artefakt wurde noch nicht auf der Karte platziert.""
-Damit ein Spieler ein bestimmtes Artefakt transportieren kann, muss es auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer Seher-Hütte."
+Damit ein Spieler ein bestimmtes Artefakt transportieren kann, muss es auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste, in einer Kreaturenbank, als Belohnung in einer anderen Seher-Hütte oder als Teil eines kombinierten Artefaktes. Bei einem kombinierten Artefakt können seine Komponenten anstelle des Artefakts selbst auf der Karte vorhanden sein."
 """Die spezielle Verlustbedingung ist, die Stadt %s zu verlieren, aber diese Stadt ist nicht im Besitz eines anderen Spielers.""
 Die spezielle Verlustbedingung 'Verlust einer bestimmten Stadt' muss auf den einzigen und alleinigen menschlichen Spieler angewendet werden. Andernfalls verliert jeder menschliche Spieler, der die Stadt nicht besitzt, augenblicklich das Spiel.
 "
@@ -294,7 +294,7 @@ Generiere Karte...
 Kann keine Zufallskarte erstellen.
 Helden
 """%s hat keine Aufgabe.""
-Der Zweck von Seher-Hütten und Aufgaben-Toren ist, dem Spieler eine Aufgabe zu geben. Wenn keine Aufgabe zugewiesen wird, erfüllen sie keinen Zweck.
+Der Zweck von Seher-Hütten, dem Aufgaben-Wächter und Aufgaben-Toren ist, dem Spieler eine Aufgabe zu geben. Wenn keine Aufgabe zugewiesen wird, erfüllen sie keinen Zweck.
 "
 "Dieses Objekt kann nur in ""Armageddon's Blade""- oder ""The Shadow of Death""-Karten platziert werden."
 Kein
@@ -591,13 +591,13 @@ Einstellung
 "&Umgänglich
 (Laufen immer zum Helden über)"
 "&Freundlich
-(Überlaufen wahrscheinlich)"
+(Überlaufen wahrscheinlich, 1–7)"
 "&Aggressiv
-(Überlaufen möglich)"
+(Überlaufen möglich, 1–10)"
 "F&eindlich
-(Überlaufen unwahrscheinlich)"
+(Überlaufen unwahrscheinlich, 4–10)"
 "&Barbarisch
-(Laufen nie zum Helden über)"
+(Laufen nie zum Helden über, 10)"
 &Monster flieht nie
 Eigene &Nachricht:
 Monster Properties Treasure Page

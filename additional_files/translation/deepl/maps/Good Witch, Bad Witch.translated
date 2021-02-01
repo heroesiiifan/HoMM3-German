@@ -1,0 +1,189 @@
+===== Map name =====
+Gute Hexe, böse Hexe
+
+===== Map description =====
+Gulcheria, die böse Hexe des Ostens, hat beschlossen, ihre Grenzen zu erweitern, indem sie Verstärkung anfordert, Hexenmeister aus dem tiefen Süden.  Wenn diese Verstärkung eintrifft, ist alles verloren.  Als Glinda, die gute Hexe des Westens, müssen Sie sie aufhalten, bevor die Zeit abläuft
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Hund Toto schließt sich an.
+Message:
+Als Sie sich auf den Weg machen, um Gulcheria aufzuhalten, kommt Ihr treuer Höllenhund Toto mit einem kleinen Rudel seiner Freunde angerannt, um sich Ihrer Gruppe anzuschließen.
+
+Name:
+Böses Lachen
+Message:
+Eine körperlose Stimme gackert: "Ich kriege dich, meine Hübschen, und deinen Höllenhund Toto auch!"  Das Lachen verklingt in der Ferne. 
+
+Name:
+Munchkin-Bonus
+Message:
+Eine Gruppe von Zwergenmunchkins, die von Gulcheria beschimpft wurden, spendet 2000 Goldstücke für den Fonds "Schlag die böse Hexe".
+
+===== Heroes =====
+
+===== Objects =====
+
+(105, 73, 0) ***Fortress***
+Name:
+Osthexe 
+
+Timed events:
+
+Name:
+Böse-Hexe-Bonus.
+Message:
+Die Nekromanten geben der Bösen Hexe einen Bonus.
+
+(105, 74, 0) ***Witch***
+Name:
+Gulcheria
+Biography:
+Gulcheria ist die böse Hexe des Ostens und hat vor, mit Hilfe des Nekromanten im Süden den ganzen Ort zu übernehmen.  Glinda, ihre Erzfeindin, ist die Einzige, die sie aufhalten kann.
+
+(37, 39, 0) ***Witch***
+Name:
+Glinda
+
+(36, 39, 0) ***Sign***
+Message:
+Graue Ziegelsteinstraße.
+
+(13, 43, 0) ***Event***
+Message:
+Du bestaunst die wunderschönen Mohnblumen, gähnst und schläfst dann plötzlich ein.  Kurze Zeit später wachst du auf, fühlst dich seltsam, und plötzlich stürzen sich Dutzende von Kobolden von allen Seiten auf dich.
+
+(9, 60, 0) ***Rampart***
+Name:
+Munchkin-Stadt
+
+(19, 40, 0) ***Sign***
+Message:
+Südlich nach Munchkin Town.
+
+(72, 15, 0) ***Event***
+Message:
+Gulcherias Truppen locken Sie in einen Hinterhalt!
+
+(63, 61, 0) ***Sign***
+Message:
+Schlucht des Gargoyles.  Bleiben Sie draußen!
+
+(62, 61, 0) ***Event***
+Message:
+Gargoyles flattern von den Bergen herunter und greifen an!
+
+(0, 32, 0) ***Crystal***
+Message:
+Golems treten aus der Mitte der Kristalle hervor und greifen an.
+
+(3, 33, 0) ***Crystal***
+Message:
+Golems treten zwischen den Kristallen hervor und greifen an.
+
+(3, 31, 0) ***Sign***
+Message:
+Kristallfelder.  Vorsicht vor Wächtern!
+
+(2, 71, 0) ***Wood Elf***
+Message:
+Die Elfen schließen sich Ihnen bereitwillig im Kampf gegen die böse Hexe an und überlassen Ihnen als Bonus die Ressourcen.
+
+(3, 81, 0) ***Event***
+Message:
+Eine Horde von Mönchen steht vor dem Tor und verlangt Ressourcen, um die Schule zu betreten. Geben Sie ihnen besser, was sie wollen, denn ein Versagen wäre schlecht, sehr schlecht.
+
+(16, 52, 0) ***Sign***
+Message:
+Munchkin ziehen sich zurück.
+
+(66, 37, 0) ***Sign***
+Message:
+Schlucht der Harpyie.
+
+(87, 48, 0) ***Pandora's Box***
+Message:
+Du findest einige verrostete Golems in der Kiste.  Nachdem Sie ihnen etwas Öl gegeben haben, erwachen sie zum Leben und schließen sich Ihnen an!
+
+(11, 32, 0) ***Event***
+Message:
+Du findest eine Gruppe von kauernden Gnolls am Straßenrand.  Nach einem einstündigen, herzlichen Gespräch fassen sie Mut und beschließen, sich Ihnen anzuschließen.
+
+(74, 47, 0) ***Sign***
+Message:
+Der verlassene Sumpf.
+
+(107, 65, 0) ***Random Relic***
+Message:
+Als Sie sich dem Relikt nähern, fliegt eine kleine Gruppe grüner Drachen herab, um Sie herauszufordern.  Wollen Sie gegen sie kämpfen?
+
+(102, 63, 0) ***Sign***
+Message:
+Casaras Cache.  Bleiben Sie draußen!
+
+(74, 54, 0) ***Sign***
+Message:
+Hüte dich vor dem bösen Wald!
+
+(25, 22, 0) ***Black Knight***
+Message:
+Die bösen Ritter des Nordens grüßen dich und greifen dann an.
+
+(26, 64, 0) ***Sign***
+Message:
+Munchkin-Läden.
+
+(44, 51, 0) ***Sign***
+Message:
+Notfallfonds.
+
+(5, 63, 0) ***Sign***
+Message:
+Munchkin-Teich.  Schwimmen verboten!
+
+(37, 38, 0) ***Rampart***
+Name:
+Smaragdstadt
+
+(97, 41, 0) ***Event***
+Message:
+Wenn Sie sich dem Grabmal nähern, bemerken Sie eine Tafel mit dem Wort "Glinda" darüber.
+
+(40, 9, 0) ***Obsidian Gargoyle***
+Message:
+Die bösen Wasserspeier des Nordens starren Sie an, beschimpfen Sie und zeigen Ihnen unhöfliche Handgesten, bevor sie angreifen.
+
+(94, 74, 0) ***Event***
+Message:
+Diese Garnison wurde gebaut, um Gulcheria drinnen zu halten; leider wird sie wahrscheinlich auch Sie draußen halten.
+
+(75, 57, 0) ***Event***
+Message:
+Sie finden einen Apfel, der noch an einem Baum hängt, und pflücken ihn ab.  "Wie würde es dir gefallen, wenn ich dir das Obst abpflücke?", brüllt der Baum.  Plötzlich greifen er und andere Bäume in der Nähe an!
+
+(91, 36, 0) ***Witch***
+Name:
+Böser Cousin
+
+(32, 31, 0) ***Event***
+Message:
+Untote erheben sich aus dem Sand und greifen an.  Offensichtlich ist dies das Werk der bösen Hexe.
+
+(96, 78, 0) ***Quest Guard***
+Message:
+Ein müder alter Wächter sagt: "Nur mit dem Sieg über die bösen Gargoyles des Nordens wird dein Weg frei sein.
+Der müde alte Wächter sieht dich an und sagt: "Ich habe nichts von der Niederlage der Gargoyles des Nordens gehört, und deshalb sollst du nicht passieren".
+Die Nachricht von deiner Niederlage gegen die bösen Gargoyles des Nordens hat sich schnell herumgesprochen.  Willst du passieren, oh tapfere Hexe?
+
+(96, 79, 0) ***Event***
+Message:
+Du stößt auf ein kleines Becken mit kristallklarem Wasser, in dem einige Kleidungsstücke liegen.  Nachdem du die Kleidungsstücke durchstöbert hast, stellst du fest, dass sie wahrscheinlich einmal einer Hexe gehört haben, obwohl es ein Rätsel ist, warum sie ihre Kleidung hier gelassen hat.  Als du gerade gehen willst, bemerkst du eine Nachricht, die in den Schlamm neben dem Wasser gekritzelt wurde.  Sie lautet: "I'm meltinggg..."
+
+(97, 77, 0) ***Event***
+Message:
+Gargoyles, die Gulchera treu ergeben sind, kochen aus dem Sumpf und greifen an.
+
+===== End of file =====

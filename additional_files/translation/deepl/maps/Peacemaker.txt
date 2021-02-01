@@ -1,0 +1,67 @@
+===== Map name =====
+Peacemaker
+
+===== Map description =====
+The Elven city Sharath has become hostile to the surrounding lords after the sixth border dispute in the last month.  Take over Sharath to end the dispute.  
+
+===== Rumors =====
+
+Name:
+Island rumors
+Text:
+The Islands hold the keys to crack the elven barriers.
+
+Name:
+Orcs
+Text:
+There are orcs in the forest who will join you in your fight against the elves.
+
+===== Timed events =====
+
+Name:
+Elven nation massing.
+Message:
+The Elves have sent out for reinforcements, and you estimate four months before a horde of angry wood elves will arrive and rally around Sharath.  Sharath must fall before this time.
+
+Name:
+Other lords.
+Message:
+You send a message to the other lords that it might be prudent to team up and fight Sharath, you eagerly await their reply.
+
+Name:
+Reply.
+Message:
+The other lords' reply is less then enthusiastic, they all feel they can defeat each other as well as the elves.  Oh well, looks like you're on your own.
+
+Name:
+Extra resources.
+Message:
+Rich patrons from over seas send you gold to help your cause.
+
+===== Objects =====
+
+(34, 37, 0) ***Rampart***
+Name:
+Sharath
+
+(8, 27, 0) ***Ocean Bottle***
+Message:
+The islands are the key.
+
+(69, 57, 0) ***Ocean Bottle***
+Message:
+The Islands are the key.
+
+(24, 45, 0) ***Orc***
+Message:
+The orcs willingly join your fight against the elves.
+
+(42, 25, 0) ***Orc***
+Message:
+The orcs willingly join your fight against the elves.
+
+(49, 35, 0) ***Orc***
+Message:
+The orcs willingly join your fight against the elves.
+
+===== End of file =====

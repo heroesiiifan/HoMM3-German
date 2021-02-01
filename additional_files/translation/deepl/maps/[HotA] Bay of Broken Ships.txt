@@ -1,0 +1,15 @@
+===== Map name =====
+Bay of Broken Ships
+
+===== Map description =====
+There is a belief that a reward is set to the one able to release all the restless sailors souls. Many do not believe the legends, and try not to navigate through the damned bay, but you're not one of those...
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

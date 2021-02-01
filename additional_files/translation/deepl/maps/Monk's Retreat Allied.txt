@@ -1,0 +1,88 @@
+===== Map name =====
+Monk's Retreat (Allies)
+
+===== Map description =====
+The monks who have ruled this area of the world for years have finally been pushed back to their home islands.  As one of the lords newly freed by the monk's retreat, you feel it is your job to unite these lands under your teams rule.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Monks are still around.
+Message:
+As you start out to conquer the region, you hear rumors that the monks who used to rule are still barricaded somewhere on their home islands.  If you could get into those areas and plunder all the gold and artifacts the monks have taken over the years, it could help in your fight against the other teams.
+
+Name:
+Monks guarding burial grounds.
+Message:
+Scouts report the monks are guarding underground burial tombs.  This would explain why they fell back to these areas.  It also makes your eyes light up with the all the possible resources and artifacts that might be buried down there.
+
+Name:
+Valley of the Clover
+Message:
+You overhear from a passing merchant that there are vast riches in the Valley of the Clover, but because the monks are guarding it, he couldn't get in to see for himself.
+
+Name:
+Valley of Mists
+Message:
+Some adventurers tell you of the Valley of Mists and all the wealth and artifacts hidden in the dense clouds.  Unfortunately, the monks guard it all so getting to it would be a big problem.
+
+Name:
+Valley of Clay
+Message:
+You find a book on a nearby island where the "Valley of Clay" is located.  The book tells of the rich flora and fauna on this island and also of the riches to be had there.  Unfortunately, like the other valleys, monks heavily guard it.
+
+===== Heroes =====
+
+===== Objects =====
+
+(31, 78, 0) ***Sign***
+Message:
+Now entering - Valley of the Clover
+
+(56, 31, 0) ***Sign***
+Message:
+Now entering - Valley of Mists
+
+(64, 59, 0) ***Sign***
+Message:
+Now entering - Valley of Clay
+
+(62, 60, 0) ***Event***
+Message:
+Monks look down on you menacingly from the battlements.
+
+(29, 79, 0) ***Event***
+Message:
+Monks look down on you menacingly from the battlements.
+
+(59, 32, 0) ***Event***
+Message:
+Monks look down on you menacingly from the battlements.
+
+(52, 31, 1) ***Sign***
+Message:
+Living is not permitted for more than an hour within these walls.
+
+(38, 79, 1) ***Monk***
+Message:
+We will not allow you to disturb the dead!
+
+(71, 62, 1) ***Monk***
+Message:
+We will not allow you to disturb the dead!
+
+(50, 33, 1) ***Monk***
+Message:
+We will not allow you to disturb the dead!
+
+(74, 61, 1) ***Sign***
+Message:
+Walk quietly, for the dead do not want to be disturbed.
+
+(40, 77, 1) ***Sign***
+Message:
+Let the dead rest.  Unauthorized entry is prohibited.
+
+===== End of file =====

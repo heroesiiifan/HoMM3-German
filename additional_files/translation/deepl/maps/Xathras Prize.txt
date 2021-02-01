@@ -1,0 +1,56 @@
+===== Map name =====
+Xathras's Prize
+
+===== Map description =====
+The fabled Dungeon City of Xathras is searching for the Grail. To speed the search, the Council of Xathras is offering a fabulous reward for anyone who can bring the Grail to their city.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro part 1
+Message:
+Ahhh, there's nothing like a nice, cash reward to get the blood racing. Until today, you were never even sure the City of Xathras existed, but you have the letter in your hands, signed by Xian, Overlord of Xathras, offering a reward of ONE MILLION gold to whoever brings the Grail to his city.
+
+Name:
+Intro part 2
+Message:
+As you sit down to breakfast, an advisor approaches with news. Apparently the letter you received was also sent to each of the other kingdoms in the land, offering the same reward, and the other leaders are quite likely mobilizing their forces at this very moment. Others will be searching as well!
+
+Name:
+Warning.
+Message:
+Rumor has it that the leaders of Xathras will try to kill any heroes that come around, in hopes of finding the Grail first, thereby avoiding having to pay the reward!
+
+===== Objects =====
+
+(61, 92, 0) ***Ocean Bottle***
+Message:
+Whirlpools are not safe, avoid if possible!
+
+(60, 14, 0) ***Sign***
+Message:
+Trevor's landlocked pirate treasure... no trespassing!
+
+(5, 105, 1) ***Dungeon***
+Name:
+Xathras
+
+(86, 25, 1) ***Dungeon***
+Name:
+Sarhtax
+
+(94, 68, 1) ***Sign***
+Message:
+Tomb of Our Unknowns - Do Not Touch!
+
+(98, 70, 1) ***Event***
+Message:
+Ghosts of the past rise from the sarcophagus and attack!
+
+(97, 68, 1) ***Event***
+Message:
+The ghosts of the dead rise up and attack you!
+
+===== End of file =====

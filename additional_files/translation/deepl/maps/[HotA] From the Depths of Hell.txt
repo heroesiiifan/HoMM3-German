@@ -1,0 +1,281 @@
+===== Map name =====
+From the Depths of Hell
+
+===== Map description =====
+People on an island wake up to an earthquake. A portal from the depths of hell has appeared in the middle of the land. Will Kuttans and his people resist the incoming demons and close the portal?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+[Comp] Keep resources at 0
+Message:
+
+
+Name:
+[Player] Start message, 0 resources at start
+Message:
+An earthquake has woken up the whole population of Camp Kuttans. People could see a black, volcanic cloud rising from the mountains in the middle of the island. A portal straight from the hell has appeared there and a few imps have already jumped out of it, informing the habitants about several demons waiting to be summoned in order to wipe the humans out of the face of the island. The first demon is coming in the end of this week. Will you, Kuttans the Battle mage, withstand their fierce attacks and protect your people?		As the habitants of your town have never felt the cruelty and terror of real war, they never thought about accumulating resources in case of bad times. Therefore, you start out without any resources at all and need to gather the materials yourself.
+
+Name:
+[Player] Start message (defense)
+Message:
+Your first goal should be to fortify your town. Camp Kuttans at its current state is too vulnerable to siege. In order to do that, you should look around and find some building materials. People tell you about a deserted samwill a day away from the town, which is now dwelt by the gnolls. West from your current location is located a warehouse of ore, populated by savage boar-riding goblins. If the supplies found at these spots will be insufficient, you should look around a bit more. You also know about a camp of excellent archers on the west of the island, who could prove useful against the demons aswell.
+
+Name:
+[Player] Wood, ore, gold
+Message:
+A group of townsmen has raised these resources for the protection of the city.
+
+Name:
+[Player] Red final warning
+Message:
+The people in the city are all terrified of what is going to happen today in the evening. You raise their morale, but deep inside you really don't know, if all the preparations you did in this week will be enough.
+
+Name:
+[Red] Activate
+Message:
+
+
+Name:
+[Tan] Wake up blue
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+You have successfully defended your city from the first demon attack. Before you delivered the final blow to Ignatius, he laughed and said: 	"You may kill me, but you won't stand a chance against my successors! My mentor Fiona is already starving her hounds to make them ferocious as never before! They are going to feast upon corpses of you, your family, and all your pathetic people!"
+
+Name:
+[Player] 2nd week message
+Message:
+Although you have defended your people and killed the first demon, there were many casualties. People are worn out from fighting the last night, but you can feel that their hopes of surviving are way higher than before the battle.
+
+Name:
+[Player] Wood, ore, gold
+Message:
+A group of townsmen has raised these resources for the protection of the city.
+
+Name:
+[Blue] Activate
+Message:
+
+
+Name:
+[Green] Wake up Tan
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Just like last time, the demonic Fiona has given you her last message before serving her justice: 	"My army might have been too small to withstand the barrage from your shooters. But wait a week until my master, Marius, with her forces! She has successfully interbred her demons with ogres, so her army is tough and fierce like no army before!"
+
+Name:
+[Player] Wood, ore, gold
+Message:
+A group of townsmen has raised these resources for the protection of the city.
+
+Name:
+[Tan] Activate
+Message:
+
+
+Name:
+[Orange] Wake up Green
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Already celebrating your victory, you threw the captured demon Marius on her knees and gave her a chance to speak. Her final words were: 	"Pathetic humankind closing themselves in their little pathetic castles! My forces weren't strong enough to overcome your fortifications, but wait one more week before my sister comes! Nymus will destroy your castle walls and shooter towers, then charge into your courtyard with her gargantuan beasts and tear your body apart before you can react!"
+
+Name:
+[Player] Nix?
+Message:
+Scouts have reported about strange, reptile-like creatures in the shallow waters by the coast. Are those the Nix race? What are their intentions?
+
+Name:
+[Green] Activate
+Message:
+
+
+Name:
+[Purple] Wake up Orange
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+The enormous behemots were still not strong enough to defeat you. The Nymus last message was:	"My raw strength has failed me! Celebrate your victory, because this is the last week of your life! My successor knows way less about direct battle than me, but I was always envious about his spellcasting powers! Solmyr, the blue-skinned demon, will use magic to the best of his abilities in order to wipe you off the earth."
+
+Name:
+[Player] Resources
+Message:
+A group of townsmen has raised these resources for the protection of the city.
+
+Name:
+[Orange] Activate
+Message:
+
+
+Name:
+[Pink] Wake up Purple
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Solmyr, the blue-skinned demon, wasn't as talkative about the upcoming demon as his predecessors. All he said was:	"It doesn't matter whether you defeat my successor in the next week. In two weeks, our great Demon Lord is coming to the surface. His power is unmatchable for any human and his forces are more numerous than all living organisms on your island together. You would have to venture into the depths of hell and destroy the Hell's altar to seal the portal into your island."
+
+Name:
+More resources
+Message:
+A group of townsmen has raised these resources for the protection of the city.
+
+Name:
+[Purple] Activate
+Message:
+
+
+Name:
+[Player] Demon message
+Message:
+Octavia, the last of the seven demons, told you in her final moments:	"I was the last demon one you fought with. In one week, an army outmatching your strength by hundreds of thousands of times will be marching on these lands, plundering and razing everything you hold dear. You have absolutely no chance in direct battle, even behind your castle walls. My soul is binded to the Hell's altar though and my death will open the portal to the depths of hell, so if you want to die prematurely you can go there and match against the demon castle. If you succeed, what I doubt, you could stop the demon lord from wiping all life off this island. If you fail though, your soul will be wandering the infinite mazes of hell!"
+
+Name:
+[Player] Go for the portal
+Message:
+The PORTAL to the Hell has OPENED! You have SEVEN DAYS to destroy the altar in the depths of hell to close the portal before the Demon Lord is summoned and everything is lost!
+
+Name:
+[Player] Reminder - 3 days
+Message:
+Barely half week left until the Demon Lord arrives. If you haven't gathered all the troops and marched into the hell through the portal behind the volcano, you should start heading there right now.
+
+Name:
+[Pink] Activate
+Message:
+
+
+Name:
+[Pink] Wood
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(24, 19, 0) ***Cove***
+Name:
+Camp Kuttans
+
+Visiting Battle Mage:
+Name:
+Kuttans
+Biography:
+Kuttans
+
+Timed events:
+
+Name:
+Shack
+Message:
+The townsmen have built a place to gather all the young men and give them proper combat training.
+
+Name:
+Blacksmith
+Message:
+The townsmen have built a smithy.
+
+Name:
+City Hall, reinforcements
+Message:
+Your people have upgraded the Town Hall. Seeing your victories, additional volunteers from the island come willing to fight against the demons.
+
+Name:
+Nix Fort
+Message:
+The Nix have come from the waters to the surface. They prove loyalty to you and are ready to fight for the greater glory!
+
+Name:
+Upg. Nix Fort
+Message:
+The Nix have been training last days, and now they are more ready for combat than ever.
+
+Name:
+More reinforcements
+Message:
+More people from the island are coming to receive combat training and fend the demons off the lands.
+
+Name:
+Frigate
+Message:
+The pirates are willing to fight against the demons.
+
+Name:
+More reinforcements, Capitol
+Message:
+Seeing your unbeleveable successes against the demon invaders, many people arrive at the gates of Camp Kuttans and ask for combat training in order to strengthen the forces!	The city is now so big that the townsmen have built a Capitol.
+
+Name:
+Nix reinforcements
+Message:
+Another Nix warriors have come to the surface and joined your city forces.
+
+Name:
+Reinforcements
+Message:
+Another people came from other parts of island and want to defend Camp Kuttans!
+
+(10, 26, 0) ***Quest Guard***
+Message:
+The river is impassable because the bridge is destroyed. It will take 12 pieces of wood to repair it, so you can go pass the river.
+You need 12 pieces of wood to repair the bridge.
+Do you want to repair the bridge for 12 pieces of wood?
+
+(12, 11, 0) ***Quest Guard***
+Message:
+You stand upon a portal leading into the depths of hell. Unfortunately, it is sealed shut. Probably if you defeated all the invading demons, it would open.
+You stand upon a portal leading into the depths of hell. Unfortunately, it is sealed shut. Probably if you defeated all the invading demons, it would open.
+The portal into the depths of hell is functioning again. Do you wish to enter it?
+
+(13, 11, 0) ***Event***
+Message:
+You have been ambushed by demonic forces before entering the portal!
+
+(25, 9, 1) ***Inferno***
+Name:
+Hells Depths
+
+Visiting Heretic:
+Name:
+Demon Lord
+
+(16, 35, 1) ***Demoniac***
+Name:
+Solmyr
+
+(24, 15, 1) ***Event***
+Message:
+Dozens of tormented souls have approached you. Suprisingly, instead of being hostile, they ask you for a chance of participating in the battle in order to redempt their souls.
+
+(23, 13, 1) ***Wight***
+Message:
+The lost souls are looking for a strong leader to fight on his side. Will you allow them to join you?
+
+(25, 11, 1) ***Wraith***
+Message:
+"Let us fight with you against the demons! We have been waiting for ages for such a moment to come!"
+
+(24, 35, 1) ***Demoniac***
+Name:
+Demon Lord
+
+===== End of file =====

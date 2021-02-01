@@ -1,0 +1,129 @@
+===== Map name =====
+In der Verteidigung
+
+===== Map description =====
+Die örtlichen Dörfer haben Wind von einer Bedrohung bekommen, die vom Meer her kommt. Piraten sind auf dem Weg, das Land zu plündern. Die erathianische Armee ist weit weg, und die Dorfbewohner sind hier auf sich allein gestellt...
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Hilfe für KI
+Message:
+Hier ist etwas
+
+Name:
+Anfänge
+Message:
+Eine Gruppe von Fischern ist aus Galantier gekommen. Sie rannten wie die Hölle selbst auf ihren Fersen, um beunruhigende Nachrichten zu überbringen: Sie erspähten eine Gruppe von Piraten, die auf einer nahegelegenen Insel Feuer entfachten. Das ist übel. Sieht so aus, als ob die Schurken einen Angriff auf uns planen. Das größte Problem ist, dass die erathianische Armee weit weg marschiert ist und nur ein paar Wachen zu unserem Schutz abgestellt hat. Pech für jeden, der sich hier niedergelassen hat. Wie auch immer, wir können unmöglich fliehen und die Armee wird zu lange brauchen, um hierher zu kommen. Also bleibt uns wohl nichts anderes übrig, als uns gegen die ungebetenen Gäste zu wehren. 
+
+Name:
+Fort Bullden
+Message:
+Wir müssen die Kontrolle über Fort Bullden übernehmen. Es wird nicht viel Material brauchen, um es wieder aufzubauen, aber laut den Einheimischen ist es derzeit von einer Bande von Räubern besetzt. Wir sollten uns um diese kümmern und uns darauf vorbereiten, den Piraten dort gegenüberzutreten, obwohl es noch besser wäre, zuerst anzugreifen.
+
+Name:
+Dulvein und Galantier
+Message:
+Die übrigen Siedlungen, nämlich Dulvein und Galantier, wissen noch nichts von der Anwesenheit der Piraten. Wir sollten dorthin gehen, die Miliz versammeln und uns auf das Schlimmste vorbereiten. Es wäre sehr nützlich, dort Mauern und Zinnen zu errichten, aber dafür brauchen wir Unmengen an Holz und Erz. Wir müssen handeln, und zwar schnell!
+
+===== Heroes =====
+
+===== Objects =====
+
+(15, 67, 0) ***Castle***
+Name:
+Ourt-Delph
+
+(55, 66, 0) ***Castle***
+Name:
+Kersan
+
+(38, 4, 0) ***Cove***
+Name:
+Deansaur
+
+(11, 17, 0) ***Cove***
+Name:
+Gaulvein
+
+(34, 49, 0) ***Castle***
+Name:
+Fort Bullden
+
+(64, 41, 0) ***Castle***
+Name:
+Galantier
+
+(5, 41, 0) ***Castle***
+Name:
+Dulvein
+
+(36, 67, 0) ***Sign***
+Message:
+Erathia im Süden
+
+(50, 18, 0) ***Event***
+Message:
+
+
+(40, 63, 0) ***Event***
+Message:
+Dieser Ort stinkt nach Tod...
+
+(33, 51, 0) ***Sign***
+Message:
+Erathian Festung Bullden
+
+(11, 58, 0) ***Seer's Hut***
+Message:
+Ich habe von Ihren Problemen gehört. Es hat sich herausgestellt, dass ich auch welche habe. Mein Ring der unendlichen Edelsteine wurde von Dieben gestohlen und für einen guten Preis an die Titanen an der Küste verkauft. Ich verstehe, dass Ihr mit den Piraten zu kämpfen habt, aber ich kann Euch einen anständigen Preis für den Ring bieten. Ich bilde hier Zauberer aus, und 25 meiner Schüler würden Euch gerne helfen.
+Ein Deal ist ein Deal. Kein Ring der unendlichen Edelsteine bedeutet keine Armee von Verzauberern für Sie.
+Oh, ich habe schon fast die Hoffnung verloren, meinen Schatz jemals wiederzusehen! Wie abgemacht, sind 25 meiner Schüler bereit, unter Euer Banner zu treten. Ich versichere Euch, sie werden sich als viel nützlicher erweisen als dieser Ring.
+
+(27, 53, 0) ***Sign***
+Message:
+Shamrock Scent Inns
+
+(56, 42, 0) ***Seer's Hut***
+Message:
+Ein Rudel Grüner Drachen hat sich in der Nähe niedergelassen. Sie sind eine große Gefahr für jeden, nicht nur für einen allein reisenden Ritter. Ich kann Euch nicht wirklich etwas bezahlen, aber ich kann meine Erfahrung weitergeben. Sie sollte Euch im Krieg mit den Piraten nützlich sein.
+Die Grünen Drachen sind immer noch da.
+Ich kann nicht glauben, dass du es geschafft hast! Obwohl ich das nicht muss, da Ihr die Köpfe dieser Bestien mitgebracht habt. Nun, abgemacht ist abgemacht, schätze ich? Machen Sie es sich bequem, und ich erzähle Ihnen alles, was Sie wissen müssen.
+
+(17, 37, 0) ***Orb of Driving Rain***
+Message:
+Eine Horde von Kreaturen mit fischartigen Schwänzen und eisiger Haut ist um eine Art Kugel versammelt. Wenn Sie möchten, können Sie mit ihnen darum kämpfen.
+
+(55, 2, 0) ***Pandora's Box***
+Message:
+
+
+(8, 6, 0) ***Pandora's Box***
+Message:
+
+
+(27, 5, 0) ***Pandora's Box***
+Message:
+
+
+(63, 8, 0) ***Cove***
+Name:
+Porkwell
+
+(37, 40, 1) ***Dungeon***
+Name:
+Shaque-fael
+
+(44, 39, 1) ***Seer's Hut***
+Message:
+Sei gegrüßt, Fremder! Könntest du mir vielleicht helfen? Ich führe gerade ein sehr wichtiges Experiment durch, aber eine kleine Nuance ist mir entgangen: Ich brauche 60 Schwefel, um es zu vollenden, und ich habe derzeit keinen. Ich werde alle Fortschritte verlieren, die ich gemacht habe, wenn ich es nicht bekomme, und zwar bald! Könnten Sie mir das Material zur Verfügung stellen? Ich versichere Euch, es wird nicht unbelohnt bleiben. Ich habe nicht genug Geld, um das zu bezahlen, aber ich habe einen Gegenstand, der Ihnen von Nutzen sein könnte.
+Aber das ist nicht genug...
+Oh je! Du bist wirklich hingegangen und hast meine Bitte erfüllt! Ich kann meine Freude nicht mit Worten ausdrücken! Jetzt kann mein Experiment ohne Probleme weitergehen. Ich werde es nicht einmal bereuen, mich dafür von einer Reliquie getrennt zu haben. Dieses Schwert verstaubt schon viel zu lange in meiner Brust. Es gehört Euch.
+
+(32, 39, 1) ***Golden Bow***
+Message:
+Sie sehen ein kleines Gewölbe, das wie ein offener Tempel aussieht und in dem der legendäre Goldene Bogen schwebt. Es wird jedoch von Dread Knights bewacht. Willst du um dieses großartige Artefakt kämpfen?
+
+===== End of file =====

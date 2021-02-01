@@ -32,6 +32,9 @@ zipObj = ZipFile('_out/HoMM3DE_HD.zip', 'w', zipfile.ZIP_STORED)
 zipObj.write(os.path.join("additional_files/hd", "#de.ini"), arcname=os.path.join("Lang", "#de.ini"))
 zipObj.write(os.path.join("additional_files/hd", "Pack.ini"), arcname=os.path.join("Packs/German", "Pack.ini"))
 
+if os.environ["DEEPL_TRANSLATION"] == "1":
+    for filename in os.listdir("additional_files/translation/deepl/maps/out"):
+        if not filename.startswith("[") and filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("Packs/German", filename))
 for filename in os.listdir("homm3_files/RoE_de/Maindisk/Maps"):
     zipObj.write(os.path.join("homm3_files/RoE_de/Maindisk/Maps", filename), arcname=os.path.join("Packs/German", filename))
 for filename in os.listdir("additional_files/translation/campaign/extra"):
@@ -55,7 +58,7 @@ for filename in os.listdir("additional_files/translation/txt"):
     zipObj.write(os.path.join("_tmp", "file.tmp"), arcname=os.path.join("Packs/German", filename))
 
 for filename in os.listdir("additional_files/translation/campaign"):
-    if filename != "extra":
+    if "extra" not in filename and "chronicles" not in filename:
         zipObj.write(os.path.join("additional_files/translation/campaign", filename), arcname=os.path.join("Packs/German", filename))
 
 if os.environ["APPEND_SOUND"] == "1":

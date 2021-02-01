@@ -1,0 +1,208 @@
+===== Map name =====
+Faeries!
+
+===== Map description =====
+The elves are weak and need your brand of leadership . . . harsh and cruel.  Gather your forces and kill em all.
+
+===== Rumors =====
+
+Name:
+Food joke
+Text:
+There's only one way to have a faerie. . . fried with some grilled onions, maybe some cayenne pepper.
+
+Name:
+Joke
+Text:
+What do you get when you cross a small dog with a faerie?  A chihuownie!
+
+Name:
+Whispers
+Text:
+Whispers on the wind tell tale of a large cache of artifacts in the frozen north.
+
+===== Timed events =====
+
+Name:
+Opening Text
+Message:
+The secluded land of the Elves is weak and needs your brand of leadership . . . harsh and cruel.  They sit behind their mountains and forests and mock you.  Traverse the lands and gather your dark horde.  Crush those dirty rotten faeries beneath your boot!  Let no elf see the light of day again!
+
+Name:
+Pixie Troublemaker
+Message:
+A pixie flies up and throws a rotten tomato in your face and then flies away laughing.  Grasping her tightly, you squeeze, popping her little eyes from her head.  Growling, you stomp off to continue your campaign.
+
+Name:
+Faerie Mooning Message
+Message:
+The Faerie Queen sends you a message.  It reads "Nyah Nyah!" and features a charcoal sketch of a faerie mooning you.
+
+Name:
+Children Steal Food
+Message:
+Several elven children sneak into your citadel and steal some food and a few coins.
+
+Name:
+Confetti Bomb
+Message:
+A package is delivered that blows up in your face and covers you and your throne room in brightly colored confetti.
+
+Name:
+Dwarf
+Message:
+A dwarf is captured sneaking into the castle.  He mentions surprises awaiting you when you assault their main castles.
+
+Name:
+Bunny Crate
+Message:
+A trader comes to town with several large crates in his wagon.  After he sets up shop, the crates open and out pour hundreds upon hundreds of cute little pink and white bunnies.  The damage caused in catching them is staggering.
+
+Name:
+Astral Wizard
+Message:
+While sitting in your throne room enjoying a cup of hot lava you are disturbed by the apparition of a sorcerer, obviously on the astral plane.  He begins trying to get you to change your ways.  Muttering a simple spell, you pluck him from the ether, rip his heart from his ribcage, and slowly eat it.
+
+Name:
+Evil Stinks! banner
+Message:
+The Faerie Queen sends you a banner that reads "Evil Stinks!"
+
+Name:
+Raining
+Message:
+It begins raining . . . only on you!
+
+Name:
+Rain Stops, Rose Petals Start
+Message:
+It stops raining, but now rose petals are spontaneously dropping in your path wherever you walk.  How revolting.
+
+Name:
+Petals Stop
+Message:
+Suddenly this morning the rose petals ceased to fall at your feet as you walk, which was wonderful.  Finally, you can get back to your drab life of wondrous wickedness.  
+
+===== Objects =====
+
+(2, 35, 0) ***Familiar***
+Message:
+"Howdy boss.  Where do we sign up?  We wanna stomp faerie butt with you leading us."
+
+(3, 30, 0) ***Sign***
+Message:
+The burning desert of Sharrahana
+
+(62, 26, 0) ***Event***
+Message:
+As you approach the accursed land you hear a tittering of laughter in the brush.  Suddenly a flurry of fur whips past your face as hundreds upon hundreds of little pink bunnies run and flounce around your army and then disappear as soon as they appeared.
+
+(5, 61, 0) ***Event***
+Message:
+Atop the walls of the castle are many elves readying pots of what appear to be boiling oil.  In reality, much to your chagrin, it is in fact several hundred gallons of maple syrup.  After the sticky substance is poured on your men, they open crates of feathers on you and begin clucking derisively.
+
+(37, 43, 0) ***Event***
+Message:
+As your army arrives at the castle wall, you hear the sound of catapults.  You then watch in horror as your army is pelted with tomatoes, lettuce, corn, oatmeal, bat guano, chamberpot leavings, and other "amusing" ammunition.  As you pull a dead fish out of your ear you hear elven laughter.
+
+(18, 43, 0) ***Event***
+Message:
+In the trees that line the road you see what appears to be an ambush waiting.  You order your archers to open fire and fill those rotten elves with arrows.  Upon closer inspection they are simply stuffed straw men with a note attached.  It reads "HA HA!"
+
+(48, 33, 0) ***Event***
+Message:
+As you approach up the road towards the castle, your army is assaulted by several hundred pink and white bunnies.  They jump and flounce all over you and then disappear into the woods as quickly as they appeared.
+
+(24, 32, 0) ***Event***
+Message:
+What was that you just stepped in. . .?	Nevermind.  You don't want to know.
+
+(28, 21, 0) ***Event***
+Message:
+Buried in the snow are several small shiny objects.
+
+(64, 71, 0) ***Event***
+Message:
+Hiding at the base of a mountain is a small hut where a hermit lives. He offers to teach you something about life if you just leave him alone.
+
+(0, 40, 0) ***Event***
+Message:
+Hiding behind a bush is a timid elf.  You beat him senseless just for fun and then force him to tell you all he knows.  He teaches you something, but under duress.
+
+(27, 56, 0) ***Event***
+Message:
+Sniff . . . Sniff . . . EWWWWWW!!!!!     @$&%?!#%^@~ Faeries!
+
+(16, 20, 0) ***Ocean Bottle***
+Message:
+You find a sprite trapped in a bottle.  You cackle in glee as you drown the little faerie.
+
+(42, 63, 0) ***Event***
+Message:
+A group of elven troops lay in ambush.  Big mistake.
+
+(56, 66, 0) ***Event***
+Message:
+Several faerie troopers are fishing near the pond's edge.  As you approach they leap up and attack.  They appear to be guarding some kind of cart.
+
+(55, 5, 0) ***Event***
+Message:
+The entrance to this area reeks of death.  Such a happy feeling.
+
+(24, 39, 0) ***Event***
+Message:
+You encounter a shepherd and his flock.  He begs you not to harm his sheep, but you feed your troops, disregarding his pleas for mercy.  Once you have fed your men, you have him impaled as after dinner entertainment.
+
+(34, 56, 0) ***Event***
+Message:
+Lying in the road is a small bouquet of flowers that appears to have fallen off a cart.  You stomp on it to crush the rotten pretty flowers and are treated to a fine spray of mist that sparkles and makes your armor turn bright pink.  Off in the distance you hear the guffaws of highly amused faeries.
+
+(49, 47, 0) ***Event***
+Message:
+A small hairless dog with a hat on comes up and mutters something annoying sounding in a foreign tongue you do not comprehend.  A swift punt removes the annoying faerie dog from your sight.
+
+(14, 30, 0) ***Event***
+Message:
+A older elf sunning himself by the shore is found by you.  You beat him within an inch of his life . . . just because he is in your way.  Isn't evil fun?
+
+(38, 14, 0) ***Event***
+Message:
+Crunching the snow beneath your hooves unveils a small tribe of Familiars frozen solid.  You thaw them out and they offer to join you.
+
+(7, 21, 0) ***Centaur Captain***
+Message:
+Admiring themselves in the shimmering crystals are a pack of centaur captains.  They barely acknowledge your presence as you approach.  Your slavering beasts barely at bay, you smile a wicked smile and crook a finger at the leader.  "Come here foppish one.  I have a present for thee."
+
+(2, 10, 0) ***Centaur***
+Message:
+"Gods this place stinks.  Our queen has set us with the task to guard this no matter the cost.  Go away!"
+
+(4, 17, 0) ***Centaur Captain***
+Message:
+"Isn't this lake so pretty?" the female centaur captain said batting her long eyelashes at you.  "'Tis a shame that you pollute it so with your stinky lava ash.  You suck!  Get him guys."
+
+(13, 9, 0) ***Centaur***
+Message:
+"None shall pass," the centaur leader states stoutly.  His lower front legs are adorned with pink bands of some sort of stretchy fabric and about his neck are flowers arranged in a necklace.  His shirt is one of bright colors in a floral pattern.
+
+(10, 4, 0) ***Centaur***
+Message:
+"We have been sent here to stop you, you evil baddie you," the centaur said while sticking out his tongue and making odd taunting noises.
+
+(52, 34, 1) ***Event***
+Message:
+An old man comes up to you begging your help.  His family was kidnapped and dragged underground by troglodytes.  You laugh in his face and walk away as he drops to his knees, sobbing uncontrollably.
+
+(11, 10, 1) ***Event***
+Message:
+The dank, dark dungeons are a pleasant welcome from all that sickening sunshine of the world above.  You can't wait to wrap your hands around the smooth throats of giggling faeries.  Ahh, the inhumanity.
+
+(17, 49, 1) ***Event***
+Message:
+Nestled among the stalagmites are several impish figures.  Cackling with glee they flounce around your head and dance in your trousers.  After about 2 seconds of this nonsense, you bellow out in rage and lay waste to the entire group of brownies.  This insult shall not go unpunished.
+
+(26, 34, 1) ***Event***
+Message:
+A troop of faeries protected by their big brother leaps out at you.  "We is here to stop ya's.  Evil sucks eggs and so do you.  Die ya stinkin' evil bastich."
+
+===== End of file =====

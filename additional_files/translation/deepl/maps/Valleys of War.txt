@@ -1,0 +1,17 @@
+===== Map name =====
+Valleys of War
+
+===== Map description =====
+You and your people have lived in your little valley for many years. After being here for so long, your people are getting restless.  So you have decided to take an expedition out of your valley and into the world.  Knowing that life isn't always fair, you prepare for the worst. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(7, 71, 0) ***Event***
+Message:
+As you walk along the beach you turn to your left and see the apparition of your long dead father.  Shortly afterwards starts to fade away. The moment that he disappears you start to feel very strange inside. 
+
+===== End of file =====

@@ -1,0 +1,211 @@
+===== Map name =====
+Dolchsturztal
+
+===== Map description =====
+Das Tal des Flusses Daggerwin ist seit jeher für seinen großen Reichtum bekannt. Sein Korridor ist die einzige Handelsroute zum alten Kontinent; wenn Sie ihn erobern, können Sie Ihre Macht ausbauen.
+
+===== Rumors =====
+
+Name:
+Taverne1
+Text:
+Tipp des Tages: Überraschen Sie und versuchen Sie, sich nicht überraschen zu lassen!
+
+Name:
+Taverne
+Text:
+Tipp des Tages: Wer ein Schwert schwingt, ist im Recht.
+
+Name:
+PogloskiGraal1
+Text:
+Ein alter Seemann behauptet, er wisse, wo die Götter den Gral versteckt haben. Als ob! Unwahrscheinlich, dass jemand, der ein solches Wissen besitzt, hier mit so einem mürrischen Gesichtsausdruck sitzt.
+
+Name:
+PogloskiGraal2
+Text:
+Kommen Sie, Sie glauben doch nicht wirklich dieses Gefasel über den Gral, oder?... Ach, verflixt. Ihr Abenteuerlustigen seid doch alle gleich. Sobald ihr Wind von einem verlorenen Schatz, einem legendären Haufen Schrott oder einem Beutel mit nutzlosem Glitter bekommt, leuchten eure Augen auf...
+
+Name:
+PogloskiGraal3
+Text:
+Sie meinen, Sie wollen 'wirklich' wissen, was dieser Trottel nach seinem zehnten Becher gesagt hat? Zum Teufel mit Ihnen - hier ist es: Weit oben im Nordosten... oder vielleicht im Westen... Jedenfalls, irgendwo in der Nordsee liegt eine Insel...
+
+Name:
+Taverne2
+Text:
+Tipp des Tages: Erwarten Sie nicht viel, und Sie werden immer mehr bekommen, als Sie sich vorgenommen haben.
+
+Name:
+Schänke3
+Text:
+Tipp des Tages: Ein Löwe ist kein guter Freund für einen Kojoten.
+
+Name:
+Schänke4
+Text:
+Weiser Spruch des Tages: Gürkchen nie mit Milch runterspülen.
+
+Name:
+PogloskiGraal4
+Text:
+Also, wegen der Insel, von der der Vino behauptete, sie beherberge den Schatz. Ich bin mir nicht sicher, wo sie ist oder wie sie aussieht, aber er war felsenfest davon überzeugt, dass er dort gewesen ist. Wenn ich etwas über das Leben weiß, muss es inzwischen wie ein Sieb aussehen. Nun, das ist im Grunde alles, was ich zu diesem Thema sagen kann...
+
+Name:
+PogloskiGraal5
+Text:
+Geh in die Hölle und finde dort eine angefressene Insel... Und, nur für den Fall, dass der Groghound sich geirrt hat, finden Sie auch eine unpitted Insel.
+
+Name:
+Taverne5
+Text:
+Tipp des Tages: Wenn man geht, kommt man nicht immer. Wenn man kommt, denkt man meist nicht ans Gehen.
+
+Name:
+Taverne6
+Text:
+Weise Worte des Tages: Eine gute Ehefrau ist immer bei ihrem Mann, wenn schwere Zeiten kommen. Eine schlechte Frau ist immer bei ihrem Mann, wenn es hart auf hart kommt.
+
+Name:
+Taverne7
+Text:
+Spruch des Tages: Was dich nicht umbringt, kann dich vergewaltigen.
+
+Name:
+Taverne8
+Text:
+Weiser Spruch des Tages: Wenn Ihnen nach Niesen zumute ist, nehmen Sie besser den Finger aus der Nase.
+
+Name:
+smokilazur
+Text:
+Ein Trapper sagte mir, ich solle die nördlichen Gebiete meiden. Azurblaue Drachen halten sich dort auf.
+
+===== Timed events =====
+
+Name:
+Hilfe für den Komp
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(176, 9, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Gebäude zum comp
+Message:
+
+
+Name:
+Units to the comp
+Message:
+
+
+(95, 167, 0) ***Gold***
+Message:
+Die Drachen bewachen ihren Schatz. Möchten Sie gegen sie kämpfen?	Wachen: 7 schwarze Drachen Schatz: 10000 Gold
+
+(173, 18, 0) ***Gold***
+Message:
+Die Drachen bewachen ihren Schatz. Wollt Ihr gegen sie kämpfen?	Wachen: 7 Schwarze Drachen Schatz: 10000 Gold
+
+(11, 95, 0) ***Gold***
+Message:
+Die Drachen bewachen ihren Schatz. Wollt Ihr gegen sie kämpfen?	Wachen: 7 Schwarze Drachen Schatz: 10000 Gold
+
+(28, 68, 0) ***Gold***
+Message:
+Die Drachen bewachen ihren Schatz. Wollt Ihr gegen sie kämpfen?	Wachen: 7 Schwarze Drachen Schatz: 10000 Gold
+
+(99, 51, 0) ***Pandora's Box***
+Message:
+
+
+(103, 50, 0) ***Pandora's Box***
+Message:
+
+
+(120, 101, 0) ***Pandora's Box***
+Message:
+
+
+(25, 66, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Gebäude zum comp
+Message:
+
+
+Name:
+Einheiten zum comp
+Message:
+
+
+(10, 92, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Gebäude zum comp
+Message:
+
+
+Name:
+Einheiten zum comp
+Message:
+
+
+(97, 163, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Gebäude zum comp
+Message:
+
+
+Name:
+Einheiten zum comp
+Message:
+
+
+(8, 74, 0) ***Pandora's Box***
+Message:
+
+
+(179, 54, 0) ***Pandora's Box***
+Message:
+
+
+(75, 179, 0) ***Pandora's Box***
+Message:
+
+
+(108, 96, 0) ***Shackles of War***
+Message:
+!
+
+(53, 9, 0) ***Pandora's Box***
+Message:
+
+
+(72, 133, 0) ***Pandora's Box***
+Message:
+
+
+(142, 160, 0) ***Pandora's Box***
+Message:
+
+
+(143, 125, 0) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

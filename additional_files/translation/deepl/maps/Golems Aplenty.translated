@@ -1,0 +1,71 @@
+===== Map name =====
+Golems in Hülle und Fülle
+
+===== Map description =====
+Die Zauberer im Süden haben ihr Tal nach einem Jahrtausend des Experimentierens mit Golems endlich verlassen.  Das gibt den lokalen Kriegsherren die Möglichkeit, einzurücken und sich die Generatoren zu schnappen.  Wenn es Ihnen gelingt, als erster Lord genügend Golems anzuhäufen, haben Sie einen klaren Vorteil. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Assistenten im Süden.
+Message:
+Die Zauberer im Süden sind verschwunden (wahrscheinlich sind sie müde von den Kämpfen, die nördlich von ihnen stattfinden).  Es ist an der Zeit, das zu nehmen, was sie zurückgelassen haben und es zu nutzen, um die anderen Fürsten zu besiegen, die mit Ihnen im Krieg sind.
+
+Name:
+Versteckte Verstecke?
+Message:
+Es gibt Gerüchte, dass die Zauberer im Süden versteckte Verstecke mit inaktiven Golems hatten, die sie benutzen wollten, aber nie benutzt haben.  Sie zu finden, könnte hilfreich sein, falls sie tatsächlich existieren.
+
+Name:
+1001 Möglichkeiten, einen verrosteten Golem zu benutzen.
+Message:
+Sie finden im Keller ein altes, staubiges Buch mit dem Titel "1001 Wege, einen rostigen Golem zu benutzen". Nachdem Sie das Inhaltsverzeichnis gelesen haben, entscheiden Sie, dass es Schrott ist und verkaufen es für ein paar hundert Goldstücke an einen vorbeikommenden Antiquitätenhändler.
+
+Name:
+Verrostete Golems zu verkaufen.
+Message:
+Ein reisender Händler bietet Ihnen an, tausend verrostete Golems zu verkaufen, aber Sie lehnen ab.  Was würden Sie mit tausend rostigen Golems überhaupt anfangen?
+
+===== Heroes =====
+
+===== Objects =====
+
+(2, 69, 0) ***Event***
+Message:
+Auf einer kleinen Lichtung finden Sie eine Gruppe von unbeweglichen Golems.  Wenn Sie sich ihnen nähern, erwachen sie zum Leben und schließen sich Ihrer Armee an.
+
+(40, 71, 0) ***Event***
+Message:
+Auf einer kleinen Lichtung findest Du eine Gruppe unbeweglicher Golems.  Wenn du dich ihnen näherst, erwachen sie zum Leben und schließen sich deiner Armee an.
+
+(65, 69, 0) ***Event***
+Message:
+Auf einer kleinen Lichtung findest du eine Gruppe unbeweglicher Golems.  Wenn Sie sich ihnen nähern, erwachen sie zum Leben und schließen sich Ihrer Armee an.
+
+(19, 47, 0) ***Event***
+Message:
+Auf einer kleinen Lichtung findest du eine Gruppe unbeweglicher Golems.  Wenn Sie sich ihnen nähern, erwachen sie zum Leben und schließen sich Ihrer Armee an.
+
+(36, 60, 0) ***Tower***
+Name:
+Meckern
+
+(65, 47, 0) ***Event***
+Message:
+Auf einer kleinen Lichtung findest Du eine Gruppe von unbeweglichen Golems.  Wenn Sie sich ihnen nähern, erwachen sie zum Leben und schließen sich Ihrer Armee an.
+
+(1, 48, 0) ***Event***
+Message:
+Auf einer kleinen Lichtung findest Du eine Gruppe von unbeweglichen Golems.  Wenn Sie sich ihnen nähern, erwachen sie zum Leben und schließen sich Ihrer Armee an.
+
+(34, 45, 0) ***Arch Mage***
+Message:
+Es sieht so aus, als hätten nicht alle Zauberer das Gebiet verlassen.  Einige sind zurückgeblieben; sie scheinen diese Universität zu bewachen.
+
+(35, 46, 0) ***Sign***
+Message:
+Edmins Universität - Komm und lerne, wie du deinen eigenen Golem baust!
+
+===== End of file =====

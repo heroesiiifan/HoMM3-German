@@ -1,0 +1,24 @@
+===== Map name =====
+Bundesland
+
+===== Map description =====
+Eine kleine, ressourcenknappe Provinz liegt knietief im Krieg zwischen vier Fürsten. Das Land ist unfruchtbar und hat keinen Wert, dennoch will keine Seite zurückweichen. Es geht wohl nur noch ums Prinzip.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Einleitung
+Message:
+Diese kargen Ländereien sind vom Krieg verwüstet und erlauben es Ihnen nicht, eine große Armee zu halten. Es ist besser, darauf zu warten, dass sich Ihre Gegner gegenseitig schwächen, und dann die Chance zu nutzen, einen finalen Schlag auszuführen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 12, 0) ***Sign***
+Message:
+
+
+===== End of file =====

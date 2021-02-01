@@ -1,0 +1,44 @@
+===== Map name =====
+The Alliance
+
+===== Map description =====
+An earth-shaking war between West and East is underway. You and your allies must destroy the enemy at all costs.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(85, 96, 0) ***Random Monster 4***
+Message:
+You must defeat us before you can save the prisoner.
+
+(114, 82, 1) ***Event***
+Message:
+You face the Tomb entrance. Zombies raise and launch an attack.
+
+(105, 58, 1) ***Minotaur King***
+Message:
+Welcome to my labyrinth! It's going to take a big portion of your life!
+
+(94, 69, 1) ***Minotaur***
+Message:
+You can kiss my hairy BUTT!!
+
+(90, 53, 1) ***Minotaur***
+Message:
+Have a taste of my mighty axe!
+
+(63, 52, 1) ***Minotaur King***
+Message:
+DIE!!
+
+(36, 115, 1) ***Seer's Hut***
+Message:
+I'm collecting unique animals for my zoo. I've got many different creatures, but still I don't have Crystal Dragons. There is a dwelling of those north from here. Get me one, and I will reward you.
+Wow! That's exactly what I needed. As I've said before, there are many creatures in my zoo. Among those are Faerie Dragons. They breed very well, and I can give you a few in exchange for one Crystal Dragon.
+
+===== End of file =====

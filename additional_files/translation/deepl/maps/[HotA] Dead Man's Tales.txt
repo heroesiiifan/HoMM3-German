@@ -1,0 +1,865 @@
+===== Map name =====
+Dead Man's Tales
+
+===== Map description =====
+This archipelago is known only to Regnans. A legend says there's a town deep under the isles, from where the portals can take you to Jadam or to Enroth; it's called the Crossroads.	...Erathian fleet was chasing the pirates, and they had to land on unknown isles. This time there's nowhere to run.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Regna - resources 1
+Message:
+{Setting up your starting treasury...}
+
+Name:
+Regna - resources 2
+Message:
+{Done setting up your starting treasury!}
+
+Name:
+Erathia - resources 1
+Message:
+{Setting up your starting treasury...}
+
+Name:
+Erathia - resources 2
+Message:
+{Done setting up your starting treasury!}
+
+Name:
+Regna - 1
+Message:
+"Regnan frigates ARE the fastest ships in all of blasted Enroth after all! We shook them off good and had enough time to take a detour. We even managed to get a foothold on the island and take a breather in our forts.		These isles were meant to be our temporary base as we were heading to Vori Island over the Endless Ocean, but them Erathians managed to block the seas. Our plan B was risky; it involved fighting our way towards the Crossroads, an underground town. There are portals there that lead to Enroth and Jadam, some distant places many miles away from Antagarich and these isles. We will destroy them after going through, cutting the knights off. Erathians won't have guts to chase us on another continent...		There's a problem, though; some Nighon lord has made the town his personal crazy zoo. Heck knows what even brought him there, but we'll have to fight our way through. To make things worse, there are necromancers on the isle where you descend to the Crossroads.		We're lucky Tazar and his swamp folk tagged along - for a price, of course. Tatalians can barely fight, but their captain is very good.		There's a last resort possibility, too: to simply smash everybody; but we probably just don't have enough gunpowder to shoot every Erathian dog."
+
+Name:
+Erathia - 1
+Message:
+"We nearly lost them a few times, but were still holding on; however, they shook us off near the shores. I contacted the second fleet's admiral through my magic mirror, and the Regnans aren't there either. Them dogs know their way around the place, but this time it's going to be their own trap.	The land... These isles can't be found on any of our maps.		We had to seize the castles of local lords, but one Bracadan duke in the north offered his help fighting the pirates. He suggested the pirates landed here because there's a town below the archipelago. There are portals in the town leading to Enroth and Jadam. It was taken by some Nighon lord, and even though he died, the place is still thick with monsters. To make it worse, necromancers are in control of the underground passage.		If there really is a town down there, we must take it and destroy the portals, blocking the pirates' escape. Jadam and Enroth are quite far from Antagarich, and we can lose them if we don't succeed here."
+
+Name:
+AI - resources
+Message:
+
+
+Name:
+Brown - resources
+Message:
+
+
+Name:
+Regna - 2
+Message:
+"We couldn't find Elmore. He got lost in a storm, despite trying to stick close to our squadron. Looks like he was taken by the Water Elementals, which are everywhere around here. What a fine sailor he was...		Eovacius' ship was boarded by local mercenaries who decided to side with the Erathians. He's likely being held on one of the smaller isles to the North or South."
+
+Name:
+Erathia - 2
+Message:
+"This sounds absurd, but Sylvia, one of Erathia's finest seafarers, got lost. She couldn't keep the course, whish led to part of the fleet getting late. Some say the reason for that was the sea monsters who dragged her ship off..."
+
+Name:
+Erathia - 2,5
+Message:
+"After the island changed hands, soldiers of the defeated armies became bandits. They're making their living by robbing and killing people on the roads and in the woods. Be very careful while scouting. They already hijacked one of our trade caravans. For security reasons, every commander must have an escort of at least fifty archers and two dozen crusaders".
+
+Name:
+Regna - 3
+Message:
+"We could use some easy money right now. There's a peninsula somewhere to the Northeast, and on it there's a portal, leading to a small underground town. Rumor has it that mushroom farms there are extremely profitable. 		Screw them dungeons, though."
+
+Name:
+Erathia - 3
+Message:
+"Coleshire mentioned that Bracadan mages who made the archipelago their new home created the "Ice Kingdom" - Regnum Nevis. We couldn't care less about those tall tales of the "great burg underground, standing on waters frozen, its walls like fine glass clear"; but there was a curoius part. The mages apparently brought titans here. A whole army of mighty giants, complete with their lightning bolts that strike from miles afar. We should search for that place, as titans may prove crucial to our campaign".
+
+Name:
+AI - resources
+Message:
+
+
+Name:
+Brown - Joe the Crutch
+Message:
+
+
+Name:
+Brown - Maghbore
+Message:
+
+
+Name:
+Brown - Wavekiller and Manshere 
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(39, 8, 0) ***Castle***
+Name:
+Holy Gardens
+
+Timed events:
+
+Name:
+Holy Gardens - Monks
+Message:
+Holy Gardens - Monks.
+
+Name:
+AI - resources and additional troops
+Message:
+
+
+(19, 28, 0) ***Castle***
+Name:
+Ironhold
+
+Timed events:
+
+Name:
+Ironhold - Pikemen, Marksmen, Swordsmen
+Message:
+Ironhold - Pikemen, Marksmen, Swordsmen.
+
+(10, 111, 0) ***Castle***
+Name:
+Fortus
+
+Timed events:
+
+Name:
+Fortus - Cavaliers
+Message:
+Fortus - Cavaliers.
+
+Name:
+Fortus - Upg Cavaliers
+Message:
+Upgraded Training Grounds were finished in the town of Fortus. You may now hire Champions there.
+
+(18, 135, 0) ***Castle***
+Name:
+Angelorum
+
+Timed events:
+
+Name:
+Angelorum - Angels, Crusaders, Monks
+Message:
+Angelorum - Angels, Crusaders, Monks.
+
+Name:
+Angelorum - Upg Angels
+Message:
+Upgraded Portal of Glory was finished in the town of Angelorum. You may now hire Archangels there.
+
+Name:
+AI - resources and additional troops
+Message:
+
+
+Name:
+AI - starting resources and troops
+Message:
+
+
+(125, 119, 0) ***Cove***
+Name:
+Vorago
+
+Timed events:
+
+Name:
+Vorago - Sea Serpents, Corsairs, Crewmates
+Message:
+Vorago - Sea Serpents, Corsairs, Crewmates.
+
+Name:
+Vorago - Upg Sea Serpents
+Message:
+Upgraded Maelstrom was finished in the town of Vorago. You may now hire Haspids there.
+
+Name:
+AI - resources and additional troops
+Message:
+
+
+Name:
+AI - starting resources and troops
+Message:
+
+
+(140, 36, 0) ***Cove***
+Name:
+Marine-Nevma
+
+Timed events:
+
+Name:
+Marine-Nevma - Nymphs
+Message:
+Marine-Nevma - Nymphs.
+
+Name:
+Marine-Nevma - Sea Witches
+Message:
+Marine-Nevma - Sea Witches.
+
+Name:
+AI - resources and additional troops
+Message:
+
+
+(78, 26, 0) ***Conflux***
+Name:
+Aves-Flamma
+
+Timed events:
+
+Name:
+Aves-Flamma - Phoenixes
+Message:
+Aves-Flamma - Phoenixes.
+
+(93, 29, 0) ***Conflux***
+Name:
+Essentia
+
+Timed events:
+
+Name:
+Essentia - Sprites, Magic Elementals
+Message:
+Essentia - Sprites, Magic Elementals.
+
+(99, 51, 0) ***Necropolis***
+Name:
+Sombra
+
+(51, 47, 0) ***Rampart***
+Name:
+Elvengard
+
+Timed events:
+
+Name:
+Elvengard - Elves
+Message:
+Elvengard - Elves.
+
+(4, 6, 0) ***Tower***
+Name:
+Maghort
+
+Timed events:
+
+Name:
+Maghort - Gremlins, Golems
+Message:
+Maghort - Gremlins, Golems.
+
+Name:
+Maghort - Magi, Genies
+Message:
+Maghort - Magi, Genies.
+
+Name:
+Maghort - Upg Magi
+Message:
+Upgraded Mage Tower was finished in the town of Maghort. You may now hire Arch Magi there.
+
+Name:
+Maghort - Upg Genies
+Message:
+Upgraded Altar of Wishes was finished in the town of Maghort. You may now hire Master Genies there.
+
+Name:
+AI - resources and additional troops
+Message:
+
+
+(33, 46, 0) ***Seer's Hut***
+Message:
+An old woman asks you to find and wipe out a bunch of trolls to the West from here. She promises to give you a scroll with the Blind spell as a reward.
+The old hag kicks you out once she finds out you haven't deal with the trolls yet.
+The old woman rewards you with a spell scroll.
+
+(14, 57, 0) ***Castle***
+Name:
+Pull-Allice
+
+Timed events:
+
+Name:
+Pull-Allice - Griffins
+Message:
+Pull-Allice - Griffins
+
+Name:
+Pull-Allice - Griffin Bas
+Message:
+Griffin Bastion was finished in the town of Pull-Allice. You may now hire more Griffins there.
+
+Name:
+AI - starting troops
+Message:
+
+
+(50, 90, 0) ***Castle***
+Name:
+Maritimum
+
+Timed events:
+
+Name:
+Maritimum - trading resources
+Message:
+Maritimum - trading resources.
+
+Name:
+Maritimum - trading resources
+Message:
+Maritimum - trading resources.
+
+Name:
+Maritimum - Shipyard
+Message:
+Shipyard was finished in the town of Maritimum.
+
+Name:
+AI - starting troops
+Message:
+
+
+(48, 94, 0) ***Halberdier***
+Message:
+- Ready to serve, my lord!
+
+(1, 125, 0) ***Pandora's Box***
+Message:
+lol
+
+(81, 137, 0) ***Pandora's Box***
+Message:
+
+
+(131, 94, 0) ***Fortress***
+Name:
+Fortalesa
+
+Timed events:
+
+Name:
+Fortalesa - Serpent Flies, Lizardmen
+Message:
+Fortalesa - Serpent Flies, Lizardmen.
+
+Name:
+Fortalesa - Gorgons, Wyverns
+Message:
+Fortalesa - Gorgons, Wyverns.
+
+Name:
+Fortalesa - Upg Gorgons, Wyverns
+Message:
+Upgraded Gorgon Lair and Upgraded Wyvern Nest were finished in the town of Fortalesa. You may now hire Mighty Gorgons and Wyvern Monarchs there.
+
+(140, 4, 0) ***Cove***
+Name:
+Bay
+
+Timed events:
+
+Name:
+Bay - Crewmates, Pirates
+Message:
+Bay - Crewmates, Pirates.
+
+Name:
+Bay - Upg Crewmates, Pirates
+Message:
+Upgraded Frigate, Upgraded Shack and Pub were finished in the town of Bay. You may now hire Corsairs and Seamen there. Growth of Seamen is up.
+
+Name:
+Bay - Gunpowder Warehouse
+Message:
+Gunpowder Warehouse was finished in the town of Bay. You may now hire Sea Dogs there.
+
+Name:
+AI - resources and additional troops
+Message:
+
+
+(120, 73, 0) ***Cove***
+Name:
+Cubent
+
+Timed events:
+
+Name:
+Cubent - Ayssids
+Message:
+Cubent - Ayssids.
+
+Name:
+Cubent - Roost
+Message:
+Roost was finished in the town of Cubent. You may now hire more Ayssids there.
+
+Name:
+AI - starting troops
+Message:
+
+
+(116, 85, 0) ***Cove***
+Name:
+Garth
+
+Timed events:
+
+Name:
+Garth - Nix, Pirates
+Message:
+Garth - Nix, Pirates.
+
+Name:
+Garth - trading resources
+Message:
+Garth - trading resources.
+
+Name:
+Garth - Upg Nix
+Message:
+Upgraded Nix Fort was finished in the town of Maghort. You may now hire Nix Warriors there.Улучшенный форт никсов был построен в городе Гарт. Теперь вы можете нанимать никсов-воинов.
+
+Name:
+AI - starting troops
+Message:
+
+
+(116, 100, 0) ***Quest Guard***
+Message:
+Get rid of the Nymphs nearby, and we'll let you through.
+The Nymphs are still around, go get them.
+You may pass.
+
+(15, 88, 0) ***Pandora's Box***
+Message:
+
+
+(125, 120, 0) ***Captain***
+Name:
+Corkes
+
+(18, 136, 0) ***Cleric***
+Name:
+Loynis
+
+(49, 91, 0) ***Knight***
+Name:
+Trystan
+Biography:
+Trystan got on the bad side of his family for spending his money on broke knoght orders instead of improving his estates. In the meantime he got well liked among army commanders. Soldiers who fought for Trystan used to live short but decadent lives. 
+
+(4, 7, 0) ***Alchemist***
+Name:
+Coleshire
+Biography:
+Coleshire is a Bracadan alchemist who's been long living in peace in the North of the Forgotten archipelago. After the fleet of Erathia invaded the land and overthrew the old lords, he gladly offered his talents to the newcomers.
+
+(105, 140, 0) ***Inferno***
+Name:
+Gaher-Bell
+
+Timed events:
+
+Name:
+Gaher-Bell - reinforcements
+Message:
+Gaher-Bell - Magogs, Horned Demons, Pit Lords.
+
+(103, 70, 0) ***Lich***
+Message:
+- You'll become a pile of bone dust, and I'll keep your ribs as a souvenir.
+
+(91, 7, 0) ***Conflux***
+Name:
+Trybus
+
+Timed events:
+
+Name:
+Trybus - the three Elements
+Message:
+Trybus - the three Elements.
+
+(84, 71, 0) ***Pandora's Box***
+Message:
+
+
+(65, 72, 0) ***Pandora's Box***
+Message:
+
+
+(96, 67, 0) ***Quest Guard***
+Message:
+- Only the true Undead King may pass.
+- Only the true Undead King may pass.
+- Welcome back, your Darkness.
+
+(2, 37, 0) ***Pandora's Box***
+Message:
+Maybe you shouldn't?
+
+(90, 97, 0) ***Quest Guard***
+Message:
+- Only those who have at least ten Ghost Dragons from the kingdom of Sombra may pass here.
+- Access denied. Only Sombran lords with a retinue of ten Ghost Dragons may pass.
+- Welcome.
+
+(91, 66, 0) ***Pandora's Box***
+Message:
+
+
+(61, 45, 0) ***Seer's Hut***
+Message:
+- My merchant fleet was destroyed by the sea beasts to the North form here. Wipe them out, and I'll dive you a squad of my best Snipers.
+- That's just not good enough.
+- Thank you! You proved your right to lead this squad.
+
+(70, 103, 0) ***Pandora's Box***
+Message:
+
+
+(83, 79, 0) ***Pandora's Box***
+Message:
+
+
+(71, 66, 0) ***Event***
+Message:
+An elven ambush! Looks like we shouldn't have plundered those AvLeean ports and partaken in smuggling timber. Them elves are spiteful bastards...
+
+(87, 52, 0) ***Event***
+Message:
+"What's an elven ship doing here? Have they set up an ambush on us already?"		
+
+(24, 19, 0) ***Event***
+Message:
+A bunch of bandits ambushed you!
+
+(4, 48, 0) ***Troll***
+Message:
+- Thee my axthe?	- Nope!	- It'th not here, you dum dum! Gottha!		That was likely the least intelligible conversation you ever had in your life.
+
+(91, 79, 0) ***Event***
+Message:
+Suddenly an army of dead arises from the ground in front of your troops. To arms!
+
+(69, 70, 0) ***Event***
+Message:
+A sign on the Border Gate reads:	"Whoever sets foot in the white portal's shine,	Will soon get to know his life's bottom line."
+
+(69, 72, 0) ***Event***
+Message:
+You are hailed by the border guards: "Just in case you didn't get the message, this is a one-way portal! Better stay away if you're not sure you're up to snuff!"
+
+(92, 76, 0) ***Sign***
+Message:
+Galthran's abode is to the South.	The castle of Sombra is to the North.
+
+(37, 117, 0) ***Event***
+Message:
+A bunch of bandits ambushed you!
+
+(9, 81, 0) ***Event***
+Message:
+A bunch of bandits ambushed you!
+
+(94, 80, 0) ***Event***
+Message:
+Suddenly an army of dead arises from the ground in front of your troops. To arms!
+
+(43, 24, 0) ***Pandora's Box***
+Message:
+
+
+(45, 26, 0) ***Pandora's Box***
+Message:
+
+
+(40, 27, 0) ***Pandora's Box***
+Message:
+
+
+(39, 36, 0) ***Ocean Bottle***
+Message:
+"The White Keymaster is rumored to be somewhere underground."
+
+(21, 44, 0) ***Event***
+Message:
+A bunch of bandits ambushed you!
+
+(15, 128, 0) ***Event***
+Message:
+A bunch of bandits ambushed you!
+
+(38, 94, 0) ***Lizardman***
+Message:
+- Looks like the lizardmen have those archers. Let's set them free!
+
+(37, 19, 0) ***Seer's Hut***
+Message:
+- Those damned Golems I created barred me in here! Thanks for setting me free.	I can make a bunch of soldiers out of peasants for you. Just get them here.
+- 65! Get me some peasants, willya?
+- These soldiers will serve you well, I promise! See you again!
+
+(133, 103, 0) ***Seer's Hut***
+Message:
+- I'm an old sailor living here for the last seven decades at least, what would I have of interest for you?  Well... I've got some weapons to spare, good for, say, a squad of 45. Get me some green kids, I'll teach them to hit an albatross' eye from 200 paces.
+- I thought we had a deal - 45 men!
+- I hope this geezer is just a cannibal who prefers eating black people, so he gave the white ones to me, otherwise...		You won't be sleeping well in the days to come.
+
+(122, 106, 0) ***Crewmitglied***
+Message:
+- Dang it, man, I sure thought we'd get turned into Undead here...
+
+(123, 107, 0) ***Crewmitglied***
+Message:
+- Friends! These are friends!
+
+(62, 53, 0) ***Pandora's Box***
+Message:
+
+
+(69, 2, 0) ***Seer's Hut***
+Message:
+You enter the house sitting on piles, but it's completely empty. However, you soon find a door with a glowing handle. It won't open or give in. It's probably locked magically.
+You still have no idea how to unlock the door.
+You finally execute an elaborate plan to smach the handle with a sledgehammer, and a rich library is found behind the door.
+
+(61, 11, 0) ***Pandora's Box***
+Message:
+
+
+(54, 87, 0) ***Pandora's Box***
+Message:
+Letters can be found on the box: "Made in Nighon".
+
+(80, 96, 0) ***Pandora's Box***
+Message:
+
+
+(131, 131, 0) ***Pandora's Box***
+Message:
+
+
+(80, 114, 0) ***Pandora's Box***
+Message:
+
+
+(116, 62, 0) ***Seer's Hut***
+Message:
+- If you smash those arseholes in a fort to the East from here, I'll teach you some combat tricks.
+- Them arseholes are still around!
+You don't believe you can now kill an Azure Dragon with one blow of a rum bottle, as your teacher is claiming you do; but there's certainly something new you learned.
+
+(93, 74, 0) ***Event***
+Message:
+Suddenly an army of dead arises from the ground in front of your troops. To arms!
+
+(91, 92, 0) ***Event***
+Message:
+Suddenly an army of dead arises from the ground in front of your troops. To arms!
+
+(97, 120, 0) ***Pandora's Box***
+Message:
+
+
+(99, 107, 0) ***Seer's Hut***
+Message:
+There's a big sign on the roof reading "Slaves wanted. Good price".
+The sign's still there.
+The hut's owner opened the door and accepted your offer silently. He immediately got the slaves to work, ordering them to load a huge sack to your ship.
+
+(4, 107, 0) ***Pandora's Box***
+Message:
+
+
+(71, 135, 0) ***Seer's Hut***
+Message:
+- If you wipe out the hellish spawn to the South from here, my Champions will join your army.
+- That's not what we agreed upon.
+- They'll serve you well!
+
+(37, 26, 0) ***Seer's Hut***
+Message:
+- Bless you, my hero, for driving those naughty Crystal Dragons out of my hatchery... They used to be mine, but they went mad for some reason. All I have now are these ones, the Faerie Dragons... How can I express my gratitude?
+- It pains me to part with them, but there's no other way to reward you. Farewell, my dear babies.
+
+(48, 92, 0) ***Event***
+Message:
+- A squad of halberdiers is to be waiting for me at the sentry post.
+
+(81, 44, 0) ***Pandora's Box***
+Message:
+
+
+(93, 85, 0) ***Event***
+Message:
+Suddenly an army of dead arises from the ground in front of your troops. To arms!
+
+(120, 66, 1) ***Dungeon***
+Name:
+The Crossroads
+
+(93, 62, 1) ***Pandora's Box***
+Message:
+
+
+(30, 35, 1) ***Seer's Hut***
+Message:
+- You must be as crazy as me, if you managed to get here. You know what - beat them sea beasts to the South from here to pulp, and I'll let you take my pirates, as you probably need them more.	By the way, there is a safe portal out of this dungeon to the West, but it's guarded well.
+- Whacha want?
+- Shiver me timbers, you did it! I hope my guys will serve you well.
+
+(45, 55, 1) ***Pandora's Box***
+Message:
+
+
+(75, 10, 1) ***Pandora's Box***
+Message:
+
+
+(54, 106, 1) ***Conflux***
+Name:
+Panopticum
+
+(94, 131, 1) ***Pandora's Box***
+Message:
+
+
+(70, 11, 1) ***Pandora's Box***
+Message:
+
+
+(68, 63, 1) ***Quest Guard***
+Message:
+- 7500 gold and 8 crystals will get you eight excellent Green Dragons.
+- No money, no funny.
+- Here you go!
+
+(80, 53, 1) ***Quest Guard***
+Message:
+- 10000 gold and 10 crystals will get you ten excellent Green Dragons.
+- No money, no funny.
+- Here you go!
+
+(73, 54, 1) ***Quest Guard***
+Message:
+- 5500 gold and 6 crystals will get you six excellent Green Dragons.
+- No money, no funny.
+- Here you go!
+
+(64, 47, 1) ***Event***
+Message:
+A sign above the Border Gate reads: "Black Wave Cult".
+
+(78, 45, 1) ***Pandora's Box***
+Message:
+
+
+(75, 49, 1) ***Zauberin***
+Message:
+- No! Don't you dare interrupt our ritual! Stop them, sisters!
+
+(56, 67, 1) ***Prison***
+Name:
+Phalm
+Biography:
+Phalm the Great is an ancient dragon who was tricked by the cultists. They seized him and tried to use as bait to summon an even mightier creature.
+
+(18, 39, 1) ***Ocean Bottle***
+Message:
+"Phalm the Great will return into the world, and his might will shatter the ski~" - the unfinished note is stained with blood.
+
+(51, 26, 1) ***Ocean Bottle***
+Message:
+"Cattelberg, 1099" That was probably some real nice wine.
+
+(115, 33, 1) ***Tower***
+Name:
+Regnum-Nevis
+
+Timed events:
+
+Name:
+Regnum-Nevis - Arch Magi
+Message:
+Regnum-Nevis - Arch Magi.
+
+Name:
+Regnum-Nevis - Titans
+Message:
+Regnum-Nevis - Titans.
+
+Name:
+Regnum-Nevis - resources
+Message:
+Regnum-Nevis - mined resources.
+
+(111, 30, 1) ***Sign***
+Message:
+The Godforsaken mine.
+
+(114, 18, 1) ***Pandora's Box***
+Message:
+
+
+(25, 118, 1) ***Seer's Hut***
+Message:
+- Here's the deal. You drive the Evil Eyes out of the mercury lab to the East from here, and I'll give you 4000 gold. Will this work?
+- That's not what we agreed upon.
+- Nicely done. Now excuse me, I have to tend to my mushroom farm.
+
+(13, 118, 1) ***Seer's Hut***
+Message:
+- You drive the Evil Eyes out of the mercury lab, and I'll give you a squad of Minotaurs. Deal?
+
+(20, 110, 1) ***Seer's Hut***
+Message:
+- Here's the deal. You drive the Evil Eyes out of the mercury lab to the West from here, and I'll give you 4000 gold. Will this work?
+- That's not what we agreed upon.
+- Nicely done. Now excuse me, I have to tend to my mushroom farm.
+
+(17, 113, 1) ***Sign***
+Message:
+Welcome to Mushroomland! The best mercury comes from here.
+
+(140, 1, 1) ***Heretic***
+Name:
+Joe the Crut
+
+(140, 5, 1) ***Demoniac***
+Name:
+Maghbore
+
+(82, 105, 1) ***Pandora's Box***
+Message:
+
+
+(93, 109, 1) ***Pandora's Box***
+Message:
+
+
+(140, 9, 1) ***Demoniac***
+Name:
+Wavekiller
+
+(140, 13, 1) ***Demoniac***
+Name:
+Manshere
+
+===== End of file =====

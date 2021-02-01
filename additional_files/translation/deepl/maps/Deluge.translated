@@ -1,0 +1,35 @@
+===== Map name =====
+Sintflut
+
+===== Map description =====
+Seit Monaten regnet es nun schon.  Das überschüssige Wasser hat den größten Teil deines Landes weggespült und dein Königreich geteilt.  Nun haben sich zwei andere Fraktionen erhoben, um die Kontrolle über das zu übernehmen, was einst das Eure war.  Dieser Aufstand darf nicht toleriert werden!  Ihr müsst die Kontrolle über Euer Land wieder übernehmen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+In den letzten Monaten hat es ununterbrochen geregnet.  Der ganze Regen hat die Ländereien überflutet, wodurch Ihr Königreich zerbrochen ist.  Die Bauern haben sehr schnell darauf reagiert, und in kürzester Zeit haben sich zwei weitere Fraktionen erhoben.  Ihre Absicht ist einfach: Sie wollen Ihr Königreich zu ihrem machen.  Sie müssen diese Fraktionen daran hindern, erfolgreich zu sein.
+
+Name:
+Überschwemmung
+Message:
+Aufgrund des vielen Regens haben die Überschwemmungen das Terrain um Ihr Schloss drastisch verändert.  Sie sind ziemlich sicher, dass der Regen Ihre Werften und die meisten, wenn nicht sogar alle Ihre Schiffe in den Docks zerstört hat.  Sie müssen einen Weg suchen, um zu den anderen Fraktionen zu gelangen.  Dieser Aufstand muss gestoppt werden, bevor er außer Kontrolle gerät.
+
+Name:
+Späher 
+Message:
+Nach einer Woche der Suche nach einem Weg, zu den anderen zu gelangen, haben Sie aufgegeben.  Ihre letzte Chance sind die Scouts.  Nachdem Sie die Scouts auf den Weg geschickt haben, lehnen Sie sich entspannt zurück und warten auf ihre Rückkehr.
+
+Name:
+Glück
+Message:
+Wie es der Zufall wollte, kehrte einer Ihrer Späher mit genau der Information zurück, die Sie brauchten.  Offenbar hat die Überschwemmung die unterirdischen Gänge nicht blockiert.  Da dies der einzige Weg zu den anderen Fraktionen ist, versammeln Sie Ihre Armee und beginnen, zu einem unterirdischen Tor zu marschieren.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

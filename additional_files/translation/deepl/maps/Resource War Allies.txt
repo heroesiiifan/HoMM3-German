@@ -1,0 +1,74 @@
+===== Map name =====
+Resource War (Allies)
+
+===== Map description =====
+Through a fluke of nature the resources of this land are concentrated in many different areas.  To avoid ruinous resource collection costs, you have allied yourself with a lord who has what you lack and lacks what you have.  This alliance has upset your former resource suppliers.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Learning of a trade agreement between you and a neighboring Lord, your former resource suppliers have declared war on you.  Your neighbors, fearful of your new alliance, have also taken up arms.  Fortunately, not all of your enemies are allied, and they have taken the opportunity to declare war on each other.
+
+===== Heroes =====
+
+===== Objects =====
+
+(18, 17, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Trading Post
+Message:
+As a gesture of good will, your ally builds a Marketplace for you.
+
+(38, 35, 0) ***Rampart***
+
+Timed events:
+
+Name:
+Marketplace
+Message:
+As a gesture of good will, your ally builds a marketplace for you.
+
+(50, 41, 0) ***Tower***
+
+Timed events:
+
+Name:
+Marketplace
+Message:
+As a gesture of good will, your ally builds a marketplace for you.
+
+(61, 51, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Marketplace
+Message:
+As a gesture of good will, your ally builds a marketplace for you.
+
+(28, 25, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+Marketplace
+Message:
+As a gesture of good will, your ally builds a marketplace for you.
+
+(42, 25, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Marketplace
+Message:
+As a gesture of good will, your ally builds a marketplace for you.
+
+===== End of file =====

@@ -1,0 +1,50 @@
+120,121c120,121
+< """Es gibt nur einen Zweiwege-Monolithen (%s) auf der Karte.""
+< ‘Zweiwege’-Monolithen sind 'Teleporter'. Wenn Ihr nur einen Zweiwege-Monolithen platziert, gibt es keinen Ausgang für Helden, die ihn betreten.
+---
+> """Es gibt nur einen %s auf der Karte.""
+> ‘Zweiwege’-Monolithen/Portale sind 'Teleporter'. Wenn Ihr nur ein Zweiwege-Monolithen/Portal platziert, gibt es keinen Ausgang für Helden, die ihn betreten.
+123,124c123,124
+< """Es gibt einen oder mehr Einweg-Monolithen Eingänge auf der Karte, aber keine Ausgänge (%s).""
+< Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen. Wenn Ihr einen Einweg-Monolithen Eingang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Ausgang geben.
+---
+> """Es gibt einen oder mehr %s auf der Karte, aber keine zugeordneten Ausgänge.""
+> Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen/Portale. Wenn Ihr einen Einweg-Monolithen/Portal Eingang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Ausgang geben.
+126,127c126,127
+< """Es gibt einen oder mehrere Einweg-Monolithen Ausgänge (%s) auf der Karte, aber keine Eingänge (%s).""
+< Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen. Wenn Ihr einen Einweg-Monolithen Ausgang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Eingang geben.
+---
+> """Es gibt einen oder mehrere %s auf der Karte, aber keine zugeordneten Eingänge.""
+> Diese Fehlermeldung bezieht sich auf 'Einweg'-Monolithen/Portale. Wenn Ihr einen Einweg-Monolithen/Portal Ausgang auf der Karte platziert habt, muss es auch mindestens einen entsprechenden Eingang geben.
+137c137
+< Damit ein Spieler die Aufgabe der Seher-Hütte lösen kann, muss das Suchobjekt (das zugewiesene Artefakt) auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer anderen Seher-Hütte.
+---
+> Damit ein Spieler die Aufgabe der Seher-Hütte, des Aufgabenwächters oder dem Aufgabentor lösen kann, muss das Suchobjekt (das zugewiesene Artefakt) auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste, in einer Kreaturenbank, als Belohnung in einer anderen Seher-Hütte oder als Teil eines kombinierten Artefaktes. Bei einem kombinierten Artefakt können seine Komponenten anstelle des Artefakts selbst auf der Karte vorhanden sein.
+146c146
+< Um die Siegesbedingung 'bestimmtes Artefakt beschaffen' erfüllen zu können, muss das entsprechende Artefakt auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer Seher-Hütte."
+---
+> Um die Siegesbedingung 'bestimmtes Artefakt beschaffen' erfüllen zu können, muss das entsprechende Artefakt auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste, in einer Kreaturenbank, als Belohnung in einer anderen Seher-Hütte oder als Teil eines kombinierten Artefaktes. Bei einem kombinierten Artefakt können seine Komponenten anstelle des Artefakts selbst auf der Karte vorhanden sein."
+181c181
+< Damit ein Spieler ein bestimmtes Artefakt transportieren kann, muss es auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste oder als Belohnung in einer Seher-Hütte."
+---
+> Damit ein Spieler ein bestimmtes Artefakt transportieren kann, muss es auf der Karte existieren, entweder im Besitz eines Helden, als Ereignis, in Pandoras Kiste, in einer Kreaturenbank, als Belohnung in einer anderen Seher-Hütte oder als Teil eines kombinierten Artefaktes. Bei einem kombinierten Artefakt können seine Komponenten anstelle des Artefakts selbst auf der Karte vorhanden sein."
+297c297
+< Der Zweck von Seher-Hütten und Aufgaben-Toren ist, dem Spieler eine Aufgabe zu geben. Wenn keine Aufgabe zugewiesen wird, erfüllen sie keinen Zweck.
+---
+> Der Zweck von Seher-Hütten, dem Aufgaben-Wächter und Aufgaben-Toren ist, dem Spieler eine Aufgabe zu geben. Wenn keine Aufgabe zugewiesen wird, erfüllen sie keinen Zweck.
+594c594
+< (Überlaufen wahrscheinlich)"
+---
+> (Überlaufen wahrscheinlich, 1–7)"
+596c596
+< (Überlaufen möglich)"
+---
+> (Überlaufen möglich, 1–10)"
+598c598
+< (Überlaufen unwahrscheinlich)"
+---
+> (Überlaufen unwahrscheinlich, 4–10)"
+600c600
+< (Laufen nie zum Helden über)"
+---
+> (Laufen nie zum Helden über, 10)"

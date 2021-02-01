@@ -1,0 +1,61 @@
+===== Map name =====
+Helden der Macht, nicht der Magie
+
+===== Map description =====
+Ein böser Zauberer hat die gesamte Magie des Landes in seine Phiole aus Drachenblut gesaugt.  Die einzige Möglichkeit, die Magie zurückzubekommen, besteht darin, alle Städte im Kampf gegen ihn zu vereinen.  Doch jede Stadt glaubt, das Land besser beherrschen zu können als die andere.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1 
+Message:
+Dieses schöne Land war einst erfüllt von Zauberei und Magie, Harmonie und Frieden.  Das war vor zwanzig Jahren, und seitdem hat sich viel verändert.  Nachdem der gute König Vandaine verstorben ist, hat ein böser Zauberer namens Corthim den Thron bestiegen und regiert das Königreich mit eiserner Faust.  Doch alle Städte des Landes haben heimlich ihre Zauberer trainiert, in der Hoffnung, dass sie Corthim besiegen und alles wieder in die alten Bahnen lenken könnten.
+
+Name:
+Tag 2
+Message:
+Ein Steuereintreiber hat die Nachricht einer weiteren Steuererhöhung von Corthim überbracht.  Von nun an sollen alle Städte in dieser Region 2500 Goldstücke pro Woche zahlen.  Das ist noch einmal halb so viel, wie Sie vorher gezahlt haben!  In einem Anfall von Wut schlagen Sie mit den Fäusten auf Ihren Schreibtisch und schreien Obszönitäten.  Sie wissen, wenn Sie Corthim nicht bezahlen, wird er nicht Sie töten, sondern Ihre ganze Stadt auf ewig leiden lassen.
+
+Name:
+Nimmt alle Magie. 
+Message:
+Du kramst in deinem Rucksack und findest den kostbaren Stein, den dir dein Großvater, einer der größten Zauberer, die je aus diesem Land kamen, geschenkt hat, als du ein Kind warst.  Du erinnerst dich, wie er dir sagte: "Mein Junge, solange es Magie gibt, wird dieser Stein dir Frieden bringen.  Leg ihn einfach in deine Hand und er wird sich heben und schweben."  Du legst den Stein in deine Hand, aber er sitzt einfach da wie ein gewöhnlicher Stein. Das ist noch nie passiert!	Plötzlich erscheint eine wolkige Gestalt vor Dir, und Du erkennst sie sofort als Corthim.  Du spürst, wie sich die Wut in Dir aufbaut, als er spricht: "Ich habe dich und die anderen beobachtet.  Ihr habt alle eine ziemliche Armee von Zauberern, die so gut versteckt sind.  Ihr trainiert sie, um mich zu besiegen, aber Eure Bemühungen werden vergeblich sein.  Ihr seht, ich habe heute etwas Außergewöhnliches getan.  Seht ihr diese Phiole?"  Er hält ein Glasgefäß hoch.  "Es enthält nun die gesamte Magie dieses Landes.  Während ihr eure Armee aufgebaut habt, habe ich die Magie abgesaugt.  Ihr wart dumm zu glauben, dass man mich mit Magie aufhalten kann, wo ich doch der größte Zauberer des Landes bin!"	Als die Gestalt in einer Rauchwolke verschwindet, denkst du dir: "Der einzige Weg, Corthim zu entthronen, ist, die Kräfte aller Städte des Landes zu vereinen und ihn mit Macht zu nehmen."
+
+Name:
+Steuerzeit
+Message:
+Sie wissen, dass Ihre großzügigen Beiträge zu besseren Armeen, besserem Training und besseren Waffen führen werden.
+
+Name:
+keine Übereinstimmung
+Message:
+Alle sind endlich über den anfänglichen Schock hinweg, die Magie des Landes verloren zu haben.  Die Zauberer sind in eine verlassene Stadt im Süden gezogen und haben eine Schachliga gegründet.  Sie haben Nachrichten von den anderen Städten erhalten, dass sie ihre Kräfte vereinen wollen, um Corthim zu entthronen, aber sie waren nicht positiv.  König Vandaine war der einzige gute König, der dieses Land regieren und die Dinge wieder so machen konnte, wie sie einmal waren.  Seit er weg ist, glauben sie, dass jeder, der seinen Platz einnimmt, nicht besser als Corthim sein wird.  Einige haben sich entschieden, dafür zu kämpfen, dass Corthim an der Macht bleibt.  Andere kämpfen, um ihn zu entthronen.  Während alle gegeneinander kämpfen, wird Corthim immer mächtiger.
+
+Name:
+Ratschläge
+Message:
+Ihr Berater hat sich einen Plan einfallen lassen.  Er schlägt vor, dass Sie so viele Truppen wie möglich ausbilden, alle Nachbarstädte besiegen und die Kontrolle über deren Ressourcen und Truppen erlangen.  Sobald Sie dies getan haben, können Sie Corthim den Krieg erklären.  Er wird jeden Tag mächtiger, also je schneller Sie handeln, desto besser sind Ihre Chancen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(55, 63, 0) ***Pandora's Box***
+Message:
+
+
+(40, 37, 0) ***Random Monster 2***
+Message:
+"Wenn ihr passieren wollt, müsst ihr zuerst an uns vorbei!"
+
+(49, 21, 0) ***Random Monster 3***
+Message:
+Nur eine Person darf hier passieren.  Sie sind nicht diese Person.
+
+(32, 43, 0) ***Random Monster 2***
+Message:
+Niemand darf hier passieren!
+
+===== End of file =====

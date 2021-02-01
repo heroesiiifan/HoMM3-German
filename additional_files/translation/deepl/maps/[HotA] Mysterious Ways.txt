@@ -1,0 +1,146 @@
+===== Map name =====
+Mysterious Ways
+
+===== Map description =====
+This small realm lives by its own rules. Everything here is subject to change in a snap of fingers. New paths appear in the woods, waiting for an adventurer to set foot upon them. You will have to blaze your own way to triumph.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+04 Res + (all)
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(9, 5, 0) ***Castle***
+
+Timed events:
+
+Name:
+08 Creature +\ Gold + (hum)
+Message:
+
+
+(4, 22, 0) ***Inferno***
+
+Timed events:
+
+Name:
+03 Gold +\ Creature +
+Message:
+
+
+Name:
+08 Creature + (hum)
+Message:
+
+
+(15, 32, 0) ***Tower***
+
+Timed events:
+
+Name:
+01 Gold + (hum)
+Message:
+
+
+Name:
+02 Gold +
+Message:
+
+
+Name:
+02 Tavern +
+Message:
+
+
+(19, 19, 0) ***Rampart***
+
+Timed events:
+
+Name:
+03 Res +
+Message:
+
+
+Name:
+08 Res +
+Message:
+
+
+Name:
+05 Creature +
+Message:
+
+
+Name:
+03 Creature + (hum)
+Message:
+
+
+Name:
+08 Res + (hum)
+Message:
+
+
+(31, 6, 0) ***Event***
+Message:
+
+
+(22, 18, 0) ***Event***
+Message:
+
+
+(3, 23, 0) ***Event***
+Message:
+
+
+(19, 21, 0) ***Event***
+Message:
+
+
+(10, 32, 0) ***Event***
+Message:
+
+
+(29, 15, 0) ***Event***
+Message:
+
+
+(2, 3, 0) ***Event***
+Message:
+
+
+(27, 28, 0) ***Event***
+Message:
+
+
+(2, 32, 0) ***Event***
+Message:
+
+
+(30, 4, 0) ***Fortress***
+
+Timed events:
+
+Name:
+04 Res +
+Message:
+
+
+Name:
+08 Gold +\Creature +
+Message:
+
+
+Name:
+08 Creat + (hum)
+Message:
+
+
+===== End of file =====

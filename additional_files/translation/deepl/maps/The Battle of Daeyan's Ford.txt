@@ -1,0 +1,110 @@
+===== Map name =====
+The Battle of Daeyan's Ford
+
+===== Map description =====
+In the early days of yore, six armies met on the field of battle near the river fork called Daeyan's Ford.  They fought a battle so bloody and drawn out that the fields lay fallow for years afterward.  This is the story of that epic war's most costly conflict.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Red
+Message:
+We are the Shandra Kel.  We have been drawn into this bloody war by those fools with whom we once were allied long ago in the Tae S'lar.  The Tae S'lar gave up their favored nation status when they spurned our Padishah Emperor's proposal of marriage to their Witch Queen.  Had she but simply agreed our two nations would be the mightiest in all the land, but now we stand as bitter enemies.		How the other nations got dragged into this is still a mystery to some, but we know the real truth.  It was the fault of Qen Tellar.  They are the underground chaos bringers who sow their seeds of discontent and revel in the anarchy of war.  We must make certain that they pay the heaviest toll for this conflict, for they are responsible for the majority of the ills in the world.  Of that we are most certain.  You will know the Quen Tellar by their sickening pink colored flags and back banners.  Should they defeat their underground neighbors, the Geled D'tir, we fear they shall overrun us all.
+
+Name:
+Blue
+Message:
+We are the Devak Nor, the followers of Sheyva and the bringers of divine death.  Sheyva tells us the shedding of blood is necessary to cleanse ourselves of the bloodlust curse in preparation for our trip across the River of Ordeals and onto the Palace of Heavenly Delights.		This war has been a cause of celebration for us in that many of our people have been able to travel across the River and seek Paradise.  We would love to have festivities on the sacred waters of Daeyan's Ford, but there are a great many things that must happen before we can have our Great Bloodletting celebration.		We must cleanse this region of all Untainted Ones, including our former brothers who follow the purple flag of the Velek Koor, for they turned their back on our ways decades ago.  They are traitors who must be sacrificed as a show of loyalty to Sheyva so that we may be allowed a place in Paradise.
+
+Name:
+Orange
+Message:
+We, the people known as the Geled D'tir, have been forced underground for countless generations, and we shall stand it no longer.  We have been called animals and worse by those who rule the overworld, insults so painful as to force our hand to violence.		Once this war began, we sought to prove our worth and mettle to the surface dwellers.  However, we are growing weary from the long years of conflict and now want to find another way to this war.  Daeyan's Ford is vital to the surface dwellers' trade routes.  Seize control of this area so that the surface dwellers will be weakened and we can soon come back into the light.
+
+Name:
+Purple
+Message:
+We are the Velek Koor, the followers of Sheyva who turned our backs on the Devak Nor, for they are fools who still believe that the old ways of indiscriminate bloodshed is the path to Paradise.  We know that only on the holy days must we shed blood to cleanse our souls of the Bloodlust Curse and be allowed to pass across the River of Ordeals and enter the Palace of Heavens.  There we will find Paradise and live forever.		The Devak Nor are preparing for the Great Bloodletting and so are we, but they must not interfere with our plans for this most holy of rites.  The sacred waters flowing through Daeyan's Ford are perfect for the ceremony, but we must control the region first.  We must stop the Devak Nor from their wholesale slaughtering, so that we can have an organized and ritualistic Bloodletting.  It shall be much easier to complete the rite properly if we have control over the people.
+
+Name:
+Teal
+Message:
+We are the Tae S'lar, those who follow the Witch Queen Anatoria.  Our glorious Queen has inherited this conflict from her mother and her mother's mother.  How it all started, no one knows, but we do know that to control Daeyan's Ford is to control trade in this region.  However, taking it shall not be easy nor will it be without cost.  Many shall pay dearly for us to achieve victory.		The red banners of the Shandra Kel shall be one of our biggest banes, for their king is still bitter over our Queen's refusal to marry.  She spurned his love, and he took that as an act of war.  Now our greatest ally is our greatest foe.  They, along with the many other factions here, shall be a tremendous challenge, but our Queen has faith in her generals.  Take control of the region and bring honor to your queen.
+
+Name:
+Pink
+Message:
+We are the Qen Tellar, the Tongues of the Serpent.  We are called the Chaos bringers, the Bane of Man, and far worse.  We do only the bidding of the cosmos, the will of the universe.  We are those who sow the seeds of discontent so that societies shall prosper, for through conflict comes innovation and through innovation comes progress.  We are the shapers and makers of this world, the architects of destiny, the fomenters of change.		We started this war countless generations ago, but now others have force our hand.  They move too slowly in their conflicts, preferring to machinate in the shadows instead of challenging each other in the field of battle.		Worse still, we have been discovered.  This means we need to alter our thinking, change our tactics.  Now has come the time for us to raise armies and lead the charge.  So go forth, my young warlord.  Bring us honor by shaping this world with the swords and axes of the one universal constant... change.
+
+Name:
+The Devak Nor Attack
+Message:
+The Devak Nor, that cult of ravenous lunatics, has moved into a fortified position across the river.  They have been a plague on this land for far too long.  They believe themselves to be cursed, and somehow shedding the blood of others will lift that curse and ensure their entrance into paradise upon their death.  This war with them has gone on for generations.  They should have been cleansed by now, don't you think?
+
+Name:
+Death Comes Nigh
+Message:
+We ride with the blessings of our beloved goddess Sheyva, the Bringer of Divine Death, she of the Crimson Blades.  On this, the fifth day of the month of Al Atuur, we shed blood for Her Dark Majesty.  Soon the Great Bloodletting shall commence, but first we must gather the flocks to be culled.  Go with Sheyva's blessing, my child.  Prepare the way for us.
+
+Name:
+The Geled Learn Something
+Message:
+The scouts have returned from the surface.  There they have learned that the Devak Nor, one of those who drove us down below the surface, have begun a great crusade of sorts to fulfill an ancient prophecy that calls for the Great Bloodletting.  They will be rounding up people and preparing them for a giant sacrifice.
+
+Name:
+Curse of the Velek Koor
+Message:
+The Curse stains us, corrupts us and prevents us from crossing the River of Ordeals and entering Paradise via the Palace of Heavens.  We may cleanse ourselves of this Curse only by shedding the blood of the Untainted, thus transferring the stain to their souls.		This needs to be done in a ritualistic fashion, not the manner in which the Devak Nor use.  Their wholesale slaughter of innocents in Sheyva's name is no proper way to show devotion to Her Dark Majesty.  She demands that the worthy take great care in paying the proper respects to her before she lifts the taint from your soul and grants you access to the Palace of Heavens.		The Devak Nor need to be taught that lesson.  The rest are simply Untainted who need to be collected and prepared for sacrifice.  The time of the Great Bloodletting is nearing, as was prophesized by Sheyva.
+
+Name:
+A Proud People
+Message:
+That annoying Shandra Kel Emperor is attacking again.  Why can't he just accept that our Queen did not wish to marry him?  He can be so childish sometimes!  I mean, really, there's a war going on with the Devak Nor, that psychotic cult of death worshippers, but he's bent on revenge for being embarrassed!  He should be concentrating on defending his borders from the Devak Nor and not us, but if a fight is what he seeks, then we shall give it to him.  Fighting a war on two fronts will be difficult, but we are Tae S'lar and we shall prevail.
+
+Name:
+The Weak Shall Suffer
+Message:
+They are all ready to face you.  The Geled D'tir are the easiest target, as they are down here with us.  The rest will eventually taste our steel, but for now we will enjoy the chaos sown above by our unwitting puppets, the Devak Nor.  Those foolish, superstitious fools have bought into this whole Curse for so long that it has blown into a full on religion!		Funnier still is that there are now two factions of that religion who believe "Sheyva" has each instructed them on the proper way to cleanse themselves of this Curse.  The truth is that we infected their minds long ago.  It was a Qen Tellar from eons past who took the name Sheyva and alerted them to the taint that was upon them.  In teaching them how to "cleanse" themselves of this Curse, we turned them into warriors, proud conquerors and despoilers, the shedders of innocent blood.  We could not be happier with our little experiment; however, they have now gone too far.  They plan to destroy everyone in this region, both them and that Velek Koor splinter faction.  We cannot allow their Great Bloodletting to occur.  After all, how can change and progress occur if everyone is dead?
+
+Name:
+The Geled D'Tir are revealed
+Message:
+It appears that another faction has chosen to enter this conflict.  They are called the Geled D'tir and live in the underground tunnels.  What they want is not known.  But they should be watched.  They might be only little threat, but you can never tell for certain.
+
+Name:
+The Devak Nor Attacks
+Message:
+Devak Nor attacks on the eastern shores of the Ford have resulted in massive deaths.  They are getting closer.  Are your armies prepared for them?
+
+Name:
+The Refusal
+Message:
+This refusal has brought anger and pain to His Holiness, the Padishah Emperor.  He has promised a great reward for the one who takes her head back to the capitol.  It need not be attached to her body.
+
+Name:
+They know about us
+Message:
+They now know of us.  We have finally made our voice heard and they shall come for us.  We must be prepared for the battles to come.
+
+Name:
+Sinister Dealings
+Message:
+Our suspicion about the Qen Tellar's involvement in this conflict turns out to be true.  They who wield the pink banner this war long ago for purposes unknown, but they were the engineers of this conflict.  This does not change the past nor does it erase the hatred shared by us all over the years, but it does explain a few things.  They simply set things in motion and have prevented any chance of peace.		The fear now is that these engineers of chaos are now on the move with blade in hand.  They are now sowing the seeds of chaos with violence, open and blunt, instead of poison words spoken from the shadows.  They must be crushed so that this war can come to an end.
+
+Name:
+The Time to Strike
+Message:
+The time to strike is now.  They know our past and what we did to start this war.  They all will now come for us.  Let them, for they are weak and shall fall before the blade we wield.  We, the Qen Tellar, shall prevail and progress.
+
+Name:
+The Bounty
+Message:
+Her Majesty has just learned of a bounty placed upon her head by the Padishah Emperor of the Shandra Kel!  If it were not for the coming of Great Bloodletting and the news of the Qen Tellar being these great Chaos bringers and architects of doom, we would send our fully army into Shandra Kel and obliterate them all.  That insufferable boor of an Emperor shall be dealt with soon enough.  If the opportunity presents itself, destroy the Shandra Kel so that they will keep quiet for a bit.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

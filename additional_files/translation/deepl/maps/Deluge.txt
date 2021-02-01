@@ -1,0 +1,35 @@
+===== Map name =====
+Deluge
+
+===== Map description =====
+For months it has been raining.  The excess water has washed away most of your land and separated your kingdom.  Now two other factions have risen up to take control of what was once yours.  This uprising shall not be tolerated!  You must take control of your land once again.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+For the past several months it has been raining continuously.  All the rain has flooded the lands, causing your kingdom to fracture.  The peasants reacted very quickly to this, and two other factions have risen up in a very short period of time.  Their intention is a simple one: to make your kingdom theirs.  You must stop these factions from succeeding.
+
+Name:
+Flooding
+Message:
+Due to all the rain, flooding has changed the terrain around your castle drastically.  You are fairly sure the rain will have destroyed your shipyards and most, if not all, of your ships at the docks.  You must search for a way to get to the other factions.  This uprising must be stopped before it gets out of hand.
+
+Name:
+Scouts 
+Message:
+After a week of searching for a way to get to the others, you have given up.  Your last chance will be the scouts.  After sending the scouts on their way you sit back and relax, waiting for their return.
+
+Name:
+Luck
+Message:
+As luck would have it, one of your scouts returned with just the information you needed.  Apparently the flooding didn't block the passages underground.  With that being the only way to the other factions, you gather your army and begin to march to a subterranean gate.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

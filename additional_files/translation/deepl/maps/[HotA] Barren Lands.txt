@@ -1,0 +1,300 @@
+===== Map name =====
+Barren Lands
+
+===== Map description =====
+Local lords return to barren lands after defeating the Necromancer. The victory was not easy. But right before his death the Necromancer cursed them so that former allies became enemies. Now they will fight each other.
+
+===== Rumors =====
+
+Name:
+Dread Knights
+Text:
+They say that killing Dread Knights is well-paid. Though I haven't checked it myself.
+
+Name:
+Necropolis
+Text:
+They say that the Cage of Souls is built in the Necropolis.
+
+Name:
+Armageddon's Blade 1
+Text:
+They say that the Armageddon's Blade really exists.
+
+Name:
+Armageddon's Blade 2
+Text:
+They say that the Necromancer has hided the Armageddon's Blade and made legions of warriors defend it.
+
+Name:
+Armageddon's Blade 3
+Text:
+And I heard that the Armageddon's Blade is hidden in a Pandora's Box.
+
+Name:
+About rumours
+Text:
+There are a lot of rumours. You don't have to believe all of them.
+
+Name:
+Grail
+Text:
+They say that you will become rich if you dig in a swamp.
+
+Name:
+Necromancer 2
+Text:
+They say that the Necromancer was not so evil. He resurrected dead people.
+
+Name:
+Book of Fire
+Text:
+There are rumours that there is one and only Book of Elements left, the Book of Fire. Maybe it is worth to search for it.
+
+Name:
+Vial
+Text:
+They say that the Vial of Dragon Blood can be easily found and taken as no one guards it. I heard that it was at an isle in the north.
+
+Name:
+Dracoliches
+Text:
+Some people affirm that they remember Dracoliches but I think they have got something wrong.
+
+Name:
+Waterwalking
+Text:
+They say that local fishermen saw a hero walking on water. I don't know if you can believe them but there were no such miracles in our land since the beginning of time.
+
+Name:
+Utopia
+Text:
+They say that the Necromancer made his great artifact invisible and hided it near Dragon Utopia.
+
+Name:
+About hero
+Text:
+They say that the last time Mutare Drake was noticed in a flooded cave.
+
+Name:
+Necromancer
+Text:
+They say that Necromancer left a lot of treasures after his death.
+
+===== Timed events =====
+
+Name:
+You become poor
+Message:
+Suddenly all your money turn to sand and pour between your fingers.
+
+Name:
+You can't be so poor
+Message:
+The people give you some resources so that you can build a fort, at least.
+
+Name:
+AI help
+Message:
+
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 5, 0) ***Sign***
+Message:
+Swamp peninsula
+
+(33, 5, 0) ***Pandora's Box***
+Message:
+
+
+(64, 146, 0) ***Pandora's Box***
+Message:
+
+
+(150, 181, 0) ***Sign***
+Message:
+Farmland
+
+(5, 205, 0) ***Pandora's Box***
+Message:
+
+
+(174, 198, 0) ***Seer's Hut***
+Message:
+Yes, I am the hero who can walk on water. And if you want, I can teach you how to do that but it costs a lot.I need a good army to wander again. Only Azure Dragons are accepted. I think you won't refuse to help me and give me 6 Azure Dragons.
+I don't need any warriors but Azure Dragons. Or you will never know how to walk on water.
+You found 6 Azure Dragons! Well, I will go conquer the cities and you can try to walk on water.
+
+(106, 187, 0) ***Ocean Bottle***
+Message:
+I should have kicked the crap out of that charlatan, and not to listen to those fairytales about enormous treasure!
+
+(194, 141, 0) ***Pandora's Box***
+Message:
+
+
+(215, 167, 0) ***Seer's Hut***
+Message:
+We are adepts of the cult of Titans. We need 5 Black Dragons for the sacrifice. If you help us, we will improve your attack skills.
+Is it so hard to find 5 Black Dragons for sacrifice? Hurry, please, as our rites depend on you.
+Finally, 5 Black Dragons! As promised, we improve your attack skills.
+
+(63, 114, 0) ***Event***
+Message:
+You are closer and closer to your goal. Armageddon's Blade is in one of these Pandora's Boxes.
+
+(67, 121, 0) ***Pandora's Box***
+Message:
+Are you sure that Armageddon's Blade is in this box?
+
+(63, 117, 0) ***Pandora's Box***
+Message:
+Are you sure that Armageddon's Blade is in this box?
+
+(27, 180, 0) ***Seer's Hut***
+Message:
+We are local woodcutters and we've got a delivery order for 1000 wood. We've already cut nearly a half when we suddenly found the Tree of Knowledge. We tried to cut it many times but everything was in vain. Many of us died in this damned forest. We won't return there. If you help us to get 576 wood we need, we will provide you good warriors.
+It's not enough. I need 576 wood or the delivery order won't be completed.
+Finally! Hope you cut down all this damned forest. Well, give me 576 wood and you will get something. 
+
+(119, 1, 0) ***Pandora's Box***
+Message:
+
+
+(83, 4, 0) ***Seer's Hut***
+Message:
+All is simple: pay some money for a spell.
+No money, no spell.
+Give me 7500 gold and I will give you a spell for that.
+
+(145, 72, 0) ***Sign***
+Message:
+The inscription is illegible
+
+(142, 76, 0) ***Pandora's Box***
+Message:
+
+
+(119, 16, 0) ***Pandora's Box***
+Message:
+
+
+(189, 123, 0) ***Pandora's Box***
+Message:
+
+
+(96, 60, 0) ***Pandora's Box***
+Message:
+
+
+(99, 131, 0) ***Sign***
+Message:
+Isle of Elementals
+
+(136, 115, 0) ***Sign***
+Message:
+Isle of Elementals
+
+(148, 101, 0) ***Seer's Hut***
+Message:
+We want to find a great hero with attack skill 23 or more.
+Have you seen a great hero? He must have attack skill 23 or more. If you find him, let him know we wait him..
+We always dreamed of meeting as great hero as you are. Can we join your forces?
+
+(27, 16, 0) ***Pandora's Box***
+Message:
+
+
+(68, 104, 0) ***Seer's Hut***
+Message:
+We search for a skilled hero to conquer new lands under his command. A hero with level 20 or more can take us in his army.
+Finally! A skilled hero! Under his command we can make a fortune.
+
+(49, 96, 0) ***Pandora's Box***
+Message:
+
+
+(8, 115, 0) ***Pandora's Box***
+Message:
+
+
+(183, 199, 0) ***Pandora's Box***
+Message:
+
+
+(160, 49, 0) ***Pandora's Box***
+Message:
+
+
+(208, 80, 0) ***Pandora's Box***
+Message:
+
+
+(18, 151, 0) ***Pandora's Box***
+Message:
+
+
+(106, 164, 0) ***Pandora's Box***
+Message:
+
+
+(204, 214, 0) ***Pandora's Box***
+Message:
+
+
+(91, 202, 0) ***Pandora's Box***
+Message:
+
+
+(198, 102, 0) ***Pandora's Box***
+Message:
+
+
+(53, 186, 0) ***Pandora's Box***
+Message:
+
+
+(59, 118, 0) ***Pandora's Box***
+Message:
+Are you sure that Armageddon's Blade is in this box?
+
+(66, 118, 0) ***Pandora's Box***
+Message:
+Are you sure that Armageddon's Blade is in this box?
+
+(117, 98, 1) ***Seer's Hut***
+Message:
+If you defeat Dread Knights defending the Black Tent, you will get a lot of experience.
+Don't despair. It's hard to defeat Dread Knights. But harder is to find them.
+Finally Dread Knights are defeated! Are you ready to get the prize?
+
+(62, 72, 1) ***Event***
+Message:
+
+
+(98, 112, 1) ***Sign***
+Message:
+Necromancer's Isle
+
+(139, 101, 1) ***Sign***
+Message:
+Necromancer's Isle
+
+(72, 21, 1) ***Sign***
+Message:
+Lost Land
+
+(141, 124, 1) ***Sign***
+Message:
+Necromancer's Isle
+
+(20, 191, 1) ***Seer's Hut***
+Message:
+We are restless mummies cloistered in this haunted place. We wait for a hero who is able to free us. You will free us if you prove that at least 1 mummie served you.
+Until you prove mummies served you we won't join you.
+You are our master. Are you ready to accept us immediately?
+
+===== End of file =====

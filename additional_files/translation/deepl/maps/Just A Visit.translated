@@ -1,0 +1,166 @@
+===== Map name =====
+Nur ein Besuch
+
+===== Map description =====
+Vor kurzem kündigte der zurückgezogene Kaiser an, dass er bald einen der vier Fürsten in seinem Land besuchen würde.  Da sie wussten, dass ein solcher Besuch bedeutete, dass der Kaiser einen Nachfolger wählen wollte, zogen die vier Fürsten sofort in den Krieg, um zu beweisen, wer mächtig genug war, das Land zu regieren.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Es ist noch nicht lange her, da kündigte der Kaiser an, dass er einem der Lords in seinen Ländern einen Besuch abstatten würde.  Die vier Fürsten wurden sehr aufgeregt, denn sie wussten, dass dies nur bedeuten konnte, dass der zurückgezogene und erbenlose Kaiser einen Nachfolger wählen wollte.  In dem Bestreben zu beweisen, dass sie mächtig genug waren, um das Land zu regieren, erklärte jeder der Lords sofort den Krieg gegen den anderen.  Sie müssen die anderen Lords besiegen, damit der Kaiser Sie für seinen Besuch auswählt.
+
+Name:
+Blaues Banner
+Message:
+Du schreitest unter dem blauen Banner voran, um deine Feinde zu besiegen und dir den Thron zu sichern.  Es ist offensichtlich, dass du die beste Wahl der vier bist, denn du überlebst im rauesten Klima und deine Ländereien gedeihen sogar besser als die der anderen, die fruchtbarere Böden haben.  Es besteht kein Zweifel daran, dass du die anderen drei Lords im Kampf ebenso leicht besiegen kannst.
+
+Name:
+Orangefarbenes Banner
+Message:
+Das Gebiet, das Sie halten, ist eines der größten im Land.  Mit solch reichhaltigen Ressourcen, die Ihnen zur Verfügung stehen, sind Sie zuversichtlich, dass Sie schnell eine große Armee aufbauen, die schwächeren Lords zerschlagen und dem Kaiser Ihren Wert zeigen können.
+
+Name:
+Violettes Banner
+Message:
+Das Land hier ist rau und härtet Ihre Armee zu mächtigen Kriegern ab.  Mit der rauen Landschaft zu deinem Vorteil wirst du die Schwächlinge aus den weicheren Ländern leicht überrollen, ihre Burgen einnehmen und vielleicht die eine oder andere in ein Ferienhaus verwandeln, um Zeit mit der Familie zu verbringen.
+
+Name:
+Blaue Fahne - 2
+Message:
+Die Berichte von der Front sind zurückgekommen.  Lord Moncien trägt das orangefarbene Banner und beweist damit, dass er nicht männlich genug ist, um Imperator zu werden.  Das violette Banner, das von Lord Lenwin verwendet wird, ist eine so arrogante Farbe für jemanden, der nicht regieren will.  Lord Ranaine schwingt das rote Banner, vielleicht wegen seiner blutrünstigen Art.  Das ist mal ein Mann, den ich respektieren kann!  Aber die Taktik aller drei ist schlampig, und sie scheinen nicht zu wissen, wohin sie ihre Truppen schicken sollen.  Es wird ein Leichtes sein, ihnen eine Falle zu stellen und ihre Burgen einzunehmen.
+
+Name:
+Orangefarbenes Banner - 2
+Message:
+Berichte von der Front sind zurückgekommen.  Lord Ellant fliegt das blaue Banner, offensichtlich weil er zu lange auf dem Eisberg saß, den er sein Zuhause nennt.  Das violette Banner, das von Lord Lenwin benutzt wird, ist eine so arrogante Farbe für jemanden, der nicht regieren will.  Lord Ranaine schwingt das rote Banner, vielleicht wegen seiner blutrünstigen Art.  Das ist mal ein Mann, den ich respektieren kann!  Aber die Taktik aller drei ist schlampig, und sie scheinen nicht zu wissen, wohin sie ihre Truppen schicken sollen.  Es wird ein Leichtes sein, ihnen eine Falle zu stellen und ihre Burgen einzunehmen.
+
+Name:
+Lila Banner - 2
+Message:
+Berichte von der Front sind zurückgekommen.  Lord Ellant trägt das blaue Banner, offensichtlich weil er schon zu lange auf dem Eisberg sitzt, den er sein Zuhause nennt.  Lord Moncien trägt das orange Banner, was beweist, dass er nicht männlich genug ist, um Imperator zu werden.  Ist sein Banner Orange, weil er kein Gelb finden konnte?  Lord Ranaine trägt die rote Farbe, vielleicht wegen seiner blutrünstigen Art.  Das ist mal ein Mann, den ich respektieren kann!  Aber die Taktik aller drei ist schlampig, und sie scheinen nicht zu wissen, wohin sie ihre Truppen schicken sollen.  Es wird ein Leichtes sein, ihnen eine Falle zu stellen und ihre Burgen einzunehmen.
+
+Name:
+Blaues Banner - 3
+Message:
+Ein Spion von Lord Lenwins Truppen wurde in eurer Burg gefangen genommen.  Er wird sofort gefoltert, aber der Kerkermeister ist übereifrig und der Spion stirbt, bevor er irgendetwas sagen kann, was Ihr hören müsst.  Da Sie den gefangenen Spion noch zu etwas gebrauchen wollen, schicken Sie seine zerstückelten Teile zurück zu Lord Lenwin.  Dein Bote berichtet später, als Lord Lenwin das Paket öffnete, taumelte er vor Schreck zurück, während seine Frau schrie: "Mein Bruder!"  Sie sind nun sehr zufrieden, dass Lord Lenwin Ihre Entschlossenheit, den Geworfenen einzufordern, gut versteht.
+
+Name:
+Orangefarbenes Banner - 3
+Message:
+Ein Spion von Lord Lenwins Truppen wurde in Eurer Burg gefangen genommen.  Er wird sofort gefoltert, aber der Kerkermeister ist übereifrig, und der Spion stirbt, bevor er irgendetwas sagen kann, was Ihr hören müsst.  Da Sie den gefangenen Spion noch zu etwas gebrauchen wollen, schicken Sie seine zerstückelten Teile zurück zu Lord Lenwin.  Dein Bote berichtet später, als Lord Lenwin das Paket öffnete, fiel er auf die Knie und rief: "Mein Bruder!"  Sie sind nun sehr zufrieden, dass Lord Lenwin Ihre Entschlossenheit, den Geworfenen einzufordern, gut verstanden hat.
+
+Name:
+Lila Banner - 3
+Message:
+In nur zwei Tagen habt Ihr Eure beiden Brüder und den Bruder Eurer Frau verloren.  Lord Ranaine und Lord Moncien wurden beide von Lord Ellant gefangen genommen, gefoltert, zerstückelt und in Deinem Schloss abgeliefert.  Du beschließt, ihren Tod zu rächen, indem du deine Feinde in Stücke reißt und ihre Überreste dem Gott des Krieges opferst.  Du betest demütig um Glück, und der Gott lächelt dir zu, denn du erhältst ein Geschenk.
+
+Name:
+Blaues Banner - 4
+Message:
+Heute kam ein großes Paket an, abgestempelt von Ihrer Mutter.  Misstrauisch legst du das Paket auf eine Lichtung und öffnest es aus der Ferne.  Das Paket explodiert, sobald es der Luft ausgesetzt wird - eine magische Explosion, die offensichtlich dazu gedacht ist, Sie zu vernichten.  Nun, es war ein schlechter Versuch, Ihr Leben zu zerstören.  Ihre Mutter ist vor ein paar Jahren gestorben, und der Vorfall erinnert Sie daran, dass es an der Zeit ist, neue Blumen auf ihr Grab zu legen.
+
+Name:
+Lila Banner - 4
+Message:
+Um Ihren Verlust zu rächen, haben Sie drei Sprengsätze an Ihre Feinde verschickt.  Mit etwas Glück werden sie getötet und dieser Krieg wird schnell beendet.  Schließlich wollen Sie ja zum nächsten Kaiser ernannt werden und den Thron so schnell wie möglich bekommen.  Zufrieden, dass Ihr Rachefeldzug bald beendet sein wird, besuchen Sie die Gräber Ihrer verlorenen Lieben und beten, dass der Tod Ihrer Feinde nicht zu schmerzlos sein wird.
+
+Name:
+Orangefarbenes Banner - 4
+Message:
+Heute kam ein Paket mit dem Poststempel von Ihrer Mutter.  Mmmm, das kann nur eines bedeuten - Kekse!  Und vielleicht ein paar warme Socken für die Eroberung des verfluchten Landes im Norden, das immer unter sechs Fuß Eis und Schnee liegt.  Begierig, das Paket zu öffnen, stürmt einer Ihrer Lehrlinge vor und stößt die Schachtel aus dem Fenster.  Während es sich durch die Luft wölbt, öffnet sich die Schachtel und explodiert.  Du schätzt, Mama war ziemlich sauer, weil du dieses Jahr den Muttertag vergessen hast!  Oder vielleicht war Lord Lenwin verärgert, dass Sie ein Familienmitglied getötet haben.
+
+Name:
+Blaues Banner - 5
+Message:
+Der Imperator wird bald hier sein, und du musst das Haus vorzeigbar machen.  Schließlich wird er deinen Krönungstermin ankündigen!  Du brauchst Essen, Wein, Dienerinnen und jede Menge Partyzubehör.  Die Dienerschaft bereitet sich schnell auf das bevorstehende Fest vor und sorgt für Unterhaltung, Köche und anderen Bedarf für die Feierlichkeiten.  Sogar ein Schneider wurde von weit her geholt, um das Outfit anzufertigen, das Sie tragen werden, wenn der Kaiser eintrifft.  Alles muss perfekt sein, und das bedeutet, große Mengen Geld auszugeben.
+
+Name:
+Orangefarbenes Banner - 5
+Message:
+Der Kaiser wird bald hier sein, und Sie müssen das Haus vorzeigbar machen.  Schließlich wird er das Datum Ihrer Krönung ankündigen!  Du brauchst Essen, Wein, Dienerinnen und jede Menge Partyzubehör.  Die Dienerschaft bereitet sich schnell auf das bevorstehende Fest vor und sorgt für Unterhaltung, Köche und anderen Bedarf für die Feierlichkeiten.  Sogar ein Schneider wurde von weit her geholt, um das Outfit anzufertigen, das Sie tragen werden, wenn der Kaiser eintrifft.  Alles muss perfekt sein, und das bedeutet, viel Geld auszugeben.
+
+Name:
+Lila Banner - 5
+Message:
+Der Imperator wird bald hier sein, und Sie müssen dafür sorgen, dass das Haus vorzeigbar aussieht.  Schließlich wird er Ihren Krönungstermin ankündigen!  Du brauchst Essen, Wein, Dienerinnen und jede Menge Partyzubehör.  Die Dienerschaft bereitet sich schnell auf das bevorstehende Fest vor und sorgt für Unterhaltung, Köche und anderen Bedarf für die Feierlichkeiten.  Sogar ein Schneider wurde von weit her geholt, um das Outfit anzufertigen, das Sie tragen werden, wenn der Kaiser eintrifft.  Alles muss perfekt sein, und das bedeutet, viel Geld auszugeben.
+
+===== Heroes =====
+
+===== Objects =====
+
+(4, 9, 0) ***Random Town***
+
+Timed events:
+
+Name:
+a
+Message:
+a
+
+(19, 35, 0) ***Random Town***
+
+Timed events:
+
+Name:
+a
+Message:
+a
+
+(16, 59, 0) ***Random Monster 4***
+Message:
+Lord Ranaine hat uns hierher gebracht, damit wir Eindringlinge wie euch abwehren können.  Bereitet euch auf den Tod vor, ihr Abschaum.  Keiner kann dieses Land einnehmen!
+
+(11, 22, 0) ***Random Monster 3***
+Message:
+Lord Ranaine hat uns hierher gebracht, damit wir Eindringlinge wie euch abwehren können.  Bereitet euch auf den Tod vor, ihr Abschaum.  Niemand kann dieses Land einnehmen!
+
+(6, 67, 0) ***Random Town***
+
+Timed events:
+
+Name:
+a
+Message:
+a
+
+(31, 33, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Moncien schickt seine Grüße.  Er hofft, dass du schnell stirbst, aber du wirst auf keinen Fall ehrenhaft sterben, denn Abschaum wie du kann unmöglich etwas von Ehre verstehen.  Bereite dich auf den Tod vor!"
+
+(43, 21, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Ranaine würde es begrüßen, wenn Ihr Euch jetzt ergeben würdet.  Nein, sagt Ihr?  Dann müsst Ihr wohl einen Todeswunsch haben.  Wir hoffen, dass die Götter im nächsten Leben gütiger zu Euch sind als in diesem Leben.
+
+(17, 17, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Lenwin möchte, dass ihr schnell sterbt, damit er zum Kaiser gekrönt werden kann.  Bitte tut uns den Gefallen, damit wir nach Hause gehen und dem neuen Imperator dienen können."
+
+(67, 21, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Ranaine würde es begrüßen, wenn ihr euch jetzt ergeben würdet.  Nein, sagt ihr?  Dann müsst Ihr wohl einen Todeswunsch haben.  Wir hoffen, dass die Götter im nächsten Leben gütiger zu Euch sind als in diesem Leben.
+
+(50, 36, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Moncien schickt seine Grüße.  Er hofft, dass du schnell stirbst, aber es gibt keine Möglichkeit, dass du ehrenhaft stirbst, denn Abschaum wie du kann unmöglich etwas von Ehre verstehen.  Mach dich bereit zu sterben!"
+
+(63, 16, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Lenwin wünscht, dass ihr schnell sterbt, damit er zum Imperator gekrönt werden kann.  Bitte tut uns den Gefallen, damit wir nach Hause gehen und dem neuen Imperator dienen können."
+
+(34, 71, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Ranaine würde es begrüßen, wenn ihr euch jetzt ergeben würdet.  Nein, sagt ihr?  Dann müsst Ihr wohl einen Todeswunsch haben.  Wir hoffen, dass die Götter im nächsten Leben gütiger zu Euch sind als in diesem Leben.
+
+(37, 55, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Lenwin möchte, dass ihr schnell sterbt, damit er zum Kaiser gekrönt werden kann.  Bitte tut uns den Gefallen, damit wir nach Hause gehen und dem neuen Imperator dienen können."
+
+(66, 52, 0) ***Event***
+Message:
+Wie aus dem Nichts tauchen mehrere Männer auf, alle bereit für einen Kampf.  Sie sagen: "Lord Moncien schickt seine Grüße.  Er hofft, dass ihr schnell sterbt, aber ihr werdet auf keinen Fall ehrenhaft sterben, denn Abschaum wie ihr kann unmöglich etwas von Ehre verstehen.  Mach dich bereit zu sterben!"
+
+===== End of file =====

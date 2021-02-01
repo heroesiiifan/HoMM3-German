@@ -1,0 +1,128 @@
+===== Map name =====
+Last Chance (Allies)
+
+===== Map description =====
+Your King, tired of the constant skirmishing between the Lords in your region, has decided to half the number of Lords in the area.  And whether the King or the Lords themselves decide, blood will surely flow.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+The Royal Executioner arrived today with a message from your King.  The King is angry at the constant raiding between your alliance and your enemies.  He feels that with the constant fighting, you and the other three border lords can't protect your area of the kingdom's border.  The King has decreed his solution.  If there is more than one alliance of Lords in control of this area after two months, he will execute all the remaining Lords and appoint a successor from his court.  His Majesty wishes you and your ally the best of luck in your upcoming campaign.
+
+Name:
+Red & Tan Intro (Cont)
+Message:
+After hearing your King's message, you invited the Executioner to dine with you.  You assure the King's messenger you fully intend to greet the King as part of the sole alliance of Border Lords in this area in two months.  During dinner, you order your General to call up your forces, and send a message to your ally to raise his troops.  After dessert, you ride out with your troops.
+
+Name:
+Blue & Green Intro (Cont)
+Message:
+Only your advisor warning you of the dire consequences of brash decisions keeps you from slaying the King's Executioner.  That, and the fact you now have the excuse you have been waiting for to destroy the fools of the other alliance.  In the past you and your ally have kept your attacks to simple raids.  Now there are no restraints.
+
+Name:
+Red 2
+Message:
+Lords Bardene and Godehard border your lands, are your enemies, and are allied.  Lord Tarleton is your ally.  Bardene flies a blue banner, while Godehard's is green and Tarleton's is tan.
+
+Name:
+Blue 2
+Message:
+Lords Riston and Tarleton border your lands are your enemies, and are allied.  Lord Godehard is your ally.  Riston flies a red banner, while Tarleton's is tan and Godehard's is green.
+
+Name:
+Tan 2
+Message:
+Lords Bardene and Godehard border your lands, are your enemies, and are allied.  Lord Riston is your ally.  Bardene flies a blue banner, while Godehard's is green and Riston's is red.
+
+Name:
+Green 2
+Message:
+Lords Riston and Tarleton border your lands, are your enemies, and are allied.  Lord Bardene is your ally.  Riston flies a red banner, while Tarleton's is tan and Bardene's is blue.
+
+Name:
+Red & Tan Disguise
+Message:
+Unexpected news from your outlying guards arrived today.  One of your enemies, disguised as your ally, nearly captured one of your mines a few days ago.  You grimly order all your guards to let no one approach until after then King's deadline.  No one, you emphasize, not even you.
+
+Name:
+Blue & Green Disguise
+Message:
+Your lackeys failed you three days ago.  They bungled capturing one of Tarleton's mines.  You had ordered one to disguise himself as Riston and relieve Tarleton's men with your troops.  However, the fool gave himself away.  Fortunately, he was killed.  No doubt your enemies will try to use your trick against you.  You order all your mine guards to kill anyone who approaches until two months have passed.
+
+Name:
+Red & Tan Treasury
+Message:
+After some hesitation, you hired some nefarious types to raid your enemies' treasury.  It is an underhanded tactic, but there is little time left for niceties.
+
+Name:
+Blue & Green Treasury
+Message:
+Today someone broke into your treasury.  You are actually surprised your enemies would do that.  They are not as dumb as you thought.  They better hope they are not alive when you get your hands on them!
+
+Name:
+Blue & Green Month Warning
+Message:
+One of your more annoying advisers continually reminds you the King's deadline is only one month away.  You have him executed before you while you eat supper.  It makes a pleasant diversion from the stress of command.
+
+Name:
+Red & Tan Month Warning
+Message:
+This morning, during your daily council of war, you reminded your officers the King's deadline was one month away.  You told them you were confident of the war's outcome and promised to reward them for their efforts on your behalf.  They cheered.
+
+===== Heroes =====
+
+===== Objects =====
+
+(2, 13, 0) ***Random Monster 3***
+Message:
+Creatures in the pay of one of your enemies guard these resources.  They laugh and make rude gestures at you.  How uncultured!
+
+(3, 16, 0) ***Random Monster 4***
+Message:
+Creatures bribed by Lord Godehard guard this mine.  They try to kill anyone who comes near.
+
+(6, 23, 0) ***Random Monster 4***
+Message:
+Creatures loyal to Lord Tarleton guard this mine.  They refuse to let anyone pass.
+
+(10, 12, 0) ***Random Monster 3***
+Message:
+Traitors loyal to one of your enemies guard these resources.  They challenge you to single combat.  You laugh at them!
+
+(34, 4, 0) ***Random Monster 4***
+Message:
+Creatures bribed by Lord Godehard guard this pond.  They sneer at you and make disparaging comments about your sister.
+
+(25, 25, 0) ***Random Monster 3***
+Message:
+Creatures in the pay of one of your enemies guard these resources.  They laugh and make rude gestures at you.  How uncultured!
+
+(12, 24, 0) ***Random Monster 4***
+Message:
+Some of Lord Bardene's bullies try to lure you into an ambush.
+
+(19, 32, 0) ***Random Monster 4***
+Message:
+Creatures loyal to Lord Riston guard this mine.  They refuse to let anyone pass.
+
+(31, 35, 0) ***Random Monster 3***
+Message:
+Traitors loyal to one of your enemies guard these resources.  They challenge you to single combat.  You laugh at them!
+
+(30, 10, 0) ***Random Monster 4***
+Message:
+Creatures loyal to Lord Riston guard this lab.  They bar passage to everyone.
+
+(22, 18, 1) ***Random Monster 4***
+Message:
+Creatures loyal to Lord Tarleton guard this pond.  They block access to the gems.
+
+(12, 7, 1) ***Random Monster 4***
+Message:
+Creatures bribed by Lord Bardene guard this lab.  They sneer at you and make disparaging comments about your mother.
+
+===== End of file =====

@@ -1,0 +1,33 @@
+===== Map name =====
+Darwin's Prize(Allies)
+
+===== Map description =====
+Two lords hold the coast, and the prized access to the ocean and all it's bounties.  Joining together the two lords who are landlocked have attacked the two lords who charge outrageous prices for access to the ocean.  They have banded together in order to keep out the invaders.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(3, 4, 0) ***Random Town***
+Name:
+Maruk
+
+(2, 47, 0) ***Random Town***
+Name:
+Greyson
+
+(67, 50, 0) ***Random Town***
+Name:
+Kelan
+
+(45, 66, 0) ***Random Town***
+Name:
+Dia
+
+(55, 6, 0) ***Random Town***
+Name:
+Fulom
+
+===== End of file =====

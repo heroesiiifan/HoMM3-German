@@ -1,0 +1,189 @@
+===== Map name =====
+Good Witch, Bad Witch
+
+===== Map description =====
+Gulcheria, the bad witch of the east, has decided to expand her borders by calling for reinforcements, warlocks from the far south.  If these reinforcements arrive, all is lost.  Being Glinda, the good witch of the west, you must stop her before time runs out
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Dog Toto joins.
+Message:
+As you set out on your journey to stop Gulcheria, your faithful Hellhound Toto and a small pack of his friends runs up to join your group.
+
+Name:
+Evil laugh
+Message:
+A disembodied voice cackles, "I'll get you, my pretties, and your Hellhound Toto too!"  The laughing fades into the distance. 
+
+Name:
+Munchkin bonus
+Message:
+A group of dwarf munchkins who have been verbally abused by Gulcheria donate 2000 gold pieces to the "Beat Up The Bad Witch" fund.
+
+===== Heroes =====
+
+===== Objects =====
+
+(105, 73, 0) ***Fortress***
+Name:
+Eastwitch 
+
+Timed events:
+
+Name:
+Bad witch bonus.
+Message:
+The Necromancers are giving the Bad Witch a bonus.
+
+(105, 74, 0) ***Witch***
+Name:
+Gulcheria
+Biography:
+Gulcheria is the bad witch of the East, with plans to take over the whole place with the help of the necromancer to the south.  Glinda, her archenemy, is the only one who can stop her.
+
+(37, 39, 0) ***Witch***
+Name:
+Glinda
+
+(36, 39, 0) ***Sign***
+Message:
+Grey brick road.
+
+(13, 43, 0) ***Event***
+Message:
+You marvel at the wonderful poppies, yawn and then suddenly fall asleep.  A short time later you wake, feeling strange, and suddenly dozens of Imps rush you from all sides.
+
+(9, 60, 0) ***Rampart***
+Name:
+Munchkin Town
+
+(19, 40, 0) ***Sign***
+Message:
+South to Munchkin Town.
+
+(72, 15, 0) ***Event***
+Message:
+Gulcheria's forces ambush you!
+
+(63, 61, 0) ***Sign***
+Message:
+Canyon of the Gargoyle.  Keep Out!
+
+(62, 61, 0) ***Event***
+Message:
+Gargoyles flap down from the mountains and attack!
+
+(0, 32, 0) ***Crystal***
+Message:
+Golems step out from amid the crystals and attack.
+
+(3, 33, 0) ***Crystal***
+Message:
+Golems step out from amid the crystals and attack.
+
+(3, 31, 0) ***Sign***
+Message:
+Crystal Fields.  Beware Guardians!
+
+(2, 71, 0) ***Wood Elf***
+Message:
+The elves willingly join you against the evil witch and let you have the resources as a bonus.
+
+(3, 81, 0) ***Event***
+Message:
+A horde of monks standing before the gate demand resources to enter the school. You better give them what they want, for failure to do so would be bad, very bad.
+
+(16, 52, 0) ***Sign***
+Message:
+Munchkin retreat.
+
+(66, 37, 0) ***Sign***
+Message:
+Canyon of the Harpy.
+
+(87, 48, 0) ***Pandora's Box***
+Message:
+You find some rusted golems in the box.  After you give them a little oil, they come to life and join you!
+
+(11, 32, 0) ***Event***
+Message:
+You find a group of cowering Gnolls on the side of the road.  After an hour of heart-to-heart talking they take courage and decide to join you.
+
+(74, 47, 0) ***Sign***
+Message:
+The Forlorn Swamp.
+
+(107, 65, 0) ***Random Relic***
+Message:
+As you approach the relic a small group of green dragons fly down to challenge you.  Do you want to fight them?
+
+(102, 63, 0) ***Sign***
+Message:
+Casara's Cache.  Keep Out!
+
+(74, 54, 0) ***Sign***
+Message:
+Beware the Evil Forest!
+
+(25, 22, 0) ***Black Knight***
+Message:
+The evil knights of the north salute you and then attack.
+
+(26, 64, 0) ***Sign***
+Message:
+Munchkin stores.
+
+(44, 51, 0) ***Sign***
+Message:
+Emergency fund.
+
+(5, 63, 0) ***Sign***
+Message:
+Munchkin Pond.  No Swimming!
+
+(37, 38, 0) ***Rampart***
+Name:
+Emerald City
+
+(97, 41, 0) ***Event***
+Message:
+When you get closer to the tomb you notice a plaque with the word "Glinda" above it.
+
+(40, 9, 0) ***Obsidian Gargoyle***
+Message:
+The evil gargoyles of the north glare at you, call you nasty names and show you rude hand gestures before they attack.
+
+(94, 74, 0) ***Event***
+Message:
+This garrison was built to keep Gulcheria in; unfortunately, it will probably keep you out too.
+
+(75, 57, 0) ***Event***
+Message:
+You find an apple still clinging to a tree and pick it off.  "How would you like it if I picked fruit off you," the tree yells.  Suddenly it and other nearby trees attack!
+
+(91, 36, 0) ***Witch***
+Name:
+Evil Cousin
+
+(32, 31, 0) ***Event***
+Message:
+Undead rise from the sand and attack.  Obviously, this is the bad witch's doing.
+
+(96, 78, 0) ***Quest Guard***
+Message:
+A tired old guard says, "Only with the defeat of the evil Gargoyles of the north shall thy way be free".
+The tired old guard looks at you and says, "I haven't heard anything about the defeat of the northern Gargoyles, and therefore you shall not pass".
+News of your defeat of the Evil Gargoyles of the northern has traveled quickly.  Do you wish to pass, oh brave Witch?
+
+(96, 79, 0) ***Event***
+Message:
+You come across a small pool of crystal clear water with some clothes around it.  After picking through the garments you determine that they probably belonged to a witch at one time, although why she left her clothes here is a mystery.  As you're about to leave, you notice a message scrawled into the mud near the water.  It reads, "I'm meltinggg..."
+
+(97, 77, 0) ***Event***
+Message:
+Gargoyles loyal to Gulchera boil out of the swamp and attack.
+
+===== End of file =====

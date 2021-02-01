@@ -1,0 +1,28 @@
+===== Map name =====
+Free for All
+
+===== Map description =====
+It's you vs. your seven neighbors in this massive free-for-all, but you'll need to convince others to help you, at least until you're strong enough to stand on your own.  Perfect for a backstabbing multiplayer game!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro Part 1
+Message:
+For generations, the land has been divided.  Varying religious and political beliefs have caused what was once the greatest nation in the world to splinter into eight warring factions.
+
+Name:
+Intro Part 2
+Message:
+No one faction has ever been able to gain control - any time one group has shown strength, the others manage to work together to fight them, though each is always looking for the chance to seize power for themselves.
+
+Name:
+Intro Part 3
+Message:
+Today, all eight factions are nearly of equal strength, and no alliances currently exist.  Can you convince your neighbors to not attack your faction long enough to build your own forces?  Here at last is your golden opportunity to reunite this land under one ruler... YOU!
+
+===== Objects =====
+
+===== End of file =====

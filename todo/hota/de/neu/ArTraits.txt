@@ -398,38 +398,38 @@ Advanced: Geister
 Expert:  Liches"
 Elixier des Lebens							x	x	x	x	x										R	"{Elixier des Lebens}
 
-Alle Kreaturen bekommen einen 25% Bonus auf ihre Lebenspunkte. Gilt nicht für Untote oder nicht lebende Kreaturen (Golems und Gargoyles)."
+Zusätzlich zum Komponenteneffekt verleiht das Elixier des Lebens allen Kreaturen in den Reihen des Helden einen 25%igen Bonus auf ihre Gesundheit und die Fähigkeit, jede Runde 50 Trefferpunkte zu regenerieren. Wirkt nicht auf Untote oder nicht lebende Kreaturen."
 Rüstung des Verdammten															x						R	"{Rüstung des Verdammten}
 
-Auf alle Gegner wirken die folgenden Sprüche für fünfzig Runden im Kampf: Verlangsamung, Fluch, Schwäche und Unglück."
+Zusätzlich zum Komponenteneffekt wirkt die Rüstung der Verdammten diese Zauber auf Expertenebene zu Beginn des Kampfes fünfzig Runden lang auf alle Kreaturen deines Gegners: Verlangsamen, Fluch, Schwäche und Unglück."
 Statue des Legionärs							x	x	x	x	x										R	"{Statue des Legionärs}
 
-Die Kreaturenproduktion wird in allen Städten um 50% erhöht, ausgenommen eines Bonus durch externe Behausungen. Dieser Effekt gilt unabhängig vom Aufenthaltsort des tragenden Helden."
+Zusätzlich zum Komponenteneffekt gibt Ihnen die Statue des Legionärs +50% Kreaturenwachstum, basierend auf der Kreaturengenerierungsstufe der Burg, für alle Städte, nicht jedoch für beflaggte Strukturen oder andere ähnliche Boni."
 Macht des Drachenvaters															x						R	"{Macht des Drachenvaters}
 
-+ 6 auf alle Primärfähigkeiten, alle Truppen werden immun gegen Sprüche der ersten bis vierten Stufe."
+Zusätzlich zum Komponenteneffekt verleiht die Macht des Drachenvaters +6 auf alle primären Fertigkeiten, und die Truppen des Helden werden immun gegen alle Zauber der Stufen 1-4 außer Dispel."
 Titanendonner																	x				R	"{Titanendonner}
 
-Der Held bekommt ein Zauberbuch und die Fähigkeit den Spruch Lightning Bolt mit einer Wirkung von 600 Schadenspunkten auszusprechen, ohne dabei Spellpoints zu verlieren."
+Zusätzlich zum Komponenteneffekt verleiht der Titanendonner dem Helden den Titanenblitz, der 600 Punkte Schaden verursacht und keine Zauberpunkte kostet. Wenn der Held kein Zauberbuch hat, dann wird eines dauerhaft hinzugefügt."
 Admiralshut																				x	R	"{Admiralshut}
 
-Es gibt keine Strafe für das An- oder Von-Bord gehen. Bewegungspunke für Wasser und Land werden in einander umgerechnet."
+Zusätzlich zum Komponenteneffekt entfernt der Admiralshut den Malus für das Entern und Entbooten von Schiffen und wandelt die Bewegungspunkte des Helden zwischen Land und Wasser um."
 Bogen des Meisterschützen							x	x	x	x	x						 				R	"{Bogen des Meisterschützen}
 
-Schützen können auch schießen, wenn feindliche Kreaturen neben ihnen stehen. Keine Strafe für Hindernisse oder Entfernung."
+Zusätzlich zum Komponenteneffekt erlaubt der Bogen des Scharfschützen Fernkampfschützen, Projektile abzufeuern, während sie sich in der Nähe einer feindlichen Kreatur befinden. Entfernt den Bogenschieß-Malus für Entfernung oder Hindernis."
 Zauberbrunnen							x	x	x	x	x										R	"{Zauberbrunnen}
 
 Regeneriert jeden Tag alle Zauberpunkte."
 Ring des Magiers													x	x							R	"{Ring des Magiers}
 
-Alle Sprüche dauern fünfzig Runden länger."
+Zusätzlich zum Komponenteneffekt erhöht dieser Ring die Zauberdauer um 50 Runden."
 Füllhorn							x	x	x	x	x										R	"{Füllhorn}
 
-Der Spieler erhält täglich vier Einheiten der wertvollen Ressourcen Kristalle, Quecksilber, Schwefel und Edelsteine."
-Diplomat's Suit																			x		R	"{Diplomat's Suit}
+Zusätzlich zum Komponenteneffekt erzeugt dieser Gegenstand jeden Tag 4 von jeder wertvollen Ressource."
+Diplomatenmantel																			x		R	"{Diplomat's Suit}
 
 This is a kick-ass artifact."
-Mired in Neutrality															x						R	"{Mired in Neutrality}
+Anhänger der Reflexion															x						R	"{Mired in Neutrality}
 
 This is a kick-ass artifact."
 Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}

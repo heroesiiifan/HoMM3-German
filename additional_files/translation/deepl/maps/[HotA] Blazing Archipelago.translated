@@ -1,0 +1,39 @@
+===== Map name =====
+Flammender Archipel
+
+===== Map description =====
+Schreckliche Hitze, Mangel an Ressourcen und die st‰ndige Gefahr, von Meereskreaturen angegriffen zu werden, machen diese Inseln zu einem wahrhaft gottverlassenen Ort. Doch was lockt die Abenteurer an?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1
+Message:
+Sie haben Ihr Lager auf einer groﬂen Insel aufgeschlagen. Sp‰her berichten, dass Ihre Konkurrenten das Gleiche getan haben. Eine uralte Schatzkarte wurde am Abend ins Lager gebracht; die einzige Frage, warum Sie an diesen Ort gekommen sind...
+
+Name:
+Tag 2
+Message:
+Tja. Es ist an der Zeit, sich dem Hauptziel zuzuwenden, die Karte zu entziffern und die groﬂen Sch‰tze zu finden...
+
+Name:
+Tag 4
+Message:
+Ihr habt die uralte Karte fast entziffert. Bald wird der Schatz unser sein!
+
+Name:
+Tag 7
+Message:
+Ihre Zeit ist gekommen! Laut Karte befindet sich der Schatz auf der Insel in der Mitte des Archipels.
+
+===== Heroes =====
+
+===== Objects =====
+
+(61, 84, 0) ***Event***
+Message:
+
+
+===== End of file =====

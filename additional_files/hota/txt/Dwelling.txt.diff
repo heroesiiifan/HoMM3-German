@@ -1,0 +1,22 @@
+91c91
+< Behemothhöhle	Die Behemothhöhle dient zur Rekrutierung von Behemothen.
+---
+> Behemothfelsen	Der Behemothfelsen dient zur Rekrutierung von Behemothen.
+98c98
+< Aufg. Behemothhöhle	Die Behemothhöhle dient zur Rekrutierung von Ur-Behemothen.
+---
+> Aufg. Behemothfelsen	Der Behemothfelsen dient zur Rekrutierung von Ur-Behemothen.
+120,125c120,125
+< Aufg. Magische Laterne	Der Magische Pool dient zur Rekrutierung von Elfen.
+< Aufg. Altar der Luft	Der Donnertempel dient zur Rekrutierung von Sturm-Elementaren.
+< Aufg. Altar des Wassers	Der Eistempel dient zur Rekrutierung von Eis-Elementaren.
+< Aufg. Altar des Feuers	Der Energietempel dient zur Rekrutierung von Energie-Elementaren.
+< Aufg. Altar der Erde	Der Magmatempel dient zur Rekrutierung von Magma-Elementaren.
+< Aufg. Altar der Gedanken	Der Magische Tempel dient zur Rekrutierung von Magie-Elementaren.
+---
+> Aufg. Magische Laterne	Die Magische Laterne dient zur Rekrutierung von Elfen.
+> Aufg. Altar der Luft	Der Altar der Luft dient zur Rekrutierung von Sturm-Elementaren.
+> Aufg. Altar des Wassers	Der Altar des Wasser dient zur Rekrutierung von Eis-Elementaren.
+> Aufg. Altar des Feuers	Der Altar des Feuers dient zur Rekrutierung von Energie-Elementaren.
+> Aufg. Altar der Erde	Der Altar der Erde dient zur Rekrutierung von Magma-Elementaren.
+> Aufg. Altar der Gedanken	Der Altar der Gedanken dient zur Rekrutierung von Magie-Elementaren.

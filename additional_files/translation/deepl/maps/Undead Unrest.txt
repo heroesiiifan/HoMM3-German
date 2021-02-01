@@ -1,0 +1,131 @@
+===== Map name =====
+Undead Unrest
+
+===== Map description =====
+Many undead from Castle Nightmare have broken loose and are rallying around the "Vampire's Cowl".  Find the Cowl to end the unrest among the undead.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Nightmare 
+Message:
+The Lord of Castle Nightmare is a little ticked off at the disappearance of the Vampire's Cowl (not to mention the rebelling undead).  If he finds the Cowl first then all is lost.
+
+Name:
+Nosferatu goes underground.
+Message:
+A tip from a reliable source says that a Nosferatu was last seen with the cape, and this certain Nosferatu was most certainly going underground for a while (to escape the reaching clutches of Castle Nightmare). 
+
+===== Objects =====
+
+(66, 13, 0) ***Sign***
+Message:
+Monk Retreat...shhh... keep the noise to a minimum.
+
+(6, 5, 0) ***Sign***
+Message:
+Griffin aryes. 
+
+(27, 17, 0) ***Skeleton Warrior***
+Message:
+You come across a large group of skeleton (each holding a bag) held at bay by the mercenaries in the camp..
+
+(6, 6, 0) ***Walking Dead***
+Message:
+The zombies seem to be staring at the griffins hungrily.
+
+(66, 14, 0) ***Zombie***
+Message:
+The zombies seem to be waiting for the monks to come out of there prayer session.
+
+(40, 22, 0) ***Power Lich***
+Message:
+A small group of liches (with robes bulging with resources) seems to be contemplating the flag.
+
+(39, 30, 0) ***Vampire***
+Message:
+One of these vampires seems to be carrying a nice shield.
+
+(44, 14, 0) ***Walking Dead***
+Message:
+Arena guards seem to be holding the zombies (who are carrying bags of something)  at bay.
+
+(63, 4, 0) ***Zombie***
+Message:
+Zombies seem to be pounding uselessly at the door to the university.
+
+(44, 28, 0) ***Skeleton Warrior***
+Message:
+A horde of skeletons seem to be chasing the faeries around the ring.
+
+(40, 56, 0) ***Walking Dead***
+Message:
+The zombies (who are holding bags of something) seem to be looking hungrily at the horses.
+
+(9, 4, 0) ***Zombie***
+Message:
+Zombies seem to be held at the gate by 10 burly halbadiers (as testament to the various body parts lying around).
+
+(32, 34, 0) ***Zombie***
+Message:
+The zombies (carrying bags of something) seem to be pounding to no effect on the hill fort door.
+
+(28, 24, 0) ***Lich***
+Message:
+A small group of Liches seem to be milling around the Library front door, a sign next to the door reads: "Closed for lunch, come back in an hour" 
+
+(34, 6, 0) ***Necropolis***
+Name:
+Nightmare
+
+Timed events:
+
+Name:
+Black knights
+Message:
+Black knights decide to set up shop and help with the undead problem.
+
+Name:
+Bonus resources for castle nightmare.
+Message:
+Castle nightmare works it's undead to the bone for extra resources.
+
+(46, 19, 0) ***Event***
+Message:
+A ghost dragon bursts out of the ground and attacks.
+
+(39, 40, 0) ***Skeleton Warrior***
+Message:
+You come across a large group of skeleton (each holding a bag) held at bay by the mercenaries in the camp..
+
+(31, 58, 1) ***Vampire Lord***
+Message:
+You notice that one of the Nosferatu in the front is wearing the Vampires cowl as the battle begins.
+
+(44, 14, 1) ***Random Minor Artifact***
+Message:
+Zombies dig there way out of the ground to guard this artifact; do you want to fight them for it?
+
+(21, 20, 1) ***Random Minor Artifact***
+Message:
+Skeletons claw their way out of the ground to guard this artifact; do you want to fight them for it?
+
+(34, 17, 1) ***Random Minor Artifact***
+Message:
+Zombies boil out of the ground to guard this artifact; do you want to fight them for it?
+
+(22, 14, 1) ***Vampire***
+Message:
+The vampires (which are holding bags of gold) look like there afraid to enter the cavern to the right.
+
+(52, 8, 1) ***Vampire***
+Message:
+The vampires (holding bags of gold) seem hesitant to enter the cavern to the left.
+
+(45, 1, 1) ***Random Minor Artifact***
+Message:
+Skeletons claw their way out of the ground; do you want to fight them for the artifact?
+
+===== End of file =====

@@ -1,0 +1,72 @@
+===== Map name =====
+Smaragdinseln (Verbündete)
+
+===== Map description =====
+Die Smaragdinseln liegen an einer wichtigen Schifffahrtsroute, die mehrere Barone jeweils für sich zu kontrollieren versuchen.  Sie und Ihr Verbündeter haben sich entschieden, die anderen zu "überreden", ihre Ansprüche aufzugeben.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Eröffnungstext (Teil 1)
+Message:
+Aufgrund ihrer Lage sind die Smaragdinseln ein Knotenpunkt von Handelsrouten aus der ganzen Welt.  Der Baron, der diese Routen kontrollieren könnte, würde Reichtümer jenseits der wildesten Träume von Avarice besitzen.
+
+Name:
+Eröffnungstext (Teil 2)
+Message:
+Ihr Baron hat Sie, den besten seiner militärischen Führer, ausgewählt, um die Kontrolle über diese Handelsrouten von den anderen Baronen zu "erwerben".  Nutzen Sie die Diplomatie, wo Sie können, aber es steht Ihnen frei, Ihre Macht zu demonstrieren, wenn die Diplomatie versagt.  Ein reicher Ruhestand erwartet Sie, wenn, nicht falls, Sie Erfolg haben.
+
+Name:
+Nachschub kommt an
+Message:
+Ah, die Passatwinde wehen heute günstig - ein Schiff ist mit dringend benötigten Vorräten eingetroffen.
+
+===== Objects =====
+
+(6, 19, 0) ***Event***
+Message:
+Sie treffen auf einen Hausierer, der von Banditen überfallen wird.  Ihre Männer vertreiben die Banditen und er belohnt Sie für Ihre Hilfe.
+
+(19, 62, 0) ***Event***
+Message:
+Versteckt zwischen den Bäumen liegt ein altes Versteck mit einem Banditenschatz.
+
+(16, 18, 0) ***Ocean Bottle***
+Message:
+Einer nach dem andern durch den Sternenhund-Mond, zu schnell für Stöhnen oder Seufzen. . .
+
+(28, 20, 0) ***Event***
+Message:
+Von den Gezeiten des Ozeans angeschwemmt, liegt ein Piratenschatz vergraben.
+
+(23, 35, 0) ***Ocean Bottle***
+Message:
+Jeder wandte sein Gesicht mit einem grässlichen Schmerz und verfluchte mich mit seinem Auge. . .
+
+(34, 60, 0) ***Ocean Bottle***
+Message:
+Mit schwerem Klopfen, ein lebloser Klumpen, fielen sie herab. . . einer nach dem andern.
+
+(27, 50, 0) ***Ocean Bottle***
+Message:
+Viermal fünfzig lebende Männer und ich hörte weder Seufzen noch Stöhnen. . .
+
+(57, 29, 0) ***Ocean Bottle***
+Message:
+Tag für Tag.  Tag um Tag blieben wir stehen, weder Atem noch Bewegung.  So müßig wie ein bemaltes Schiff auf einem bemalten Ozean. . .
+
+(69, 40, 0) ***Ocean Bottle***
+Message:
+Wasser, Wasser überall und alle Bretter sind geschrumpft.  Wasser, Wasser überall und kein Tropfen zu trinken.
+
+(46, 35, 0) ***Event***
+Message:
+Eine körperlose Stimme ruft einen Fluch auf Sie herab.
+
+(43, 13, 0) ***Event***
+Message:
+In den Felsen ist eine kleine Goldmine vergraben, aber sie stürzt ein, nachdem die erste Ladung Gold entfernt wurde.
+
+===== End of file =====

@@ -1,0 +1,100 @@
+===== Map name =====
+Land of Titans 
+
+===== Map description =====
+The Titan King has sent out a proclamation: defeat him in 5 months and become ruler of his land.  Do you have what it takes to defeat him within that time frame or will you go down like the rest?
+
+===== Rumors =====
+
+Name:
+Artifacts of legion.
+Text:
+A full suit of the Legion artifacts is somewhere in Titan territory.
+
+Name:
+Where the king lives.
+Text:
+The king of the Titans hangs out by his castle most days.
+
+===== Timed events =====
+
+Name:
+Day one event.
+Message:
+The King of the Titans is offering up his kingdom to those who can defeat him in 5 months, but advisors say that you should probably take care of your next door neighbor first.  
+
+Name:
+Scout report.
+Message:
+Scouts report that they have found a subterranean gate along the northeast stretch of the Land of Titans which might hold the key on how to get to the interior.
+
+Name:
+Report confirmed.
+Message:
+The scouts confirm that the gate leads to a tunnel that eventually leads up to another land that has the quest tent you need to enter the Land of Titans.  Your advisors state that you should get there as soon as possible, tarry to long and the five months will be over and the Titan king will still own his land.
+
+Name:
+Message from the King.
+Message:
+A message from the Titan King arrives questioning the validity of your heritage (calling you the son of a goat).  You send back an equally scathing retort (calling him the offspring of an ugly behemoth).
+
+===== Objects =====
+
+(1, 76, 0) ***Seer's Hut***
+Message:
+An elderly titan greets you in the hut.  He then sits down in his chair and says "Our family heirloom the Titan's gladius has been stolen, if you get it back for us we will join you in your quest to defeat the King who would not help.  We would do it ourselfs but the king forbids us from leaving our hut.  Please help".
+Thank you for bringing our family heirloom back, as promised we will join you in your quest to defeat our unjust King.
+
+(65, 44, 0) ***Sign***
+Message:
+Here be the Land of Titan's, authorized entrance only, otherwise prepare to be squished.
+
+(37, 86, 0) ***Event***
+Message:
+Titans loyal to their king ambush you.
+
+(7, 71, 0) ***Event***
+Message:
+Titans loyal to their king ambush you.
+
+(52, 101, 0) ***Seer's Hut***
+Message:
+An elderly Titan sitting on his antique chair says "I've been looking for all the artifacts of legion for the past couple of years but I am getting to old, if you find all of them for me I'll give you the Helm of Heavenly enlightenment (I have two of them anyway)".
+
+(15, 93, 0) ***Tower***
+Name:
+Tyfus
+
+(63, 45, 0) ***Event***
+Message:
+You encounter a giant footprint with some blood smears at the bottom of it.
+
+(15, 95, 0) ***Sign***
+Message:
+King Tyfus's winter castle.	Come back next year he's not at home.	Thank you for your time and patience.
+
+(18, 40, 0) ***Sign***
+Message:
+Here be the Land of Titan's, authorized entrance only, otherwise prepare to be squished.
+
+(65, 75, 0) ***Sign***
+Message:
+Here be the Land of Titan's, authorized entrance only, otherwise prepare to be squished.
+
+(21, 82, 1) ***Titan***
+Message:
+The king and his band of followers attack!
+
+(19, 92, 1) ***Random Relic***
+Message:
+Titans and their pets guard this artifact.  Do you want to fight them?
+
+(22, 85, 1) ***Random Relic***
+Message:
+Titans and their pets guard this artifact.  Do you want to fight them?
+
+(12, 101, 1) ***Sign***
+Message:
+Welcome to the Home of King Tyfus of the Titans... welcome to your doom.
+
+===== End of file =====

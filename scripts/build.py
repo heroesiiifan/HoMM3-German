@@ -16,6 +16,8 @@ os.chdir(pathlib.Path(__file__).parent.parent.absolute())
 os.environ["APPEND_VIDEO"] = "1"
 os.environ["APPEND_SOUND"] = "1"
 
+os.environ["DEEPL_TRANSLATION"] = "1"
+
 #Ordner löschen
 if os.path.exists("_out"): shutil.rmtree("_out")
 if os.path.exists("_tmp"): shutil.rmtree("_tmp")

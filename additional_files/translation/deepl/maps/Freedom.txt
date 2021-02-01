@@ -1,0 +1,13 @@
+===== Map name =====
+Freedom
+
+===== Map description =====
+For years the people of this land have been too dependent on each other.  You have finally decided that it is time to declare your freedom and become an independent nation. Unfortunately your neighbors are thinking the same thing.  
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+===== End of file =====

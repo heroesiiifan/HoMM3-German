@@ -1,0 +1,35 @@
+===== Map name =====
+Pirates!
+
+===== Map description =====
+There are islands in the Sea of Prosperity that are the homes for some vicious pirates. You have been sent with a small contingent of troops to take one of the castles and establish a base with which to cleanse the region of these accursed Corsairs.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Opening Text
+Message:
+In the Sea of Prosperity, there is a group of pirates that have been plaguing shipping routes.  You have been given a small contingent of troops to take the northwestern island. From there you will cleanse this chain of islands of these accursed Corsairs. Good luck!
+
+Name:
+Supplies
+Message:
+A ship from the mainland brings supplies.
+
+===== Objects =====
+
+(5, 22, 0) ***Sign***
+Message:
+To the north lies the city of Elysium.
+
+(29, 14, 0) ***Event***
+Message:
+Stashed on the shore are several small pebbles that look like old jewels. Dusting them off, they appear to be valuable.
+
+(5, 4, 0) ***Random Town***
+Name:
+Elysium
+
+===== End of file =====

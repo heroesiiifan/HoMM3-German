@@ -1,0 +1,178 @@
+===== Map name =====
+Pestilence Lake
+
+===== Map description =====
+Pestilence Lake is located in a valley deep in a foreboding mountain range.  You have always felt your lack of neighbors was an advantage to your location.  Recently several Lords have moved into the area.  Now they are trying to push you out.  You plan to shove them out instead!
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+You originally moved to Pestilence Lake to get away from the rest of the world.  Several months ago, to your annoyance, you discovered you had a new neighbor.  You ignored your new neighbor, hoping he would ignore you also.  Then last week your scouts told you another Lord had moved into the area.  Your scouts also found both your new neighbors are amassing armies for war.  So it's war they want!  You'll drive them both from the mountains and reclaim your peace and quiet.
+
+===== Heroes =====
+
+===== Objects =====
+
+(91, 14, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Town Hall
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Additional Income
+Message:
+
+
+Name:
+Additional Creatures
+Message:
+
+
+(62, 14, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Town Hall
+Message:
+
+
+Name:
+Mage Guild
+Message:
+
+
+Name:
+Blacksmith
+Message:
+
+
+Name:
+Marketplace
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Additional Income
+Message:
+
+
+Name:
+Addtional Creatures
+Message:
+
+
+(92, 40, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Town Hall
+Message:
+
+
+Name:
+Citadel
+Message:
+
+
+Name:
+Hoard Building
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Addtional Income
+Message:
+
+
+Name:
+Additional Creatures
+Message:
+
+
+(35, 13, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Town Hall
+Message:
+
+
+Name:
+Gold
+Message:
+
+
+Name:
+Additional Income
+Message:
+
+
+Name:
+Additional Creatures
+Message:
+
+
+(68, 35, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Additional Income
+Message:
+
+
+(53, 69, 0) ***Sign***
+Message:
+Pestilence Lake	Don't drink the water.
+
+(67, 54, 0) ***Sign***
+Message:
+Pestilence Lake	Don't drink the water.
+
+(41, 55, 0) ***Sign***
+Message:
+Pestilence Lake	Don't drink the water.
+
+(48, 44, 0) ***Sign***
+Message:
+Pestilence Lake	Don't drink the water.
+
+(76, 13, 0) ***Event***
+Message:
+The Magic Plains gives you a special benefit!
+
+(92, 27, 0) ***Event***
+Message:
+The Magic Plains gives you a special benefit!
+
+(41, 10, 0) ***Event***
+Message:
+The Magic Plains gives you a special benefit!
+
+===== End of file =====

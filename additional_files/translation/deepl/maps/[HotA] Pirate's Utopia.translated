@@ -1,0 +1,89 @@
+===== Map name =====
+Utopie der Piraten
+
+===== Map description =====
+Der Schatz der legendären Piratenkönigin ist auf einer Insel vergraben. Suchen Sie ihn!
+
+===== Rumors =====
+
+Name:
+1
+Text:
+Ich habe gehört, dass es auf den Inseln viele Einsiedler gibt, die sich ohne Zivilisation langweilen.
+
+Name:
+2
+Text:
+Hätten Sie von einer schönen Legende gewusst, die von der Liebe des Winters zu einem unbekannten Prinzen erzählt? Es heißt, dass er weit im Süden im Reich des alten Eises gefangen ist.
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(97, 93, 0) ***Crystal***
+Message:
+Ìíîãî êğèñòàëëîâ.
+
+(102, 131, 0) ***Sign***
+Message:
+Der Weg zur Ebene der Luft ist verschlossen. Vielleicht findest du ihn.
+
+(111, 105, 0) ***Pandora's Box***
+Message:
+
+
+(14, 132, 0) ***Tower***
+Name:
+Eine Eisklippe
+
+(12, 138, 0) ***Event***
+Message:
+Ein legendärer Eispalast befindet sich direkt über Ihnen. Vor Jahrhunderten lebte dort ein Prinz, der die Liebe der Göttin des Winters zurückwies, und dafür verwandelte sie ihn und alle seine Besitztümer in totes Eis. Wer mutig und klug genug ist, kann den Prinzen befreien.
+
+(13, 134, 0) ***Event***
+Message:
+Sobald man in der Nähe des Eispalastes ist, beginnen die Eisblöcke zu schmelzen, die den Palast wohl jahrhundertelang festgehalten haben...
+
+(18, 138, 0) ***Prison***
+Name:
+Prinz
+Biography:
+Einst ein Gefangener der Göttin des Winters. Jetzt befreit von einem tapferen Helden.
+
+(118, 133, 0) ***Sign***
+Message:
+Ödland
+
+(126, 136, 0) ***Event***
+Message:
+Man kann die Buchstaben kaum in einzelnen Wörtern lesen. Sieht aus, als ob es eine Art Gedicht ist...
+
+(93, 143, 0) ***Event***
+Message:
+Ihre Armee denkt, Sie seien verrückt.
+
+(116, 96, 0) ***Seer's Hut***
+Message:
+Willst du eine Gruppe böse aussehender, aber gutherziger Schurken anheuern?
+Kein Geld - keine Hilfe.
+Was würdet Ihr sagen, Mylord?
+
+(28, 90, 0) ***Event***
+Message:
+Ihr habt eine uralte Lampe gefunden. Nachdem Sie sie gerieben haben, ist eine Gruppe von Genies vor Ihnen erschienen.
+
+(84, 35, 0) ***Pandora's Box***
+Message:
+
+
+(143, 143, 0) ***Event***
+Message:
+Du willst was davon? Komm und hol's dir.
+
+(40, 143, 0) ***Event***
+Message:
+Ihr Team denkt ernsthaft über eine Rebellion nach.
+
+===== End of file =====

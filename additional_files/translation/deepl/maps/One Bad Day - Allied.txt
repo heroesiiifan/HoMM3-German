@@ -1,0 +1,155 @@
+===== Map name =====
+One Bad Day (Allies)
+
+===== Map description =====
+War has plagued this land for a long time. Now after years and years the war was going to come to an end with two arranged marriages. All was going relatively well until the brides and grooms, who did not agree with this arrangement, took off. Now their parents are fighting again, this time for good
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+intro
+Message:
+War has plagued this land for a long time.  Now after years and years the war was finally to come to an end with two marriages.  Things were going according to plan, or at least the parents' plan, until the children disappeared before their wedding day.  Now the parents are blaming each and have declared war once again.
+
+Name:
+Event - 2 Red
+Message:
+Your daughter Asrae has run off, and it is obviously Torilane's fault, for his son is a buffoon who your precious little girl couldn't possibly bear marrying.  The pig must have done something to hurt her after their meeting the night before.  You are sworn to seek vengeance on them both.
+
+Name:
+Event - 2 Blue
+Message:
+Your daughter Altaldil has run off, and it is obviously Aguk's fault, for his son is a buffoon who your precious little girl couldn't possibly bear marrying.  The pig must have done something to hurt her after their meeting the night before.  You are sworn to seek vengeance on them both.
+
+Name:
+Event - 2 Orange
+Message:
+Your son Cothim has run off, and it is obviously Manirapius's fault, for his daughter is the ugliest creature you've seen in a long time.  She must have fallen out of the top branch of the ugly tree and hit every branch on the way down.  No wonder your boy ran away - you almost did when you first saw her too!  Now you'll have to protect him by bashing Manirapius's skull in.
+
+Name:
+Event - 2 Purple
+Message:
+Your son Boruk has run off, and it is obviously Bralak's fault, for his daughter is the ugliest creature you've seen in a long time.  She must have fallen out of the top branch of the ugly tree and hit every branch on the way down.  No wonder your boy ran away - you almost did when you first saw her too!  Now you'll have to protect him by bashing Bralak's skull in.
+
+Name:
+Event - 3
+Message:
+Rumors have been circulating of something called the Power of the Dragonfather.  You have never heard of this before but think it might be useful in claiming your vengeance.  A few of your scholars are researching the name, as you aren't even sure what it is.
+
+Name:
+Event - 4
+Message:
+The scholars have good news.  The Power of the Dragonfather is a combination artifact known for its glorious powers.  It can increase the wearer's abilities and render all creatures friendly to the wearer immune to up to fourth level spells.  Such an item must belong in your arsenal!  You send out scouts to find out where the necessary pieces are.
+
+Name:
+Event - 5
+Message:
+The scouts have returned, and you now know where four pieces of The Power of the Dragonfather are.  The Crown of Dragontooth resides in a wise woman's hut, and her name is Autena.  The Necklace of Dragonteeth is hidden in Liladone's house.  Gwyad is holding the Quiet Eye of the Dragon.  Igata owns the Dragon Wing Tabard.  The others are scattered in various places, their exact locations not yet known.
+
+Name:
+Event - 6
+Message:
+The location of the Dragonbone Greaves has been discovered.  If you go to the land of burning lava and stand behind the Idol of Fortune you will find them.  Or at least that's how the legend goes.
+
+Name:
+Event - 7
+Message:
+Between the lands of Grass and Snow to the East the Dragon Scale Armor is hidden.  Rumor has it the Armor is guarded by Green Dragons, but others claim they are but an illusion.  Realizing it would be foolish to count on the illusion, you decide it best to send out heavily armed troops that way to get the armor.
+
+Name:
+Event - 8
+Message:
+In a land of good fortune and four-leafed clovers lies the Red Dragon Flame Tongue, the ancient artifact created from the Tongue of the Grandfather Red Dragon.  You will have to use the monoliths to get to it and, once there, be prepared for quite a fight.  Red Dragons are not known to easily give up artifacts from their heritage.
+
+Name:
+Event - 9
+Message:
+According to legend, the Warrior's Tomb located in the southern end of the ground made of hardened lava marks the place at which to turn to find the Dragon Scale Shield.  If you travel south along the coastline you will find the artifact.  No one has found it yet because there is no other reason to go there.
+
+Name:
+Event - 10
+Message:
+The other lords are blaming you for all the troubles with their children.  Those brats are not your fault, and you've got problems with your own child.  This is exactly the reason you should be ruling all of the lands!  The others aren't competent enough to take on responsibility themselves.
+
+Name:
+Event - 11
+Message:
+Your daughter appeared today with a young man on her arm.  She has married this ruffian and is already pregnant.  Obviously he doesn't care one whit for her, otherwise he wouldn't have told you they would choose to live in poverty rather than be apart.  No knowing what else to do, you hide the two in the castle and hope the other lords won't learn of this embarrassment.
+
+Name:
+Event - 11
+Message:
+Your son appeared today with a young woman on her arm.  He has married a peasant girl, who is already pregnant.  Obviously she doesn't care one whit for him, otherwise she wouldn't have told you they would choose to live in poverty rather than be apart.  No knowing what else to do, you hide the two in the castle and hope the other lords won't learn of this embarrassment.
+
+===== Heroes =====
+
+===== Objects =====
+
+(11, 13, 0) ***Sign***
+Message:
+Do Not Enter
+
+(15, 62, 0) ***Sign***
+Message:
+Do Not Enter
+
+(48, 47, 0) ***Sign***
+Message:
+Do Not Enter
+
+(70, 8, 0) ***Sign***
+Message:
+Do Not Enter
+
+(26, 19, 0) ***Random Town***
+
+Timed events:
+
+Name:
+Treasure
+Message:
+Collecting taxes has always makes you happier.
+
+(52, 6, 0) ***Seer's Hut***
+Message:
+Greetings, wanderer.  My name is Autena, and I was aware you were looking for me.  I will help you in your quest to create the Power of the Dragonfather, but you must first prove yourself worthy.  An Arena run by my brother is under siege by Rocs.  He had only young squires in the Arena when they attacked, and no one has tried to drive them off.  Destroy them, and I will give you the Crown of Dragontooth.
+I am sorry, but my brother is still trapped in the Arena.  Only when you have defeated the Rocs will I give you the Crown of Dragontooth.
+As I knew, you are truly worthy of wearing the Power of the Dragonfather.  Take the Crown of Dragontooth and continue on your journey.  I have heard rumors of a piece lying to the south in the lands of lava.  It is hidden in a place where few would tread, south of the Warrior's Tomb.
+
+(32, 56, 0) ***Event***
+Message:
+I have waited here for ages wanting someone to fight me, but now I am too tired.  I will give you the Dragon Scale Shield.  There are rumors it is a small piece of the whole, the Power of the Dragonfather.  Good luck on finding it.
+
+(71, 42, 0) ***Seer's Hut***
+Message:
+Hello there, my friend.  My days of adventuring have long since passed away.  There is a mine not too far from that has gems, a precious resource I could use to live on.  In my old age it is difficult to collect these, though, so if you would give me, say, fifty I will give you the Dragon Wing Tabard in exchange.  
+Oh my, that's simply not enough.  I need fifty gems, couldn't possibly survive on anything less than that.
+Excellent, now I have enough gems to properly retire on.  Give me the fifty gems, and I will give you the Dragon Wing Tabard.  Just in case you're wondering, this is an integral piece of the Power of the Dragonfather armor.  Without it you will not be able to create the powerful item.  Are you ready to exchange?
+
+(18, 45, 0) ***Seer's Hut***
+Message:
+Greetings there, traveler.  I am Liladone, and my group has dwindled significantly.  Without anyone to work for me, I am just another common thug.  Do me a favor and recruit forty Rogues.  They're living not too far from here, but I lack the cash to hire them.  Do that, and we'll have a long chat about this Necklace of Dragonteeth I hear you're so hot after.
+Sorry, pal, but unless you provide me with forty Rogues I won't even bother to start the bargaining.
+Well, since you got them here in one piece and paid their fee, I won't try and get anything else out of you.  You release them into my house, and I'll give you this Necklace made of Dragonteeth.  What do you say?
+
+(13, 25, 0) ***Seer's Hut***
+Message:
+I've always wanted to sit and chat with someone more experienced than I am.  If you reach rank 10 I'll sit with you and talk about what I know, and you can tell me what you know.  Not enough?  Then I'll give you this ring I've got hanging around.   Here, it's the Quiet Eye of the Dragon.
+Faugh!  You again!  Come back when you are level 10, as I told you.
+Great!  Let's sit and chat so we can get to know what the other does.  Are you willing to sit with me?  If you are, I'll give you the Quiet Eye of the Dragon.
+
+(21, 19, 0) ***Red Dragon Flame Tongue***
+Message:
+We are the Red Dragons who protect this ancient relic of our ancestors.  If you insist on trying to be a thief we will incinerate you with our deadly breath weapons.  Run, puny mortal, or face a quick but painful death.
+
+(50, 31, 0) ***Event***
+Message:
+After long hours of searching you have finally found the Dragonbone Greaves.  Carefully looking around for a sudden attack, you sigh in relief when there is none.  You put on the Greaves and hurry along your way.
+
+(65, 35, 0) ***Event***
+Message:
+You see some scale armor on the side of the road.  Reaching to pick it up, you are suddenly attacked by some very irate Green Dragons who don't want you to steal their property.  However, before you run away screaming, one of your mages realizes the truth and you turn to fight the wimps.
+
+===== End of file =====

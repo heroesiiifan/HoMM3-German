@@ -1,0 +1,39 @@
+===== Map name =====
+Serpent's Treasure
+
+===== Map description =====
+In ages past dragons ruled this realm, can they rule again? (with your help of course)
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+First Day.
+Message:
+A messenger from the former Dragon Lord of this region tells you that if you can get 25 black dragons to follow your cause he will help you defeat your enemies.  You agree, but as the messenger is riding away you can't help but wonder who would actually rule once all of the lords were defeated? 
+
+Name:
+Extra gold
+Message:
+The Dragon Lords give you 1000 gold to help your (their) cause.
+
+===== Objects =====
+
+(123, 60, 0) ***Sign***
+Message:
+Imprisoned:  Rion the cleric.  Convicted of:  Too much a goodygoody.  Sentence:  Life
+
+(125, 61, 0) ***Cerberus***
+Message:
+The prison guard dogs attack!
+
+(56, 133, 0) ***Pandora's Box***
+Message:
+You find and rescue an old man from a small wyvern, he rewards you with items from his hut.
+
+(137, 17, 0) ***Event***
+Message:
+Earth and Fire Elementals rise out of the ground and attack.
+
+===== End of file =====

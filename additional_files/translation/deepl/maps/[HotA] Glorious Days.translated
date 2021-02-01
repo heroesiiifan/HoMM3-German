@@ -1,0 +1,91 @@
+===== Map name =====
+Glorreiche Tage
+
+===== Map description =====
+Die Herrscher mehrerer Inseln befinden sich im Krieg. Werden Sie der mächtigste von ihnen und zwingen Sie Ihre Nachbarn, Ihre Vorherrschaft anzuerkennen.
+
+===== Rumors =====
+
+Name:
+Bier 1
+Text:
+Ahh, verdammt, gutes Bier!
+
+Name:
+Bier 2
+Text:
+Ich trinke Bier, wenn es einen Grund dafür gibt...
+
+Name:
+Toller Tag
+Text:
+Es ist ein guter Tag heute!
+
+Name:
+Inseln
+Text:
+Es gibt eine Menge Inseln in diesen Ländern.
+
+Name:
+Jolly Roger
+Text:
+ALLE UNTER DEM JOLLY ROGER!!!  ARRGHH!
+
+Name:
+Glück
+Text:
+Vielleicht finden Sie hier Ihr Glück.
+
+Name:
+Minen
+Text:
+Suchen Sie nach den Uribian Minen.
+
+Name:
+Fluss unter der Erde
+Text:
+Ein riesiger unterirdischer Fluss fließt von Norden nach Süden.
+
+===== Timed events =====
+
+Name:
+Anfang
+Message:
+Reiche Ländereien voller Inseln liegen vor Ihnen. Auf der größten von ihnen leben Ihre Konkurrenten. Erreichen Sie sie auf dem Seeweg oder finden Sie einen Tunnel, bevor sie zuerst zu Ihnen kommen.
+
+Name:
+Waren1
+Message:
+Der Handel mit fernen Ländern brachte Profit.
+
+Name:
+Waren2
+Message:
+Der Handel mit fernen Ländern brachte Gewinn.
+
+Name:
+waren3
+Message:
+Der Handel mit fernen Ländern brachte Profit.
+
+===== Heroes =====
+
+===== Objects =====
+
+(69, 17, 1) ***Sign***
+Message:
+Heimlicher Ort
+
+(88, 78, 1) ***Sign***
+Message:
+Uribische Minen voraus
+
+(88, 82, 1) ***Event***
+Message:
+Sie haben eine reiche uribische Mine gefunden!
+
+(71, 15, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

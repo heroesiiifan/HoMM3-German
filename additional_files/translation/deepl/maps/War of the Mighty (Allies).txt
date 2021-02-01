@@ -1,0 +1,90 @@
+===== Map name =====
+War of the Mighty (Allies)
+
+===== Map description =====
+Rumors abound about horrible monsters waiting underground.  Your spies tell you two of your neighbors are trying to recruit them so they can conquer your lands.  You have allied with the other neighbor.  The two of you plan to launch a preemptive strike to destroy your enemies.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Your spies report two of your neighbors are going to recruit the horrible monsters underground so they can steal your and your ally's lands.  Recruit the monsters first and then squish your enemies like the lice they are.
+
+===== Objects =====
+
+(53, 57, 0) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters. Apparently, they took offense to his questions on their religious practices.   If you will rescue him for me, I will pay you 6,000 gold as a reward.
+
+(13, 8, 0) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters.  If you will rescue him for me, I will pay you 6,000 gold as a reward.
+
+(134, 11, 0) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters.  If you will rescue him for me, I will pay you 6,000 gold as a reward.
+
+(58, 79, 0) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters. Apparently, they took offense to his questions on how often they paid taxes to their King.   If you will rescue him for me, I will pay you 6,000 gold as a reward.
+
+(11, 135, 0) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters.   If you will rescue him for me, I will pay you 6,000 gold as a reward.
+
+(83, 92, 0) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters. Apparently, they took offense to his questions on reproductive customs.   If you will rescue him for me, I will pay you 6,000 gold as a reward.
+
+(131, 139, 0) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters.  If you will rescue him for me, I will pay you 6,000 gold as a reward.
+
+(93, 58, 0) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters. Apparently, they took offense to his questions on foot odor.  If you will rescue him for me, I will pay you 6,000 gold as a reward.
+
+(60, 51, 0) ***Sign***
+Message:
+Wood, Mercury & Gem Caravans ONLY.  No Trespassing
+
+(49, 60, 0) ***Sign***
+Message:
+Ore, Sulfur & Crystal Caravans ONLY.  No Trespassing
+
+(49, 89, 0) ***Sign***
+Message:
+Wood, Mercury & Crystal Caravans ONLY.  No Trespassing
+
+(56, 96, 0) ***Sign***
+Message:
+Ore, Gem & Sulfur Caravans ONLY.  No Trespassing
+
+(86, 94, 0) ***Sign***
+Message:
+Wood, Gem & Sulfur Caravans ONLY.  No Trespassing
+
+(93, 88, 0) ***Sign***
+Message:
+Ore, Crystal & Mercury Caravans ONLY.  No Trespassing
+
+(89, 50, 0) ***Sign***
+Message:
+Ore, Mercury & Crystal Caravans ONLY.  No Trespassing
+
+(94, 62, 0) ***Sign***
+Message:
+Wood, Gem & Sulfur Caravans ONLY.  No Trespassing
+
+(71, 66, 0) ***Quest Guard***
+Message:
+The shipyard beyond is the only one in the land.  The guards eye you dubiously, but agree to let you by when you have achieved the experience level 8.
+
+(75, 67, 1) ***Seer's Hut***
+Message:
+A scholar friend of mine has been trapped by a group of monsters. Apparently, they took offense to his questions on personal lice population.  If you will rescue him for me, I will pay you 8,000 gold as a reward.
+
+===== End of file =====

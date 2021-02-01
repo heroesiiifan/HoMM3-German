@@ -1,0 +1,42 @@
+===== Map name =====
+Rumble in the Bogs
+
+===== Map description =====
+Ein klassischer Fall von "Das Gras ist auf der anderen Seite grüner": Sie müssen zuerst Ihren lästigen Nachbarn loswerden und dann durch einen Sumpf schleichen, um die Reichtümer zu finden, die dahinter auf Sie warten.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+FedEx für Computer (Spieler 5)
+Message:
+
+
+Name:
+Intro Teil 1
+Message:
+Sie haben immer ein friedliches Leben geführt, in bescheidener Koexistenz mit Ihrem Nachbarn in einer bescheidenen Küstenregion, deren interessantestes Merkmal darin bestand, dass sie von einem tiefen, trostlosen Sumpfland begrenzt wurde.
+
+Name:
+Intro Teil 2
+Message:
+Eines Tages tauchte zur Überraschung aller ein Reisender aus dem Sumpf auf, der nicht nur von Reichtümern innerhalb des Sumpfes erzählte, sondern auch von einem noch fantastischeren Land auf der anderen Seite!  Begierig, mehr zu erfahren, schickten Sie Späher in den Sumpf, aber sie kehrten nie zurück.
+
+Name:
+Intro Teil 3
+Message:
+Zuerst dachten Sie, die Späher hätten sich verirrt, aber dann kam Ihnen ein Gedanke. Vielleicht war das Land jenseits der Sümpfe SO fantastisch, dass die Späher sich weigerten, es zu verlassen? Du teilst deine Idee mit deinem Nachbarn, aber er hat beschlossen, dass er das ferne Land für sich selbst will!
+
+Name:
+Intro Teil 4
+Message:
+Sie merken plötzlich, dass Ihre friedliche Koexistenz mit Ihrem Nachbarn am Ende ist. Erteilen Sie ihm eine Lektion in Demut, dann gehen Sie und beanspruchen Sie die Reichtümer, die jenseits der Sümpfe liegen, für sich!
+
+===== Objects =====
+
+(42, 37, 0) ***Event***
+Message:
+Wenn Sie sich diesen Ort ansehen, wird Ihnen klar, dass Sie wahrscheinlich das erste Lebewesen sind, das seit Jahrhunderten seinen Fuß hierher gesetzt hat.  Sie frösteln vor dem Schauer, der Ihnen den Rücken hinaufkriecht.
+
+===== End of file =====

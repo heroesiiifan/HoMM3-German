@@ -1,0 +1,90 @@
+===== Map name =====
+Krieg der Mächtigen (Alliierte)
+
+===== Map description =====
+Es kursieren Gerüchte über schreckliche Monster, die im Untergrund lauern.  Deine Spione erzählen dir, dass zwei deiner Nachbarn versuchen, sie zu rekrutieren, damit sie dein Land erobern können.  Sie haben sich mit dem anderen Nachbarn verbündet.  Sie beide planen einen Präventivschlag, um Ihre Feinde zu vernichten.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Ihre Spione berichten, dass zwei Ihrer Nachbarn die schrecklichen Monster im Untergrund rekrutieren wollen, damit sie Ihnen und Ihren Verbündeten das Land stehlen können.  Rekrutieren Sie zuerst die Monster und zerquetschen Sie dann Ihre Feinde wie die Läuse, die sie sind.
+
+===== Objects =====
+
+(53, 57, 0) ***Seer's Hut***
+Message:
+Ein befreundeter Gelehrter wurde von einer Gruppe von Monstern gefangen genommen. Anscheinend nahmen sie Anstoß an seinen Fragen über ihre religiösen Praktiken.   Wenn Ihr ihn für mich rettet, werde ich Euch 6.000 Gold als Belohnung zahlen.
+
+(13, 8, 0) ***Seer's Hut***
+Message:
+Ein Gelehrter, der mit mir befreundet ist, wurde von einer Gruppe von Monstern gefangen genommen.  Wenn Ihr ihn für mich rettet, zahle ich Euch 6.000 Gold als Belohnung.
+
+(134, 11, 0) ***Seer's Hut***
+Message:
+Einer meiner Freunde, ein Gelehrter, wurde von einer Gruppe von Monstern gefangen.  Wenn Ihr ihn für mich rettet, zahle ich Euch 6.000 Gold als Belohnung.
+
+(58, 79, 0) ***Seer's Hut***
+Message:
+Einer meiner Freunde, ein Gelehrter, wurde von einer Gruppe von Monstern gefangen genommen. Anscheinend nahmen sie Anstoß an seinen Fragen, wie oft sie Steuern an ihren König zahlen.   Wenn Ihr ihn für mich rettet, werde ich Euch 6.000 Gold als Belohnung zahlen.
+
+(11, 135, 0) ***Seer's Hut***
+Message:
+Ein Gelehrter, der mit mir befreundet ist, wurde von einer Gruppe von Monstern gefangen genommen.   Wenn Ihr ihn für mich rettet, zahle ich Euch 6.000 Gold als Belohnung.
+
+(83, 92, 0) ***Seer's Hut***
+Message:
+Einer meiner Freunde, ein Gelehrter, wurde von einer Gruppe von Monstern gefangen genommen. Anscheinend nahmen sie Anstoß an seinen Fragen zu Fortpflanzungsgewohnheiten.   Wenn Ihr ihn für mich rettet, werde ich Euch 6.000 Gold als Belohnung zahlen.
+
+(131, 139, 0) ***Seer's Hut***
+Message:
+Ein Gelehrter Freund von mir wurde von einer Gruppe von Monstern gefangen.  Wenn Ihr ihn für mich rettet, werde ich Euch 6.000 Gold als Belohnung zahlen.
+
+(93, 58, 0) ***Seer's Hut***
+Message:
+Ein Gelehrter, der mit mir befreundet ist, wurde von einer Gruppe von Monstern gefangen. Anscheinend haben sie Anstoß an seinen Fragen zum Fußgeruch genommen.  Wenn Ihr ihn für mich rettet, werde ich Euch 6.000 Gold als Belohnung zahlen.
+
+(60, 51, 0) ***Sign***
+Message:
+NUR Holz-, Quecksilber- und Edelstein-Karawanen.  Unbefugtes Betreten verboten
+
+(49, 60, 0) ***Sign***
+Message:
+NUR Erz-, Schwefel- & Kristall-Karawanen.  Unbefugtes Betreten verboten
+
+(49, 89, 0) ***Sign***
+Message:
+NUR Holz-, Quecksilber- und Kristallkarawanen.  Unbefugtes Betreten verboten
+
+(56, 96, 0) ***Sign***
+Message:
+NUR Erz-, Edelstein- & Schwefel-Karawanen.  Unbefugtes Betreten verboten
+
+(86, 94, 0) ***Sign***
+Message:
+NUR Holz-, Edelstein- & Schwefel-Wohnwagen.  Unbefugtes Betreten verboten
+
+(93, 88, 0) ***Sign***
+Message:
+NUR Erz-, Kristall- & Quecksilber-Karawanen.  Unbefugtes Betreten verboten
+
+(89, 50, 0) ***Sign***
+Message:
+NUR Erz-, Quecksilber- & Kristall-Karawanen.  Unbefugtes Betreten verboten
+
+(94, 62, 0) ***Sign***
+Message:
+NUR Holz-, Edelstein- & Schwefel-Karawanen.  Unbefugtes Betreten verboten
+
+(71, 66, 0) ***Quest Guard***
+Message:
+Die Werft dahinter ist die einzige im Land.  Die Wachen beäugen Sie misstrauisch, sind aber einverstanden, Sie durchzulassen, wenn Sie die Erfahrungsstufe 8 erreicht haben.
+
+(75, 67, 1) ***Seer's Hut***
+Message:
+Ein befreundeter Gelehrter wurde von einer Gruppe von Monstern gefangen genommen. Anscheinend haben sie Anstoß an seinen Fragen zur persönlichen Läusepopulation genommen.  Wenn Ihr ihn für mich rettet, werde ich Euch 8.000 Gold als Belohnung zahlen.
+
+===== End of file =====

@@ -1,0 +1,215 @@
+===== Map name =====
+Unexpected Inheritance
+
+===== Map description =====
+A great, great, great relative (who you had never heard of) died and left you his castle and estate.  Apparently your relative and the nearest neighbor were at odds...
+
+===== Rumors =====
+
+Name:
+Xanadu near Sanctuary
+Text:
+If you have found a place of sanctuary, you are near the fabled Xanadu.
+
+Name:
+Xanadu near Sanctuary 2
+Text:
+If you have found two places of sanctuary, you have passed the fabled Xanadu.
+
+Name:
+Scholars
+Text:
+A group of Scholars are exploring the mountains to the NorthWest with a guide named Donner.
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+This morning you surveyed your new estate.  Sure, the roof has a few leaks and the castle towers need new mortar, but it's yours.  To start the day, you ordered the cook to prepare you a hearty breakfast.  You noticed a few odd looks from your servants at this order.  Maybe the old Lord didn't eat breakfast?  You've got to find out your distant relative's name and how he died.  The old lawyer you inherited told you (you think), but he mumbles so much you couldn't understand more than one word in ten.
+
+Name:
+Intro (cont)
+Message:
+Most of the way through breakfast the lawyer, Cough-mumble-mumble, showed up and mumbled your predecessor, old mumble Something-or-other, died of poison.  You are supposed to pronounce sentence on the cook today.  You spit out your mouthful of food and barely restrain yourself from lawyercide.  After a quick visit to the outhouse, where you toss the rest of your breakfast, you calmly tell Cough-mumble-mumble to give you all the details of Something-or-other's death.  You notice your hands around the lawyer's throat seemed to have cured his mumbling problem.		After you calm down from breakfast, your Generals approach you.  They tell you that a patrol though to be lost in the underground managed to seize a castle down there.
+
+Name:
+Food Taster
+Message:
+At dawn you hung the cook and promoted old Cough-mumble-mumble, the lawyer, to personal food taster.  He didn't seem too thrilled with the honor.  He also seemed unhappy with the pair of personal guards you gave him to make sure he didn't wander off and get lost.
+
+Name:
+Library map
+Message:
+This morning you found an old map in the Library.  Your neighbor is located on the other side of a large mountain range.  According to your map, the mountains are impassable to an army but not to individuals and small groups.
+
+Name:
+Dispatch spies
+Message:
+Last night you dispatched three spies to find out what your enemy is plotting.
+
+Name:
+Falling block
+Message:
+A large block of stone fell from the castle tower today, narrowly missing you.  Maybe you should have sent those spies sooner.
+
+Name:
+Late message
+Message:
+This afternoon you received an urgent message from your spies.  The enemy Lord has hired a gardener to push a loose crenellation on you.  You order your guards to question the gardeners.  They report one gardener has been missing since last night.
+
+Name:
+Masons
+Message:
+You hired some masons today.  They are to repair all the mortar and loose stonework on your castle towers.
+
+Name:
+Council of war
+Message:
+Earlier today, you held a council of war with your generals.  Your generals said the only invasion route to your enemy was underground.  You told them to open the invasion route as soon as possible.
+
+Name:
+Supply train raid
+Message:
+Your spies finally proved useful.  They made a deal with some bandits to raid your enemy's supply train.  They supplied information on the train and the bandits did the raid.  You even got a share of the supplies!
+
+Name:
+"Black" Box Message
+Message:
+A wandering Bard stops by your castle and tells you a tale about a Pandora's box said to be located in this area.  The box is said to contain a great treasure and be guarded by powerful guardians.   You thank him for his tale and give him a generous gift when he leaves in the morning.
+
+Name:
+Depot raid
+Message:
+One of you supply depots was raided last night.  Your troops are convinced it was not bandits that attacked the depot.
+
+Name:
+Chambermaid
+Message:
+A special messager from your spies tells you they have found a chambermaid in your enemy's castle who hates the Lord.  For a safe place to live and a small sum of money she is willing to help your cause.  You laugh and rub you hands with glee.  You need to ponder how to use your newest agent effectively.
+
+Name:
+Snake
+Message:
+After some thinking, you decide the best and most poetic use of your chambermaid is to have her put a poisonous snake in your enemy's chamberpot.  After she places the snake she can flee to your castle and safety.  You send the necessary orders to your spies along with some gold and gems for the maid.
+
+Name:
+Strange look
+Message:
+After dinner you noticed the lawyer, Cough-mumble-mumble, seems to have lost a lot of weight.  You try to decide whether this is a good or bad thing for a food tester.  On impulse you tell him he can retire from food tasting after the war is won.  He gives you a strange look, which worries you.
+
+Name:
+Dorie
+Message:
+Your chambermaid agent, Dorie, arrived today.  You told your Chamberlain to put her on the servant payroll at a generous salary.  She seem to think she was now one of your spies when you interviewed her.  After some thought, you told her to keep a close watch on your food taster, Cough-mumble-mumble.  She seemed delighted with her new orders.
+
+Name:
+Repeating Bandit raid
+Message:
+Your spies sent word of another successful "bandit" raid on your enemy's supply depot.  Your share of the raid arrived today.
+
+Name:
+Pillow
+Message:
+After dinner you discovered your chamberpot had several scorpions in it.  Fortunately you were expecting something like that and had become very cautious about using it.  It was the snake under the pillow that almost got you.  Luckily, the snake decided the pillow was more dangerous than you were.  The guards caught one of the Chamberlain clerks trying to sneak out over the wall later that night.  You had him thrown in the dungeon.  Then you had the scorpions, a pillow, and the snake thrown in the cell with him.
+
+Name:
+Dorie whispers
+Message:
+Early this morning your bemused Captain of the Guard woke you.  He said you had a "secret" visitor.  Your met your "secret" visitor in his quarters.  It turned out to be Dorie, chambermaid agent at large.  She said she was certain the food taster was up to "No Good," but she hadn't been able to catch him at "Anything."  She thought he might be passing notes in the tavern, but she couldn't get close enough to tell without being noticed.  She needed to recruit a couple of stable lads to keep a closer watch on Cough-mumble-mumble (and wasn't that a clever nickname), if you didn't mind.  You were amazed.  You hadn't realized it was possible to talk that fast while whispering.  Suppressing you laughter, you gave her the permission she wanted and went back to bed.
+
+Name:
+Repeating Depot raid
+Message:
+Your supply depot was raided again last night.  You agree with your troops, your enemy was behind the raid, even if bandits carried it out.
+
+Name:
+Imminent assassination
+Message:
+An urgent message arrived from your spies at lunchtime.  They think another attempt on your life is imminent.  After a few seconds thought, you decide now would be an excellent time for a surprise inspection of the guards at your supply depot.  Before you leave, you warn the Captain of the Guard there may be some trouble in the next few days and to keep the men alert.
+
+Name:
+Bush killer
+Message:
+The surprise inspection was a great success.  The depot guards seemed alert and well trained.  They seem surprised when you decided to spend a few days with them.  Morale seemed to improve, once they found you were staying in the barracks with the guards.  The second night there was a bandit raid.  It was a dark, confusing, fight but the bandits were driven off.  The guards seem greatly cheered by your presence, not that you did anything more than swing at half-seen shapes not in guard uniforms.  You don't think you hit any bandits but you certainly killed a bush or two.
+
+Name:
+Exploding chair
+Message:
+You arrived back at your castle this afternoon.  Apparently there was some excitement while your were away.  Your chair in the Great Hall exploded the morning after you left on your surprise inspection.  You usually spend some time each morning in the Great Hall listening to petitions and reports from various bureaucrats.  You send word to you spies set up a retaliatory assassination attempt on your enemy, preferably one that goes "BANG".
+
+Name:
+Dead bed
+Message:
+You were awoken around midnight by a loud scream outside your door.  You leaped out of bed, grabbed your sword and ran towards the door.  Then you really woke up, turned and hid behind your chest of drawers.  The door to the room shuddered a few times, then burst open.  Masked men came charging into your room and proceeded to hack the bed, sheets, pillows, blankets, spread and bed curtains to pieces.  While they were killing the bed, you tiptoed out of the room, past the wounded guard by the door, and ran for the nearest guardroom.  From there you had the guard turn out and attack the assassins.  At the end of the night the score was one bed for them, seven assassins for you.
+
+Name:
+Another meeting with Dorie
+Message:
+Shortly before dawn the Captain of the Guard awakened you.  Dorie, the chambermaid spy, had information for you in his quarters.  As soon as you arrived, Dorie began to speed whisper her report.  Cough-mumble-mumble, the food taster and lawyer, "Was" the enemy spymaster.  He was the "One" responsible for all the "Assassinations".  He was running his "Operation" from his secret headquarters located in the castle "Outhouse".  You had to sit down after hearing this news.  What idiot would run a spy operation from an outhouse?  After pondering this question for a moment, you ordered the Captain to get some guards and come with you to arrest Cough-mumble-mumble.  
+
+Name:
+Outhouse
+Message:
+The food taster was just leaving his room when you showed up with the Captain, guards, and a heavily cloaked Dorie.  One look at your group was enough.  He took off running for his headquarters with everyone in hot pursuit.  He made it to the outhouse before anyone else and slammed and locked the old rickety door.  The four guards with you tried to break the door down, but instead knocked the whole outhouse over. His sanctuary gone, Cough-mumble-mumble sprang at you and tried to strangle you.  The Captain knocked him off of you then Dorie tripped him and old Cough-mumble-mumble fell down the shaft of the pit toilet and drowned before anyone could fish him out.  Thus ended the saga of Cough-mumble-mumble.  What was his name anyway?
+
+Name:
+Embarrassing responsibly
+Message:
+Day 84	An embarrassed messager left a note for you last night and then fled.  Apparently you were responsible for a plot where several not very bright Ogres attacked your enemy while he was eating lunch in a tavern.  They ran at his table screaming "BANG, BANG, BANG" at the top of their lungs.  They apparently destroyed the table and most of the tavern, but you enemy managed to escape out one of the windows.  You send a polite note to your spies telling them NOT to use anymore ogres.  You tell them just stick to the bandits.
+
+===== Objects =====
+
+(37, 5, 0) ***Sign***
+Message:
+Please Don't Feed the Monsters!
+
+(71, 36, 0) ***Sign***
+Message:
+Big Bad Monsters Below.  Enter at own risk!
+
+(32, 68, 0) ***Sign***
+Message:
+Warning, entering Magical Disaster Area.
+
+(0, 36, 0) ***Sign***
+Message:
+Hungry Monsters Below.  Don't forget your spellbook.
+
+(37, 63, 0) ***Event***
+Message:
+Your troops are ambushed by a scruffy looking group of monsters.
+
+(34, 10, 0) ***Event***
+Message:
+Your troops are ambushed by a scruffy looking group of monsters.
+
+(40, 21, 0) ***Event***
+Message:
+Ambush!  Strange troops charge out of the woods and attack!
+
+(63, 34, 0) ***Event***
+Message:
+Ambush!  Strange troops charge out of the woods and attack!
+
+(31, 67, 0) ***Event***
+Message:
+Ambush!  Strange troops rush out of the trees and attack!
+
+(15, 61, 0) ***Event***
+Message:
+Ambush!  Strange troops rush out of the trees and attack!
+
+(6, 6, 1) ***Pandora's Box***
+Message:
+A pretty box, in a dreary cave, guarded by who knows what.  The skeletons nearby warn of danger.  Yet still, such a pretty, rich looking box.  Hmm...
+
+(39, 39, 1) ***Random Town***
+Name:
+Xanadu
+
+(61, 64, 1) ***Pandora's Box***
+Message:
+A gold encrusted box, in a dreary cave, guarded by who knows what.  The skeletons nearby warn of danger.  Yet still, such a pretty box, with just a hint of magic.  Hmm...
+
+===== End of file =====

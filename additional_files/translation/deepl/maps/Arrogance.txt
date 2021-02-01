@@ -1,0 +1,75 @@
+===== Map name =====
+Arrogance
+
+===== Map description =====
+Once, centuries ago, the world was at peace.  Four cultures lived in harmony and freely associated with each other.  Then you came into power and realized things would be better for you if you took over the entire world.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+To Conquer
+Message:
+Recently ascending the throne, you have realized it would be much better if you ruled the entire world, not just a quarter of it.  You are smarter, better equipped and rule more justly than the others who are squandering their time on the throne.
+
+Name:
+Scouts
+Message:
+As any good ruler would (and you are by far the best in the world), you send out scouts to see what your enemies are trying to do.  It is always best to know thy enemy, and you always do what is best.  Your scouts are excellent at what they do and are far better than any others in existence.  This will be a quick war, and you will be able to trounce your enemies quite quickly.
+
+Name:
+Local Area
+Message:
+Unfortunately you had to let go one of your generals.  He had allowed several groups of creatures wander into the area and take over the lands.  This was just not acceptable.  How can you possibly run the best Kingdom and rule over all people if there are any flawed individuals working for you?  It just wouldn't do, so he had to be fired.  He will be much happier working in the barns anyway; it is what he is truly suited for.
+
+Name:
+No word.
+Message:
+So far there hasn't been any word back from your scouts, but that probably means they are finding out oodles of information.  More than likely they will return within the next few days and provide you with massive amounts of information, detailing your enemies' moves.  Yes, that is it.  They will have exact diagrams of what your enemies are planning.  Until then, you will not plan too far ahead.
+
+Name:
+Finally
+Message:
+At last, one of your scouts has returned.  Expecting to see him immediately, you are very upset when one of the medics explains the man is in no condition to see anyone.  Apparently he encountered some troubles on the way back and won't be able to talk for some time.  This is most distressing and should not be happening in your kingdom.  He may have to be fired if there is not a good reason for his lapse in duty.
+
+Name:
+Scout can report
+Message:
+The medics have given the scout leave to speak with you.  They are very strict about him talking only for a little while, and you are not to get the man agitated, as his condition is still pretty fragile.  With an exasperated sigh, you enter the room where he is being tended to and realize he must be let go soon as he can take the news.  Obviously he is not worthy of working for you.  His right hand is missing, and so are most of his teeth.  He's covered in long cuts, and bruises flower everywhere.  This will simply not do.  Asking what he found out, you discover the only thing he ever really saw was the dungeon, after he was caught.  Pretending to be satisfied, you leave quickly with the doctors ushering you out.
+
+Name:
+Head on a platter
+Message:
+This is getting ridiculous.  One more scout has returned, or more accurately, his head has returned... on a silver platter.  How absurd, no one does that sort of thing anymore.  Ordering the head to be thrown away, you have the servants clean up the platter and add it to the pantry.  No sense in wasting a good platter.  Seems you will not be getting some information.  This is very upsetting, and you order the man to be fired before your assistant reminds you he's dead.
+
+Name:
+Caught
+Message:
+It seems one of your men is actually capable of doing something constructive.  He found a man lurking around the meeting areas and quickly discovered a spy in your midst.  You remember talking to the fellow and realize he may have passed on some vital information to one of the other kings.  You order him dismembered and mail a part or two to each of the other kings.  This will cover all of your bases.  With any luck (and you are sure to have some good luck), he will tell you all sorts of good information.
+
+Name:
+Caught again
+Message:
+Well, your man caught another spy, and this one is sure to succumb to the comfy chair and the other tortures of your dungeon master.  The last one simply had to be dismembered and sent away because he wouldn't tell you anything.  This one is sure to confess all sorts of information.  You are just positive about the situation.
+
+Name:
+Money troubles
+Message:
+This is totally unfair.  Your accountant has lost a lot of money.  He claimed you had about 5,000 gold pieces more than you actually do.  You fire him and give him a job weeding the daisy bed behind the castle.  That will teach him for losing so much money.  Such incompetence can give you quite a headache.  At least the voluptuous young woman is very good at making your headaches and troubles go away.
+
+Name:
+Set back
+Message:
+That setback will cost you a bit for the next few weeks, and your birthday bash won't be so much a bash as just a plain old party.  Sulking, you order one of the wenches to alleviate your headaches, but it still isn't working.  You were so looking forward to the fireworks, the dancing girls, the animal parade, and all of the fine foods and wines.  Now the fireworks are completely out, and the exotic animals from Inthar are not going to be here on time.  It is completely rude to treat a King this way.  Especially such a perfect one as yourself!
+
+Name:
+Final Scout
+Message:
+This whole war thing is just not going as you have planned.  One final scout was found - after he had delivered the last bit of information to his king.  Then you were denied the pleasure of torturing him because he committed suicide!  How extremely rude of the man!  You decree that from now on spies are not allowed to commit suicide because it is very rude to those looking forward to torturing them.  It is going to take several voluptuous maidens to remove this King-sized headache.  With any luck, the war will be over and you will rule the entire world.  Then everyone will see how wonderful you are at being King.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

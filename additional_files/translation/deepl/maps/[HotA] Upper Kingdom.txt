@@ -1,0 +1,23 @@
+===== Map name =====
+Upper Kingdom
+
+===== Map description =====
+Fleeing from pursuing Nighon guards, you find a well hidden cave. Nix live here and while without much enthusiasm, they agreed to shelter you. They also hinted clearly that somewhere near here there is a way out.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(12, 14, 1) ***Sign***
+Message:
+Passage to the Upper Kingdom
+
+(27, 26, 1) ***Event***
+Message:
+Getting back to the boat is not as easy – the pursuing harpies are here already.
+
+===== End of file =====

@@ -1,0 +1,44 @@
+===== Map name =====
+Mit Schwert und Feuer
+
+===== Map description =====
+Es kommt der Tag, an dem selbst eine so legendäre Waldläuferin wie Kyrre den Weg aus dem Waldlabyrinth nicht mehr findet. Zu allem Übel ist der Wald gespickt mit Fallen und Rätseln. Da die Elfen sich nicht dazu durchringen können, die Bäume zu verletzen, muss sie jemand anderen hacken und verbrennen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+- alle res
+Message:
+Sie haben weder Gold noch Ressourcen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 9, 0) ***Pandora's Box***
+Message:
+
+
+(12, 6, 0) ***Pandora's Box***
+Message:
+
+
+(24, 15, 0) ***Pandora's Box***
+Message:
+
+
+(1, 24, 0) ***Pandora's Box***
+Message:
+
+
+(32, 20, 0) ***Pandora's Box***
+Message:
+
+
+(10, 2, 0) ***Marksman***
+Message:
+Keine Pixies jenseits dieser Linie.
+
+===== End of file =====

@@ -1,0 +1,58 @@
+===== Map name =====
+Geteilte Loyalitäten
+
+===== Map description =====
+Die einst befreundeten Oberflächenbewohner haben sich gegenseitig den Krieg erklärt und damit auch die unterirdischen Fürsten auf ihre Seite gezogen.  Übernehmen Sie alle feindlichen Burgen, um den Sieg zu erringen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Warnung.
+Message:
+Bauen Sie Ihre Streitkräfte auf und vernichten Sie Ihre Feinde, aber seien Sie gewarnt - die Nähe der unterirdischen Tore bedeutet, dass sich ein Feind an Sie heranschleichen kann!
+
+===== Objects =====
+
+(17, 66, 0) ***Sign***
+Message:
+Orkdorf Wensal, keine Elfen erlaubt.
+
+(23, 26, 0) ***Sign***
+Message:
+Willkommen in der wunderschönen Goblin-Villa von Atha.
+
+(68, 62, 0) ***Gold***
+Message:
+Eine Gruppe von Ogern und Oger-Magiern tummelt sich um einen Haufen Gold, willst du mit ihnen darum kämpfen?
+
+(6, 23, 0) ***Gold***
+Message:
+Eine kleine Armee von Zwergen scheint dieses Gold zu bewachen, wollt ihr angreifen?
+
+(51, 26, 1) ***Sign***
+Message:
+Troglodyten-Paarungsbäder...bitte keine lauten Geräusche!
+
+(0, 62, 1) ***Event***
+Message:
+Banditen springen hinter den Bäumen hervor und greifen an.
+
+(21, 33, 1) ***Gold***
+Message:
+Zwerge bewachen dieses Gold, willst du mit ihnen darum kämpfen?
+
+(23, 38, 1) ***Sign***
+Message:
+Willkommen in der Zwergenvilla von Dwith. 
+
+(39, 20, 1) ***Event***
+Message:
+Ziemlich wütend aussehende Zwerge springen aus der Mine und greifen an.
+
+(37, 19, 1) ***Sign***
+Message:
+Zwergengoldmine, kein Zutritt.
+
+===== End of file =====

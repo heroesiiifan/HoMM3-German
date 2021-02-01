@@ -1,0 +1,35 @@
+===== Map name =====
+Piraten!
+
+===== Map description =====
+Es gibt Inseln im Meer des Wohlstands, die die Heimat einiger bösartiger Piraten sind. Du wurdest mit einem kleinen Truppenkontingent ausgesandt, um eine der Burgen einzunehmen und eine Basis zu errichten, mit der du die Region von diesen verfluchten Korsaren säubern kannst.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Eröffnungstext
+Message:
+In der See des Wohlstands gibt es eine Gruppe von Piraten, die die Schifffahrtsrouten geplagt haben.  Sie haben ein kleines Kontingent an Truppen erhalten, um die nordwestliche Insel einzunehmen. Von dort aus werden Sie diese Inselkette von diesen verfluchten Korsaren säubern. Viel Glück!
+
+Name:
+Vorräte
+Message:
+Ein Schiff vom Festland bringt Nachschub.
+
+===== Objects =====
+
+(5, 22, 0) ***Sign***
+Message:
+Im Norden liegt die Stadt Elysium.
+
+(29, 14, 0) ***Event***
+Message:
+Am Ufer liegen mehrere kleine Kieselsteine, die wie alte Juwelen aussehen. Wenn man sie abstaubt, scheinen sie wertvoll zu sein.
+
+(5, 4, 0) ***Random Town***
+Name:
+Elysium
+
+===== End of file =====

@@ -1,0 +1,90 @@
+===== Map name =====
+The Gauntlet
+
+===== Map description =====
+Can you survive "The Gauntlet"?, a grueling race against time to defeat the five lords allied against you.  The good news is that you will only have to fight one at a time, the bad news is that each is fairly tough.  This one is not for the timid.
+
+===== Rumors =====
+
+Name:
+Sixth lord has holy grail.
+Text:
+The fifth lord has the holy grail.
+
+Name:
+Dungeon Lord.
+Text:
+The Dungeon lord has allied with hoards of Beholders.
+
+Name:
+Last lord
+Text:
+The only way to get to the triad of Inferno castles is to fly over the mountains.
+
+===== Timed events =====
+
+Name:
+Starting message.
+Message:
+Welcome to  "The Gauntlet"; defeat the five lords allied against you before time runs out.  Good luck!
+
+===== Objects =====
+
+(83, 66, 0) ***Pandora's Box***
+Message:
+A horde of demons pop out of the box..some decide to join you, others decide to put you to the test.
+
+(55, 1, 0) ***Ocean Bottle***
+Message:
+A note in a bottle reads: "Time waits for no man, especially you.  Now stop stalling and get back to work".		Signed,	The gauntlet overseers.
+
+(102, 26, 0) ***Spell Scroll***
+Message:
+Water elementals form from the nearby watering hole.  They move to block you from getting the scroll, do you want to fight them?
+
+(18, 83, 0) ***Event***
+Message:
+You come upon the ships captain waiting before his ship and he tells you that it would be a good idea to visit the tents to the northwest of this island (if you have not already).  
+
+(8, 75, 0) ***Sign***
+Message:
+The Brown tent to the north is not a necessity.		Signed,	The Gauntlet Overseers.
+
+(23, 81, 0) ***Ocean Bottle***
+Message:
+The note in the bottle reads:  "The small Island directly north is your first destination try not to tarry"		Signed,	The Gauntlet Overseers
+
+(3, 0, 0) ***Event***
+Message:
+An ominous voice speaks: "Congratulations on getting through the first opponent, here is your reward"
+
+(68, 16, 0) ***Event***
+Message:
+An ominous voice states: "You have gotten past the third opponent, here is your reward"
+
+(75, 52, 0) ***Event***
+Message:
+An ominous voice states: "You have gotten through the fourth opponent, good luck on the fifth.  Here is your reward".  The voice does not sound so optimistic.
+
+(74, 44, 0) ***Sign***
+Message:
+Go before the Hut of the Magi to get your last reward.		Signed,	The Gauntlet Overseers
+
+(83, 33, 0) ***Sign***
+Message:
+The scroll is the key to move across the water, see?		Signed,	The Gauntlet Overseers
+
+(69, 19, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+Comp bonus
+Message:
+This is the computer bonus stuff.
+
+(30, 23, 1) ***Event***
+Message:
+An ominous voice speaks: "Congratulations on getting past your second opponent, here is your reward"
+
+===== End of file =====

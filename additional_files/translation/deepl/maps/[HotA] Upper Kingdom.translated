@@ -1,0 +1,23 @@
+===== Map name =====
+Oberes Königreich
+
+===== Map description =====
+Auf der Flucht vor den verfolgenden Nighon-Wachen finden Sie eine gut versteckte Höhle. Hier leben Nix, die sich zwar ohne große Begeisterung bereit erklärten, dich zu beherbergen. Sie haben auch deutlich angedeutet, dass es irgendwo in der Nähe einen Ausweg gibt.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(12, 14, 1) ***Sign***
+Message:
+Passage zum Oberreich
+
+(27, 26, 1) ***Event***
+Message:
+Der Weg zurück zum Boot ist nicht so einfach - die verfolgenden Harpyien sind schon da.
+
+===== End of file =====

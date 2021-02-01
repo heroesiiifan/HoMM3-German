@@ -1,0 +1,52 @@
+===== Map name =====
+Beil, Axt und Säge
+
+===== Map description =====
+Böse Schergen haben einen verzweifelten Bedarf an Holz und haben sich die kleinen Dörfer der Dendroiden zum Abholzen ausgesucht.  Eine Gruppe von Elfen hat Wind von dem Plan bekommen und ist angetreten, um sie zu stoppen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Eröffnung - Das Böse
+Message:
+Das ganze Holz in ihrem Land ist verrottet.  Einige Stämme liegen hier und da, aber es gibt keine brauchbaren Holzvorräte mehr.  Nun wurde der Ruf laut, eine weitere Quelle für Holz zu finden.  Diese Quelle wurde entdeckt: Dendroiden.		Das Holz, das von einem lebenden Dendroiden produziert wird, ist weitaus geschmeidiger und stabiler als Eiche oder Ahorn.  Du wurdest angewiesen, die vielen Dendroiden-Dörfer an diesem Fluss zu finden und zu erobern.  Seid gewarnt, die Elfen sind ihre Verbündeten und eingeschworenen Beschützer.  Sollten sie euch aufhalten, werden unsere Städte verfallen.
+
+Name:
+Eröffnung - Gut
+Message:
+Die Schergen des dunklen, feurigen Infernos sind nun schon seit einiger Zeit gegen die Welt vorgegangen und haben ohne Rücksicht auf die Erhaltung alles verzehrt, was sie überblicken.  Nun geht ihnen allmählich das Holz aus.		Unsere Spione haben erfahren, dass die schattenhaften Alchemisten des Infernos planen, das geschmeidige, robuste Fleisch der Dendroiden zu ernten.  Ihr müsst eure Armeen aufstellen und gegen die dunklen Lords marschieren, die in diese Region einfallen, um die Dendroiden-Dörfer an den Ufern dieses Flusses zu retten.  Viel Glück, und möge das Licht des Himmels auf dich scheinen.
+
+Name:
+Seuche - Gut
+Message:
+Die Seuche hat dieses Gebiet heimgesucht.  Die Druiden berichten, dass eine Art von Fäulnis die Bäume befallen hat.  Ein Heilmittel kann entdeckt werden, aber nicht für einige Zeit, aber vielleicht kann eines in einer der Inferno-Städte gefunden werden.
+
+Name:
+Seuche - Das Böse
+Message:
+Die Fäulnis, die unsere Bäume befallen hat, hat sich offenbar auch in dieser Region ausgebreitet.  Die Notwendigkeit, diese Dendroiden einzufangen, ist noch verzweifelter geworden.
+
+Name:
+Pest-Treffer
+Message:
+Die Pest hat wieder zugeschlagen.  Noch mehr Holz ist in den Silos verrottet.
+
+===== Heroes =====
+
+===== Objects =====
+
+(51, 17, 0) ***Quest Guard***
+Message:
+Niemandem außer den würdigsten Kriegern wird der Durchgang gewährt.  Ihr müsst zur Elite gehören, die über der 10. Stufe stehen, um dieses Gebiet zu betreten.
+
+(20, 45, 0) ***Event***
+Message:
+Die Winde sind wankelmütig, so wie es die Dendroiden oft sind.  Ihr müsst vorsichtig sein, denn viele sind euch gegenüber feindselig eingestellt.  Ihr müsst euch als würdig erweisen, damit sie euch ehren, indem sie in euren Streitkräften dienen.
+
+(24, 22, 0) ***Quest Guard***
+Message:
+Niemandem wird der Durchgang gestattet, außer den würdigsten Kriegern.  Du musst zur Elite gehören, die über der 10. Stufe steht, um diese Domäne zu betreten.
+
+===== End of file =====

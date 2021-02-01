@@ -1,0 +1,31 @@
+===== Map name =====
+Divide et Impera!
+
+===== Map description =====
+Man sagt, dass die Herrscher der Nachbarprovinzen Euch nicht trauen... Mehr noch, sie träumen davon, einen Teil Eures Landes zu bekommen! Natürlich verstehen Sie, dass dieses Problem nicht diplomatisch lösbar ist und die beste Verteidigung die Offensive ist.
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(32, 103, 1) ***Event***
+Message:
+Die Garnison wurde hier schon vor langer Zeit gegründet, zu Zeiten der Isolationspolitik. Seltsamerweise sind die Wachen an Ort und Stelle. Das ist für Sie natürlich kein Problem.
+
+(102, 11, 1) ***Event***
+Message:
+Garrison wurde hier vor langer Zeit gegründet, in den Zeiten der Isolationspolitik. Seltsamerweise sind die Wachen vor Ort. Für Sie ist das natürlich kein Problem.
+
+(97, 55, 1) ***Event***
+Message:
+Garrison wurde hier vor langer Zeit gegründet, in den Zeiten der Isolationspolitik. Seltsamerweise sind die Wachen vor Ort. Für Sie ist das natürlich kein Problem.
+
+(10, 40, 1) ***Event***
+Message:
+Hier wurde vor langer Zeit, zu Zeiten der Isolationspolitik, eine Garnison gegründet. Seltsamerweise sind die Wachen an Ort und Stelle. Für Sie ist das natürlich kein Problem.
+
+===== End of file =====

@@ -1,0 +1,105 @@
+===== Map name =====
+Caught in the Middle (Allies)
+
+===== Map description =====
+For years and years two of the kingdom's biggest landholders have been friends.  At least they were before they bet on who had the most land.  Now, neither of them will accept that they have less land, and they are at war.  Which leaves you caught in the middle.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Event - 1
+Message:
+It didn't take very long for the two biggest landholders in the kingdom to declare war.  One of them said he had the biggest estate, and the other disagreed.  For about an hour the insults flew back and forth.  Now they are at war.  Unfortunately, the only way for them to get at each other is through you.  Being caught in the middle isn't going to be fun.
+
+Name:
+Event - 2
+Message:
+To prepare for war you began cleaning out the dusty old castle, opening up wings that had not previously been used for some time now.  The maids were watched carefully just in case any of them decided to steal something of value hidden there.  It was a good thing you had placed guards, for they found hidden treasures your grandmother had squirreled away for a rainy day.  Guess it's raining.
+
+Name:
+Here ya go....
+Message:
+
+
+Name:
+Event - 3
+Message:
+It has become clear the two lords, Aurre and Nennia, are going to clear-cut their way through you and the other lords to prove themselves better than the other.  You can understand this reasoning from Lord Aurre: he has always been far off the deep end into the blackness of evil, but it does not make much sense for Lord Nennia to follow Lord Aurre so closely.  It may be your only chance to help Lord Nennia come to her senses.
+
+Name:
+Event - 4
+Message:
+Not knowing exactly how to help Lord Nennia, you send a message asking if she is at least willing to listen to what you have to say.  The message, "Lord Nennia, I know how proud you are of your family's accomplishments and how important it is to defend your family's honor.  Because of this I am willing to make peace with you and allow your troops safe passage through my lands.  This way you can defend your honor without causing harm to the peasantry in the way.  Please respond quickly."  Satisfied, you send the letter off and hope for the best.
+
+Name:
+Event - 5
+Message:
+So far she has not responded, and you know it could be any time now when the troops show up on your doorstep.  The idea of making peace with Lord Aurre is ridiculous because he would rather expand into your territory than make peace with you.  So you do not send him a letter, hoping instead the more powerful Lord Nennia can head him off.
+
+Name:
+Event - 6
+Message:
+At long last Lord Nennia has responded to your message.  It is not a kind note, and by the end of it you know you are doomed.  "I do not care to make such arrangements with you.  Word has it you have already made arrangements with Lord Aurre to get me into a vulnerable spot and then split my lands with him.  Since you have allied yourself with such an evil villain, I have no choice but to destroy you.  Prepare to meet your maker, forked-tongued devil."  Shaking your head, you file away the letter in hopes you will some day be able to read it again.
+
+Name:
+Event - 7
+Message:
+Lord Aurre has been posing a problem to you.  He demands you send supplies for him not to crush your town right away.  You really don't believe him, but with some of his scoundrels at your throat you pay them to leave you alone.  They leave for the moment, but you know the bullies will return soon.
+
+Name:
+Event - 8
+Message:
+With the two armies breathing down your door and the other two lords fighting for their own survival, people are getting rather stressed these days.  You even forgot your own son's birthday, something you have never done before.  With all that is going on it's a wonder you are even able to remember to get dressed right in the morning.  Then you look down and sigh heavily.
+
+Name:
+Event - 9
+Message:
+Four weeks of war have been dragging on you, and it is time to take a small respite.  You spend this morning in a hot bath with healing minerals and scented oils.  Refreshed and able to handle the day, you realize things just may be going your way.  One of the men found a map in an old camp.  Apparently Lord Aurre was searching for treasure to fund this little war.  Following the map's directions. you are able to dig up a little treasure and pay for some of the expenses.
+
+Name:
+Event - 10
+Message:
+Lord Nennia now wants nothing more than to make peace with you, but it is no longer necessary for you to do so.  After some time you've been able to take over quite a bit of lands and may win this war after all.  In the end it just might be you who has the most land - all of it.  The other lords posed no threat to you and fell under your banner quite quickly.  Lord Aurre is on the run, and maybe, just maybe, you can actually take it all.
+
+Name:
+Event - 11
+Message:
+Your mother calls and is extremely irritated.  You don't understand what she could possibly be upset about until you remember it's Mother's Day.  If something doesn't arrive at her place today she'll throw a fit the likes of which no one wants to see.  Hinting that something she's always wanted will arrive on her doorstep, you quickly rush around to gather up the jewels she has wanted and pay a little extra to have them delivered immediately.
+
+Name:
+Event - 12
+Message:
+Mom loved the jewels, and you're now on her good list.  You hope this means some home-baked pastries.  Instead, a lawyer shows up at your doorstep with some papers.  He explains your inheritance will be showing up in installments over the next five years.  Stunned, you sign the papers and then quickly spend the money you got today.  You can't wait for the next installment.
+
+Name:
+Event - 13
+Message:
+Your inheritance money arrived today.  Now you can put it to good use and end this war.
+
+===== Heroes =====
+
+===== Objects =====
+
+(13, 10, 0) ***Seer's Hut***
+Message:
+Some creatures are camped out near the monolith I need to use to get home.  Could you please clear them out of the area?  If you do, I'll let you have the 40 Golems I've created.  Of course, you'll have to figure out the activation word.
+I'm sorry, but I won't let you have the golems until my path home is safe again.
+Excellent!  I can go home now.  Here are the golems.  Good luck figuring out the activation word.
+
+(27, 46, 0) ***Seer's Hut***
+Message:
+Greetings.  I am Admiral Smirnov.  Some creatures have made off with my hat, and I can't very well go sailing without it.  At the time I was dr-, er, sick and unable to see who they were and which way they went.  All I know is they stole my Admiral's Hat, and I would pay handsomely for its return.
+Here is 10,000 gold as your reward for finding my Hat.  Will you please hand it over?
+
+(34, 38, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+a
+Message:
+a
+
+===== End of file =====

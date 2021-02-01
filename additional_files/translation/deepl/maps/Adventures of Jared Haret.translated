@@ -1,0 +1,122 @@
+===== Map name =====
+Die Abenteuer von Jared Haret
+
+===== Map description =====
+Kann Jared Haret, der berühmte Forscher, aus den dunklen Katakomben, in denen er sich verirrt hat, nach Hause kommen?
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Ereignis von Tag 1.
+Message:
+Ein Einsturz von hinten hat Sie vom größten Teil Ihres Goldes und Ihrer Armee abgeschnitten.  Zu allem Übel ist auch noch Ihre Karte verloren gegangen.  Nun, Jared Haret hat sich noch nie von Widrigkeiten unterkriegen lassen, und er wird sich auch jetzt nicht unterkriegen lassen. Schloss Haret oder der Untergang! 
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 10, 0) ***Event***
+Message:
+Endlich sehen Sie nach so langer Zeit die Sonne.  Sie jubeln, wie die meisten Ihrer Truppe, aber diese Reise ist erst zu Ende, wenn Sie endlich zu Hause sind.
+
+(8, 4, 0) ***Arch Mage***
+Message:
+Die Zauberer verkünden: "Tumlac sagt, niemand darf passieren, schon gar nicht du."
+
+(4, 18, 0) ***Alchemist***
+Name:
+Thenith
+Biography:
+Thenith ist Tumlac's zweiter Leutnant und ist ihm gegenüber absolut loyal.
+
+(5, 7, 0) ***Event***
+Message:
+Eine kleine Gruppe von Scharfschützen und Schwertkämpfern drängt sich an einem Lagerfeuer zusammen.  Diese Truppen waren einst Teil Ihrer Garnison; jetzt sind sie eine zusammengewürfelte Gruppe von Flüchtlingen.  Als sie zustimmen, sich Ihnen anzuschließen, schwören Sie, sie zu rächen.
+
+(27, 24, 0) ***Event***
+Message:
+Diese Engel wollen normalerweise in Ruhe gelassen werden, aber vielleicht können Sie sie "überzeugen", sich Ihrer Sache anzuschließen.
+
+(25, 9, 0) ***Event***
+Message:
+Schlechte Nachrichten!  Der oberste Schiffsbauer erzählt dir, dass der benachbarte Zauberer Tumlac dein Schloss eingenommen hat.  Es sieht so aus, als wäre es nicht das Ende dieses Abenteuers gewesen, an die Oberfläche zu gelangen.
+
+(6, 32, 0) ***Alchemist***
+Biography:
+Josephine ist Tumlac's erster Leutnant und sie ist ihm gegenüber sehr loyal.
+
+(31, 25, 0) ***Sign***
+Message:
+Willkommen auf Schloss Har-- Tumlac.  Harets sind auf dem Gelände nicht erlaubt.
+
+(31, 27, 0) ***Event***
+Message:
+Eine Gruppe von Banditen klettert aus den Bäumen, als du dich näherst. Du erkennst die meisten als treue Untertanen der Familie Haret.  "Wir haben uns schon zu lange versteckt, Mr. Haret.  Lasst uns unser Schloss zurückerobern und ein paar Tumlac in den Hintern treten", sagen sie, als sie sich zu Euch gesellen.
+
+(33, 23, 0) ***Castle***
+Name:
+Schloss Haret
+
+(9, 29, 0) ***Tower***
+Name:
+Schloss Tumlac
+
+(33, 24, 0) ***Wizard***
+Name:
+Tumlac
+
+(6, 33, 1) ***Knight***
+Name:
+Jared Haret
+
+(7, 31, 1) ***Infernal Troglodyte***
+Message:
+Die Troglodyten rennen los, um ihren Schatzhort zu schützen.
+
+(19, 32, 1) ***Event***
+Message:
+Ein verirrter Trupp von Schützen, der seit Tagen hier unten herumirrt, schließt sich Ihnen gerne an.
+
+(25, 7, 1) ***Event***
+Message:
+Sieht aus, als ob ein Einsturz den Durchgang nach links blockiert hat.  Hoffentlich war nichts Wichtiges dahinter.
+
+(16, 13, 1) ***Dragonbone Greaves***
+Message:
+Diese Beinschienen sind alt und haben viel Gebrauch gesehen (wahrscheinlich bevor ihr Besitzer getoastet wurde). 
+
+(16, 14, 1) ***Golden Bow***
+Message:
+Ein uralter Bogen liegt neben dem Skelett eines längst verstorbenen Elfen. Als Sie ihn nehmen, sprechen Sie ein kleines Gebet zu den Göttern, die er vielleicht angebetet hat.
+
+(25, 19, 1) ***Event***
+Message:
+Einige zusammengewürfelte Schützen und Kreuzritter, die von den Minotauren gefangen gehalten werden, beschließen, dass es klug wäre, sich Ihnen anzuschließen.
+
+(25, 26, 1) ***Equestrian's Gloves***
+Message:
+Den Krallenspuren auf diesen weggeworfenen Handschuhen nach zu urteilen, haben die Minotauren wohl versucht, sie anzuziehen, aber sie haben nicht ganz gepasst.
+
+(26, 25, 1) ***Event***
+Message:
+Eine zerlumpte Gruppe von Kreuzrittern und Scharfschützen, die von den Minotauren gefangen gehalten werden, schließt sich euch an.
+
+(15, 13, 1) ***Helm of the Alabaster Unicorn***
+Message:
+Dieser schöne, glänzende Helm scheint nur ein paar Brandspuren zu haben.
+
+(16, 19, 1) ***Event***
+Message:
+Ein kleiner Orden von Mönchen, die von den Minotauren gefangen gehalten werden, schließt sich Ihnen an.
+
+(28, 11, 1) ***Overlord***
+Name:
+Lothelen
+
+(30, 3, 1) ***Event***
+Message:
+Eine kleine Gruppe von Schwertkämpfern, die scheinbar verloren und verwirrt sind, schauen auf und winken, als Sie sich nähern.
+
+===== End of file =====

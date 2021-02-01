@@ -1,0 +1,75 @@
+===== Map name =====
+Insel des Staubs
+
+===== Map description =====
+Dieses tropische Eiland liegt seit Ewigkeiten in Asche, seit seine Drachenbewohner das üppige Land um den Krater in der Mitte verbrannt haben. Einige Abenteurer sind in dem einst schönen Land angekommen. Sie müssen furchtlos und tapfer sein, wenn sie den Schatz des glühenden Sandes für sich beanspruchen wollen.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Tag 1
+Message:
+Dies ist die legendäre Insel des Staubes, Heimat vieler Generationen von Drachen. Sie stehen am Ufer und bewundern das neu errichtete Fort, das als Basis für Ihre glorreichen Taten dienen wird. 
+
+Name:
+Tag 1.1
+Message:
+Sie müssen in der Tat ziemlich glorreich sein. In die Höhle der Drachen einbrechen, den Schatz von fünf Kontinenten ganz für sich beanspruchen und Ihre Klinge im kochenden Blut sieden lassen! Es gibt allerdings ein Problem: Deine Crew hat drei weitere Schiffe gesichtet, die auf die Insel zu segeln. Wer auch immer mit denen angekommen ist, muss dasselbe vorhaben. 
+
+Name:
+Tag 2
+Message:
+War es eine schlechte Idee, gleich nach der Ausschiffung in die Wüste zu stürmen? Die Küste ist trotz der verbrannten Mitte immer noch mit dichtem Bewuchs bedeckt. Diese Streifen tropischen Waldes werden von furchterregenden Biestern bewohnt. Es mag seltsam klingen, aber die Bestien scheinen bereit zu sein, Ihnen zu helfen, die Drachen zu besiegen. 
+
+Name:
+Tag 4
+Message:
+Die Späher sind aus der Wüste zurückgekehrt. Nicht alle von ihnen. Eigentlich haben diejenigen, die es geschafft haben, es kaum geschafft, und sie werden nicht in der Lage sein, in nächster Zeit zurückzukehren. Es wäre eine Sache, wenn sie mit Verbrennungen und von Drachenklauen zerrissen zurückkämen... aber sie haben noch schlimmere Nachrichten mitgebracht! In der Wüste wimmelt es bereits von Spionen, die von den drei Lords ausgesandt wurden, deren Schiffe Ihr vorhin erspäht habt.  	Die Drachen scheinen ihren Einfluss verloren zu haben, und neue Befestigungen haben sich aus dem Sand erhoben. Sieht aus, als würden sich die Kopfgeldjäger gegenseitig jagen... 
+
+===== Heroes =====
+
+===== Objects =====
+
+(75, 61, 0) ***Sign***
+Message:
+Nicht so schnell, o Reisender! Es könnte Ihr letzter Drink sein, bevor Sie in den Waste gehen.
+
+(26, 82, 0) ***Sign***
+Message:
+Nicht so schnell, o Reisender! Es könnte dein letzter Trunk sein, bevor du in den Abgrund fährst.
+
+(73, 26, 0) ***Sign***
+Message:
+Nicht so schnell, o Reisender! Es könnte dein letzter Drink sein, bevor du dich in den Waste begibst.
+
+(34, 28, 0) ***Sign***
+Message:
+Nicht so schnell, o Reisender! Es könnte dein letzter Drink sein, bevor du dich in den Waste begibst.
+
+(76, 84, 0) ***Seer's Hut***
+Message:
+Ich versuche, den Klonzauber zu meistern, aber ich habe nicht genug Freiwillige, an denen ich ihn testen kann. Wenn Ihr so freundlich wärt, mir, sagen wir, 48 der Schurken zu bringen, deren Wohnsitz im Westen liegt, würde ich diese Zahl gerne verdoppeln! 
+Ich nahm gestern ein Boot und wollte meinen Zauber an der Meerjungfrau dort ausprobieren. Das Ergebnis... nun, ich kann immer noch nicht ganz ein lebendes Wesen verdoppeln, aber ich denke, die Seeleute werden mit dem, was ich diesmal erreicht habe, zufrieden sein. Natürlich werde ich es besser machen, wenn Sie mir 48 Schurken bringen!
+Endlich ein paar Subjekte für meine Experimente! Ich schwöre, bis zum letzten Schurken werde ich jeden Fehler ausbügeln, und dann werde ich so viele machen, wie ich versprochen habe!
+
+(7, 87, 0) ***Seer's Hut***
+Message:
+Ich versuche, den Klonzauber zu meistern, aber ich habe nicht genug Freiwillige, an denen ich ihn testen kann. Wären Sie so freundlich, mir, sagen wir, 18 der Trolle zu bringen, deren Behausung im Norden liegt, ich würde diese Zahl gerne verdoppeln!
+Gestern bin ich an einer Mühle vorbeigekommen und habe beschlossen, mit dem Müllerhahn zu experimentieren. Ich habe jetzt genug Hühnerköpfe, um eine Suppe für den nächsten Monat zu kochen! Natürlich werde ich es viel besser machen, nachdem ihr mir 18 Trolle gebracht habt!
+Endlich ein paar Versuchsobjekte für meine Experimente! Ich schwöre, bis der letzte Troll übrig ist, werde ich jeden Fehler ausbügeln, und dann mache ich so viele, wie ich versprochen habe!
+
+(103, 65, 0) ***Seer's Hut***
+Message:
+Ich versuche, den Klonzauber zu meistern, aber ich habe nicht genug Freiwillige, an denen ich ihn testen kann. Wären Sie so freundlich, mir, sagen wir, 24 der Satyrn zu bringen, deren Wohnsitz im Norden liegt, ich würde diese Zahl gerne verdoppeln!
+Gestern habe ich mit einem Schwein experimentiert, das zufällig vorbeikam. Es hat jetzt zwei Köpfe und fünf Beine! Offensichtlich werde ich es besser machen, wenn du mir 24 Satyrn bringst!
+Endlich ein paar Versuchsobjekte für meine Experimente! Ich schwöre, bis zum letzten Satyr werde ich jeden Fehler ausbügeln, und dann mache ich so viele, wie ich versprochen habe!
+
+(27, 9, 0) ***Seer's Hut***
+Message:
+Ich versuche, den Klonzauber zu meistern, aber ich habe nicht genug Freiwillige, an denen ich ihn testen kann. Wären Sie so freundlich, mir, sagen wir, 48 der Wildschweinreiter zu bringen, deren Behausung im Norden liegt, ich würde die Zahl gerne verdoppeln!
+Gestern habe ich versucht, einige Kieselsteine zu klonen, die ich am Strand gefunden habe... sagen wir mal, es war kein erfolgreiches Experiment. Offensichtlich wird es besser, wenn Sie mir 48 Wildschweinreiter bringen!
+Endlich ein paar Probanden für meine Experimente! Ich schwöre, bis zum letzten Wildschwein werde ich jeden Fehler ausbügeln, und dann mache ich so viele, wie ich versprochen habe!
+
+===== End of file =====

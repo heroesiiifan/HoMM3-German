@@ -1,0 +1,71 @@
+===== Map name =====
+Golems Aplenty
+
+===== Map description =====
+The wizards to the south have finally left their valley after a millennium of experimenting with golems.  This leaves the local warring lords an opportunity to move in and grab the generators.  If you can become the first lord to amass enough golems, you will have a definite advantage. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Wizards to the South.
+Message:
+The wizards to the south are gone (probably tired of the fighting going on to the north of them).  It's time to take what they left behind and use it to defeat the other lords at war with you.
+
+Name:
+Hidden caches?
+Message:
+Rumors have it the wizards to the south had hidden caches of inactive golems they planned to use, but never did.  Finding them might be helpful, if they actually exist.
+
+Name:
+1001 ways to use a rusted golem.
+Message:
+You find an old dusty book in the cellar entitled "1001 ways to use a rusty golem". After reading the table of contents you decide its junk and sell it to a passing antique merchant for a couple hundred gold.
+
+Name:
+Rusted golems for sale.
+Message:
+A traveling merchant offers to sell you a thousand rusted golems, but you refuse.  What would you do with a thousand rusted golems anyway?
+
+===== Heroes =====
+
+===== Objects =====
+
+(2, 69, 0) ***Event***
+Message:
+In a small clearing you find a group of immobile Golems.  As you approach, they come to life and join your army.
+
+(40, 71, 0) ***Event***
+Message:
+In a small clearing you find a group of immobile Golems.  As you approach, they come to life and join your army.
+
+(65, 69, 0) ***Event***
+Message:
+In a small clearing you find a group of immobile Golems.  As you approach, they come to life and join your army.
+
+(19, 47, 0) ***Event***
+Message:
+In a small clearing you find a group of immobile Golems.  As you approach, they come to life and join your army.
+
+(36, 60, 0) ***Tower***
+Name:
+Meckinize
+
+(65, 47, 0) ***Event***
+Message:
+In a small clearing you find a group of immobile Golems.  As you approach, they come to life and join your army.
+
+(1, 48, 0) ***Event***
+Message:
+In a small clearing you find a group of immobile Golems.  As you approach, they come to life and join your army.
+
+(34, 45, 0) ***Arch Mage***
+Message:
+Looks like not all the wizards have left the area.  Some have been left behind; it seems to guard this university.
+
+(35, 46, 0) ***Sign***
+Message:
+Edmin's University - Come learn how to construct your own golem!
+
+===== End of file =====

@@ -1,0 +1,55 @@
+===== Map name =====
+Das große Ödland
+
+===== Map description =====
+Einst waren diese Ländereien voller Leben und blühten, bevor ein schief gelaufenes Experiment eines verrückten Alchemisten sie in ein verkohltes Ödland verwandelte. Die Lords, die das Unglück überlebt haben, wollen diesen Ort übernehmen, der zwar seltsam aussieht, aber immer noch voller Schätze ist. Sie müssen sofort handeln, um die
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Heroes =====
+
+===== Objects =====
+
+(6, 19, 0) ***Sign***
+Message:
+Begräbnisstätte.
+
+(49, 1, 0) ***Ocean Bottle***
+Message:
+Was wollt Ihr überhaupt mit dieser Flasche? Da ist nichts drin. Da Sie sowieso hier sind, sage ich Ihnen, der Gral ist in der Unterwelt.
+
+(2, 23, 0) ***Event***
+Message:
+Die Toten erheben sich aus ihren Gräbern und greifen an!
+
+(56, 21, 0) ***Pandora's Box***
+Message:
+
+
+(31, 68, 1) ***Sign***
+Message:
+Dangur! Raus hier!
+
+(32, 67, 1) ***Event***
+Message:
+Du wirst es bereuen, dass du geboren wurdest!
+
+(2, 7, 1) ***Zealot***
+Message:
+Möge das Licht Dich auf Deinem Weg leiten!
+
+(20, 57, 1) ***Sign***
+Message:
+Mögliche Wohnung des Erzengels
+
+(18, 64, 1) ***Sign***
+Message:
+Hier lebt ein berühmter Kartenmagier, auch ein Zauberer und ein Taschenspieler!
+
+(42, 29, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

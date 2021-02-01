@@ -1,0 +1,17 @@
+===== Map name =====
+Meeting in Muzgob
+
+===== Map description =====
+Once a year all of the leaders from each kingdom gather together at the town of Muzgob.  What the leaders discuss while they are there is unknown to everyone but them. Upon your leader's return he pulled you aside and in a very simple voice said, "Prepare for war!"
+
+===== Rumors =====
+
+===== Timed events =====
+
+===== Objects =====
+
+(55, 47, 0) ***Castle***
+Name:
+Muzgob
+
+===== End of file =====

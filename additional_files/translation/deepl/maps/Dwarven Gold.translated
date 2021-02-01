@@ -1,0 +1,112 @@
+===== Map name =====
+Zwergen-Gold
+
+===== Map description =====
+Der Zwergengold-Wahnsinn hat die Region erfasst, als Invis Smythers (bekannter Zwergen-Bergmann) den Jackpot knackte und eine Ader im Wert von 75.000 Goldstücken fand.  Die lokalen Lords haben begonnen, Expeditionen zu starten.  Der erste Lord, der 75.000 Goldstücke erwerben kann, gewinnt.
+
+===== Rumors =====
+
+Name:
+Es gibt immer noch große Adern.
+Text:
+Es gibt immer noch Goldadern im Wert von über 50.000 Goldstücken da draußen.
+
+Name:
+Zwergen-Schatzkammer.
+Text:
+Die Zwerge haben eine unterirdische Schatzkammer mit Tonnen von Schätzen im Wert von mehr als 150.000 Goldstücken.
+
+===== Timed events =====
+
+Name:
+Warnung.
+Message:
+Das Goldrauschfieber hat die Region erfasst, da in den unterirdischen Minen riesige Goldadern entdeckt wurden.  Späher berichten, dass die Zwerge ihr Gold sehr gut hüten können, seien Sie also gewarnt.
+
+Name:
+Goldgräber sind ein Ärgernis.
+Message:
+Eine Flut von armen Goldgräbern trifft in der Gegend ein.  Sie geben ihnen Gold, damit sie verschwinden, bevor sie die reiche Goldader finden, die Ihnen gehören sollte.
+
+Name:
+Goldfressender Gesteinsschleim.
+Message:
+Goldfressender Gesteinsschleim ist in Ihrem Lagerraum aufgetaucht und hat einen Teil Ihrer Gewinne aufgefressen.  Verflucht sei der Schleim!  Die Putzkolonne wird heute Abend Überstunden machen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(22, 18, 0) ***Dwarf***
+Message:
+Als die Zwerge angreifen, bemerken Sie, dass sie etwas von dem Gold der Mine in ihre Taschen gestopft haben.
+
+(28, 13, 0) ***Dwarf***
+Message:
+Als die Zwerge angreifen, bemerkt man, dass sie etwas von dem Gold der Mine in ihre Taschen gestopft haben.
+
+(8, 2, 0) ***Dwarf***
+Message:
+Als die Zwerge angreifen, bemerkt man, dass sie etwas von dem Gold der Mine in ihre Taschen gestopft haben.
+
+(9, 16, 0) ***Dwarf***
+Message:
+Als die Zwerge angreifen, bemerkt man, dass sie etwas von dem Gold der Mine in ihre Taschen gestopft haben.
+
+(18, 21, 0) ***Dwarf***
+Message:
+Als die Zwerge angreifen, bemerkt man, dass sie etwas von dem Gold der Mine in ihre Taschen gestopft haben.
+
+(32, 3, 0) ***Dwarf***
+Message:
+Als die Zwerge angreifen, bemerkt man, dass sie etwas von dem Gold der Mine in ihre Taschen gestopft haben.
+
+(28, 33, 1) ***Event***
+Message:
+Goldfressender Gesteinsschleim blubbert aus dem Boden und frisst einen Teil Ihrer Ressourcen.
+
+(13, 16, 1) ***Sign***
+Message:
+Zwergen-Schatzkammer.  Bleiben Sie draußen!
+
+(16, 35, 1) ***Gold***
+Message:
+Evil Eyes scheinen diesen großen Stapel abgebauten Goldes zu bewachen; wollen Sie versuchen, es zu nehmen?
+
+(11, 34, 1) ***Event***
+Message:
+Ein Einsturz versetzt Ihre Armee in Aufruhr.  Sie müssen eine kleine Gruppe von Bergbauzwergen anheuern, um alle Ihre Einheiten auszugraben.  Bei all dem Durcheinander nimmt der goldfressende Steinschleim auch einige Ihrer Ressourcen.
+
+(29, 5, 1) ***Event***
+Message:
+Goldfressender Gesteinsschleim sprudelt aus dem Boden und frisst einen Teil Ihrer Ressourcen.
+
+(14, 7, 1) ***Event***
+Message:
+Am Ende des Raumes glitzert Gold in der Wand.
+
+(34, 33, 1) ***Gold***
+Message:
+Eine kleine Armee von Zwergen erscheint plötzlich vor der Goldader und warnt, dass Sie durch sie hindurchgehen müssen, um das Gold zu holen.  Es sieht nach einer reichen, dicken Ader aus.  Wollen Sie gegen sie kämpfen?
+
+(3, 14, 1) ***Event***
+Message:
+Weitere Zwerge sprudeln aus dem Boden und greifen an.
+
+(4, 19, 1) ***Event***
+Message:
+Noch mehr Zwerge kochen aus dem Boden und greifen an.
+
+(8, 9, 1) ***Gold***
+Message:
+Eine kleine Armee von Zwergen taucht plötzlich vor der Goldader auf und warnt, dass man durch sie hindurchgehen muss, um sie einzunehmen.  Es sieht nach einer reichen, dicken Ader aus.  Wollen Sie gegen sie kämpfen?
+
+(10, 16, 1) ***Battle Dwarf***
+Message:
+Eine Armee von Zwergen stürmt auf Sie zu, um ihr Schatzgebiet zu schützen.
+
+(34, 6, 1) ***Gold***
+Message:
+Eine kleine Armee von Zwergen taucht plötzlich vor der Goldader auf und warnt Sie, dass Sie durch sie hindurchgehen müssen, um sie einzunehmen.  Es sieht nach einer reichen, dicken Ader aus.  Wollen Sie gegen sie kämpfen?
+
+===== End of file =====

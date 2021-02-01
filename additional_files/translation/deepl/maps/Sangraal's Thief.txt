@@ -1,0 +1,37 @@
+===== Map name =====
+Sangraal's Thief
+
+===== Map description =====
+After years of searching, you have finally found the Holy Grail, but last night one of your enemies stole it.  You must return the Grail back to the town from which it was stolen and build the grail structure.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+The sun shines brightly through your bedroom window waking you.  It is a good day, for last night, after seven months of searching, The Holy Grail has finally been found!  Today you will hire a fresh team of horses and a cart to retrieve it.		Your good spirits are suddenly shattered when your advisor bursts into your room in a panic.  "The grail!  It's gone!  Someone has stolen The Holy Grail!  The guards are all dead -- all of them.  We must take action at once!"		You quickly change out of your nightclothes and call a meeting.  In the meeting you order your wardens to keep their eyes open for anything suspicious looking.  An advisor tells you that the team of diggers has returned to the Grail site to look for clues to the thief's identify.  He then advises you to gather the town's troops and prepare to reclaim the Grail.
+
+Name:
+Day 3
+Message:
+A runner delivers a message from the team of diggers.  He reads, "We regret to inform you that the perfect crime has been committed.  We can find no traces of who may have stolen the Grail.  But we will keep searching for clues."		You send back a message: "Halt your investigation.  Go back to town and make ready to form a search party with me.  We will find this thief if we have to scour the entire continent."
+
+===== Heroes =====
+
+===== Objects =====
+
+(3, 24, 0) ***Pandora's Box***
+Message:
+
+
+(18, 59, 0) ***Pandora's Box***
+Message:
+
+
+(58, 47, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

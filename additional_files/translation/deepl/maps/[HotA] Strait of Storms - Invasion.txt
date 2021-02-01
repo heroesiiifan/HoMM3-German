@@ -1,0 +1,25 @@
+===== Map name =====
+Strait of Storms — Invasion
+
+===== Map description =====
+Precarious peace in the strait was broken by invasion of Elemental Lords. They have created a portal in the heart of the sea. And even though you have strengthened the approaches to the monolith, the enemy did not retreat. 
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+News
+Message:
+You became aware that planeswalkers did not come alone. They hired orcs, goblins, and other foreigners, so that they do all the dirty work for them.
+
+Name:
+catch
+Message:
+Pirates attacked your trade ships!
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

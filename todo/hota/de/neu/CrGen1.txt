@@ -5,16 +5,16 @@ Halle der Finsternis
 Drachengewölbe
 Übungsplatz
 Zentaurenställe
-Luftwesen-Konflux
+Altar der Luft
 Portal des Ruhms
 Zyklopenhöhle
 Verlassener Palast
 Schlangenfliegenstock
 Zwergenhaus
-Erdwesen-Konflux
+Altar der Erde
 Flammensee
 Hofstatt
-Feuerwesen-Konflux
+Altar des Feuers
 Brüstung
 Altar der Wünsche
 Wolfspferch
@@ -45,7 +45,7 @@ Werkstatt
 Wolkentempel
 Dendroidenhain
 Bau
-Wasserwesen-Konflux
+Altar des Wassers
 Seelen-Gruft
 Wyvernnest
 Zauberquelle
@@ -61,7 +61,7 @@ Magische Laterne
 Altar der Gedanken
 Scheiterhaufen
 Gefrorene Klippen
-Kristallkaverne
+Kristallhöhle
 Magischer Forst
 Schwefelbau
 Verzaubererhöhle

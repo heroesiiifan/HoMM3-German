@@ -1,0 +1,164 @@
+===== Map name =====
+Battle of the Sexes (Allies)
+
+===== Map description =====
+For ages men and women have lived in separate worlds, operating under different laws.  Now they are living in separate castles, openly fighting the battle of the sexes that started centuries ago.  Women have taken up the Red and Green Banners, and men have taken up the Blue and Tan banners.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+For Women Only
+Message:
+For centuries every society has known that womyn are far superior to men in every way.  Womyn have been responsible for raising the family and gathering almost all the goods.  Men may brag about bringing home dinner, but they rarely catch a thing and really spend most of their time bragging about big and tough they are.  For the most part they do no real work and are complete lazy slobs.  It is time to show them that womyn can beat them even in the art of war - the only thing they claim they're better at than womyn.
+
+Name:
+For Men Only
+Message:
+Women have become too uppity.  They are trying to get out of the kitchen and actually attempt to be equal to men.  They've gotten this idea in their heads they can live without us!  Nonsense!  They couldn't go three days without us.  Who would bring home dinner?  Who's going to kill spiders and other disgusting bugs?  They will crack in a few days, but this fight will prove once and for all that men are far superior.
+
+Name:
+M - 1
+Message:
+Life is good without women around.  It's been really quiet because there isn't anyone talking your ear off all the time.  You've been able to sleep past noon and stay up all night with your buddies.  No one has forced you to pick up after yourself, take out the trash, or wash.  So far, it's great.  Maybe this whole war thing wasn't such a bad idea after all.
+
+Name:
+F - 1
+Message:
+It has been a luxurious week.  The place is clean, truly clean.  There is no one to pick up after, no one who leaves smelly socks and dirty underwear all over.  Without men around you can enjoy a quiet dinner, read a book, listen to some music and enjoy life without the noxious odors they emit on a regular basis.  This has been the best move of your lifetime, and with any luck they'll be beaten into submission quickly so you can get on with the finer things in life.
+
+Name:
+M - 2
+Message:
+Independence is a wonderful thing.  So far you've been able to get the place looking the way you want it.  All of the barfy things she littered around the house have been smashed against the outside wall, and the pink frilly junk is in the trash.  Gone are the strange undergarments drying on the rack, and the sickly sweet smell of some purple flower you've never heard of has been replaced by nice, musky body odor.  Life is better than ever, and you never want that frilly, fast-talking idiot back in your house again.
+
+Name:
+F -2
+Message:
+Not having to wait on an overgrown baby has given you time to pursue other interests.  Meditation classes are going well, and you are exploring your inner self with great success.  Seems you are quite the diver and can easily dive from about forty feet and pull off some back flips these days.  You're hoping to learn how to do triple flips with a twist and get up to fifty-foot dives pretty quickly.
+
+Name:
+M - 3
+Message:
+This morning you were able to practice for the belching contest.  Last time they held one you were champ.  But the witch wouldn't let you belch anymore, so you've fallen out of practice.  No matter.   After a couple of really fizzy beers and a few days of solid practice, you'll be bringing the Belcher's Award home.
+
+Name:
+F - 3
+Message:
+The guest room has been left unfinished for some time now, and you really need to get moving on it.  Unfortunately, you were never that good at measuring - you always seemed to over estimate space, and that could get you into trouble while doing construction.  So you request several measuring rulers to be exact about construction.  Before getting started you order three books on construction, sit down and read them.
+
+Name:
+M - 4
+Message:
+Looking for something clean to wear, you found her backup supply of beauty products.  You never really understood why she bothered with all of this junk; it never did her any good.  Not to mention she'd force you to sleep on the couch every time you laughed when she wore the green gunk.  That gives you an idea, which just may make all this junk worthwhile.
+
+Name:
+F - 4
+Message:
+The guest room will have to wait until next week.  You have to pay child support.  So, you get things done quickly and spend a good portion of your day with the kids.  You take Onya and Thallan out for a long walk, go swimming and have a picnic.  They ask about the battles, and you describe how you defeated evil monsters and won glorious battles.  Of course, all the gory details are left out.  They are only twelve and ten, and such material is inappropriate for children of their age.
+
+Name:
+M - 5
+Message:
+All of her leftover junk has finally been put to good use.  The green stuff was used as Spackle, holding together some bricks.  (One of those Barbarians was able to break the wall down a bit with only his forehead.  He's so cool.)  The clear goo makes an excellent handle wax, keeping the wood from cracking due to dryness, and the greasy stuff oils all of the squeaky parts in your armor rather well.  For some reason the horses like the pink smelly stuff rubbed onto their hindquarters, but it's pretty nauseating so you haven't done that again.
+
+Name:
+F - 5
+Message:
+Now you are back at building the guest room and have discovered why you always had problem with math.  Your ex tried to convince you that this little bit, "---" was nine inches.
+
+Name:
+M - 6
+Message:
+A note came today with a package.  Hoping it's some home-baked cookies from mom, you're sorely disappointed when you find it's from the witch.  The note says, "Here's your useless junk back.  Burned the other stuff because it had fleas.  Please bathe.  I can smell you from here."  Getting really angry, you shout foul language for a while and finally unwrap the package.  The overwhelming stench of foot fungus causes you to wretch, adding odd colors and odors to your already overripe socks.  The whole thing gets burned down wind.  Smelling your pits, you decide it's time for the monthly bath.
+
+Name:
+F - 6
+Message:
+Ugh.  That disgusting man left his dirty laundry here.  And he has fleas!  Ever since you moved out he hasn't bathed, not even his monthly flea dip!  This is gross.  You take the clothes and burn them all, getting rid of all the fleas.  Then an idea strikes you, and you wrap his socks in a brown package with a note and shipped off.  Let him deal with the stench.
+
+Name:
+M - 7
+Message:
+Wanting to get back at her, you send all her broken things and half-empty bottles of gooey stuff back to her with a note attached.  "Here's your junk back.  Wasn't worth anything so I just tossed it into the box.  Tell me where to get some more of that Spackle.  It's really handy."  Grinning, you send the poor messenger off.
+
+Name:
+F - 7
+Message:
+A package arrives from him: it's broken bottles and knick-knacks.  You are about to get mad until you realize that since you left, his snoring hasn't kept you or anyone else awake.  Now the bags under your eyes are gone, and you've lost about ten years of aging - just from getting a good night's sleep.  Shrugging your shoulders, you drop the old part of yourself into the trash.  You should send him a thank you note.
+
+Name:
+M - 8
+Message:
+Her reply is pretty swift, which isn't unusual.  She was always quick to insult you but never was too quick on the uptake.  The note says, "I just used the junk between your toes as spackle.  You produced enough to mortar the whole castle."  You angrily toss the note into the fire.  You're fairly sure she's just insulting you but check out the mortar - just in case.
+
+Name:
+F - 8
+Message:
+You do send him a note, but it's not a thank you.  If he wants to use stuff as Spackle, then he should use the funk between his toes.  It always worked in the past.  Of course, you'll leave out the part about mint leaves and pine needles to get rid of the stink.
+
+Name:
+M - 9
+Message:
+A notice came today, along with the collector.  You forgot to pay your child support last month, and your parents are really mad at you.  They're watching the kids during this little feud, and you are supposed to pay child support every month.  So now you've got to cough up lots of cash in order to keep the collector from doing the ugly end of his job.
+
+Name:
+F -9
+Message:
+Now that the war is in full swing, you really don't have that much time to see the kids.  So you send the money and get a little gift for each of them, as well as a note saying how much you miss them.  You hope this war will end soon so you can get back to the important things in life.
+
+Name:
+M - 10
+Message:
+Seems the witch was right.  She actually used the junk between your toes as mortar.  So, you gather the junk from all the men and begin to mix up the mortar.  After the first hour, when it's time to heat the stuff, it really begins to reek.  Then the stench gets so bad you almost pass out.  One of the guys dumps a whole lot of mead into the mix, and the stench starts to dissipate.  That woman must have lost her sense of smell or something, cause this really stinks!  But it does work.
+
+Name:
+F - 10
+Message:
+You hear about the stink cloud he's making and laugh heartily.  The fool used mead to lessen the stink, but that only waters it down, creating a softer mixture.  The whole castle will fall down right around his ears!  This is going to be even funnier than the time it took him four days to get home from the lake.  Men never do two things: Read ask for directions or read them.
+
+Name:
+M - 11
+Message:
+Child support is due again, and after last month you've decided it's better to just give out the cash once a month.
+
+Name:
+M - 12
+Message:
+The mead in the mortar was a bad idea.  Yesterday, the pieces you put up started to fall down.  This caused several other chunks to fall down, and now you've got to dig out that old construction textbook and figure out how to do this.  That woman tricked you, and you'll get her back - with a sword in her belly!
+
+Name:
+F - 11
+Message:
+It was hysterical!  You saw the whole thing right through your telescope.  His castle started falling apart right around him!  Ah, the justice of it all.  Now the poor fool has to actually hire someone or make another pathetic attempt.  Maybe this time he'll actually use a book.  You wonder if he even knows how to read.  Doesn't matter.  With his castle in such a state this is a prime opportunity to attack.
+
+===== Heroes =====
+
+===== Objects =====
+
+(102, 6, 0) ***Seer's Hut***
+Message:
+If you will pay us 10 Mercury, Sulfur, Crystal and Gems to feed our families while we are gone, we'll join you to beat those foolish women into submission!
+Sorry, fella, our price still stands.  We don't come cheap, you know.
+Great!  Now we can make sure our families are taken care of and have some fun kicking some female butt!
+
+(99, 76, 0) ***Seer's Hut***
+Message:
+Those old Hags stole some of our stuff and drove us away from our home.  If you teach those old Harpy Hags a lesson, we'll join you.
+They're still there.  Can't get any peace with those nagging Hags flapping about.
+Great!  Those old Hags are finally gone.  Good riddance to nagging rubbish.  Do you want us to join now?
+
+(27, 2, 0) ***Seer's Hut***
+Message:
+Prove you are a worthy female warrior and we will join your cause.  Go and take the Badge of Courage from those worthless Swordsmen to the west of here.
+You are still not a worthy female warrior.  Do not come back until you are.
+Now you are a worthy female warrior.  We will join your cause if you will have us.
+
+(7, 89, 0) ***Seer's Hut***
+Message:
+There are some Barbaric Ogre males to the north of here. They have taken over the area near the Redwood Tree.  If you get rid of them, we will join your cause, for this will prove you are truly an independent womyn.  
+You still haven't proved you are a true womyn yet.
+You have gotten rid of those disgusting males, would you like us to join your ranks now?
+
+===== End of file =====

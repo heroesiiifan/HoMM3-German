@@ -1,0 +1,76 @@
+===== Map name =====
+Realm of Chaos
+
+===== Map description =====
+Good wishes to destroy Evil, the Neutrals just want everything for themselves, and Evil wants to destroy the world!  Of course, everyone has their own plans on how to accomplish their devious plans...
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+Each of your good neighbors has his own plans on how to destroy Evil.  Your opinions differ so much that fighting has broken out among your allies.  Show them who's boss, then rid the world of Evil!
+
+Name:
+Day 1
+Message:
+You thought you had found a comrade who would help you conquer the world's riches, but he seems to want to keep it all for himself.  Teach him a lesson, then get plundering!
+
+Name:
+Day 1
+Message:
+For many years you and your two vile neighbors have argued over how to conquer the world.  Realizing that no agreement could ever be reached, you have decided to simply eliminate your neighbors and launch your plan to conquer the world!
+
+===== Objects =====
+
+(20, 47, 0) ***Sign***
+Message:
+
+
+(9, 7, 0) ***Sign***
+Message:
+Just below the frozen lands lies the gateway to the underworld.  Long live the forces of Light!
+
+(66, 7, 0) ***Sign***
+Message:
+
+
+(48, 3, 0) ***Random Monster 3***
+Message:
+You see them playing with a sparkling necklace and decide you want it for yourself.
+
+(57, 62, 0) ***Sign***
+Message:
+This way for better troops.
+
+(46, 34, 1) ***Sign***
+Message:
+Trespassers will be slain on sight!
+
+(51, 65, 1) ***Sign***
+Message:
+Beware of pesky do-gooders.
+
+(9, 22, 1) ***Event***
+Message:
+A great battle was fought on this ground.  A knight of great goodness fought hard, and lost against the dark forces of evil.  With his dying breath he cursed the darkness.  To this day the ground holds closely to the curse.
+
+(23, 39, 1) ***Event***
+Message:
+As you enter this area you come across the land that gives this magical green underworld it's power.  This is the source of Shangri-La's power.
+
+(18, 43, 1) ***Sign***
+Message:
+500 gold piece fine for littering in Shangri-La.
+
+(18, 38, 1) ***Event***
+Message:
+An elf in a strange blue uniform pops out of the bushes just after you wipe guts off  your weapons.  He frowns sternly and says, "You were warned not to litter in Shangri-La.  It takes quite a bit of work to keep this area beautiful.  That will be a  500 gold piece fine."  Sheepishly you pay him.
+
+(23, 43, 1) ***Sign***
+Message:
+Welcome to Shangri-La.
+
+===== End of file =====

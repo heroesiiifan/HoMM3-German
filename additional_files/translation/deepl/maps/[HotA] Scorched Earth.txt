@@ -1,0 +1,61 @@
+===== Map name =====
+Scorched Earth
+
+===== Map description =====
+An eruption of a volcano forces you to halt extraction of resources on the island. The mines collapsed, burned down or were flooded with boiling lava. The only remaining source of supplies is the warehouses. Apparently, a neighboring lord is keeping an eye on them as well.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+ruins
+Message:
+The once fertile land lies in ruins. Mines collapsed after an eruption on the island. Our only hope lies in the warehouses. The goods accumulated there will help to recover our strength.	The trouble, as always, does not come alone: what was not destroyed by lava, was pillaged by pirates and vultures. Besides, the lord you struggled with for years decided to strike at your weakened army, hoping to seize the entire island. Negotiation is not an option. You must prepare for the battle.
+
+Name:
+Garrison
+Message:
+Remaining money was spent on paying thieves to man your distant garrison. Perhaps they will save us the hassle of unexpected guests for some time.
+
+Name:
+res
+Message:
+Resources
+
+Name:
+res2
+Message:
+More resources.
+
+Name:
+Dungeon
+Message:
+Rumor has it that some mines in the dungeons could have survived.
+
+Name:
+Mines
+Message:
+Surviving workers were able to somewhat clear up the rubble. Some of the extracted resources were recovered.
+
+===== Heroes =====
+
+===== Objects =====
+
+(35, 34, 0) ***Event***
+Message:
+As if it was not enough for pirates to plunder the island, they have also taken over the remains of a village.		It’s not the best idea to set a camp near the erupting volcano, but these guys seem to care little.	
+
+(67, 27, 0) ***Ocean Bottle***
+Message:
+You fished a bottle out of the water, but you found nothing more than some excellent rum inside. This one's to the pirate who lost it!
+
+(51, 15, 1) ***Pandora's Box***
+Message:
+
+
+(17, 51, 1) ***Pandora's Box***
+Message:
+
+
+===== End of file =====

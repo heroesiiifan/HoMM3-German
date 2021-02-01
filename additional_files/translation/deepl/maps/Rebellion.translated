@@ -1,0 +1,43 @@
+===== Map name =====
+Rebellion
+
+===== Map description =====
+Die Bauern revoltieren, gerade wenn man sie für einen Krieg braucht.  Die einzige Hoffnung auf Frieden liegt darin, den Gral zu finden.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro Teil 1
+Message:
+Während Sie und Ihre beiden Nachbarn sich auf einen Krieg vorbereiten, beginnt die Bevölkerung aller drei Nationen zu revoltieren, die sich nichts sehnlicher wünscht als ein Leben in Frieden, Harmonie und Liebe.  Diese Aufstände werden wahrscheinlich weitergehen, bis das Land unter einer Flagge vereint ist.
+
+Name:
+Intro Teil 2
+Message:
+Die Stadt Pleasanton liegt an der Kreuzung aller drei Nationen.  Sie sind überzeugt, dass die einzige Möglichkeit, das Land und die Menschen zu vereinen, darin besteht, die Stadt nicht nur zu halten, sondern den Gral dort dauerhaft unterzubringen.
+
+Name:
+Intro Teil 3
+Message:
+Das Problem ist natürlich, den Gral vor Ihren Gegnern zu finden.  Finden Sie den Gral und bringen Sie ihn zuerst nach Pleasanton, und die Menschen der drei Nationen werden Ihren Namen über Generationen hinweg feiern.
+
+===== Objects =====
+
+(36, 35, 0) ***Castle***
+Name:
+Pleasanton
+
+Timed events:
+
+Name:
+Aufstand!
+Message:
+Die Bevölkerung der Stadt ist unzufrieden mit Ihrer offensichtlichen Führungsschwäche.  Sie müssen viel Zeit und Ressourcen aufwenden, um die randalierenden Bürger zu beruhigen.
+
+(58, 48, 0) ***Event***
+Message:
+Diese trostlosen Einöden sind die Heimat der hartgesottenen Barbaren.  Die Überreste derer, die versucht haben, dieses Königreich zu erobern, liegen am Pass, um alle zu warnen, die versuchen würden, sie zu erobern.
+
+===== End of file =====

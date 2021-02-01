@@ -1,0 +1,108 @@
+===== Map name =====
+Shadow Valleys
+
+===== Map description =====
+Your valley is too small for one of your stature and ambition.  Fortunately, seizing your neighbors' lands will expand your holdings suitably.  Once you have destroyed all your neighbors in the valley, you can deal with the goody-two-shoes up on the mountain.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Your spies tell you your neighbors are plotting against you.  Fortunately for you, they are still only in the planning stages.  Unfortunately for them, your armies march today.
+
+===== Heroes =====
+
+===== Objects =====
+
+(62, 65, 0) ***Tower***
+
+Timed events:
+
+Name:
+Build Townhall
+Message:
+
+
+Name:
+Build Citadel
+Message:
+
+
+Name:
+Extra Income
+Message:
+
+
+(12, 7, 0) ***Tower***
+
+Timed events:
+
+Name:
+Build Townhall
+Message:
+
+
+Name:
+Build Citadel
+Message:
+
+
+Name:
+Extra Income
+Message:
+
+
+(22, 31, 0) ***Sign***
+Message:
+Sacred Ground
+
+(23, 31, 0) ***Event***
+Message:
+The earth spirits aid your cause... for a price.
+
+(48, 41, 0) ***Sign***
+Message:
+Soulless Ground
+
+(47, 41, 0) ***Event***
+Message:
+The spirits of the damned aid your cause... for a price.
+
+(57, 7, 0) ***Sign***
+Message:
+Boiling Ground
+
+(58, 7, 0) ***Event***
+Message:
+The spirits of heat amuse themselves by aiding your cause... for a small fee.
+
+(19, 71, 0) ***Sign***
+Message:
+Drowned Earth
+
+(18, 71, 0) ***Event***
+Message:
+The spirits of the drowned amuse themselves by aiding your cause... for a small fee.
+
+(11, 14, 1) ***Tower***
+
+Timed events:
+
+Name:
+Extra Income
+Message:
+
+
+(59, 60, 1) ***Tower***
+
+Timed events:
+
+Name:
+Extra Income
+Message:
+
+
+===== End of file =====

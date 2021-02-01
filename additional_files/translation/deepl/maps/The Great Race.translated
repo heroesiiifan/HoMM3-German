@@ -1,0 +1,62 @@
+===== Map name =====
+Das große Rennen
+
+===== Map description =====
+Die Hochzeit eines Adligen mit der Prinzessin, die er liebt, wurde abgesagt, weil ihr Vater eine schreckliche Prophezeiung befürchtet, die ihm ein böser Herrscher erzählt hat, der ebenfalls ihre Hand begehrt.  Der entsetzte Vater hat das Mädchen in einen Turm gesperrt, und nun ist es ein Wettlauf, ob der gute Edelmann sie retten kann.
+
+===== Rumors =====
+
+Name:
+Gehe zu allen Hütten der Seher
+Text:
+Um die Stadt in seinem Namen zu erobern, muss der Held alle Seherhütten besuchen.
+
+===== Timed events =====
+
+Name:
+Intro
+Message:
+Ein ehrenwerter Adliger war mit einer schönen Prinzessin verlobt, die er sehr liebte.  Ein böser Herrscher, der ebenfalls um die Hand der Prinzessin anhielt, wollte die Hochzeit jedoch unbedingt verhindern.  Er trat an den Vater mit einer schrecklichen (aber unwahren) Prophezeiung heran.  Wenn die Hochzeit wie geplant stattfindet, sagte der Fürst dem Vater, wird die Prinzessin ein Kind gebären, aber dieses Kind wird zu einem mächtigen Hexenmeister heranwachsen, der alle Königreiche des Landes stürzen wird.			Der Plan des Hexenmeisters, die Prinzessin für sich zu haben, ging nach hinten los.  Der entsetzte Vater sperrte das Mädchen in seinem sichersten Turm ein und verfügte, dass sie für immer allein und kinderlos bleiben sollte.  Trotz aller Bitten und Argumente sowohl des guten Edelmannes als auch des bösen Fürsten ließ sich der Vater nicht von seinem Entschluss abbringen; so sehr fürchtete er sich vor der Prophezeiung.		Nun sind sowohl der Edelmann als auch der Fürst entschlossen, das Mädchen von ihrem wohlmeinenden, aber getäuschten Vater zu befreien.  Leider ist die Suche des Edelmannes nach seiner Prinzessin doppelt schwierig, denn der böse Herrscher hat sich mit einem mächtigen Zauberer aus einer benachbarten Stadt verbündet.  Dieser Zauberer hat sich bereit erklärt, die Prinzessin mit einem Zauberspruch dazu zu bringen, sich in den bösen Fürsten zu verlieben - im Austausch für das Königreich ihres Vaters.		Jetzt ist es ein Wettlauf, die Stadt des Vaters zu erobern und die Prinzessin zu retten (oder zu verdammen).
+
+Name:
+Schließen Sie alle Seherquests ab
+Message:
+Ein Bote überbringt eine Nachricht von Ihren vertrauenswürdigen Beratern.  Sie lautet: "Mein Herr, wir haben Neuigkeiten über die Hütten der Seher erhalten, die im ganzen Land verstreut sind.  Um Eure wahre Liebe zu retten, müsst Ihr jede Aufgabe erfüllen, die Euch in jeder Seherhütte gegeben wird."
+
+===== Heroes =====
+
+===== Objects =====
+
+(37, 49, 0) ***Pandora's Box***
+Message:
+
+
+(22, 11, 0) ***Pandora's Box***
+Message:
+
+
+(25, 8, 0) ***Pandora's Box***
+Message:
+
+
+(2, 48, 0) ***Pandora's Box***
+Message:
+
+
+(8, 37, 0) ***Pandora's Box***
+Message:
+
+
+(53, 14, 0) ***Pandora's Box***
+Message:
+
+
+(26, 46, 0) ***Quest Guard***
+Message:
+Die Wachen hier erheben einen Wegzoll von allen Reisenden.  Für 25000 Goldstücke lassen sie Sie passieren.
+
+(19, 17, 0) ***Event***
+Message:
+
+
+===== End of file =====

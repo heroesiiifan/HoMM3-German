@@ -1,0 +1,20 @@
+===== Map name =====
+Too Many Monsters
+
+===== Map description =====
+Monsters have been attacking every town in the kingdom, so the king has offered an award to any lord who can plant their flag at every creature habitat so that the monsters will be forced to live under the rule of law.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day 1
+Message:
+Monsters are taking over this region.  Their numbers are quickly outgrowing their natural habitats, and now they are seizing new places to live by attacking our towns.   Your king is offering a reward of one million gold pieces to the first lord who can plant his flag at every creature habitat so that the monsters will be first to live under the rule of law.  There are three other lords out to claim the reward, but you are certain you shall be the one to save the kingdom.
+
+===== Heroes =====
+
+===== Objects =====
+
+===== End of file =====

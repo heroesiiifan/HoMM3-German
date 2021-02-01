@@ -1,0 +1,72 @@
+===== Map name =====
+Tale of Two Lands (Allies)
+
+===== Map description =====
+The continents of East and West Varesburg have decided to wage war one last time.  Securing the resources of your continent (with help from your ally) and then moving onto the other as quickly as possible is the best stategy for the battle of the Varesburgs.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+Day one event.
+Message:
+The Varesburg War is on!  Can you be the victor in the battle of two continents? 
+
+Name:
+Taxes
+Message:
+Increased taxes for the war effort yield extra resources.
+
+Name:
+Day of rest
+Message:
+The end of the month always signifies a day of rest in the Varesburg's.  Unfortunately that means no work is being done for the war effort and money is being lost.
+
+===== Objects =====
+
+(20, 14, 0) ***Sign***
+Message:
+West Varesburg- Northern End
+
+(104, 19, 0) ***Sign***
+Message:
+East Varesburg - North End
+
+(102, 124, 0) ***Sign***
+Message:
+East Varesburg - South End
+
+(35, 115, 0) ***Sign***
+Message:
+West Varesburg - Southern End
+
+(34, 78, 0) ***Sign***
+Message:
+West Varesburg University..because the price for freedom is knowledge.
+
+(95, 64, 0) ***Sign***
+Message:
+East Varesburg University, you pay and it pays to learn.
+
+(34, 67, 1) ***Quest Guard***
+Message:
+An old ghost of a guard states "Only the one with the experience of the Octopus or greater may pass"
+
+(40, 57, 1) ***Quest Guard***
+Message:
+An old guard states "Only one with the power and knowledge of the octopus or greater may pass" 
+
+(51, 57, 1) ***Quest Guard***
+Message:
+On old ghostly guard states "Only those with the strength and defence of the octopus or greater may pass"
+
+(116, 71, 1) ***Quest Guard***
+Message:
+An old ghostly guard states "You need a bakers amount of this in levels to pass"
+
+(109, 87, 1) ***Quest Guard***
+Message:
+An old ghostly guard states "Only the one with the experience of the Deco-Hydra may pass" 
+
+===== End of file =====
