@@ -1,7 +1,0 @@
-"{Temple of Loyalty}
-
-You pray in an unusual temple and suddenly feel it has strengthened your troops' resolve."
-(Mixed faction morale penalty negated until next turn)
-"{Temple of Loyalty}
-
-The prayer at the Temple of Loyalty helps to bring the troops together, however your army is united already."

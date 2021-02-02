@@ -1,0 +1,10 @@
+"{Wasserstelle}
+
+Sieht nach einem schönen Platz für eine Übernachtung aus. Morgen werden Ihre Truppen so frisch sein, wie sie es nie waren. Möchten Sie es für heute beenden?"
+(+1000 Bewegungspunkte am nächsten Tag für alle verbliebenen Bewegungen)
+"{Wasserstelle}
+
+Die Truppen sind im vollen Erholungsmodus. Keine Chance, sie vor morgen in Marschstimmung zu bringen."
+"{Wasserstelle}
+
+Die Tränke kann nur einmal pro Woche benutzt werden, und diese Woche war schon jemand hier."

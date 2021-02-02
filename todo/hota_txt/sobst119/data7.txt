@@ -1,6 +1,0 @@
-1024 # terrs msk
-0 # spec terrs msk
-3 # height
-6 # width
-8 # hexes count
-0 # draw under all (0 - no, 1 -yes)

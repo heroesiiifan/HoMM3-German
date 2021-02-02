@@ -1,3 +1,0 @@
-{Learning}
-
-Learning skill percentage is doubled.

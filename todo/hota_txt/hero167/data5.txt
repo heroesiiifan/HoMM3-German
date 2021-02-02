@@ -1,3 +1,0 @@
-{Crystal}
-
-Increases kingdom's crystal production by 1 per day.

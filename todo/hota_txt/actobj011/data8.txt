@@ -1,7 +1,0 @@
-"{Trailblazer} 
-
-""I know these wastelands like the back of my hand. Even if I haven't been somewhere, I'll figure out how to find the way. I suppose I could tag along with you for a week if you need a hand,"" says the man in this tent."
-(Reduces wasteland movement penalty by 50% until the end of the week)
-"{Trailblazer}
-
-""Hey, that's my tent. Better be sure it's not my fault we're running in circles,"" the trailblazer shrugs."

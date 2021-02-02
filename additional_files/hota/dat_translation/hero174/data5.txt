@@ -1,0 +1,3 @@
+{Navigation}
+
+Erhält einen Bonus von 5 % pro Stufe auf die Bewegungspunkte auf See.

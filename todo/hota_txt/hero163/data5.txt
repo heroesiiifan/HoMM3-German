@@ -1,3 +1,0 @@
-{Scouting}
-
-Increases Scouting radius by 1 for every 6 levels.

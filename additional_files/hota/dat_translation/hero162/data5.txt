@@ -1,0 +1,3 @@
+{Nymphen und Ozeaniden}
+
+Erhöht die Geschwindigkeit aller Nymphen oder Ozeaniden um 1 und ihre Angriffs- und Verteidigungsfertigkeiten um 5 % für jede Stufe (aufgerundet).

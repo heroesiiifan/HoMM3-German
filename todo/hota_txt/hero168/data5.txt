@@ -1,3 +1,0 @@
-{Fireball}
-
-Casts Fireball with damage increased by 3% for every n hero levels, where n is the level of the targeted creature.

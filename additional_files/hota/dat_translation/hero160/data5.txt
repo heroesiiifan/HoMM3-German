@@ -1,0 +1,3 @@
+{Gold}
+
+Erhöht das Einkommen des Königreichs um 350 Gold pro Tag.

@@ -1,3 +1,0 @@
-"{Town Gate}
-
-Visiting text."

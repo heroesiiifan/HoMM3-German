@@ -1,0 +1,6 @@
+"{See-Fass}
+
+Dieses Fass enthält weder Wasser noch Wein, sondern Schmuggelware."
+"{See-Fass}
+
+Dieses Fass ist mit Meerwasser gefüllt. Sie haben keine Ahnung, warum es noch schwimmt."

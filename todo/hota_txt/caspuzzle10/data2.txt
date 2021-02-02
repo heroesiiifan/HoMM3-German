@@ -1,1 +1,0 @@
-Survive by month %d, week %d, day %d.

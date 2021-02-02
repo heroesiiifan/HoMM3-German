@@ -1,3 +1,0 @@
-{Gold}
-
-Increases kingdom's income by 350 gold per day.

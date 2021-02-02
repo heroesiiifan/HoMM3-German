@@ -1,0 +1,14 @@
+Der Nymphen-Wasserfall dient zur Rekrutierung von Nymphen.
+Die Hütte dient zur Rekrutierung von Crewmitgliedern.
+Die Fregatte dient zur Rekrutierung von Piraten.
+Das Nest dient zur Rekrutierung von Sturmvögel.
+Der Turm der Meere dient zur Rekrutierung von Seehexen.
+Die Nix-Festung dient zur Rekrutierung von Nixen.
+Der Sog dient zur Rekrutierung von Seeschlangen.
+Der Aufg. Nymphen-Wasserfall dient zur Rekrutierung von Okeaniden.
+Die Aufg. Hütte dient zur Rekrutierung von Seemännern.
+Die Aufg. Fregatte dient zur Rekrutierung von Korsaren.
+Das Aufg. Nest dient zur Rekrutierung von Ayssiden.
+Der Aufg. Turm der Meere dient zur Rekrutierung von Zauberinnen.
+Die Aufg. Nix-Festung dient zur Rekrutierung von Nixenkriegern.
+Der Aufg. Sog dient zur Rekrutierung von Haspiden.

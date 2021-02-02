@@ -1,0 +1,5 @@
+"{Akademie für Seefahrt}
+
+Besuchstext."
+(Ausbildung von Sekundärfähigkeiten für 2000 Gold pro Stufe)
+(%s, %s, %s)

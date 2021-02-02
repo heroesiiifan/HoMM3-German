@@ -1,6 +1,0 @@
-"{Sea Barrel}
-
-This barrel is holding neither water nor wine, but rather some smuggled goods."
-"{Sea Barrel}
-
-This barrel is full of sea water. You have no idea why it is still afloat."

@@ -3,19 +3,19 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 
 ## Nutzung
 ### [HoMM3 Complete](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition)
-Dateien z.B. mit [MMArchive](https://github.com/GrayFace/Misc/) austauschen (nicht näher beschrieben -> nutzt Google).
+* Dateien z.B. mit [MMArchive](https://github.com/GrayFace/Misc/) austauschen (nicht näher beschrieben -> nutzt Google).
 
 ### [VCMI](https://vcmi.eu/)
-VCMI-Paket in Mods-Ordner (z.B. Mods/HoMM3_GER) extrahieren.
+* VCMI-Paket in Mods-Ordner (z.B. Mods/HoMM3_GER) extrahieren.
 
 ### [HoMM3 HD](https://sites.google.com/site/heroes3hd/)
-HD-Paket in "Heroes of Might and Magic III/_HD3_Data/Packs" (z.B. Packs/German) extrahieren.
-Die #de.ini in "Heroes of Might and Magic III/_HD3_Data/Lang" kopieren.
-Kampagnen in Maps-Ordner kopieren
+* HD-Paket in "Heroes of Might and Magic III/_HD3_Data/Packs" (z.B. Packs/German) extrahieren.
+* Die #de.ini in "Heroes of Might and Magic III/_HD3_Data/Lang" kopieren.
+* Kampagnen in Maps-Ordner kopieren
 
 ### [HotA](https://www.hota.acidcave.net/)
-Bei HotA die HotA.dat, HotA_ext.lod und HotA_l_ext.lod austauschen
-Maps in den Maps-Ordner kopieren
+* Bei HotA die HotA.dat, HotA_ext.lod und HotA_l_ext.lod austauschen
+* Maps in den Maps-Ordner kopieren
 
 ## Was braucht man?
 * Man muss im Besitz von Heroes 3 Complete sein (Retail oder GOG) -> Bitte besorgt euch die Originale, kostet ja fast nix mehr. 🙂
@@ -114,10 +114,14 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
   * avzaren3.def
   * Main-Menü-Icons (für HotA)
 * .DAT übersetzen (hota/txt)
+  * Ihr/Euch (Groß geschrieben)
 * Kampagnen HotA (Warte auf offiziellen Kampagnen-Editor)
 * Betrüger -> Umlaut Font BUG (Text innerhalb Stadt passt)
 
 ## Changelog
+### 1.4
+* HotA Data-Translation (teilw. optimiertes DeepL)
+
 ### 1.3
 * Übersetzungen der Einzelspieler-Szenarien durch [DeepL](https://www.deepl.com/translator)
 * SoD Kampagnen Einleitungstexte auf Deutsch.

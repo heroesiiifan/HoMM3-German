@@ -1,9 +1,0 @@
-2000 # cost
-9 # slot type (0 - none, 1 - head, 2 - shoulders, 3 - neck, 4 - right hand, 5 - left hand, 6 - torso, 7 - ring, 8 - feet, 9 - misc, 10 - ballista, 11 - ammo cart, 12 - first aid tent, 13 - catapult, 14 - spell book)
-2 # type (1 - none, 2 - treasure, 4 - minor, 8 - major, 16 - relic)
-0 # disabled as defaults (0 - no, 1 - yes)
-0 # add new spells (0 - no, 1 - yes)
-0 # attack bonus (_int8_)
-0 # defense bonus (_int8_)
-0 # spell power bonus (_int8_)
-0 # knowledge bonus (_int8_)

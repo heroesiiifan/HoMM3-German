@@ -1,3 +1,0 @@
-{Nix and Nix Warriors}
-
-Increases Speed of any Nix or Nix Warriors by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up).

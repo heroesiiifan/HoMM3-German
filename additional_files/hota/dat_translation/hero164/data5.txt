@@ -1,0 +1,3 @@
+{Seehexen und Zauberinnen}
+
+Erhöht die Geschwindigkeit aller Seehexen oder Zauberinnen um 1 und ihre Angriffs- und Verteidigungsfertigkeiten um 5 % für jeweils 5 Stufen (aufgerundet).

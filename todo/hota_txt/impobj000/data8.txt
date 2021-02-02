@@ -1,5 +1,0 @@
-"{Seafaring Academy}
-
-Visiting text."
-(Train secondary skills for 2000 gold each level)
-(%s, %s, %s)

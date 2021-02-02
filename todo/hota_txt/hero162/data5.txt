@@ -1,3 +1,0 @@
-{Nymphs and Oceanids}
-
-Increases Speed of any Nymphs or Oceanids by 1 and their Attack and Defense skills by 5% for every level (rounded up).

@@ -1,0 +1,3 @@
+{Balliste}
+
+Erhöht die Angriffs- und Verteidigungsfähigkeiten einer beliebigen Balliste um 5 % für jeweils 5 Stufen (aufgerundet).

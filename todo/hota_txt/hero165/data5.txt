@@ -1,3 +1,0 @@
-{Clone}
-
-Each battle the first cast of Clone spell summons 2 clones of target unit.

@@ -1,0 +1,3 @@
+{Hintergrundgeräusche}
+
+Wenn ausgeschaltet, werden die Töne zu Beginn eines neuen Tages, zu Beginn eines Kampfes und Kartenobjekttöne nicht abgespielt.

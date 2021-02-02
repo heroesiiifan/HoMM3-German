@@ -1,3 +1,0 @@
-{Ballista}
-
-Increases the Attack and Defense skills of any Ballista by 5% for every 5 levels (rounded up).

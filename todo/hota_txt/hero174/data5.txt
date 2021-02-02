@@ -1,3 +1,0 @@
-{Navigation}
-
-Receives a 5% per level bonus to movement points at sea.

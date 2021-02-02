@@ -1,0 +1,3 @@
+"{Mana-Altar}
+
+Besuchstext."

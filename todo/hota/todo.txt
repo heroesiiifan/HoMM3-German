@@ -12,16 +12,16 @@ Todo: Ohne Zeichen
 +			CrBanks.txt
 //			CREDITS.TXT
 +			CrGen1.txt
-			CRTRAITS.TXT
++			CRTRAITS.TXT
 +			Dwelling.txt
 +			EDITOR.TXT
 +			EDITRCMD.TXT
 +			GENRLTXT.TXT
-			HCTRAITS.TXT
++			HCTRAITS.TXT
 +			Help.txt
 +			HeroBios.txt
 			HeroSpec.txt
-			HOTRAITS.TXT
+//			HOTRAITS.TXT
 +			Monolith.txt
 //			ObjNames.txt
 +			randtvrn.txt

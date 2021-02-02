@@ -1,3 +1,0 @@
-{Offense}
-
-Receives a 5% per level bonus to Offense skill percentage.

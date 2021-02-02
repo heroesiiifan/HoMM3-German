@@ -1,0 +1,8 @@
+"{Hexenmeister-Labor}
+
+Besuchstext (nicht verwendet)."
+"Ressourcen können ineinander verwandelt werden, aber nur seltene. Wenn Ihr etwas umwandeln wollt, klickt auf die ursprüngliche und die gewünschte Ressource."
+"Der Vorgang war erfolgreich; hier sind Ihre neuen Ressourcen. Möchten Sie noch etwas transmutiert haben?"
+"Ressourcen für Transmutation"
+"Transmutieren: erhalten Sie %d %s %s von %d %s %s."
+Transmutieren

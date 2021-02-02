@@ -1,3 +1,0 @@
-{Cannon}
-
-Increases the Attack and Defense skills of any Cannon by 5% for every 6 levels (rounded up).

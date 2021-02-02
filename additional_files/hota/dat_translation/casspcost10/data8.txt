@@ -1,0 +1,11 @@
+Unbenutzt.
+Die Kneipe erhöht die Produktion von Crewmitgliedern um 4 pro Woche.
+Die Kneipe erhöht die Produktion von Seemännern um 4 pro Woche.
+In der Werft könnt Ihr Schiffe kaufen.
+Das Schießpulver-Lagerhaus ermöglicht es Ihnen, Seebären zu rekrutieren.
+Die Diebesgilde enthüllt zusätzliche Informationen über die Feinde in der Taverne.
+Die Grotte erlaubt es Ihnen, Kreaturen oder Artefakte im Tausch gegen Erfahrung zu opfern.
+Der Schlafplatz erhöht die Produktion von Sturmvögeln um 3 pro Woche.
+Der Schlafplatz erhöht die Produktion von Ayssiden um 3 pro Woche.
+Das Vorhandensein des Leitsterns erhöht die wöchentliche Kreaturenproduktion um 50 % und versorgt Ihr Königreich mit zusätzlichen 5000 Gold pro Tag.
+Das Ressourcensilo versorgt Sie mit zusätzlich +1 Schwefel pro Tag.

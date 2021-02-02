@@ -1,0 +1,3 @@
+{Crewmitglieder und Seeleute}
+
+Erhöht die Geschwindigkeit aller Crewmitglieder oder Seeleute um 1 und ihre Angriffs- und Verteidigungsfertigkeiten um 5 % für jeweils 2 Stufen (aufgerundet).
