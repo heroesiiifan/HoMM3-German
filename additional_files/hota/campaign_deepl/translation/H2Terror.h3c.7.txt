@@ -1,0 +1,111 @@
+===== Kartenname =====
+Die Gestade der Hölle
+
+===== Kartenbeschreibung =====
+Jeremy, Bidley und Casmetra müssen das Füllhorn einsammeln. Tark muss aus dem Gefängnis befreit werden, um das Szenario abzuschließen. Die maximale Heldenlevel-Obergrenze ist 18. Nach dem Sieg fahren Jeremy, Bidley und Casmetra mit dem nächsten Szenario der Kampagne fort.
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Tag 1-1
+Nachricht:
+Es war laut und schummrig beleuchtet im Black Mark, einem stinkenden kleinen Loch einer Taverne. Bidley saß in der Ecke und trank billiges Bier. Er hasste diesen Ort von ganzem Herzen, konnte aber nicht mit seiner alten Tradition brechen.		Die Tür öffnete sich, und ein Mann in einer grellen Jacke kam herein. Er hatte eine verblüffende Ähnlichkeit mit Bidley, obwohl er kleiner und schlanker war, und ihm folgte eine prächtig gekleidete und attraktive Frau. Der Mann näherte sich Bidley und rief fröhlich: "Aha, du alter Hund! Lange nicht gesehen! Wo hast du gesteckt?"	Bidley erhob sich und umarmte seinen Bruder.	"Du hast dich kein bisschen verändert - derselbe junge Trunkenbold, den ich früher kannte. Was ist denn los?"	"Ach, es ist nichts", sagte Jeremy mit einer Handbewegung, während er sich neben seine Begleiterin setzte. "Übrigens, das ist Casmetra, der Hohe Hydromancer."	"Bidley, Captain Bidley", erwiderte er.	"Es ist mir ein Vergnügen, Sie kennenzulernen, Captain. Ich habe schon viel von Ihnen gehört", sagte Casmetra.	"Ach, wirklich? Und was hat man Ihnen bis jetzt erzählt?", grinste Bidley und nahm einen Schluck von seinem verdorbenen Getränk.	"Ich habe gehört, dass Sie Xanthor, den Erzmagier von Catherine, gerettet haben."	Jeremy stieß einen Pfiff aus. "Meine Seele erschaudert! Du hast angefangen, für die Erathianer zu arbeiten, Bruder?" 	"Woher hätte ich denn wissen sollen, dass Xanthor in dieser Zelle sitzt?", brummte Bidley. "Er war eine Zeitverschwendung, noch dazu ein undankbarer Mistkerl. Jetzt geht das Gerücht um, dass ich für die Königin arbeite! Der Korsar Ihrer Majestät ..."	"Er war undankbar?" Casmetra fragte erstaunt.	"Nun, nicht ganz. Er erzählte mir eine Legende über etwas, das das Horn des Abgrunds heißt...."	"Unmöglich!", rief die Priesterin aus, und beide Piraten warfen ihr einen überraschten Blick zu.	"Was ist daran so besonders?", fragte Jeremy.	"Habt ihr schon einmal von der Klinge des Armageddon oder dem Mantel des Untoten Königs gehört?" Casmetra fragte aufgeregt. "Das sind legendäre Artefakte, von außergewöhnlicher Macht und absolut einzigartig! Das Horn des Abgrunds ist eines von ihnen. Es heißt, dass es vollständig und unversehrt irgendwo auf dem Meeresgrund liegt. Derjenige, der es findet, wird die Meere beherrschen - er wird die lebende Verkörperung des Wasserlords!"	"Interessant", murmelte Bidley. "Xanthor hat mir genau gesagt, wo das Horn liegt. Wenn es keine Lüge war, natürlich."	"Du kannst dir nicht vorstellen, wie wichtig dieses Wissen ist", flüsterte Casmetra und presste eine elegante Hand an ihre Wange.	"Gut, dann lass uns das Horn des Abgrunds suchen!", rief Jeremy.	"Nein, das ist zu riskant: Wir haben nicht genug Männer, Schiffe oder Ressourcen. Wir sind nur zwei Kapitäne mit einer Handvoll Seehunde an Bord", erwiderte Jeremys Bruder.	"Ihr habt auch mich, den Hohen Hydromancer, und meine Lehrlinge", fügte Casmetra hinzu. "Und ich weiß, wie wir alles bekommen, was wir brauchen. Wir müssen uns allerdings ein wenig anstrengen." 	"Übrigens, Jeremy", erinnerte sich Bidley plötzlich. "Ich hörte, du hattest einige Schwierigkeiten. Wie geht es der Black Unicorn?"		"Es ist ertrunken", antwortete Jeremy und lehnte sich in seinem Stuhl zurück.
+
+Name:
+Tag 1-2
+Nachricht:
+"Eeofols Ufer", kommentierte Bidley von seiner Position auf der Mauer des neuen Forts aus. Weit voraus konnte er die flimmernde Hitze und den Rauch sehen, der aus dem aschschwarzen Terrain aufstieg, wie ein eiterndes Geschwür auf Erathias Körper. Irgendwo dort drüben wimmelte es von Legionen schrecklicher Kreaturen, die durch das verbrannte Land auf die Länder der Menschen zu marschierten.	"Diese Bestien haben von allem genug", sagte Casmetra.	"Sie sind zu sehr mit dem Krieg gegen Erathia und seine Verbündeten beschäftigt, um uns zu bemerken. Wir werden die Reichtümer sammeln können, die wir brauchen, um uns das Füllhorn zu leisten."	"Wie bitte, was?", fragte Jeremy. 	"Das Füllhorn", wiederholte die Priesterin. "Wir werden Handwerker anheuern müssen, um die notwendigen Elemente des Artefakts herzustellen, und dann werden wir das Füllhorn benutzen, um eine Armee anzuheuern und unsere Flotte vorzubereiten. Allerdings hat dieses Artefakt einen Makel: Es erschöpft sich mit der Zeit und geht schließlich kaputt. Niemand kann mit Sicherheit sagen, wie lange es uns dienen wird."	"Woher wissen Sie das alles über das Füllhorn?" fragte Bidley.	"Es heißt, Archibald Eisenfaust habe ein solches Artefakt besessen. Es versorgte alle seine Armeen während des Krieges in Enroth. Einer der Gründe für seine Niederlage war, dass das Füllhorn nicht mehr funktionierte", antwortete Casmetra.	"Bei den Tiefen, Frau", grinste Jeremy, "wo hast du das alles über Archibald gelernt? Ich dachte, du hättest dein ganzes Leben lang auf dem Felsen im Meer gesessen."	"Das ist egal", antwortete Casmetra grimmig. "Meine Herren, wir haben etwas zu erledigen."
+
+Name:
+Tag 3
+Nachricht:
+Späher berichten von einem erathianischen Außenposten im Süden: Die Festung Carstrig. Es wäre gut, es einzunehmen und für unsere Bedürfnisse zu nutzen. Die Verteidiger des Forts hätten sowieso keine Chance gegen die Kreeganer.
+
+Name:
+Tag 4
+Nachricht:
+Eine Gruppe verängstigter Crewmitglieder stürmte in den Raum. "Käpt'n! Riesige Krokodil-Leute sind gerade an Land gegangen!"	Ohne zu zögern ergriff Bidley seinen Säbel und rannte los, um nachzusehen.	Tatsächlich lagen zwei große schuppige Kreaturen, die ein bisschen wie Echsenmenschen aussahen, schwer atmend am Ufer.	"Mich schaudert's!", rief Bidley aus, als er sich neben sie kniete. "Was sind das für Kreaturen?"	"Das sind Nix", erklärte ihm Casmetra, der sich von hinten näherte. "Eine uralte Meeresrasse von intelligenten Reptilien. Sie galten als ausgestorben. Vor langer Zeit war ihr Reich irgendwo hier in der Nähe. Irgendetwas muss sie dazu gebracht haben, wieder an die Oberfläche zu kommen. Ich bin sicher, wir werden noch mehr von ihnen sehen."	"Ich hoffe, sie haben gute Absichten", erwiderte Bidley.
+
+Name:
+Tag 7
+Nachricht:
+Mit jedem Tag kamen mehr Nix an. Es stellte sich heraus, dass viele von ihnen sprechen und sogar Waffen führen konnten. Sie erklärten, dass ihre alte Stadt auf einer felsigen Insel in der Nähe lag und dass sie von Dämonen belagert wurde. Als ihr Prinz, Tark, versuchte, die Belagerung zu durchbrechen, wurde er gefangen genommen. Tark wird als Geisel in einem kreeganischen Gefängnis irgendwo in der Nähe der Küste von Eeofol festgehalten. Bidley hat beschlossen, ihn zu retten: die Nix könnten wertvolle Verbündete werden.
+
+Name:
+Tag 9
+Nachricht:
+Casmetra hat ein Treffen zwischen sich, Bidley und Jeremy einberufen. 	"Ich habe düstere Nachrichten. Meine Spione berichten, dass die Kreeganer glauben, dass Catherine die Piraten angeheuert hat, um ihre Streitkräfte zu flankieren und zu hintergehen, deshalb verlegen sie einen Teil ihrer Nachhut an die Küste. Sie werden bald versuchen, uns von hier zu vertreiben. Je schneller wir das Füllhorn einsammeln, desto besser", informierte sie sie. 	"Blut und Donner! Das wird Wunder für meinen Ruf bewirken", murmelte Bidley missmutig. "Jeder verdammte Seebär wird denken, ich arbeite für Erathia, nur weil ich diesen Magier gerettet habe."	"Aber ist das nicht eine gute Sache, Bruder?", fragte Jeremy. "Rabatte in Tavernen, freier Eintritt in die größten Häfen des Königreichs! Das Einzige, worüber ich mir Sorgen mache, ist, wie ich genug Geld auftreiben kann, um diese Artefakt-Diebe zu bezahlen." 	"Wir können die Kreegans abschlachten und plündern. Wir sind schließlich Piraten!", rief Bidley aus, und Jeremy stimmte grinsend zu. 	"Ruf die Jungs zusammen! Wir werden bald Feuerdämonen in Seedämonen verwandeln."
+
+Name:
+Tag 15
+Nachricht:
+Ich war im Frachtraum und haderte mit einer Flasche Rum, als Patris auftauchte.	"Käpt'n, ich würde gerne mit Ihnen darüber reden, was hier los ist", sagte er.	"In Ordnung, ich höre zu", nickte ich.	"Es gefällt mir nicht, dass diese Frau Sie in all diese Schwierigkeiten hineinzieht. Warum riskieren Sie Ihren Hals bei der Suche nach dem Artefakt? Wir verlieren gute Männer im Kampf gegen diese Dämonen", sagte mein erster Offizier ernst.	"Es war unsere eigene Entscheidung", erwiderte ich, "niemand hat uns mitgeschleppt. Das Leben eines ehrbaren Piraten ist ein ständiges Risiko - das weißt du. Und übrigens, wir haben bald ein neues Schiff, ein wunderschönes - eine Fregatte! All diese Großmäuler in Regna werden ihre Zungen verschlucken." 	"In Ordnung, Käpt'n. Sie sind der Boss", stimmte Patris zu und ließ mich in Ruhe. Ich verstand nicht, warum er Casmetra so sehr mochte.
+
+Name:
+Tag 30
+Nachricht:
+Es sollte bedacht werden, dass die Kreeganer umso mehr Kräfte sammeln können, je länger wir zögern. Sie werden sehr bald eine tödliche Bedrohung darstellen. Wir müssen den Feind so schnell wie möglich angreifen!
+
+===== Helden =====
+
+===== Objekte =====
+
+(75, 68, 0) ***Schild***
+Nachricht:
+Teufelsbucht
+
+(8, 79, 0) ***Schloss***
+Name:
+Fort Kastrig
+
+(12, 81, 0) ***Schild***
+Nachricht:
+Fort Kastrig 
+
+(93, 0, 0) ***Schild***
+Nachricht:
+Gefängnistrakt
+
+(12, 60, 0) ***Hütte des Sehers***
+Nachricht:
+Grüße! Ich bin in der Lage, eine Quelle für unendliches Quecksilber zu erschaffen. Es wird Sie 90.000 kosten.
+Kein Deal. 90.000 und nicht ein Goldstück weniger!
+Wir sind uns einig. Ich werde mit der Arbeit beginnen.
+
+(30, 0, 0) ***Hütte des Sehers***
+Nachricht:
+Ich bin in der Lage, eine Quelle für unendliche Edelsteine zu schaffen. Es wird Sie 80.000 kosten.
+Kein Deal. 80.000 und kein einziges Goldstück weniger!
+Perfekt. Übergeben Sie das Geld und nehmen Sie Ihr Artefakt.
+
+(45, 43, 0) ***Cove***
+Name:
+Nyksas
+
+(29, 17, 0) ***Hütte des Sehers***
+Nachricht:
+Ich bin in der Lage, eine Quelle für unendlichen Schwefel zu erschaffen. Es wird Sie 90.000 kosten.
+Kein Deal. 90.000 und nicht ein Goldstück weniger!		
+Wir haben eine Abmachung. Ich werde mit der Arbeit beginnen.
+
+(92, 0, 0) ***Ereignis***
+Nachricht:
+Sieht so aus, als ob der Nix-Anführer hier festgehalten wird. Hoffen wir, dass er eine dankbare Kreatur ist.
+
+(11, 1, 0) ***Hütte des Sehers***
+Nachricht:
+Grüß Gott! Ich bin in der Lage, eine Quelle für unendliches Holz zu schaffen. Es wird Euch 30.000 kosten.
+Kein Deal. 30.000 und nicht ein Goldstück weniger!
+Wir sind uns einig. Ich werde mit der Arbeit beginnen.
+
+(65, 2, 1) ***Ereignis***
+Nachricht:
+Du kommst hier nicht so einfach raus - das ist eine Falle!
+
+(4, 8, 1) ***Inferno***
+Name:
+Zentrum
+
+===== Dateiende =====

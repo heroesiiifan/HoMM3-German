@@ -2,7 +2,7 @@
 
 Beim Betreten der Hütte sehen Sie niemanden zu Hause, aber die Wände scheinen mit Seiten aus gelehrten Büchern ausgekleidet zu sein. Ihr kopiert einige nützliche Informationen von einem Blatt neben dem Kamin."
 (Zufällige sekundäre Fertigkeitsverbesserung einmal pro Held)
-"{Einsidlerhütte}
+"{Einsiedlerhütte}
 
 Wenn Ihr die Hütte betretet, seht Ihr, dass keine Renovierungen vorgenommen wurden, seit dem Ihr das letzte Mal hier wart. Auf der Tapete sind immer noch die bekannten Schriftzüge zu sehen."
 "{Einsiedlerhütte}

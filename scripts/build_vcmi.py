@@ -34,6 +34,8 @@ for filename in os.listdir("additional_files/translation/bmp"):
 
 for filename in os.listdir("_tmp/def"):
     zipObj.write(os.path.join("_tmp/def", filename), arcname=os.path.join("content/sprites", filename))
+for filename in os.listdir("additional_files/translation/def"):
+    zipObj.write(os.path.join("additional_files/translation/def", filename), arcname=os.path.join("content/sprites", filename))
 
 for filename in os.listdir("additional_files/translation/txt"):
     zipObj.write(os.path.join("additional_files/translation/txt", filename), arcname=os.path.join("content/data", filename))

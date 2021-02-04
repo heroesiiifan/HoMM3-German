@@ -1,0 +1,338 @@
+===== Kartenname =====
+Auf der Suche nach dem Horn
+
+===== Kartenbeschreibung =====
+Bidley muss die Wächter des Horns des Abyss im unterirdischen Labyrinth besiegen. Die Mission ist verloren, wenn Bidley besiegt wird. Die maximale Heldenlevel-Obergrenze beträgt 24. Nach dem Sieg werden Jeremy und Casmetra zum letzten Szenario der Kampagne übergehen.
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Tag 1-1
+Nachricht:
+Es war eine gute Idee, ordentliche Vorbereitungen zu treffen, bevor man zum Horn aufbrach. Der Weg der Piraten verlief südlich von Tatalia, in Richtung einer Gruppe unbekannter Inseln. Entweder war es ein Zufall, oder jemand spionierte sie aus, aber sie trafen auf die königliche Flotte von Tatalia: zwei Fregatten und fast ein Dutzend kleinere Schiffe. Die kleineren Schiffe waren leicht zu versenken, aber sobald sich die Fregatten näherten, war klar, dass sie sich zurückziehen mussten. Bidleys Karavelle gab eine letzte Salve ab und begann, angetrieben von Rückenwind, die gefährliche Ecke zu flankieren. Jeremy war direkt dahinter, gefolgt von den Galeeren. Doch die tatalischen Fregatten verfolgten sie und zerfetzten ihre Segel mit Schrapnellen, in der Hoffnung, die waghalsigen Piraten aufzuhalten. Eines der feindlichen Schiffe holte auf und begann, die Galeeren zu versenken. Echsenmenschen mit Dolchen in den Zähnen sprangen ins Wasser und kletterten an Bord, um auf die Segel zuzusteuern und verwandelten das Deck in ein Blutbad.	Schließlich war nur noch eine Galeere übrig: Die von Patris. Es war das erste Mal, dass er als Kapitän das Kommando über ein Schiff übernahm. 	"Wir müssen die Tatalier sofort aufhalten", sagte Casmetra mit entschlossener Stimme. "Mit Magie."	"Werden sie Patris' Kombüse nicht verletzen?" Jeremy fragte alarmiert.	"Ich weiß es nicht. Was passiert, passiert", antwortete die Priesterin.	"Warte, wir können sein Leben nicht riskieren!", rief Jeremy.	Aber Casmetra hörte nicht zu. Mit einer eleganten Geste webte sie einen zerstörerischen Zauber, der Eisberge aus dem Wasser beschwor. Sie wuchsen schnell und zerstörten alles, was sich ihnen in den Weg stellte. Eis- und Holzbrocken regneten auf die Flotte der Piraten nieder. Die Fregatte der Tatalier wurde beschädigt und die Galeere wurde auseinandergerissen und auf einem aufsteigenden Eiszapfen aufgespießt.	Als die Zerstörung vorbei war, ging Casmetra in ihre Kabine. Jeremy stand noch eine Weile da und betrachtete den nun zurückweichenden monströsen Eisberg, der ihm das Leben gerettet, seinem Freund aber das Leben genommen hatte. Als Pirat hatte er immer gewusst, dass er früher oder später seinen Ersten Offizier und andere enge Freunde verlieren würde. Das ist das Risiko des Piratendaseins. Aber er hatte nicht erwartet, dass es heute passieren würde.
+
+Name:
+Tag 1-2
+Nachricht:
+Nach schweren Verlusten an Schiffen und Besatzung kam Bidleys verkrüppelte Flotte an dem von Xanthor markierten Ort an. Es war eine unbedeutende kleine Insel, die von zerklüfteten Bergen umgeben war. Die Worte "Insel der rachsüchtigen Schlange" waren von der Hand eines unbekannten Reisenden auf einen der Steine gekritzelt worden, die aus dem Wasser ragten.	"Ich sehe hier kein Horn", bemerkte Jeremy.	"Natürlich nicht, mein Freund! Das Horn befindet sich im Inneren des Schlangenlabyrinths, das sich unter der Erde befindet. Und nur ich weiß, wie man dorthin kommt", verkündete Casmetra, machte einen Schritt nach vorne und begann einen Zauberspruch zu sprechen.	Die Worte der Priesterin verwandelten sich in lodernde Zahlen und Buchstaben, die auf den Berg zuflogen und in ihm verschwanden. Als sie schließlich verstummte, ließen die Berge ein Dröhnen hören und eine Stimme wie das Klirren von Hammer auf Amboss erklang:	"Passwort bestätigt. Der Durchgang wird geöffnet."	"Was war das?", fragte Bidley ängstlich.	"Ich weiß es nicht", zuckte Casmetra mit den Schultern. "Man sagt, dass das Orakel von Enroth so ähnlich klingt."	"Tausend Teufel! Das ist ... unbeschreiblich!", rief Jeremy aus.		Ein unheilvoller schwarzer Gang öffnete sich zwischen den Bergen. Eine steinerne Leiter war darin zu sehen, deren Ende sich in der Dunkelheit verlor. Bidley nahm eine Pistole in die eine und einen Säbel in die andere Hand.	"Wir müssen äußerst vorsichtig sein", warnte die Priesterin. "Unten gibt es jede Menge Fallen und Illusionen."		Bidley nickte, und mit einer Schar treuer Seebären begann er, in die Dunkelheit hinabzusteigen. Gerade als Jeremy und Casmetra ihm folgen wollten, dröhnte die eiserne Stimme:	"Zweite Ebene des Schutzes negiert. Beenden des Zugriffs."		Der letzte Pirat wollte sich gerade umdrehen und herausspringen, aber die Berge schlossen sich direkt vor seiner Nase wieder. Jeremy schlug und trat verzweifelt gegen die Bergwand, aber nichts konnte den Durchgang wieder öffnen. Casmetra versuchte es noch einmal mit ihrem Zauberspruch, aber diesmal funktionierte er nicht.		"Verflucht! Ich habe meinen ersten Maat und meinen Bruder gleichzeitig verloren!", schrie Jeremy und schlitzte sich in seiner Wut die Handfläche mit seinem Säbel auf.	"Beruhige dich! Dein Bruder ist am Leben. Er befindet sich im Inneren des Labyrinths. Ob er rauskommt oder nicht, hängt von ihm ab!", sagte Casmetra und legte Jeremy die Hand auf die Schulter.	"Oh, das ist ja großartig. Und was hast du jetzt vor?", fragte Jeremy bösartig, ohne sich umzudrehen. 	"Ins Lager zurückkehren und auf Bidley warten. Ich bin mir sicher, dass es ihm gut gehen wird."
+
+Name:
+Tag 2
+Nachricht:
+Bidley landete mit einer kleinen Gruppe von Männern in einer Reihe von feuchten Höhlen. Seltsamerweise war der Ort nicht so dunkel, wie er zunächst ausgesehen hatte, denn die Höhlen wurden von einem seltsamen bläulichen Schein erhellt.	"Wohin, Käpt'n?", fragte einer der Seehunde. 	"Vorwärts", antwortete Bidley. "Wir verlassen diesen Ort mit dem Horn, oder wir verlassen ihn überhaupt nicht. Ich vertraue darauf, dass das Schicksal uns noch nicht aufgegeben hat."	
+
+Name:
+Tag 3
+Nachricht:
+Casmetra starrte in einen magischen Globus. Als Jeremy das sah, ging er um sie herum und versuchte, hineinzuschauen. 	"Vorsichtig! Du verwandelst dich noch in einen Frosch!", sagte die Priesterin.	"Ernsthaft?" rief Jeremy aus und sprang rückwärts. 	"Nein, das war nur ein Scherz. Aber die Frösche sind noch da."	"Was?", fragte der Pirat verwirrt.	"Tatalianer", erklärte Casmetra. "Ihre Flotte hat sich zurückgezogen, aber sie reparieren ihre Schiffe. Die Soldaten sind an der Küste und erholen sich. Bald werden sie den Mut aufbringen, uns wieder zu suchen, und sie werden versuchen, uns zu vernichten. Sie denken wahrscheinlich, dass Regna beschlossen hat, Tatalia zu überfallen." 	"Wir müssen sie irgendwie zurückhalten", sagte Jeremy. "Sonst wird Bidley in den Händen dieser Frösche enden."
+
+Name:
+Tag 17
+Nachricht:
+Ich nahm meinen Mut zusammen und rief Casmetra in meine Kabine. Die Priesterin betrat den Raum, ihre Robe rauschte leise, und warf mir einen fragenden Blick zu. Ich schaute ihr direkt in die Augen. "Casmetra, ich habe den Verdacht, dass du den Zauber gesprochen haben könntest, ohne die Galeere von Patris zu beschädigen." 	"Wie kommst du darauf?" Casmetra fragte mit überraschtem Blick. "Solche Zaubersprüche sind nicht leicht zu kontrollieren. Sie sind wie deine Pistole: Du kannst nicht genau wissen, wohin die Kugel fliegt, oder?"	"Patris war da. Ich habe den Konflikt zwischen dir und ihm bemerkt", beharrte ich.	"Was? Glaubst du ernsthaft, ich würde meine eigenen Lehrlinge und eine Handvoll hervorragender Soldaten verdammen, nur wegen eines mürrischen alten Mannes?" Casmetra stampfte mit dem Fuß auf den Boden, die Augen blitzten. 	"Ich ... es tut mir leid, daran habe ich nicht gedacht", erwiderte ich und setzte mich völlig verwirrt auf das Bett. "Es ist nur ... ich drehe mich immer wieder um diese Sache. Patris ist tot. Mein Bruder sitzt in der Unterwelt fest, und nur die Götter wissen, ob er da lebend wieder rauskommt. Ich habe mich jede Nacht betrunken, nur um etwas Schlaf zu bekommen."	Casmetra lächelte sanft und kam auf mich zu. "Du bist müde, Jeremy. Du musst eine Pause machen", sagte sie und streichelte mich mit ihren schlanken Händen. Ich muss zugeben, dass ihr Duft sehr angenehm war. 	"In der Tat, etwas Ruhe ist eine gute Idee", lächelte ich.
+
+Name:
+Tag 32
+Nachricht:
+Ich habe über Patris und sein Zuhause auf der weit entfernten Insel nachgedacht - das Zuhause, zu dem er niemals zurückkehren wird. Es ist möglich, dass jemand den Absturz überlebt hat, aber die Chancen sind ziemlich gering. Eines Tages werde ich diese Inselgruppe besuchen und Patris' Frau und Tochter finden - oder sie rächen, falls der dortige Gouverneur ihnen in irgendeiner Weise geschadet hat. Wir Piraten erfüllen immer den letzten Wunsch der Toten.
+
+===== Helden =====
+
+===== Objekte =====
+
+(2, 4, 0) ***Festung***
+
+Getimete Ereignisse:
+
+Name:
+Wachstum
+Nachricht:
+
+
+(87, 69, 0) ***Schild***
+Nachricht:
+Die Zwei Palmen Taverne
+
+(87, 68, 0) ***Rogue***
+Nachricht:
+"Hey Kumpel, hast du mal Feuer?"
+
+(98, 13, 0) ***Cyclops***
+Nachricht:
+Mal sehen, ob du es verdient hast, unsere Reliquie zu bekommen!
+
+(105, 6, 0) ***Mighty Gorgon***
+Nachricht:
+Muh!
+
+(69, 72, 0) ***Flaschenpost***
+Nachricht:
+Das große Dreieck ist das Alpha und Omega....
+
+(24, 100, 0) ***Flaschenpost***
+Nachricht:
+Jeder soll vor seinem Dreiecksauge knien....
+
+(35, 63, 0) ***Flaschenpost***
+Nachricht:
+Triange ist so dreieckig ... wie das Dreieck.
+
+(82, 35, 0) ***Flaschenpost***
+Nachricht:
+Das Ende von Quadraten und Ovalen ist nahe....
+
+(85, 21, 0) ***Zealot***
+Nachricht:
+Ameno, dorime....
+
+(104, 32, 0) ***Schild***
+Nachricht:
+Kaktusinsel
+
+(63, 61, 0) ***Gnoll***
+Nachricht:
+"Sie gehört uns, ganz uns! Verschwinde von hier, Fischliebhaber!"
+
+(99, 106, 0) ***Swordsman***
+Nachricht:
+"Du Piratenabschaum! Wir wickeln euch die Eingeweide um den Hals und hängen euch damit auf!"
+
+(56, 100, 0) ***Schild***
+Nachricht:
+Kerker der rachsüchtigen Schlange
+
+(104, 50, 0) ***Flaschenpost***
+Nachricht:
+Nimm das Dreieck in deine Seele auf und sei vergeben....
+
+(33, 57, 1) ***Minotaur King***
+Nachricht:
+Nighon wird über alles herrschen!
+
+(38, 102, 1) ***Ereignis***
+Nachricht:
+"Es ist eine Falle!"
+
+(105, 100, 1) ***Hütte des Sehers***
+Nachricht:
+Eine Meerjungfrau, die hier wohnt, sagte, sie habe eine wunderschöne Halskette gesehen, mit der sie sich schmücken kann. Sie befindet sich an einem Ort, der "Donnertor" genannt wird. Wenn du die Halskette zu ihr bringst, wird sie dir ihre Priesterinnensklaven zum Geschenk machen.
+Die Meerjungfrau deutet an, dass sich die Donnertore im westlichen Teil des Labyrinths befinden.
+Die Meerjungfrau bietet 10 Sklaven im Austausch für die Halskette an. Sie versichert Ihnen, dass diese Dienstmädchen sauber, ordentlich und der Magie mächtig sind.
+
+(104, 98, 1) ***Hütte des Sehers***
+Nachricht:
+Bidley sieht einen Schädel in der Wand. Als er sich ihm nähert, sagt der Schädel: "Füttere mich mit zwölf Edelsteinen, und ich werde dich alles lehren, was ich weiß."	
+"Nicht genug! Füttere mich mit mehr Edelsteinen!"
+"Na los, gib mir diese Edelsteine, und ich werde dir einige uralte taktische Tricks beibringen."
+
+(103, 88, 1) ***Hütte des Sehers***
+Nachricht:
+Hier lebt eine Meeresnymphe. Sie hat ihren Talisman verloren und bittet dich, ihn zurückzugeben. Sie verspricht, dir im Gegenzug ihre Haustiere zu geben.
+Die Nymphe schlägt vor, den Talisman im Westen ihres Hauses zu suchen.
+Die Nymphe ist bereit, Ihnen 12 trainierte Ayssiden im Austausch für den Talisman zu geben.
+
+(86, 5, 1) ***Ereignis***
+Nachricht:
+"Da ist dein Horn, es liegt in der Kiste. Nimm es, schnell!", sagte Dargem ungeduldig.
+
+(86, 4, 1) ***Pandoras Kiste***
+Nachricht:
+Ist das wirklich das {Horn} {von} {dem} {Abgrund}?
+
+(77, 64, 1) ***Nixe***
+Nachricht:
+"Wir grüßen den Freund unseres Prinzen!"
+
+(102, 89, 1) ***Crusader***
+Nachricht:
+Sieht so aus, als hätten sich diese Soldaten verirrt und nach langer Zeit des Umherirrens in diesen Höhlen auch noch den Verstand verloren.
+
+(45, 38, 1) ***Hütte des Sehers***
+Nachricht:
+Der Kobold, der hier lebt, versichert, dass er einen Gegenstand hat, den man unbedingt haben muss. Ein Mann weigerte sich, ihn zu kaufen, und er verwandelte ihn in einen Geist. Wenn Sie leben wollen, werden Sie diesen Gegenstand für 15 Quecksilber, 15 Schwefel, 5 Kristalle, 5 Edelsteine und 5000 Gold kaufen. Dies beinhaltet einen Rabatt von 15%, nur für Sie!
+Der Kobold fragt, ob Sie bereit sind, seinen wichtigen geheimnisvollen Gegenstand zu kaufen?
+Der Kobold reibt sich aufgeregt die Hände. Sie überreichen ihm Ihr Gold und andere Ressourcen und erhalten... Stiefel der Levitation!
+
+(9, 12, 1) ***Ereignis***
+Nachricht:
+Bidley näherte sich den Mauern eines baufälligen Gefängnisses, das aus etwas gebaut war, das wie ein Schiffswrack aussah. Eine Stimme kam durch die Tür: "Hey, Kumpel! Rette mich!"	"Ich bin nicht dein Kumpel", antwortete Bidley ruhig. "Sagen Sie mir zuerst, wer Sie sind und was Sie hier tun."	"Mein Name ist Dargem. Ich bin nur ein Magier, der zur falschen Zeit am falschen Ort war." 	"Sind das nicht deine Manuskripte, die ich auf dem ganzen Weg hierher verstreut gefunden habe?", fragte der Pirat. 	"Mein Tagebuch? Und ich habe mich schon gefragt, wo es geblieben ist! Ich wurde von einigen der verrückten Piraten, die sich hier herumtreiben, erwischt", antwortete der Gefangene.	"Waren Sie hinter dem Horn des Abyss her?" verlangte Bidley.	"Ja. Und Sie auch, nehme ich an - niemand kommt wegen der frischen Luft hierher."	"Und warum sollte ich einen Konkurrenten rauslassen?"	"Warten Sie!", flehte Dargem. "Lassen Sie mich raus! Ich bin kein Konkurrent für Sie! Ich brauche das Horn nicht, nicht mehr! Nimm es für dich, und mach damit, was du willst! Sprenge es, trinke Rum daraus, es ist mir egal. Aber ohne mich wirst du nicht in der Lage sein, die Illusionen zu bestehen."	"Welche Illusionen?" fragte Bidley alarmiert und trat näher an die Tür heran. 	"Einige der Seeschlangen, die Sie sehen werden, sind nicht echt. Aber ohne den magischen Zauber, den ich habe, werden Sie nicht in der Lage sein, die echten von den unechten zu unterscheiden", erklärte der Gefangene.	"In Ordnung, gehen wir. Du hast mich überzeugt."
+
+(6, 96, 1) ***Schild***
+Nachricht:
+Der Pfad der Toten
+
+(5, 56, 1) ***Haspid***
+Nachricht:
+Zweifellos sind dies die Wächter des Horns des Abgrunds. Es bleibt nichts anderes übrig, als sie zu töten.
+
+(7, 49, 1) ***Schild***
+Nachricht:
+Temple of the Abyss
+
+(75, 55, 1) ***Skeleton***
+Nachricht:
+Dies müssen die Überreste von glücklosen Suchern des Horns des Abgrunds sein.
+
+(43, 12, 1) ***Hütte des Sehers***
+Nachricht:
+Eine Meerjungfrauen-Zauberin wünscht sich eine Halskette aus Drachenzähnen. Sie verspricht, Sie einen sehr nützlichen Zauberspruch zu lehren.
+Die Meerjungfrau sagt, das Artefakt sei irgendwo nördlich von ihrer Heimat. 
+Die Meerjungfrau wird Ihnen im Austausch für das Artefakt Wissen über den Auferstehungszauber gewähren.
+
+(82, 102, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(77, 92, 1) ***Ereignis***
+Nachricht:
+Bidley fand ein verlassenes Floß mit einigen Essensresten und einigen Pergamentstücken, die wie eine Seite aus dem Tagebuch von jemandem aussehen.	"... kein Schuhwerk. Also musste ich meine Beine mit Leinentüchern umwickeln. Die Herrin sagte, dieses Labyrinth sei voller Schätze, abgesehen vom Horn selbst. Also werde ich mit etwas Glück ein paar magische Stiefel für mich finden. Wie auch immer, ich neige zu dem Gedanken, dass...."	Wie interessant! Jemand war schon einmal hier und hat auch nach dem Horn des Abgrunds gesucht. Hatte er Erfolg? Bidley nahm die Seite und setzte seine Reise fort.
+
+(85, 61, 1) ***Ereignis***
+Nachricht:
+Bidley fand eine weitere Pergamentseite, die auf der Wasseroberfläche schwamm.	"...zuletzt! Panik überwältigt mich in diesem Kerker. Ich habe nicht die geringste Ahnung, was ich tun oder wohin ich gehen soll. Ich hoffe, dass sich diese ganze Idee auszahlt. Ich bin goi...."
+
+(49, 28, 1) ***Ereignis***
+Nachricht:
+Eine weitere Seite aus dem Tagebuch.	"...nt hier. Das Gruseligste ist, dass das Labyrinth voller Verrückter ist, die sich hier schon seit wer weiß wie lange herumtreiben. Das ist zusätzlich zu den Wasserbestien und anderen verfluchten Kreaturen. Es ist Wahnsinn, wie viele tapfere Männer hier schon umgekommen sind. Werde ich unter ihnen enden? Die Aufgabe ist nicht leicht. Herrin hat mich vor den Fallen und Illusionen gewarnt, denen ich mich stellen muss. ...."
+
+(100, 25, 1) ***Ereignis***
+Nachricht:
+Eine Tagebuchseite, mal wieder.	"...mpossible! Dieser verdammte Ort! Sandra hat sich direkt vor meinen Augen in ein Monster verwandelt. Ich weiß nicht, was es war - ob es eine Illusion oder ein echter Fluch war -, aber ich musste sie töten, oder was auch immer es war, das sie geworden war. Ich habe fast alle meine Leute verloren. Oh Götter, ich war noch nie so unglücklich und so ahnungslos!"	
+
+(50, 103, 1) ***Ereignis***
+Nachricht:
+Es gibt keinen Weg zurück!
+
+(69, 36, 1) ***Ereignis***
+Nachricht:
+Eine weitere Seite aus dem Tagebuch: "Das ist das Ende. Fast alle sind tot. Ich bin nur knapp lebend davongekommen! Schreckliche Riesenschlangen... Ich habe noch nie solche Kreaturen gesehen. Diesmal war es keine Illusion. Das ist es, wovor mich meine Herrin gewarnt hat. Jemand rennt auf mich zu. Ich bezweifle, dass er nach dem Weg zur örtlichen Bibliothek fragen will. Ich muss mich auf einen Kampf vorbereiten. Wahrscheinlich meinen letzten. Bald wird sich niemand mehr an den bescheidenen Magier Da.... erinnern."
+
+(51, 106, 1) ***Crewmitglied***
+Nachricht:
+"Zu Euren Diensten, Captain!"
+
+(52, 105, 1) ***Corsair***
+Nachricht:
+"Hey! Wir finden doch einen Ausweg, oder?"
+
+(100, 62, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(88, 73, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(60, 71, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(80, 45, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(88, 39, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(104, 49, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(103, 39, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(106, 31, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(92, 26, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(85, 30, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(80, 34, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(66, 23, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(100, 9, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(103, 14, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(98, 15, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(60, 33, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(22, 19, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(58, 9, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(72, 7, 1) ***Ereignis***
+Nachricht:
+"Hinterhalt!"
+
+(0, 32, 1) ***Necropolis***
+Name:
+Limitless
+
+(19, 107, 1) ***Necropolis***
+Name:
+Grenzenlos2
+
+(94, 90, 1) ***Aufgaben-Wächter***
+Nachricht:
+Bidley sieht fünfzehn Vertiefungen in der Wand, die jeweils eine kristalline Form darstellen. Wenn man hier Kristalle mit passenden Formen einsetzt, wird sich die Wand wahrscheinlich öffnen.
+Sie setzen die Kristalle ein und die Wand beginnt zu wackeln. Wenn man sie anstößt, öffnet sie sich.
+
+(99, 63, 1) ***Aufgaben-Wächter***
+Nachricht:
+Nymphen bewachen diesen magischen Turm. Sie lassen Sie für 7000 Münzen passieren.
+Möchten Sie die Nymphen für den Durchgang bezahlen?
+
+(31, 4, 1) ***Aufgaben-Wächter***
+Nachricht:
+Es sieht so aus, als könne hier nur passieren, wer die richtigen magischen Worte kennt.
+Wer könnte die magischen Worte kennen?
+Dargem murmelt etwas und die magische Barriere verschwindet.
+
+(10, 71, 1) ***Aufgaben-Wächter***
+Nachricht:
+Eine riesige Masse von Schlangen schwankt und windet sich vorwärts! Vielleicht ist es nur eine Illusion, aber nur jemand mit magischen Fähigkeiten kann sie überwinden.
+Die magischen Worte müssen gesprochen werden.
+"Harrakk A'do Kallak'h Vek'tro"
+
+(87, 12, 1) ***Aufgaben-Wächter***
+Nachricht:
+Hunderte von Seeschlangen wirbeln das Wasser vor Ihnen auf! Vielleicht sind sie nur eine geschickt eingefädelte Illusion, wie Casmetra dich gewarnt hat.
+Die magischen Worte müssen gesprochen werden.
+Dargem stürzt sich ungestüm in die Masse der Schlangen und murmelt etwas in einer unbekannten Sprache. Augenblicke später verschwinden die Ungeheuer.
+
+(103, 5, 1) ***Aufgaben-Wächter***
+Nachricht:
+Der Geist eines Piratenkapitäns tauchte vor Bidley auf. Er zeigte auf seinen Kopf. "Mein Hut ... Ohne meinen Hut kann ich nicht ruhen!", jammerte der Geist.	
+Der Geist erschien erneut. "Ein paar Schurken haben mein Grab zerstört und meinen Hut ... meinen Hut genommen! Finde den Hut!" 
+Sobald der Hut in den Händen des Kapitäns war, verschwand er mit ihm.
+
+===== Dateiende =====

@@ -1,0 +1,100 @@
+===== Kartenname =====
+Gefangener der Verdammnis
+
+===== Kartenbeschreibung =====
+Bidley muss die Stadt Zargand einnehmen, um den Gefangenen der Barbaren zu retten. Die maximale Heldenstufengrenze liegt bei 12. Nach dem Sieg wird Bidley mit dem nächsten Szenario der Kampagne fortfahren.
+
+===== Gerüchte =====
+
+Name:
+Bier
+Text:
+Man sagt, dass die erathianischen Tavernen ihr Bier verwässern.
+
+Name:
+Kilgor
+Text:
+Kilgor fehlt ein Auge, weil es von einem Behemoth herausgerissen wurde.
+
+Name:
+Dämonen
+Text:
+Eeofols Armee bereitet sich auf einen Angriff auf Erathia vor!
+
+===== Getimete Ereignisse =====
+
+Name:
+Tag 1
+Nachricht:
+Bidley mochte die Küsten von Krewlod nicht - den Gestank der schmutzigen Ork- und Goblinkörper, ihre Hokuspokus-Sprache, ihr völliges Fehlen jeglicher Kultur, ihre Vorliebe für rohe Gewalt als Lösung für jedes Problem. Er bevorzugte die Lieder der erathianischen Barden, die Kunstwerke der elfischen Handwerker und die Weine von Jadame. All das hatte er zu Hause in Regna - entgegen dem weit verbreiteten Vorurteil, das Piraten fast für Barbaren hielt. Es stimmt, dass es unter den Jungen und Dummen viele niedere Typen gibt, und viele seiner Leute, die leicht in eine Gesellschaft von Krewlod-Schwadroneuren aufgenommen werden würden. Aber es gibt auch eine Menge intelligenter und zivilisierter Leute unter den Kapitänen und Admirälen.	Bidley verließ das Shark Chowder Inn und grübelte. Wenn dieser Trunkenbold Recht hatte und die Barbaren wirklich einen so mächtigen Zauberer gefangen genommen hatten, dann würden sich die Bracada-Zauberer sehr freuen, wenn er gerettet würde. Und das würde bedeuten, dass die Piraten nicht nur mit einer großzügigen Belohnung rechnen konnten, sondern auch das Recht bekämen, Schiffe in der Nähe der Küsten Bracadas zu plündern - solange sie die Zauberer nicht verletzten, versteht sich. Einen Versuch war es wert.	Die Barbaren hielten gerade ihr Fest des Lebens ab. Als gebürtiger Regnaer konnte Bidley die Feierlichkeiten nie wirklich verstehen. Herzog Boragus war tot, und der noch grausamere und gewieftere junge Barbarenfürst Kilgor nahm seinen Platz ein. Krewlod war immer am Rande der Anarchie, aber im Moment war es näher als sonst. Bidleys Flotte war weit weg, aber er brauchte sie nicht unbedingt. Stattdessen würde er ein paar kühne einheimische Burschen zusammentrommeln, eine der nächstgelegenen Krewlod-Festungen einnehmen und Zargand von dort aus angreifen. Die kunterbunten Stämme waren damit beschäftigt, sich gegenseitig grundlos niederzumachen; für ein paar Münzen würden sie gerne angreifen, wen auch immer er ihnen auftrug.	Bidley hielt einen Passanten an, der eindeutig kein Einheimischer war.	"Hey, Kumpel, wo ist die nächste Krewlod-Armeefestung?"	"Direkt nördlich an der Straße", antwortete der Fremde lakonisch, während er seinen Weg fortsetzte.
+
+Name:
+Tag 4
+Nachricht:
+Alles in allem, dachte Bidley, musste er sich beeilen. Früher oder später würde die Nachricht von ihren Aktionen die ohrenschmalzverstopften Köpfe der örtlichen Lords erreichen, und sie würden versuchen, ihre unwillkommenen Gäste aus der Gegend zu vertreiben. Aber durch schnelles und entschlossenes Handeln würden diese Fürsten gezwungen sein, sich zu ergeben und ihm bei der Belagerung von Zargand zu helfen. Sobald Kilgors Gefolgsleute eintreffen, würde natürlich jeder, der ihm geholfen hat, hingerichtet werden - aber diese Barbaren sind so prinzipienlos, dass sie früher oder später sowieso dafür bezahlen werden.
+
+Name:
+Tag 8
+Nachricht:
+Späher berichten, dass Krewlods Armee mehrere Festungen hält. Eine befindet sich im Südwesten, die andere im Nordosten. Das magische Gefängnis befindet sich im Nordwesten, aber es wäre töricht, sich ihm ohne eine starke Armee zu nähern. Man sollte auch bedenken, dass dieses Gefängnis jegliche Magie negiert.
+
+Name:
+Tag 11
+Nachricht:
+Bidley hatte letzte Nacht einen seltsamen Traum. Er träumte, dass er über das Meer segelte und durch das Wasser so klar und deutlich sehen konnte, als ob er über den Horizont blickte. Er konnte auch unter Wasser atmen. Was könnte das bedeuten? Waren das seine nostalgischen Erinnerungen an die Meere? Oder war es nur ein Traum?
+
+Name:
+Tag 18
+Nachricht:
+Ein Besatzungsmitglied rannte am Morgen zu Bidley und übergab ihm einen Brief, der spät in der Nacht angekommen war. Der Pirat war ziemlich überrascht - wer würde ihm einen Brief schicken? Aber nachdem er das Pergament ausgewickelt hatte, erkannte er die vertraute Handschrift. Er enthielt nur die folgende Nachricht:	 "Ich habe einige Probleme. Dein lieber Bruder J."	
+
+===== Helden =====
+
+===== Objekte =====
+
+(3, 5, 0) ***Burg***
+Name:
+Zargand
+
+(42, 28, 0) ***Burg***
+
+Getimete Ereignisse:
+
+Name:
+2
+Nachricht:
+
+
+Name:
+3
+Nachricht:
+
+
+Name:
+13
+Nachricht:
+
+
+(67, 37, 0) ***Hütte des Sehers***
+Nachricht:
+Hier lebt ein Priester. Er erzählt Ihnen von einer Meute lästiger Mumien. Da er nicht die Kraft hat, sie selbst zu vertreiben, bittet er Sie, die üblen Kreaturen zu vernichten.
+Die Mumien befinden sich östlich vom Haus des Priesters. Töten Sie sie und kehren Sie zurück.
+Der Priester ist dankbar, die Untoten los zu sein. Er verspricht, sein Wissen mit Ihnen zu teilen.
+
+(45, 36, 0) ***Ereignis***
+Nachricht:
+Bidley bemerkt die Spuren zahlreicher Wagen: Das Fort muss nahe sein. Jetzt gilt es nur noch, die Wachen zu überrumpeln.
+
+(54, 14, 0) ***Hütte des Sehers***
+Nachricht:
+Hier versteckt sich eine Bande von Korsaren. Ihr Anführer ist Jabarkas, Sohn des verstorbenen Herzogs Boragus. Nun gerät Jabarkas wegen des Todes seines Vaters immer wieder in wilde Wutausbrüche. Die Korsaren würden gerne einen neuen Anführer finden, aber nur, wenn ihr alter Anführer besiegt wird.
+Jabarkas ist noch am Leben und irrt irgendwo herum.
+Jabarkas' Armee wurde besiegt und er wurde in Schande gebracht; er wird sich für einige Zeit nicht mehr blicken lassen. Sind Sie bereit, die Korsaren in Ihre Armee aufzunehmen?
+
+(40, 38, 0) ***Hütte des Sehers***
+Nachricht:
+Hier leben zwei Zauberinnen. Sie erklären sich bereit, der Armee beizutreten und Euch mit Zaubersprüchen zu unterstützen - gegen eine kleine Gebühr, versteht sich.
+Sie verlangen 5 Edelsteine und 2000 Gold, nicht weniger.
+Ausgezeichnet! Die Zauberinnen sind bereit, sich Eurer Armee anzuschließen.
+
+===== Dateiende =====

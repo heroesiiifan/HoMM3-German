@@ -1,0 +1,104 @@
+===== Kartenname =====
+Teufel Sonnenaufgang
+
+===== Kartenbeschreibung =====
+Jeremy und Alkin haben sich zusammengeschlossen, um die Angriffe der Kreeganer auf der Insel abzuwehren. Um den Erfolg zu sichern, müssen sie eine geheime Dämonenbasis einnehmen. Sie kann erst eingenommen werden, wenn alle feindlichen Helden eliminiert wurden. Ihre Helden werden auf Stufe 18 begrenzt. Wenn Jeremy besiegt wird, ist das Szenario verloren. 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Tag 1
+Nachricht:
+Mit den Haudegen und den Einheimischen vereint, marschierte die Armee auf die Ostseite der Insel. Wir hatten gerade genug Mittel und Männer, um eine neue Festung auf eigene Faust zu errichten.	"Das hast du gut gemacht, Jeremy Gull", lobte mich Alkin. 	"Albatros. Es heißt Albatross", korrigierte ich entrüstet. "Wie gehen wir jetzt weiter vor?"	"Mein Stamm hat eine Siedlung im Osten. Ich habe nicht die ganze Zeit Flöhe gefangen, weißt du - die Befestigungen sind aufgebaut. Deine sind sicher nicht so gut, aber andererseits hast du ja auch nicht in der tatalischen Armee gedient", sagte Alkin neckisch.	"Das ist sehr beeindruckend, aber ich habe Schusswaffen statt Dreschflegel und Bögen", schoss ich zurück und zeigte auffällig meine Pistole in ihrem Holster. 	"Na gut, na gut. Wir brauchen alle Waffen, die wir bekommen können", schnauzte er gereizt. 	"Meine Späher haben mich informiert, dass zwei Armeen der Kreeganer an der Nordküste gelandet sind. Glücklicherweise werden sie es schwer haben, durch den Sumpf vorzudringen. Tatsächlich werden sie ein perfektes Ziel für Hinterhalte und plötzliche Angriffe sein", mutmaßte ich.	"Stimmt, aber sie haben mit Sicherheit auch anderswo Verstärkung. Und sie müssen eine geheime Basis für diese Verstärkung haben, kein Zweifel - ohne eine solche könnten sie ihre Operationen nicht fortsetzen. Ich schlage vor, wir finden diese Basis und plündern sie, wenn wir vorhaben, eine wiederkehrende Bedrohung zu beseitigen. Aber das Wichtigste zuerst, wie Sie bereits erwähnt haben, müssen wir uns um die unmittelbare Bedrohung durch diese feindlichen Armeen auf der Insel kümmern. Bist du mit diesem Plan einverstanden, Verbündeter?" fragte Alkin und reichte mir seine Hand ... oder Pfote? Ich habe keine Ahnung, wie sie ihre Gliedmaßen nennen.	Ich schüttelte sie, obwohl es sich seltsam anfühlte, die Hand von jemandem zu schütteln, der kein Mensch war. "Gut", nickte Alkin. "Ich werde zu meiner Armee zurückkehren und wir werden versuchen, die Siedlung weiter zu verstärken. Das Wichtigste ist, dass die Kreeganer nicht genug Kreaturen versammeln, um entweder Ihre oder meine Festung einzunehmen. Wenn das passiert, ist das der Anfang vom Ende."
+
+Name:
+Tag 2
+Nachricht:
+Trotz der Tatsache, dass unser neues Fort fertig war, gab es keine Zeit, untätig zu sein. Es gab überall auf der Insel Kreegans. Wir mussten sie daran hindern, ihre Verstecke zu erreichen, wo sie Waren von Spähern gelagert hatten.	"Patris!" Ich rief meinen Maat.	"Ja, Käpt'n?" 	"Wir müssen die Verstecke der Dämonen finden und plündern. Kriegst du das hin?" 	"Ich fürchte, ich wüsste nicht, wo ich anfangen sollte", sagte Patris mit gerunzelter Stirn. 	"Das ist schon okay. Nehmen Sie zuerst ein paar gute Männer und überfallen Sie eine Karawane der Kreeganer. Wenn ihr Glück habt, führt euch das zu ihren Verstecken." 	"Ah, ja, in der Tat, Cap'n, ich habe ein Gespür für so etwas!" Patris' Gesicht leuchtete auf. "Ich werde sofort mit den Vorbereitungen beginnen. Ich werde Diego und Erik mitnehmen; diese Jungs sind schärfer und mutiger als die meisten."	"Das höre ich gern!"
+
+Name:
+Tag 7
+Nachricht:
+Patris' Guerilla-Aktivitäten haben sich als fruchtbar erwiesen. Er hat es geschafft, einige Kreegan-Karawanen zu berauben und hat die Ressourcen zu unserer Festung geschickt.
+
+Name:
+Tag 9
+Nachricht:
+Eine Notiz von Alkin trifft ein:	"Ich vermute, dass sich die geheime Dämonenbasis unter der Erde befindet. Jede Woche tauchen Horden von Kobolden von unten auf. Sie werden die Insel überschwemmen, wenn sie nicht aufgehalten werden. Wie ursprünglich geplant, müssen wir uns weiterhin darauf konzentrieren, die nahe gelegenen Kreegan-Armeen zu besiegen, und dann müssen wir ihre Basis ausfindig machen. Meine Späher berichten, dass sie mehrere Devils haben - die Elite-Bestien der Kreeganer. Selbst dein Sprengpulver-Spielzeug wird dich nicht vor denen retten, also sei vorsichtig, Freund."
+
+Name:
+Tag 15
+Nachricht:
+Patris berichtet, dass er ein tief im Dschungel verstecktes Dämonenversteck gefunden und geplündert hat. Hervorragende Arbeit! Ich frage mich, wer er war, bevor er ein Pirat wurde. 
+
+Name:
+Tag 32
+Nachricht:
+Wir haben die Kreeganer jetzt über einen Monat lang abgewehrt. Sie haben wohl nicht mit einem so erbitterten und organisierten Widerstand von Wilden gerechnet. Trotzdem rücken die Koboldhorden weiter vor, ohne ein Zeichen des Nachlassens. In letzter Zeit bin ich neugierig auf Alkin geworden. Was macht ein tatalianischer Sergeant auf dieser gottverlassenen Insel? Das muss ich ihn fragen, vielleicht wenn dieser Krieg vorbei ist.
+
+===== Helden =====
+
+===== Objekte =====
+
+(59, 54, 0) ***Hütte des Sehers***
+Nachricht:
+Hier lebt ein alter Goblin. Er behauptet, dass er einst ein mächtiger Krieger mit heftigen Angriffsfähigkeiten war. Vor kurzem wurde seine geliebte Wölfin von Dämonen getötet, und er ist zu schwach, um sie zu rächen. Er bietet an, alles, was er weiß, weiterzugeben, wenn wir die Dämonen für ihn erschlagen.
+Der Kobold weigert sich zu sprechen, bis sein Wolf gerächt ist.
+Die Dämonen sind nun besiegt und der alte Goblin sieht begeistert aus, als er anbietet, sein Wissen über den Kampf zu teilen.
+
+(16, 59, 0) ***Halfling***
+Nachricht:
+"Kreegans plündern, Piraten plündern! Was können arme Hobbits tun?"
+
+(61, 1, 0) ***Ereignis***
+Nachricht:
+Vor Ihnen liegt ein großes, geheimnisvolles Fort, das von Statuen seltsamer echsenartiger Kreaturen geschmückt wird. Ein Risiko eingehen und hineinschauen? Vielleicht nicht?
+
+(47, 60, 0) ***Cove***
+
+Getimete Ereignisse:
+
+Name:
+Einheiten
+Nachricht:
+Eine Gruppe von Banditen nähert sich dem Fort. Sie sagen, sie hätten einst in einer erathianischen Garnison gedient. Als Gegenleistung für eine Unterkunft sind sie bereit, im Kampf zu dienen, wenn sie mit Waffen versorgt werden.
+
+(2, 42, 0) ***Festung***
+Name:
+Wetmoore
+
+(26, 52, 0) ***Ereignis***
+Nachricht:
+Ein großer Troll steht vor uns.		"Hey ihr. Der Pass ist nicht umsonst. Ja, zahlt jetzt, zehnmal hundert Münzen!", fordert er und faltet seine knorrigen Finger zu einer Faust. 	"Wie wäre es mit einem Mal Säbel zwischen die Augen?" Ich fragte. 	"Hehe!", grinste der Troll. "Dat kannste machen. Aber ich bin schlau. Ich hier, Brüder unter Brücke. Wenn ich sterbe, explodieren die Brüder im großen Fass, und du stirbst mit der Brücke!" 	"Du fetter Gauner", spuckte ich und händigte widerwillig das Geld aus.
+
+(15, 69, 0) ***Ereignis***
+Nachricht:
+Eine Seehexe bietet der Piratencrew ihre Dienste an.
+
+(23, 10, 1) ***Aufgaben-Wächter***
+Nachricht:
+Die Basis ist von einem Kraftfeld umgeben. Es sieht so aus, als bräuchte man den Stab von einem der Kreegan-Warchiefs, um es zu durchqueren.
+Es gibt keine andere Möglichkeit, die Sperre zu entfernen.
+Wir haben den Stab! Wir können das Kraftfeld jetzt entfernen.
+
+(23, 11, 1) ***Aufgaben-Wächter***
+Nachricht:
+Die Basis ist von einem Kraftfeld umgeben. Es sieht so aus, als bräuchte man den Stab von einem der Kreegan-Warchiefs, um es zu durchqueren.
+Es gibt keine andere Möglichkeit, die Sperre zu entfernen.
+Wir haben den Stab! Wir können das Kraftfeld jetzt entfernen.
+
+(23, 12, 1) ***Aufgaben-Wächter***
+Nachricht:
+Die Basis ist von einem Kraftfeld umgeben. Es sieht so aus, als bräuchte man den Stab von einem der Kreegan-Warchiefs, um es zu durchqueren.
+Es gibt keine andere Möglichkeit, die Sperre zu entfernen.
+Wir haben den Stab! Wir können das Kraftfeld jetzt entfernen.
+
+(23, 13, 1) ***Aufgaben-Wächter***
+Nachricht:
+Die Basis ist von einem Kraftfeld umgeben. Es sieht so aus, als bräuchte man den Stab von einem der Kreegan-Warchiefs, um es zu durchqueren.
+Es gibt keine andere Möglichkeit, die Sperre zu entfernen.
+Wir haben den Stab! Wir können das Kraftfeld jetzt entfernen.
+
+===== Dateiende =====

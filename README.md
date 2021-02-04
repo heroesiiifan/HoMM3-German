@@ -11,6 +11,7 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 ### [HoMM3 HD](https://sites.google.com/site/heroes3hd/)
 * HD-Paket in "Heroes of Might and Magic III/_HD3_Data/Packs" (z.B. Packs/German) extrahieren.
 * Die #de.ini in "Heroes of Might and Magic III/_HD3_Data/Lang" kopieren.
+* Die cham.fnt in "Heroes of Might and Magic III/_HD3_Data/Common" kopieren.
 * Kampagnen in Maps-Ordner kopieren
 
 ### [HotA](https://www.hota.acidcave.net/)
@@ -89,6 +90,7 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
   * SCALBUT.DEF
   * SCNRMPSZ.DEF
 * Deutsches Keyboard-Layout
+* Rohstoffe im Rechten Quadrat (mit Texten) kleingeschrieben -> Lässt sich scheinbar nicht über Textdateien ändern... (tolower()?)
 ### VCMI
 * -
 ### HD
@@ -97,30 +99,19 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 ### HotA
 * Diff Texte zwischen hota/de/alt und hota/de/neu erzeugen (z.B. mit WinMerge)
   * hota/de/neu übersetzen (auf Basis von Vergleich hota/en/neu zu hota/en/neu)
-* Bitmaps
-  * icm0110.pcx
-  * icm0111.pcx
-  * icm0112.pcx
-  * icm0120.pcx
-  * icm0121.pcx
-  * icm0122.pcx
-  * loadgame.pcx
-  * newgame.pcx
 * Sprites
-  * avrcgn09.def
-  * avzaren0.def
-  * avzaren1.def
-  * avzaren2.def
-  * avzaren3.def
   * Main-Menü-Icons (für HotA)
 * .DAT übersetzen (hota/txt)
   * Ihr/Euch (Groß geschrieben)
 * Kampagnen HotA (Warte auf offiziellen Kampagnen-Editor)
-* Betrüger -> Umlaut Font BUG (Text innerhalb Stadt passt)
 
 ## Changelog
 ### 1.4
-* HotA Data-Translation (teilw. optimiertes DeepL)
+* HotA Data-Übersetzung (teilw. optimiertes DeepL)
+* HotA Diff-Texte Übersetzung
+* DEF-Icons
+* Diverse Fixes
+* Schrift im Haupfenster (HD) - Umlaute
 
 ### 1.3
 * Übersetzungen der Einzelspieler-Szenarien durch [DeepL](https://www.deepl.com/translator)

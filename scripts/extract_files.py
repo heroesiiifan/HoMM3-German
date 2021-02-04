@@ -4,7 +4,7 @@ import os
 from os.path import basename
 import pathlib
 import subprocess
-from shutil import copyfile
+from shutil import copyfile, copy
 
 #Main
 if not os.path.exists("_tmp/fnt"): os.makedirs("_tmp/fnt")

@@ -1,0 +1,122 @@
+===== Kartenname =====
+Horn des Abgrunds
+
+===== Kartenbeschreibung =====
+Bidley, Jeremy und Tark müssen Casmetra besiegen, bevor sie das Horn des Abyss aktiviert. Helden-Level-Cap ist 24. Bidley, Jeremy und Tark gehen nach dem Sieg zum letzten Szenario über.
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Tag 1-1
+Nachricht:
+Jeremy betrat "Black Mark", sah sich schnell um, verschränkte die Hände und rief fröhlich: "Mein kleiner Bruder!"		Bidley hatte keine Zeit zu reagieren und landete in den Armen seines Verwandten. 	"Jeremy! Thunderation! Wo kommst du denn her? Ich wollte mich gerade auf die Suche nach dir machen.	"Der Leitstern hat mir den Weg gezeigt", antwortete Jeremy fröhlich und ließ seinen Bruder los. 	"Welcher Stern?", runzelte Bidley die Stirn.	"Ist doch egal. Er ist schon verblasst. Du kannst dir nicht vorstellen, wo ich gewesen bin! Kannibalenstämme, Sklavenhändler, dieser Mais ...	Sie Glücklicher! Und ich war auf der Wasserebene" "Was hast du dort gemacht?", fragte Jeremy misstrauisch. "Segeln", antwortete Bidley kühl. 		Die Piraten setzten sich an den Tisch und diskutierten eine Weile über ihre Abenteuer, doch dann kam das Thema auf, wer sie eigentlich in diese Abenteuer verwickelt hatte.	"Casmetra", seufzte Bidley, "diese Hexe. Sie hat uns alle getäuscht. Sie hat sogar ihren Söldner verraten. War es ... Dargen?" 	"Dagrem", stimmte Bruder zu, "aber Jeremy Albatross vergisst seine Übeltäter nie! Casmetra wird für ihre bösen Taten bezahlen." 	"Was du nicht sagst!", lächelte Bidley und nippte an seinem Wein, "Ich dachte, du wärst gut mit einem anderen!" "Ja, aber was konnte ich tun?!", Jeremy machte eine hilflose Geste, "Ich war schon immer zu verführbar für weibliche Schönheit! Ich bin nicht so grausam wie mein Bruder, der sich weder für Frauen, noch für Männer, noch für Nixen interessiert. Hast du jemals über eine Karriere im Sonnentempel nachgedacht?" "Darüber werde ich nachdenken, sobald ich Casmetra persönlich erwürgt habe", antwortete der ältere Bruder kühl. 	"Weißt du, was das Merkwürdigste daran ist?", sagte Jeremy in einem ernsten Ton, der den ganzen Spott wegließ, "Sie versteckt sich nicht. Diese Hexe hat allen Regna verkündet, dass sie das Horn des Abyss erhalten hat. Ich glaube, dass sich ausgerechnet der Dread Pirate Stanley in seiner Villa versteckt und so tut, als wäre nichts Besonderes passiert. Außerdem konnte ich einige Informationen sammeln..." 	"Sie haben Angst vor ihr", nickte Bidley. "Das ganze gottverdammte Imperium des Endlosen Ozeans hält sich wie eine Gefängnisratte bedeckt und wartet darauf, was als Nächstes kommt. Ich weiß nicht, warum sie das Horn braucht und warum sie es so hartnäckig verfolgt, aber jetzt müssen wir es ihr wegnehmen. Nicht nur, weil es min...unser ist, sondern auch, weil mir nicht gefällt, was hier passiert! 
+
+Name:
+Tag 1-2
+Nachricht:
+Tatsächlich versteckte sich Casmetra nicht und jeder betrunkene Seemann in Regna wusste, dass sie sich in ihrer Residenz am Horn des Abyss aufhielt. Tark, ein alter Freund von Bidley und Jeremy, spionierte ihr bereits hinterher. Von dem Moment an, als Dagrems Burg zusammenbrach, glaubte das Schuppentier (ÿùåð), dass die Piraten nicht sterben und dass sie eines Tages zurückkommen würden, um sich zu rächen. Und er hatte Recht damit. 		Das einzige Problem war, dass die Insel der Casmetra von einer großen Anzahl ihrer Schergen bewacht wurde. Es gab mindestens vier Schlösser; aber es war nicht bekannt, wo sich die Gastgeberin aufhielt. Bidley, Jeremy und Tark schifften sich in verschiedenen Teilen der Insel aus, bauten Lager auf und machten sich bereit, die Ländereien der mächtigen Hexe anzugreifen. 
+
+Name:
+KI-Zeug
+Nachricht:
+
+
+Name:
+Tag 2
+Nachricht:
+Einer der Späher der Tark kam mit einigen Informationen zurück. Es hält sich seit langem das Gerücht, dass Casmetra nicht nur das Horn des Abyss besitzt, sondern auch versucht, etwas damit zu tun, nämlich ein Ritual auszuführen. Wenn es wahr ist, müssen Sie sie aufhalten, bevor sie Erfolg hat, denn niemand weiß, was sie tut und aus welchem Grund. 
+
+Name:
+Tag 5
+Nachricht:
+"Soho, kleiner Bruder, Kinn hoch! Bald fangen wir diese Hexe und sie wird für alles bezahlen!", sagte Jeremy fröhlich.	"Nur wenn wir rechtzeitig kommen", runzelte Bidley die Stirn, "ich habe nicht umsonst eine Befürchtung. Sie weiß etwas über das Horn, was wir nicht wissen."	"Wir werden einen Totenbeschwörer anheuern, damit er ihre Leiche verhört!", brüllte der jüngere Bruder grimmig lachend und feuerte aus der Pistole in die Luft, auf einen Impuls jugendlicher Kühnheit hin. 
+
+Name:
+Tag 7
+Nachricht:
+Endlich kam ein weiterer Späher zurück. Er fand heraus, dass es eine geheime Höhle unter der Insel gibt. Wahrscheinlich müsst Ihr dort nach Casmetra suchen. Ihr müsst nur einen Weg finden, um in die Höhle zu gelangen.
+
+Name:
+Tag 12
+Nachricht:
+Es war ein seltsamer Tag. Das Meer wurde mit Wellen bedeckt und dann verschwanden sie plötzlich. Es könnte ein Naturphänomen gewesen sein, aber die meisten, einschließlich Bidley und Jeremy, machen die Hexe und ihre Zaubersprüche dafür verantwortlich. 
+
+Name:
+Tag 30
+Nachricht:
+Es scheint, dass die Befürchtungen nicht umsonst waren! Hunderte sahen, wie das Meer bebte und hörten es ächzen. Als ob es versuchte, aus den Küsten zu springen, es sich dann aber anders überlegte.	"Verflucht!", fluchte Jeremy, "wir sollten uns beeilen. Ich weiß nicht, was Casmetra vorhat: das Horn zu zerstören, die Welt zu retten, einen neuen Besen zu erschaffen ... - das Horn muss ihr so schnell wie möglich abgenommen werden! Mir gefällt überhaupt nicht, was hier passiert."	"Mir auch nicht", nickte der blasse Jeremy, "Was ist, wenn sie den Schlafenden erwecken will?" "Wen?", fragte der ältere Pirat erstaunt.	"Nun, das macht eigentlich Sinn. Um ihn zu wecken, muss man ins Horn blasen", flüsterte Jeremy vor sich hin, sah seinen Bruder an und fuhr fort. "Es gibt eine Legende über einen alten Gott, der auf dem Meeresgrund schläft ..." "Oh, jetzt fallen mir die ganzen Seemannsgeschichten ein", winkte Bidley ab und ging zu seinen Angelegenheiten über.
+
+Name:
+Tag 56
+Nachricht:
+Heute geschah wieder etwas Seltsames, und alle hörten ein Geräusch aus den Tiefen des Ozeans, das eher einem Stöhnen ähnelte. Es bleibt immer weniger Zeit.  
+
+Name:
+Tag 66
+Nachricht:
+Jeremy scheint verrückt geworden zu sein nach der Theorie von diesem Gott, der auf dem Meeresgrund schläft. Irgendwo ist es ihm gelungen, Traktate eines alten Magiers Joycraft zu finden, hat sie studiert und ist zu dem Schluss gekommen, dass Casmetra Mitglied eines ominösen Kultes ist, der dem Schlafenden dient.
+
+Name:
+Tag 84
+Nachricht:
+Der Himmel hat sich bewölkt und es regnet seit 2 Tagen stark. Auf dem Meer herrscht ein permanenter schwacher Sturm. Kein Zweifel, es ist das Werk von Casmetra: Je länger die Tage werden, desto stärker sind die Stürme.
+
+===== Helden =====
+
+===== Objekte =====
+
+(50, 35, 0) ***Cove***
+Name:
+Aronhem
+
+(37, 6, 0) ***Cove***
+Name:
+Downwich
+
+(40, 69, 0) ***Schild***
+Nachricht:
+Sie betreten die Ländereien von Casmetra
+
+(6, 27, 0) ***Ereignis***
+Nachricht:
+Hinterhalt!
+
+(8, 19, 0) ***Ereignis***
+Nachricht:
+Die Luft an diesem Ort ist sehr staubig und trocken. Es ist schwer zu atmen. Ihre Soldaten bedecken ihre Gesichter mit Tüchern.  
+
+(88, 75, 0) ***Gold***
+Nachricht:
+[PH] Ein großer Sack voller Gold!
+
+(73, 27, 0) ***Schild***
+Nachricht:
+Willkommen in der Abtei Abon!
+
+(38, 15, 0) ***Ereignis***
+Nachricht:
+Neben anderen Truppen bemannte auch eine Gruppe von Nix die Mauern der Garnison. Jeder wusste inzwischen, dass sie Söldner wurden und nach ihrer Befreiung von Nighon in den Diensten verschiedener regnanischer Kapitäne standen. Und nun waren sie dabei, gegen ihre eigenen zu kämpfen. 	Tark, der Befreier und Herrscher von Nix, wollte alle zur Vernunft bringen und forderte seine Verwandten auf, sich seiner Sache anzuschließen. 	"Brüder, schließt euch mir an, wie in alten Zeiten! Wer sich gegen seinen Bruder auflehnt, dem wird Unglück widerfahren. Das will ich nicht." 	Einer der Nix aus der Garnison, offenbar ihr Anführer, antwortete: 	"Wieso ist der Hauptmann, dessen Stiefel du heute leckst, besser als jeder andere? Du hast dein Volk verraten, Tark! Du hast uns der Einheit beraubt und uns gezwungen, uns den Piraten anzuschließen. Ich werde dich nicht für Gold töten. Ich werde es tun, weil du ein Feind bist! 	Dies sollten die letzten Worte dieses Nix sein. In diesem Moment fegte ihn eine Kanonenkugel von der Wand.
+
+(38, 13, 0) ***Ereignis***
+Nachricht:
+Nach der Schlacht legte die Piratenarmee eine kurze Verschnaufpause ein. Jeremy schnappte sich eine kleine Tasche, falls es bei den Gefallenen etwas Wertvolles zu plündern gab. Auch eine Flasche Tobersk Brandy von Dagger Wound Islands, um die schleppende Angelegenheit weniger schleppend zu machen. 	Als er von Leiche zu Leiche wanderte, entdeckte er Tark in der Nähe. Der Krieger beugte sich zu jedem gefallenen Nix, legte ihm die Hand auf die Brust und sagte etwas kaum Hörbares. 	"Was machst du da, Tark?" - Jeremy gluckste und kam näher. 	"Ich schicke sie auf ihre letzte Reise, nach einem alten Brauch. Das taten unsere Vorfahren auch, damals, als es das Nixaar-Reich noch gab." 	"Nixaar? Nie davon gehört." 	"Als die Welt vom Chaos der Stille bedeckt war, tauchten wir in den Endlosen Ozean und bauten dort unser Reich auf. Wir blühten auf, bis Tritonen von der Wasserebene kamen und angriffen. Die Nation war gespalten. Einige starben, einige kämpften. Und diejenigen, die überlebten, wurden Sklaven der Overlords. Wer einmal ein Sklave war, vergisst nie, wie es ist... Ich kämpfte für die Freiheit meines Volkes, dafür, dass sie wieder zu Leben und Wohlstand kommen. Und jetzt begrabe ich sie, getötet in einem neuen Krieg." 	"Wir alle sterben eines Tages. Aber nichts geht spurlos vorüber, glaube ich. Unsere Taten werden ewig weiterleben. - sagte Jeremy und lächelte." 	"Dein Bruder, Bidley, sehnt sich mehr nach Macht als nach allem anderen. Und was wünschst du dir, Jeremy Albatros?" - fragte Tark plötzlich. 	Ohne eine Antwort zu geben, nahm Jeremy einen Schluck Brandy und ging weiter, aber er ließ den Beutel zurück.
+
+(74, 15, 0) ***Ereignis***
+Nachricht:
+Als der feindliche Nix sah, dass sich Tarks Truppen näherten, stand er zischend auf und schrie "Keine Gnade!". Die gesamte Garnison machte sich bereit, einen Angriff zu starten.
+
+(74, 13, 0) ***Ereignis***
+Nachricht:
+"Wieder wurden wir zu Gefallenen", seufzte Tark beim Anblick der Gefallenen. Er schnappte sich einen Spaten und begann, ein Grab zu schaufeln. Die anderen Nix folgten ihm.
+
+(60, 19, 1) ***Schild***
+Nachricht:
+Ritualraum
+
+(59, 10, 1) ***Ereignis***
+Nachricht:
+Sie scheinen auf dem richtigen Weg zu sein - Casmetra versteckt sich genau hier. 
+
+===== Dateiende =====

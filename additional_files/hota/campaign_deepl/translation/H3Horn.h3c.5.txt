@@ -1,0 +1,278 @@
+===== Kartenname =====
+Alle Mann an Bord!
+
+===== Kartenbeschreibung =====
+Bidley und seine Kumpels müssen alle Feinde besiegen, die vorgeben, das Horn zu erhalten. Bidley darf nicht sterben. Kein Helden-Cap-Level. 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+1-1
+Nachricht:
+Bidley und Jeremy waren nicht in der Lage, ihren Durst nach Rache zu stillen. Besiegt ließ Casmetra alles fallen und sprang in ein Portal, das sofort in sich zusammenfiel. Die Hexe war nie wieder in der Regna zu sehen. Bidley nahm das Horn an sich, konnte aber nicht herausfinden, was genau Casmetra damit bezwecken wollte. 		Nach einer Woche erfolgloser Suche nach Casmetra gaben sie ihre Versuche jedoch auf, da Bidley nun sozusagen der Piratenkönig war. 		Zu diesem Zeitpunkt war Regna kein anerkannter Staat mehr, auch wenn man noch gelegentlich vom "Reich des endlosen Ozeans" sprach. Nachdem der alte Hareck IX. gestorben war, trat sein Erbe nicht an. Es begann ein Machtkampf unter den Piraten. Während der Wirren hatten sich einige Kapitäne als stark genug erwiesen, um die Herrschaft über riesige Territorien an sich zu reißen, aber das Chaos nahm seinen Lauf, sobald sie untergingen oder ihren Schneid verloren. 		Hier und jetzt war Bidley der König, und dieses Wort bedeutete nicht nur Schrecken und Ehrfurcht, sondern auch jede Menge Hass. Da er ein uraltes, mächtiges Artefakt besaß, konnte er sich über seine früheren Standesgenossen, die bloßen Seefahrer, hinwegsetzen; denn die Angst vor dem Unbekannten war alles, was er fühlte. 		Die einzige Gefahr, die ihm drohte, lag in den Meeren.
+
+Name:
+1-2
+Nachricht:
+Es war ein klarer Tag, als Bidley und sein Team sich an der Küste befanden, in einer küstennahen Festung. Das Horn des Abgrunds hing wie gewöhnlich am Gürtel und der Piratenkönig trennte sich nie davon. Plötzlich kam einer der Matrosen angerannt. Er hatte Angst vor etwas und hielt eine Schriftrolle in den Händen.	"Käpt'n, Käpt'n! Ich schwöre bei allen Seeteufeln! Es war ein Flaschengeist! Der Geist ist mir erschienen und hat mich gebeten, es Euch zu bringen!" Bidley nahm benommen die Schriftrolle und entrollte sie. 	Sie lautete: "Ich grüße dich, Bidley Roberts, der neue Piratenkönig! 		Ich bin Solmyr, ein bescheidener Diener von Gavin Magnus, dem unsterblichen König von Bracada. Mein Herr ist beunruhigt über die Nachricht, dass Ihr im Besitz des legendären Artefakts seid - dem Horn des Abyss. Wir meinen, dass dieser Gegenstand hier in Bracada aufbewahrt werden muss, unter strenger Bewachung der mächtigsten Erzmagier. Sie sind nicht jemand, der sich mit Wissenschaften auskennt; Sie sind eher ein Bandit und ein Dieb. Zweifellos werden Sie das Artefakt im Namen des Bösen benutzen: um Macht und persönliche Bereicherung zu erlangen. Wir, die Magier von Bracada, können nicht unbeteiligt bleiben, wenn das Horn des Abyss in den Händen eines gierigen Menschen ist.		Daher teile ich Ihnen mit, dass wir bald eine bewaffnete Expedition entsenden werden, die ich leiten werde. Ich werde Sie nicht auffordern, uns das Artefakt freiwillig zu geben, da Sie sich in jedem Fall weigern werden. Außerdem teile ich Euch mit, dass die Elementarfürsten selbst bereit sind, meinen Herrn zu unterstützen. Sie sind ebenfalls beunruhigt, und der Wasserlord ist ebenfalls erzürnt über Eure unverzeihliche Zerstörung der Festung Coralgate.     		Für den Piratenkönig aus Solmyr, einen Flaschengeist aus Bracada." 		"Ein schlauer Flaschengeist", nickte Bidley, "ich werde das Horn nicht freiwillig hergeben, in der Tat. Komm und hol es dir." 
+
+Name:
+1-3
+Nachricht:
+In einigen Tagen versammelte Bidley seine Leute mit Jeremy und Tark, als klar wurde, dass sich die Magier zum Angriff rüsteten. "Verfluchter Xanthor!", fluchte der Piratenkönig und schaute durch ein Fernrohr auf den Horizont.	"Xanthor?", fragte Tark erstaunt. "Der Zauberer, den ich aus dem Kerker der Barbaren gerettet habe. Er war es, der mir aus Dankbarkeit für seine Rettung vom Horn des Abgrunds erzählte." "Und jetzt wollen uns dieselben Zauberer wegen des Horns töten", grinste Jeremy. "Ja, das Schicksal kann manchmal genauso gut scherzen wie ich." 		"Und diese Elementarherren kommen uns in dieser Geschichte ständig in die Quere", fügte Bidley hinzu und nahm das Fernrohr von seinem Auge. 	"Wenigstens sind die Erathianer mit den Kreegans beschäftigt und belästigen uns nicht", schloss Jeremy. 		"Gut, Jungs", wandte sich der Piratenkönig an die Freunde, "wir müssen uns auf einen harten Krieg vorbereiten. Es scheint, dass Bracada beschlossen hat, alle Kräfte, die sie haben, gegen uns einzusetzen. Einen so starken Feind hatten wir noch nicht, aber die Verstärkung aus Regna wird schon bald eintreffen.
+
+Name:
+WhoRunBartertown
+Nachricht:
+WhoRunBartertown
+
+Name:
+2
+Nachricht:
+Eine beunruhigende Nachricht traf ein. 	"Lieber kleiner Bruder, erinnerst du dich an Dargem?" fragt Jeremy seinen Bruder. 	"Dieser Unglücksrabe, der mich gefangen genommen hat? Ist er noch am Leben?"	"Ja, das tut er. Also, er hat eine lächerliche Armee von Söldnern und Kapitänen um sich geschart, die dich nicht mögen. Nun, kurz gesagt, es hat sich herausgestellt, dass die Verstärkung aus Regna zu ihm übergelaufen ist." 	"Was für eine plötzliche Wendung", sagte Bidley kaltschnäuzig, "aber das ist doch nicht alles, oder?"	"Nein", schüttelte Jeremy den Kopf, "Dagrem hat andere Liebhaber seltener Artefakte mitgeschleppt - Hexenmeister von Nighon. Es scheint, dass er ihnen versprochen hat, ihnen das Horn zu geben, aber er sinnt nur auf Rache. Obwohl niemand weiß, was er wirklich will." 	"So viele sind darauf aus, ein Horn zu bekommen!" lachte der Piratenkönig, "und wie wollen sie es unter sich aufteilen, selbst wenn sie mich töten?" 	"Ich wette, sie werden anfangen, sich gegenseitig umzubringen", hob der jüngere Bruder bestürzt die Hände. 	"Ich hoffe, sie fangen früher an, sich gegenseitig umzubringen, damit wir uns anschleichen und ihnen die Kehle durchschneiden können", sagte Bidley grimmig und zückte seinen Säbel. 
+
+Name:
+5
+Nachricht:
+Allem Anschein nach haben die Elementar-Lords ihre Festungen irgendwo im Norden materialisiert. Der Erdfürst hatte jedoch einige Schwierigkeiten. Seine Armee sollte eigentlich unter der Erde erscheinen und fand sich in den Fängen von Nighon-Warlocks wieder, die damit überhaupt nicht gerechnet hatten. 
+
+Name:
+8
+Nachricht:
+Die Armee des Feindes wird von Tag zu Tag stärker. Tark meint, dass es eine gute taktische Entscheidung wäre, wenn wir die Feinde miteinander konfrontieren und ihre Schwächung ausnutzen könnten. Jeremy denkt, dass es eine bessere Option wäre, einen plötzlichen Angriff auf die Lager der Abtrünnigen und Söldner zu machen, um deren Waffen und Ressourcen zu erbeuten.  
+
+Name:
+14
+Nachricht:
+Dennoch gibt es noch einige, die sich nicht an Dargem verkauft haben. Loyale Kapitäne versprechen, Euch ein Schiff mit Nachschub zu schicken. 
+
+Name:
+Nachschub
+Nachricht:
+Das Schiff mit den Vorräten ist angekommen. Das nächste Schiff wird in einem Monat erwartet. 
+
+===== Helden =====
+
+===== Objekte =====
+
+(56, 121, 0) ***Turm***
+
+Getimete Ereignisse:
+
+Name:
++mon\gold
+Nachricht:
+
+
+(139, 118, 0) ***Turm***
+
+Getimete Ereignisse:
+
+Name:
++mon\gold
+Nachricht:
+
+
+(130, 137, 0) ***Schild***
+Nachricht:
+Zauberer-Kolonie
+
+(132, 125, 0) ***Schild***
+Nachricht:
+Bracudin-Minen
+
+(77, 139, 0) ***Schild***
+Nachricht:
+Tal der Verdammten
+
+(87, 106, 0) ***Schild***
+Nachricht:
+Kammern der Titanen, der Himmelsfürsten
+
+(15, 137, 0) ***Turm***
+
+Getimete Ereignisse:
+
+Name:
++mon\gold
+Nachricht:
+
+
+(84, 16, 0) ***Flaschenpost***
+Nachricht:
+
+
+(127, 25, 0) ***Ereignis***
+Nachricht:
+"Kein Durchgang"
+
+(125, 38, 0) ***Schild***
+Nachricht:
+Militärlager Dargem
+
+(135, 64, 0) ***Cove***
+
+Getimete Ereignisse:
+
+Name:
++ mon\gold
+Nachricht:
+
+
+(114, 56, 0) ***Cove***
+
+Getimete Ereignisse:
+
+Name:
++ mon\gold
+Nachricht:
+
+
+(40, 9, 0) ***Schild***
+Nachricht:
+Ein Hoch auf die Piratenbrüderschaft!
+
+(40, 142, 0) ***Schild***
+Nachricht:
+Nach Bracada
+
+(91, 113, 0) ***Turm***
+
+Getimete Ereignisse:
+
+Name:
++ mon\gold
+Nachricht:
+
+
+(129, 28, 0) ***Schild***
+Nachricht:
+Der Bauernhof der Bahens
+
+(6, 74, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(3, 91, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(2, 91, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(119, 30, 0) ***Cove***
+
+Getimete Ereignisse:
+
+Name:
++ mon\gold
+Nachricht:
+
+
+(76, 49, 0) ***Ereignis***
+Nachricht:
+Bidley rieb das Horn noch einmal mit einem Stück Fensterleder ab, obwohl das Artefakt makellos war. Das war es also, was die Leute so sehr begehrten. Seitdem er erfahren hatte, wozu das Horn fähig war, stieg sein Selbstvertrauen ins Unermessliche. Dennoch ließ ihn der Gedanke an furchterregende Seegeister, die seinen Befehlen gehorchten, hin und wieder erschaudern.
+
+(138, 5, 0) ***Konflux***
+
+Getimete Ereignisse:
+
+Name:
+KI-Burst
+Nachricht:
+
+
+(126, 14, 0) ***Schild***
+Nachricht:
+Wegbleiben! Felsrutsche!
+
+(57, 6, 0) ***Konflux***
+
+Getimete Ereignisse:
+
+Name:
+KI-Burst
+Nachricht:
+
+
+(90, 5, 0) ***Konflux***
+
+Getimete Ereignisse:
+
+Name:
+AI Brust
+Nachricht:
+
+
+(45, 75, 1) ***Dungeon***
+
+Getimete Ereignisse:
+
+Name:
++mon\gold
+Nachricht:
+
+
+(92, 74, 1) ***Dungeon***
+
+Getimete Ereignisse:
+
+Name:
++mon\gold
+Nachricht:
+
+
+(126, 55, 1) ***Schild***
+Nachricht:
+Gefängnisviertel
+
+(129, 54, 1) ***Overlord***
+Name:
+Aufseher
+
+(128, 54, 1) ***Ereignis***
+Nachricht:
+Die Leute von Nighon scheinen unglückliche feindliche Generäle hier zu halten. 
+
+(130, 53, 1) ***Ereignis***
+Nachricht:
+"Verschwindet von hier, wenn Ihr nicht zu denen in meinen Käfigen gehören wollt!"
+
+(111, 42, 1) ***Dungeon***
+
+Getimete Ereignisse:
+
+Name:
++mon\gold
+Nachricht:
+
+
+(61, 49, 1) ***Dungeon***
+
+Getimete Ereignisse:
+
+Name:
++mon\gold
+Nachricht:
+
+
+(56, 26, 1) ***Schild***
+Nachricht:
+Nördlicher Nighon-Tunnel Länge: 5 Meilen
+
+(73, 58, 1) ***Schild***
+Nachricht:
+Geheimes Versteck
+
+(86, 72, 1) ***Schild***
+Nachricht:
+Gaststätte "Geschlachtetes Lamm"
+
+(16, 125, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+===== Dateiende =====

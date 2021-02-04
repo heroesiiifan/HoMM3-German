@@ -1,6 +1,6 @@
 "{Derrick}
 
-Der Bohrmeister rollt einen Wagen mit Wertgegenständen heraus. ""Wir haben es geschafft, unsere Ausbeute mit einem gesunden Gewinn zu verkaufen. Hoffentlich nehmen wir beim nächsten Mal mindestens genauso viel ein - holt Euch euren sich Ihren Anteil in einer Woche ab.""
+Der Bohrmeister rollt einen Wagen mit Wertgegenständen heraus. ""Wir haben es geschafft, unsere Ausbeute mit einem gesunden Gewinn zu verkaufen. Hoffentlich nehmen wir beim nächsten Mal mindestens genauso viel ein - holt Euch euren sich Ihren Anteil in einer Woche ab."""
 "{Derrick}
 
 Der Bohrvorarbeiter ist sehr beschäftigt. Sie können sein Gemurmel als Behauptung entziffern, dass er noch nichts vorzuweisen hat. Sie müssen nächste Woche wieder vorbeikommen."
