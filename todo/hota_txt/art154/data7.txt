@@ -1,3 +1,0 @@
-{Shaman's Puppet}
-
-Decreases enemy's Luck by 2.

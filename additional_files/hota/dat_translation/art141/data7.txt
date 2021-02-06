@@ -1,0 +1,3 @@
+{Diplomatenumhang}
+
+Zusätzlich zum Komponenteneffekt erlaubt dieser Umhang Ihrem Helden, sich zurückzuziehen oder zu kapitulieren, wenn er gegen neutrale Monster kämpft oder eine Stadt verteidigt. Multipliziert die Stärke Ihrer Heldenarmee um 3 (für neutrale Armeen und die Diebesgilde).

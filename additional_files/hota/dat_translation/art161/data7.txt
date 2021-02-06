@@ -1,0 +1,3 @@
+{Horn des Abgrunds}
+
+Nachdem ein Stapel lebender Kreaturen getötet wurde, erhebt sich an ihrer Stelle ein Stapel Fangarme, die dem Helden auch nach Abschluss des Kampfes treu bleiben. Die Gesamttrefferpunkte dieses Stapels entsprechen der Hälfte der Gesamttrefferpunkte des getöteten Stapels, aber die Anzahl der beschworenen Fangarme sollte die Hälfte der Anzahl der Kreaturen im getöteten Stapel nicht überschreiten. Das Töten von Fangarmen löst nicht den Horn-Effekt aus.

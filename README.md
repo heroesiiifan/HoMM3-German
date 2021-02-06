@@ -59,36 +59,6 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 ## Backlog
 Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8
 ### Allgemein
-* Icons erstellen
-  * CSSCUS.DEF
-  * CSSEXIT.DEF
-  * CSSROE.DEF
-  * CSSSOD.DEF
-  * GTBACK.DEF
-  * GTCAMPN.DEF
-  * GTMULTI.DEF
-  * GTSINGL.DEF
-  * GTTUTOR.DEF
-  * MMENUCR.DEF
-  * MMENUHS.DEF
-  * MMENULG.DEF
-  * MMENUNG.DEF
-  * MMENUQT.DEF
-  * RANISLD.DEF
-  * RANNONE.DEF
-  * RANNORM.DEF
-  * RANSHOW.DEF
-  * RANSIZL.DEF
-  * RANSIZM.DEF
-  * RANSIZS.DEF
-  * RANSIZX.DEF
-  * RANSTRG.DEF
-  * RANWEAK.DEF
-  * SCNRNEX.DEF
-  * CBBACKB.DEF
-  * CORETRN.DEF
-  * SCALBUT.DEF
-  * SCNRMPSZ.DEF
 * Deutsches Keyboard-Layout
 * Rohstoffe im Rechten Quadrat (mit Texten) kleingeschrieben -> Lässt sich scheinbar nicht über Textdateien ändern... (tolower()?)
 ### VCMI
@@ -99,8 +69,6 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 ### HotA
 * Diff Texte zwischen hota/de/alt und hota/de/neu erzeugen (z.B. mit WinMerge)
   * hota/de/neu übersetzen (auf Basis von Vergleich hota/en/neu zu hota/en/neu)
-* Sprites
-  * Main-Menü-Icons (für HotA)
 * .DAT übersetzen (hota/txt)
   * Ihr/Euch (Groß geschrieben)
 * Kampagnen HotA (Warte auf offiziellen Kampagnen-Editor)

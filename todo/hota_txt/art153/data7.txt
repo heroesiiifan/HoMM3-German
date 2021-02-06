@@ -1,3 +1,0 @@
-{Demon's Horseshoe}
-
-Decreases enemy's Luck by 1.

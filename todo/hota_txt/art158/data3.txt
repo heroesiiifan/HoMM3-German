@@ -1,1 +1,0 @@
-%s makes all losses of %s irrevocable!

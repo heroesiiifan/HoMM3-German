@@ -1,0 +1,1 @@
+Der %s verhindert, dass %s Zauber der 1. und 2. Stufe wirkt.

@@ -1,1 +1,0 @@
-The %s prevents %s from casting 1st and 2nd level spells.
