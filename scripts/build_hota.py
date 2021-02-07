@@ -89,7 +89,7 @@ command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] +
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["_tmp/def/" + s for s in os.listdir("_tmp/def/")] + ["additional_files/hota/bmp/" + s for s in os.listdir("additional_files/hota/bmp/")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-#command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["homm3_files/HotA/campaign_deepl/" + s for s in os.listdir("homm3_files/HotA/campaign_deepl/")]
+#command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["additional_files/HotA/campaign_deepl/" + s for s in os.listdir("additional_files/HotA/campaign_deepl/")]
 #output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["additional_files/translation/def/" + s for s in os.listdir("additional_files/translation/def/")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')

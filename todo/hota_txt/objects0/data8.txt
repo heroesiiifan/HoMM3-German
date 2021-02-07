@@ -1,6 +1,0 @@
-# Texts
-# 0 (212, 1001, Grave)
-This tomb is fresh, and even the shovel someone dug it with hasn't been stolen yet. You take up the latter, cover your nose with a handkerchief, and manage to extract something valuable from the ground.
-# 1 (212, 1001, Grave)
-"
-Grave Digging -3"

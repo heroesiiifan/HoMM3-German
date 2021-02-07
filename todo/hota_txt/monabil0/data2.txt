@@ -1,1 +1,0 @@
-1 %s was killed with an accurate shot!

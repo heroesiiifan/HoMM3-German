@@ -546,7 +546,7 @@ Ermöglicht die Ansicht und Änderung der aktuellen Kampfoptionen"
 Auto-Kampf	"{Auto-Kampf}
 
 Ermöglicht es dem Computer, den Kampf für Euch zu führen. Klickt während des Auto-Kampfes irgendwo hin, um die Kontrolle über die eigenen Truppen wieder zu übernehmen. Euch wird die Kontrolle bei der Bewegungsphase Eurer nächsten Einheit übergeben."																						
-	Kampftext erscheint in diesem Fesnter																						
+	Kampftext erscheint in diesem Fenster																						
 	Durch den während des Kampfes eingeblendeten Text scrollen																						
 Zauberspruch	"{Zauberspruch}
 
