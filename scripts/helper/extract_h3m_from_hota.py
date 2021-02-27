@@ -10,7 +10,7 @@ import zlib
 mode = "READ"
 
 if mode == "READ":
-    shutil.rmtree("_tmp/hota_camp")
+    if os.path.exists("_tmp/hota_camp"): shutil.rmtree("_tmp/hota_camp")
     if not os.path.exists("_tmp/hota_camp"): os.makedirs("_tmp/hota_camp")
     output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/HotA/Data/HotA_lng.lod", "_tmp/hota_camp", "*.h3c"], stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 

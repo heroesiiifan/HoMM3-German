@@ -14,7 +14,7 @@ if mode == "READ" or mode == "BOTH":
             file_content = f.read()
             f.close()
 
-            chars = b"A-Za-z0-9/\-:.,;_$%'()[\]<>\?\! \x93\x94"
+            chars = b"A-Za-z0-9/\-:.,;_$%'()[\]<>\?\! \x93\x94" + #b"\xc4\xe4\xd6\xf6\xdc\xfc\xdf"
             shortest_run = 4
 
             regexp = b'[%s]{%d,}' % (chars, shortest_run)

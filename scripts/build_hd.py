@@ -49,10 +49,13 @@ for filename in os.listdir("additional_files/translation/campaign/chronicles"):
 for filename in os.listdir("_tmp/fnt"):
     zipObj.write(os.path.join("_tmp/fnt", filename), arcname=os.path.join("Packs/German", filename))
 
+for filename in os.listdir("additional_files/hd/bmp/"):
+    zipObj.write(os.path.join("additional_files/hd/bmp/", filename), arcname=os.path.join("Packs/German", filename))
 for filename in os.listdir("_tmp/bmp"):
     zipObj.write(os.path.join("_tmp/bmp", filename), arcname=os.path.join("Packs/German", filename))
 for filename in os.listdir("additional_files/translation/bmp"):
-    zipObj.write(os.path.join("additional_files/translation/bmp", filename), arcname=os.path.join("Packs/German", filename))
+    if filename not in os.listdir("additional_files/hd/bmp/"):
+        zipObj.write(os.path.join("additional_files/translation/bmp", filename), arcname=os.path.join("Packs/German", filename))
 
 for filename in os.listdir("_tmp/def"):
     zipObj.write(os.path.join("_tmp/def", filename), arcname=os.path.join("Packs/German", filename))

@@ -56,24 +56,27 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * [HotA editor.exe](http://imperium.heroes.net.pl/temat/4762/1)
 * [splitter.exe](https://forum.df2.ru/lofiversion/index.php/t933-50.html)
 
-## Backlog
-Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8
+## Backlog / Todo
+Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8!!!
 ### Allgemein
 * Deutsches Keyboard-Layout
 * Rohstoffe im Rechten Quadrat (mit Texten) kleingeschrieben -> Lässt sich scheinbar nicht über Textdateien ändern... (tolower()?)
 ### VCMI
 * -
 ### HD
-* Newgame & Loadgame werden nicht ersetzt?
-* SoD-Kampagne Background in Deutsch!
+* -
 ### HotA
 * Diff Texte zwischen hota/de/alt und hota/de/neu erzeugen (z.B. mit WinMerge)
   * hota/de/neu übersetzen (auf Basis von Vergleich hota/en/neu zu hota/en/neu)
 * .DAT übersetzen (hota/txt)
   * Ihr/Euch (Groß geschrieben)
-* Kampagnen HotA (Warte auf offiziellen Kampagnen-Editor)
+* Kampagnen HotA (Warte auf offiziellen Kampagnen-Editor?)
 
 ## Changelog
+### 1.5
+* loadgame.bmp, newgame.bmp und Kampagnenhintergrund in HD
+* Originaltexte der dt. Übersetzung bei RoE-Kampagne
+
 ### 1.4
 * HotA Data-Übersetzung (teilw. optimiertes DeepL)
 * HotA Diff-Texte Übersetzung
