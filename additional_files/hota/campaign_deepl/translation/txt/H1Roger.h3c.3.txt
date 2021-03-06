@@ -1,0 +1,540 @@
+Piraten und Palmen
+===========================
+Jeremy hat Schiffbruch erlitten und ist auf einer unbekannten Insel angespült worden. Um dieses Szenario abzuschließen, erobern Sie ein verlassenes Fort und bauen es zu einer Burg aus. Jeremy wird auf Stufe sechs begrenzt, kann aber zum nächsten Szenario wechseln.
+===========================
+AVWmrnd0.def
+===========================
+AVLholg0.def
+===========================
+avlswtr4.def
+===========================
+avlswtr5.def
+===========================
+AVLSPTR0.def
+===========================
+AVLlk1g0.def
+===========================
+AVLlk2g0.def
+===========================
+clrdelt1.def
+===========================
+AVLref20.def
+===========================
+AVLref30.def
+===========================
+AVLrk3w0.def
+===========================
+avlrfx04.def
+===========================
+AVAwrek0.def
+===========================
+crates09.def
+===========================
+avlxds05.def
+===========================
+AVLhols0.def
+===========================
+avlswt00.def
+===========================
+avlswt01.def
+===========================
+frog_02.def
+===========================
+frog_01.def
+===========================
+avlswn01.def
+===========================
+avlswtr1.def
+===========================
+AVXfyth0.def
+===========================
+avlspl12.def
+===========================
+avlswt07.def
+===========================
+AVLSPTR3.def
+===========================
+AVLSPTR2.def
+===========================
+AvLRG05.def
+===========================
+AVLtr3d0.def
+===========================
+AVLlk3g0.def
+===========================
+avlswt02.def
+===========================
+AVLdun20.def
+===========================
+AVLdun30.def
+===========================
+nimphfo.def
+===========================
+avlswtr2.def
+===========================
+TPMTREE6.def
+===========================
+avlswn02.def
+===========================
+AVGsieg0.def
+===========================
+AVLhlds0.def
+===========================
+AVLskul2.def
+===========================
+crates06.def
+===========================
+crates04.def
+===========================
+ah18_e.def
+===========================
+AVAcratw.def
+===========================
+AVAflot0.def
+===========================
+AVAbrrlw.def
+===========================
+AVLklp10.def
+===========================
+AVLklp20.def
+===========================
+AVLref40.def
+===========================
+AVLmtds3.def
+===========================
+AVLmtds4.def
+===========================
+avlspl09.def
+===========================
+avlspl06.def
+===========================
+AVSmerc0.def
+===========================
+avlswtr6.def
+===========================
+AVcact01.def
+===========================
+avlspl08.def
+===========================
+AVLSPTR6.def
+===========================
+AVLmtds6.def
+===========================
+avlxds04.def
+===========================
+AVcact02.def
+===========================
+avlspl07.def
+===========================
+AVLskul0.def
+===========================
+avlspl11.def
+===========================
+AVSaxis0.def
+===========================
+TPMTREE3.def
+===========================
+AVXseeb0.def
+===========================
+avlswtr3.def
+===========================
+AVLlk2s0.def
+===========================
+AVLSPTR1.def
+===========================
+frog_03.def
+===========================
+avlspl05.def
+===========================
+AVTchst0.def
+===========================
+AVLref50.def
+===========================
+TPMTREE5.def
+===========================
+AVLyuc20.def
+===========================
+AVcact03.def
+===========================
+AVLyuc40.def
+===========================
+AVLyuc10.def
+===========================
+swpmsh01.def
+===========================
+AVLswp50.def
+===========================
+avlswtr0.def
+===========================
+AvLStm2.def
+===========================
+avlxgr08.def
+===========================
+AVWogre0.def
+===========================
+crates01.def
+===========================
+AVA0007.def
+===========================
+AVWmumy.def
+===========================
+AVLswp60.def
+===========================
+AVLswp40.def
+===========================
+avlswt16.def
+===========================
+AVLrk2s0.def
+===========================
+AVWswrx0.def
+===========================
+AvLRG01.def
+===========================
+fregat.def
+===========================
+AVWogrx0.def
+===========================
+AVTwood0.def
+===========================
+AVLman40.def
+===========================
+swshcamp.def
+===========================
+AVLdun10.def
+===========================
+avlswtr8.def
+===========================
+avlswt15.def
+===========================
+AVLs05s0.def
+===========================
+swpmsh03.def
+===========================
+AVXwelr0.def
+===========================
+AVZevnt0.def
+===========================
+swvflw03.def
+===========================
+AVLyuc50.def
+===========================
+AVWroc0.def
+===========================
+mntswp02.def
+===========================
+mntswp04.def
+===========================
+AVLman20.def
+===========================
+TPMTREE2.def
+===========================
+avswplnt.def
+===========================
+AVSgzbo0.def
+===========================
+AVTore0.def
+===========================
+AVTgold0.def
+===========================
+AvLRG03.def
+===========================
+AVLsh4g0.def
+===========================
+AVLf11g0.def
+===========================
+AVSschm0.def
+===========================
+AVWmage0.def
+===========================
+AVLrk2w0.def
+===========================
+FVWND05.DEF
+===========================
+AVXl1sh0.def
+===========================
+AVLtr2d0.def
+===========================
+AVXseer0.def
+===========================
+AVXjnkmn.def
+===========================
+AVLbon00.def
+===========================
+AVcact04.def
+===========================
+AVA0015.def
+===========================
+AVXcfds0.def
+===========================
+AVWOCEAN.def
+===========================
+AVLrk4w0.def
+===========================
+AVAdlic0.def
+===========================
+TPMTREE4.def
+===========================
+swpmsh02.def
+===========================
+avlxgr01.def
+===========================
+avlswt06.def
+===========================
+AVTrndm0.def
+===========================
+AvWDFir.def
+===========================
+AVLref10.def
+===========================
+ZReef1.def
+===========================
+ZReef2.def
+===========================
+avlrfx06.def
+===========================
+avlxgr02.def
+===========================
+AVLsh6g0.def
+===========================
+AVWSEADG.def
+===========================
+AVWwolf0.def
+===========================
+FVWND06.DEF
+===========================
+AVSwtch0.def
+===========================
+avwrhswd.def
+===========================
+avwrhsor.def
+===========================
+avxbor80.def
+===========================
+swpmsh06.def
+===========================
+adcfra.def
+===========================
+AVA0075.def
+===========================
+avlspl10.def
+===========================
+AVXgyds0.def
+===========================
+AVXskds0.def
+===========================
+AVA0047.def
+===========================
+mntswp01.def
+===========================
+AVTcrys0.def
+===========================
+AVWorc0.def
+===========================
+AvWLizr.def
+===========================
+avlswt12.def
+===========================
+AVCcovf0.def
+===========================
+avlswtr7.def
+===========================
+AVSgrdn0.def
+===========================
+AVXrlly0.def
+===========================
+AVA0156.def
+===========================
+AvWDFly.def
+===========================
+AVLswp70.def
+===========================
+AVA0049.def
+===========================
+AVWrog.def
+===========================
+mntswp03.def
+===========================
+AVLmtsw2.def
+===========================
+AVLsh1g0.def
+===========================
+AVLplm20.def
+===========================
+AVLplm30.def
+===========================
+AVLmtsw5.def
+===========================
+AVLmtsw6.def
+===========================
+AVA0128.def
+===========================
+AVLmtdn6.def
+===========================
+TPMTREE1.def
+===========================
+AvSMarl.def
+===========================
+AVA0060.def
+===========================
+AVA0001.def
+===========================
+AVStmpl0.def
+===========================
+AVLs11s0.def
+===========================
+swpmsh05.def
+===========================
+AVLsh5g0.def
+===========================
+AVWgolx0.def
+===========================
+AvLStm1.def
+===========================
+swpmsh04.def
+===========================
+AVWlizx0.def
+===========================
+AvWGorg.def
+===========================
+AVWmonx0.def
+===========================
+avlspl04.def
+===========================
+AVA0053.def
+===========================
+avlxds10.def
+===========================
+FVWND00.DEF
+===========================
+FVWND01.DEF
+===========================
+Die unangenehmsten Kreaturen, die es gibt, nach wilden Orks, sind wilde Oger. Und letztere sind noch dümmer als die ersteren. Gekleidet in Felle mit Schädeln, die von ihrer stinkenden Kleidung herabhängen, brachen diese großen, watschelnden grünen Hulks durch den Dschungel. Man konnte sie aus meilenweiter Entfernung hören, und diese riesigen Knüppel, die sie mit sich führen, können einen Menschen wie eine Wanze zerschmettern. Deshalb habe ich den Truppen geraten, sich schnell auf sicheres Gelände zurückzuziehen, bevor sie das Feuer eröffnen.
+===========================
+Der Hauptmann der Söldner trat vor: 
+"Was zum Teufel! Das ist unser Geheimlager. Niemand weiß davon!" 
+"Jungs, entspannt euch", sagte ich. "Ich und die Jungs erforschen nur die Insel." 
+"Ich werde euch entspannen, für immer!", lachte der Haudegen und zog sein Schwert.
+===========================
+Ein großer Unhold mit einer Axt kam auf uns zu. Er trug ein Kettenhemd und eine schwarze Augenklappe. 
+"Seid ihr wegen eurer Freunde gekommen?", knurrte er. 
+"Welche Freunde?" Ich antwortete erstaunt. 
+"Kragens Bande. Wir haben ihr Versteck mit all seinen Schätzen eingenommen. Und wir sind dabei, es noch ein wenig mehr mit euren Waren aufzufüllen", grinste der Oger bedrohlich. 
+"Mein lieber Freund, ich habe keine Ahnung, von welcher Bande du sprichst, aber wenn ihr unsere Waren nehmen wollt, müsst ihr sie von meinem Leichnam nehmen."
+===========================
+"Käpt'n, kommen Sie her, schnell!" rief Patris aufgeregt. 
+Ich näherte mich meinem Kumpel und fand ihn auf den Knien, wie er etwas auf dem nassen Boden untersuchte. Er strahlte förmlich, was sehr merkwürdig war - Patris ist nicht der Typ, der einen mit einem breiten Lächeln im Gesicht begrüßt. 
+"Hier sind Wagenspuren, Käpt'n!", erklärte er. "Irgendwo auf dieser Insel gibt es Menschen oder Kreaturen, die klug genug sind, Wagen zu benutzen!" 
+"In der Tat eine gute Nachricht", stimmte ich zu. "Wir werden die Insel sorgfältig auskundschaften müssen, sobald wir uns hier eingerichtet haben. Irgendetwas sagt mir, dass wir eine Menge Abenteuer vor uns haben."
+===========================
+Ein durchdringendes Kreischen ertönte über uns. Als ich aufblickte, entdeckte ich riesige Raubvögel, die über uns kreisten. Ich weiß nicht, wie wir für sie aussahen, aber ob Menschen oder Mäuse, wir mussten auf einen plötzlichen Angriff vorbereitet sein. 
+===========================
+Ich hätte nicht erwartet, hier Magier zu sehen, aber diese Struktur, die den Dschungel überragt - ich habe so etwas schon an Bracadas Küste gesehen. Aber hier? Patris stupste mich am Arm an, und siehe da, ich drehte mich um und sah Magier aus dem Nichts auftauchen. 
+Einer von ihnen schrie: "Aha! Malcom war nicht mutig genug, selbst aufzutauchen, also hat er Piraten geschickt! Aber wir werden unsere Geheimnisse nicht verraten!" 
+Wer zum Teufel ist Malcom? Nun, ich glaube nicht, dass wir Zeit haben werden, um uns zu erklären....
+===========================
+Was könnte schlimmer sein als riesige fleischfressende Glühwürmchen, die in der Nähe des Flusses leben?  Vielleicht, dass wir in der Nähe des Flusses waren?  Vielleicht, dass besagte Glühwürmchen uns ansahen?  Ich habe es geschafft, ein paar von ihnen abzuschießen, aber das hat den Rest nicht abgeschreckt.
+===========================
+Wir stießen auf menschliche Fußabdrücke im Sand. Mit großen Hoffnungen folgten wir dem Pfad und fanden schließlich das Versteck eines Schmugglers. Sie waren gerade dabei, etwas von einem Boot abzuladen, als sie uns entdeckten. Sie schienen erschrocken zu sein, aber ihre Säbel kamen schnell heraus. 
+"Cap'n, tötet nicht alle", flüsterte Patris. "Töten Sie nur die Hitzköpfe, und vielleicht schließen sich die anderen Ihnen an."
+===========================
+"Hey Cap'n, guck mal!", rief ein Junge und winkte uns zu.
+
+Ein Wasserfall stürzte eine felsige Klippe hinunter, umgeben von steinernen Frauenstatuen. Ich bin kein Magier, aber ich spürte hier eine magische Präsenz. Es dauerte nicht lange, bis ich mich an die magischen Kreaturen aus der Wasserebene erinnerte, die als Nymphen bekannt sind. Regnanische Magier beschworen sie häufig für ihre Zwecke.
+
+"Wir haben vielleicht Verbündete an diesem gottverlassenen Ort", sagte ich und lächelte.
+"Was meinst du damit?" fragte Patris.
+"Hast du jemals diese Regnan-Magier gesehen, die in Gesellschaft von weiblichen Wassergeistern herumlaufen? Es war nicht ihr gutes Aussehen, das ihnen all diese schönen Frauen bescherte; diese kleinen Lieblinge sind Nymphen. Jemand hat mir erzählt, dass sie aus der Wasserebene in diese Welt gekommen sind, als die Magier von Regnan dort ein Portal geöffnet haben", sagte ich und hüpfte auf einem Bein. Ich musste dringend ein paar Schuhe finden.
+"Wie kommst du darauf, dass sie uns helfen werden? Sie sehen für mich nicht wie Magier aus", sagte Patris skeptisch.
+
+"Patris, beruhige dich doch", grinste ich. "Selbst wenn mein charmantes Lächeln sie nicht überzeugt, werden ein paar Münzen den Zweck erfüllen." 
+"Wir haben Münzen?", fragte Patris erstaunt. 
+===========================
+Wir trafen immer wieder auf Schädel, die auf Pfählen aufgespießt waren. Ich habe gehört, dass wilde Orks auf diese Weise ihr Revier markieren. Mit diesem Gedanken im Hinterkopf, befahl ich meinen Männern, ihre Waffen bereit zu machen.
+===========================
+Ein Pfeil pfiff nur wenige Zentimeter von meinem Ohr entfernt. Patris sprang gerade noch rechtzeitig hinter einen Baum, während ich ihm schnell folgte.
+
+"Das ist eine Falle!", schrie einer unserer Jungs.
+
+Danke, ich verstand, dass dies kein Willkommensfest war. Blinzelnd gelang es mir, unsere Übeltäter im Unterholz versteckt zu entdecken. Sie sahen aus wie Eidechsen in Lendenschuhen. Die Echsenmänner standen mit ihren Bögen bereit, offensichtlich waren sie nicht zum Verhandeln hier.
+===========================
+Utopia
+===========================
+Es war wirklich ein erathianischer Außenposten! Die Grundstruktur war noch intakt, aber die Mauern waren abgenutzt und von Sumpfpflanzen überwuchert. Es müsste komplett renoviert werden - die derzeitigen Bewohner kümmerten sich wenig um solche Nettigkeiten. Diese Gnolls waren bescheidene Kreaturen. 
+Rauch stieg von irgendwo tief im Inneren der Festung auf, wahrscheinlich ein Kochfeuer. Ich hasse es, jemandem das Abendessen zu verderben. Plötzlich tauchte ein riesiger Gnoll direkt vor mir aus einem Loch in der Wand auf. Sein Hals und Körper waren mit seltsamen Ringen und Knochen bedeckt, und er schwang eine große Keule, die aus den Knochen eines riesigen Tieres gefertigt war. 
+"Abrrgh!", knurrte der Gnoll. 
+"Sehr erfreut, Sie kennenzulernen, Sir! Ich bin Jeremy", antwortete ich fröhlich. 
+"Unnah abrrgh dun uuuh!" 
+"Abrrgh ist es dann! Verstehe. Ich bin ja nicht taub", erwiderte ich, während die Crew hinter mir kicherte. Die Jungs hatten Spaß an unserer kleinen Unterhaltung. 
+Doch dann stieß der Gnoll einen wimmernden Laut aus und hob seine Keule. Wie schade - wir hätten so gute Freunde sein können. Unnötig zu sagen, dass die dumme Kreatur keine Zeit hatte, etwas zu realisieren, und mit einem lauten Knall hatte meine Pistole bereits eine Kugel in seinem Schädel versenkt. Abrrgh fiel mit einem beträchtlichen Loch in seinem Kopf zu Boden. 
+"Vorwärts! Kein Pardon!" befahl ich.
+===========================
+Aus dem Dschungel kam ein lautes Geräusch. Von Neugierde getrieben, gingen einige aus der Crew und ich los, um nachzusehen. Als wir näher herankamen, schien das Geräusch auf uns zuzukommen! Ich wollte gerade der Gruppe befehlen, umzukehren, als plötzlich ein Schwarm Moskitos aus dem Dschungel flog, jeder so groß wie eine Möwe. Ich schaffte es gerade noch, meinen Säbel abzulegen....
+===========================
+Wir liefen langsam, aber stetig durch den Dschungel. Wir schickten einen flinken Seehund voraus, der uns vor eventuellen Hinterhalten warnen sollte. Die Einheimischen hatten uns bereits ihre Gastfreundschaft gezeigt. 
+"Cap'n, Cap'n!" Der Seehund rannte auf uns zu, seine Hände und Beine waren blutig. 
+"Sofort melden! Gibt es da oben einen Hinterhalt?" 
+"Ein Fort!", verkündete der Pirat und schnappte nach Luft. "Im Norden ist ein Fort, Käpt'n, mit ein paar von diesen verdammten Gnollen drin!" 
+"Ein Fort? Hier, in diesen gottverlassenen Landen?" Sagte ich verblüfft. "Wahrscheinlich der alte erathianische Außenposten", mutmaßte Patris. "In den Tagen des alten Königs Gryphonheart wurden solche Außenposten auf so ziemlich jeder bewohnbaren Insel errichtet." 
+"Interessant", sagte ich laut. Ich legte dem Seehund die Hand auf die Schulter: "Du, verbinde diese Wunden und ruhe dich ein wenig aus; das hast du gut gemacht. Wir gehen weiter in Richtung des Forts und bitten die Gnolls, sich einen anderen Ort zum Siedeln zu suchen."
+===========================
+"Zugang verweigert, Passwort erforderlich!" dröhnte eine Stimme aus dem Inneren der Eisenstatue. 
+Die Anwesenheit dieser Statuen auf der Insel hat mich von Anfang an gewarnt. Ich nahm an, dass es Golems waren, die möglicherweise etwas Wertvolles bewachten. 
+"Käpt'n, das sieht aus wie die Bewachung irgendeines alten Lagerhauses", sagte Patris und deutete über den Rücken der Golems hinweg. "Sicherlich gibt es da drin eine Menge Beute." 
+"Passwort nicht gegeben. Unbefugte werden getötet", brüllte die eiserne Wache und riss mich aus meinen Überlegungen. Plötzlich griffen die Wachen an!
+===========================
+Unerwartet sahen wir unseren Späher mit Höchstgeschwindigkeit auf uns zurennen. Er flog direkt an mir vorbei, bevor ich überhaupt ein Wort sagen konnte. Während wir verwirrt unsere Umgebung absuchten, sprangen mehrere riesige Bestien aus dem Dschungel. Sie sahen aus wie eine Kreuzung zwischen einer Kuh und einem Basilisken.
+===========================
+Tag 1
+===========================
+Ich konnte das Rauschen der Wellen hören, als ich im Sand saß und auf mein linkes Bein starrte. Es war nackt, anders als das rechte - mein linker Stiefel war im Schiffswrack ertrunken. Das würde nicht reichen! Ich würde ein paar Sandalen oder so etwas finden müssen. Meine Pistole lag rechts von mir, voll Wasser und daher nutzlos. Sollte irgendeine Bedrohung am Horizont auftauchen, würde mein Säbel meine einzige Hoffnung sein. Glücklicherweise war es eine mächtig feine Klinge, den ganzen Weg von Regna. Sie hatte schon viel Feindesblut gekostet. 
+Eine Stimme aus der Nähe durchbrach die Stille: "Wir haben es geschafft, alles zu erlegen, was das Meer nicht weggespült hat!" Ich drehte mich um und sah meinen Ersten Offizier Patris. Obwohl er schon in den Vierzigern war, besaß dieses alte Salz immer noch große Geschicklichkeit und Klarheit im Denken. Patris setzte sich neben mich und blickte traurig auf die Trümmer der Black Unicorn, die in Stücken von den Gezeiten des Meeres weggetrieben wurden. Bald würde es ganz weggespült werden und keine Spur mehr von seiner Existenz hinterlassen. 
+"Haben wir genug zu fressen?" fragte ich, in der Hoffnung, uns Klarheit über unsere Situation zu verschaffen. 
+"Genug für eine Woche, vielleicht. Verdammt, vielleicht ist es besser, dass nicht so viele Jungs den Absturz überlebt haben", brummte mein erster Offizier. 
+"Wo sind wir?" fragte ich, als ich aufstand und den Sand von meiner zerfledderten Jacke wischte. 
+"Ich glaube, wir sind auf den Inseln irgendwo zwischen Nighon und Eeofol", antwortete Patris. "Und ich habe das starke Gefühl, dass wir hier festsitzen, Käpt'n."
+"Warum sagen Sie das?" erkundigte ich mich.
+"Hier gibt es keine menschlichen Siedlungen, nur Barbaren und verdammte Bestien. Wenn wir nicht innerhalb einer Woche einen Ort finden, an dem wir uns niederlassen können, werden wir von einer Hungersnot, Munitionsknappheit, Krankheit.... überwältigt." 
+"Ach komm schon, es gab noch nie eine Situation, die Jeremy Albatross nicht bewältigen konnte!" Ich unterbrach mich, als ich mich umdrehte, um den Dschungel zu betrachten. 
+Es war eine dichte, dunkelgrüne, lebende Masse, in der große, leuchtende Blumen blühten. In den Tiefen dieses Waldes lauerten Schlangen, riesige Moskitos und andere Gefahren. Ich hatte das Gefühl, dass uns Dutzende von Raubtieraugen aus dem Dschungel anstarrten und darauf warteten, uns in eine Falle zu locken. Würde Jeremy Albatros seine letzten Tage auf dieser verdammten Insel erleben? 
+"Hey, ihr Schurken!" rief ich. "Beeilt euch und packt alles, was ihr tragen könnt! Mal sehen, welche Überraschungen diese verfluchte Insel für uns vorbereitet hat."
+===========================
+Tag 2
+===========================
+Wir kämpften uns durch den dichten, sumpfigen Dschungel. Ich schritt vorsichtig und versuchte, mir nicht in den linken Fuß zu schneiden. Verdammt, wann finde ich endlich ein Schuhwerk? Ich könnte natürlich jemanden aus der Mannschaft bitten, mir einen ihrer Stiefel zu leihen - wer ist hier eigentlich der Kapitän? Aber ich wollte die angeschlagene Moral unserer kleinen Truppe nicht grundlos auf die Probe stellen. Ich muss ein Vorbild für die Jungs sein. Ich muss ihnen zeigen, dass ich, ihr kühner Captain, nichts dabei empfinde, auf diese verfluchten dornigen Lianen zu treten.
+
+"Hör zu, Patris. Warum zum Teufel sollten Erathianer hier einen Außenposten errichten?" fragte ich und versuchte, mich von den Schmerzen in meinen Füßen abzulenken und von der Sorge, ob der letzte Stachel giftig gewesen war.
+"Sie waren einst aktiv auf Entdeckungsreise, zogen über die Meere und suchten nach neuem Land. Dann brach der Krieg mit Eeofol und Nighon aus. Greifenherz rief viele der Garnisonen dringend zurück. Jeder, der zurückblieb, wurde vergessen. Nach dem Krieg waren dann alle damit beschäftigt, das Königreich wiederherzustellen und sich mit den Elfen und Nekromanten auseinanderzusetzen...." Es war offensichtlich, dass mein erster Offizier mir gerade eine weitere Geschichtsstunde erteilen wollte. 
+"Warum weißt du das alles so gut?" 
+"Ich war nicht immer ein Pirat, Käpt'n!", antwortete Patris grinsend. "Übrigens, da, wo du gleich hintrittst, ist noch ein Stachel." 
+"Danke, aber den habe ich schon gesehen", brummte ich, wich dem Stachel gerade noch aus und setzte meinen Fuß im letzten Moment an eine sichere Stelle. "Willst du damit sagen, dass hier vielleicht erathianische Soldaten sind?" 
+Optimismus heuchelnd, antwortete Patris: "Wenn sie nicht von den hiesigen Barbaren getötet wurden, sind sie vielleicht Piraten oder Schmuggler geworden. Diese Meerenge ist schließlich ein lebendiger Ort."
+===========================
+Tag 8
+===========================
+Ich stand auf den überwucherten Mauern des erathianischen Forts und beobachtete meine Umgebung mit meinem Fernrohr. So ein unschätzbares Werkzeug - ich habe verdammtes Glück, dass es nicht mit dem Schiff untergegangen ist. Die Insel war viel größer, als ich ursprünglich angenommen hatte. Sie erstreckte sich weit nach Osten und verschwand im fernen Dunst. Dieser Ort würde sich hervorragend für Überfälle eignen! Wir müssten nur alles schön ordentlich einrichten, den Außenposten reparieren, ein paar Straßen bauen und die örtlichen Kannibalen und andere Abrrghs zähmen. Ich habe auch ein neues Paar hohe Stiefel gefunden! Keine Ahnung, wo diese hirnlosen Gnolls sie gefunden haben, aber sie passen mir perfekt.
+
+"Hey Jeremy, wie findest du den Ort?", rief Patris von unten. "Wir haben die Vorräte der Gnolle durchsucht und etwas Essen und Trinkwasser gefunden! Hier drüben gibt es sogar einen Brunnen!" 
+"Es ist ein schöner Ort", antwortete ich. "Mein Schiff liegt auf dem Meeresgrund, also hätte ich sowieso eine Landratte werden müssen. Was hältst du davon?" "Ja, ich wollte gerade vorschlagen, dass wir hier vor Anker gehen", lachte Patris und kratzte sich am Kinn. "Aber sieh mal, dieser ganze Ort ist unvorbereitet. Wenn die Gnolls angreifen würden, würden wir abgeschlachtet werden." 
+"Deshalb brauchen wir eine richtige Festung mit uneinnehmbaren Mauern, Fallen und strategisch platzierten Geschütztürmen", erwiderte ich und verstaute mein Fernrohr in seiner Ledertasche. "Das Problem ist, den Stein und das Holz zu finden, um das alles zu bauen. Ich bezweifle, dass es hier viel Handel gibt." 
+"Käpt'n, ich schlage vor, wir kundschaften die Umgebung aus. Wenn es Schmuggler in der Gegend gibt, dann verlieren sie sicher hin und wieder etwas von ihrer Ware. Und einige Goblins könnten diese Waren sehr wohl zum Bau von Unterkünften und dergleichen verwenden. Hier gibt es reichlich Material, man muss nur genau hinsehen."
+
+Ich fühlte mich inspiriert und stieg die alte, rissige Steinleiter hinunter. Ich hatte Angst, dass sie unter meinen neuen Stiefeln zu Staub zerfällt, um ehrlich zu sein. Patris kam ebenfalls hinunter und schreckte mich mit einer Frage auf: "Käpt'n, wie wollen wir unsere Festung nennen?" 
+"Utopia", sagte ich mit einem Lächeln.
+===========================
+Tag 10
+===========================
+Unsere Befürchtungen waren berechtigt. Spät in der Nacht näherte sich ein Mob von Gnollen und Goblins, bewaffnet mit Schwertern und Blasrohren, Utopia. Jemand aus unserer Gruppe feuerte einen Musketenschuss ab, und der verängstigte Mob zerstreute sich in den Wald. Die Einheimischen waren nicht richtig organisiert, um letzte Nacht anzugreifen, aber früher oder später werden sie ihren Mut zusammennehmen. Je eher wir unsere Verteidigung aufbauen, desto besser.
+===========================
+Tag 14
+===========================
+Ich saß gestern Abend am Lagerfeuer und stellte fest, dass zwei Wochen vergangen sind, seit die Black Unicorn gesunken ist. Es gibt keine größere Schande für einen Regnan, als sein Schiff zu verlieren. Dein Schiff spiegelt deinen Status wider - repräsentiert dich. Die Liebe, die ich für dieses Schiff hatte! So viele glorreiche Tage lagen hinter uns. Selbst wenn es mir gelänge, ein neues Schiff zu bauen oder zu stehlen, würde jeder in Regna wissen, dass es nicht die Black Unicorn war. Die Gerüchte würden sich verbreiten: Jeremy Albatros wurde seiner Männlichkeit beraubt. Sein alter Kahn ist gesunken und jetzt schwimmt er in seinem hölzernen Beiboot herum. Was für ein Verlierer! 
+
+Aber es ist ein bisschen früh, um über meine Rückkehr nach Regna nachzudenken. Ich sollte meinen älteren Bruder Bidley suchen: Er mag ein verdammt guter Schwindler sein, aber er würde keine Gerüchte über mich verbreiten. Ich müsste ihn als Bruder bitten, mir ein neues Schiff zu besorgen - ein besseres als die Black Unicorn, damit die Klatschtanten aus Regna denken, ich hätte mein altes Schiff gegen ein neues getauscht. Tolle Idee! Ich liebe mich für meine Gabe, aus jeder Situation einen Ausweg zu finden.
+Es stimmt, was meine Mutter sagte, dass Bidley den Verstand hat und ich das Glück. Schwer zu sagen, was wichtiger ist....
+===========================
+Tag 18
+===========================
+Eine der Wachen kam auf mich zu, der Ausdruck auf seinem Gesicht zeigte Enttäuschung und Widerwillen. 
+"Na los, erzähl mir, was passiert ist", sagte ich. 
+"Cap'n, äh ... Jeremy, wir haben ein Problem mit den Wilden. Diese Feiglinge haben sich in der Nacht ins Fort geschlichen und sich alles geschnappt, was glänzt. Wenigstens hatten sie nicht genug Verstand, um unser Holz und unsere Steine zu nehmen."
+"Na gut", seufzte ich. "Ich hoffe, das nächste Mal schleppen sie diese Taugenichtse von Wachen weg und kochen sie über dem Lagerfeuer."

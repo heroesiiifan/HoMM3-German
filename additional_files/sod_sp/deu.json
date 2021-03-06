@@ -1,0 +1,278 @@
+{
+    "code_page" : 1252,
+    "general": {
+        "movement": "Bewegungskosten: {%d}",
+        "multiplayer_disabled": "{Multiplayer ist deaktiviert}\n\nUm Multiplayer zu aktivieren, müsst Ihr {~Cyan}SoD_SP} aus Eurer Liste der aktiven Mods entfernen.",
+        "new_version": "Eine {~H3Cyan}neue Version von SoD_SP} ist verfügbar:\n{~H3Green}%s}\nIhr verwendet derzeit die Version :\n{~H3Red}%s}\n\nMöchtet Ihr zur Download-Seite gehen?",
+        "prison_fusion": "{Heldenverschmelzung} ist deaktiviert.\nBitte entfernt Euch von dem Gefängnis und versucht es erneut.",
+        "save_confirmation": "Schnellgespeichert!",
+        "custom_save_abbreviation": "Schnell",
+        "custom_abbreviation_text": "Bitte gebt zwischen {1 und 15} Zeichen für Euren benutzerdefinierten Schnellspeichernamen ein.",
+        "error_log_prompt": "{~#FF0000}Ein Fehler wurde von SoD_SP!} abgefangen\nMöchtet Ihr ihn in einer Datei speichern?",
+        "save_button_name": "iSAVE.def"
+    },
+    "color": {
+        "dialog_title": {
+            "text": "SoD_SP Farbauswahl",
+            "description": "Wählt Eure Farbe"
+        },
+        "adventure_map_coordinates": {
+            "text": "Koordinaten der Abenteuerkarte",
+            "description": "{Koordinaten der Abenteuerkarte}\n\nDie Farbe, die den Koordinaten des Mauszeigers auf der Abenteuerkarte entspricht."
+        },
+        "creature_hit_points": {
+            "text": "Kampf-Kreatur-Trefferpunkte",
+            "description": "{Kampf-Kreatur-Trefferpunkte}\n\nDie Farbe der Trefferpunkte der Kreatur unter dem Mauszeiger während des Kampfes."
+        },
+        "slay_all_creatures_hint_color": {
+            "text": "Maximale Anzahl",
+            "description": "{Maximale Anzahl}\n\nDie Farbe, die für beschreibende Zahlen verwendet wird, die anzeigen, dass eine vollständige Auslöschung oder Wiederherstellung erfolgen wird."
+        },
+        "slay_partial_creatures_hint_color": {
+            "text": "Teilweise Anzahl",
+            "description": "{Teilweise Anzahl}\n\nDie Farbe, die für beschreibende Zahlen verwendet wird, die anzeigen, dass nur eine teilweise Tötung oder Wiederherstellung erfolgt."
+        },
+        "move_sequence_hint_color": {
+            "text": "Bewegungssequenz",
+            "description": "{Bewegungssequenz}\n\nDie Farbe, die in der Statusleiste des Schlachtfelds verwendet wird, um die Bewegungsreihenfolge der Kreatur unter dem Mauszeiger anzuzeigen."
+        },
+        "battle_coordinates_hint_color": {
+            "text": "Kampfhex-Koordinaten",
+            "description": "{Kampfhex-Koordinaten}\n\nDie Farbe, die den alphanumerischen Koordinaten des Kampfes unter dem Mauszeiger während des Kampfes entspricht."
+        },
+        "color_type_modified": "Farboption\n{%s}\nerfolgreich eingestellt auf:\n{~%s}%s}"
+    },
+    "combat": {
+        "kill_verb": "tötet",
+        "damage_noun": "Schaden",
+        "resurrected_hit_points": "HP wiederhergestellt",
+        "resurrection_verb": "erhöht",
+        "hit_points": "HP",
+        "kill_range": " bis ",
+        "active_creature": "Aktiv",
+        "waiting_creature": "Wartet",
+        "moved_creature": "Bereits bewegt",
+        "defending_creature": "Verteidigt",
+        "creature_status": "Status",
+        "retaliations_count": "Gegenmaßnahmen",
+        "number_spell_charges": "Wirkungen übrig",
+        "battlequeue_top_turret": "Oben",
+        "battlequeue_mid_turret": "Behalten",
+        "battlequeue_bot_turret": "Unten"
+    },
+    "quickspell": {
+        "target_creature": "Schnellzauber-Ziel {\"%d\"} eingestellt auf {\"%s\"} auf {\"%c%d\"}.",
+        "target_hex": "Schnellzauber-Ziel {\"%d\"} eingestellt auf {\"%c%d\"}.",
+        "no_spell": "Ihr habt nicht den {\"%s\"} Zauberspruch.",
+        "new_creature": "Eine Kreatur ist von den Toten auferstanden...\nWollt Ihr sie als Schnellzauber-Ziel setzen {\"%d\"}?",
+        "set_quickspell": "Schnellzauber {\"%d\"} auf {\"%s\"} gesetzt.\nSchnellzauber {\"%d\"} Ziel behalten?",
+        "list_spells_title": "Liste der Schnellzauber",
+        "reset_hint": "Schnellzauber zurücksetzen {\"%d\"} Ziel",
+        "reset_target_text": "Linksklick zum Zurücksetzen des Schnellzaubers {\"%d\"} Ziel.",
+        "reset_confirmation": "Seid Ihr sicher, dass Ihr den Schnellzauber zurücksetzen wollt?",
+        "select_new_quickspell": "Klickt mit der linken Maustaste, um einen anderen Schnellzauber auszuwählen."
+    },
+    "find_me": {
+        "search_in_shroud_text": "Wenn {EIN} aktiviert ist, findet und zeigt FindMe Objekte, die im Schleier versteckt sind.\n Wenn {AUS} aktiviert ist, findet und zeigt FindMe nur Objekte, die Sie bereits sehen können.",
+        "search_in_shroud_hint": "Einschalten, um Gegenstände in der unerforschten Umgebung zu finden und aufzudecken.",
+        "item_general_hint": "Klickt mit der linken Maustaste, um dieses Item zu finden.",
+        "stop_display": "Angehaltene Anzeige von Items.",
+        "toggle_event_display": "Klickt, um die Sichtbarkeit von Ereignissen auf der Abenteuerkarte einzuschalten.",
+        "number_first" : true,
+        "found_items_text": "Hat %d %s gefunden",
+        "report_none" : true,
+        "toggle_report_none_text" : "Wenn {EIN} aktiviert, gibt FindMe eine Warnmeldung aus, wenn keine Objekte gefunden wurden.\nWenn {AUS} aktiviert, schlägt FindMe fehl, ohne zu melden, dass keine Objekte gefunden wurden.",
+        "toggle_report_none_hint" : "Klicket, um die Warnmeldung umzuschalten, wenn keine Objekte gefunden werden.",
+        "none_found" : "Es wurde kein %s gefunden!",
+        "event_pcx_name" : "FMEvent.pcx",
+        "objects_sprite_name" : "FindMe.def"
+    },
+    "spells": {
+        "elementals": "\nBeschwört %d Elementare.",
+        "cure": "\nHeilt %d Trefferpunkte.",
+        "hypnotize": "\nKontrolle über bis zu %d Trefferpunkte.",
+        "resurrection": "\n%d Trefferpunkte wiederherstellen.",
+        "visions": "\nReichweite: %d Kacheln",
+        "fly_waterWalk": "\nDie zurückgelegte Strecke kann bis zu %d%% der normalen Bewegung betragen.",
+        "increase": "\nErhöht um: %d",
+        "reduce": "\nReduziert um: %d",
+        "reduce_by_percentage": "\nReduktion von: %d%%",
+        "dimension_door_town_portal": "\nKosten für Bewegungspunkte: %d",
+        "sacrifice": "\nFügt %d Trefferpunkte zu jeder geopferten Kreatur hinzu.",
+        "fire_shield": "\nGibt %d%% des Basisschadens zurück."
+    },
+    "sod_sp": {
+        "dialog": {
+            "dialog_title": "SoD_SP Optionen",
+            "dialog_description": "Klickt mit der rechten Maustaste auf die Kontrollkästchen, um weitere Infos zu erhalten.",
+            "confirm_description": "Alle Änderungen übernehmen und Dialog schließen.",
+            "save_description": "Speichert die aktuellen Optionen in der {SoD_SP.ini}",
+            "save_confirmation": "Seid Ihr sicher, dass Ihr alle Änderungen speichern möchtet?",
+            "save_failed": "{Warnung!}\n\nEtwas ist schief gelaufen und die Daten konnten nicht gespeichert werden.",
+            "save_success": "Alle Optionen gespeichert!",
+            "disabled_option_text": "Diese Option wurde durch\n{~H3Cyan}den Kartenersteller gesperrt}\nund kann nicht angepasst werden."
+        },
+        "options": {
+            "month_of_the_plague": {
+                "text": "Seuche",
+                "description": "{Seuche}\n\nWenn diese Option {EIN} ist, verhindert sie das Auftreten von Monat der SEUCHE!."
+            },
+            "double_growth_month": {
+                "text": "Doppeltes Wachstum",
+                "description": "{Doppeltes Wachstum}\n\nWenn diese Option {EIN} ist, verhindert sie die 12 doppelten Wachstumsmonate und das Spawnen von Kreaturen auf der Karte.\n{HINWEIS}: entfernt *NICHT* den 'Monat des Imps'."
+            },
+            "weekly_5_growth": {
+                "text": "Wöchentliches Wachstum",
+                "description": "{Wöchentliches Wachstum}\n\nWenn diese Option {EIN} ist, verhindert sie das zufällige wöchentliche '+5 Wachstum' für bestimmte Kreaturen."
+            },
+            "fix_armorer_turret_bug": {
+                "text": "Revolverkopf-Bug",
+                "description": "{Revolverkopf-Bug}\n\nWenn diese Option {EIN} ist, sorgt sie dafür, dass die Fertigkeit 'Waffenschmied' und 'Luftschild' den Schaden von Türmen reduzieren, anstatt ihn zu erhöhen."
+            },
+            "prevent_creature_overflow": {
+                "text": "Kreaturüberlauf",
+                "description": "{Kreaturüberlauf}\n\nWenn diese Option {EIN} ist, verhindert sie, dass Kreaturenstapel, die größer als 32.767 sind, plötzlich negativ und damit unbrauchbar werden.\n{HINWEIS}: Ab HDmod 5.0 Beta 9 ist dies das Standardverhalten. Um das ursprüngliche Überlaufrisiko wiederherzustellen, schaltet die Option auf {AUS}."
+            },
+            "prevent_resource_overflow": {
+                "text": "Ressourcenüberlauf",
+                "description": "{Ressourcenüberlauf}\n\nWenn diese Option {EIN} ist, verhindert sie, dass Ihre Ressourcen bei 2.147.483.647 überlaufen und negativ werden."
+            },
+            "prevent_primary_skill_overflow": {
+                "text": "Primärüberlauf",
+                "description": "{Primärüberlauf}\n\nWenn diese Option {EIN} ist, verhindert sie, dass Ihre primären Fähigkeiten bei 127 überlaufen und negativ werden. {HINWEIS}: bei der Spielerstellung absichtlich nicht aktiv, damit Ihr trotzdem einen hochstufigen Helden mit kleinen Werten haben könnt."
+            },
+            "restore_original_obstacles": {
+                "text": "Original-Hindernisse",
+                "description": "{Original-Hindernisse}\n\nWenn diese Option {EIN} ist, wird die ursprüngliche Platzierung von Hindernissen während des Kampfes wiederhergestellt, auch wenn die Funktion '{HD+}' verwendet wird."
+            },
+            "restore_original_creature_split": {
+                "text": "Kreaturenteilung",
+                "description": "{Kreaturenteilung}\n\nWenn diese Option {EIN} ist, wird der ursprüngliche Aufteilungsalgorithmus von wandernden Kreaturen wiederhergestellt, auch wenn die Funktion '{HD+}' verwendet wird."
+            },
+            "restore_original_random_number_generator": {
+                "text": "Original RNG",
+                "description": "{Original RNG}\n\nWenn diese Option {EIN} ist, wird die ursprüngliche RNG-Funktion wiederhergestellt, auch wenn Ihr die Funktion '{HD+}' verwendet."
+            },
+            "restore_original_berserk_for_ai": {
+                "text": "KI Berserker",
+                "description": "{KI Berserker}\n\nWenn diese Option {EIN} ist, wird das ursprüngliche Verhalten von KI-Einheiten unter dem Zauberspruch 'Berserker' wiederhergestellt, auch wenn die Funktion '{HD+}' verwendet wird."
+            },
+            "comma_formatted_resources": {
+                "text": "Ressourcen-Format",
+                "description": "{Ressourcen-Format}\n\nWenn diese Option {EIN} ist, werden zur besseren Lesbarkeit zwischen allen 3 Ziffern Kommas '.' angezeigt: In einigen Fällen, in denen nur wenig Platz zur Verfügung steht, werden K, M verwendet, um Tausender und Millionen darzustellen.\nz.B. 123.456.789 wird als 123.456K angezeigt."
+            },
+            "combat_rmb_ok_button": {
+                "text": "RMB-Kampftext",
+                "description": "{RMB-Kampftext}\n\nWenn diese Option {EIN} ist, bewirkt sie, dass beim Rechtsklick auf einen Gegner im Kampf das Textfeld nach dem Loslassen der rechten Maustaste geöffnet bleibt."
+            },
+            "show_combat_coordinates_hint": {
+                "text": "Kampfkoordinaten",
+                "description": "{Kampfkoordinaten}\n\nWenn diese Option {EIN} ist, werden die alphanumerischen Kampfkoordinaten unter Ihrem Mauszeiger im Kampftipp-Dialog angezeigt."
+            },
+            "show_creature_hit_points_hint": {
+                "text": "Kreatur HP",
+                "description": "{Kreatur HP}\n\nWenn diese Option {EIN} ist, zeigt sie die verbleibenden Trefferpunkte der Kreatur unter Ihrer Maus im Kampftipp-Dialog an."
+            },
+            "show_creature_move_sequence_hint": {
+                "text": "Bewegungssequenz",
+                "description": "{Bewegungssequenz}\n\nWenn diese Option {EIN} ist, wird die Bewegungsreihenfolge der Kreatur unter Ihrer Maus im Kampftipp-Dialog angezeigt."
+            },
+            "enable_turbo_speed": {
+                "text": "Turbo-Geschwindigkeit",
+                "description": "{Turbo-Geschwindigkeit}\n\nWenn  diese Option {EIN} ist, sind alle Kampfanimationen schneller."
+            },
+            "correct_some_ai_cheats": {
+                "text": "KI Cheats",
+                "description": "{KI Cheats}\n\nWenn diese Option {EIN} ist, können die KI-Spieler nicht mehr 'Stadtportal' zaubern, während sie sich auf verfluchtem Boden befinden, und die KI wird daran gehindert, 'Fliegen' zu zaubern, wenn sie nicht von vornherein Zugang dazu hat."
+            },
+            "display_extra_spell_information": {
+                "text": "Zauberspruch-Infos",
+                "description": "{Zauberspruch-Infos}\n\nWenn diese Option {EIN} ist, erhaltet Ihr zusätzliche Informationen, wenn Ihr einige Zaubersprüche in Eurem Zauberbuch prüft."
+            },
+            "display_mouse_map_coordinates": {
+                "text": "Kartenkoordinaten",
+                "description": "{Kartenkoordinaten}\n\nWenn diese Option {EIN} ist, werden die Koordinaten unter dem Mauszeiger (x,y,z) in der Abenteuerkarte in der Statusleiste am unteren Rand des Bildschirms angezeigt."
+            },
+            "hide_clone_and_elementals_casualties": {
+                "text": "Reale Verluste",
+                "description": "{Reale Verluste}\n\nWenn diese Option {EIN} ist, werden beschworene Elementare und geklonte Kreaturen nicht als Verluste auf dem Schlachtfeld angezeigt."
+            },
+            "show_quickspell_panel": {
+                "text": "Schnellzauber-Panel",
+                "description": "{Schnellzauber-Panel}\n\nWenn diese Option {EIN} ist, wird auf der linken Seite des Kampfbildschirms eine interaktive Tafel mit Ihren eingestellten Schnellzaubern angezeigt und ermöglicht die Anpassung."
+            },
+            "show_battlequeue_panel": {
+                "text": "Warteschlangen-Panel",
+                "description": "{Warteschlangen-Panel}\n\nWenn diese Option {EIN} ist, wird auf der rechten Seite des Kampfbildschirms die bevorstehende Zugreihenfolge der Kreaturen auf dem Schlachtfeld angezeigt."
+            },
+            "battlequeue_position_count": {
+                "text": "Warteschlangen-Text",
+                "description": "{Warteschlangen-Text}\n\nWenn diese Option {EIN} ist, zeigt die Warteschlange die alphanumerische Position des Stapels an.\n Wenn sie {AUS} ist, zeigt die Warteschlange die Anzahl der Kreaturen im Stapel an."
+            },
+            "correct_admirals_hat_bug": {
+                "text": "Admiralshut-Bug",
+                "description": "{Admiralshut-Bug}\n\nWenn diese Option {EIN} ist, wird die Möglichkeit der Erzeugung von Endlosbewegungen mit dem Admiralhut entfernt."
+            },
+            "correct_some_movement_bugs": {
+                "text": "Bewegungs-Bugs",
+                "description": "{Bewegungs-Bugs}\n\nWenn diese Option {EIN} ist, werden einige Bewegungsfehler behoben, z. B. Rückzug auf einem Boot, der Leuchtturm der Burgstadt fügt Bewegung für alle hinzu."
+            },
+            "enable_clone_bug": {
+                "text": "Klonen-Bug",
+                "description": "{Klonen-Bug}\n\nWenn diese Option {EIN} ist, wird der Klon-Bug bei Verwendung der Funktion '{HD+}' wieder aktiviert. Während dies für sehr wenige spezifische Karten erforderlich ist, wird empfohlen, diese Einstellung auszuschalten, da bei der Verwendung dieses Bugs Abstürze auftreten können."
+            },
+            "correct_earthquake_bug": {
+                "text": "Erdbeben-Bug",
+                "description": "{Erdbeben-Bug}\n\nWenn diese Option {EIN} ist, behebt sie den Erdbeben-Bug, der manchmal auf Einheiten zielte."
+            },
+            "correct_repeatable_event_bug": {
+                "text": "Wiederholbares Ereignis",
+                "description": "{Wiederholbares Ereignis}\n\nWenn diese Option {EIN} ist, verhindert sie, dass Ihr Ereignisse erneut besucht, die im Mapeditor als 'Ereignis nach erstem Besuch abbrechen' gekennzeichnet wurden."
+            },
+            "show_ai_movement_on_minimap": {
+                "text": "KI Minikarte",
+                "description": "{KI Minikarte}\n\nWenn diese Option {EIN} ist, seht Ihr auf der Minimap anstelle des KI-Schilds, wohin sich die KI-Helden bewegen."
+            },
+            "correct_vanishing_upgraded_stack": {
+                "text": "Verschwinden-Bug",
+                "description": "{Verschwinden-Bug}\n\nWenn diese Option {EIN} ist, wird der zufällig aufgerüstete Stapel umherwandernder Monster nicht mehr von der Gesamtzahl der Kreaturen abgezogen, wenn sich der Held zurückzieht."
+            },
+            "fix_incorrect_obstacle_anchors": {
+                "text": "Anker-Bug",
+                "description": "{Anker-Bug}\n\nWenn diese Option {EIN} ist, verhindern lokale Schlachtfeld-Hindernisse nicht, dass 'Feuerwand', 'Kraftfeld', 'Treibsand' oder 'Landmine' auf einige nahe gelegene Felder gewirkt werden.\n{HINWEIS}: Diese Option kann nicht vom Schlachtfeld aus geändert werden."
+            },
+            "ai_fast_battle_bug": {
+                "text": "KI Schnellkampf-Bugs",
+                "description": "{KI Schnellkampf-Bugs}\n\nWenn diese Option {EIN} ist, werden Fehler im KI-gegen-KI-Kampf behoben."
+            },
+            "restore_naga_bank_sulfur": {
+                "text": "Naga-Bänke",
+                "description": "{Naga-Bänke}\n\nWenn diese Option {EIN} ist, liefern Naga-Banken Schwefel anstelle von Edelsteinen, wodurch die Änderung '{HD+}' rückgängig gemacht wird.\n{HINWEIS}: Ihr seht die Auswirkungen dieser Option erst nach dem Start eines neuen Spiels."
+            },
+            "correct_hero_hireability": {
+                "text": "Tavernen-Helden",
+                "description": "{Tavernen-Helden}\n\nWenn diese Option {EIN} ist, sind Helden, die nicht als 'Kann von Spieler X angeheuert werden' markiert sind, nicht mehr in der Taverne verfügbar, wie vom Kartenersteller beabsichtigt, wenn sie sterben oder entlassen werden.\n{HINWEIS}: Um die Effekte zu sehen, muss diese Einstellung ausgeschaltet werden, wenn der Bug aktiviert ist."
+            },
+            "correct_quick_combat_power_overflow": {
+                "text": "Schnellkampf-Überlauf",
+                "description": "{Schnellkampf-Überlauf}\n\nWenn diese Option {EIN} ist, können die Gesamtleistung und der Gesamtschaden im KI-KI-Schnellkampf nicht in negative Werte überlaufen."
+            },
+            "ai_necromancy_fix": {
+                "text": "KI Nekromantie",
+                "description": "{KI Nekromantie}\n\nWenn diese Option {EIN} ist, erwecken KI-Helden mit Nekromantie die entsprechende Anzahl von Kreaturen anstelle einer einzelnen Kreatur."
+            },
+            "prevent_hero_fusion": {
+                "text": "Heldenfusion",
+                "description": "{HHeldenfusion}\n\nWenn diese Option {EIN} ist, dürfen Helden nicht mehr dieselbe Kartenkachel belegen, wodurch der Handel zwischen ihnen und das Erstellen von Kopien von Gegenständen verhindert wird."
+            },
+            "ai_magic_mirror_fix": {
+                "text": "KI Zauberspiegel",
+                "description": "{KI Zauberspiegel}\n\nWenn diese Option {EIN} ist, können von gegnerischen Helden gewirkte Angriffszauber auf die eigenen Truppen reflektiert werden, wenn das ursprüngliche Ziel unter der Wirkung des Zaubers {Magischer Spiegel} steht."
+            },
+            "enchanters_spellcast_fix": {
+                "text": "Verzauberer wirken Bug",
+                "description": "{Verzauberer wirken Bug}\n\nWenn diese Option {EIN} ist, berücksichtigen Verzauberer korrekt alle gültigen Ziele, anstatt nur den ersten Stapel auf jeder Seite des Schlachtfelds; dies könnte dazu führen, dass Verzauberer ansonsten gültige Zauber nicht wirken."
+            }
+        }
+    }
+}

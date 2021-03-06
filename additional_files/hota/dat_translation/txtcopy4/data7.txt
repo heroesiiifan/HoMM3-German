@@ -1,0 +1,92 @@
+
+Name
+
+Adventure Spells
+
+Boot herbeirufen
+Boot versenken
+Visionen
+Erdsicht
+Täuschung
+Luftsicht
+Fliegen
+Wasserwandeln
+Dimensionstor
+Stadtportal
+
+Combat Spells
+
+Treibsand
+Mine
+Kraftfeld
+Feuerwand
+Erdbeben
+Magischer Pfeil
+Eisstrahl
+Blitzstrahl
+Implosion
+Blitzstrahl-Salve
+Frostring
+Feuerball
+Inferno
+Meteorregen
+Kleine Todeswelle
+Untote vernichten
+Armageddon
+Schild
+Luftschild
+Feuerschild
+Schutz Luftmagie
+Schutz Feuermagie
+Schutz Wassermagie
+Schutz Erdmagie
+Anti-Magie
+Zerstreuen
+Magischer Spiegel
+Heilung
+Auferstehung
+Tote beleben
+Opfer
+Segen
+Fluch
+Blutdurst
+Präzision
+Schwäche
+Steinhaut
+Zertrümmern
+Gebet
+Freude
+Sorge
+Fortuna
+Unglück
+Eile
+Verlangsamung
+Drachentöter
+Wahnsinn
+Furcht ( disabled )
+Gegenschlag
+Berserker
+Hypnose
+Vergeßlichkeit
+Blenden
+Teleport
+Hindernis beseitigen
+Klonen
+Feuerwesen
+Erdwesen
+Wasserwesen
+Luftwesen
+
+Creature Abilities
+
+Stone Gaze
+Poison
+Bind
+Disease
+Paralyze
+Age
+Death Cloud
+Thunderbolt
+Dispel Helpful Spells
+Death Stare
+Acid breath

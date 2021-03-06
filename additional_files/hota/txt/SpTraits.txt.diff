@@ -1,0 +1,1424 @@
+8c8
+< Ruft ein existierendes, freundliches und unbesetztes Boot von irgendwo auf der Welt zu Eurem Aufenthaltsort.
+---
+> Ruft ein vorhandenes, neutrales oder eigenes, unbesetztes Boot von irgendwo auf der Welt zu Ihrem Standort.
+10c10
+< Erfolgschancen liegen bei 50%.
+---
+> Die Erfolgschance beträgt 50%.
+13c13
+< Ruft ein existierendes, freundliches und unbesetztes Boot von irgendwo auf der Welt zu Eurem Aufenthaltsort.
+---
+> Ruft ein vorhandenes, neutrales oder eigenes, unbesetztes Boot von einem beliebigen Ort der Welt zu Ihrem Standort.
+15c15
+< Erfolgschancen liegen bei 50%.
+---
+> Die Erfolgschancen liegen bei 50 %.
+18c18
+< Ruft ein existierendes, freundliches und unbesetztes Boot von irgendwo auf der Welt zu Eurem Aufenthaltsort. Wenn kein Boot da ist, wird eines erschaffen.
+---
+> Ruft ein vorhandenes, neutrales oder eigenes, unbesetztes Boot von irgendwo auf der Welt zu Ihrem Standort.  Wenn keine solchen Boote existieren, wird eines erstellt.
+20c20
+< Erfolgschancen liegen bei 75%.
+---
+> Die Erfolgschancen liegen bei 75%.
+23,24c23
+< Ruft ein existierendes, freundliches und unbesetztes Boot von irgendwo auf der Welt zu Eurem Aufenthaltsort.  Wenn kein Boot da ist, wird eines erschaffen.
+< 
+---
+> Ruft ein existierendes, neutrales oder eigenes, unbesetztes Boot von irgendwo auf der Welt an Euren Standort.  Wenn keine solchen Boote existieren, wird eines erstellt.
+28c27
+< Zerstört ein Boot, das Euch gehört. Mit Vorsicht zu benutzen, die Wirkung ist unumkehrbar.
+---
+> Zerstört ein Boot nach Wahl des Zaubernden in der Sichtzone des Helden.  Mit Vorsicht zu verwenden, die Effekte sind permanent.
+30c29
+< Erfolgschancen liegen bei 50%.
+---
+> Die Erfolgschance beträgt 50%.
+33c32
+< Zerstört ein Boot, das Euch gehört. Mit Vorsicht zu benutzen, die Wirkung ist unumkehrbar.
+---
+> Zerstört ein Boot nach Wahl des Zaubernden in der Sichtzone des Helden.  Mit Vorsicht zu verwenden, die Effekte sind permanent.
+35c34
+< Erfolgschancen liegen bei 50%.
+---
+> Die Erfolgschance beträgt 50%.
+38c37
+< Zerstört ein Boot, das Euch gehört. Mit Vorsicht zu benutzen, die Wirkung ist unumkehrbar.
+---
+> Zerstört ein Boot nach Wahl des Zaubernden in der Sichtzone des Helden.  Mit Vorsicht zu verwenden, die Effekte sind permanent.
+40c39
+< Erfolgschancen liegen bei 75%.
+---
+> Die Erfolgschancen liegen bei 75%.
+43c42
+< Zerstört ein Boot, das Euch gehört. Mit Vorsicht zu benutzen, die Wirkung ist unumkehrbar.
+---
+> Zerstört ein Boot nach Wahl des Zaubernden in der Sichtzone des Helden.  Mit Vorsicht zu verwenden, die Effekte sind permanent.
+47c46
+< Verschafft Euch einen groben Eindruck von der Stärke eines gegnerischen Helden, einer Armee oder einer Garnison.
+---
+> Liefert Euch die genaue Anzahl von umherwandernden Monstern und sagt Euch, ob sie bereit wären, sich Ihrem Helden anzuschließen, zu fliehen oder über die Fertigkeit Diplomatie akquiriert zu werden (genaue Gebühr wird verraten). Die Reichweite ist gleich der Zauberkraft oder drei, je nachdem, was größer ist. Gültig für 1 Runde.
+50,51c49,50
+< Verschafft Euch einen groben Eindruck über die Stärke eines gegnerischen Helden oder einer Garnison. Falls sich wandernde Monster in der Nähe befinden, gibt es die exakte Größe der Truppen an und ob sie bereit wären, sich Eurem Helden anzuschließen.
+< "	"{ Visionen verbessert}
+---
+> Liefert Euch die genaue Anzahl der umherwandernden Monster und sagt Euch, ob sie bereit wären, sich Ihrem Helden anzuschließen, zu fliehen oder über die Fertigkeit Diplomatie erworben zu werden (die genaue Gebühr wird aufgedeckt). Die Reichweite ist gleich der Zauberkraft oder drei, je nachdem, was größer ist. Gültig für 1 Runde.
+> "	"{Visionen verbessert}
+53c52
+< Verschafft Euch einen groben Eindruck über die Stärke einer gegnerischen Garnison. Falls sich wandernde Monster in der Nähe befinden, gibt es die exakte Größe der Truppen an und ob sie bereit wären, sich Eurem Helden anzuschließen. Ermöglicht die Ansicht der Primärfähigkeitsstatistik, Kreaturenart und -menge eines gegnerischen Helden, als sei er Teil Eures Königreiches.
+---
+> Liefert Euch die genaue Anzahl von umherwandernden Monstern und sagt Euch, ob sie bereit wären, sich Ihrem Helden anzuschließen, zu fliehen oder über die Fertigkeit Diplomatie erworben zu werden (genaue Gebühr wird aufgedeckt).  Ermöglicht es Euch, die allgemeinen Statistiken, den Kreaturentyp und die Anzahl eines gegnerischen Helden in der Nähe zu sehen, als ob der Held Teil Ihres Reiches wäre. Die Reichweite beträgt (Zauberkraft x 2) oder drei, je nachdem, welcher Wert größer ist. Gültig für 1 Runde.
+56c55
+< Gibt die exakte Anzahl wandernder Monster an und ob sie bereit wären, sich Eurem Held anzuschließen. Ermöglicht die Ansicht der Primärfähigkeitsstatistik, Kreaturenart und -menge eines gegnerischen Helden in der Nähe, als sei er Teil Eures Königreiches, und zeigt außerdem die Statistik, Garnisonskreaturen und deren Menge in einer Stadt in der Nähe an.
+---
+> Liefert dir die genaue Anzahl von umherwandernden Monstern und sagt dir, ob sie bereit wären, sich deinem Helden anzuschließen, zu fliehen oder über die Fertigkeit Diplomatie akquiriert zu werden (genaue Gebühr wird verraten).  Ermöglicht es Euch, die allgemeinen Statistiken, den Kreaturentyp und die Anzahl eines gegnerischen Helden in der Nähe einzusehen, als ob der Held Teil Ihres Reiches wäre, sowie die Statistiken, die Garnisonskreaturen und die Anzahl einer nahegelegenen Stadt. Die Reichweite beträgt (Zauberkraft x 3) oder drei, je nachdem, welcher Wert größer ist. Gültig für 1 Runde.
+60c59
+< Verrät dem Zaubernden die Lage aller Ressourcen.
+---
+> Zeigt dem Zaubernden den Standort aller Ressourcen an.
+63c62
+< Verrät dem Zaubernden die Lage aller Ressourcen.
+---
+> Zeigt dem Werfer den Standort aller Ressourcen an.
+66c65
+< Verrät dem Zaubernden die Lage aller Ressourcen und Minen.
+---
+> Zeigt dem Zaubernden den Standort aller Ressourcen und Minen an.
+69c68
+< Verrät dem Zaubernden die Lage aller Ressourcen und Minen und zeigt ihm das gesamte Terrain.
+---
+> Zeigt dem Zaubernden die Lage aller Ressourcen und Minen sowie das gesamte Terrain an.
+73c72
+< Gibt einem Gegner, der versucht, sich Euren Helden anzusehen, falsche Informationen
+---
+> Lässt alle Einheiten in Ihrer Heldenarmee für Gegner, die Euren Helden zu sehen versuchen, 1 Runde lang wie Ihre stärkste Einheit aussehen.  Die Zahlen in jeder Gruppe bleiben unverändert.
+76c75
+< Sorgt dafür, daß alle Einheiten Eurer Armee aussehen wie Eure stärkste Einheit, wenn ein Gegner versucht, sich Euren Helden anzusehen. Die Anzahl in jeder Gruppe bleibt unverändert.
+---
+> Lässt alle Einheiten Ihrer Heldenarmee für Gegner, die versuchen, Euren Helden zu sehen, 1 Runde lang wie Ihre stärkste Einheit aussehen.  Die Zahlen in jeder Gruppe bleiben unverändert.
+79c78
+< Sorgt dafür, daß alle Einheiten Eurer Armee aussehen wie Eure stärkste Einheit, wenn ein Gegner versucht, sich Euren Helden anzusehen.  Die Anzahlen in jeder Gruppe erscheinen als Null.
+---
+> Lässt alle Einheiten in Ihrer Heldenarmee für Feinde, die versuchen, Euren Helden zu sehen, 1 Runde lang wie Ihre stärkste Einheit aussehen.  Die Zahlen in jeder Gruppe erscheinen als Null.
+82c81
+< Sorgt dafür, daß alle Einheiten Eurer Armee aussehen wie die stärkste Einheit, die mit einem Helden Eures Typs in Verbindung stehen kann, wenn ein Gegner versucht, sich Euren Helden anzusehen. Die Anzahlen in jeder Gruppe erscheinen als Null.
+---
+> Lässt alle Einheiten in Ihrer Heldenarmee für Feinde, die versuchen, Euren Helden zu sehen, 1 Runde lang wie die mächtigste Einheit aussehen, die der Startstadt des Spielers angehört.  Die Zahlen in jeder Gruppe erscheinen als Null.
+86c85
+< Verrät dem Zaubernden die Lage aller unentdecktenen Artefakte.
+---
+> Deckt dem Zaubernden den Standort aller nicht beanspruchten Artefakte auf.
+89c88
+< Verrät dem Zaubernden die Lage aller unentdecktenen Artefakte.
+---
+> Zeigt dem Zaubernden den Standort aller nicht abgeholten Artefakte an.
+92c91
+< Verrät dem Zaubernden die Lage aller unentdecktenen Artefakte und aller gegnerische Helden.
+---
+> Zeigt dem Zaubernden den Standort aller nicht abgeholten Artefakte und gegnerischen Helden.
+95c94
+< Verrät dem Zaubernden die Lage aller unentdecktenen Artefakte und aller gegnerischen Helden und Städte.
+---
+> Zeigt dem Zaubernden den Standort aller nicht abgeholten Artefakte, gegnerischer Helden und aller Städte.
+99c98
+< Ermöglicht Eurer Armee, einen Teil ihrer Bewegung dazu zu nutzen, um über Hindernisse hinwegzufliegen. Ihr müßt am Ende des Zuges landen.
+---
+> Erlaubt Ihrer Armee, über Hindernisse und unwegsames Gelände zu fliegen, mit einem Abzug von 40% auf die Bewegungskosten. Gültig für 1 Runde. Sie müssen am Ende des Zuges landen.
+102c101
+< Ermöglicht Eurer Armee, einen Teil ihrer Bewegung dazu zu nutzen, um über Hindernisse hinwegzufliegen. Ihr müßt am Ende des Zuges landen.
+---
+> Erlaubt es Ihrer Armee, über Hindernisse und unwegsames Gelände zu fliegen, wobei die Bewegungskosten um 40 % reduziert werden. Gültig für 1 Runde. Sie müssen am Ende des Zuges landen.
+105c104
+< Ermöglicht Eurer Armee, einen Großteil ihrer Bewegung dazu zu nutzen, um über Hindernisse hinwegzufliegen. Ihr müßt am Ende des Zuges landen.
+---
+> Erlaubt es Ihrer Armee, über Hindernisse und unwegsames Gelände zu fliegen, wobei die Bewegungskosten um 20% reduziert werden. Gültig für 1 Runde. Sie müssen am Ende des Zuges landen.
+108c107
+< Ermöglicht Eurer Armee, ihre gesamte Bewegung dazu zu nutzen, um über Hindernisse hinwegzufliegen. Ihr müßt am Ende des Zuges landen.
+---
+> Erlaubt Ihrer Armee, Hindernisse und unwegsames Gelände ohne Abzug zu überfliegen. Gültig für 1 Runde. Sie müssen am Ende des Zuges landen.
+112c111
+< Ermöglicht Eurer Armee, einen Teil ihrer Bewegung dazu zu nutzen, über Wasser zu laufen. Eure Bewegung muß an Land enden.
+---
+> Erlaubt es Ihrer Armee, mit einem Malus von 40% auf die Bewegungskosten über Gewässer zu laufen. Gültig für 1 Runde. Sie müssen Ihre Bewegung auf dem Trockenen beenden.
+115c114
+< Ermöglicht Eurer Armee, einen Teil ihrer Bewegung dazu zu nutzen, über Wasser zu laufen. Eure Bewegung muß an Land enden.
+---
+> Erlaubt es Ihrer Armee, mit einem Malus von 40% auf die Bewegungskosten über Gewässer zu laufen. Gültig für 1 Runde. Sie müssen Ihre Bewegung auf trockenem Land beenden.
+118c117
+< Ermöglicht Eurer Armee, einen Großteil ihrer Bewegung dazu zu nutzen, über Wasser zu laufen. Eure Bewegung muß an Land enden.
+---
+> Erlaubt es Ihrer Armee, über Gewässer zu laufen, wobei die Bewegungskosten um 20% reduziert werden. Gültig für 1 Runde. Sie müssen Ihre Bewegung auf trockenem Land beenden.
+121c120
+< Ermöglicht Eurer Armee, ihre gesamte Bewegung dazu zu nutzen, über Wasser zu laufen. Eure Bewegung muß an Land enden.
+---
+> Erlaubt es Ihrer Armee, ohne Strafpunkte über Gewässer zu laufen. Gültig für 1 Runde. Sie müssen Ihre Bewegung auf dem Festland beenden.
+125c124
+< Einmal am Tag könnt Ihr Euren Helden auf einen sichtbaren, unbesetzten Platz auf der Abenteuerkarte teleportieren.
+---
+> Einmal pro Tag (für jeden Helden) darfst du deinen Helden an einen unbesetzten Ort auf der Abenteuerkarte in der Sichtzone des Helden teleportieren. Dies verbraucht 300 Bewegungspunkte.
+128c127
+< Zweimal am Tag könnt Ihr Euren Helden auf einen sichtbaren, unbesetzten Platz auf der Abenteuerkarte teleportieren.
+---
+> Zweimal pro Tag (für jeden Helden) darfst du deinen Helden an einen unbesetzten Ort auf der Abenteuerkarte in der Helden-Sichtzone teleportieren. Dies verschlingt 300 Bewegungspunkte.
+131c130
+< Dreimal am Tag könnt Ihr Euren Helden auf einen sichtbaren, unbesetzten Platz auf der Abenteuerkarte teleportieren.
+---
+> Dreimal pro Tag (für jeden Helden) darfst du deinen Helden an einen unbesetzten Ort auf der Abenteuerkarte in der Helden-Sichtzone teleportieren. Dies verschlingt 300 Bewegungspunkte.
+134c133
+< Viermal am Tag könnt Ihr Euren Helden auf einen sichtbaren, unbesetzten Platz auf der Abenteuerkarte teleportieren.
+---
+> Viermal pro Tag (für jeden Helden) darfst du deinen Helden an einen unbesetzten Ort auf der Abenteuerkarte in der Helden-Sichtzone teleportieren. Dies verschlingt 200 Bewegungspunkte.
+138c137
+< Teleportiert Euren Helden zur nächsten freundlichen Stadt. Die Stadt darf nicht besetzt sein.
+---
+> Teleportiert Euren Helden in die nächstgelegene befreundete Stadt. Benötigt 300 Bewegungspunkte. Die Stadt muss unbesiedelt sein.
+141c140
+< Teleportiert Euren Helden zur nächsten freundlichen Stadt. Die Stadt darf nicht besetzt sein.
+---
+> Teleportiert Euren Helden in die nächstgelegene befreundete Stadt. Benötigt 300 Bewegungspunkte. Die Stadt muss unbesetzt sein.
+144c143
+< Teleportiert Euren Helden zu jeder freundlichen Stadt. Die Stadt darf nicht besetzt sein.
+---
+> Teleportiert Euren Helden in eine beliebige befreundete Stadt. Benötigt 300 Bewegungspunkte. Die Stadt muss unbesetzt sein.
+147c146
+< Teleportiert Euren Helden zu jeder freundlichen Stadt. Die Stadt darf nicht besetzt sein.
+---
+> Teleportiert Euren Helden in eine beliebige befreundete Stadt. Benötigt 200 Bewegungspunkte. Die Stadt muss unbesetzt sein.
+154c153
+< Verteilt vier kleine Treibsandflächen wahllos auf dem Schlachtfeld, die nur der Zaubernde und Kreaturen, die in diesem Gelände beheimatet sind, erkennen können. Wenn eine Einheit in den Treibsand läuft, endet ihre Bewegung für diese Runde und macht den Treibsand für alle erkennbar.
+---
+> Platziert zufällig vier kleine Flecken Treibsand auf dem Schlachtfeld, die nur für den Zaubernden und für Kreaturen sichtbar sind, die in diesem Terrain heimisch sind.  Das Betreten von Treibsand beendet die Bewegung einer nicht fliegenden Einheit für diese Runde und macht den Treibsand für alle sichtbar. Die Dauer von Treibsand ist unbegrenzt.
+157c156
+< Verteilt vier kleine Treibsandflächen wahllos auf dem Schlachtfeld, die nur der Zaubernde und Kreaturen, die in dieser Umgebung zu Hause sind, erkennen können. Wenn eine Einheit in den Treibsand läuft, endet ihre Bewegung für diese Runde und macht den Treibsand für alle erkennbar.
+---
+> Platziert zufällig vier kleine Flecken Treibsand auf dem Schlachtfeld, die nur für den Zaubernden und für Kreaturen sichtbar sind, die in diesem Terrain heimisch sind.  Das Betreten von Treibsand beendet die Bewegung einer nicht fliegenden Einheit für diese Runde und macht den Treibsand für alle sichtbar. Die Dauer von Treibsand ist unbegrenzt.
+160c159
+< Verteilt sechs kleine Treibsandflächen wahllos auf dem Schlachtfeld, die nur der Zaubernde und Kreaturen, die in diesem Gelände beheimatet sind, erkennen können. Wenn eine Einheit in den Treibsand läuft, endet ihre Bewegung für diese Runde und macht den Treibsand für alle erkennbar.
+---
+> Platziert zufällig sechs kleine Flecken Treibsand auf dem Schlachtfeld, die nur für den Zaubernden und für Kreaturen sichtbar sind, die in diesem Terrain heimisch sind.  Das Betreten von Treibsand beendet die Bewegung einer nicht fliegenden Einheit für diese Runde und macht den Treibsand für alle sichtbar. Die Dauer von Treibsand ist unbegrenzt.
+163c162
+< Verteilt acht kleine Treibsandflächen wahllos auf dem Schlachtfeld, die nur der Zaubernde und Kreaturen, die in diesem Gelände beheimatet sind, erkennen können. Wenn eine Einheit in den Treibsand läuft, endet ihre Bewegung für diese Runde und macht den Treibsand für alle erkennbar.
+---
+> Platziert zufällig acht kleine Flecken Treibsand auf dem Schlachtfeld, die nur für den Zaubernden und für Kreaturen sichtbar sind, die in diesem Terrain heimisch sind.  Das Betreten von Treibsand beendet die Bewegung einer nicht fliegenden Einheit für diese Runde und macht den Treibsand für alle sichtbar. Die Dauer von Treibsand ist unbegrenzt.
+165c164
+< Mine	Mine	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Mine}
+---
+> Mine	Mine	3	 	 	x	 	18	15	15	15	10	25	25	50	100	8	8	8	6	8	12	8	2	4	1	1	1	1	"{Minen}
+167c166
+< Verteilt vier kleine Gebiete mit Minen wahllos auf dem Schlachtfeld, die nur der Zaubernde und Kreaturen, die in diesem Gelände beheimatet sind, erkennen können. Jede Einheit, die darüber hinweg läuft, nimmt Schaden.
+---
+> Platziert zufällig vier kleine Bereiche mit Landminen auf dem Schlachtfeld, die nur für den Zaubernden und Kreaturen des Geländes sichtbar sind.  Sie fügt jeder darüber laufenden Einheit, die sie nicht sieht, (Zauberkraft x 10 + 25) Schaden zu und verschwindet. Ansonsten ist die Dauer der Landmine unbegrenzt.
+170c169
+< Verteilt vier kleine Gebiete mit Minen wahllos auf dem Schlachtfeld, die nur der Zaubernde und Kreaturen, die in diesem Gelände beheimatet sind, erkennen können. Jede Einheit, die darüber hinweg läuft, nimmt Schaden.
+---
+> Platziert zufällig vier kleine Bereiche mit Landminen auf dem Schlachtfeld, die nur für den Zaubernden und Kreaturen, die auf dem Gelände leben, sichtbar sind.  Sie fügen jeder darüber laufenden Einheit, die sie nicht sieht, (Zauberkraft x 10 + 25) Schaden zu und verschwinden. Ansonsten ist die Dauer der Landmine unbegrenzt.
+173,175c172
+< Verteilt sechs kleine Gebiete mit Minen wahllos auf dem Schlachtfeld, die nur der Zaubernde und Kreaturen, die in diesem Gelände beheimatet sind, erkennen können. Jede Einheit, die darüber hinweg läuft, nimmt Schaden.
+< 
+< Verursacht 25 Punkte mehr Schaden als 'Mine einfach'.
+---
+> Platziert zufällig sechs kleine Bereiche mit Landminen auf dem Schlachtfeld, die nur für den Zaubernden und für Kreaturen, die in diesem Gelände leben, sichtbar sind.  Sie fügen jeder darüber laufenden Einheit, die sie nicht sieht, (Zauberkraft x 10 + 50) Schaden zu und verschwinden. Ansonsten ist die Dauer der Landmine unbegrenzt.
+178,180c175
+< Verteilt acht kleine Gebiete mit Minen wahllos auf dem Schlachtfeld, die nur der Zaubernde und Kreaturen, die in diesem Gelände beheimatet sind, erkennen können. Jede Einheit, die darüber hinweg läuft, nimmt Schaden.
+< 
+< Verursacht 75 Punkte mehr Schaden als 'Mine einfach'.
+---
+> Platziert zufällig acht kleine Bereiche mit Landminen auf dem Schlachtfeld, die nur für den Zaubernden und Kreaturen, die in diesem Gebiet heimisch sind, sichtbar sind.  Sie fügt jeder darüber laufenden Einheit, die sie nicht sieht, (Zauberkraft x 10 + 100) Schaden zu und verschwindet. Ansonsten ist die Dauer der Landmine unbegrenzt.
+184c179
+< Erzeugt auf dem Schlachtfeld, an einem Punkt, der vom Zaubernden festgelegt wird, ein kleines Kraftfeld.
+---
+> Platziert ein 2-Hex-Kraftfeld auf dem Schlachtfeld an einem vom Zaubernden angegebenen Punkt für 2 Runden. Die Bewegung durch diese Felder ist blockiert.
+187c182
+< Erzeugt auf dem Schlachtfeld, an einem Punkt, der vom Zaubernden festgelegt wird, ein kleines Kraftfeld.
+---
+> Platziert ein 2-Hex-Kraftfeld auf dem Schlachtfeld an einem vom Zaubernden festgelegten Punkt für 2 Runden. Die Bewegung durch diese Felder ist blockiert.
+190c185
+< Erzeugt auf dem Schlachtfeld, an einem Punkt, der vom Zaubernden festgelegt wird, ein mittelgroßes Kraftfeld.
+---
+> Platziert ein 3-Hex-Kraftfeld auf dem Schlachtfeld an einem vom Zaubernden festgelegten Punkt für 2 Runden. Die Bewegung durch diese Felder ist blockiert.
+193c188
+< Erzeugt auf dem Schlachtfeld, an einem Punkt, der vom Zaubernden festgelegt wird, ein mittelgroßes Kraftfeld.
+---
+> Platziert ein 3-Hex-Kraftfeld auf dem Schlachtfeld an einem vom Zaubernden festgelegten Punkt für 2 Runden. Die Bewegung durch diese Felder ist blockiert.
+197c192
+< Erzeugt auf dem Schlachtfeld, an einem Ort, der vom Zaubernden festgelegt wird, eine kleine Feuerwand. Alle Einheiten, die durch die Wand hindurchgehen, nehmen Schaden.
+---
+> Platziert ein 2-Hex-Wildfeuer auf dem Schlachtfeld an einem vom Zaubernden angegebenen Punkt für 2 Runden. Alle Einheiten, die die Wand durchqueren, erleiden (Zauberkraft x 10 + 10) Schaden.
+200c195
+< Erzeugt auf dem Schlachtfeld, an einem Ort, der vom Zaubernden festgelegt wird, eine kleine Feuerwand. Alle Einheiten, die durch die Wand hindurchgehen, nehmen Schaden.
+---
+> Erzeugt auf dem Schlachtfeld an einem vom Zaubernden angegebenen Punkt 2 Runden lang ein 2-Hexen-Wildfeuer.  Alle Einheiten, die die Wand durchqueren, erleiden (Zauberkraft x 10 + 10) Schaden.
+203c198
+< Erzeugt auf dem Schlachtfeld, an einem Ort, der vom Zaubernden festgelegt wird, eine mittelgroße Feuerwand. Alle Einheiten, die durch die Wand hindurchgehen, nehmen Schaden.
+---
+> Erzeugt auf dem Schlachtfeld an einem vom Zaubernden angegebenen Punkt 2 Runden lang ein 3-Hexen-Wildfeuer.  Alle Einheiten, die die Wand durchqueren, erleiden (Zauberkraft x 10 + 20) Schaden.
+206c201
+< Erzeugt auf dem Schlachtfeld, an einem Ort, der vom Zaubernden festgelegt wird, eine mittelgroße Feuerwand. Alle Einheiten, die durch die Wand hindurchgehen, nehmen Schaden.
+---
+> Erzeugt 2 Runden lang an einem vom Zaubernden angegebenen Punkt auf dem Schlachtfeld ein 3-Hexen-Wildfeuer.  Alle Einheiten, die die Wand passieren, erleiden (Zauberkraft x 10 + 50) Schaden.
+210c205
+< Beschädigt im Kampf willkürlich zwei Abschnitte der Burgmauer.
+---
+> Beschädigt zufällig zwei Abschnitte einer Burgmauer, eines Tores oder eines Turms im Kampf.
+213c208
+< Beschädigt im Kampf willkürlich zwei Abschnitte der Burgmauer.
+---
+> Beschädigt zufällig zwei Abschnitte der Burgmauer, des Tores oder des Turms im Kampf.
+216c211
+< Beschädigt im Kampf willkürlich drei Abschnitte der Burgmauer.
+---
+> Beschädigt zufällig drei Abschnitte der Burgmauer, des Tores oder des Turms im Kampf.
+219c214
+< Beschädigt im Kampf willkürlich vier Abschnitte der Burgmauer.
+---
+> Beschädigt zufällig vier Abschnitte der Burgmauer, des Tores oder des Turms im Kampf.
+223c218
+< Die ausgewählte Einheit wird von einem Strahl magischer Energie getroffen.
+---
+> Verursacht einen Blitz aus magischer Energie, der die ausgewählte gegnerische Einheit trifft. Fügt (Zauberkraft x 10 + 10) Schaden zu.
+226c221
+< Die ausgewählte Einheit wird von einem Strahl magischer Energie getroffen.
+---
+> Die gewählte gegnerische Einheit wird von einem Blitz aus magischer Energie getroffen. Fügt (Zauberkraft x 10 + 10) Schaden zu.
+229,231c224
+< Die ausgewählte Einheit wird von einem Strahl magischer Energie getroffen.
+< 
+< Verursacht 10 Punkte mehr Schaden als 'Magischer Pfeil einfach'.
+---
+> Die gewählte gegnerische Einheit wird von einem Blitz aus magischer Energie getroffen. Fügt (Zauberkraft x 10 + 20) Schaden zu.
+234,236c227
+< Die ausgewählte Einheit wird von einem Strahl magischer Energie getroffen.
+< 
+< Verursacht 20 Punkte mehr Schaden als 'Magischer Pfeil einfach'.
+---
+> Verursacht einen Blitz aus magischer Energie, der die ausgewählte gegnerische Einheit trifft. Fügt (Zauberkraft x 10 + 30) Schaden zu.
+240c231
+< Entzieht der ausgewählten gegnerischen Einheit die Körperwärme.
+---
+> Eis entzieht der gewählten gegnerischen Einheit die Körperwärme. Fügt (Zauberkraft x 20 + 10) Schaden zu.
+243c234
+< Entzieht der ausgewählten gegnerischen Einheit die Körperwärme.
+---
+> Eis entzieht der gewählten gegnerischen Einheit die Körperwärme. Fügt (Zauberkraft x 20 + 10) Schaden zu.
+246,248c237
+< Entzieht der ausgewählten gegnerischen Einheit die Körperwärme.
+< 
+< Verursacht 10 Punkte mehr Schaden als 'Eisstrahl einfach'.
+---
+> Eis entzieht der gewählten gegnerischen Einheit die Körperwärme. Fügt (Zauberkraft x 20 + 20) Schaden zu.
+251,253c240
+< Entzieht der ausgewählten gegnerischen Einheit die Körperwärme.
+< 
+< Verursacht 40 Punkte mehr Schaden als 'Eisstrahl einfach'.
+---
+> Eis entzieht der gewählten gegnerischen Einheit die Körperwärme. Fügt (Zauberkraft x 20 + 50) Schaden zu.
+257c244,245
+< Schleudert einen Blitzstrahl auf die ausgewählte Einheit."	"{Blitzstrahl einfach}
+---
+> Lässt einen Blitz in die gewählte gegnerische Einheit einschlagen. Sie erleidet (Zauberkraft x 25 + 10) Schaden.
+> "	"{Blitzstrahl einfach}
+259c247
+< Schleudert einen Blitzstrahl auf die ausgewählte Einheit.
+---
+> Lässt einen Blitz in die gewählte gegnerische Einheit einschlagen. Sie erleidet (Zauberkraft x 25 + 10) Schaden.
+262,264c250
+< Schleudert einen Blitzstrahl auf die ausgewählte Einheit.
+< 
+< Verursacht 10 Punkte mehr Schaden als 'Blitzstrahl einfach'.
+---
+> Lässt einen Blitz in die ausgewählte gegnerische Einheit einschlagen. Sie erleidet (Zauberkraft x 25 + 20) Schaden.
+267,269c253
+< Schleudert einen Blitzstrahl auf die ausgewählte Einheit.
+< 
+< Verursacht 40 Punkte mehr Schaden als 'Blitzstrahl einfach'.
+---
+> Lässt einen Blitz in die gewählte gegnerische Einheit einschlagen. Sie erleidet (Zauberkraft x 25 + 50) Schaden.
+273c257
+< Verursacht bei einem bestimmten Truppenteil massiven Schaden.
+---
+> Fügt einem einzelnen gegnerischen Kreaturenstapel (Zauberkraft x 75 + 100) Schaden zu. Wirkt nicht auf Kriegsmaschinen.
+276c260
+< Verursacht bei einem bestimmten Truppenteil massiven Schaden.
+---
+> Fügt einem einzelnen gegnerischen Kreaturenstapel (Zauberkraft x 75 + 100) Schaden zu. Wirkt sich nicht auf Kriegsmaschinen aus.
+279,281c263
+< Verursacht bei einem bestimmten Truppenteil massiven Schaden.
+< 
+< Verursacht 100 Punkte mehr Schaden als 'Implosion einfach'.
+---
+> Fügt einem einzelnen gegnerischen Kreaturenstapel (Zauberkraft x 75 + 200) Schaden zu. Wirkt sich nicht auf Kriegsmaschinen aus.
+284,286c266
+< Verursacht bei einem bestimmten Truppenteil massiven Schaden.
+< 
+< Verursacht 200 Punkte mehr Schaden als 'Implosion einfach'.
+---
+> Fügt einem einzelnen gegnerischen Kreaturenstapel (Zauberkraft x 75 + 300) Schaden zu. Wirkt sich nicht auf Kriegsmaschinen aus.
+290c270
+< Schleudert einen Blitzstrahl auf die ausgewählte Einheit, der sich dann zur nächsten Einheit weiterbewegt, dort den halben Schaden anrichtet und sich zu nächsten Einheit weiterbewegt, wo er wiederum den halben Schaden anrichtet usw. Trifft vier Einheiten.
+---
+> Schießt einen Blitz auf die gewählte gegnerische Einheit und verursacht (Zauberkraft x 40 + 25) Schaden. Dieser wandert dann zur nächsten benachbarten Einheit und verursacht dort die Hälfte des Schadens, bevor er zur nächsten benachbarten Einheit wandert, die wiederum die Hälfte des vorherigen Zielschadens verursacht, usw.  Schlägt vier Einheiten.
+293c273
+< Schleudert einen Blitzstrahl auf die ausgewählte Einheit, der sich dann zur nächsten Einheit weiterbewegt, dort den halben Schaden anrichtet und sich zu nächsten Einheit weiterbewegt, wo er wiederum den halben Schaden anrichtet usw. Trifft vier Einheiten.
+---
+> Feuert einen Blitz auf die gewählte gegnerische Einheit ab, der (Zauberkraft x 40 + 25) Schaden verursacht. Dieser wandert dann zur nächsten benachbarten Einheit und fügt ihr halben Schaden zu, bevor er zur nächsten benachbarten Einheit wandert, die wiederum die Hälfte des vorherigen Zielschadens verursacht, usw.  Schlägt vier Einheiten.
+296,298c276
+< Schleudert einen Blitzstrahl auf die ausgewählte Einheit, der sich dann zur nächsten Einheit weiterbewegt, dort den halben Schaden anrichtet und sich zu nächsten Einheit weiterbewegt, wo er wiederum den halben Schaden anrichtet usw. Trifft fünf Einheiten.
+< 
+< Grundschaden ist 25 Punkte höher als 'Blitzstrahl-Salve einfach'.
+---
+> Feuert einen Blitz auf die gewählte gegnerische Einheit, der (Zauberkraft x 40 + 50) Schaden verursacht. Dieser wandert dann zur nächsten benachbarten Einheit und verursacht dort halben Schaden, bevor er zur nächsten benachbarten Einheit wandert, die wiederum die Hälfte des vorherigen Zielschadens verursacht, usw.  Schlägt fünf Einheiten.
+301,303c279
+< Schleudert einen Blitzstrahl auf die ausgewählte Einheit, der sich dann zur nächsten Einheit weiterbewegt, dort den halben Schaden anrichtet und sich zu nächsten Einheit weiterbewegt, wo er wiederum den halben Schaden anrichtet usw. Trifft fünf Einheiten.
+< 
+< Grundschaden ist 75 Punkte höher als 'Blitzstrahl-Salve einfach'.
+---
+> Feuert einen Blitz auf die gewählte gegnerische Einheit, der (Zauberkraft x 40 + 100) Schaden verursacht. Dieser wandert dann zur nächsten benachbarten Einheit und fügt dort halben Schaden zu, bevor er zur nächsten benachbarten Einheit wandert, die wiederum die Hälfte des vorherigen Zielschadens verursacht, usw.  Schlägt fünf Einheiten.
+305c281
+< Frostring	Frostring	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Frostring}
+---
+> Frostring	Frostring	3	 	x	 	 	12	9	9	9	10	15	15	30	60	16	16	16	0	12	12	12	4	12	12	12	12	12	"{Eisfäden}
+307c283
+< Entzieht allen dem Ziel benachbarten Einheiten die Körperwärme, ohne daß das Ziel Schaden nimmt.
+---
+> Eis entzieht allen Einheiten, die sich in der Nähe des Zielortes befinden, die Körperwärme. Jede Einheit erleidet (Zauberkraft x 10 + 15) Schaden. Das Zielfeld ist davon nicht betroffen.
+310c286
+< Entzieht allen dem Ziel benachbarten Einheiten die Körperwärme, ohne daß das Ziel Schaden nimmt.
+---
+> Eis entzieht allen Einheiten, die sich in der Nähe des Zielortes befinden, die Körperwärme. Jede Einheit erleidet (Zauberkraft x 10 + 15) Schaden. Das Zielfeld ist davon nicht betroffen.
+313,315c289
+< Entzieht allen dem Ziel benachbarten Einheiten die Körperwärme, ohne daß das Ziel Schaden nimmt.
+< 
+< Verursacht 15 Punkte mehr Schaden als 'Frostring einfach'.
+---
+> Eis entzieht allen Einheiten, die sich in der Nähe des Zielortes befinden, die Körperwärme. Jede Einheit erleidet (Zauberkraft x 10 + 30) Schaden. Das Zielfeld ist davon nicht betroffen.
+318,320c292
+< Entzieht allen dem Ziel benachbarten Einheiten die Körperwärme, ohne daß das Ziel Schaden nimmt.
+< 
+< Verursacht 45 Punkte mehr Schaden als 'Frostring einfach'.
+---
+> Eis entzieht allen Einheiten, die sich in der Nähe des Zielortes befinden, die Körperwärme. Jede Einheit erleidet (Zauberkraft x 10 + 60) Schaden. Das Zielfeld ist davon nicht betroffen.
+324c296
+< Setzt das ausgewählte Ziel in Brand, und verursacht Feuerschaden am Ziel und den benachbarten Einheiten.
+---
+> Lässt das ausgewählte Ziel in Flammen aufgehen und fügt dem Ziel und allen Einheiten in der Nähe des Zielorts (Zauberkraft x 10 + 15) Feuerschaden zu.
+327c299
+< Setzt das ausgewählte Ziel in Brand, und verursacht Feuerschaden am Ziel und den benachbarten Einheiten.
+---
+> Lässt das gewählte Ziel in Flammen aufgehen und fügt dem Ziel und allen Einheiten in der Nähe des Zielorts (Zauberkraft x 10 + 15) Feuerschaden zu.
+330,332c302
+< Setzt das ausgewählte Ziel in Brand, und verursacht Feuerschaden am Ziel und den benachbarten Einheiten.
+< 
+< Verursacht 15 Punkte mehr Schaden als 'Feuerball einfach'.
+---
+> Lässt das gewählte Ziel in Flammen aufgehen und fügt dem Ziel und allen Einheiten in der Nähe des Zielorts (Zauberkraft x 10 + 30) Feuerschaden zu.
+335,337c305
+< Setzt das ausgewählte Ziel in Brand, und verursacht Feuerschaden am Ziel und den benachbarten Einheiten.
+< 
+< Verursacht 45 Punkte mehr Schaden als 'Feuerball einfach'.
+---
+> Lässt das gewählte Ziel in Flammen aufgehen und fügt dem Ziel und allen Einheiten in der Nähe des Zielorts (Zauberkraft x 10 + 60) Feuerschaden zu.
+341c309
+< Verursacht einen gewaltigen Feuerstoß, der das ausgewählte Ziel trifft. Seid nicht in der Nähe, wenn es losgeht!
+---
+> Verursacht einen riesigen Feuerstoß, der das gewählte Ziel und alle Einheiten in 1 und 2 Feldern Entfernung vom Zielort trifft. Jede Einheit erleidet (Zauberkraft x 10 + 20) Schaden.  Halten Sie sich nicht in der Nähe auf, wenn es losgeht!
+344c312
+< Verursacht einen gewaltigen Feuerstoß, der das ausgewählte Ziel trifft. Seid nicht in der Nähe, wenn es losgeht!
+---
+> Verursacht eine riesige Feuerexplosion, die das ausgewählte Ziel und alle Einheiten 1 und 2 Felder vom Zielort entfernt trifft. Jede Einheit erleidet (Zauberkraft x 10 + 20) Schaden.  Halten Sie sich nicht in der Nähe auf, wenn es losgeht!
+347,349c315
+< Verursacht einen gewaltigen Feuerstoß, der das ausgewählte Ziel trifft. Seid nicht in der Nähe, wenn es losgeht!
+< 
+< Verursacht 20 Punkte mehr Schaden als 'Inferno einfach'.
+---
+> Verursacht eine riesige Feuerexplosion, die das ausgewählte Ziel und alle Einheiten 1 und 2 Felder vom Zielort entfernt trifft. Jede Einheit erleidet (Zauberkraft x 10 + 40) Schaden.  Halten Sie sich nicht in der Nähe auf, wenn es losgeht!
+352,354c318
+< Verursacht einen gewaltigen Feuerstoß, der das ausgewählte Ziel trifft. Seid nicht in der Nähe, wenn es losgeht!
+< 
+< Verursacht 60 Punkte mehr Schaden als 'Inferno einfach'.
+---
+> Verursacht eine riesige Feuerexplosion, die das ausgewählte Ziel und alle Einheiten 1 und 2 Felder vom Zielort entfernt trifft. Jede Einheit erleidet (Zauberkraft x 10 + 80) Schaden.  Halten Sie sich nicht in der Nähe davon auf, wenn es losgeht!
+358c322
+< Entfesselt einen Meteorregen, der über dem ausgewählten Ziel und allen benachbarten Einheiten niedergeht.
+---
+> Lässt einen Meteoritenschauer auf das gewählte Ziel und alle an den Zielort angrenzenden Einheiten niederregnen. Jede Einheit erleidet (Zauberkraft x 25 + 25) Schaden.
+361c325
+< Entfesselt einen Meteorregen, der über dem ausgewählten Ziel und allen benachbarten Einheiten niedergeht.
+---
+> Lässt einen Meteoritenschauer auf das gewählte Ziel und alle Einheiten in der Nähe des Ziels niederregnen. Jede Einheit erleidet (Zauberkraft x 25 + 25) Schaden.
+364,366c328
+< Entfesselt einen Meteorregen, der über dem ausgewählten Ziel und allen benachbarten Einheiten niedergeht.
+< 
+< Verursacht 25 Punkte mehr Schaden als 'Meteorregen einfach'.
+---
+> Lässt einen Meteoritenschauer auf das gewählte Ziel und alle Einheiten in der Nähe des Ziels niederregnen. Jede Einheit erleidet (Zauberkraft x 25 + 50) Schaden.
+369,371c331
+< Entfesselt einen Meteorregen, der über dem ausgewählten Ziel und allen benachbarten Einheiten niedergeht.
+< 
+< Verursacht 75 Punkte mehr Schaden als 'Meteorregen einfach'.
+---
+> Lässt einen Meteoritenschauer auf das gewählte Ziel und alle Einheiten in der Nähe des Ziels niederregnen. Jede Einheit erleidet (Zauberkraft x 25 + 100) Schaden.
+375c335
+< Schickt eine Todeswelle über das Schlachtfeld, die allen nicht-untoten Einheiten schadet.
+---
+> Schickt eine Welle des Todes über das Schlachtfeld, die allen Einheiten außer Untoten und Kriegshäuptlingen (Zauberkraft x 5 + 10) Trefferpunkte zufügt.
+378c338
+< Schickt eine Todeswelle über das Schlachtfeld, die allen nicht-untoten Einheiten schadet.
+---
+> Sendet eine Todeswelle über das Schlachtfeld, die allen Einheiten außer Untoten und War Mañhines (Zauberkraft x 5 + 10) Trefferpunkte zufügt.
+381,383c341
+< Schickt eine Todeswelle über das Schlachtfeld, die allen nicht-untoten Einheiten schadet.
+< 
+< Verursacht 10 Punkte mehr Schaden als 'Kleine Todeswelle einfach'.
+---
+> Sendet eine Todeswelle über das Schlachtfeld, die allen Einheiten außer Untoten und War Mañhines (Zauberkraft x 5 + 20) Trefferpunkte zufügt.
+386,388c344
+< Schickt eine Todeswelle über das Schlachtfeld, die allen nicht-untoten Einheiten schadet.
+< 
+< Verursacht 20 Punkte mehr Schaden als 'Kleine Todeswelle einfach'.
+---
+> Sendet eine Welle des Todes über das Schlachtfeld, die allen Einheiten außer Untoten und War Mañhines (Zauberkraft x 5 + 30) Trefferpunkte zufügt.
+392c348
+< Versucht, alle untoten Kreaturen auf dem Schlachtfeld zu vernichten.
+---
+> Versucht, alle untoten Kreaturen auf dem Schlachtfeld zu vernichten. Jede untote Einheit erleidet (Zauberkraft x 10 + 10) Schaden.
+395c351
+< Versucht, alle untoten Kreaturen auf dem Schlachtfeld zu vernichten.
+---
+> Versucht, alle untoten Kreaturen auf dem Schlachtfeld zu zerstören. Jede untote Einheit erleidet (Zauberkraft x 10 + 10) Schaden.
+398,400c354
+< Versucht, alle untoten Kreaturen auf dem Schlachtfeld zu vernichten.
+< 
+< Verursacht 10 Punkte mehr Schaden als 'Untote vernichten einfach'.
+---
+> Versucht, alle untoten Kreaturen auf dem Schlachtfeld zu zerstören. Jede untote Einheit erleidet (Zauberkraft x 10 + 20) Schaden.
+403,405c357
+< Versucht, alle untoten Kreaturen auf dem Schlachtfeld zu vernichten.
+< 
+< Verursacht 40 Punkte mehr Schaden als 'Untote vernichten einfach'.
+---
+> Versucht, alle untoten Kreaturen auf dem Schlachtfeld zu zerstören. Jede untote Einheit erleidet (Zauberkraft x 10 + 50) Schaden.
+407c359
+< Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	50	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
+---
+> Armageddon	Armageddon	4	 	 	x	 	24	20	20	20	40	30	30	60	120	0	0	0	5	5	10	0	0	0	100	100	100	100	"{Armageddon}
+409c361
+< Läßt Feuer auf das Schlachtfeld niederregnen, und schadet allen Einheiten.
+---
+> Lässt Feuer auf das Schlachtfeld niederregnen und fügt allen Einheiten (Zauberkraft x 40 + 30) Trefferpunkte Schaden zu.
+412c364
+< Läßt Feuer auf das Schlachtfeld niederregnen, und schadet allen Einheiten.
+---
+> Regnet Feuer auf das Schlachtfeld und fügt allen Einheiten Schaden in Höhe von (Zauberkraft x 40 + 30) Trefferpunkten zu.
+415,417c367
+< Läßt Feuer auf das Schlachtfeld niederregnen, und schadet allen Einheiten.
+< 
+< Verursacht 30 Punkte mehr Schaden als 'Armageddon einfach'.
+---
+> Regnet Feuer auf das Schlachtfeld und fügt allen Einheiten Schaden in Höhe von (Zauberkraft x 40 + 60) Trefferpunkten zu.
+420,422c370
+< Läßt Feuer auf das Schlachtfeld niederregnen, und schadet allen Einheiten.
+< 
+< Verursacht 90 Punkte mehr Schaden als 'Armageddon einfach'.
+---
+> Regnet Feuer auf das Schlachtfeld und fügt allen Einheiten Schaden in Höhe von (Zauberkraft x 40 + 120) Trefferpunkten zu.
+426c374
+< Schützt eine ausgewählte Einheit und reduziert den Schaden, der durch Mann-gegen-Mann Angriffe verursacht wird.
+---
+> Schützt eine ausgewählte befreundete Einheit und reduziert den von Nahkampfangriffen erlittenen Schaden um 15%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+429c377
+< Schützt eine ausgewählte Einheit und reduziert den Schaden, der durch Mann-gegen-Mann Angriffe verursacht wird.
+---
+> Schützt eine ausgewählte Einheit der eigenen Seite und reduziert den durch Nahkampfangriffe erlittenen Schaden um 15 %. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+432,434c380
+< Schützt eine ausgewählte Einheit und reduziert den Schaden, der durch Mann-gegen-Mann Angriffe verursacht wird.
+< 
+< Der Schutz ist doppelt so stark wie bei 'Schild einfach'.
+---
+> Schützt eine ausgewählte Einheit der eigenen Seite und reduziert den durch Nahkampfangriffe erlittenen Schaden um 30%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+437,439c383
+< Schützt alle freundlichen Einheiten und reduziert den Schaden, der durch Mann-gegen-Mann Angriffe verursacht wird.
+< 
+< Der Schutz ist doppelt so stark wie bei 'Schild einfach'.
+---
+> Schützt alle Einheiten der eigenen Seite und reduziert den durch Nahkampfangriffe erlittenen Schaden um 30 %. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+443c387
+< Schützt eine ausgewählte Einheit und reduziert den Schaden, der durch Fernangriffe verursacht wird.
+---
+> Schützt eine ausgewählte Einheit der eigenen Seite und reduziert den durch Fernkampfangriffe erlittenen Schaden um 25%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+446c390
+< Schützt eine ausgewählte Einheit und reduziert den Schaden, der durch Fernangriffe verursacht wird.
+---
+> Schützt eine ausgewählte Einheit der eigenen Seite und reduziert den durch Distanzangriffe erlittenen Schaden um 25 %. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+449,451c393
+< Schützt eine ausgewählte Einheit und reduziert den Schaden, der durch Fernangriffe verursacht wird.
+< 
+< Der Schutz ist doppelt so stark wie bei 'Luftschild einfach'.
+---
+> Schützt eine gewählte befreundete Einheit und reduziert den von Distanzangriffen erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+454,456c396
+< Deckt all freundlichen Einheiten und reduziert den Schaden, der durch Fernangriffe verursacht wird.
+< 
+< Der Schutz ist doppelt so stark wie bei 'Luftschild einfach'.
+---
+> Schützt alle Einheiten der eigenen Seite und reduziert den durch Distanzangriffe erlittenen Schaden um 50 %. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+460c400
+< Über einer freundlichen Einheit ausgesprochen, bietet es keinen zusätzlichen Schutz, aber alle Gegner, die durch den Feuerschild angreifen, erleiden selbst einen Teil des Schadens, den sie anrichten.
+---
+> Wird dieser Zauber auf eine befreundete Einheit gewirkt, bietet er keinen zusätzlichen Schutz, aber jeder Gegner, der einen Angriff mit der Hand durch den Feuerschild ausführt, erleidet 20% des Schadens, den er verursacht. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+463c403
+< Über einer freundlichen Einheit ausgesprochen, bietet es keinen zusätzlichen Schutz, aber alle Gegner, die durch den Feuerschild angreifen, erleiden selbst einen Teil des Schadens, den sie anrichten.
+---
+> Wird der Zauber auf eine befreundete Einheit gewirkt, bietet er keinen zusätzlichen Schutz, aber jeder Feind, der mit der Hand durch den Feuerschild angreift, erleidet Schaden in Höhe von 20% des Schadens, den er verursacht. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+466,468c406
+< Über einer freundlichen Einheit ausgesprochen, bietet es keinen zusätzlichen Schutz, aber alle Gegner, die durch den Feuerschild angreifen, erleiden selbst einen Teil des Schadens, den sie anrichten.
+< 
+< Schaden für den angreifenden Gegener ist 5% höher als 'Feuerschild einfach'.
+---
+> Wird der Zauber auf eine befreundete Einheit gewirkt, bietet er keinen zusätzlichen Schutz, aber jeder Feind, der einen Angriff mit der Hand durch den Feuerschild ausführt, erleidet Schaden in Höhe von 25% des verursachten Schadens. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+471,473c409
+< Über einer freundlichen Einheit ausgesprochen, bietet es keinen zusätzlichen Schutz, aber alle Gegner, die durch den Feuerschild angreifen, erleiden selbst einen Teil des Schadens, den sie anrichten.
+< 
+< Schaden für den angreifenden Gegener ist 10% höher als 'Feuerschild einfach'.
+---
+> Wird der Zauber auf eine befreundete Einheit gewirkt, bietet er keinen zusätzlichen Schutz, aber jeder Feind, der einen Angriff mit der Hand durch den Feuerschild ausführt, erleidet Schaden in Höhe von 30% des Schadens, den er verursacht. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+475c411
+< Schutz Luftmagie	Schutz Luftmagie	2		 	 	x	7	5	5	5	0	70	70	50	50	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Schutz Luftmagie}
+---
+> Schutz Luftmagie	Schutz Luftmagie	2		 	 	x	7	5	5	5	0	50	50	25	25	2	2	2	4	2	2	2	2	2	2	2	4	4	"{Schutz Luftmagie}
+477c413
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Luftzaubersprüche reduziert.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den durch Luftmagie erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+480c416
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Luftzaubersprüche reduziert.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Luftzaubern erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+483,485c419
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Luftzaubersprüche reduziert.
+< 
+< Der Schutz ist fast doppelt so stark wie bei 'Schutz Luftmagie einfach'.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Luftzaubern erlittenen Schaden um 75%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+488,490c422
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Luftzaubersprüche reduziert.
+< 
+< Der Schutz ist fast doppelt so stark wie bei 'Schutz Luftmagie einfach'.
+---
+> Schützt alle befreundeten Einheiten und reduziert den von Luftzaubern erlittenen Schaden um 75%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+492c424
+< Schutz Feuermagie	Schutz Feuermagie	1	 		x	 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Schutz Feuermagie}
+---
+> Schutz Feuermagie	Schutz Feuermagie	1	 		x	 	5	4	4	4	0	50	50	25	25	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Schutz Feuermagie}
+494c426
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Feuerzaubersprüche reduziert.
+---
+> Schützt die ausgewählte befreundete Einheit und reduziert den von Feuerzaubern erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+497c429
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Feuerzaubersprüche reduziert.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Feuerzaubern erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+500,502c432
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Feuerzaubersprüche reduziert.
+< 
+< Der Schutz ist fast doppelt so stark wie bei 'Schutz Feuermagie einfach'.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Feuerzaubern erlittenen Schaden um 75%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+505,507c435
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Feuerzaubersprüche reduziert.
+< 
+< Der Schutz ist fast doppelt so stark wie bei 'Schutz Feuermagie einfach'.
+---
+> Schützt alle befreundeten Einheiten und reduziert den von Feuerzaubern erlittenen Schaden um 75%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+509c437
+< Schutz Wassermagie	Schutz Wassermagie	1	 	x		 	5	4	4	4	0	70	70	50	50	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Schutz Wassermagie}
+---
+> Schutz Wassermagie	Schutz Wassermagie	1	 	x		 	5	4	4	4	0	50	50	25	25	3	3	3	3	3	3	3	3	3	2	2	4	4	"{Schutz Wassermagie}
+511c439
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Wasserzaubersprüche reduziert.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Wasserzaubern erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+514c442
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Wasserzaubersprüche reduziert.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Wasserzaubern erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+517,519c445
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Wasserzaubersprüche reduziert.
+< 
+< Der Schutz ist fast doppelt so stark wie bei 'Schutz Wassermagie einfach'.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Wasserzaubern erlittenen Schaden um 75%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+522,524c448
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Wasserzaubersprüche reduziert.
+< 
+< Der Schutz ist fast doppelt so stark wie bei 'Schutz Wassermagie einfach'.
+---
+> Schützt alle befreundeten Einheiten und reduziert den von Wasserzaubern erlittenen Schaden um 75%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+526c450
+< Schutz Erdmagie	Schutz Erdmagie	3	x	 	 		12	9	9	9	0	70	70	50	50	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Schutz Erdmagie}
+---
+> Schutz Erdmagie	Schutz Erdmagie	3	x	 	 		12	9	9	9	0	50	50	25	25	4	4	4	2	4	4	4	0	4	2	2	4	4	"{Schutz Erdmagie}
+528c452
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Erdzaubersprüche reduziert.
+---
+> Schützt die ausgewählte Einheit der eigenen Seite und reduziert den von Erdzaubern erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+531c455
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Erdzaubersprüche reduziert.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Erdzaubern erlittenen Schaden um 50%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+534,536c458
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Erdzaubersprüche reduziert.
+< 
+< Der Schutz ist fast doppelt so stark wie bei 'Schutz Erdmagie einfach'.
+---
+> Schützt die gewählte befreundete Einheit und reduziert den von Erdzaubern erlittenen Schaden um 75%. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+539,541c461
+< Beschützt die ausgewählte Einheit, indem es Schäden durch Erdzaubersprüche reduziert.
+< 
+< Der Schutz ist fast doppelt so stark wie bei 'Schutz Erdmagie einfach'.
+---
+> Schützt alle befreundeten Einheiten und reduziert den von Erdzaubern erlittenen Schaden um 75 %. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+545c465
+< Beschützt die ausgewählte Einheit vor einfachen Zaubersprüchen.
+---
+> Schützt die ausgewählte befreundete Einheit vor allen Zaubern der Stufen 1-3 außer Bannen. Entfernt negative Zauber der Stufen 1-3, außer Unterbrechender Strahl. Wirkt nicht auf Duplikate, die mit dem Zauber Klonen erstellt wurden. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+548c468
+< Beschützt die ausgewählte Einheit vor einfachen Zaubersprüchen.
+---
+> Schützt die ausgewählte befreundete Einheit vor allen Zaubern der Stufen 1-3 außer Dispel. Entfernt negative Zauber der Stufen 1-3, außer Unterbrechender Strahl. Wirkt nicht auf Duplikate, die mit dem Zauber Klonen erstellt wurden. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+551,552c471,472
+< Beschützt die ausgewählte Einheit vor allen außer den mächtigsten Zaubersprüchen.
+< "	"{Anti-magie Meisterhaft}
+---
+> Schützt die ausgewählte befreundete Einheit vor allen Zaubern der Stufen 1-4 außer Dispel. Entfernt negative Zauber der Stufen 1-4, außer Unterbrechender Strahl. Wirkt nicht auf Duplikate, die mit dem Zauber Klonen erstellt wurden. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+> "	"{Anti-Magie Meisterhaft}
+554c474
+< Beschützt die ausgewählte Einheit vor allen Zaubersprüchen.
+---
+> Schützt die ausgewählte befreundete Einheit vor allen Zaubern außer Bannen. Entfernt alle negativen Zauber außer Unterbrechender Strahl. Wirkt nicht auf Duplikate, die mit dem Zauber Klonen erstellt wurden. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+558c478
+< Entfernt alle Zauberwirkungen von einer freundlichen Kreatur.
+---
+> Entfernt alle Zauber und Effekte außer Unterbrechender Strahl und Gift von einer befreundeten Einheit. Ignoriert die natürlichen Immunitäten der Zielkreatur gegen Magie.
+561c481
+< Entfernt alle Zauberwirkungen von einer freundlichen Kreatur.
+---
+> Entfernt alle Zauber und Effekte außer Unterbrechender Strahl und Gift von einer befreundeten Einheit. Ignoriert die natürliche Immunität der Zielkreatur gegen Magie.
+564c484
+< Entfernt alle Zauberwirkungen von einer freundlich oder feindlich gesinnten Kreatur.
+---
+> Entfernt alle Zauber und Effekte außer Unterbrechungsstrahl und Gift von einer freundlichen oder feindlichen Einheit. Ignoriert die Chancen der Zielkreatur, einem Zauber zu widerstehen, und natürliche Immunitäten.
+567c487
+< Entfernt alle Zauberwirkungen von allen Einheiten auf dem Schlachtfeld.
+---
+> Entfernt alle Zauber und Effekte außer Unterbrechender Strahl und Gift von allen Einheiten auf dem Schlachtfeld und zerstört alle magischen Hindernisse. Ignoriert die Chancen der Zielkreatur, einem Zauber zu widerstehen, sowie natürliche Immunitäten.
+571c491
+< Reflektiert in 20% der Fälle feindliche Zaubersprüche willkürlich auf eine gegnerische Kreatur.
+---
+> Reflektiert feindliche Zaubersprüche von ausgewählten befreundeten Einheiten in 20% der Zeit auf eine zufällige gegnerische Kreatur. Schützt vor dem Zauber Hypnotisieren. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+574c494
+< Reflektiert in 20% der Fälle feindliche Zaubersprüche willkürlich auf eine gegnerische Kreatur.
+---
+> Reflektiert in 20% der Zeit feindliche Zauber von einer ausgewählten befreundeten Einheit auf eine zufällige gegnerische Kreatur. Schützt vor Hypnose-Zauber. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+577c497
+< Reflektiert in 30% der Fälle feindliche Zaubersprüche willkürlich auf eine gegnerische Kreatur.
+---
+> Reflektiert in 30% der Zeit feindliche Zauber von einer ausgewählten befreundeten Einheit auf eine zufällige gegnerische Kreatur. Schützt vor Hypnose-Zauber. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+580c500
+< Reflektiert in 40% der Fälle feindliche Zaubersprüche willkürlich auf eine gegnerische Kreatur.
+---
+> Reflektiert feindliche Zaubersprüche von einer ausgewählten befreundeten Einheit in 40% der Zeit auf eine zufällige gegnerische Kreatur. Schützt vor Hypnose-Zauber. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+584c504
+< Enfernt alle negativen Zauberwirkungen und stellt eine kleine Zahl von Trefferpunkten der ausgewählten Einheit wieder her.
+---
+> Entfernt alle negativen Zauber und Effekte außer Unterbrechender Strahl und Dendroidenbindung und heilt (Zauberkraft x 5 + 10) Trefferpunkte der ausgewählten befreundeten Einheit. Stellt durch Gift verringerte Gesundheit wieder her.
+587c507
+< Enfernt alle negativen Zauberwirkungen und stellt eine kleine Zahl von Trefferpunkten der ausgewählten Einheit wieder her.
+---
+> Entfernt alle negativen Zauber und Effekte außer Unterbrechender Strahl und Dendroidenbindung und heilt (Zauberkraft x 5 + 10) Trefferpunkte der ausgewählten befreundeten Einheit. Stellt durch Gift verringerte Gesundheit wieder her.
+590,592c510
+< Enfernt alle negativen Zauberwirkungen und stellt eine kleine Zahl von Trefferpunkten bei allen freundlichen Einheiten wieder her.
+< 
+< Der geheilte Schaden beträgt 10 Punkte mehr als bei 'Heilung einfach'.
+---
+> Entfernt alle negativen Zauber und Effekte außer Unterbrechender Strahl und Dendroidenbindung und heilt die gewählte befreundete Einheit um (Zauberkraft x 5 + 20) Trefferpunkte. Stellt durch Gift verringerte Gesundheit wieder her.
+595,597c513
+< Enfernt alle negativen Zauberwirkungen und stellt eine kleine Zahl von Trefferpunkten bei allen freundlichen Einheiten wieder her.
+< 
+< Der geheilte Schaden beträgt 20 Punkte mehr als bei 'Heilung einfach'.
+---
+> Entfernt alle negativen Zauber und Effekte außer Unterbrechender Strahl und Dendroidenbindung und heilt (Zauberkraft x 5 + 30) Trefferpunkte bei allen befreundeten Einheiten. Stellt durch Gift verringerte Gesundheit wieder her.
+601c517
+< Läßt Einheiten der ausgewählten Gruppe wieder auferstehen, indem eine bestimmte Anzahl Trefferpunkte wiederhergestellt wird.
+---
+> Lässt Einheiten in der ausgewählten befreundeten Gruppe von Lebewesen bis zum Ende des Kampfes wiederauferstehen, indem sie (Zauberkraft x 50 + 40) Trefferpunkte auf dem Ziel wiederherstellt.
+604c520
+< Läßt Einheiten der ausgewählten Gruppe wieder auferstehen, indem eine bestimmte Anzahl Trefferpunkte wiederhergestellt wird.
+---
+> Lässt Einheiten in der gewählten befreundeten Gruppe von Lebewesen bis zum Ende des Kampfes wiederauferstehen, indem es dem Ziel (Zauberkraft x 50 + 40) Trefferpunkte zurückgibt.
+607,609c523
+< Läßt Einheiten der ausgewählten Gruppe wieder auferstehen, indem eine bestimmte Anzahl Trefferpunkte wiederhergestellt wird.
+< 
+< Stellt 40 Trefferpunkte mehr wieder her als 'Auferstehung einfach'.
+---
+> Lässt Einheiten in der ausgewählten befreundeten Gruppe von Lebewesen dauerhaft wiederauferstehen, indem sie dem Ziel (Zauberkraft x 50 + 80) Trefferpunkte wiedergibt.
+612,614c526
+< Läßt Einheiten der ausgewählten Gruppe wieder auferstehen, indem eine bestimmte Anzahl Trefferpunkte wiederhergestellt wird. 
+< 
+< Stellt 120 Trefferpunkte mehr wieder her als 'Auferstehung einfach'.
+---
+> Lässt Einheiten in der ausgewählten befreundeten Gruppe von Lebewesen dauerhaft wiederauferstehen, indem sie dem Ziel (Zauberkraft x 50 + 160) Trefferpunkte wiederherstellt.
+618c530
+< Belebt zerstörte Untote in der ausgewählten Gruppe wieder, indem eine bestimmte Anzahl Trefferpunkte wiederhergestellt wird.
+---
+> Belebt alle zerstörten Untoten in der ausgewählten befreundeten Gruppe wieder, indem er dem Ziel (Zauberkraft x 50 + 30) Trefferpunkte wiederherstellt.
+621,622c533,534
+< Belebt zerstörte Untote in der ausgewählten Gruppe wieder, indem eine bestimmte Anzahl Trefferpunkte wiederhergestellt wird.
+< "	"{Tote beleben verbessert}
+---
+> Reanimiert alle zerstörten Untoten in der gewählten befreundeten Gruppe, indem es dem Ziel (Zauberkraft x 50 + 30) Trefferpunkte wiederherstellt.
+> "	"{Töte beleben verbessert}
+624,626c536
+< Belebt zerstörte Untote in der ausgewählten Gruppe wieder, indem eine bestimmte Anzahl Trefferpunkte wiederhergestellt wird.
+< 
+< Stellt 30 Trefferpunkte mehr wieder her als 'Tote beleben einfach'.
+---
+> Reanimiert alle zerstörten Untoten in der ausgewählten befreundeten Gruppe, indem es dem Ziel (Zauberkraft x 50 + 60) Trefferpunkte wiederherstellt.
+629,631c539
+< Belebt zerstörte Untote in der ausgewählten Gruppe wieder, indem eine bestimmte Anzahl Trefferpunkte wiederhergestellt wird.
+< 
+< Stellt 130 Trefferpunkte mehr wieder her als 'Tote beleben einfach'.
+---
+> Reanimiert alle zerstörten Untoten in der ausgewählten befreundeten Gruppe, indem es dem Ziel (Zauberkraft x 50 + 160) Trefferpunkte wiederherstellt.
+635c543
+< Zerstört eine freundliche Kreaturengruppe, um eine tote auferstehen zu lassen. Die Anzahl der auferstehenden Kreaturen hängt ab von der Zauberkraft des Zaubernden und der Gesundheit der zerstörten Truppe.
+---
+> Zerstört dauerhaft eine befreundete Lebewesengruppe, um eine andere befreundete Lebewesengruppe wiederzubeleben.  Die Wiederbelebungsstärke beträgt ((Zauberkraft + Kreaturengrundgesundheit der geopferten Gruppe + 3) x Anzahl der geopferten Kreaturen) Trefferpunkte.
+638c546
+< Zerstört eine freundliche Kreaturengruppe, um eine tote auferstehen zu lassen. Die Anzahl der auferstehenden Kreaturen hängt ab von der Zauberkraft des Zaubernden und der Gesundheit der zerstörten Truppe.
+---
+> Zerstört dauerhaft eine befreundete Lebewesengruppe, um eine andere befreundete Lebewesengruppe wiederzuerwecken.  Die Macht der Wiederbelebung beträgt ((Zauberkraft + Kreaturengrundgesundheit der geopferten Gruppe + 3) x Anzahl der geopferten Kreaturen) Trefferpunkte.
+641,643c549
+< Zerstört eine freundliche Kreaturengruppe, um eine tote auferstehen zu lassen. Die Anzahl der auferstehenden Kreaturen hängt ab von der Zauberkraft des Zaubernden und der Gesundheit der zerstörten Truppe..
+< 
+< Läßt mehr Kreaturen wieder auferstehen als 'Opfer einfach'.
+---
+> Zerstört dauerhaft eine befreundete Lebewesengruppe, um eine andere befreundete Lebewesengruppe wiederzubeleben.  Die Macht der Wiederbelebung beträgt ((Zauberkraft + Kreaturengrundgesundheit der geopferten Gruppe + 6) x Anzahl der geopferten Kreaturen) Trefferpunkte.
+646,648c552
+< Zerstört eine freundliche Kreaturengruppe, um eine tote auferstehen zu lassen. Die Anzahl der auferstehenden Kreaturen hängt ab von der Zauberkraft des Zaubernden und der Gesundheit der zerstörten Truppe.
+< 
+< Läßt mehr Kreaturen wieder auferstehen als 'Opfer verbessert'.
+---
+> Zerstört dauerhaft eine befreundete Lebewesengruppe, um eine andere befreundete Lebewesengruppe wiederzuerwecken.  Die Macht der Wiederbelebung beträgt ((Zauberkraft + Kreaturengrundgesundheit der geopferten Truppe + 10) x Anzahl der geopferten Kreaturen) Trefferpunkte.
+652c556
+< Läßt die ausgewählte Einheit im Kampf maximalen Schaden verursachen.
+---
+> Bewirkt, dass die gewählte befreundete Einheit im Kampf maximalen Schaden erleidet. Entfernt den Fluch-Effekt. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+655c559
+< Läßt die ausgewählte Einheit im Kampf maximalen Schaden verursachen.
+---
+> Bewirkt, dass die ausgewählte befreundete Einheit im Kampf maximalen Schaden erleidet. Entfernt den Fluch-Effekt. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+658c562
+< Läßt die ausgewählte Einheit im Kampf mehr als den normalen Maximalschaden verursachen.
+---
+> Bewirkt, dass die gewählte befreundete Einheit Schaden erleidet, der um 1 höher ist als ihr normaler maximaler Schaden im Kampf. Entfernt den Fluch-Effekt. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+661c565
+< Läßt alle freundlichen Einheiten im Kampf mehr als den normalen Maximalschaden verursachen.
+---
+> Verursacht bei allen befreundeten Einheiten Schaden, der Euren normalen maximalen Schaden im Kampf um 1 übersteigt. Entfernt den Fluch-Effekt. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+665,666c569,570
+< Läßt die ausgewählte gegnerische Einheit im Kampf minimalen Schaden verursachen.
+< "	"{ Fluch einfach}
+---
+> Bewirkt, dass die ausgewählte gegnerische Einheit im Kampf minimalen Schaden erleidet. Entfernt den Segenseffekt. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+> "	"{Fluch einfach}
+668,669c572,573
+< Läßt die ausgewählte gegnerische Einheit im Kampf minimalen Schaden verursachen.
+< "	"{ Fluch verbessert}
+---
+> Bewirkt, dass die ausgewählte gegnerische Einheit im Kampf minimalen Schaden erleidet. Entfernt den Segenseffekt. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+> "	"{Fluch verbessert}
+671,672c575,576
+< Läßt die ausgewählte gegnerische Einheit im Kampf weniger als den normalen Minimalschaden verursachen.
+< "	"{ Fluch Meisterhaft}
+---
+> Verursacht bei der ausgewählten gegnerischen Einheit Schaden, der um 1 geringer ist als ihr normaler Mindestschaden im Kampf. Entfernt den Segenseffekt. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+> "	"{Fluch Meisterhaft}
+674c578
+< Läßt alle gegnerischen Einheiten im Kampf weniger als ihren normalen Minimalschaden verursachen.
+---
+> Verursacht bei allen gegnerischen Einheiten Schaden, der um 1 geringer ist als ihr normaler Mindestschaden im Kampf. Entfernt den Segenseffekt. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+678c582
+< Erhöht den Schaden, den die ausgewählte Einheit im Nahkampf anrichtet.
+---
+> Erhöht die Nahkampfangriffsstärke der ausgewählten befreundeten Einheit um 3. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+681c585
+< Erhöht den Schaden, den die ausgewählte Einheit im Nahkampf anrichtet.
+---
+> Erhöht die Hand-zu-Hand-Angriffsstärke der ausgewählten befreundeten Einheit um 3. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+684,686c588
+< Erhöht den Schaden, den die ausgewählte Einheit im Nahkampf anrichtet.
+< 
+< Hat die doppelte Wirkung von 'Blutdurst einfach'.
+---
+> Erhöht die Hand-zu-Hand-Angriffsstärke der ausgewählten befreundeten Einheit um 6. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+689,691c591
+< Erhöht den Schaden, den alle freundlichen Einheiten im Nahkampf anrichten.
+< 
+< Hat die doppelte Wirkung von 'Blutdurst einfach'.
+---
+> Erhöht die Nahkampfangriffsstärke aller befreundeten Einheiten um 6. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+695c595
+< Erhöht den Schaden, den Fernangriffe der ausgewählten Einheit anrichten.
+---
+> Erhöht die Angriffsstärke des Fernkampfangriffs der ausgewählten befreundeten Einheit um 3. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+698c598
+< Erhöht den Schaden, den Fernangriffe der ausgewählten Einheit anrichten.
+---
+> Erhöht die Angriffsstärke des Fernkampfangriffs der ausgewählten befreundeten Einheit um 3. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+701,703c601
+< Erhöht den Schaden, den Fernangriffe der ausgewählten Einheit anrichten.
+< 
+< Hat die doppelte Wirkung von 'Präzision einfach'.
+---
+> Erhöht die Angriffsstärke des Fernkampfangriffs der ausgewählten befreundeten Einheit um 6. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+706,708c604
+< Erhöht den Schaden, den Fernangriffe aller freundlichen Einheiten anrichten.
+< 
+< Hat die doppelte Wirkung von 'Präzision einfach'.
+---
+> Erhöht die Angriffsstärke des Fernkampfangriffs einer beliebigen Einheit der eigenen Seite um 6. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+712c608
+< Reduziert die Angriffsstärke der ausgewählten gegnerischen Einheit.
+---
+> Reduziert die Angriffsstärke der ausgewählten gegnerischen Einheit um 3. Der Zauber ist für eine Anzahl von Runden in Höhe der Zauberkraft des Helden aktiv.
+715c611
+< Reduziert die Angriffsstärke der ausgewählten gegnerischen Einheit.
+---
+> Reduziert die Angriffsstärke der ausgewählten gegnerischen Einheit um 3. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+718,720c614
+< Reduziert die Angriffsstärke der ausgewählten gegnerischen Einheit.
+< 
+< Hat die doppelte Wirkung von 'Schwäche einfach'.
+---
+> Reduziert die Angriffsstärke der ausgewählten gegnerischen Einheit um 6. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+723,725c617
+< Reduziert die Angriffsstärke aller gegnerischen Einheiten.
+< 
+< Hat die doppelte Wirkung von 'Schwäche einfach'.
+---
+> Verringert die Angriffsstärke aller gegnerischen Einheiten um 6. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+729c621
+< Erhöht die Verteidigungsstärke der ausgewählten Einheit.
+---
+> Erhöht die Verteidigungsstärke der ausgewählten befreundeten Einheit um 3. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+732c624
+< Erhöht die Verteidigungsstärke der ausgewählten Einheit.
+---
+> Erhöht die Verteidigungsstärke der ausgewählten befreundeten Einheit um 3. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+735,737c627
+< Erhöht die Verteidigungsstärke der ausgewählten Einheit.
+< 
+< Hat die doppelte Wirkung von 'Steinhaut einfach'.
+---
+> Erhöht die Verteidigungsstärke der ausgewählten befreundeten Einheit um 6. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+740,742c630
+< Erhöht die Verteidigungsstärke aller freundlichen Einheiten.
+< 
+< Hat die doppelte Wirkung von 'Steinhaut einfach'.
+---
+> Erhöht die Verteidigungsstärke aller befreundeten Einheiten um 6. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+746c634
+< Reduziert die Verteidigungsstärke der ausgewählten gegnerischen Einheit. Dieser Zauber kann mehrmals auf einen einzelnen Gegner gerichtet werden.
+---
+> Reduziert die Verteidigungsstärke der ausgewählten gegnerischen Einheit um 3. Ein einzelner Gegner kann mehrmals von diesem Zauber getroffen werden. Unzauberbar. Der Effekt bleibt durch Tod und Wiederauferstehung einer Einheit bestehen. Die Dauer des Unterbrechungsstrahls ist unbegrenzt.
+749c637
+< Reduziert die Verteidigungsstärke der ausgewählten gegnerischen Einheit. Dieser Zauber kann mehrmals auf einen einzelnen Gegner gerichtet werden.
+---
+> Reduziert die Verteidigungsstärke der ausgewählten feindlichen Einheit um 3. Ein einzelner Feind kann mehrmals von diesem Zauber getroffen werden. Unzauberbar. Der Effekt bleibt durch Tod und Wiederauferstehung einer Einheit bestehen. Die Dauer des Unterbrechungsstrahls ist unbegrenzt.
+752,754c640
+< Reduziert die Verteidigungsstärke der ausgewählten gegnerischen Einheit. Dieser Zauber kann mehrmals auf einen einzelnen Gegner gerichtet werden.
+< 
+< Die Wirkung ist größer als bei 'Zertrümmern einfach'.
+---
+> Reduziert die Verteidigungsstärke der ausgewählten feindlichen Einheit um 4. Ein einzelner Feind kann mehrmals von diesem Zauber getroffen werden. Unverzauberbar. Der Effekt bleibt durch Tod und Wiederauferstehung einer Einheit bestehen. Die Dauer des Unterbrechungsstrahls ist unbegrenzt.
+757,759c643
+< Reduziert die Verteidigungsstärke der ausgewählten gegnerischen Einheit. Dieser Zauber kann mehrmals auf einen einzelnen Gegner gerichtet werden.
+< 
+< Die Wirkung ist größer als bei 'Zertrümmern verbessert'.
+---
+> Reduziert die Verteidigungsstärke der ausgewählten feindlichen Einheit um 5. Ein einzelner Feind kann mehrmals von diesem Zauber getroffen werden. Unverzauberbar. Der Effekt bleibt durch Tod und Wiederauferstehung einer Einheit bestehen. Die Dauer des Unterbrechungsstrahls ist unbegrenzt.
+763c647
+< Gibt der ausgewählten Einheit einen Bonus auf Angriffsstärke, Verteidigungsstärke und Geschwindigkeit.
+---
+> Verleiht der ausgewählten befreundeten Einheit einen Bonus von +2 auf Angriffsstärke, Verteidigungsstärke und Geschwindigkeit. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+766c650
+< Gibt der ausgewählten Einheit einen Bonus auf Angriffsstärke, Verteidigungsstärke und Geschwindigkeit.
+---
+> Gewährt einen Bonus von +2 auf die Angriffs- und Verteidigungsstärke sowie die Geschwindigkeit der ausgewählten befreundeten Einheit. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+769,771c653
+< Gibt der ausgewählten Einheit einen Bonus auf Angriffsstärke, Verteidigungsstärke und Geschwindigkeit.
+< 
+< Hat die doppelte Wirkung von 'Gebet einfach'.
+---
+> Gewährt einen +4-Bonus auf die Angriffs- und Verteidigungsstärke sowie die Geschwindigkeit der ausgewählten befreundeten Einheit. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+774,776c656
+< Gibt allen freundlichen Einheiten einen Bonus auf Angriffsstärke, Verteidigungsstärke und Geschwindigkeit.
+< 
+< Hat die doppelte Wirkung von 'Gebet einfach'.
+---
+> Gewährt einen Bonus von +4 auf die Angriffs- und Verteidigungsstärke sowie die Geschwindigkeit aller befreundeten Einheiten. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+780c660
+< Erhöht die Moral der ausgewählten Einheit.
+---
+> Geisteszauber. Erhöht die Moral der ausgewählten befreundeten Einheit um 1. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+783c663
+< Erhöht die Moral der ausgewählten Einheit.
+---
+> Geisteszauber. Erhöht die Moral der ausgewählten befreundeten Einheit um 1. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+786,788c666
+< Erhöht die Moral der ausgewählten Einheit.
+< 
+< Hat die doppelte Wirkung von 'Freude einfach'.
+---
+> Geisteszauber. Erhöht die Moral der gewählten befreundeten Einheit um 2. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+791,793c669
+< Erhöht die Moral aller freundlichen Einheiten.
+< 
+< Hat die doppelte Wirkung von 'Freude einfach'.
+---
+> Geisteszauber. Erhöht die Moral aller befreundeten Einheiten um 2. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+797c673
+< Reduziert die Moral der ausgewählten gegnerischen Einheit.
+---
+> Geisteszauber. Senkt die Moral der ausgewählten gegnerischen Einheit um 1. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+800c676
+< Reduziert die Moral der ausgewählten gegnerischen Einheit.
+---
+> Verstandeszauber. Senkt die Moral der ausgewählten gegnerischen Einheit um 1. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+803,805c679
+< Reduziert die Moral der ausgewählten gegnerischen Einheit.
+< 
+< Hat die doppelte Wirkung von 'Sorge einfach'.
+---
+> Verstandeszauber. Senkt die Moral der ausgewählten gegnerischen Einheit um 2. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+808,810c682
+< Reduziert die Moral aller gegnerischen Einheiten.
+< 
+< Hat die doppelte Wirkung von 'Sorge einfach'.
+---
+> Geisteszauber. Senkt die Moral aller gegnerischen Einheiten um 2. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+814c686
+< Erhöht das Glück der ausgewählten Einheit.
+---
+> Erhöht das Glück der ausgewählten befreundeten Einheit um 1. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+817c689
+< Erhöht das Glück der ausgewählten Einheit.
+---
+> Erhöht das Glück der gewählten befreundeten Einheit um 1. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+820,822c692
+< Erhöht das Glück der ausgewählten Einheit.
+< 
+< Hat die doppelte Wirkung von 'Fortuna einfach'.
+---
+> Erhöht das Glück der ausgewählten befreundeten Einheit um 2. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+825,827c695
+< Erhöht das Glück aller freundlichen Einheiten.
+< 
+< Hat die doppelte Wirkung von 'Fortuna einfach'.
+---
+> Erhöht das Glück aller befreundeten Einheiten um 2. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+831c699
+< Reduziert das Glück der ausgewählten Einheit.
+---
+> Verringert das Glück der ausgewählten gegnerischen Einheit um 1. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+834,836c702
+< Reduziert das Glück der ausgewählten Einheit.
+< 
+< Kostet nur die Hälfte der Zauberpunkte von Unglück normal.
+---
+> Verringert das Glück der ausgewählten gegnerischen Einheit um 1. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+839,841c705
+< Reduziert das Glück der ausgewählten Einheit.
+< 
+< Hat die doppelte Wirkung von 'Unglück einfach'.
+---
+> Verringert das Glück der ausgewählten gegnerischen Einheit um 2. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+844,846c708
+< Reduziert das Glück aller ausgewählten Einheiten.
+< 
+< Hat die doppelte Wirkung von 'Unglück einfach'.
+---
+> Reduziert das Glück aller gegnerischen Einheiten um 2. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+850c712
+< Erhöht die Geschwindigkeit der ausgewählten Einheit.
+---
+> Erhöht die Geschwindigkeit der ausgewählten befreundeten Einheit um 3. Entfernt den Effekt Langsam. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+853c715
+< Erhöht die Geschwindigkeit der ausgewählten Einheit.
+---
+> Erhöht die Geschwindigkeit der gewählten befreundeten Einheit um 3. Entfernt den Effekt Langsam. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+856,858c718
+< Erhöht die Geschwindigkeit der ausgewählten Einheit.
+< 
+< Hat fast die doppelte Wirkung von 'Eile einfach'.
+---
+> Erhöht die Geschwindigkeit der gewählten befreundeten Einheit um 5. Entfernt den Effekt Langsam. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+861,863c721
+< Erhöht die Geschwindigkeit aller freundlichen Einheiten.
+< 
+< Hat fast die doppelte Wirkung von 'Eile einfach'.
+---
+> Erhöht die Geschwindigkeit aller befreundeten Einheiten um 5. Entfernt den Effekt Langsam. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+867c725
+< Reduziert die Geschwindigkeit der ausgewählten gegnerischen Einheit.
+---
+> Verringert die Geschwindigkeit der ausgewählten gegnerischen Einheit um 25%. Entfernt den Eile-Effekt. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+870c728
+< Reduziert die Geschwindigkeit der ausgewählten gegnerischen Einheit.
+---
+> Verringert die Geschwindigkeit der ausgewählten gegnerischen Einheit um die Formel (alte Geschwindigkeit x 0,75). Entfernt den Effekt Eile. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+873,875c731
+< Reduziert die Geschwindigkeit der ausgewählten gegnerischen Einheit.
+< 
+< Hat die doppelte Wirkung von 'Verlangsamung einfach'.
+---
+> Verringert die Geschwindigkeit der ausgewählten gegnerischen Einheit um die Formel (alte Geschwindigkeit x 0,5 + 1). Entfernt den Effekt Eile. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+878,880c734
+< Reduziert die Geschwindigkeit aller gegnerischen Einheiten.
+< 
+< Hat die doppelte Wirkung von 'Verlangsamung einfach'.
+---
+> Verringert die Geschwindigkeit aller gegnerischen Einheiten um die Formel (alte Geschwindigkeit x 0,5 + 1). Entfernt den Effekt Eile. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+884c738
+< Erhöht den Schaden, den eine Einheit im Kampf gegen Drachen, Behemoths und Hydren anrichtet.
+---
+> Erhöht die Angriffsstärke der ausgewählten befreundeten Einheit gegen Drachen, Behemoths, Hydras, Feuervögel und Seeschlangen um 8. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+887c741
+< Erhöht den Schaden, den eine Einheit im Kampf gegen Drachen, Behemoths und Hydren anrichtet.
+---
+> Erhöht die Angriffsstärke der gewählten befreundeten Einheit gegen Drachen, Behemoths, Hydras, Feuervögel und Seeschlangen um 8. Der Zauber ist für eine Anzahl von Runden in Höhe der Zauberkraft des Helden aktiv.
+890c744
+< Erhöht den Schaden, den eine Einheit im Kampf gegen Drachen, Behemoths, Hydren, Teufel und Engel anrichtet.
+---
+> Erhöht die Angriffsstärke der gewählten befreundeten Einheit gegen Drachen, Behemoths, Hydras, Feuervögel, Seeschlangen, Teufel und Engel um 8. Der Zauber ist für eine Anzahl von Runden in Höhe der Zauberkraft des Helden aktiv.
+893c747
+< Erhöht den Schaden, den eine Einheit im Kampf gegen Drachen, Behemoths, Hydren, Teufel, Engel und Titanen anrichtet.
+---
+> Erhöht die Angriffsstärke der gewählten befreundeten Einheit gegen Drachen, Behemoths, Hydras, Feuervögel, Seeschlangen, Teufel, Engel und Titanen um 8. Der Zauber ist für eine Anzahl von Runden in Höhe der Zauberkraft des Helden aktiv.
+897c751
+< Die ausgewählte Truppe senkt absichtlich ihre Verteidigung, um die Wildheit ihres Angriffs zu erhöhen.
+---
+> Geisteszauber. Die gewählte befreundete Truppe senkt ihre Verteidigung absichtlich auf 0, um die Wildheit ihres Angriffs zu erhöhen. Der Bonus auf die Angriffsstärke ist gleich der früheren Verteidigung der Einheit. Der Zauber wirkt sofort und hält bis zur nächsten Kreaturenkurve an. Danach wirkt der Zauber bis zum nächsten Kreaturenzug.
+900c754
+< Die ausgewählte Truppe senkt absichtlich ihre Verteidigung, um die Wildheit ihres Angriffs zu erhöhen.
+---
+> Geisteszauber. Die gewählte befreundete Truppe senkt ihre Verteidigung absichtlich auf 0, um die Wildheit ihres Angriffs zu erhöhen. Der Bonus auf die Angriffsstärke ist gleich der früheren Verteidigung der Einheit. Der Zauber wirkt sofort und hält bis zum nächsten Zug der Kreatur an. Danach wirkt der Zauber bis zum nächsten Kreaturenzug.
+903,905c757
+< Die ausgewählte Truppe senkt absichtlich ihre Verteidigung, um die Wildheit ihres Angriffs zu erhöhen.
+< 
+< Angriffsbonus ist 50% höher als bei 'Wahnsinn einfach'.
+---
+> Geisteszauber. Die gewählte befreundete Truppe senkt ihre Verteidigungswerte absichtlich auf 0, um die Wildheit ihres Angriffs zu erhöhen. Der Bonus auf die Angriffsstärke ist 1,5 mal so hoch wie die frühere Verteidigung der Einheit. Der Zauber wirkt sofort und hält bis zum nächsten Zug der Kreatur an. Danach wirkt der Zauber bis zum nächsten Kreaturenzug.
+908,910c760
+< Die ausgewählte Truppe senkt absichtlich ihre Verteidigung, um die Wildheit ihres Angriffs zu erhöhen.
+< 
+< Angriffsbonus ist doppelt so hoch wie 'Wahnsinn einfach'.
+---
+> Geisteszauber. Die gewählte befreundete Truppe senkt ihre Verteidigungswerte absichtlich auf 0, um die Wildheit ihres Angriffs zu erhöhen. Der Bonus auf die Angriffsstärke ist 2 mal so hoch wie die vorherige Verteidigung der Einheit. Der Zauber wirkt sofort und hält bis zum nächsten Zug der Kreatur an. Danach wirkt der Zauber bis zum nächsten Kreaturenzug.
+912c762
+< Furcht ( disabled )	Furcht ( disabled )	4	 	 	 	 	16	8	8	8	0	75	75	50	25	0	0	0	0	0	0	0	0	0	50	50	50	50	"{Furcht}
+---
+> Titans Blitzschlag	Titan-Schlag	5				x	0	0	0	0	0	600	600	600	600	0	0	0	0	0	0	0	0	0	75	75	75	75	"{Furcht}
+914,915c764,765
+< Belegt eine gegnerische Einheit mit solcher Furcht, daß sie nicht mehr angreifen und sich kaum noch bewegen kann.
+< "	"{Furcht einfach}
+---
+> Fügt einer ausgewählten gegnerischen Einheit 600 Punkte Schaden zu, ohne dass den Zaubernden Zauberkosten treffen.
+> "	"{Furcht}
+917c767,768
+< Belegt eine gegnerische Einheit mit solcher Furcht, daß sie nicht mehr angreifen und sich kaum noch bewegen kann.
+---
+> Fügt einer ausgewählten gegnerischen Einheit 600 Punkte Schaden zu, ohne dass den Zaubernden Zauberkosten treffen.
+> "	"{Furcht}
+919,920c770,771
+< Kostet die Hälfte der  Zauberpunkte von 'Furcht normal'.
+< "	"{Furcht verbessert}
+---
+> Fügt einer ausgewählten gegnerischen Einheit 600 Punkte Schaden zu, ohne dass den Zaubernden Zauberkosten treffen.
+> "	"{Furcht}
+922,930c773,774
+< Belegt eine gegnerische Einheit mit solcher Furcht, daß sie nicht mehr angreifen und sich kaum noch bewegen kann.
+< 
+< Der Abzug auf Bewegung ist doppelt so hoch wie bei 'Furcht einfach'.
+< "	"{Furcht Meisterhaft}
+< 
+< Belegt eine gegnerische Einheit mit solcher Furcht, daß sie nicht mehr angreifen und sich kaum noch bewegen kann.
+< 
+< Der Abzug auf Bewegung ist dreimal so hoch wie bei 'Furcht einfach'.
+< "	 COMBAT_SPELL|CREATURE_TARGET|MIND_SPELL
+---
+> Fügt einer ausgewählten gegnerischen Einheit 600 Punkte Schaden zu, ohne dass den Zaubernden Zauberkosten treffen.
+> "	
+933c777
+< Die ausgewählte Einheit kann sich einmal mehr pro Runde wehren.
+---
+> Die gewählte befreundete Einheit wird jede Runde einen zusätzlichen Angriff abwehren. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+936c780
+< Die ausgewählte Einheit kann sich einmal mehr pro Runde wehren.
+---
+> Die gewählte befreundete Einheit wird jede Runde einen zusätzlichen Angriff abwehren. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+939c783
+< Die ausgewählte Einheit kann sich zwei mal mehr pro Runde wehren.
+---
+> Die gewählte befreundete Einheit wird jede Runde zwei zusätzliche Angriffe abwehren. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+942c786
+< Alle freundlichen Einheiten können sich zwei mal mehr pro Runde wehren.
+---
+> Alle Einheiten der eigenen Seite werden jede Runde zwei zusätzliche Angriffe abwehren. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+944,950c788
+< Berserker	Berserker	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Berserker)
+< 
+< Die anvisierte Einheit greift willkürlich die nächststehende Einheit an, ob Freund oder Feind.
+< "	"{Berserker einfach)
+< 
+< Die anvisierte Einheit greift willkürlich die nächststehende Einheit an, ob Freund oder Feind.
+< "	"{Berserker verbessert)
+---
+> Berserker	Berserker	4	 	 	x	 	20	16	16	16	0	0	0	1	2	5	5	5	5	10	5	0	0	5	60	60	60	60	"{Berserker}
+952c790,791
+< Die anvisierte Einheit greift willkürlich die nächststehende Einheit an, ob Freund oder Feind.
+---
+> Geisteszauber. Die anvisierte Einheit greift zufällig die nächstgelegene Einheit an, egal ob Freund oder Feind. Der Hypnose-Effekt wird vom Ziel gebannt. Der Zaubereffekt ist gültig, bis das Ziel einen Angriff durchführt, ansonsten ist die Dauer des Berserkers unbegrenzt.
+> "	"{Berserker einfach}
+954,955c793,794
+< Wirkungskreis ist sechs Felder größer als 'Berserker einfach'.
+< "	"{Berserker Meisterhaft)
+---
+> Geisteszauber. Die anvisierte Einheit greift zufällig die nächstgelegene Einheit an, sei es Freund oder Feind. Der Hypnose-Effekt wird vom Ziel gebannt. Der Zaubereffekt ist gültig, bis das Ziel einen Angriff durchführt, ansonsten ist die Dauer des Berserkers unbegrenzt.
+> "	"{Berserker verbessert}
+957c796,797
+< Die anvisierte Einheit greift willkürlich die nächststehende Einheit an, ob Freund oder Feind.
+---
+> Geisteszauber. Die anvisierte Einheit sowie Einheiten, die sich in der Nähe des Zielortes befinden, greifen zufällig die nächstgelegenen Einheiten an, egal ob Freund oder Feind. Der Hypnose-Effekt wird vom Ziel gebannt. Der Zaubereffekt ist gültig, bis das Ziel einen Angriff durchführt, ansonsten ist die Dauer des Berserkers unbegrenzt.
+> "	"{Berserker Meisterhaft}
+959c799
+< Wirkungskreis ist achtzehn Felder größer als 'Berserker einfach'.
+---
+> Geisteszauber. Die anvisierte Einheit sowie alle Einheiten, die 1 und 2 Felder vom Zielort entfernt sind, greifen zufällig die nächstgelegenen Einheiten an, egal ob sie Freunde oder Feinde sind. Der Hypnose-Effekt wird vom Ziel gebannt. Der Zaubereffekt ist gültig, bis das Ziel einen Angriff durchführt, ansonsten ist die Dauer des Berserkers unbegrenzt.
+963c803
+< Gibt Euch vorübergehend die Kontrolle über eine gegnerische Einheit.
+---
+> Geisteszauber. Stellt die gewählte gegnerische Einheit mit nicht mehr als (Zauberkraft x 25 + 10) Lebenspunkten vorübergehend unter Ihre Kontrolle. Entfernt den Berserker-Effekt. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+966c806
+< Gibt Euch vorübergehend die Kontrolle über eine gegnerische Einheit.
+---
+> Geisteszauber. Stellt die gewählte gegnerische Einheit mit maximal (Zauberkraft x 25 + 10) Lebenspunkten vorübergehend unter Ihre Kontrolle. Entfernt den Berserker-Effekt. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+969,971c809
+< Gibt Euch vorübergehend die Kontrolle über eine gegnerische Einheit.
+< 
+< Erlaubt die Kontrolle über Kreaturen mit 10 Trefferpunkten mehr als 'Hypnose einfach'.
+---
+> Geisteszauber. Stellt die gewählte gegnerische Einheit mit maximal (Zauberkraft x 25 + 20) Lebenspunkten vorübergehend unter Ihre Kontrolle. Entfernt den Berserker-Effekt. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+974,976c812
+< Gibt Euch vorübergehend die Kontrolle über eine gegnerische Einheit.
+< 
+< Erlaubt die Kontrolle über Kreaturen mit 40 Trefferpunkten mehr als 'Hypnose einfach'.
+---
+> Geisteszauber. Stellt die gewählte gegnerische Einheit mit maximal (Zauberkraft x 25 + 50) Lebenspunkten vorübergehend unter deine Kontrolle. Entfernt den Berserker-Effekt. Der Zauber ist für die Anzahl der Runden aktiv, die der Zauberkraft des Helden entspricht.
+980c816
+< Die Hälfte der ausgewählten gegnerischen Truppe vergißt, ihre Fernangriffe zu nutzen.
+---
+> Geisteszauber. Die Hälfte der ausgewählten gegnerischen Fernkampfeinheit vergisst, Euren Angriff einzusetzen. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+983c819
+< Die Hälfte der ausgewählten gegnerischen Truppe vergißt, ihre Fernangriffe zu nutzen.
+---
+> Geisteszauber. Die Hälfte der ausgewählten gegnerischen Fernkampfeinheit vergisst, Euren Angriff zu benutzen. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+986c822
+< Die ausgewählte gegnerische Truppe vergißt, ihre Fernangriffe im Kampf zu nutzen.
+---
+> Geisteszauber. Bewirkt, dass die ausgewählte gegnerische Fernkampfeinheit vergisst, Euren Fernkampfangriff im Kampf einzusetzen. Die Hälfte der Einheit vergisst auch, Euren Nahkampfangriff einzusetzen. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+989c825
+< Alle gegnerischen Truppen vergessen, ihre Fernangriffe im Kampf zu nutzen.
+---
+> Geisteszauber. Bewirkt, dass alle gegnerischen Fernkampftruppen vergessen, Euren Fernkampfangriff im Kampf einzusetzen. Die Hälfte jeder Einheit vergisst außerdem, den Nahkampfangriff einzusetzen. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+993c829
+< Blendet eine Kreatur, so daß sie sich nicht bewegen kann und nur mit der Hälfte ihrer Stärke zurückschlägt. Die Blindheit bleibt, bis die Einheit angegriffen oder der Zauber zerstreut wird.
+---
+> Geisteszauber. Blendet die ausgewählte gegnerische Einheit vorübergehend, so dass sie sich nicht bewegen kann, und verursacht einen Gegenangriff mit der Hälfte des normalen Schadens.  Die Blindheit bleibt bestehen, bis die Einheit angegriffen oder gebannt wird. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+996c832
+< Blendet eine Kreatur, so daß sie sich nicht bewegen kann und nur mit der Hälfte ihrer Stärke zurückschlägt. Die Blindheit bleibt, bis die Einheit angegriffen oder der Zauber zerstreut wird.
+---
+> Geisteszauber. Blendet die gewählte gegnerische Einheit vorübergehend, so dass sie sich nicht bewegen kann, und verursacht einen Gegenangriff mit der Hälfte des normalen Schadens.  Die Blindheit bleibt bestehen, bis die Einheit angegriffen oder gebannt wird. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+999c835
+< Blendet eine Kreatur, so daß sie sich nicht bewegen kann und nur mit einem Viertel ihrer Stärke zurückschlägt. Die Blindheit bleibt, bis die Einheit angegriffen oder der Zauber zerstreut wird.
+---
+> Geisteszauber. Blendet die gewählte gegnerische Einheit vorübergehend, so dass sie sich nicht bewegen kann, und verursacht einen Gegenangriff mit einem Viertel des normalen Schadens.  Die Blindheit bleibt bestehen, bis die Einheit angegriffen oder gebannt wird. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+1002c838
+< Blendet eine Kreatur, so daß sie sich nicht bewegen oder zurückschlagen kann. Die Blindheit bleibt, bis die Einheit angegriffen oder der Zauber zerstreut wird.
+---
+> Geisteszauber. Blendet die gewählte gegnerische Einheit vorübergehend, so dass sie sich nicht bewegen oder einen Gegenangriff ausführen kann.  Die Blindheit bleibt bestehen, bis die Einheit angegriffen oder gebannt wird. Wirkt nicht auf Untote. Der Zauber ist für eine Anzahl von Runden aktiv, die der Zauberkraft des Helden entspricht.
+1004c840,842
+< Teleport	Teleport	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleport}
+---
+> Teleport	Teleport	3	 	x	 	 	15	12	6	3	0	0	0	0	0	8	8	8	8	8	8	8	10	8	20	20	20	20	"{Teleportieren}
+> 
+> Teleportiert eine beliebige befreundete Einheit an einen beliebigen unbesetzten Ort auf dem Schlachtfeld. Entfernt den Bindungseffekt des Dendroiden.
+1006c844
+< Teleportiert eine beliebige freundliche Einheit auf einen unbesetzten Ort auf dem Schlachtfeld.
+---
+> Truppen können nicht über Mauern oder Gräben teleportieren.
+1009c847
+< Teleportiert eine beliebige freundliche Einheit auf einen unbesetzten Ort auf dem Schlachtfeld.
+---
+> Teleportiert eine beliebige Einheit der eigenen Seite an einen unbesetzten Ort auf dem Schlachtfeld. Entfernt den Dendroiden-Bindungseffekt.
+1011c849
+< Truppe kann nicht über Wassergräben oder Wände teleportieren.
+---
+> Der Trupp kann nicht über Mauern oder Gräben teleportieren.
+1014c852
+< Teleportiert eine beliebige freundliche Einheit auf einen unbesetzten Ort auf dem Schlachtfeld.
+---
+> Teleportiert eine beliebige Einheit der eigenen Seite an einen unbesetzten Ort auf dem Schlachtfeld. Entfernt den Dendroiden-Bindungseffekt.
+1016c854
+< Truppe kann nicht über Wände teleportieren.
+---
+> Der Trupp kann nicht über Mauern teleportieren.
+1019c857
+< Teleportiert eine beliebige freundliche Einheit auf einen unbesetzten Ort auf dem Schlachtfeld.
+---
+> Teleportiert eine beliebige Einheit der eigenen Seite an einen beliebigen unbesetzten Ort auf dem Schlachtfeld. Entfernt den Dendroiden-Bindungseffekt.
+1023c861
+< Beseitigt ein normales Hindernis (Bäume, Steine usw.) vom Schlachtfeld.
+---
+> Entfernt jedes normale, nicht integrierte Hindernis (Bäume, Felsen, etc.) nach Wahl des Zaubernden vom Schlachtfeld.
+1026c864
+< Beseitigt ein normales Hindernis (Bäume, Steine usw.) vom Schlachtfeld.
+---
+> Entfernt ein normales, nicht integriertes Hindernis (Bäume, Felsen usw.) nach Wahl des Zaubernden vom Schlachtfeld.
+1029c867
+< Beseitigt ein normales Hindernis (Bäume, Steine usw.) oder eine Feuerwand vom Schlachtfeld.
+---
+> Entfernt ein beliebiges normales, nicht integriertes Hindernis (Bäume, Felsen, etc.) oder eine Feuerwand nach Wahl des Zaubernden vom Schlachtfeld.
+1032c870
+< Beseitigt ein normales oder magisches Hindernis (Bäume, Steine usw.) vom Schlachtfeld.
+---
+> Entfernt ein beliebiges normales, nicht integriertes oder magisches Hindernis nach Wahl des Zaubernden vom Schlachtfeld.
+1036c874
+< Erschafft ein Duplikat des ausgewählten Truppenteils. Das Bild wird bei Angriff zerstört.
+---
+> Erzeugt ein temporäres Duplikat des gewählten eigenen Einheitenstapels.  Das Abbild wird zerstreut, wenn es beschädigt wird oder wenn der Prototyp stirbt. Jede Einheit darf nur einen Klon haben. Wirkt sich nicht auf Kriegsmaschinen aus. Der Klon lebt für eine Anzahl von Runden, die der Zauberkraft des Helden entspricht.
+1041c879
+< Erschafft ein Duplikat des ausgewählten Truppenteils. Das Bild wird bei Angriff zerstört.
+---
+> Erzeugt ein temporäres Duplikat des gewählten eigenen Einheitenstapels.  Das Abbild wird zerstreut, wenn es beschädigt wird oder wenn der Prototyp stirbt. Jede Einheit darf nur einen Klon haben. Wirkt sich nicht auf Kriegsmaschinen aus. Der Klon lebt für eine Anzahl von Runden, die der Zauberkraft des Helden entspricht.
+1046c884
+< Erschafft ein Duplikat des ausgewählten Truppenteils. Das Bild wird bei Angriff zerstört.
+---
+> Erzeugt ein temporäres Duplikat des gewählten Stapels der eigenen Einheit.  Das Abbild wird zerstreut, wenn es beschädigt wird oder wenn der Prototyp stirbt. Jede Einheit darf nur einen Klon haben. Wirkt sich nicht auf Kriegsmaschinen aus. Der Klon lebt für eine Anzahl von Runden, die der Zauberkraft des Helden entspricht.
+1051c889
+< Erschafft ein Duplikat des ausgewählten Truppenteils. Das Bild wird bei Angriff zerstört.
+---
+> Erzeugt ein temporäres Duplikat des gewählten Stapels der eigenen Einheit.  Das Abbild wird zerstreut, wenn es beschädigt wird oder wenn der Prototyp stirbt. Jede Einheit darf nur einen Klon haben. Wirkt sich nicht auf Kriegsmaschinen aus. Der Klon lebt für eine Anzahl von Runden, die der Zauberkraft des Helden entspricht.
+1053c891
+< Klont Kreaturen aller Stufen.
+---
+> Klont Kreaturen eines beliebigen Levels.
+1055c893
+< Feuerwesen	Feuerwesen	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Feuerwesen}
+---
+> Feuerwesen	Feuerwesen	5			x		25	20	20	20	0	2	2	3	4	0	0	0	16	0	12	0	0	12	50	50	100	150	"{Feuerkraft}
+1057c895
+< Läßt Euch Feuerwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+---
+> Ermöglicht es dir, (Zauberkraft x 2) Feuerelementare an einer zufälligen Position am Rande des Schlachtfelds zu beschwören. Die Elementare dienen Euch bis zum Ende des Kampfes. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1060c898
+< Läßt Euch Feuerwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+---
+> Ermöglicht es Euch, (Zauberkraft x 2) Feuerelementare an einer zufälligen Position am Rand des Schlachtfelds zu beschwören. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementar-Typen beschworen werden.
+1063,1065c901
+< Läßt Euch Feuerwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+< 
+< Erschafft etwa anderthalb mal so viele Einheiten wie 'Feuerwesen herbeirufen einfach'.
+---
+> Ermöglicht es Euch, (Zauberkraft x 3) Feuerelementare an einer zufälligen Position am Rand des Schlachtfelds zu beschwören. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementar-Typen beschworen werden.
+1068,1070c904
+< Läßt Euch Feuerwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+< 
+< Erschafft etwa doppelt so viele Einheiten wie 'Feuerwesen herbeirufen einfach'.
+---
+> Ermöglicht die Beschwörung von (Zauberkraft x 4) Feuerelementaren an einer zufälligen Position am Rande des Schlachtfelds. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementar-Typen beschworen werden.
+1074c908
+< Läßt Euch Erdwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+---
+> Ermöglicht die Beschwörung von (Zauberkraft x 2) Erdelementaren an einer zufälligen Position am Rand des Schlachtfelds. Die Elementare werden Euch bis zum Ende der Schlacht dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1077c911
+< Läßt Euch Erdwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+---
+> Erlaubt es dir, (Zauberkraft x 2) Erdelementare an einer zufälligen Position am Rand des Schlachtfelds zu beschwören. Die Elementare werden Euch bis zum Ende der Schlacht dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1080,1082c914
+< Läßt Euch Erdwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+< 
+< Erschafft etwa anderthalb mal so viele Einheiten wie 'Erdwesen herbeirufen einfach'.
+---
+> Erlaubt es dir, (Zauberkraft x 3) Erd-Elementare an einer zufälligen Position am Rande des Schlachtfelds zu beschwören. Die Elementare werden Euch bis zum Ende der Schlacht dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1085,1087c917
+< Läßt Euch Erdwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+< 
+< Erschafft etwa doppelt so viele Einheiten wie 'Erdwesen herbeirufen einfach'.
+---
+> Ermöglicht die Beschwörung von (Zauberkraft x 4) Erd-Elementaren an einer zufälligen Position am Rand des Schlachtfelds. Die Elementare werden Euch bis zum Ende der Schlacht dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1091c921
+< Läßt Euch Wasserwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+---
+> Erlaubt dir, (Zauberkraft x 2) Wasserelementare an einer zufälligen Position am Rand deines Schlachtfelds zu beschwören. Die Elementare werden Euch bis zum Ende der Schlacht dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1094c924
+< Läßt Euch Wasserwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+---
+> Ermöglicht es Euch, (Zauberkraft x 2) Wasserelementare an einer zufälligen Position am Rand des Schlachtfelds zu beschwören. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1097,1099c927
+< Läßt Euch Wasserwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+< 
+< Erschafft etwa anderthalb mal so viele Einheiten wie 'Wasserwesen herbeirufen einfach'.
+---
+> Ermöglicht es Euch, (Zauberkraft x 3) Wasserelementare an einer zufälligen Position am Rand des Schlachtfelds zu beschwören. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1102,1104c930
+< Läßt Euch Wasserwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+< 
+< Erschafft etwa doppelt so viele Einheiten wie 'Wasserwesen herbeirufen einfach'.
+---
+> Ermöglicht es Euch, (Zauberkraft x 4) Wasserelementare an einer zufälligen Position am Rande des Schlachtfelds zu beschwören. Die Elementare dienen Euch bis zum Ende des Kampfes. Einmal gewirkt, können in dieser Schlacht keine anderen Elementararten beschworen werden.
+1106,1112c932
+< Luftwesen	Luftwesen	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{Luftwesen}
+< 
+< Läßt Euch Luftwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+< "	"{Luftwesen einfach}
+< 
+< Läßt Euch Luftwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+< "	"{Luftwesen verbessert}
+---
+> Luftwesen	Luftwesen	5				x	25	20	20	20	0	2	2	3	4	0	0	14	0	16	0	0	0	12	50	50	100	150	"{LUFTWESEN}
+1114c934,935
+< Läßt Euch Luftwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+---
+> Ermöglicht es Euch, (Zauberkraft x 2) Luftelementare an einer zufälligen Position am Rand des Schlachtfelds zu beschwören. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementar-Typen beschworen werden.
+> "	"{Einfaches Luftwesen}
+1116,1117c937,938
+< Erschafft etwa anderthalb mal so viele Einheiten wie 'Luftwesen herbeirufen einfach'.
+< "	"{Luftwesen Meisterhaft}
+---
+> Ermöglicht die Beschwörung von (Zauberkraft x 2) Luftelementaren an einer zufälligen Position am Rande des Schlachtfelds. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementar-Typen beschworen werden.
+> "	"{Luft-Wesen verbessert}
+1119c940,941
+< Läßt Euch Luftwesen herbeirufen. Nach diesem Zauber dürfen keine Wesen anderer Elemente gerufen werden.
+---
+> Ermöglicht die Beschwörung von (Zauberkraft x 3) Luftelementaren an einer zufälligen Position am Rande des Schlachtfelds. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementar-Typen beschworen werden.
+> "	"{Meisterhaftes Luftwesen}
+1121c943
+< Erschafft etwa doppelt so viele Einheiten wie 'Luftwesen herbeirufen einfach'.
+---
+> Ermöglicht die Beschwörung von (Zauberkraft x 4) Luftelementaren an einer zufälligen Position am Rande des Schlachtfelds. Die Elementare werden Euch bis zum Ende des Kampfes dienen. Einmal gewirkt, können in dieser Schlacht keine anderen Elementar-Typen beschworen werden.
+1136c958
+< Acid breath	Acid Breath	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					
+---
+> Acid Breath	Acid Breath	0					0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1					

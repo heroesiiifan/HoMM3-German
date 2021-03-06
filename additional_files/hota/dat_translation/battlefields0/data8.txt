@@ -1,0 +1,36 @@
+Erde tote Vegetation
+Erde Hügel
+Erde Pflanzen
+Sand tote Vegetation
+Sand Hügel
+Sand Pflanzen
+Gras tote Vegetation
+Gras Hügel
+Gras Pflanzen
+Schnee tote Vegetation
+Schnee Hügel
+Schnee Pflanzen
+Sumpf tote Vegetation
+Sumpf Hügel
+Sumpf Pflanzen
+Ödland tote Vegetation
+Ödland Hügel
+Ödland Pflanzen
+Unterirdisch tote Vegetation
+Unterirdisch Hügel
+Unterirdisch Pflanzen
+Lava tote Vegetation
+Lava Hügel
+Lava Pflanzen
+Wasser tote Vegetation
+Wasser Hügel
+Wasser Pflanzen
+Fels tote Vegetation
+Fels Hügel
+Fels Pflanzen
+Hochland tote Vegetation
+Hochland Hügel
+Hochland Pflanzen
+Einöde tote Vegetation
+Einöde Hügel
+Einöde Pflanzen

@@ -151,18 +151,18 @@ Main Menu Text
 &Bearbeiten	
 &Hilfe	
 File Menu	
-&Neu…	Ctrl+N
-&Öffnen…	Ctrl+O
-&Speichern	Ctrl+S
+&Neu…	Strg+N
+&Öffnen…	Strg+O
+&Speichern	Strg+S
 Speichern &unter…	
 Text e&xportieren...	
 Text &importieren...	
-Szenariokarten a&ktualisieren	Ctrl+R
-Szenariokarten &exportieren	Ctrl+E
+Szenariokarten a&ktualisieren	Strg+R
+Szenariokarten &exportieren	Strg+E
 Zuletzt bearbeitete Dateien	
 Been&den	
 Edit Menu	
-&Kampagnen-Eigenschaften…	Ctrl+Enter
+&Kampagnen-Eigenschaften…	Strg+Enter
 &Szenario-Eigenschaften…	Enter
 Help Menu
 &Hilfethemen

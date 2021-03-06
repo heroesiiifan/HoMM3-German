@@ -18,7 +18,7 @@ d = "_tmp/HotA_patched/txt/"
 
 if not os.path.exists(d): os.makedirs(d)
 
-identical = [ "Artslots.txt", "CampDiag.txt", "CastInfo.txt", "CmpEdCmd.txt", "CmpEditr.txt", "CrGen4.txt", "CrGenerc.txt", "Garrison.txt", "HallInfo.txt", "HeroScrn.txt", "JkText.txt", "Lcdesc.txt", "MineEvnt.txt", "OverView.txt", "PlColors.txt", "PriSkill.txt", "RandSign.txt", "Regions.txt", "ResTypes.txt", "SkillLev.txt", "TCommand.txt", "TentColr.txt", "TownName.txt", "TownType.txt", "TurnDur.txt", "TvrnInfo.txt", "VcDesc.txt", "Walls.txt" ] + ["CREDITS.TXT", "ObjNames.txt", "TERRNAME.txt"]
+identical = [ "Artslots.txt", "CampDiag.txt", "CastInfo.txt", "CmpEdCmd.txt", "CmpEditr.txt", "CrGen4.txt", "CrGenerc.txt", "Garrison.txt", "HallInfo.txt", "HeroScrn.txt", "JkText.txt", "Lcdesc.txt", "MineEvnt.txt", "MineName.txt", "OverView.txt", "PlColors.txt", "PriSkill.txt", "RandSign.txt", "Regions.txt", "ResTypes.txt", "SkillLev.txt", "TCommand.txt", "TentColr.txt", "TownName.txt", "TownType.txt", "TurnDur.txt", "TvrnInfo.txt", "VcDesc.txt", "Walls.txt" ] + ["CREDITS.TXT", "ObjNames.txt", "TERRNAME.txt"]
 
 def correct_line_ending(file_in, file_out):
     with open(file_in, "r+b") as f:
@@ -91,6 +91,8 @@ command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] +
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 #command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["additional_files/HotA/campaign_deepl/" + s for s in os.listdir("additional_files/HotA/campaign_deepl/")]
 #output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["additional_files/hota/campaign_deepl/translated/" + s for s in os.listdir("additional_files/hota/campaign_deepl/translated/")]
+output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["additional_files/translation/def/" + s for s in os.listdir("additional_files/translation/def/")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["additional_files/hota/def/" + s for s in os.listdir("additional_files/hota/def/")]
