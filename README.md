@@ -34,6 +34,7 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * Heroes III HD mod 5.2 RC17
 * Heroes III Horn of the Abyss 1.6.1
 * VCMI 0.99 (f31c516)
+* [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases)
 
 ## Was Fehlt?
 * Audio/Video von AB, SoD und HotA in Deutsch
@@ -47,6 +48,7 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * Data-CD in den Ordner "CD data"
 * #de.ini kopieren in lang
 * Dateien aus Zip in "Packs/German"
+* Ggf. [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases) installieren (in ini von eng auf deu ändern)
 * Heroes Chronicles-Kampagnen in den Maps-Ordner kopieren
 * Sprache im Menü auf Deutsch umstellen & Mod hinzufügen
 * genießen
@@ -60,19 +62,23 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8!!!
 ### Allgemein
 * Deutsches Keyboard-Layout
-* Rohstoffe im Rechten Quadrat (mit Texten) kleingeschrieben -> Lässt sich scheinbar nicht über Textdateien ändern... (tolower()?)
+* Rohstoffe im rechten Quadrat (mit Texten) kleingeschrieben -> Lässt sich scheinbar nicht über Textdateien ändern... (tolower()?)
 ### VCMI
 * -
 ### HD
 * -
 ### HotA
-* Diff Texte zwischen hota/de/alt und hota/de/neu erzeugen (z.B. mit WinMerge)
-  * hota/de/neu übersetzen (auf Basis von Vergleich hota/en/neu zu hota/en/neu)
-* .DAT übersetzen (hota/txt)
-  * Ihr/Euch (Groß geschrieben)
-* Kampagnen HotA (Warte auf offiziellen Kampagnen-Editor?)
+* SpTraits.txt ggf. noch von DeepL optimieren
+* .DAT übersetzen (hota/txt) - nur Map-Editor übrig...
 
 ## Changelog
+### 1.6
+* Ctrl in Strg umbenannt
+* SOD_SP Übersetzung
+* HotA Kampagnen mit [DeepL](https://www.deepl.com/translator) übersetzt
+* HotA DAT-Texte übersetzt
+* Fehlende TXT ergänzt
+
 ### 1.5
 * loadgame.bmp, newgame.bmp und Kampagnenhintergrund in HD
 * Originaltexte der dt. Übersetzung bei RoE-Kampagne
