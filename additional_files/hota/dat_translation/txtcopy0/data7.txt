@@ -10,137 +10,137 @@ Erste Hilfe-Zelt
 Zentaurenaxt
 Schwarzklinge des toten Ritters
 Gnollmorgenstern
-OgerknÃ¼ppel der VerwÃ¼stung
-Schwert des HÃ¶llenfeuers
+Ogerknüppel der Verwüstung
+Schwert des Höllenfeuers
 Titanengladius
 Schild der Zwergenlords
-Schild der gÃ¤hnenden Toten
-Rundschild des GnollkÃ¶nigs
-Schild des wÃ¼tenden Ogers
+Schild der gähnenden Toten
+Rundschild des Gnollkönigs
+Schild des wütenden Ogers
 Schild der Verdammten
 Schild der Wache
 Helm des Alabastereinhorns
-TotenschÃ¤delhelm
+Totenschädelhelm
 Helm des Chaos
-Krone der hÃ¶chsten Magier
-HÃ¶llensturmhelm
+Krone der höchsten Magier
+Höllensturmhelm
 Donnerhelm
 Brustpanzer vom Steinwald
 Brustkorb
 Schuppen des Riesenbasilisken
-Tunika des ZyklopenkÃ¶nigs
+Tunika des Zyklopenkönigs
 Schwefelharnisch
 Titanenharnisch
-WunderrÃ¼stung
+Wunderrüstung
 Sandalen des Heiligen
 Himmlisches Segenshalsband 
-LÃ¶wenschild des Mutes
+Löwenschild des Mutes
 Schwert des Urteils
 Helm der Himmlischen Erleuchtung
 Ruhiges Auge des Drachen
 Feuerzunge des Roten Drachen
 Drachenschild
-DrachenrÃ¼stung
+Drachenrüstung
 Knochenschienen
 Drachenweste
 Drachenzahnkette
 Drachenzahnkrone
 Stilles Auge des Drachen
-Kleeblatt des GlÃ¼cks
+Kleeblatt des Glücks
 Karten der Prophezeiung
-Silberner GlÃ¼cksvogel
+Silberner Glücksvogel
 Abzeichen der Courage
 Wappen der Tapferkeit
 Skulptur der Ritterlichkeit
 Spekulum
 Spionagelinse
-Amulett der TotengrÃ¤ber
+Amulett der Totengräber
 Vampirkutte
 Totenstiefel
 Schmuck der Interferenz
 Schutzrock
-Stiefel der PolaritÃ¤t
+Stiefel der Polarität
 Bogen aus Elfenkirschholz
-Bogensehne der EinhornmÃ¤hne
+Bogensehne der Einhornmähne
 Engelsfedernpfeile
 Vogel der Beobachtung
 Geduldiger Wachmann
 Emblem der Erkenntnis
 Staatsmannorden
 Diplomatenring
-EhrenschÃ¤rpe
+Ehrenschärpe
 Ring des Wandersmanns
 Reiterhandschuhe
 Halsband des Navigators
-EngelsflÃ¼gel
-ManaglÃ¼cksbringer
+Engelsflügel
+Managlücksbringer
 Manatalisman
 Mystische Manakugel
-Kragen der BeschwÃ¶rung
-Ring der BeschwÃ¶rung
-Umhang der BeschwÃ¶rung
+Kragen der Beschwörung
+Ring der Beschwörung
+Umhang der Beschwörung
 Kugel des Firmaments
 Kugel des Schlamms
 Kugel des rasenden Feuers
 Kugel des prasselnden Regens
 Widerrufermantel
-Geist der UnterdrÃ¼ckung
-Sanduhr der bÃ¶sen Stunde
+Geist der Unterdrückung
+Sanduhr der bösen Stunde
 Buch der Feuermagie
 Buch der Luftmagie
 Buch der Wassermagie
 Buch der Erdmagie
 Stiefel des Schwebens
 Goldener Bogen
-SphÃ¤re der Permanenz
+Sphäre der Permanenz
 Kugel der Verwundbarkeit
-Ring der VitalitÃ¤t
+Ring der Vitalität
 Ring des Lebens
 Blut des Lebens
 Halsband der Hurtigkeit
 Stiefel der Geschwindigkeit
 Umhang der Geschwindigkeit
-AnhÃ¤nger der Leidenschaftslosen
-AnhÃ¤nger des zweiten Auges
-AnhÃ¤nger der Heiligkeit
-AnhÃ¤nger des Lebens
-AnhÃ¤nger des Todes
-AnhÃ¤nger des freien Willens
-AnhÃ¤nger der Aufhebung
-AnhÃ¤nger der Erinnerung
-AnhÃ¤nger des Mutes
+Anhänger der Leidenschaftslosen
+Anhänger des zweiten Auges
+Anhänger der Heiligkeit
+Anhänger des Lebens
+Anhänger des Todes
+Anhänger des freien Willens
+Anhänger der Aufhebung
+Anhänger der Erinnerung
+Anhänger des Mutes
 Endloser Kristallmantel
 Ring der Unendlichen Edelsteine
 Endlose Quecksilberphiole
-UnermÃ¼dliche Eisenerzkarre
+Unermüdliche Eisenerzkarre
 Ewig rauchender Schwefelring
-UnermÃ¼dliche Holzkarre
+Unermüdliche Holzkarre
 Endloser Goldsack
 Endlose Goldtasche
 Endloser Goldbeutel
-Beine des LegionÃ¤rs
-Lenden des LegionÃ¤rs
-Torso des LegionÃ¤rs
-Arme des LegionÃ¤rs
-Kopf des LegionÃ¤rs
-KapitÃ¤nsmÃ¼tze
+Beine des Legionärs
+Lenden des Legionärs
+Torso des Legionärs
+Arme des Legionärs
+Kopf des Legionärs
+Kapitänsmütze
 Zauberhut
 Fesseln des Krieges
 Kugel der Hemmung
 Phiole des Drachenblutes
 Armageddon-Klinge
 Engelsallianz
-Umhang des Untoten-KÃ¶nigs
+Umhang des Untoten-Königs
 Elixier des Lebens
-RÃ¼stung des Verdammten
-Statue des LegionÃ¤rs
+Rüstung des Verdammten
+Statue des Legionärs
 Macht des Drachenvaters
 Titanendonner
 Admiralshut
-Bogen des MeisterschÃ¼tzen
+Bogen des Meisterschützen
 Zauberbrunnen
 Ring des Magiers
-FÃ¼llhorn
+Füllhorn
 Diplomatenanzug
-AnhÃ¤nger der Reflexion
+Anhänger der Reflexion
 Eisenfaust des Ogers

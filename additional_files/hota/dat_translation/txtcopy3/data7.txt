@@ -8,7 +8,7 @@ Pandoras Kiste
 Schwarzmarkt	
 Boot	
 Grenzwache	
-Zelt des SchlÃ¼sselmeisters	
+Zelt des Schlüsselmeisters	
 Boje	
 Lagerfeuer	
 Kartograph	
@@ -28,15 +28,15 @@ Ereignis
 Auge des Magiers
 Feenring
 Strandgut
-Quelle des GlÃ¼cks
+Quelle des Glücks
 Quelle der Jugend
-Garten der EnthÃ¼llung
+Garten der Enthüllung
 Garnison
 Held
-HÃ¼gelfestung
+Hügelfestung
 Gral
-HÃ¼tte des Magiers
-GÃ¶tze des GlÃ¼cks
+Hütte des Magiers
+Götze des Glücks
 Anbau
 
 Bibliothek der Erleuchtung
@@ -49,7 +49,7 @@ Schule der Magie
 Magische Quelle
 Magischer Brunnen
 Markt der Zeit
-SÃ¶ldnerlager
+Söldnerlager
 Meerjungfrauen
 Mine
 Monster
@@ -58,60 +58,60 @@ Oase
 Obelisk
 Mammutbaum-Observatorium
 Flaschenpost
-FeuersÃ¤ule
+Feuersäule
 Sternenachse
-GefÃ¤ngnis
+Gefängnis
 Pyramide
 Versammlungszeichen
-ZufÃ¤lliges Artefakt
-ZufÃ¤lliger Artefakt-Schatz
-ZufÃ¤lliges minderes Artefakt
-ZufÃ¤lliges hÃ¶heres Artefakt
-ZufÃ¤lliges Relikt
-ZufÃ¤lliger Held
+Zufälliges Artefakt
+Zufälliger Artefakt-Schatz
+Zufälliges minderes Artefakt
+Zufälliges höheres Artefakt
+Zufälliges Relikt
+Zufälliger Held
 Zufallsmonster
 Zufallsmonster 1
 Zufallsmonster 2
 Zufallsmonster 3
 Zufallsmonster 4
-ZufÃ¤llige Ressource
-ZufÃ¤llige Stadt
-FlÃ¼chtlingslager
+Zufällige Ressource
+Zufällige Stadt
+Flüchtlingslager
 Ressource
 Heiligtum
 Gelehrter
 Meereskiste
-HÃ¼tte des Sehers
+Hütte des Sehers
 Krypta
 Schiffswrack
-Schiffswrack-Ãœberlebender
+Schiffswrack-Überlebender
 Schiffswerft
-Schrein der magischen BeschwÃ¶rung
+Schrein der magischen Beschwörung
 Schrein der magischen Gesten
 Schrein der magischen Gedanken
 Schild
 Sirenen
 Zauberspruchrolle
-StÃ¤lle
+Ställe
 Taverne
 Tempel
-HÃ¶hle der Diebe
+Höhle der Diebe
 Stadt
 Handelsposten
 Stein des Lernens
 Schatzkiste
 Baum des Wissens
 Untergrundtor
-UniversitÃ¤t
+Universität
 Wagen
-KriegsgerÃ¤te-Fabrik
+Kriegsgeräte-Fabrik
 Schule des Krieges
 Grab des Kriegers
 Wasserrad
 Wasserloch
 Strudel
-WindmÃ¼hle
-HexenhÃ¼tte
+Windmühle
+Hexenhütte
 Unterholz
 Busch
 Kaktus
@@ -121,7 +121,7 @@ Tote Vegetation
 Blumen
 Gefrorener See
 Hecke
-HÃ¼gel
+Hügel
 Loch
 Seetang
 See
@@ -133,9 +133,9 @@ Alraune
 Moos	
 Damm	
 Berg	
-EichenbÃ¤ume	
+Eichenbäume	
 Aufwerfung	
-PinienbÃ¤ume	
+Pinienbäume	
 Pflanze	
 	
 	
@@ -146,19 +146,19 @@ Flussdelta
 	
 	
 Fels	
-SanddÃ¼ne	
+Sanddüne	
 Sandgrube	
 Strauch	
-SchÃ¤del	
+Schädel	
 Stalagmit	
 Stumpf	
 Teergrube	
-BÃ¤ume	
+Bäume	
 Rebe	
 Vulkanschlot	
 Vulkan	
-WeidenbÃ¤ume	
-YuccabÃ¤ume
+Weidenbäume	
+Yuccabäume
 Riff
 Zufallsmonster 5
 Zufallsmonster 6
@@ -172,7 +172,7 @@ Tote Vegetation
 Blumen
 Gefrorener See
 Hecke
-HÃ¼gel
+Hügel
 Loch
 Seetang
 See
@@ -184,36 +184,36 @@ Alraune
 Moos
 Damm
 Berg
-EichenbÃ¤ume
+Eichenbäume
 Aufwerfung
-PinienbÃ¤ume
+Pinienbäume
 Pflanze
 Flussdelta
 Fels
-SanddÃ¼ne
+Sanddüne
 Sandgrube
 Strauch
-SchÃ¤del
+Schädel
 Stalagmit
 Stumpf
 Teergrube
-BÃ¤ume
+Bäume
 Rebe
 Vulkanschlot
 Vulkan
-WeidenbÃ¤ume
-YuccabÃ¤ume
+Weidenbäume
+Yuccabäume
 Riff
-SandhÃ¼gel
-ErdhÃ¼gel
-GrashÃ¼gel
-Ã–dland-HÃ¼gel
+Sandhügel
+Erdhügel
+Grashügel
+Ödland-Hügel
 Unterirdische Felsen
 Sumpfpflanze
 Grenztor
-SÃ¶ldnergilde
+Söldnergilde
 Helden-Platzhalter
-Aufgaben-WÃ¤chter
+Aufgaben-Wächter
 Zufallsbehausung
 
 
@@ -223,7 +223,7 @@ Handelsposten
 Kleefeld
 Verfluchter Boden
 Teufelsnebel
-GÃ¼nstige Winde
+Günstige Winde
 Flammenfelder
 Heiliger Boden
 Klare Wasser

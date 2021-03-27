@@ -1,8 +1,8 @@
 rot
 blau
 braun
-grÃ¼n
+grün
 orange
 violett
-tÃ¼rkis
+türkis
 rosa

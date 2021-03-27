@@ -7,7 +7,7 @@ Boot herbeirufen
 Boot versenken
 Visionen
 Erdsicht
-TÃ¤uschung
+Täuschung
 Luftsicht
 Fliegen
 Wasserwandeln
@@ -50,24 +50,24 @@ Opfer
 Segen
 Fluch
 Blutdurst
-PrÃ¤zision
-SchwÃ¤che
+Präzision
+Schwäche
 Steinhaut
-ZertrÃ¼mmern
+Zertrümmern
 Gebet
 Freude
 Sorge
 Fortuna
-UnglÃ¼ck
+Unglück
 Eile
 Verlangsamung
-DrachentÃ¶ter
+Drachentöter
 Wahnsinn
 Furcht ( disabled )
 Gegenschlag
 Berserker
 Hypnose
-VergeÃŸlichkeit
+Vergeßlichkeit
 Blenden
 Teleport
 Hindernis beseitigen

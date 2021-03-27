@@ -1,3 +1,3 @@
 (Schamanen-Marionette)
 
-Verringert das GlÃ¼ck des Gegners um 2.
+Verringert das Glück des Gegners um 2.

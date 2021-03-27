@@ -1,36 +1,36 @@
 Erde tote Vegetation
-Erde HÃ¼gel
+Erde Hügel
 Erde Pflanzen
 Sand tote Vegetation
-Sand HÃ¼gel
+Sand Hügel
 Sand Pflanzen
 Gras tote Vegetation
-Gras HÃ¼gel
+Gras Hügel
 Gras Pflanzen
 Schnee tote Vegetation
-Schnee HÃ¼gel
+Schnee Hügel
 Schnee Pflanzen
 Sumpf tote Vegetation
-Sumpf HÃ¼gel
+Sumpf Hügel
 Sumpf Pflanzen
-Ã–dland tote Vegetation
-Ã–dland HÃ¼gel
-Ã–dland Pflanzen
+Ödland tote Vegetation
+Ödland Hügel
+Ödland Pflanzen
 Unterirdisch tote Vegetation
-Unterirdisch HÃ¼gel
+Unterirdisch Hügel
 Unterirdisch Pflanzen
 Lava tote Vegetation
-Lava HÃ¼gel
+Lava Hügel
 Lava Pflanzen
 Wasser tote Vegetation
-Wasser HÃ¼gel
+Wasser Hügel
 Wasser Pflanzen
 Fels tote Vegetation
-Fels HÃ¼gel
+Fels Hügel
 Fels Pflanzen
 Hochland tote Vegetation
-Hochland HÃ¼gel
+Hochland Hügel
 Hochland Pflanzen
-EinÃ¶de tote Vegetation
-EinÃ¶de HÃ¼gel
-EinÃ¶de Pflanzen
+Einöde tote Vegetation
+Einöde Hügel
+Einöde Pflanzen

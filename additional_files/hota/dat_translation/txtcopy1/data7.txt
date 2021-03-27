@@ -1,13 +1,13 @@
 Basiliskengrube
-BehemothhÃ¶hle
-SÃ¤ule der Augen
+Behemothhöhle
+Säule der Augen
 Halle der Finsternis
-DrachengewÃ¶lbe
-Ãœbungsplatz
-ZentaurenstÃ¤lle
+Drachengewölbe
+Übungsplatz
+Zentaurenställe
 Luftwesen-Konflux
 Portal des Ruhms
-ZyklopenhÃ¶hle
+Zyklopenhöhle
 Verlassener Palast
 Schlangenfliegenstock
 Zwergenhaus
@@ -15,31 +15,31 @@ Erdwesen-Konflux
 Flammensee
 Hofstatt
 Feuerwesen-Konflux
-BrÃ¼stung
-Altar der WÃ¼nsche
+Brüstung
+Altar der Wünsche
 Wolfspferch
-GnollhÃ¼tte
+Gnollhütte
 Goblinkaserne
-Halle der SÃ¼nden
-GorgonenhÃ¶hle
+Halle der Sünden
+Gorgonenhöhle
 Drachenfelsen
 Greifenturm
 Harpyiennest
 Zwinger
 Hydrateich
 Imp-Tiegel
-EchsenhÃ¶hle
+Echsenhöhle
 Magierturm
 Manticorbau
 Kapelle der Verstummten
 Labyrinth
 Kloster
 Gold-Pavillon
-DÃ¤monentor
+Dämonentor
 Ogerfort
 Orkturm
-HÃ¶llenloch
-DrachenhÃ¶hle
+Höllenloch
+Drachenhöhle
 Felsennest
 Werkstatt
 Wolkentempel
@@ -55,7 +55,7 @@ Vampirschloss
 Verfluchter Tempel
 Friedhof
 Wachhaus
-GeschÃ¼tzturm
+Geschützturm
 Kaserne
 Magische Laterne
 Altar der Gedanken
@@ -64,17 +64,17 @@ Gefrorene Klippen
 Kristallkaverne
 Magischer Forst
 Schwefelbau
-VerzaubererhÃ¶hle
+Verzaubererhöhle
 Wipfelturm
 Einhornlichtung
 Altar der Luft
 Altar der Erde
 Altar des Feuers
 Altar des Wassers
-StrohhÃ¼tte
+Strohhütte
 Schuppen
 Keilerschlucht
-Grab der FlÃ¼che
+Grab der Flüche
 Nomadenzelt
-RÃ¤uberhÃ¶hle
-TrollbrÃ¼cke
+Räuberhöhle
+Trollbrücke

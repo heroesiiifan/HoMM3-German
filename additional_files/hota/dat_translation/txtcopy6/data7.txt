@@ -1,18 +1,18 @@
 Bonus
 (short)
-BogenschieÃŸen
-BogenschÃ¼tzen
+Bogenschießen
+Bogenschützen
 Greife
 Navigation
 Grundbesitz
-SchwertkÃ¤mpfer
+Schwertkämpfer
 Balliste
 Kavalleristen
 Erste Hilfe
 Segen
-SchwÃ¤che
+Schwäche
 Frostring
-MÃ¶nche
+Mönche
 Adlerauge
 Gebet
 +350 Gold
@@ -22,9 +22,9 @@ Zwerge
 Dendroiden
 Resistenz
 Elfen
-EinhÃ¶rner
+Einhörner
 Logistik
-DrachentÃ¶ter
+Drachentöter
 Heilung
 Intelligenz
 Erste Hilfe
@@ -48,9 +48,9 @@ Magier
 Blitzstrahl-Salve
 Eile
 +350 Gold
-HÃ¶llenhunde
+Höllenhunde
 Efreet
-DÃ¤monen
+Dämonen
 Imps
 +350 Gold
 Gogs
@@ -59,7 +59,7 @@ Grottenteufel
 Intelligenz
 Inferno
 Mystik
-SchwÃ¤che
+Schwäche
 +1 Schwefel
 Blutdurst
 Zauberei
@@ -108,7 +108,7 @@ Zauberei
 Oger
 Logistik
 Eile
-PrÃ¤zision
+Präzision
 Offensive
 Adlerauge
 +1 Edelsteine
@@ -120,7 +120,7 @@ Gorgonen
 Schlangenfliegen
 Balliste
 Wyvern
-SchwÃ¤che
+Schwäche
 Mystik
 Navigation
 Erste Hilfe
@@ -141,18 +141,18 @@ Eile
 Magischer Pfeil
 Steinhaut
 Blutdurst
-ZertrÃ¼mmern
+Zertrümmern
 +350 Gold
 +350 Gold
 Geschwindigkeit
 Feuermagie
-SchwertkÃ¤mpfer
+Schwertkämpfer
 Verzauberer
-MeisterschÃ¼tzen
+Meisterschützen
 Behemoths
 Schwarze Ritter
 Drachen
-SchwertkÃ¤mpfer
+Schwertkämpfer
 Drachen
 Oger
 Teufel

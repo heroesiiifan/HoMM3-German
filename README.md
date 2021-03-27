@@ -72,6 +72,10 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * .DAT übersetzen (hota/txt) - nur Map-Editor übrig...
 
 ## Changelog
+### 1.7
+* kleine Übersetzung-Fixes
+* Encoding-Fixes
+
 ### 1.6
 * Ctrl in Strg umbenannt
 * SOD_SP Übersetzung

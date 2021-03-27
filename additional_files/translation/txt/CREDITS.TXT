@@ -44,13 +44,13 @@ Gus Smedstad
 Riki Corredera
 
 
-{KÃ¼nstlerische Leitung:}
+{Künstlerische Leitung:}
 Bonita Long-Hemsath (AB)
 Joseph McGuffin (SOD)
 Phelan Sykes (ROE)
 
 
-{KÃ¼nstler:}
+{Künstler:}
 George Almond
 Jeff Bigman
 Fernando Castillo
@@ -99,7 +99,7 @@ Michael Wolf
 Rob King
 
 
-{StÃ¤dtethemen:}
+{Städtethemen:}
 Paul Romero
 
 
@@ -193,9 +193,9 @@ Benedikt Grindel
 
 {Lokalisation:}
 Christian Flender
-Matthias GÃ¶tz
+Matthias Götz
 Frank Haut
-Oliver JÃ¶rg
+Oliver Jörg
 Susanne Rauter
 Richard Tintelnot
 
@@ -203,7 +203,7 @@ Richard Tintelnot
 {Integration:}
 L&H Deutschland GmbH
 {Projektmanagement:}
-JÃ¶rg Pioch
+Jörg Pioch
 {Engineering:}
 Patrick Majewski (2BM)
 {Support:}
@@ -213,7 +213,7 @@ Maciej Jezewski
 
 
 {Tonaufnahmen:}
-Tonstudio Krauthausen, KÃ¶ln
+Tonstudio Krauthausen, Köln
 
 
 {Toningenieur:}
@@ -221,7 +221,7 @@ Dieter Krauthausen
 
 
 {Dialogregie:}
-Oliver JÃ¶rg
+Oliver Jörg
 
 
 {Sprecher:}
@@ -229,8 +229,8 @@ Ilia Welter
 Volker Wolf
 Hans-Gerd Kilbinger
 Ilsa Strambowski
-Hans-Detlef HÃ¼pgen
-Fabian KÃ¶rner
+Hans-Detlef Hüpgen
+Fabian Körner
 Victor Weib
 
 
@@ -239,4 +239,4 @@ www.ubisoft.de
 
 
 "
-"Copyright Â© 2000 The 3DO Company.  Alle Rechte vorbehalten. Heroes of Might and Magic, New World Computing, 3DO und die entsprechenden Logos sind eingetragene Warenzeichen der The 3DO Company in den U.S.A. und anderen LÃ¤ndern.  Alle anderen Warenzeichen gehÃ¶ren ihren jeweiligen EigentÃ¼mern."
+"Copyright © 2000 The 3DO Company.  Alle Rechte vorbehalten. Heroes of Might and Magic, New World Computing, 3DO und die entsprechenden Logos sind eingetragene Warenzeichen der The 3DO Company in den U.S.A. und anderen Ländern.  Alle anderen Warenzeichen gehören ihren jeweiligen Eigentümern."

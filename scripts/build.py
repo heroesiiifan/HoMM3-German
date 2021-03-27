@@ -9,6 +9,7 @@ import pathlib
 import subprocess
 import shutil
 
+subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "pip"])
 subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "scripts/requirements.txt"])
 
 os.chdir(pathlib.Path(__file__).parent.parent.absolute())

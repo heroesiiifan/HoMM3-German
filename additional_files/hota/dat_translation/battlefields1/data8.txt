@@ -1,36 +1,36 @@
 Erde tote Vegetation unterirdisch
-Erde HÃ¼gel unterirdisch
+Erde Hügel unterirdisch
 Erde Pflanzen unterirdisch
 Sand tote Vegetation unterirdisch
-Sand HÃ¼gel unterirdisch
+Sand Hügel unterirdisch
 Sand Pflanzen unterirdisch
 Gras tote Vegetation unterirdisch
-Gras HÃ¼gel unterirdisch
+Gras Hügel unterirdisch
 Gras Pflanzen unterirdisch
 Schnee tote Vegetation unterirdisch
-Schnee HÃ¼gel unterirdisch
+Schnee Hügel unterirdisch
 Schnee Pflanzen unterirdisch
 Sumpf tote Vegetation unterirdisch
-Sumpf HÃ¼gel unterirdisch
+Sumpf Hügel unterirdisch
 Sumpf Pflanzen unterirdisch
-Ã–dland tote Vegetation unterirdisch
-Ã–dland HÃ¼gel unterirdisch
-Ã–dland Pflanzen unterirdisch
+Ödland tote Vegetation unterirdisch
+Ödland Hügel unterirdisch
+Ödland Pflanzen unterirdisch
 Unterirdisch tote Vegetation unterirdisch
-Unterirdisch HÃ¼gel unterirdisch
+Unterirdisch Hügel unterirdisch
 Unterirdisch Pflanzen unterirdisch
 Lava tote Vegetation unterirdisch
-Lava HÃ¼gel unterirdisch
+Lava Hügel unterirdisch
 Lava Pflanzen unterirdisch
 Wasser tote Vegetation unterirdisch
-Wasser HÃ¼gel unterirdisch
+Wasser Hügel unterirdisch
 Wasser Pflanzen unterirdisch
 Fels tote Vegetation unterirdisch
-Fels HÃ¼gel unterirdisch
+Fels Hügel unterirdisch
 Fels Pflanzen unterirdisch
 Hochland tote Vegetation unterirdisch
-Hochland HÃ¼gel unterirdisch
+Hochland Hügel unterirdisch
 Hochland Pflanzen unterirdisch
-EinÃ¶de tote Vegetation unterirdisch
-EinÃ¶de HÃ¼gel unterirdisch
-EinÃ¶de Pflanzen unterirdisch
+Einöde tote Vegetation unterirdisch
+Einöde Hügel unterirdisch
+Einöde Pflanzen unterirdisch
