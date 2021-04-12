@@ -23,7 +23,7 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * 7-ZIP zum entpacken
 
 ## Bauen
-* Benötigt Complete 4.0 / Heroes III RoE in Deutsch / HotA 1.6.1 / Chronicles in Deutsch -> Dateien müssen kopiert werden, siehe "homm3_files/benoetigt.txt"
+* Benötigt Complete 4.0 / Heroes III RoE in Deutsch / HotA 1.6.1 / Heroes III SoD in Deutsch / Chronicles in Deutsch -> Dateien müssen kopiert werden, siehe "homm3_files/benoetigt.txt"
 * Chronicles Mod für VCMI - https://wiki.vcmi.eu/Mod_list (umgewandelt in ZIP)
 * Die build.py mit Python 3 starten (requirements.txt müssen via pip installiert werden).
 * Buildvorgang läuft aktuell nur unter Windows (case not sensitive & EXEn).
@@ -37,9 +37,9 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases)
 
 ## Was Fehlt?
-* Audio/Video von AB, SoD und HotA in Deutsch
-* Originale SoD-Kampagnen/-Szenarien in Deutsch (SoD in Deutsch: selten)
-* Bessere(?) Übersetzungen für DeepL-konvertierte
+* Audio/Video von AB und HotA in Deutsch
+* Originale AB-Kampagnen/-Szenarien in Deutsch (wurde offiziell nie übersetzt)
+* Bessere(?) Übersetzungen für DeepL-konvertierte Maps (AB)
 * Todo: siehe Backlog
 
 ## Vorgehensweise: HoMM3 HD frisch installieren
@@ -48,7 +48,7 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * Data-CD in den Ordner "CD data"
 * #de.ini kopieren in lang
 * Dateien aus Zip in "Packs/German"
-* Ggf. [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases) installieren (in ini von eng auf deu ändern)
+* Ggf. [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases) installieren (in INI-Datei von "eng" auf "deu" ändern)
 * Heroes Chronicles-Kampagnen in den Maps-Ordner kopieren
 * Sprache im Menü auf Deutsch umstellen & Mod hinzufügen
 * genießen
@@ -61,12 +61,9 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 ## Backlog / Todo
 Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8!!!
 ### Allgemein
-* Deutsches Keyboard-Layout
-* Rohstoffe im rechten Quadrat (mit Texten) kleingeschrieben -> Lässt sich scheinbar nicht über Textdateien ändern... (tolower()?)
-### VCMI
-* -
-### HD
-* -
+* Deutsches Keyboard-Layout (hartcodiert; nur über Patch/Plugin anpassbar)
+* Rohstoffe im rechten Quadrat (mit Texten) kleingeschrieben -> Lässt sich nicht über Textdateien ändern... tolower()!)
+
 ### HotA
 * SpTraits.txt ggf. noch von DeepL optimieren
 * .DAT übersetzen (hota/txt) - nur Map-Editor übrig...
@@ -75,6 +72,7 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 ### 1.7
 * kleine Übersetzung-Fixes
 * Encoding-Fixes
+* original Maps, Kampagnen, ein paar Sprites und Audio aus offiziellem, deutschem SoD
 
 ### 1.6
 * Ctrl in Strg umbenannt

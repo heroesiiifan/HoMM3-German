@@ -7,4 +7,5 @@
 * HD+ Teilw. Übersetzung - http://heroes3.udomehlem.de/
 * Xarfax
 * blub
+* nokia9210
 * Etliche anonyme Fans

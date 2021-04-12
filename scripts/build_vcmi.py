@@ -16,9 +16,11 @@ for filename in os.listdir("additional_files/vcmi/config"):
 
 if os.environ["DEEPL_TRANSLATION"]:
     for filename in os.listdir("additional_files/translation/deepl/maps/out"):
-        if not filename.startswith("[") and filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("content/maps", filename))
+        if not filename.startswith("[") and filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps") and filename not in os.listdir("homm3_files/SoD_de/Installation/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("content/maps", filename))
 for filename in os.listdir("homm3_files/RoE_de/Maindisk/Maps"):
     zipObj.write(os.path.join("homm3_files/RoE_de/Maindisk/Maps", filename), arcname=os.path.join("content/maps", filename))
+for filename in os.listdir("homm3_files/SoD_de/Installation/Maps"):
+    if filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(os.path.join("homm3_files/SoD_de/Installation/Maps", filename), arcname=os.path.join("content/maps", filename))
 for filename in os.listdir("additional_files/translation/campaign/extra"):
     zipObj.write(os.path.join("additional_files/translation/campaign/extra", filename), arcname=os.path.join("content/maps", filename))
 for filename in os.listdir("additional_files/translation/campaign/chronicles"):
@@ -41,8 +43,10 @@ for filename in os.listdir("additional_files/translation/txt"):
     zipObj.write(os.path.join("additional_files/translation/txt", filename), arcname=os.path.join("content/data", filename))
 
 for filename in os.listdir("additional_files/translation/campaign"):
-    if filename != "extra":
+    if filename != "extra" and filename not in os.listdir("_tmp/camp"):
         zipObj.write(os.path.join("additional_files/translation/campaign", filename), arcname=os.path.join("content/data", filename))
+for filename in os.listdir("_tmp/camp"):
+    zipObj.write(os.path.join("_tmp/camp", filename), arcname=os.path.join("content/data", filename)) 
 
 if os.environ["APPEND_SOUND"] == "1":
     for filename in os.listdir("_tmp/snd"):

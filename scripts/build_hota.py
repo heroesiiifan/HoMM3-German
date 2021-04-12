@@ -104,9 +104,13 @@ zipObj.write(os.path.join("_tmp/HotA_patched/" + "HotA_l_ext.lod"), arcname=os.p
 zipObj.write(os.path.join("_tmp/HotA_patched/" + "HotA.dat"), arcname=os.path.join("", "HotA.dat"))
 if os.environ["DEEPL_TRANSLATION"] == "1":
     for filename in os.listdir("additional_files/translation/deepl/maps/out"):
-        if filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("Maps", filename))
+        if filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps") and filename not in os.listdir("homm3_files/SoD_de/Installation/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("Maps", filename))
 for dirpath,dirs,files in os.walk("homm3_files/RoE_de/Maindisk/Maps"):
   for f in files:
     fn = os.path.join(dirpath, f)
     zipObj.write(fn, arcname=os.path.join("Maps", f))
+for dirpath,dirs,files in os.walk("homm3_files/SoD_de/Installation/Maps"):
+  for f in files:
+    fn = os.path.join(dirpath, f)
+    if f not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(fn, arcname=os.path.join("Maps", f))
 zipObj.close()

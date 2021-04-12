@@ -38,9 +38,11 @@ zipObj.write(os.path.join("additional_files/hd/def/", "icm012qe.def"), arcname=o
 
 if os.environ["DEEPL_TRANSLATION"] == "1":
     for filename in os.listdir("additional_files/translation/deepl/maps/out"):
-        if not filename.startswith("[") and filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("Packs/German", filename))
+        if not filename.startswith("[") and filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps") and filename not in os.listdir("homm3_files/SoD_de/Installation/Maps"): zipObj.write(os.path.join("additional_files/translation/deepl/maps/out", filename), arcname=os.path.join("Packs/German", filename))
 for filename in os.listdir("homm3_files/RoE_de/Maindisk/Maps"):
     zipObj.write(os.path.join("homm3_files/RoE_de/Maindisk/Maps", filename), arcname=os.path.join("Packs/German", filename))
+for filename in os.listdir("homm3_files/SoD_de/Installation/Maps"):
+    if filename not in os.listdir("homm3_files/RoE_de/Maindisk/Maps"): zipObj.write(os.path.join("homm3_files/SoD_de/Installation/Maps", filename), arcname=os.path.join("Packs/German", filename))
 for filename in os.listdir("additional_files/translation/campaign/extra"):
     zipObj.write(os.path.join("additional_files/translation/campaign/extra", filename), arcname=os.path.join("_Custom_Campaign", filename))
 for filename in os.listdir("additional_files/translation/campaign/chronicles"):
@@ -67,8 +69,10 @@ for filename in os.listdir("additional_files/translation/txt"):
     zipObj.write(os.path.join("_tmp", "file.tmp"), arcname=os.path.join("Packs/German", filename))
 
 for filename in os.listdir("additional_files/translation/campaign"):
-    if "extra" not in filename and "chronicles" not in filename:
+    if "extra" not in filename and "chronicles" not in filename and filename not in os.listdir("_tmp/camp"):
         zipObj.write(os.path.join("additional_files/translation/campaign", filename), arcname=os.path.join("Packs/German", filename))
+for filename in os.listdir("_tmp/camp"):
+    zipObj.write(os.path.join("_tmp/camp", filename), arcname=os.path.join("Packs/German", filename))
 
 if os.environ["APPEND_SOUND"] == "1":
     for filename in os.listdir("_tmp/snd"):
