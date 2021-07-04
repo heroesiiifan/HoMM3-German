@@ -43,7 +43,7 @@ for filename in os.listdir("additional_files/translation/txt"):
     zipObj.write(os.path.join("additional_files/translation/txt", filename), arcname=os.path.join("content/data", filename))
 
 for filename in os.listdir("additional_files/translation/campaign"):
-    if filename != "extra" and filename not in os.listdir("_tmp/camp"):
+    if filename != "extra" and filename != "chronicles" and filename not in os.listdir("_tmp/camp"):
         zipObj.write(os.path.join("additional_files/translation/campaign", filename), arcname=os.path.join("content/data", filename))
 for filename in os.listdir("_tmp/camp"):
     zipObj.write(os.path.join("_tmp/camp", filename), arcname=os.path.join("content/data", filename)) 

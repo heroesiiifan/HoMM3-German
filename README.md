@@ -61,14 +61,16 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 ## Backlog / Todo
 Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8!!!
 ### Allgemein
-* Deutsches Keyboard-Layout (hartcodiert; nur über Patch/Plugin anpassbar)
-* Rohstoffe im rechten Quadrat (mit Texten) kleingeschrieben -> Lässt sich nicht über Textdateien ändern... tolower()!)
+* Deutsches Keyboard-Layout (hartcodiert; nur über Patch/Plugin anpassbar) -> ggf. Plugin in Zukunft...
 
 ### HotA
 * SpTraits.txt ggf. noch von DeepL optimieren
 * .DAT übersetzen (hota/txt) - nur Map-Editor übrig...
 
 ## Changelog
+### 1.8
+* HD: NoToLower-Mod zum unterbinden der Kleinschreibung bei Ressourcen [H3-Plugins](https://github.com/RoseKavalier/H3Plugins) ([License](https://github.com/RoseKavalier/H3Plugins/blob/master/LICENSE))
+
 ### 1.7
 * kleine Übersetzung-Fixes
 * Encoding-Fixes
