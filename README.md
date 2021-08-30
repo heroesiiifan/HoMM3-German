@@ -53,6 +53,9 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * Sprache im Menü auf Deutsch umstellen & Mod hinzufügen
 * genießen
 
+Anleitungsvideo mit GOG-Version, HD, HotA und Deutsch-Patch:
+[Video](doc/install_h3_hd_hota_ger.webm)
+
 ## Zusatzmodule
 * [mmarch.exe](https://github.com/might-and-magic/mmarch)
 * [HotA editor.exe](http://imperium.heroes.net.pl/temat/4762/1)
@@ -68,6 +71,9 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * .DAT übersetzen (hota/txt) - nur Map-Editor übrig...
 
 ## Changelog
+### tdb
+* HD Übersetzung angepasst
+
 ### 1.8
 * HD: NoToLower-Mod zum unterbinden der Kleinschreibung bei Ressourcen [H3-Plugins](https://github.com/RoseKavalier/H3Plugins) ([License](https://github.com/RoseKavalier/H3Plugins/blob/master/LICENSE))
 
