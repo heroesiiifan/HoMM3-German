@@ -1,0 +1,210 @@
+E9 10
+# 0
+Horn of the Abyss
+# 1
+Erlaube Monster/Pest Woche
+# 2
+Besiege alle Monster
+# 3
+Bestimmte Zeit überleben
+# 4
+Tage:
+# 5
+Monolith / Portal Einweg-Eingang
+# 6
+Portal / Monolith Einweg-Eingang
+# 7
+Monolith / Portal Einweg-Ausgang
+# 8
+Portal / Monolith Einweg-Ausgang
+# 9
+Zweiwege Monolith / Portal
+# 10
+"""Die Siegesbedingung ist das Überleben für eine bestimmte Zeit, während die Verlustbedingung der Ablauf der Zeit ist."""
+# 11
+Diese Bedingungen schließen sich gegenseitig aus..
+# 12
+"# Objekt nach Sprite-Name #"
+# 13
+Sprite-Name:
+# 14
+Art:
+# 15
+Unterart:
+# 16
+Sprite:
+# 17
+Objektbereich
+# 18
+Spalten:
+# 19
+Zellenbreite:
+# 20
+Die Karte wird durch HoMM3 HD+ geschützt
+# 21
+Vorlage:
+# 22
+Standard
+# 23
+"Gebäude #%d"
+# 24
+Leuchtturm, Mystischer Teich, Bibliothek, Schwefelwolken, Mantel der Finsternis, Mana-Strudel, Fluchttunnel, Käfig des Kriegsherren, Magische Universität oder Diebesgilde.
+# 25
+Bruderschaft des Schwertes, Quelle des Glücks, Wall der Weisheit, Schloss-Portal, Nekro-Verstärker, Portal der Beschwörung, Söldnergilde, Skulptur der Furcht, Gewölbe der Asche oder Grotte.
+# 26
+Ställe, Schatzkammer, Aussichtsturm, Orden des Feuers, Skelett-Transformer, Akademie der Kriegskunst, Ballistenhof, Blut-Obelisk oder Schießpulverlager.
+# 27
+Walhalla.
+# 28
+Zauberforschung
+# 29
+Arena
+# 30
+Nicht wie %s
+# 31
+Dieses Kartenformat wird nicht unterstützt. Diese Karte wurde möglicherweise für eine neuere HotA-Version entwickelt.
+# 32
+ und 
+# 33
+, und 
+# 34
+"Wachen: %s.
+Belohnung: %s."
+# 35
+Schatz-Artefakt
+# 36
+Minderes Artefakt
+# 37
+Höheres Artefakt
+# 38
+Relikt-Artefakt
+# 39
+Schatz-Artefakte
+# 40
+Mindere Artefakte
+# 41
+Höhere Artefakte
+# 42
+Relikt-Artefakte
+# 43
+Schatz-Artefakte
+# 44
+Mindere Artefakte
+# 45
+Höhere Artefakte
+# 46
+Relikt-Artefakte
+# 47
+Nebel des Krieges in einem Radius von 12 Feldern entfernen
+# 48
+Inhalt der Kreaturenbank
+# 49
+Zufällig (Wahrscheinlichkeit: %s%%)
+# 50
+Zufällig (%d%% Wahrscheinlichkeit)
+# 51
+Artefakte
+# 52
+Aufgerüstete Kreaturen
+# 53
+Ja
+# 54
+Nein
+# 55
+Zufällig
+# 56
+ oder 
+# 57
+, oder 
+# 58
+Gehöre zur Heldenklasse
+# 59
+Monat %d, Woche %d, Tag %d
+# 60
+Rückkehr nicht vor einem Datum
+# 61
+Return not before
+# 62
+"""%s verlangt, nicht vor Tag %d zurückzukehren, aber sein Zeitlimit läuft am Tag %d ab.""
+Damit der Spieler die Aufgabe abschließen kann, muss das Aufgaben-Zeitlimit größer sein, als das Aufgaben-Datum.
+"
+# 63
+"""%s enthält eine leere Aufgabe.""
+Eine leere Aufgabe kann nicht abgeschlossen werden und blockiert die weitere Arbeit der Seherhütte.
+"
+# 64
+Aufgaben der Hütte des Sehers
+# 65
+Einmalige Aufgaben
+# 66
+Mehrfache Aufgaben
+# 67
+Hinzufügen
+# 68
+Entfernen
+# 69
+Hoch
+# 70
+Runter
+# 71
+Alle Entfernen
+# 72
+Keine
+# 73
+Erfahrungsstufe erreichen
+# 74
+Primärfähigkeitsstufe erreichen
+# 75
+Einen speziellen Helden besiegen
+# 76
+Ein spezielles Monster besiegen
+# 77
+Mit Artefakten zurückkehren
+# 78
+Mit Kreaturen zurückkehren
+# 79
+Mit Ressourcen zurückkehren
+# 80
+Als spezieller Held
+# 81
+Zu einem speziellen Spieler gehörig
+# 82
+Gehöre zur Heldenklasse
+# 83
+Rückkehr nicht vor einem Datum
+# 84
+Ein Kampfplatz kann nur auf einer Arenakarte platziert werden.
+# 85
+"""Die Arenakarte hat keinen Kampfplatz.""
+Eine Arenakarte ist eine Karte, die für einen einzelnen Kampf zwischen zwei Helden mit einer entsprechenden Vorbereitung bestimmt ist. Eine solche Karte muss mindestens einen Kampfplatz besitzen
+"
+# 86
+Der Arenamodus wird für die Karte aktiviert. Die Karte wird für einen einzigen Kampf zwischen zwei Helden mit entsprechender Vorbereitung erstellt. Es ist nicht möglich, diese Karte für ein klassisches Spiel zu verwenden. Die Sieg- und Verlustbedingungen werden aufgehoben. Seid ihr sicher, dass ihr fortfahren wollt?
+# 87
+Der Arenamodus wird für die Karte beendet. Alle Kampfplätze werden entfernt. Seid ihr sicher, dass ihr fortfahren wollt?
+# 88
+Begrenzung der Kampfrunden:
+# 89
+Allow &human to trigger event
+# 90
+&Genaue Einstellung:
+# 91
+Beitritt nur für Geld
+# 92
+Prozent der Überlaufende Monster mit gemeinsamer Anzahl:
+# 93
+Aufgerüstete Truppen:
+# 94
+Standard
+# 95
+Nein
+# 96
+Ja
+# 97
+Anzahl Stapel:
+# 98
+Durchschnitt
+# 99
+Einer weniger
+# 100
+Einer mehr

@@ -63,16 +63,17 @@ Anleitungsvideo mit GOG-Version, HD, HotA und Deutsch-Patch:
 
 ## Backlog / Todo
 Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8!!!
-### Allgemein
-* Deutsches Keyboard-Layout (hartcodiert; nur über Patch/Plugin anpassbar) -> ggf. Plugin in Zukunft...
 
 ### HotA
 * SpTraits.txt ggf. noch von DeepL optimieren
-* .DAT übersetzen (hota/txt) - nur Map-Editor übrig...
+* Map Übersetzungen optimieren
 
 ## Changelog
-### tdb
+### 1.9
 * HD Übersetzung angepasst
+* HotA-Editor vervollständigt (Danke an: Darktobas)
+* neue VCMI Texte übersetzt
+* angepasste VCMI-Beschreibung
 
 ### 1.8
 * HD: NoToLower-Mod zum unterbinden der Kleinschreibung bei Ressourcen [H3-Plugins](https://github.com/RoseKavalier/H3Plugins) ([License](https://github.com/RoseKavalier/H3Plugins/blob/master/LICENSE))

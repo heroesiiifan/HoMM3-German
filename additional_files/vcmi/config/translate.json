@@ -21,7 +21,19 @@
 				"Unmöglich"
 			]
 		},
+		"confirmRestartGame" : "Seid Ihr sicher, dass Ihr das Spiel neu starten wollt?",
+		"noTownWithMarket": "Kein Marktplatz verfügbar!",
+		"noTownWithTavern": "Keine Stadt mit Taverne verfügbar!",
+		"spellUnknownProblem": "Unbekanntes Problem mit diesem Zauberspruch, keine weiteren Informationen verfügbar.",
 		"playerAttacked" : "Spieler wurde attackiert: %s"
+	},
+	"server" :
+	{
+		"errors" :
+		{
+			"existingProcess" : "Es läuft ein weiterer vcmiserver-Prozess, bitte beendet diesen zuerst",
+			"modsIncompatibility" : "Erforderliche Mods um das Spiel zu laden:"
+		}
 	},
 	"systemOptions" :
 	{
@@ -43,7 +55,19 @@
 	},
 	"townHall" :
 	{
-		"missingBase" : "Basis Gebäude %s muss als erstes gebaut werden"
+		"missingBase" : "Basis Gebäude %s muss als erstes gebaut werden",
+		"noCreaturesToRecruit" : "Es gibt keine Kreaturen zu rekrutieren!",
+		"greetingManaVortex" : "Wenn Ihr Euch den %s nähert, wird Euer Körper mit neuer Energie gefüllt. Ihr habt Eure normalen Zauberpunkte verdoppelt.",
+		"greetingKnowledge" : "Ihr studiert die Glyphen auf dem %s und erhaltet Einblick in die Funktionsweise verschiedener Magie (+1 Wissen).",
+		"greetingSpellPower" : "Der %s lehrt Euch neue Wege, Eure magischen Kräfte zu bündeln (+1 Kraft).",
+		"greetingExperience" : "Ein Besuch bei den %s bringt Euch viele neue Fähigkeiten bei (+1000 Erfahrung).",
+		"greetingAttack" : "Nach einiger Zeit im %s könnt Ihr effizientere Kampffertigkeiten erlernen (+1 Angriffsfertigkeit).",
+		"greetingDefence" : "Wenn Ihr Zeit im %s verbringt, bringen Euch die erfahrenen Krieger dort zusätzliche Verteidigungsfähigkeiten bei (+1 Verteidigung).",
+		"hasNotProduced" : "Die %s hat noch nichts produziert.",
+		"hasProduced" : "Die %s hat diese Woche %d %s produziert.",
+		"greetingCustomBonus" : "%s gibt Ihnen +%d %s%s",
+		"greetingCustomUntil" : " bis zur nächsten Schlacht.",
+		"greetingInTownMagicWell" : "%s hat Eure Zauberpunkte wieder auf das Maximum erhöht."
 	},
 	"logicalExpressions" :
 	{
@@ -61,7 +85,7 @@
   },
   "commanderWindow": 
   {
-    "artifactMessage": "Möchtest du diesen Artefakt dem Helden zurückgeben?"
+    "artifactMessage": "Möchtet Ihr diesen Artefakt dem Helden zurückgeben?"
   },
 	"creatureWindow" :
 	{
