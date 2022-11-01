@@ -1,5 +1,5 @@
 # Heroes3-German
-Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H3HD / HotA.
+Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H3HD / HotA / Chronicles.
 
 ## Nutzung
 ### [HoMM3 Complete](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition)
@@ -18,6 +18,9 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * Bei HotA die HotA.dat, HotA_ext.lod und HotA_l_ext.lod austauschen
 * Maps in den Maps-Ordner kopieren
 
+### [Chronicles Mod](https://www.moddb.com/mods/heroes-chronicles-fully-compability-hdmod)
+* Dateien in Data-Folder nach kompletter Installation extrahieren (Englisch ist dann Deutsch)
+
 ## Was braucht man?
 * Man muss im Besitz von Heroes 3 Complete sein (Retail oder GOG) -> Bitte besorgt euch die Originale, kostet ja fast nix mehr. 🙂
 * 7-ZIP zum entpacken
@@ -31,10 +34,11 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 
 ## Kompatibilität (getestet)
 * Heroes III Complete 4.0
-* Heroes III HD mod 5.2 RC17
+* Heroes III HD mod 5.4 RC7
 * Heroes III Horn of the Abyss 1.6.1
 * VCMI 0.99 (f31c516)
 * [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases)
+* Heroes Chronicles - Fully Compability HDmod 2.5.8
 
 ## Was Fehlt?
 * Audio/Video von AB und HotA in Deutsch
@@ -68,7 +72,20 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * SpTraits.txt ggf. noch von DeepL optimieren
 * Map Übersetzungen optimieren
 
+### Chronicles Mod
+* Launcher (in .NET geschrieben; mit "dnlib" sollten sich Strings/Ressourcen anpassen lassen)
+* Aufwendig gestaltete Buttons (z.B. "Play", aber auch "New Game") -> gibts teilweise in den deutschen Ressourcen
+* Texte bei der Kampagnenauswahl
+* Kampagnen Einführungen (Bilder) -> nicht in den Ressourcen vorhanden?!
+* "The Glory of War"
+
+### ggf. [Sucession Wars](https://www.moddb.com/mods/h3sw)
+* Komplett zu übersetzen
+
 ## Changelog
+### 1.9.1
+* Unterstützung für die Chronicles Mod
+
 ### 1.9
 * HD Übersetzung angepasst
 * HotA-Editor vervollständigt (Danke an: Darktobas)

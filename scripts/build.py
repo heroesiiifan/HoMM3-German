@@ -52,6 +52,9 @@ exec(open("scripts/build_vcmi.py").read())
 #HD erstellen
 exec(open("scripts/build_hd.py").read())
 
+#Chronicles Mod erstellen
+exec(open("scripts/build_chroniclesmod.py", encoding="utf-8").read())
+
 #HotA erstellen
 exec(open("scripts/pack_hdat.py").read())
 exec(open("scripts/build_hota.py").read())
