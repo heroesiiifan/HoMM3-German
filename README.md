@@ -6,6 +6,9 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * Dateien z.B. mit [MMArchive](https://github.com/GrayFace/Misc/) austauschen (nicht näher beschrieben -> nutzt Google).
 
 ### [VCMI](https://vcmi.eu/)
+* Installation über den in VCMI integrierten Mod-Manager: [German translation](https://github.com/vcmi-mods/german-translation)
+
+Alternativ:
 * VCMI-Paket in Mods-Ordner (z.B. Mods/HoMM3_GER) extrahieren.
 
 ### [HoMM3 HD](https://sites.google.com/site/heroes3hd/)
@@ -36,14 +39,13 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * Heroes III Complete 4.0
 * Heroes III HD mod 5.4 RC7
 * Heroes III Horn of the Abyss 1.6.1
-* VCMI 0.99 (f31c516)
+* VCMI 1.0
 * [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases)
 * Heroes Chronicles - Fully Compability HDmod 2.5.8
 
 ## Was Fehlt?
 * Audio/Video von AB und HotA in Deutsch
 * Originale AB-Kampagnen/-Szenarien in Deutsch (wurde offiziell nie übersetzt)
-* Bessere(?) Übersetzungen für DeepL-konvertierte Maps (AB)
 * Todo: siehe Backlog
 
 ## Vorgehensweise: HoMM3 HD frisch installieren
@@ -68,13 +70,17 @@ Anleitungsvideo mit GOG-Version, HD, HotA und Deutsch-Patch:
 ## Backlog / Todo
 Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8!!!
 
+## Hauptspiel
+* Datum bei der Szenarienauswahl in Englisch (nur Hauptspiel, nicht HotA - da passt es)
+* Bessere (?) Übersetzungen für DeepL-konvertierte Maps (AB)
+
 ### HotA
 * SpTraits.txt ggf. noch von DeepL optimieren
-* Map Übersetzungen optimieren
+* Bessere (?) Übersetzungen für DeepL-konvertierte Maps
 
 ### Chronicles Mod
 * Launcher (in .NET geschrieben; mit "dnlib" sollten sich Strings/Ressourcen anpassen lassen)
-* Aufwendig gestaltete Buttons (z.B. "Play", aber auch "New Game") -> gibts teilweise in den deutschen Ressourcen
+* Aufwendig gestaltete Buttons (z.B. "Play", aber auch "New Game") -> gibts teilweise in den deutschen Ressourcen (müssen aber ggf. neu positioniert werden)
 * Texte bei der Kampagnenauswahl
 * Kampagnen Einführungen (Bilder) -> nicht in den Ressourcen vorhanden?!
 * "The Glory of War"
@@ -83,6 +89,11 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * Komplett zu übersetzen
 
 ## Changelog
+### 1.9.2
+* Szenarientitel angepasst
+* Chronicles Mod: Videos
+* Tutorials der Chronicles
+
 ### 1.9.1
 * Unterstützung für die Chronicles Mod
 

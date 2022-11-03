@@ -6,6 +6,9 @@ import pathlib
 import subprocess
 from shutil import copyfile, copy
 
+#Apply fixes
+copy("additional_files/mapfix/Battle of the Sexes.h3m", "homm3_files/SoD_de/Installation/Maps/Battle of the Sexes.h3m")
+
 #Main
 if not os.path.exists("_tmp/fnt"): os.makedirs("_tmp/fnt")
 output = subprocess.Popen(["tools/mmarch.exe", "list", "homm3_files/RoE_de/Maindisk/Data/H3bitmap.lod", """|"""], stdout=subprocess.PIPE).communicate()[0].decode('cp1252').split("|")
@@ -107,3 +110,51 @@ if not os.path.exists("_tmp/chronicles/08_camp"): os.makedirs("_tmp/chronicles/0
 output = subprocess.Popen(["tools/mmarch.exe", "list", "homm3_files/Chronicles_de/finalchp/install/frost/xlBitmap.lod", """|"""], stdout=subprocess.PIPE).communicate()[0].decode('cp1252').split("|")
 fnt = list(filter(lambda x: x.lower().endswith(".h3c"), output))
 output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/finalchp/install/frost/xlBitmap.lod", "_tmp/chronicles/08_camp"] + fnt, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/01_vid"): os.makedirs("_tmp/chronicles/01_vid")
+output = subprocess.Popen(["tools/mmarch.exe", "list", "homm3_files/Chronicles_de/warlords/data/Hchron.vid", """|"""], stdout=subprocess.PIPE).communicate()[0].decode('cp1252').split("|")
+fnt = list(filter(lambda x: x.lower().startswith("intro"), output))
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/warlords/data/Hchron.vid", "_tmp/chronicles/01_vid"] + fnt, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/02_vid"): os.makedirs("_tmp/chronicles/02_vid")
+output = subprocess.Popen(["tools/mmarch.exe", "list", "homm3_files/Chronicles_de/underworld/data/Hchron.vid", """|"""], stdout=subprocess.PIPE).communicate()[0].decode('cp1252').split("|")
+fnt = list(filter(lambda x: x.lower().startswith("intro"), output))
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/underworld/data/Hchron.vid", "_tmp/chronicles/02_vid"] + fnt, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/03_vid"): os.makedirs("_tmp/chronicles/03_vid")
+output = subprocess.Popen(["tools/mmarch.exe", "list", "homm3_files/Chronicles_de/elements/data/Hchron.vid", """|"""], stdout=subprocess.PIPE).communicate()[0].decode('cp1252').split("|")
+fnt = list(filter(lambda x: x.lower().startswith("intro"), output))
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/elements/data/Hchron.vid", "_tmp/chronicles/03_vid"] + fnt, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/04_vid"): os.makedirs("_tmp/chronicles/04_vid")
+output = subprocess.Popen(["tools/mmarch.exe", "list", "homm3_files/Chronicles_de/dragons/data/Hchron.vid", """|"""], stdout=subprocess.PIPE).communicate()[0].decode('cp1252').split("|")
+fnt = list(filter(lambda x: x.lower().startswith("intro"), output))
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/dragons/data/Hchron.vid", "_tmp/chronicles/04_vid"] + fnt, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/07_vid"): os.makedirs("_tmp/chronicles/07_vid")
+output = subprocess.Popen(["tools/mmarch.exe", "list", "homm3_files/Chronicles_de/finalchp/data/Hchron.vid", """|"""], stdout=subprocess.PIPE).communicate()[0].decode('cp1252').split("|")
+fnt = list(filter(lambda x: x.lower().startswith("intro5"), output))
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/finalchp/data/Hchron.vid", "_tmp/chronicles/07_vid"] + fnt, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/08_vid"): os.makedirs("_tmp/chronicles/08_vid")
+output = subprocess.Popen(["tools/mmarch.exe", "list", "homm3_files/Chronicles_de/finalchp/data/Hchron.vid", """|"""], stdout=subprocess.PIPE).communicate()[0].decode('cp1252').split("|")
+fnt = list(filter(lambda x: x.lower().startswith("intro6"), output))
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/finalchp/data/Hchron.vid", "_tmp/chronicles/08_vid"] + fnt, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/01_spr"): os.makedirs("_tmp/chronicles/01_spr")
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/warlords/data/xlSprite.lod", "_tmp/chronicles/01_spr"], stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/02_spr"): os.makedirs("_tmp/chronicles/02_spr")
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/underworld/data/xlSprite.lod", "_tmp/chronicles/02_spr"], stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/03_spr"): os.makedirs("_tmp/chronicles/03_spr")
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/elements/data/xlSprite.lod", "_tmp/chronicles/03_spr"], stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/04_spr"): os.makedirs("_tmp/chronicles/04_spr")
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/dragons/data/xlSprite.lod", "_tmp/chronicles/04_spr"], stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/07_spr"): os.makedirs("_tmp/chronicles/07_spr")
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/finalchp/install/beastmasters/xlSprite.lod", "_tmp/chronicles/07_spr"], stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
+
+if not os.path.exists("_tmp/chronicles/08_spr"): os.makedirs("_tmp/chronicles/08_spr")
+output = subprocess.Popen(["tools/mmarch.exe", "extract", "homm3_files/Chronicles_de/finalchp/install/frost/xlSprite.lod", "_tmp/chronicles/08_spr"], stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
