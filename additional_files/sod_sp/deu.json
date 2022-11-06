@@ -58,7 +58,9 @@
         "number_spell_charges": "Wirkungen übrig",
         "battlequeue_top_turret": "Oben",
         "battlequeue_mid_turret": "Behalten",
-        "battlequeue_bot_turret": "Unten"
+        "battlequeue_bot_turret": "Unten",
+        "faerie_dragons_singular": "Die %s machen %s fertig (drücke F zum wirken)",
+        "faerie_dragons_plural": "Die %s machen %s fertig (drücke F zum wirken)"
     },
     "quickspell": {
         "target_creature": "Schnellzauber-Ziel {\"%d\"} eingestellt auf {\"%s\"} auf {\"%c%d\"}.",
