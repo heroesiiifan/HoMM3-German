@@ -89,6 +89,9 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * Komplett zu übersetzen
 
 ## Changelog
+### TBD
+* CSSexit.def korrigiert -> Im Kampagnenbildschirm wird nun "Zurück" angezeigt (für VCMI irrelevant)
+
 ### 1.9.2
 * Szenarientitel angepasst
 * Chronicles Mod: Videos
