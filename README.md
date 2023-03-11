@@ -8,7 +8,7 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 ### [VCMI](https://vcmi.eu/)
 * Installation über den in VCMI integrierten Mod-Manager: [German translation](https://github.com/vcmi-mods/german-translation)
 
-Alternativ:
+Alternativ (veraltet):
 * VCMI-Paket in Mods-Ordner (z.B. Mods/HoMM3_GER) extrahieren.
 
 ### [HoMM3 HD](https://sites.google.com/site/heroes3hd/)
@@ -70,7 +70,7 @@ Anleitungsvideo mit GOG-Version, HD, HotA und Deutsch-Patch:
 ## Backlog / Todo
 Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI), NICHT UTF-8!!!
 
-## Hauptspiel
+### Hauptspiel
 * Datum bei der Szenarienauswahl in Englisch (nur Hauptspiel, nicht HotA - da passt es)
 * Bessere (?) Übersetzungen für DeepL-konvertierte Maps (AB)
 
@@ -88,9 +88,15 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 ### ggf. [Sucession Wars](https://www.moddb.com/mods/h3sw)
 * Komplett zu übersetzen
 
+## Lizenz
+* An den offiziellen deutschen Assets aus den Spielen hält UBISOFT die Rechte
+* Bisher existierende Fan-Übersetzungen: Unbekannt
+* Alles, was im Rahmen dieser Mod neu übersetzt wurde (siehe Versionshistorie): [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+
 ## Changelog
-### TBD
+### 1.9.3
 * CSSexit.def korrigiert -> Im Kampagnenbildschirm wird nun "Zurück" angezeigt (für VCMI irrelevant)
+* VCMI als "legacy" markiert -> Nun im Mod-Repository
 
 ### 1.9.2
 * Szenarientitel angepasst
