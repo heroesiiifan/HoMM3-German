@@ -1,0 +1,108 @@
+Name:
+
+
+Description:
+
+
+
+World on Fire — Forged in Fire A
+
+Right-click text:
+The Kreegans invaded Eeofol during the Night of Shooting Stars. The halfling Henrietta must find the artificer Frederick who might know what to do about it.
+
+Prologue:
+Eeofol. The land of giants. Why is it called so? Deep inside, everyone is sure it’s about us. Sure, it may sound ridiculous; but it hurts to know some call you a “halfling,” as if you were only a half of something genuine. We’ve always avoided strangers; standing next to them, it was too hard to convince ourselves it was not true. We disliked any change as it meant to acknowledge we had been doing something wrong before. We believed in good old superstitions, though; and on the night when the sky above us shattered into a thousand fiery pieces, many of us were wishing on stars. Me? I felt something strange and frightening was happening, and only one man could help me understand it. It was the stranger who taught me to love the sky more than the earth.
+
+Epilogue:
+Eeofol was dying. Apple trees were still blossoming, and wheat was corning up, but the stench of sulfuric ash was already coming from the mountains, and waters running down the slopes of no-more-dormant volcanoes were blightful. Very soon there will be no life left here; just its ugly semblance the guests from the skies are creating. How hard it is to persuade a halfling to look upward for the first time in his life and face his own future! There are so few of them here, those who chose the unconceivable. Maybe they alone will live on and keep the memories of our land when it will die.
+
+
+Beyond the Horizon — Forged in Fire B
+
+Right-click text:
+The town of Burton is threatened by ogres of Ravage Roaming. Henrietta, Frederick and Sam must repel their attacks and vanquish the ogrish leader, Zog the Jackal.
+
+Prologue:
+Fear and excitement are the best remedy for grief. I understood it when land appeared on the horizon. Our long, taxing journey across the ocean was coming to an end, and the new continent of Jadame was looming ahead. The escapees didn’t know yet that the land below was fruitless wasteland, and the village of miners we were heading to was a dirty, noisy hole. Burton is not a place for the weak; any settlement in these lands attracts those who do not build, till or shepherd. The right to a new home was going to carry a hefty price; yet, for the first time since the day we had left, the faces of my unexpected passengers brightened up.
+
+Epilogue:
+There came the first joys and sorrows of the new world. The first successes and losses followed, with new foes and… new friends. Life had a bitter taste of blood, but with an exciting hint of victory. Jadame accepted our sacrifices, granting us what we never wanted but accepted in order to survive. Only a few of us have mastered the warrior’s trade thus far, but everyone became a hero. A select handful learned how to lead, yet anyone is ready to rise up upon hearing a call. The new wounds may bleed sometimes, but if you feel it, that means you’re still alive.
+
+
+Dead or Alive — Forged in Fire C
+
+Right-click text:
+A new sudden threat befell Burton: the raids by Dargem-led pirates. The Regnans are not to be trifled with, and help will be needed to solve this problem.
+
+Prologue:
+I was remembering home again. Those peaceful, dreamy times when even rare fisticuffs at village feasts always ended in sharing a chalice of peace… Here, we are yet to find even a morsel of common ground with the ogres or goblins; they have been causing us less trouble lately, though. Recently, the Regnan pirates began showing up in our lands. The rumors that there’s now something to be had in Burton have spread far, it seems. Also, our watchers have spotted walking dead near the town walls. A mere coincidence, or the undead now want something from us, too? 
+
+Epilogue:
+The chase… Sword in my hand… and the barely visible path between the lifeless hills ahead. I’m racing on, barely ever getting a glimpse of the map, and the silent skeleton rides by my side. Suddenly, I wake up, shaking off the nightmare that kept tormenting me for days, in the dreams and beyond. When we pinned down that worm, Dargem, I left Boyd and him to set their scores alone. Should I expect for a second restless dead man to come to my dreams tonight? Well, just two is not that bad. After fleeing from Eeofol, I was seeing thousands of them…
+
+
+Tomb Raiders — Forged in Fire D
+
+Right-click text:
+Frederick must find Henrietta, who has gone on a quest for the warlock Agar. The last message received from her read that her team had discovered an ancient tomb and headed inside to explore it. Landslides caused by giant worms blocked many of the roads through mountain passes. Airships must be the solution...
+
+Prologue:
+Having to make do with less… the worst torment imaginable for one who knows his worth. There were times when the process of satisfying my interests involved discovering new worlds. I could unleash the awesome power hidden in a grain of matter–and now I roll around inside a stinky barrel for weeks, just to test a little hypothesis! Anyway, I must find out whether this self-professed artificer, Fenimore, Farragut, whatever his name, has indeed achieved something yet unseen in this world, or is he just another fairground mountebank like all other “scientists” I have met here thus far?
+
+Epilogue:
+Rejoice, you halfling girl: Kastore himself goes out on a limb to get you out of this labyrinth. Well, of course you aren’t the reason I’m here, but I sure could use the good rap that comes with being your savior. For now, however, there are bigger things to attend to: knowledge lost in aeons, and forgotten wonders! This tomb is replete with them. Just this tiny speck in your hands holds unspoken power. Very soon, I swear, I will make it serve me, and me only, just like your friend with his freshly-found insight into the nature of things already does. My immediate plans are clear… and Deyja can wait for its king for a bit.
+
+
+Deus Ex Machina — Forged in Fire E
+
+Right-click text:
+The artifact recovered from the ancient tomb helped develop a project for a new type of weapon. The artificers Todd and Bertram are the main horses in the race for a working model of battle gear that could turn the tide of battle.
+
+Prologue:
+The golden proportion. The gauge of all the mechanisms. No artificer has managed to calculate it yet; you can only feel it as you take off the excess metal, move after move, until your entire being begins chanting: here it comes, the perfection! Then you inevitably find a defect in other part, and so it goes day after day, year after year… I nearly lost my mind in this endless cycle, but as I was coming to the brink, someone sent me this scheme. I have no idea what sort of imperfection it holds. Maybe I don’t have the right knowledge. However, one thing I do know for sure; no one has ever come closer to bringing such a thing to life than me.
+
+Prologue:
+Ah, if only the scientists knew how much their theories cost… If they ever tried to plan the purchases, the hiring, the rent in advance, saving themselves the trouble of paying hundredfold in rush fees. So many ambitious projects succumbed to wasted resources before my eyes! And many a project did I save, lending the creators a hand in the form of bias-free expertise, and, of course, some coin. No, I dare not call myself the biggest driver of progress; still, there’s only one dwarf in Burton who can pull off such a monumental project.
+
+Epilogue:
+Find yourself short on genius? Take a dozen of capable minds, help them get rid of superstitions, and they will do no worse. Once again, this proved to be working, even in a backwater world like this. They had no idea how inferior their talent and knowledge were to those of the great minds who had once created this wonder. They simply convicted themselves the task was within their power. What insolence! I love such people. Play the strings of their vanity right, and you can lead them anywhere… or have them blaze a trail for yourself, even to the heaven.
+
+Epilogue:
+Find yourself short on genius? Take a dozen of capable minds, help them get rid of superstitions, and they will do no worse. Once again, this proved to be working, even in a backwater world like this. They had no idea how inferior their talent and knowledge were to those of the great minds who had once created this wonder. They simply convicted themselves the task was within their power. What insolence! I love such people. Play the strings of their vanity right, and you can lead them anywhere… or have them blaze a trail for yourself, even to the heaven.
+
+
+Tarred and Feathered — Forged in Fire F
+
+Right-click text:
+Henrietta and Wynona head to uncharted islands south of Jadame. They dream of finding the mysterious couatls, but they are hardly in for a welcome party there.
+
+Prologue:
+So many spots in Jadame where no naturalist has yet set foot, yet my hunger for discovery keeps taking me to places barely reachable on horseback, let alone in a hulking armadillo-driven cart. A foot trek through the Garrote Gorge was behind me. I was dreaming of the usual: new boots, or, better still, a pair of wings of my own, having not the slightest idea of what I was about to run into. The last time I had been in Burton, even boots hadn’t yet been invented there; now, a huge, noisy, smelly city was bustling where greenskin huts used to stand, and there were honest-to-goodness airships flying above it. Moreover, an expedition to the archipelago no wayfarer had yet described was about to leave there. Who inhabits those islands? I wasn’t keen on missing my chance to find out.
+
+Epilogue:
+Who could imagine that these islands held discoveries worthy of the Amberlian Empire’s greatest wayfarers? Dozens of yet unseen birds, beasts and reptiles, a whole people lost in the fog of centuries, and, well, the amazing couatls! They alone would have been enough. No one ever imagined that the process of intraoval development could be controlled, so that a beautiful, grand creature would hatch instead of a tiny snake. Even an elf’s long life wouldn’t do it, if one were to describe all of that–and, when it comes to exploring, I still have most of Jadame. My sworn sister I found here only had a small piece of the faraway Antagarich, and even it is now taken by demons. Now my place is by her side, but one day, I will surely be back. 
+
+
+New Order — Forged in Fire G
+
+Right-click text:
+Kastore came to power in Burton. The halflings have been outlawed, and now their last hope is to return to their homeland, Eeofol. Before heading out on a quest for suitable transport, Henrietta will have to amass the necessary supplies and equipment.
+
+Prologue:
+A vain man counts his riches in gold pieces. A practical one, in hands ready to do his bidding. A truly powerful one, in minds working to bring his plans to life. I now own a whole country of such minds. Maybe it’s not a huge one, but all of it is mine. Each one of my subjects dreams of acquiring even a tiny bit of wonders from the Tomb for research. It may appear to an onlooker as though I readily make these wonders available, but in fact, I only share the things that are going to serve my interests right now. My only reward for hard work is the permission to cover some more of my needs, yet everyone involved comes out satisfied. Isn’t that the pinnacle of man management? 
+
+Epilogue:
+The new home we built here; those whom I considered my comrades, if not friends – everything I gained in Jadame is leaking away. It’s just like ground oil; you can’t catch it with your hands. It takes iron pipes, augers, and an artificer’s gift. Likewise, it takes courage and strong will to make the world submit. I spent years forging them, but my blade shattered upon clashing with the work of a better craftsman. Now I must reforge it and quench it in devils’ blood; for the sake of everyone who was with me on my way here and of those who will be by my side as I leave. This foreign land was not meant to become our own, but now we can claim back the one of our birth. 
+
+
+Homecoming — Forged in Fire H
+
+Right-click text:
+Henrietta returns to her motherland with allies by her side. They are poised to drive the Kreegans away once and for all and retake the halflings' home.
+
+Prologue:
+Dead earth. Lifeless water. Poisoned air. Only the fire reigns now in these lands; the fire the halflings had always feared so. It devoured all the living force of Eeofol and keeps spawning beasts. The scenery I saw from the skies was dire, but I knew it would be like that. Now I know for sure: it is my land, even if I had no love for it the way it once used to be. I will find those who kept fighting for it all these years, and together we will chase the devils through the gates of hell, or die trying.
+
+Epilogue:
+A land that just wants to live in peace has no time for heroes. I switched my sword out for a hoe, and it was the first time my back felt the tax such work takes out of those doing it since their childhood. The refugees who spent a long decade in faraway lands are now returning to Eeofol. They are looking for the remains of their farmsteads and tilling up the ash-strewn fields. They plan on a good harvest, and rightly so; the soil is always generous after big fires. I love you, Eeofol. I’ve given you everything I had in me, and I don’t expect anything in return, but it won’t be long until you become yourself again… Once my people recover and grow irked by my care for them, I will give changing the world another try… somewhere else.
+

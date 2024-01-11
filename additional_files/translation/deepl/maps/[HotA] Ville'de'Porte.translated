@@ -1,0 +1,183 @@
+===== Kartenname =====
+Ville'de'Porte
+
+===== Kartenbeschreibung =====
+Eines der erathianischen Hauptquartiere auf der Insel Filato war früher ein Goldesel für Schmuggler, bis eine ganze Armee von Elementaren dort einfiel. Jetzt herrscht dort Chaos, und niemand weiß, was dort passiert. Zum Glück ist Bidley damals an der Insel vorbeigefahren.
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+ìèíóñ ðåñû
+Nachricht:
+
+
+Name:
+Íà÷àëî 1-1
+Nachricht:
+Die Landung an den Ufern von Filato beunruhigt mich sehr, ich weiß nicht, was auf dieser verdammten Insel passiert. Warum habe ich das Gefühl, dass ich es bedauern werde? Vielleicht ist es die Unübersichtlichkeit von allem, was mich umgibt, die mir Angst macht? Dennoch erfüllt mich die Neugierde, und ich bin versucht, mich in diesen mysteriösen, unwegsamen Dschungel zu begeben. Nun, da ich hier bin, soll ich alles aufklären, was passiert.
+
+Name:
+Íà÷àëî 1-2
+Nachricht:
+Meine Mannschaft hat beschlossen, auf dem Schiff zu bleiben, diese Geier haben Angst vor einfachen Bäumen! Okay, ich werde es ohne sie aushalten, zumal sich mir einige Erathianer angeschlossen haben. Sie haben die gleiche Frage im Kopf wie ich: Was passiert auf der Insel? Wir klären es auf und verschwinden von hier, meine Neugierde wird vielleicht nicht rechtzeitig gestillt.
+
+Name:
+Íà÷àëî 2-1
+Nachricht:
+Es ist ein wenig seltsam, dass die Erathianer nicht einmal versuchen, die Stadt Seviheart zurückzubringen. Kann es sein, dass "das große Erathia" Angst vor einem Haufen Elementare hat? Wie auch immer, wer weiß, vielleicht gibt es viel mehr von ihnen, als ich denke.
+
+Name:
+Òîííåëè 
+Nachricht:
+Vor langer Zeit gab es viele nighonische Dörfer unter dieser Insel, daher gibt es kleine Tunnelnetze unter dem Boden. Vielleicht würden die Erathianer sie nutzen, um Seviheart anzugreifen.
+
+===== Helden =====
+
+===== Objekte =====
+
+(33, 21, 0) ***Schloss***
+Name:
+Crawley
+
+(3, 5, 0) ***Ereignis***
+Nachricht:
+
+
+(19, 34, 0) ***Aufgaben-Wächter***
+Nachricht:
+Du hast doch nicht vergessen, dem Seher die Fesseln des Krieges zu bringen, oder?
+
+(16, 34, 0) ***Ereignis***
+Nachricht:
+
+
+(8, 32, 0) ***Hütte des Sehers***
+Nachricht:
+Ich habe nur {einen} Edelstein, wenn du mir also ein Paar Schmuckstücke bringst, gebe ich sie dir.
+Oh, das Höllenfeuerschwert und die Vampirkutte sind genau das, was ich brauche! Hier ist die Belohnung, die ich versprochen habe. Willst du sie jetzt nehmen?
+
+(25, 12, 0) ***Schild***
+Nachricht:
+Annahme von Schmuckstücken, stattdessen Anbieten von {Edelstein}.
+
+(13, 3, 0) ***Ereignis***
+Nachricht:
+Was könnten die Magier hier vergessen haben? Sie sind bestimmt nicht hier, um eine Tasse Tee zu trinken. Leider hält sie nichts davon ab, sich auf den Kampf vorzubereiten.
+
+(1, 13, 0) ***Schild***
+Nachricht:
+Virtheguest gat
+
+(3, 2, 0) ***Ereignis***
+Nachricht:
+Diese Greife konnten keinen Schaden anrichten, aber später können stärkere Kreaturen kommen, so dass ich {keinen einzigen Bogenschützen verlieren kann}.
+
+(14, 14, 0) ***Schloss***
+Name:
+Seviheart
+
+(3, 17, 0) ***Ereignis***
+Nachricht:
+Versuchen Sie nicht, den Weg von Christian zu blockieren, sonst kommen Sie nicht weiter!
+
+(21, 19, 0) ***Ereignis***
+Nachricht:
+
+
+(21, 17, 0) ***Ereignis***
+Nachricht:
+Viele Bürger hatten sich vor den Elementarmagiern versteckt und waren nun bereit, bei der Befreiung der Stadt zu helfen.
+
+(16, 15, 0) ***Ereignis***
+Nachricht:
+
+
+(1, 7, 0) ***Hütte des Sehers***
+Nachricht:
+Es ist ganz einfach, du besiegst Zwerge im Osten, du bekommst Bogenschützen!
+So geht's!
+
+(8, 4, 0) ***Ereignis***
+Nachricht:
+
+
+(9, 4, 0) ***Aufgaben-Wächter***
+Nachricht:
+Sie können den Anhänger doch nicht verloren haben, oder?
+Du kannst den Anhänger doch nicht verloren haben, oder?
+Ok, du magst bestehen, aber denk dran - nicht einmal ein Bogenschütze.
+
+(3, 19, 0) ***Ereignis***
+Nachricht:
+(ALLE Einheiten löschen, die in früheren Schlachten nicht gestorben sind)
+
+(19, 28, 0) ***Ereignis***
+Nachricht:
+Werden Sie Ihre ehemalige Armee los!
+
+(6, 23, 1) ***Ereignis***
+Nachricht:
+Glauben Sie mir, das wird Ihnen nützen!
+
+(30, 2, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(31, 29, 1) ***Schloss***
+
+Getimete Ereignisse:
+
+Name:
+ìèíóñ ðåñû
+Nachricht:
+
+
+(31, 31, 1) ***Ereignis***
+Nachricht:
+Grün ist tot
+
+(2, 33, 1) ***Pandoras Kiste***
+Nachricht:
+Einfach entspannen und relaxen
+
+(8, 24, 1) ***Ereignis***
+Nachricht:
+   - "Manfred? Was zum Teufel machst du hier?"	   - "Ich bin in die Falle der Elementarmagier getappt. Du weißt, dass unsere Bruderschaft niemanden retten würde, wenn du keine Belohnung versprechen würdest. Ich habe schon angefangen zu glauben, dass ich in diesem gottverdammten Gefängnis sterben werde, wenn ihr mich nicht freilasst, ganz sicher."	   - "Das werde ich tun, aber ich brauche deine Hilfe."	   - "Ich helfe dir, wie du willst, aber lass mich frei. Sie können sich nicht vorstellen, wie sehr ich es satt habe, hier zu sitzen."
+
+(28, 29, 1) ***Ereignis***
+Nachricht:
+Wie erwartet, nutzten die Erathianer die alten Methoden der Nighonianer und errichteten dort ihr Hauptquartier, um sich eine Basis für einen Angriff zu schaffen. Doch ihr Angriff scheiterte, und nun bleibt nur noch, die Reste ihrer Armee (ja, die Reste) zu besiegen.
+
+(23, 32, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(15, 24, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(3, 34, 1) ***Aufgaben-Wächter***
+Nachricht:
+Sobald die Stadt Seviheart sicher ist, kannst du passieren.
+Die Wachen hüten sich immer noch vor Edric und lassen dich nicht passieren.
+Es bleibt nur noch, durch das Portal weit im Tunnel zu gehen.
+
+(34, 13, 1) ***Schwefel***
+Nachricht:
+Wozu ist dieser Schwefel gut?
+
+(23, 4, 1) ***Hellebardenträger***
+Nachricht:
+Nun musste Manfred Bidley bei der Suche im Untergrund helfen. Aber die erathianische Flotte kommt sehr bald, also soll Bidley Seviheart zur Verteidigung vorbereiten. {Wenn Bidley bereit ist, die Stadt zu verteidigen}, kann Manfred sich auf den Weg machen.
+
+(27, 4, 1) ***Ereignis***
+Nachricht:
+
+
+(26, 4, 1) ***Pikenier***
+Nachricht:
+Jetzt kann Bidley eine kleine Truppe anheuern, um Seviheart zu verteidigen.
+
+===== Dateiende =====

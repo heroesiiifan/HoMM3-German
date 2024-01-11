@@ -8,9 +8,6 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 ### [VCMI](https://vcmi.eu/)
 * Installation über den in VCMI integrierten Mod-Manager: [German translation](https://github.com/vcmi-mods/german-translation)
 
-Alternativ (veraltet):
-* VCMI-Paket in Mods-Ordner (z.B. Mods/HoMM3_GER) extrahieren.
-
 ### [HoMM3 HD](https://sites.google.com/site/heroes3hd/)
 * HD-Paket in "Heroes of Might and Magic III/_HD3_Data/Packs" (z.B. Packs/German) extrahieren.
 * Die #de.ini in "Heroes of Might and Magic III/_HD3_Data/Lang" kopieren.
@@ -37,9 +34,8 @@ Alternativ (veraltet):
 
 ## Kompatibilität (getestet)
 * Heroes III Complete 4.0
-* Heroes III HD mod 5.4 RC7
-* Heroes III Horn of the Abyss 1.6.1
-* VCMI 1.0
+* Heroes III HD mod 5.4 RC81
+* Heroes III Horn of the Abyss 1.7.0
 * [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases)
 * Heroes Chronicles - Fully Compability HDmod 2.5.8
 
@@ -77,6 +73,10 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 ### HotA
 * SpTraits.txt ggf. noch von DeepL optimieren
 * Bessere (?) Übersetzungen für DeepL-konvertierte Maps
+* Hauptmenü Icons (+ loadgame & savegame bmp)
+
+* JSON updaten
+* neue Kampagne übersetzen
 
 ### Chronicles Mod
 * Launcher (in .NET geschrieben; mit "dnlib" sollten sich Strings/Ressourcen anpassen lassen)
@@ -94,6 +94,9 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * Alles, was im Rahmen dieser Mod neu übersetzt wurde (siehe Versionshistorie): [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
 ## Changelog
+### 1.10.0
+* Unterstützung von HotA 1.7.0
+
 ### 1.9.3
 * CSSexit.def korrigiert -> Im Kampagnenbildschirm wird nun "Zurück" angezeigt (für VCMI irrelevant)
 * VCMI als "legacy" markiert -> Nun im Mod-Repository

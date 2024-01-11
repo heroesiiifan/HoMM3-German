@@ -1,0 +1,459 @@
+===== Kartenname =====
+Feurige Reichtümer
+
+===== Kartenbeschreibung =====
+Kürzlich hat dir ein alter Mann von den Ländern erzählt, die wegen ihrer außergewöhnlichen Reichtümer berühmt sind. Ohne zu zögern hast du dich auf den Weg zu Gold und Ruhm gemacht. Allerdings wurden Sie und drei andere Fürsten von einem Orden dämonenanbetender Ritter überrannt. Wird es dir gelingen, deine Gegner niederzuschlagen und alles an dich zu reißen?
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Player - Start
+Nachricht:
+Ihre Späher berichten, dass der Orden, der diese Ländereien kontrolliert, insgeheim die Dämonen unterstützt, die in den nächstgelegenen unterirdischen Tunneln hausen. Außerdem können sie dank großer Geldmittel Söldner anheuern, deren Aufgabe es ist, die Umgebung der Ordensländereien zu patrouillieren. Sie werden sehr bald von deiner Ankunft erfahren und dann ihren ersten Angriff starten, also musst du dich so schnell wie möglich auf ihre Ankunft vorbereiten und dann mit dem Orden und seinen Reichtümern fertig werden.
+
+Name:
+Blue AI - Bonus sulfur
+Nachricht:
+
+
+Name:
+Green Player - Start
+Nachricht:
+
+
+Name:
+Orange Player - Start
+Nachricht:
+
+
+Name:
+Purple Player - Start
+Nachricht:
+
+
+Name:
+Teal Player - Start
+Nachricht:
+
+
+Name:
+AI - Bonus gold
+Nachricht:
+
+
+===== Helden =====
+
+===== Objekte =====
+
+(34, 62, 0) ***Schloss***
+Name:
+Ascartha
+
+Getimete Ereignisse:
+
+Name:
+Blue AI - No sulfur
+Nachricht:
+
+
+Name:
+Blue AI - Bonus
+Nachricht:
+
+
+(95, 10, 0) ***Schutzwall***
+Name:
+Arc-Loire
+
+Getimete Ereignisse:
+
+Name:
+Teal AI - Start
+Nachricht:
+
+
+Name:
+Teal AI - Bonus
+Nachricht:
+
+
+(61, 5, 0) ***Schutzwall***
+Name:
+Selymerra
+
+(103, 80, 0) ***Necropolis***
+Name:
+Mephecht
+
+Getimete Ereignisse:
+
+Name:
+Purple AI - Upg. Vampires
+Nachricht:
+
+
+(90, 104, 0) ***Necropolis***
+Name:
+Arachnamenta
+
+Getimete Ereignisse:
+
+Name:
+Purple AI - Start
+Nachricht:
+
+
+Name:
+Purple AI - Bonus
+Nachricht:
+
+
+Name:
+Purple AI - Upg. Vampires
+Nachricht:
+
+
+(63, 48, 0) ***Schloss***
+Name:
+Samarinya
+
+(34, 101, 0) ***Dungeon***
+Name:
+Azerith
+
+(26, 82, 0) ***Festung***
+Name:
+Ashcreef
+
+Getimete Ereignisse:
+
+Name:
+Pink AI - Bonus
+Nachricht:
+
+
+(61, 90, 0) ***Festung***
+Name:
+Amberia
+
+Getimete Ereignisse:
+
+Name:
+Pink AI - Bonus
+Nachricht:
+
+
+(95, 54, 0) ***Schloss***
+Name:
+Carintha
+
+Getimete Ereignisse:
+
+Name:
+Build Shipyard
+Nachricht:
+
+
+(2, 62, 0) ***Bucht***
+Name:
+Berthlyre
+
+(28, 29, 0) ***Schild***
+Nachricht:
+izhbdykh
+
+(73, 73, 0) ***Schild***
+Nachricht:
+Alraunenplantagen. Nicht berühren!
+
+(54, 3, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(46, 94, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(85, 74, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(11, 81, 0) ***Schild***
+Nachricht:
+Khalyr ven intar!
+
+(34, 63, 0) ***Ereignis***
+Nachricht:
+Als der örtliche Erzbischof Ihre Truppen sah, begann er, einen Zauberspruch in einer unbekannten Sprache zu lesen, woraufhin riesige Rauch- und Aschewolken hinter der Stadt auftauchten. Was immer das auch bedeuten mag, ihr müsst euch auf das Schlimmste vorbereiten.
+
+(57, 32, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(60, 34, 0) ***Schild***
+Nachricht:
+Traue niemals diesen verdammten Zwergen! Sie würden alles tun, um jemanden auszurauben! Manchmal drohen sie sogar damit, die Drachen nicht aus ihrer Schatzkammer zu befreien 
+
+(87, 59, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(56, 39, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(67, 75, 0) ***Schloss***
+Name:
+Meliothar
+
+(99, 46, 0) ***Ereignis***
+Nachricht:
+
+
+(23, 4, 0) ***Burg***
+Name:
+Waregar
+
+Getimete Ereignisse:
+
+Name:
+Tan AI - Bonus
+Nachricht:
+
+
+Name:
+Tan AI - No crystals
+Nachricht:
+
+
+(43, 38, 0) ***Burg***
+Name:
+Thabyr
+
+Getimete Ereignisse:
+
+Name:
+Tan AI - Bonus
+Nachricht:
+
+
+(25, 87, 0) ***Ereignis***
+Nachricht:
+
+
+(22, 89, 0) ***Ereignis***
+Nachricht:
+
+
+(72, 49, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(58, 75, 0) ***Ereignis***
+Nachricht:
+
+
+(2, 40, 0) ***Ereignis***
+Nachricht:
+
+
+(90, 18, 0) ***Ereignis***
+Nachricht:
+
+
+(93, 106, 0) ***Ereignis***
+Nachricht:
+
+
+(78, 107, 0) ***Ereignis***
+Nachricht:
+
+
+(5, 32, 0) ***Ereignis***
+Nachricht:
+
+
+(75, 15, 0) ***Ereignis***
+Nachricht:
+
+
+(8, 42, 0) ***Bucht***
+Name:
+Hallcrest
+
+Getimete Ereignisse:
+
+Name:
+Green AI - Start
+Nachricht:
+
+
+Name:
+Green AI - Bonus
+Nachricht:
+
+
+(40, 13, 0) ***Ereignis***
+Nachricht:
+
+
+(49, 37, 0) ***Ereignis***
+Nachricht:
+
+
+(98, 79, 0) ***Ereignis***
+Nachricht:
+
+
+(87, 106, 0) ***Ereignis***
+Nachricht:
+{Nicht verlieren!}
+
+(95, 12, 0) ***Ereignis***
+Nachricht:
+{Nicht verlieren!}
+
+(4, 45, 0) ***Ereignis***
+Nachricht:
+{Nicht verlieren!}
+
+(46, 44, 0) ***Ereignis***
+Nachricht:
+
+
+(22, 94, 1) ***Dungeon***
+Name:
+Requierra
+
+Getimete Ereignisse:
+
+Name:
+Orange AI - Start
+Nachricht:
+
+
+Name:
+Orange AI - Bonus
+Nachricht:
+
+
+(49, 48, 1) ***Konflux***
+Name:
+Rosarium
+
+(76, 69, 1) ***Inferno***
+Name:
+Ignira
+
+Getimete Ereignisse:
+
+Name:
+Red AI - Bonus
+Nachricht:
+
+
+(2, 64, 1) ***Inferno***
+Name:
+Harefyre
+
+Getimete Ereignisse:
+
+Name:
+Red AI - Bonus
+Nachricht:
+
+
+(20, 86, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(107, 93, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(49, 95, 1) ***Inferno***
+Name:
+Halfamare
+
+Getimete Ereignisse:
+
+Name:
+Blue AI - Bonus
+Nachricht:
+
+
+(26, 66, 1) ***Ereignis***
+Nachricht:
+
+
+(19, 50, 1) ***Ereignis***
+Nachricht:
+
+
+(3, 66, 1) ***Ereignis***
+Nachricht:
+
+
+(9, 35, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(1, 1, 1) ***Ereignis***
+Nachricht:
+
+
+(4, 1, 1) ***Ereignis***
+Nachricht:
+
+
+(25, 96, 1) ***Ereignis***
+Nachricht:
+
+
+(25, 99, 1) ***Ereignis***
+Nachricht:
+
+
+(15, 5, 1) ***Ereignis***
+Nachricht:
+
+
+(10, 5, 1) ***Ereignis***
+Nachricht:
+
+
+(22, 97, 1) ***Ereignis***
+Nachricht:
+{Nicht verlieren!}
+
+(1, 9, 1) ***Ereignis***
+Nachricht:
+
+
+(4, 9, 1) ***Ereignis***
+Nachricht:
+
+
+(1, 7, 1) ***Ereignis***
+Nachricht:
+
+
+(4, 7, 1) ***Ereignis***
+Nachricht:
+
+
+(1, 3, 1) ***Ereignis***
+Nachricht:
+
+
+(4, 3, 1) ***Ereignis***
+Nachricht:
+
+
+(14, 0, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+===== Dateiende =====

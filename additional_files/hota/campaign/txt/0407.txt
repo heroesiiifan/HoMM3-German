@@ -1,0 +1,531 @@
+===== Kartenname =====
+New Order
+
+===== Kartenbeschreibung =====
+Kastore came to power in Burton. Halflings were declared traitors, so their last hope is to return to Eeofol. Acquire the resources for the voyage home and reach airship shipyard to win the scenario. Your heroes are limited to the level 36, but they will bring the Admiral’s Hat to the next scenario.
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+AI - minus resources
+Nachricht:
+
+
+Name:
+Return to Jadame - Part I
+Nachricht:
+All the way back to Jadame, I was looking forward to just one thing. As soon as I got ashore, I would share the glad tidings with every halfling. Tavin is alive! And that means others are alive too—someone's family, brothers, friends. We will immediately start preparing a rescue party, and my new experience will help it go much better than my previous one. Years of hard work have paid off: our new airships are faster and more capacious. Now we'll recruit an army of warriors, their hearts burning with justice, and load up the mighty dreadnoughts. We'll return to Eeofol and pounce at the enemy; as they are handcuffed by their war with the heroes of Erathia, we can strike where no one expects us. We'll rescue everyone, bring them here, show them how well we’ve done for ourselves! I couldn’t help sharing every detail of my future plans with Wynona. Even though she supported me fervently, I think I kind of wore her out with my blabbering.
+
+Name:
+Return to Jadame - Part II
+Nachricht:
+At length, the long-awaited day came: our ship dropped anchor at a little wharf. Cages with exotic animals and boxes full of Couatl eggs were unloaded. Neither I nor the other expedition participants could hide our joy. After months of wandering through the wet, muddy jungle, this land felt even more precious to us than before, however scorched by the sun and dull in appearance.
+
+Name:
+Morton and Fort Rotwang
+Nachricht:
+We proceeded cautiously inland, avoiding the big roads and the open countryside. Our ears became our eyes; when you're being hunted, the more eyes the better. I grinned bitterly; I would have loved to grow a few more pairs, should Agar have been available. As I passed by a ravine, I heard a barely perceptible noise; a sniffle or snore. I gestured to Wynona, urging her to slow down. The elf's ears twitched, and a second later she was pointing in the direction the sound had come from. Silently, like a proper scout, I crept toward the ravine at the indicated spot. What I saw was a sad sight: a few haggard, wounded halflings, hiding under some dirty, tattered rags. I couldn't see their faces, but their bare heels, covered with sparse gray hairs, made my heart beat faster. 	“Kosta, you old rascal! Get up! Your ponies gobbled up all Melanie's carrots again!”	Kosta jumped up and stared at me in fear. Tears sprang from the old carter’s eyes and a cry of horror escaped his chest, but as soon as his purblind eyes recognized my face, he began wailing even louder, this time out of with happiness. 	“Henrietta, that you? I've had it. So it turns out they found me, and I'm in heaven now.”	“What are you on about, Kosta? It's me; I'm alive. And you're alive! What happened to you?”	“Morton. That damn goblin! So many buds of mine got popped off by his devilish machinery! We barely made it out of Rotwang.”	“Wait. Morton? He betrayed us, too?”	“Yeah, lass, him too. Small wonder, you know—for the green-skinned scum he is. When the people started coming from the north with bitter tidings, we began preparing for a tussle. We even pulled a bit of a ruse; got Morton ambushed and broke a dozen of his shooty thangs, but the toad-faced freak still got entrenched in the suburbs. Just a handful of us militiamen made it out alive, so here we are. There was no way to get back into town, and we went looking for help.” 	“Don't be scared, old sport. You found it!”	“So Rotwang is either under siege or has already fallen. Even if it is the latter, the town must have suffered some big damage, so it’ll take Morton a while to rebuild its defenses,” I thought as I considered our options.
+
+Name:
+Kastore comes to power
+Nachricht:
+Once safe under our protection, Kosta came to quickly. Sure, he didn’t get any younger, but he was no longer the pitiful, half-dead, horrified and exhausted poor thing we had found hiding in a hole like a rabbit. He told me in detail what had happened over the last few months. I had never liked Kastore; I sensed something in him that made it hard to believe that his desire to help Burton prosper for the benefit of all the people of Terra Nova was sincere, as he never missed a chance to declare from the podium. Turns out, I wasn’t wrong. The man who came from beyond the sea grabbed hold of everything he could get his hands on. He kept demanding that more ore be mined and purchased and that more machinery be built; no one understood why. The halflings' shifts became longer and working conditions worse. Many turned to Frederick then, as they had done before, when he was head of the supervisory board for the Associated Burton Works, but the guards didn’t let them see him. No one had seen the inventor for weeks. After Kastore’s arrival, Frederick had started disappearing for long periods of time, apparently conducting research in laboratories hidden from the prying eyes, and now it was as though he had vanished for good—it seemed that no one knew where he was, except for the warlock. When the first disgruntled workers went on strike and stopped the steam hammers, demanding a renegotiation of the collective bargaining agreement, Kastore let his mercenaries in wide-brimmed hats and long cloaks at them, brutally suppressing the protest.	“Those fellers weren't ours—frig knows where the blasted sorceror pulled them bastards outta," Kosta said.	However, Kastore's reaction only gave the halflings more fuel; they had long learned to fight back when someone tried to take away what they had come to regard as their own. Soon most of the factories were halted, many of the machines broken, and my brethren began setting up militias. They’d catch the mercenaries and beat the hell out of them wherever they could, and painted the walls with graffities calling to throw the uninvited guest from Deyja off the throne he had made for himself, without regard for the opinion of those who never wanted any kings or sovereigns in Burton or the other free cities. Then Kastore outlawed every last halfling; some got shackled to their machines, others thrown into the dungeons. Those whom his bandits could not lay their hands on were hunted down. I, as the leader of the rebelling people, was charged with instigating sabotage and organizing riots.
+
+Name:
+Murdoch
+Nachricht:
+We had gotten a foothold in Larimar, but it was not worth it to stay here for long. This small, poor town was not a good base camp for us, and the locals were outright frightened of us. Of course, it would be silly to get angry at them for that: the draconian laws penned by Kastore and the punishments promised by the usurper were to blame for it. The penalty codex counted for nearly half of the weighty tome, Leges Terrae Novae, published by the Burton printing house just a month ago. To think that not a year had passed since we had faced adversity side by side with these men and labored for our common future! And now our roads have parted and will diverge further and further with each passing day. Ample proof of that was my encounter with a local boy, too young to remember our struggles against the pirates or Zog. The kid sprang out from behind the bushes with a loud shriek, probably meant to be a battle cry. I almost laughed—it sounded so hilarious in his birdish voice. Not at all embarrassed by not having made the desired impression on me, the boy pointed at me with the stick that his imagination had made into a gun:	“Die, you traitorous midget! Bang, bang, bang! I'm Murdoch, the best marksman in the Ravage Roaming! I can hit an enemy’s heart square from a mile away! Fear me!”	I used to laugh and play along with the children as they posed as ogres, goblins, and other monsters in their games, but this was different. The child's antics struck me unpleasantly. I gave in to outrage, snatched the stick from the little bully’s hands, snapped it over my knee, threw it into the bushes, and gave him a good slap up his head. The boy was no chicken; he didn’t burst into tears, but rather spat at me and ran away, looking back and shouting:	“Yeah, you'll regret this too! Murdoch is close by, and he knows you're here! You'll see! He'll shoot you all like the prairie dogs you are, and we'll—and we'll stop being afraid, and everything will be as it was before!”
+
+Name:
+Moonchild
+Nachricht:
+I was sitting alone by the fire, deep in my thought, when Kosta came up to me, holding out a flask of Triple Cactus Swill, a teeth-grindingly potent brew of his own distillation, of which he was incredibly proud. I never was one for ceremonies; I took a couple of swigs, and then we just sat there in silence. I remembered how way back in the day, in the winter evenings, when I was still very small, I’d sit by the fireplace in old Haye’s cabin, and my foster grandfather, usually picky and shouty, would braid the hair over my right ear with his stiff fingers.	“Listen, Kosta... What's a Moonchild? Ever heard anyone called that?”	“It is known, lass... When a young girl brings…”	The old carter suddenly shuddered, as if he remembered something very important, and almost shouted: “No, no, don't know about no child, don't want to know, never seen, never been near, damn me to where the horned ones drag their buds out of!”	The old man dropped the flask, jumped up and walked away, slapping his heels on the sand. I sat staring into the flames. A thin figure emerged from the darkness. Wynona stood on the other side of the bohfire, her head raised to the sky.	“We have a song... You don't know our language, but I'll try to translate it for you.”		Call her Moonchild	Dancing in the shallows of a river.	Lonely Moonchild	Dreaming in the shadow of a willow.	Talking to the trees of the cobweb strange,	Sleeping on the steps of a fountain,	Waving silver wand to the night-birds song,	Waiting for the sun on the mountain.		“That’s beautiful... But why was he so scared? Couldn’t have been because of an elven song. There must be something else... I wish I knew the answer, but I don’t want any more poor old men to die or run away in terror. Gods, I never begged you for the secrets of my past. I like the present just fine; I’m alive, strong, and able to decide for myself what I want and where I go... Why now?”
+
+Name:
+Mission Objectives
+Nachricht:
+Outlawed, my people left their homes and workshops in a hurry. The factories were now staffed by obsequious green-skinned goblins—their numbers were great, and they would do anything to escape their abject poverty. Amazingly, a bunk in a worker's barracks and a bowl of sticky cattail root gruel, the cheapest food imaginable, meant enviable prosperity for them. They had no idea of occupational health and safety, and workplace accidents never shook their eagerness to work. They were clumsy and slow at learning, but the new factory supervisors, appointed by Kastore, could easily swap a worker at the machine every day; sooner or later one was bound to turn out at least somewhat teachable. All that meant Kastore no longer had the slightest need for the halflings. Many were fleeing south, to cities that the usurper's greedy hand had not yet reached. One such last haven of freedom was Fort Rotwang, now besieged by Morton. The militiamen’s sabotage did quite a number on the goblin, and we now had two or three weeks before he would be able to really dig in and get reinforcements. We had to break the siege and reunite with the refugees in the city before then. Upon liberation, Rotwang should become our main base where we’d be preparing for our flight to Eeofol. Of course, a rescue party was now out of the question—once we left Jadame, no one would be waiting for us back here. The stakes were as high as it gets: either we help Erathia vanquish the red-skinned locusts and regain our homeland, or we die trying. Such a fate surely is better than huddling somewhere on the edge of the world as two-time fugitives. One of the halflings in Kosta's team turned out to be an experienced planner from the Associated Works’ central office. With his help, we were able to make the calculations. We would need at least 125 units of sulfur, mercury, and ore for the rearmament and the long flight. I thought about trying to contact Frederick, but no one knew where he was, what had happened to him, or whether he had had a hand in what was happening here in the land we just recently thought of as our own.	Thank you, old friend! You saved us, helping us become brave and resourceful. To you I owe the strength that lives within me, that I feel more and more of every day. It’s time to take my life and my people’s fate into my hands. We will go our own way. I hope you are well, wherever you are. I believe we will meet again one day, and you will tell me about your new wonderful discoveries.
+
+Name:
+Lightning Rod Warning
+Nachricht:
+I jumped up on the bed; there was a sensation I thought long lost among the memories of my old life in Eeofol. The hair on my feet bristled... and not only on my feet. As I stepped out of the tent, I saw my comrades, each sporting a dandelion-like hairdo. The air smelled of a thunderstorm… and something else. That odor—where did I know it from? Oh. Of course.	My memory opened the floodgates, and sensations poured rushing at me. Sight, hearing, smell, even taste—everything was sharp again, just as it had been in my childhood. A long summer day of my carefree youth: Frederick in his workshop, showing me a shiny iron ball and telling me about lightning, charges, and how he is about to harness lightning and make it turn millstones, illuminate the darkness of caves, and even drive away wild beasts. He clicked something; the room filled with this familiar smell, and the hair on my feet stood up, just like right now. I shuddered. I remembered what had come next. Smiling mysteriously, Frederick invited me to touch the shiny ball. I reached out to feel the pretty little round thing, but there was still a good cubit between my hand and the ball when lightning struck with a loud snap and pain shot through my body. I cried and swore for a good while, while Frederick blurted out apologies, muttering words I didn't understand at the time—something about calibration, calculated power and arc-through energy. Could it be that he had eventually mastered the lightning, but the artificers now think that the wild beasts are… us?
+
+Name:
+Lightning Rod Warning... Again
+Nachricht:
+My worst fears were confirmed. We stumbled upon something I could only describe as an ugly manifestation of a dark experimenter's twisted genius. We wandered into a small rocky valley while on a recon raid. The smell of thunderstorm and burnt flesh, and charred skeletons tied to metal lightning rods—those were the gloomy decorations of the dull wasteland we saw. The sand around the iron structures had turned to glass in some places; some large stones were split, and their exposed surfaces displayed tree-like patterns etched into them by some unknown force. There was a kind of somber, magnetic beauty about them... Here and there, burnt markings with some kind of numbers on them were scattered. It was an execution, a long and painful one; it looked like it lasted all the while the wretches were testing their new weapon. I hoped fervently that the mind behind this atrocious contraption was anyone but Frederick’s. Now we knew: a thunderclap could hit any of us, anytime. We had to remember that and try to find some means of protection.
+
+Name:
+Couatls Scouts
+Nachricht:
+That day, the Ñouatl that Wynona and I had been trying to make into a scout returned to camp. I was not yet convinced that these creatures could be useful anywhere but on the battlefield. Still, the elf insisted that the Couatls were incredibly intelligent. She'd found common ground with these creatures much faster than I'd hoped. Probably thanks to Tlamac’s ritual. I'd almost forgotten the thrill of watching my friend help a small serpent, feathers all shades of red, out of its egg. It was as if it had been generations ago, back when the Couatls reigned over the world and the world was just a few islands...	Wynona's bond with her new friends was unusual yet unbreakable. Hugging the tired scout by his big, craggy head, she could see everything that he himself had seen over the past few days. It seemed as though we were not the only targets of the bounty hunters Kastore had sent out. The Couatl saw several gunslingers dragging a shackled man who looked like an alchemist. There was also another prison to the north, guarded by juggernauts, but there was no way of knowing who was languishing there.	We were not alone in our struggle against Kastore; at least that felt somewhat encouraging. 
+
+Name:
+Abandoned Factory
+Nachricht:
+Wynona progressed by leaps and bounds in mastering the benefits of her friendship with the Couatls. Not so long ago, I was chuckling as she tried to explain the job to her first feathered spy; now we had a whole flock of nimble scouts scouring the clouds and keeping enemy airships from taking off. The Couatls are much smarter than the wyverns; those would mindlessly throw themselves at airships’ propellers out of ther habit to go at their prey’s tail, and lost more than a dozen before getting the idea to attack the balloon. Conversely, our winged friends knew the airships’ weak points perfectly well, so now we had decisive air superiority. Moreover, thanks to these amazing creatures, we knew of the traitors’ well-fortified, impregnable fortress and of at least three commanders from Kastore’s growing army who had deployed their troops on the approaches to this bastion. We also knew of the ever-increasing dragon population and of one very intriguing town, abandoned after the undead rose from their graves. There were intact manufactories and foundries in that town, which meant that with the undead laid to rest, we could produce some automatons for our own needs.
+
+Name:
+Enemy Hero Waves - First Warning
+Nachricht:
+Kastore has thrown the full might of his growing army at us. This is not simply an attempt to intimidate the renegades or quell a rebellion. This means a war of attrition, one we are certain to lose. Every day, the furnaces of his forges and factories burn hotter and hotter; the goblins gain experience and work better and better, and he demands more and more from them. Sooner or later, there will be two or even three self-propelled machines or marksmen for each one of us. Every hour of delay today is sure to bring us bitter defeats and losses tomorrow. We cannot fight two wars at once—one in the present, with former friends, and the other in the future, with old enemies. Still, I believe we can gather enough power and take off for Eeofol before Kastore pounces.
+
+Name:
+Final Warning (411)
+Nachricht:
+We cannot wait any longer. We must get the airships ready and leave for Eeofol now, or Kastore will sweep us away like a stormwave washes away a sandcastle on the beach. All we have accomplished here has been such a castle, mistaken for a new home. Our future no longer lies in these barren lands—it lies out there, across the ocean. There is only one place worthy of being called home. We may die in this uphill fight with the demons, but we will fall on our own land.
+
+===== Helden =====
+
+===== Objekte =====
+
+(104, 106, 0) ***Hütte des Sehers***
+Nachricht:
+You are greeted in the hut by a grim, black-cloaked sorcerer.	“Our Guild is studying ways to tame and breed the wyverns of the Ravage Roaming." he says. "Unfortunately, the creatures won't let any of us near their nests yet. Catch a young wyvern and bring it to me, and you will be richly rewarded.”
+No creature, no reward. Why do we want wyverns, you ask? Less talk, more action.
+You're a ballsy man, I see. Few will dare to go into a wyvern's nest. Take these crystals; I'm sure you'll find better use for them than we can think of.
+
+(89, 29, 0) ***Schild***
+Nachricht:
+Mount Copper Mines
+
+(2, 46, 0) ***Aufgaben-Wächter***
+Nachricht:
+While making your way up the slope of a steep mountain, you ran into a huge bronze statue of a warrior. How did this monument end up here in the middle of the wasteland?	Before you could react, the statue suddenly moved.	“Titans?”, came a booming voice from the colossus. “You are not titans... Well, that's even better. I lost my sword in a fight with the Titans. Get it back to me and I'll let you pass.
+The bronze colossus is still here and has no intention of letting you pass.
+The Bronze Colossus accepts the Gladius and allows you to pass.	Do you wish to pass?
+
+(20, 106, 0) ***Hütte des Sehers***
+Nachricht:
+In a small hut on an island, you run into a sorceress.	“You may have heard of me before," she says. “I am Lyadra, and I have met one of your artificers before. I believe his name was Todd... or was it Bertram? Never mind.	I've been studying angels for many years now, but I'm yet to find any proof of my hypothesis as to their nature. Worse still, the angels themselves are in no mood to communicate with me. I heard that many decades ago, someone imprisoned a few angels here in the mountains and placed griffins to guard their cells. If you could free them, perhaps they'd agree to help me with my research. Bring me ten angels and I will teach you the Town Portal spell. I'm sure you'll find good use for such a powerful spell now, and more so in the future.
+Lyadra is still here, yet there is nothing to talk to her about until you have ten angels.
+Finally! Perhaps now I can get the hang of what I never managed to find out from the angels in Bracada and Erathia.
+Bring me a scroll with the Town Portal spell, and I will teach it to you.
+You come empty-handed, I see. Unfortunately, I do not know where one can find such a scroll around these parts, but perhaps the local mages can help you with that.
+ Would you be willing to learn the Town Portal spell in exchange for the scroll?
+
+(5, 77, 0) ***Schild***
+Nachricht:
+Guild Caravans
+
+(70, 84, 0) ***Aufgaben-Wächter***
+Nachricht:
+From behind the gate comes a muffled voice that sounds like a halfling’s.	“Halt! Who's coming? What’s your name?”
+“We don't know you; we won't open!”
+Henrietta, that you? We thought Kastore had taken you too. Come on in, don't keep us waiting.
+
+(67, 97, 0) ***Schild***
+Nachricht:
+Beware of Rust Dragons!
+
+(86, 13, 0) ***Zauberspruchrolle***
+Nachricht:
+It was a trap... Having slayed the dragons, you found neither treasure nor valuable artifacts. Ilsingore survived: when you were preparing to attack the mighty dragon, the great wyrm soared into the air and flew away.	After carefully scouring the lair, you discovered a magic scroll. Perhaps it could help you leave this place?
+
+(73, 65, 0) ***Schild***
+Nachricht:
+Fort Rotwang — north
+
+(29, 85, 0) ***Hütte des Sehers***
+Nachricht:
+Did you hear the news? Morton has laid siege to Rotwang! We must drive him back, and soon! If we can't do it by the end of the month, that may spell big trouble.
+Rotwang is still under siege.
+You say Morton's forces have been defeated? Finally!
+Now that Rotwang is no longer in danger, we can go about gathering resources for our journey home. We'll need 125 ore, 125 mercury and 125 sulfur. However, getting such a load of supplies is a tall order, and there are very few mines around. To add insult to injury, there are no longer any markets to be found anywhere around Rotwang. Some of the dark elf merchants might still be here, but it can’t be easy for them to bring their goods here, so I bet they’ll gouge the prices as hard as they can.
+Still haven't found the resources? Hurry up; our time is getting short.
+Great! Let’s load everything up and head for the airship yard just north of Rotwang.
+
+(89, 14, 0) ***Overlord***
+Name:
+Ilsingore
+
+(6, 52, 0) ***Schild***
+Nachricht:
+
+
+(20, 9, 0) ***Fabrik***
+Name:
+Corakstone
+
+(97, 25, 0) ***Fabrik***
+Name:
+Mount Copper
+
+(7, 47, 0) ***Fabrik***
+Name:
+New Dolere
+
+(24, 84, 0) ***Fabrik***
+Name:
+Larimar
+
+(87, 97, 0) ***Fabrik***
+Name:
+Arcadia
+
+(71, 8, 0) ***Barbar***
+Name:
+Zarghebar
+
+(1, 59, 0) ***Gefängnis***
+Name:
+Balindar
+Biographie:
+Balindar was the first in Bracada to test the Enrothean technology of using the best steel armor to create statues slated for animation, rather than regular rock, ore, or even precious metals. The rigid-minded golem-building academicians did not welcome this innovation, so Balindar's works, although far superior to their prototypes, still bear the experimental status.
+
+(66, 47, 0) ***Fabrik***
+Name:
+Rotwang
+
+(75, 39, 0) ***Hütte des Sehers***
+Nachricht:
+I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with mercury. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 mercury.
+I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with mercury. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 mercury.
+Buy 1 mercury for 10000 gold?
+I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with ore. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 ore.
+I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with ore. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 ore.
+Buy 1 ore for 10000 gold?
+I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with sulfur. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 sulfur.
+I represent the Merchant Guild in these wastelands. It has become progressively harder to bring goods here lately, and recently most of the trading posts have shut down. Despite that, we are willing to provide you with sulfur. Given the recent difficulties in transporting the goods, we ask for a price that would make it worth our while: 10000 gold for 1 sulfur.
+Buy 1 sulfur for 10000 gold?
+
+(64, 38, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(16, 20, 0) ***Söldner***
+Name:
+Jangaard
+
+(69, 58, 0) ***Hütte des Sehers***
+Nachricht:
+We have been preparing for war with the Necromancer Guild for a long time, but our troops are not yet strong enough to challenge them. However, we know of artifacts called Rings of Oblivion that can prevent the animation of the undead. We would be grateful to anyone who could provide us with one.
+We have been preparing for war with the Necromancer Guild for a long time, but our troops are not yet strong enough to challenge them. However, we know of artifacts called Rings of Oblivion that can prevent the animation of the undead. We would be grateful to anyone who could provide us with one.
+Indeed, this is the Ring of Oblivion! I have no money to pay you, but I have some crystals I'm sure you'll find use for.	Exchange the Ring of Oblivion for crystals?
+
+(64, 70, 0) ***Hütte des Sehers***
+Nachricht:
+You meet an alchemist in the hut. He seems quite disturbed.	“What luck to have found you! Listen. I am an alchemist from Bracada. I came here with my colleague Balindar. We had caught wind of a large deposit of erudine found in Jadame, and we got eager to try out this rare and expensive metal as a material for golems. Unfortunately it turned out that Kastore and his minions had gotten to the deposit before us. To our misfortune, they found out we had come from Bracada. Balindar got captured and is now held in prison, while I only escaped by the skin of my teeth.	Could you help us? I can make steel golems for your army, but I can't do it without Balindar.
+Balindar is still in prison. Without him, I can't help you.
+Balindar grants you forty steel golems in gratitude for his rescue. He also informs you that his colleague is willing to start making new golems, but will need resources to do so.
+The alchemist is willing to make steel golems for your army, but warns that they are hard to manufacture. The job will cost you 10 Wood, 4 Crystals, and 4 Gems. On top of that, the alchemist wants 3000 gold for each batch of golems.
+Unfortunately, these resources are not enough to make steel golems.
+The resources provided are enough to make 20 steel golems. Do you wish to put the resources at the alchemist's disposal?
+
+(73, 81, 0) ***Halbling-Grenadier***
+Nachricht:
+Back to Eeofol, you say?
+
+(24, 90, 0) ***Revolverheld***
+Nachricht:
+A handful of gunslingers appeared from behind the corner. They fell into a single file at the end of the street and pointed their guns at us. One came forward; he wore a perfectly ironed charcoal-black outfit and a cuirass buffed to a dazzling shine. An odd sight it was; I had never before known a gunslinger so mindful of his appearance. I mean, how could one hope to stay this dapper while riding through the wastelands for weeks, sleeping on bare ground, and crawling around among pointy rocks and thorny bushes? Apparently, something in their job description and approach to duty had changed while I was away...	The overdressed gunslinger spat on the ground and spoke raspily:	“Pursuant to order six slash six by Supreme Overseer Kastore, you are to voluntarily lay down your arms and proceed to the city prison, from where you will be convoyed to Burton and brought to a fair trial for sabotage and treason.” 	“Treason?! We are just back from a long journey. We've been away from Jadame's lands for months, and this Kastore of yours knows it full well! There must be some mistake—” 	“Shut it! Either you give up peacefully, or we will turn in your heads for the promised reward... Hmm. If the reward is the same, guess we could practice our marksmanship some—what do you think, Gerth?”	The mercenary to the leader’s right contorted his lips into a cynical grin.
+
+(24, 66, 0) ***Hütte des Sehers***
+Nachricht:
+I own many gold mines in this part of the wastelands. Unfortunately, not long ago, gorgons of the Ravage Roaming swarmed the region where my mines are and drove us out—but I managed to seal them inside the mines. I hired an errant barbarian, Wededh, and hoped he would solve my problem with those horned beasts, but that swindler took the advance payment and left laughing, and he pocketed the keys to the mins, too! I would gladly pay someone to solve my problem with the gorgons, but as long as the barbarian has the keys, there's no way to get there.
+The barbarian never returned; however, in case you manage to get your hands on the keys, the nearest mine is a day's journey northeast of here—you should head there.
+You found the keys? That's great news! But I'm even more pleased to hear the mine has been freed of gorgons. Here's your reward!
+Now you should head to the second mine. It's just east of here, behind the garrison, not far from the old dragon graveyard.
+Now you should head to the second mine. It's just east of here, behind the garrison, not far from the old dragon graveyard.
+Here's your reward! You've earned it.
+The third mine is near the town of Arcadia in the southeast. It's right next to the ranch—can't miss it.
+The third mine is near the town of Arcadia in the southeast. It's right next to the ranch—can't miss it.
+Here's your reward! You've earned it.
+The fourth mine is located south of Rotwang, behind the creek. There is a gemstone pond nearby—the place should not be hard to find.
+The fourth mine is located south of Rotwang, behind the creek. There is a gemstone pond nearby—the place should not be hard to find.
+Here's your reward! You've earned it.
+Our fifth mine is north of Rotwang. Hopefully, soon there won't be any gorgons left there either.
+Our fifth mine is north of Rotwang. Hopefully, soon there won't be any gorgons left there either.
+Here's your reward! You've earned it.
+The sixth and final mine is far to the east, near the magic plains. Head straight east from Rotwang and keep going, and you’ll get there sooner or later.
+The sixth and final mine is far to the east, near the magic plains. Head straight east from Rotwang and keep going, and you’ll get there sooner or later.
+Here's your reward! You've earned it.
+I can't believe it: you did it! The Gorgons are gone! Now we can go back to the mines.
+I don’t have anything else to reward you with, but I can give you some sulfur. You want?
+
+(66, 50, 0) ***Ereignis***
+Nachricht:
+Morton - minus movement
+
+(20, 38, 0) ***Aufgaben-Wächter***
+Nachricht:
+Up ahead, you can see the entrance to the portal, with bones of humans, ogres, and minotaurs scattered around. Rumor has it that a dragon has made its lair here, and perhaps even more than one.
+Would you like to approach the portal?
+
+(28, 71, 0) ***Barbar***
+Name:
+Wededh
+
+(10, 92, 0) ***Gefängnis***
+Name:
+Thulig
+Biographie:
+Thulig is an extremely daring elf, and the best way to recruit him is to offer a challenge like "go I don't know where, bring I don't know what." He stole "don't-know-whats" from under a dragon's snout, an underground dwarven treasury, and even the mouth of an extinct volcano. High-profile failures are another trademark of his, and he has paid unequalled amounts in ransom for himself.
+
+(1, 24, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(80, 90, 0) ***Rostdrache***
+Nachricht:
+There was a smell of sulfur in the air. As we approached the mountains, it kept growing stronger. 	A huge gorge appeared ahead, and flying above it there were... Not birds. Dragons—dozens and hundreds of Rust Dragons! You've seen Rust Dragons on the islands south of Jadame before, but not in such numbers. Worst of all, the dragons have noticed you. It's too late to run, you'll have to fight them.
+
+(13, 43, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(1, 105, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(53, 24, 0) ***Gefängnis***
+Name:
+Yovilla
+Biographie:
+Utterly confident in her missionary gift, Yovilla will preach even to inanimate objects, since any of them may have a spirit inside who can be made a believer. This happened before when she persuaded a small river to part its waters. Moved by her ardent speech, the river's spirit did not let her wet her feet, and also imparted on her the secrets of his magic.
+
+(56, 27, 0) ***Quest Gate***
+Nachricht:
+The airship yard appeared ahead, with several airships standing by. This is our way home. However, we can't hope for success in fighting the devils if we don’t prepare everything we need, and without the Orb of Tempestuous Fire, we'll never make it to Eeofol.
+The airship yard appeared ahead, with several airships standing by. This is our way home. However, we can't hope for success in fighting the devils if we don’t prepare everything we need, and without the Orb of Tempestuous Fire, we'll never make it to Eeofol.
+ Do you want to proceed to the airship yard?
+
+(50, 27, 0) ***Aufgaben-Wächter***
+Nachricht:
+This path through an abandoned mine leads to an old prison and then turns to the airship yard; however, you discover that the mine has collapsed and you can't go any further.	The local ranger, a dark elf, says he knows another way, but demands a reward of artifacts that would be useful to him in his line of work.
+The ranger won’t help you, and there is no other apparent way to get to the prison and the airship yard.
+The ranger is ready to lead you through the mountains. Would you be willing to give him the artifacts?
+
+(74, 105, 0) ***Aufgaben-Wächter***
+Nachricht:
+Up ahead, perched on a rock, sits an enormous black dragon. The majestic wyrm eyes you closely. Finally, he speaks to you.	“I know what you're looking for here. An Everpouring Vial of Mercury, isn't it? Well... Do me a favor and I'll let you into the mountains.	Ilsingore, the unworthy son of the dragonkind, abandoned us in our hour of need. We thought he and his minions had gone to the Ironsand Desert, but recently he reemerged in these lands with several other dragons. I don't know what he wants here, but I don't want to see this traitor. Drive him away and I will let you pass.”
+The black dragon won't let you pass. It seems the only way through here is to agree to the wyrm's terms.
+I saw Ilsingore flying away to the east. Alright, I'll let you pass. Remember, however, that there are dragons of Ilsingore's pack waiting for you in the mountains, and you will have to fight them.	Do you wish to go into the caves?
+
+(107, 78, 0) ***Gefängnis***
+Name:
+Khevasar
+Biographie:
+Khevasar came to question a fundamental tenet of the philosophy he had studied for decades: the postulate that a druid wields power over all aspects of nature along with the authority not only to bring it into his service, but also to alter it to suit his views and wants. This caused many of his AvLeean colleagues to accuse him of adhering to the archaic Enrothean heresy.
+
+(95, 1, 0) ***Aufgaben-Wächter***
+Nachricht:
+On the shore of a mountain lake, you are greeted by several Nixes. One of them comes forward.	“Recently, our fort was attacked by a huge dragon, clearly the leader of a powerful pack. We think his lair is somewhere in these mountains. Drive it from these lands, and we will reward you handsomely.”
+The dragon is still out there.
+We saw Ilsingore fly away. I never thought you could handle a whole pack of dragons. Take this Royal Armor of Nix; I'm sure you need it more than we do.
+
+(69, 80, 0) ***Halbling***
+Nachricht:
+Gather round, lads, we're about to move out!
+
+(35, 98, 0) ***Aufgaben-Wächter***
+Nachricht:
+{On difficulty level Difficult and below, you will receive additional artifacts and additional troops}
+{On difficulty level Difficult and below, you will receive additional artifacts and additional troops}
+{Receive?}
+
+(36, 97, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(93, 75, 0) ***Hero Camp***
+Name:
+Ilmarin
+Biographie:
+Ilmarin's alchemical thesis described an improved activation technology for the golden golem. He himself sculpted the statue he was to animate before the commission, and somehow decided to give it feminine features. The golden woman vanished the night following the demonstration, and Ilmarin has been scouring the world ever since in search for her who kindled love in his heart.
+
+(9, 24, 0) ***Ereignis***
+Nachricht:
+Tancred - bonus
+
+(37, 24, 0) ***Ereignis***
+Nachricht:
+
+
+(68, 9, 0) ***Ereignis***
+Nachricht:
+
+
+(59, 28, 0) ***Kunsthandwerker***
+Name:
+Umender
+
+(37, 35, 0) ***Hütte des Sehers***
+Nachricht:
+An alchemist meets you in the hut.	“Something odd has been happening the last few weeks. Only a year ago, I was helping Frederick on his quest for Agar's lab, and now Burton is a place changed. Unfamiliar faces and weird inventions are everywhere, and now the King of Deyja himself is in charge. Let's face it: I don't like what's going on here, and I'm going back to Enroth. Unfortunately, I've had to abandon my lab. I need gems to continue my experiments and gold to buy new alchemical reagents.	Help me, and I'll get you a scroll with the Town Portal spell. While it won't get you to another continent, it’ll sure come in handy now.
+Unfortunately, this amount of gems and gold won't do it for me.
+ Oh, great! Now I can finally go home. Take this scroll, you'll need it.
+
+(97, 61, 0) ***Aufgaben-Wächter***
+Nachricht:
+Traveling through the forest, you come across a group of priests clad in green robes. They must be druids.	“Greetings," one of them says to you. “We have come here in search of the druid Xaver. He was once one of us before switching sides and joining the renegades who caused much mischief in Enroth. He fled to Jadame and now seems to be up to his old tricks. See the dead forest around us? We believe Xaver is responsible for what happened here. It's hard to say where he is now, but the unicorns saw him heading towards a mysterious black portal in the caves. Perhaps that portal will take you to him.	Help us find and punish him, and we will help you.”
+The Druids are still here. Better not to bother them, unless you bring good news.
+ “We have heard of your victory," says the druid. “We have no gold to reward you, but here’s something better: a Ring of Infinite Gems.”	Do you wish to accept the reward?
+
+(25, 92, 0) ***Ereignis***
+Nachricht:
+There was a town by the imposing name of Larimar on our way, to be our first stop on our trek across Jadame that would bring our grueling expedition to an end. We didn't expect fanfare, red carpets, or any other silly honors for returning travelers; all we dreamed of were hot meals, soft beds, and fresh clothes.	Alas, our dreams were dealt an instant blow once we saw the locals’ frightened faces. In a flash, the street was deserted, all the shutters on the windows were closed, and the doors bolted shut. The town died out; only the wind played with the tumbleweeds along the road. On one of the doors, I saw several posters of yellowed parchment. The first and largest one depicted an ugly halfling with a cross, scowling face like a chewed-up pancake. The caption read: "Henrietta. Wanted dead or alive." Other posters were adorned with equally gut-wrenching faces, and many of the names were very familiar to me.
+
+(57, 27, 0) ***Ereignis***
+Nachricht:
+It would be naive to assume that the airship yard would just stand unguarded. As soon as we approached the airships, a host of automatons—hundreds of them!—appeared from behind the hills. An vaguely familiar-looking artificer was ordering them around...
+
+(49, 65, 0) ***Aufgaben-Wächter***
+Nachricht:
+A stone wall with an unusual-looking gate appeared ahead, and in front of it there was a man with the looks of a miner.	“Can't get through? Neither can I. This gate was built to keep anyone from going through the portal to Rotwang. There used to keys to open the gate, but the barbarian, Wededh, swindled our master and took them.
+I gather you still haven't found the keys? Then we'll have to look for this barbarian.
+Great, these keys fit the lock! Shall we open the gate?
+
+(16, 84, 1) ***Aufgaben-Wächter***
+Nachricht:
+A recent landslide has blocked the entrance to this cave. Clearing up the passage will take 25 wood and 25 ore for supports, and 25 gems to pay the engineers.
+A recent landslide has blocked the entrance to this cave. Clearing up the passage will take 25 wood and 25 ore for supports, and 25 gems to pay the engineers.
+Do you wish to clear up the passage?
+
+(31, 93, 1) ***Todesritter***
+Name:
+Urdeon
+
+(3, 11, 1) ***Gefängnis***
+Name:
+Valqest
+
+(7, 13, 1) ***Ereignis***
+Nachricht:
+
+
+(10, 13, 1) ***Ereignis***
+Nachricht:
+
+
+(13, 13, 1) ***Ereignis***
+Nachricht:
+
+
+(13, 11, 1) ***Barbar***
+Name:
+Banbragh
+
+(4, 13, 1) ***Ereignis***
+Nachricht:
+
+
+(7, 6, 1) ***Gefängnis***
+Name:
+Yargo
+
+(11, 6, 1) ***Gefängnis***
+Name:
+Stina
+
+(9, 6, 1) ***Gefängnis***
+Name:
+Skrell
+
+(2, 2, 1) ***Gefängnis***
+Name:
+Gohh
+
+(78, 40, 1) ***Hütte des Sehers***
+Nachricht:
+You've heard before that this spacious cave is frequented by ratfolk smugglers. Perhaps this is where they keep their treasures.	In one of the huts in the cave, you come across a sneaky fellow.	“If you've come here in search goods, forget about it! We used to smuggle stuff into Burton, but Kastore's troops have now cut all the roads leading to that town. The force blocking one of them is the band led by artificer Eanswythe. If you'd put an end to this problem, we'd share something of value with you.”
+The smugglers are going about their business. It's best not to bother them too much.
+We heard of your victory. Ah yes, the reward... Here: the magical boots we recently acquired from the Regnan pirates. Satisfied?
+
+(69, 54, 1) ***Hütte des Sehers***
+Nachricht:
+You've heard before that this spacious cave is frequented by ratfolk smugglers. Perhaps this is where they keep their treasures.	In one of the huts in the cave, you come across a sneaky fellow.	“If you've come here in search goods, forget about it! We used to smuggle stuff into Burton, but Kastore's troops have now cut all the roads leading to that town. The force blocking one of them is the band led by notorious mercenary Jangaard. If you'd put an end to this problem, we'd share something of value with you.”
+The smugglers are going about their business. It's best not to bother them too much.
+We heard of your victory. Ah yes, the reward... Here: the magical surcoat we recently acquired from the ogres. Satisfied?
+
+(96, 48, 1) ***Hütte des Sehers***
+Nachricht:
+You've heard before that this spacious cave is frequented by ratfolk smugglers. Perhaps this is where they keep their treasures.	In one of the huts in the cave, you come across a sneaky fellow.	“If you've come here in search goods, forget about it! We used to smuggle stuff into Burton, but Kastore's troops have now cut all the roads leading to that town. The force blocking one of them is the band led by notorious mercenary Zarghebar. If you'd put an end to this problem, we'd share something of value with you.”
+The smugglers are going about their business. It's best not to bother them too much.
+We heard of your victory. Ah yes, the reward... Here: the magical garniture we recently acquired from the bandits. Satisfied?
+
+(39, 72, 1) ***Hütte des Sehers***
+Nachricht:
+You find out that the hut’s door has a huge lock. You immediately notice the unusual keyhole in the shape of... Emblem of Cognizance.
+You feel as thought you won't be able to find the Emblem of Cognizance.
+Do you wish to open the doors to the hut?
+In the hut, you are greeted by a mighty minotaur.	“Don't look at me like that," he says, "I am not one of Kastore’s lackeys! On the contrary, for the past few months my brethren and I have had many fights against bandits hired by that... elf. And they dare to call themselves minotaurs!”, the monster's eyes glow menacingly. “Listen. I've seen you fight. Your arms are fine, but weapons are not the only source of a warrior's strength. We minotaurs are not strong warriors; we also have mages among us. I can train you to make your enemies lose their minds, but we don't usually reveal our secrets to outsiders. However, I'm willing to make an exception for you. Bring me 75 wood, 75 ore, 75 crystals, 75 gems, 75 sulfur, 75 mercury and 75000 gold, and I will let you in on our secret.
+“That's not enough!”, the minotaur growls. “Don't come to me with such a pittance again, or you'll regret it!”
+“Do you wish to give resources to the minotaur?”
+I can teach you the Berserk spell now, but I need a scroll or book with it to help you! I don't know where you can get a scroll like that, but you might be able to find something in the hoard of Rust Dragons not far from here. Be careful, though! The biggest pack of those things I've ever seen has set up shop there!
+“So  where is the scroll?”, the minotaur growls. “Don't come to me empty-handed again, or you'll regret it!”
+“Do you want to learn the Berserk spell in exchange for the scroll?”
+
+(79, 92, 1) ***Druide***
+Name:
+Xaver
+
+(4, 2, 1) ***Gefängnis***
+Name:
+Rumeon
+
+(25, 6, 1) ***Gefängnis***
+Name:
+Reventyr
+
+(23, 6, 1) ***Gefängnis***
+Name:
+Elderian
+
+(21, 6, 1) ***Gefängnis***
+Name:
+Jerhesh
+
+(16, 6, 1) ***Gefängnis***
+Name:
+Winzells
+
+(14, 6, 1) ***Gefängnis***
+Name:
+Seneth
+
+(31, 3, 1) ***Ereignis***
+Nachricht:
+ñìýðòü
+
+(25, 2, 1) ***Gefängnis***
+Name:
+Strobus
+
+(23, 2, 1) ***Gefängnis***
+Name:
+Guerhaugh
+
+(18, 2, 1) ***Gefängnis***
+Name:
+Phott
+
+(16, 2, 1) ***Gefängnis***
+Name:
+Horoagh
+
+(9, 2, 1) ***Gefängnis***
+Name:
+Terghez
+
+(11, 2, 1) ***Gefängnis***
+Name:
+Razargal
+
+(75, 94, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(54, 50, 1) ***Hütte des Sehers***
+Nachricht:
+I represent the Merchant Guild. I used to buy timber from the Murmurwoods, but recently I've found out that perfectly good wood is also available in this area, and at a low price. I'm willing to pay for it with rare resources!
+I represent the Merchant Guild. I used to buy timber from the Murmurwoods, but recently I've found out that perfectly good wood is also available in this area, and at a low price. I'm willing to pay for it with rare resources!
+Buy 1 unit of mercury for 25 units of wood?
+I represent the Merchant Guild. I used to buy timber from the Murmurwoods, but recently I've found out that perfectly good wood is also available in this area, and at a low price. I'm willing to pay for it with rare resources!
+I represent the Merchant Guild. I used to buy timber from the Murmurwoods, but recently I've found out that perfectly good wood is also available in this area, and at a low price. I'm willing to pay for it with rare resources!
+Buy 1 unit of sulfur for 25 units of wood?
+
+===== Dateiende =====

@@ -1,0 +1,605 @@
+===== Kartenname =====
+Karneval des Abgrunds
+
+===== Kartenbeschreibung =====
+Die letzte Reise endete für Mephala in einer Katastrophe. Ihr Schiff wurde von einem Sturm in eine unbekannte Richtung getrieben und dann an die Küste geworfen, die trostlos aussah. Doch schon bald fand sie sich im Zentrum eines blutigen Festes wieder...
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Player - Start 1
+Nachricht:
+Schiffswracks und leblose Landschaften waren das Einzige, was man nach der Katastrophe vom Ufer aus sehen konnte. Die Überlebenden waren ständig gestresst, da die Gegend sie mit ihrer Stille erschreckte. Kein Vogel, kein Tier oder sonstiges Lebewesen, sondern nur das leise Rauschen eines Flusses war zu hören. Selbst ein Wind konnte keine Erleichterung bringen, die Luft hier war durchtränkt vom Geruch des Rauches, und um sie herum sah man langsam verblassende Wolken aus Rauch und Asche.
+
+Name:
+Player - Start 2
+Nachricht:
+Kurz nachdem Sie Ihre restlichen Vorräte zusammengetragen hatten, tauchten am Horizont einige Schiffe mit roten Flaggen auf. Eines der kleineren Schiffe legte an, und dann landete eine Gruppe von Dämonen, die sich auf dem Schiff befunden hatten, und verstreute sich in verschiedene Richtungen. Da von eurer Mannschaft nur noch wenige übrig sind, zählt jeder Krieger, und es hat keinen Sinn, jetzt gegen die Dämonen zu kämpfen. Ihr müsst so schnell wie möglich einen Unterschlupf oder eine {Festung zur Verteidigung} gegen die Dämonen finden, und auch {das Nötigste für uns sammeln}.
+
+Name:
+AI - No gems
+Nachricht:
+
+
+Name:
+AI Start - No resourses
+Nachricht:
+
+
+Name:
+Player - Start 3
+Nachricht:
+Eine Bande von Dämonen ist dir auf die Spur gekommen, also hast du keine Zeit. Du musst nur fliehen, aber entferne dich nicht zu weit von ihnen, denn die nicht gesammelten Ressourcen kannst du in Zukunft gut gebrauchen.
+
+Name:
+Player - 1
+Nachricht:
+Jedes Jahr gehen die Dämonen, die in diesen Gebieten leben, auf die Jagd nach verschiedenen unterirdischen und Sumpfkreaturen, um sich zu amüsieren und Ressourcen zu sammeln. Während der Jagd konkurrieren sie miteinander, und verschiedene Clans beginnen, sich wegen der Trophäen, die sie nicht teilen können, gegenseitig zu töten. Doch in der örtlichen Taverne heißt es, dass dieses Mal eine Beute zum Jäger werden soll - die Kreaturen, die die Dämonen so lange gejagt haben, haben ihre mächtigen Häuptlinge gewählt, die sie vereinigt haben.
+
+Name:
+Player - 2
+Nachricht:
+Es sind nur noch wenige Wochen, bis der Karneval des Abgrunds beginnt, und das bedeutet, dass sehr bald ein blutiges Chaos über das Land hereinbricht. Jede Seite wird versuchen, die andere zu besiegen, und du scheinst genau im Zentrum dieser Ereignisse zu stehen. Ihr könnt dieses Land nicht so einfach verlassen, da die Flotte der Dämonen auf dem Meer um dieses Land patrouilliert und vom Land aus unterstützt wird. Ihr müsst also entweder die lokalen Produktionszentren erobern oder sie hochziehen.
+
+Name:
+Player - 3
+Nachricht:
+Den Bewegungen in der Nähe nach zu urteilen, hat der Karneval des Abgrunds bereits begonnen, also müssen Sie Ihre Truppen auf den Kampf vorbereiten. Die Angriffe werden von Mal zu Mal stärker werden, ihr solltet also bereit sein zu fliehen. Es heißt, dass die unterirdischen Fürsten in etwa einer Woche angreifen werden. Vielleicht ist es eine gute Idee, sie zuerst anzugreifen, bevor sie etwas unternehmen?
+
+Name:
+AI - Bonus Gold
+Nachricht:
+
+
+Name:
+Player - Time (431)
+Nachricht:
+Deine Späher berichten dir immer mehr über die strafenden Kräfte der Dämonen. Sie sagen, dass sie in einem Monat hier sein werden. Ob es nun stimmt oder nicht, ihr sollt euch auf jeden Fall beeilen...
+
+Name:
+Player - The end is near (531)
+Nachricht:
+Die Hauptstreitkräfte der Dämonen sind eingetroffen, so dass euch kaum noch Zeit bleibt. Es gibt vielleicht noch eine Hoffnung auf Erfolg...
+
+===== Helden =====
+
+===== Objekte =====
+
+(34, 12, 0) ***Inferno***
+Name:
+Alucard
+
+Getimete Ereignisse:
+
+Name:
+Player - Town Hall
+Nachricht:
+
+
+Name:
+Red AI - No Ore
+Nachricht:
+
+
+(30, 8, 0) ***Schild***
+Nachricht:
+Sackgasse
+
+(57, 34, 0) ***Inferno***
+Name:
+Graphyor
+
+Getimete Ereignisse:
+
+Name:
+Red AI - Start
+Nachricht:
+
+
+Name:
+Red AI - Upgrades
+Nachricht:
+
+
+Name:
+Red AI - Build Tavern + Bonus (317)
+Nachricht:
+
+
+Name:
+Red AI - Bonus gold
+Nachricht:
+
+
+(17, 33, 0) ***Inferno***
+Name:
+Agy-Talto
+
+Getimete Ereignisse:
+
+Name:
+Orange AI - Start
+Nachricht:
+
+
+(7, 57, 0) ***Inferno***
+Name:
+Agnyrto
+
+Getimete Ereignisse:
+
+Name:
+Orange AI - Start
+Nachricht:
+
+
+Name:
+Orange AI - Bonus 2
+Nachricht:
+
+
+Name:
+Orange AI - Bonus 3 (411)
+Nachricht:
+
+
+(51, 65, 0) ***Festung***
+Name:
+Quentamore
+
+Getimete Ereignisse:
+
+Name:
+Purple AI - Shipyard + Bonus (243)
+Nachricht:
+
+
+Name:
+Purple AI - Bonus
+Nachricht:
+
+
+(50, 8, 0) ***Echsenkrieger***
+Nachricht:
+Das sind unsere Wertsachen, verschwinden Sie hier!
+
+(51, 12, 0) ***Aufgaben-Wächter***
+Nachricht:
+Besiegt die Verfolger, und ihr könnt passieren. Bleibt aber nicht lange hier, ihr werdet viel Nutzen aus diesem Ort ziehen.
+Besiegt die Verfolger, und ihr könnt passieren. 
+Du darfst passieren.
+
+(45, 10, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(32, 17, 0) ***Aufgaben-Wächter***
+Nachricht:
+Du kannst den Weg zum See des Feuers für einige Ressourcen öffnen.
+Du kannst den Weg zum Feuersee für einige Ressourcen öffnen.
+Du darfst passieren.
+
+(65, 16, 0) ***Hütte des Sehers***
+Nachricht:
+Ich bringe Ihnen gegen eine Gebühr meine geheimen Angriffstricks bei.
+Ich bringe Ihnen gegen eine Gebühr meine geheimen Angriffstricks bei.
+Los geht's!
+Gegen ein zusätzliches Honorar könnt ihr meine besten Bogenschützen anheuern.
+Gegen ein zusätzliches Honorar könnt ihr meine besten Bogenschützen anheuern.
+Die Bogenschützen sind bereit!
+Bringt mir einen solchen Geldbeutel, ich tausche ihn gegen einen endlosen Beutel ein.
+Bringt mir einen solchen Geldbeutel, ich tausche ihn gegen einen endlosen Beutel ein.
+Hier, bitte sehr.
+Ich habe auch eine Rüstung, die die Zaubersprüche schwächt. Ich kann sie Euch für einen guten Preis verkaufen.
+Die Rüstung wartet auf dich.
+Schön, mit Euch ein Geschäft zu machen! Ach ja, bevor ich es vergesse: Suchen Sie den Kerl, den ich kenne, westlich von hier auf der Nachbarhalbinsel auf, er experimentiert mit verschiedenen Dingen und würde jede Hilfe nicht ablehnen. Ich denke, er kann dir etwas anbieten, das der Dämonenmagie widerstehen kann.
+
+(71, 12, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(17, 23, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(18, 22, 0) ***Aufgaben-Wächter***
+Nachricht:
+Für den Preis von 4 Schwefel, Erz, Holz und 2100 Gold kannst du 18 Piraten anheuern.
+Für den Preis von 4 Schwefel, Erz, Holz und 2100 Gold kannst du 18 Piraten anheuern.
+Cash in advance!
+
+(17, 22, 0) ***Pirat***
+Nachricht:
+Suchen Sie nach unseren Leuten in den Unterwasserhöhlen, sie würden sich Ihnen für einen angemessenen Preis auch anschließen.
+
+(46, 25, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(15, 27, 0) ***Hütte des Sehers***
+Nachricht:
+Wären Sie an der Umwandlung von Wasserenergie in Feuerenergie interessiert? Jemand, den ich kenne, wird definitiv an den Ergebnissen interessiert sein!
+Wären Sie an der Umwandlung von Wasserenergie in Feuerenergie interessiert? Jemand, den ich kenne, wird definitiv an den Ergebnissen interessiert sein!
+Voilà!
+Vielen Dank, dass ich dieses Experiment durchführen darf.
+Als zusätzliche Belohnung kann ich dir einige Zaubertricks beibringen.
+Wenn Ihr noch mächtiger werden wollt, habe ich eine ziemlich unangenehme Aufgabe für Euch.
+Bringt mir diesen Mantel, und ich werde Euch zeigen, wie man kämpft.
+Ich hätte nicht gedacht, dass es dir gelingen würde, ihn mir zu bringen. Nun, lasst uns mit dem Training beginnen!
+
+(24, 55, 0) ***Hütte des Sehers***
+Nachricht:
+Bringt mir einen Rostdrachen, und ich gebe euch eine meiner künstlichen Lebensquellen.
+Bringt mir einen Rostdrachen, und ich gebe euch eine meiner künstlichen Lebensquellen.
+Lasst sie nicht fallen!
+
+(39, 6, 0) ***Hütte des Sehers***
+Nachricht:
+Ich werde diesen Anhänger gegen einen anderen Ihrer Wahl tauschen.
+Ich werde diesen Anhänger gegen einen anderen Ihrer Wahl tauschen.
+Er gehört Ihnen.
+Ich werde diesen Anhänger gegen einen anderen Ihrer Wahl tauschen.
+Ich werde diesen Anhänger gegen einen anderen Ihrer Wahl tauschen.
+Er gehört Ihnen.
+Ich werde diesen Anhänger gegen einen anderen Ihrer Wahl tauschen.
+Ich werde diesen Anhänger gegen einen anderen Ihrer Wahl tauschen.
+Er gehört Ihnen.
+Ich werde diesen Anhänger gegen einen anderen Ihrer Wahl tauschen.
+Ich werde diesen Anhänger gegen einen anderen Ihrer Wahl tauschen.
+Er gehört Ihnen.
+
+(58, 27, 0) ***Hütte des Sehers***
+Nachricht:
+Hilfe nur für die, die sie verdient haben!
+Hilfe nur für die, die sie verdient haben!
+Hier ist die Hilfe!
+Ich habe auch einige Beobachtungen über Wassermagie. Bringt mir euren besten Magier!
+Ich habe auch einige Beobachtungen über Wassermagie. Bringt mir euren besten Magier!
+Ich denke, das wird Euch interessieren.
+Danke, dass Ihr mir zugehört habt. Ihr habt wirklich mehr verdient!
+Danke, dass Ihr mir zugehört habt. Ihr habt wirklich mehr verdient!
+Hier ist deine Belohnung, im Westen bieten sie dir vielleicht etwas wirklich Wertvolles an...
+
+(31, 8, 0) ***Anhänger des Todes***
+Nachricht:
+Sie können einen guten Preis für einen solchen antiken Anhänger zahlen. Man sagt, an der Nachbarküste gibt es einen ungewöhnlichen Markt für verschiedene Antiquitäten, vielleicht ist es eine gute Idee, danach zu suchen?
+
+(50, 51, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(26, 27, 0) ***Aufgaben-Wächter***
+Nachricht:
+Unser Markt ist kein Ort für Arme, man kann nur passieren, wenn man bezahlt!
+Unser Markt ist kein Ort für Arme, man kann nur passieren, wenn man bezahlt!
+Nun, keine gefälschten Edelsteine, du darfst passieren.
+
+(49, 69, 0) ***Ereignis***
+Nachricht:
+
+
+(54, 35, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(49, 3, 0) ***Ereignis***
+Nachricht:
+Purple AI - Bonus
+
+(21, 21, 0) ***Aufgaben-Wächter***
+Nachricht:
+Wenn du Holz hast, gibt es ein Boot.
+Wenn du Holz hast, gibt es ein Boot.
+Wenn du Holz hast, gibt es ein Boot.
+
+(26, 13, 0) ***Aufgaben-Wächter***
+Nachricht:
+Es ist noch nicht der richtige Zeitpunkt.
+Es ist noch nicht der richtige Zeitpunkt.
+Der Weg ist offen.
+
+(6, 31, 0) ***Schild***
+Nachricht:
+Hilfe benötigt! Ich biete einen Mantel mit ungewöhnlichen Eigenschaften als Belohnung an.
+
+(7, 30, 0) ***Hütte des Sehers***
+Nachricht:
+Hallo. Ich habe gehört, dass ihr lokale Dämonen bekämpft, die mächtige Magie beherrschen, richtig? Nun, ich habe den Umhang von Recanter, und ich bin bereit, ihn dir zu geben, wenn du drei Aufgaben für mich erledigst. Ich brauche eine Menge Ressourcen für meine magischen Experimente, also wird dies Eure erste Aufgabe sein. Ich werde Euch später von den anderen Aufgaben erzählen.
+Nicht genug. Bitte verschwendet nicht unsere Zeit.
+So ist es gut. Ok, gehen wir zur zweiten Aufgabe über.
+Ich will nicht, dass mich jemand stört, also müsst Ihr gute Wachen für mich finden, vorzugsweise aus der Gegend.
+Äh?
+Sehr gut. Also, die letzte Aufgabe.
+Ich brauche den Umhang nicht, er würde mich nur am Experimentieren hindern. Aber die Rüstung, die nur die Magie schwächt, wäre nützlich. Ich will mich nicht verbrennen, weißt du...
+Hattet Ihr Erfolg?
+Ich hoffe, du bist mir nicht böse wegen meiner großen Bitte. Aber der Deal ist der Deal. Jetzt gehört der Umhang Euch.
+
+(43, 13, 0) ***Aufgaben-Wächter***
+Nachricht:
+Besiegt die Verfolger, und ihr könnt passieren. 
+Besiegt die Verfolger, und ihr könnt passieren.
+Welcome!
+
+(8, 27, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus art
+
+(0, 14, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus art
+
+(8, 2, 0) ***Ereignis***
+Nachricht:
+
+
+(27, 3, 0) ***Ereignis***
+Nachricht:
+
+
+(50, 28, 0) ***Ereignis***
+Nachricht:
+Red AI - Bonus
+
+(38, 2, 0) ***Ereignis***
+Nachricht:
+Die Hütte sieht verlassen aus, aber es könnte nützlich sein, einen Blick hineinzuwerfen, vielleicht erfährst du etwas Wichtiges...
+
+(3, 34, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(22, 29, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(67, 3, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(26, 26, 0) ***Hütte des Sehers***
+Nachricht:
+Als du die geheimnisvollen Zelte betrachtest, bist du überrascht, wie viele alte Schmuckstücke und Artefakte dort gelagert werden, aber nichts davon hat einen Wert für dich. Als du schon aufgegeben hast, gehst du zum Ausgang, aber du siehst eine schöne Halskette in Form eines Delphins auf der Stange, die dem Ausgang am nächsten ist.
+Als du die geheimnisvollen Zelte betrachtest, bist du überrascht, wie viele alte Schmuckstücke und Artefakte dort gelagert werden, aber nichts davon hat einen Wert für dich. Als du schon aufgegeben hast, gehst du zum Ausgang, aber du siehst eine schöne Halskette in Form eines Delphins auf der Stange, die dem Ausgang am nächsten ist.
+Nimm sie!
+
+(25, 2, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(56, 13, 1) ***Aufgaben-Wächter***
+Nachricht:
+Die örtlichen Piraten helfen Ihnen gerne gegen eine Gebühr.
+Die örtlichen Piraten helfen Ihnen gerne gegen eine Gebühr.
+Bargeld zuerst.
+
+(26, 4, 1) ***Aufgaben-Wächter***
+Nachricht:
+Direkt vor dem Monolithen stand eine seltsame Silhouette, die unaufhaltsam etwas Unverständliches flüsterte. Als du dich ihm näherst, verstummt er, und nach einem Moment beginnt er wieder zu sprechen, aber jetzt kannst du jedes Wort verstehen: "Jeder, der hindurchgehen will, muss einen kleinen Teil von dem opfern, was er erworben hat..."
+Direkt vor dem Monolithen stand eine seltsame Silhouette, die unaufhaltsam etwas Unverständliches flüsterte. Als du dich ihm näherst, verstummt er, und nach einem Moment beginnt er wieder zu sprechen, aber jetzt kannst du jedes Wort verstehen: "Jeder, der hindurchgehen will, muss einen kleinen Teil von dem opfern, was er erworben hat..."
+Das Portal öffnete sich, und die Silhouette verschwand und hinterließ eine kleine Nachricht auf einer verbrannten Seite: "Die Karnevalszeit rückt näher, nur wenige werden bereit sein, euch zu helfen... Aber für {Münzen} könnt ihr von den Einheimischen bekommen, was ihr braucht..."
+
+(18, 59, 1) ***Hütte des Sehers***
+Nachricht:
+Ich habe Engelsfederpfeile, und ich bin bereit, sie dir für einen guten Preis zu geben.
+Ich habe Engelsfederpfeile, und ich bin bereit, sie dir für einen guten Preis zu geben.
+Du kannst sie bekommen, wie versprochen.
+
+(39, 31, 1) ***Dungeon***
+Name:
+Darnhad
+
+Getimete Ereignisse:
+
+Name:
+Purple AI - Start
+Nachricht:
+
+
+Name:
+Pink AI - Tavern + Bonus (242) - Critical
+Nachricht:
+
+
+Name:
+Pink AI - Bonus gold
+Nachricht:
+
+
+(29, 28, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(30, 29, 1) ***Aufgaben-Wächter***
+Nachricht:
+Für 18 Edelsteine können Sie 4 Behemoths und eine Schriftrolle der Eile bekommen. Aber so einfach ist das nicht.
+
+(53, 25, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(44, 33, 1) ***Aufgaben-Wächter***
+Nachricht:
+Mach ihn fertig!
+
+(36, 15, 1) ***Magog***
+Nachricht:
+Unser Herr wird dich zu Asche verbrennen!!
+
+(1, 57, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(27, 64, 1) ***Ereignis***
+Nachricht:
+SIE SIND AUF DEN BÄUMEN!
+
+(51, 54, 1) ***Aufgaben-Wächter***
+Nachricht:
+Nur für die Auserwählten!
+Nur für die Auserwählten!
+Die Barriere ist beseitigt.
+
+(58, 43, 1) ***Hütte des Sehers***
+Nachricht:
+Wahnsinn! Kann es sein, dass jemand zu mir kommt, der echte Waffen braucht und keinen Schrott. Nun, da seid ihr an der richtigen Adresse, aber ich habe meine Instrumente längst verloren. Aber wenn ihr mir die Mittel für eine neue Werkstatt bringt, könnte ich mich wieder an die Arbeit machen und einigen eurer Krieger erstklassige Waffen geben. So werden eure Ungetüme im Kampf unschlagbar sein, und eure Feinde werden fliehen, wenn sie sie nur sehen! Nun, was würdet Ihr dann sagen?
+Wenn ihr es nicht wollt, dann soll es so sein. Aber wenn du deine Meinung änderst, weißt du ja, wo du mich findest.
+Nun, das ist eine Werkstatt, von der man träumen kann, mein Bruder wäre wirklich neidisch! Hmm, er ist auch eine Art Schmied, aber von einer anderen Art. Er experimentiert mit Seeungeheuern und studiert sie. Sucht nach ihm, seine Dienste könnten euch von Nutzen sein. Nun, genug geredet - lasst uns anfangen!
+Sagt es einfach, und ich mache eure Riesen unschlagbar!
+Sagt es einfach, und ich mache eure Riesen unschlagbar!
+Es ist vollbracht!
+
+(71, 28, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(11, 25, 1) ***Zauberspruchrolle***
+Nachricht:
+Die Schriftrolle ist in erstaunlich gutem Zustand und scheint erst kürzlich benutzt worden zu sein. Vielleicht ist ihr Besitzer noch am Leben und hält sich irgendwo in der Nähe auf?
+
+(63, 1, 1) ***Aufgaben-Wächter***
+Nachricht:
+Für 8 Edelsteine kannst du eine Schriftrolle mit dem Zauber "Langsam" bekommen.
+Willkommen!
+
+(52, 3, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(42, 34, 1) ***Ereignis***
+Nachricht:
+Überfall!
+
+(1, 65, 1) ***Ereignis***
+Nachricht:
+
+
+(47, 52, 1) ***Hütte des Sehers***
+Nachricht:
+Für einen angemessenen Preis kann ich jede Seeschlange, die du hierher bringst, besser machen.
+So arm jetzt?
+Gebt mir einfach meine Belohnung, und lasst uns anfangen!
+Bringt sie her, um sie zu verbessern.
+Bringt sie her, um sie zu verbessern.
+Hier sind sie!
+Ein Rabatt für einen Stammkunden!
+Sind Sie jetzt so arm?
+Geben Sie mir einfach meine Belohnung, und los geht's!
+
+(5, 64, 1) ***Ereignis***
+Nachricht:
+
+
+(21, 35, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(71, 69, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(1, 68, 1) ***Quest Gate***
+Nachricht:
+Sobald man den Schmerz kennt... oder vielleicht auch nicht.
+Oder vielleicht auch nicht.
+
+(0, 69, 1) ***Pandoras Kiste***
+Nachricht:
+Daath
+
+(45, 53, 1) ***Flaschenpost***
+Nachricht:
+apm training simulator v2.0
+
+(42, 28, 1) ***Ereignis***
+Nachricht:
+Pink AI - Bonus
+
+(10, 38, 1) ***Ereignis***
+Nachricht:
+Purple AI - Bonus
+
+(0, 3, 1) ***Ereignis***
+Nachricht:
+Purple AI - Bonus
+
+(61, 60, 1) ***Aufgaben-Wächter***
+Nachricht:
+Warum nicht?
+Warum nicht?
+Warum nicht?
+
+(3, 0, 1) ***Aufgaben-Wächter***
+Nachricht:
+Ein interessanter Ort...
+Ein interessanter Ort...
+Der Weg ist frei.
+
+(58, 16, 1) ***Aufgaben-Wächter***
+Nachricht:
+Die Piraten vor Ort helfen Ihnen gerne gegen eine Gebühr.
+Die Piraten vor Ort helfen Ihnen gerne gegen eine Gebühr.
+Bargeld zuerst.
+
+(54, 2, 1) ***Schild***
+Nachricht:
+An die unterirdischen Käfige: Füttert die Monster nicht!
+
+(13, 63, 1) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(57, 42, 1) ***Schild***
+Nachricht:
+apm training simulator
+
+(47, 18, 1) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(51, 39, 1) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(33, 27, 1) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(39, 20, 1) ***Flaschenpost***
+Nachricht:
+
+
+(50, 31, 1) ***Flaschenpost***
+Nachricht:
+
+
+(6, 7, 1) ***Aufgaben-Wächter***
+Nachricht:
+Für eine gewisse Gebühr können Sie die Basiliskengrube wieder aufbauen.
+Für eine gewisse Gebühr können Sie die Basiliskengrube wieder aufbauen.
+Erledigt!
+
+(16, 16, 1) ***Aufgaben-Wächter***
+Nachricht:
+Die einheimischen Elfen-Söldner sind bereit, uns zu helfen, wenn wir ihre Gehöfte wiederaufbauen.
+Die einheimischen Elfen-Söldner sind bereit, uns zu helfen, wenn wir ihre Gehöfte wieder aufbauen.
+Erledigt!
+
+(19, 17, 1) ***Aufgaben-Wächter***
+Nachricht:
+Die einheimischen Elfen-Söldner sind bereit, uns zu helfen, wenn wir ihre Gehöfte wiederaufbauen.
+Die einheimischen Elfen-Söldner sind bereit, uns zu helfen, wenn wir ihre Gehöfte wiederaufbauen.
+Erledigt!
+
+(15, 36, 1) ***Aufgaben-Wächter***
+Nachricht:
+Schlüssel benötigt.
+Schlüssel benötigt.
+Der Weg ist frei.
+
+(55, 51, 1) ***Flaschenpost***
+Nachricht:
+
+
+===== Dateiende =====

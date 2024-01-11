@@ -1,0 +1,65 @@
+===== Kartenname =====
+Langer Weg
+
+===== Kartenbeschreibung =====
+Der Kampf zweier Herrscher erinnert seit Jahrzehnten an ein Tauziehen. Kein Wunder: Die einzige Straße verbindet die Hauptstädte der beiden Königreiche, und die Dörfer sind dazu verdammt, den Besitzer zu wechseln. Doch vor kurzem wurden die Spione des Feindes tief hinter der Verteidigungslinie entdeckt. Könnte irgendwo ein Hintereingang auftauchen? 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Day1
+Nachricht:
+Sie fingen an zu denken. Wie konnte es sein, dass die Spione des Feindes tief hinter der Verteidigungslinie entdeckt wurden? Sie konnten sicher nicht an Euren befestigten Garnisonen vorbeikommen, denn in all den Jahrhunderten, die Euer Reich besteht, gab es nur eine Straße, die alle Städte wie Perlen an einem Faden verband. 
+
+Name:
+Day1 part2
+Nachricht:
+Ihr habt gehört, dass diese Ländereien vor langer Zeit zu einem alten Land gehörten und dass ihre Bewohner das Geheimnis beherrschten, sich über sehr weite Entfernungen zu bewegen. Dieses Wissen ist jedoch vor vielen Jahren verloren gegangen, und selbst eure besten Zauberer waren nicht in der Lage, das Geheimnis solcher Reisen zu ergründen. Vielleicht sind irgendwo in den vom Krieg zerstörten Landstrichen noch kleine Stücke dieses Wissens erhalten, aber leider nicht in eurer Hauptstadt. 
+
+===== Helden =====
+
+===== Objekte =====
+
+(16, 22, 0) ***Schild***
+Nachricht:
+Dieser Weg steht nur denjenigen offen, die die alten Geheimnisse von Licht und Dunkelheit beherrschen. 
+
+(18, 1, 0) ***Ereignis***
+Nachricht:
+Jenseits dieser Garnison beginnen die umstrittenen Gebiete, um die besonders grausame Kämpfe geführt werden. Hier gibt es keine Möglichkeit, die Straße in einem ordnungsgemäßen Zustand zu halten, und der Schutt, der irgendwo den gepflasterten Stein der Hauptstadt ersetzt hat, wird durch einen gut ausgetretenen Boden ersetzt. 
+
+(34, 18, 0) ***Ereignis***
+Nachricht:
+Ein schlechter Trampelpfad endete, als man in ein sumpfiges Gehölz eintrat. Aber auch hier gibt es eine Art Straße: Ein Bach schlängelt sich durch das Gestrüpp und das dichte Moor und macht so einen harten, aber sicheren Weg für Fremde.  
+
+(3, 33, 0) ***Ereignis***
+Nachricht:
+Ein mystischer Obelisk, der hier errichtet wurde, lange bevor es den ersten Staat gab, teilt die Straße in zwei Teile. Wir könnten unsere Streitigkeiten hinter uns lassen, und jeder Staat würde seine eigene Seite der Straße besitzen. Aber wie kann man nur auf halbem Weg bleiben? 
+
+(34, 34, 0) ***Ereignis***
+Nachricht:
+Es scheint, als hättest du die Wurzel allen Übels gefunden. Die Ruinen hinter den Monstern leuchten in einem magischen Licht. Kann es sein, dass vergessene Straßen und Kreuzungen wieder lebendig sind und dein Feind sie bereits vollständig ausnutzt? 
+
+(19, 19, 1) ***Schild***
+Nachricht:
+Dieser Weg steht nur denjenigen offen, die die alten Geheimnisse von Licht und Dunkelheit beherrschen. 
+
+(3, 34, 1) ***Ereignis***
+Nachricht:
+Es scheint, als hättest du die Wurzel allen Übels gefunden. Die Ruinen hinter den Monstern leuchten in einem magischen Licht. Kann es sein, dass vergessene Straßen und Kreuzungen wieder lebendig sind und dein Feind sie bereits vollständig ausnutzt? 
+
+(32, 33, 1) ***Ereignis***
+Nachricht:
+Ein mystischer Obelisk, der hier errichtet wurde, lange bevor es den ersten Staat gab, teilt die Straße in zwei Teile. Wir könnten unsere Streitigkeiten hinter uns lassen, und jeder Staat würde seine eigene Seite der Straße besitzen. Aber wie kann man nur auf halbem Weg bleiben? 
+
+(1, 28, 1) ***Ereignis***
+Nachricht:
+Ein schlechter Trampelpfad endete, als man in ein sumpfiges Gehölz eintrat. Aber auch hier gibt es eine Art Straße: Ein Bach schlängelt sich durch das Gestrüpp und das dichte Moor und macht so einen harten, aber sicheren Weg für Fremde.  
+
+(14, 1, 1) ***Ereignis***
+Nachricht:
+Jenseits dieser Garnison beginnen die umstrittenen Gebiete, um die besonders grausame Kämpfe geführt werden. Hier gibt es keine Möglichkeit, die Straße in einem ordnungsgemäßen Zustand zu halten, und der Schutt, der irgendwo den gepflasterten Stein der Hauptstadt ersetzt hat, wird durch einen gut ausgetretenen Boden ersetzt. 
+
+===== Dateiende =====

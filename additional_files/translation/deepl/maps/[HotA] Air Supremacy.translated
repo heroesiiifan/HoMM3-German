@@ -1,0 +1,57 @@
+===== Kartenname =====
+Vorherrschaft in der Luft
+
+===== Kartenbeschreibung =====
+Luftschiffe eröffnen neue Perspektiven nicht nur für den Handel, sondern auch für den Krieg. Die fernen Küsten, die früher unerreichbar waren, warten bereits auf ihre Pioniere. Aber fliegt nicht eine Armada feindlicher Luftschiffe von hinter den Bergen zu dir? 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Day1
+Nachricht:
+Ohne großes Interesse blättern Sie in dem einladenden Brief eines Unternehmens, den Ihnen ein Bote zugestellt hat. Einige Kaufleute beschreiben farbenfroh, wie ihre Schiffe "durch die Luft fliegen" und wie dies das Verständnis von Wirtschaft grundlegend verändern würde. Sie versprechen Ihrem Land Wohlstand im Tausch gegen eine gute Investitionssumme für ihr Geschäft. "Was für ein Unsinn! Wie kann ein Schiff fliegen? Nur ein kleines Kind, das von einem Zauberer auf einem Jahrmarkt getäuscht wurde, könnte das glauben. Für wen halten die mich eigentlich?!" - Mit diesen Worten zerknüllst du den Brief und wirfst ihn auf den Boden.
+
+Name:
+Day2
+Nachricht:
+Jeder an eurem Hof redet nur noch über die magischen Luftschiffe. Zu schnell verbreiten sich die Nachrichten über die Leute, die sich "Kunsthandwerker" nennen und wirklich jeden, der es will, auf eine Fahrt in den Himmel mitnehmen. Unwillkürlich denkst du, was wäre, wenn einige Verrückte wirklich ein fliegendes Schiff gebaut hätten? Die Sicherheit deines Landes verdankt sich vor allem den Küsten, die kein Schiff verlassen oder an denen es anlegen kann. Aber was wäre, wenn einige Banditen bis zur Küste segeln würden, um dann ihr Schiff einfach in die Luft zu bewegen und über die scharfen Klippen zu fliegen? 
+
+Name:
+Dream1
+Nachricht:
+Du hattest einen Albtraum: Zuerst sahst du nur einen klaren Himmel, aber dann tauchten hinter dem Horizont Silhouetten von Monstern auf, die am Himmel schwebten. Es waren Greife, Mantikore, Drachen und sogar Kreaturen, die von Natur aus nicht fliegen können. Als sie näher kamen, konnte man sie im Detail sehen und stellte mit Schrecken fest, dass es sich nicht um Monster handelte, sondern um etwas viel Ekelhafteres - endlose, mit heißer Luft gefüllte, zerklüftete Kugeln, die nur aufgrund ihrer Form und Farbe wie Monster aussahen. Sie füllten den Himmel und umzingelten dich fest. Sie beginnen, dich zu erdrücken. Du kannst nicht atmen, du wirst von allen Seiten von pneumatischen Monstern eingeklemmt. Du wachst mit einem Stöhnen auf.
+
+Name:
+Day3
+Nachricht:
+Nachdem Sie sich von Ihrem Albtraum erholt haben, verstehen Sie, dass der schaurige Traum Sie vielleicht vor einem schweren Fehler bewahrt hat. Am Tag zuvor waren Sie mit dem Gedanken eingeschlafen, Ihre Armee zu versammeln und die Werften der Luftschiffe niederzureißen. Alles würde wieder so sein, wie es einmal war, und Ihre Unruhe würde ein Ende haben. Aber wenn diese, ähm, "Bertram und Frederick" das Geheimnis der Herstellung von Luftschiffen kennen, wie könnt ihr dann sicher sein, dass niemand anderes es kennt? Vielleicht nähern sich gerade jetzt feindliche Luftschiffe aus ihren fernen, unerreichbaren Staaten feige eurem friedlichen Land? Du schauderst und schaust eine Zeit lang aufmerksam auf die grotesken Wolken, die sich am Himmel bewegen. 
+
+Name:
+dream2
+Nachricht:
+Du hattest wieder einen Traum. Du befindest dich auf dem Deck eines Luftschiffs, das mit überwältigender Geschwindigkeit zu den Wolken fliegt. Alles um dich herum kreischt, schwingt, bewegt sich. Das Konstrukt ist so wackelig, dass es jede Sekunde auseinanderfallen kann. Hunderte von Metern Leere sind unter dir. Über dir liegt eine tiefe, mit Sternen übersäte Schwärze, und irgendwo noch höher befindet sich eine kleine geblasene Kugel, das Einzige, was sowohl das Schiff als auch dich vor einem Absturz bewahrt. Aber wenn du so hoch fliegst wie noch niemand zuvor, zerbricht die Kugel und du fällst...
+
+Name:
+Day7
+Nachricht:
+Die Eroberung neuer Länder ist eine Tat für mutige Menschen. Um den Himmel zu erobern, muss man noch mutiger sein. Ein König darf nicht kleinmütig sein. Ohne ein Zeichen von Angst zu zeigen, betrittst du das Deck eines Luftschiffs. Dieses würde dich höher fliegen als die Türme deiner Schlösser und sogar die schneebedeckten Gipfel der Berge. Würdest du hoch fliegen und siegreich sein, oder auf die Erde fallen, um zu unterliegen?  
+
+===== Helden =====
+
+===== Objekte =====
+
+(37, 70, 0) ***Zufällige Stadt***
+Name:
+Skypoint
+
+(8, 40, 0) ***Schild***
+Nachricht:
+Die Luftschiffwerft von "Bertram and Frederick" Co. öffnet die Tür. Sie finden uns an der nordöstlichen Küste. 
+
+(62, 31, 0) ***Schild***
+Nachricht:
+Die Luftschiffwerft von "Bertram and Frederick" Co. öffnet die Tür. Sie finden uns an der nordwestlichen Küste. 
+
+===== Dateiende =====

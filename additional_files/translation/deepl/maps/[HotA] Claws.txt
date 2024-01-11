@@ -1,0 +1,54 @@
+===== Kartenname =====
+Claws
+
+===== Kartenbeschreibung =====
+A legend says that when God created the world, he touched a sea surface with his palm. This is how the isle of claws, which became a center of attraction for different cults, came to being. 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+intro1
+Nachricht:
+You arrived to the isle from a continent. This isle could still be an hermitage for any kind of cultists, heretics and con artists until something unbelievable happened. Somehow four cults who had been fighting each other managed to find common ground and unite. Together they are a strength to be considered. 
+
+Name:
+intro2
+Nachricht:
+Our Holy Church proved long ago: God had never touched the waters of this world. This island is a game of forces of nature, or maybe the Devil's trick, but it’s not a print of the Creator's hand. So, you have an exclusive permission to cleanse this land of heretics, killing two birds with one stone: you may do a service both to the church and to your sovereign. 
+
+Name:
+AI resources daily
+Nachricht:
+
+
+===== Helden =====
+
+===== Objekte =====
+
+(5, 26, 0) ***Zufällige Stadt***
+Name:
+Minimus
+
+(9, 9, 0) ***Zufällige Stadt***
+Name:
+Ring
+
+(36, 4, 0) ***Zufällige Stadt***
+Name:
+Pointer
+
+(21, 4, 0) ***Zufällige Stadt***
+Name:
+Middle
+
+(37, 67, 0) ***Gold***
+Nachricht:
+You were about to touch the golden coins lying near the road, but from the nearest bushes the Leprechauns started to crawl out. "Hey, it’s our gold!", the ugliest one shouted.
+
+(36, 49, 0) ***Zufällige Stadt***
+Name:
+Palm
+
+===== Dateiende =====

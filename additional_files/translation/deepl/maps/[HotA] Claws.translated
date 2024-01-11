@@ -1,0 +1,54 @@
+===== Kartenname =====
+Krallen
+
+===== Kartenbeschreibung =====
+Eine Legende besagt, dass Gott, als er die Welt erschuf, mit seiner Handfläche eine Meeresoberfläche berührte. So entstand die Insel der Klauen, die zu einem Anziehungspunkt für verschiedene Kulte wurde. 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+intro1
+Nachricht:
+Sie kamen von einem Kontinent auf die Insel. Diese Insel könnte immer noch eine Einsiedelei für jede Art von Kultisten, Ketzern und Betrügern sein, bis etwas Unglaubliches geschah. Irgendwie schafften es vier Sekten, die sich gegenseitig bekämpft hatten, eine gemeinsame Basis zu finden und sich zu vereinen. Gemeinsam sind sie eine Kraft, die man nicht unterschätzen sollte. 
+
+Name:
+intro2
+Nachricht:
+Unsere Heilige Kirche hat vor langer Zeit bewiesen: Gott hat die Gewässer dieser Welt nie berührt. Diese Insel ist ein Spiel der Naturgewalten oder vielleicht ein Trick des Teufels, aber sie ist kein Abdruck der Hand des Schöpfers. Ihr habt also die exklusive Erlaubnis, dieses Land von Ketzern zu säubern und damit zwei Fliegen mit einer Klappe zu schlagen: Ihr könnt sowohl der Kirche als auch eurem Herrscher einen Dienst erweisen. 
+
+Name:
+AI resources daily
+Nachricht:
+
+
+===== Helden =====
+
+===== Objekte =====
+
+(5, 26, 0) ***Zufällige Stadt***
+Name:
+Minimus
+
+(9, 9, 0) ***Zufällige Stadt***
+Name:
+Ring
+
+(36, 4, 0) ***Zufällige Stadt***
+Name:
+Pointer
+
+(21, 4, 0) ***Zufällige Stadt***
+Name:
+Middle
+
+(37, 67, 0) ***Gold***
+Nachricht:
+Du wolltest gerade die Goldmünzen anfassen, die neben der Straße lagen, aber aus dem nächsten Gebüsch krochen die Kobolde hervor. "Hey, das ist unser Gold!", rief der hässlichste von ihnen.
+
+(36, 49, 0) ***Zufällige Stadt***
+Name:
+Palm
+
+===== Dateiende =====

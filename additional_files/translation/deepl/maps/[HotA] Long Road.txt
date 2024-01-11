@@ -1,0 +1,65 @@
+===== Kartenname =====
+Long Road
+
+===== Kartenbeschreibung =====
+The struggle of two sovereigns have reminded a tug of war for decades. It is no surprise: the only road bounds the capitals of two kingdoms, and villages are doomed to change hands. But recently the spies of your enemy were discovered deep beyond the defense line. Could a back-way appear somewhere? 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Day1
+Nachricht:
+You fell to thinking. How could it be that the enemy’s spies were discovered deep beyond the line of defense? They surely could not slip by your fortified garrisons, as through all the centuries your kingdom has existed, the only road binding all the towns, like beads on a thread, have existed. 
+
+Name:
+Day1 part2
+Nachricht:
+You heard that these lands had been regions of an ancient country long ago, and its inhabitants mastered a secret of moving to very long distances. However, this knowledge had been lost many years ago, and even your best sorcerers were unable to discover the mystery of such travels. Maybe little pieces of such knowledge are still preserved somewhere at the countryside ruined by war, but unfortunately it is definitely not in your capital. 
+
+===== Helden =====
+
+===== Objekte =====
+
+(16, 22, 0) ***Schild***
+Nachricht:
+This way shall only open to those who mastered the ancient secrets of light and darkness. 
+
+(18, 1, 0) ***Ereignis***
+Nachricht:
+Beyond this garrison begin the disputed lands, battles for which are particularly cruel. There is no opportunity to maintain the road in a due state here, and rubble which somewhere replaced the paved stone of the capital, is replaced with a well-footworn ground. 
+
+(34, 18, 0) ***Ereignis***
+Nachricht:
+A poor footworn path ended when you entered into a swampy grove. But even here there is a kind of a road: a brook swirls and snaggles in the brushing and thick bog, thus making a hard but safe way for strangers.  
+
+(3, 33, 0) ***Ereignis***
+Nachricht:
+A mystical obelisk built here long before the first state ever appeared, divides the road in two. We could leave our quarrels behind, and each state would possess its own side of the road. But how can you stay only halfway? 
+
+(34, 34, 0) ***Ereignis***
+Nachricht:
+It seems you found the root of all evil. The ruins behind the monsters shine with a magic light. Can it be that forgotten roads and crossroads are alive again, and your enemy already uses it all in full? 
+
+(19, 19, 1) ***Schild***
+Nachricht:
+This way shall only open to those who mastered the ancient secrets of light and darkness. 
+
+(3, 34, 1) ***Ereignis***
+Nachricht:
+It seems you found the root of all evil. The ruins behind the monsters shine with a magic light. Can it be that forgotten roads and crossroads are alive again, and your enemy already uses it all in full? 
+
+(32, 33, 1) ***Ereignis***
+Nachricht:
+A mystical obelisk built here long before the first state ever appeared, divides the road in two. We could leave our quarrels behind, and each state would possess its own side of the road. But how can you stay only halfway? 
+
+(1, 28, 1) ***Ereignis***
+Nachricht:
+A poor footworn path ended when you entered into a swampy grove. But even here there is a kind of a road: a brook swirls and snaggles in the brushing and thick bog, thus making a hard but safe way for strangers.  
+
+(14, 1, 1) ***Ereignis***
+Nachricht:
+Beyond this garrison begin the disputed lands, battles for which are particularly cruel. There is no opportunity to maintain the road in a due state here, and rubble which somewhere replaced the paved stone of the capital, is replaced with a well-footworn ground. 
+
+===== Dateiende =====

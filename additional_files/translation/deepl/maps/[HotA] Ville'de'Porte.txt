@@ -1,0 +1,183 @@
+===== Kartenname =====
+Ville'de'Porte
+
+===== Kartenbeschreibung =====
+One of the Erathian headquarters on the Filato isle had used to be a cash cow for smugglers until the whole army of elementals invaded it. Now chaos reigns there, and no one knows what happens there. Fortunately, Bidley navigated by the isle that time.
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+ìèíóñ ðåñû
+Nachricht:
+
+
+Name:
+Íà÷àëî 1-1
+Nachricht:
+Landing on the shores of Filato disturbs me a lot, I don’t know a thing about what’s happening on this goddamn isle. Why does it seem to me I’m gonna regret about it? Maybe it’s obscurity of everything around that frightens me? Yet still I feel curiosity fills me, I’m tempted to move to this mysterious impassable jungle. Well, since I’m here, I’m to clear up everything happening.
+
+Name:
+Íà÷àëî 1-2
+Nachricht:
+My crew decided to stay on the ship, these vultures are afraid of plain trees! Okay, I’m gonna endure without’em, considering some Erathians joined me. They have the same question as me in their minds: what happens on the isle? We’d shed light on it and get out of here, my curiosity may not end up well in time.
+
+Name:
+Íà÷àëî 2-1
+Nachricht:
+It’s a bit strange the Erathians don’t even try to return the town of Seviheart. Can it be that “the Great Erathia” is afraid of a bunch of elementals? However, who knows, maybe there’s much more of’em than I think.
+
+Name:
+Òîííåëè 
+Nachricht:
+Long ago there were many Nighonian villages under this isle, so there are small tunnel nets under the ground. Maybe the Erathians would use it to attack Seviheart.
+
+===== Helden =====
+
+===== Objekte =====
+
+(33, 21, 0) ***Schloss***
+Name:
+Crawley
+
+(3, 5, 0) ***Ereignis***
+Nachricht:
+
+
+(19, 34, 0) ***Aufgaben-Wächter***
+Nachricht:
+You haven’t forgotten to bring the shackles of war to the seer, have you?
+
+(16, 34, 0) ***Ereignis***
+Nachricht:
+
+
+(8, 32, 0) ***Hütte des Sehers***
+Nachricht:
+I only have {one} gem, so if you bring me a pair of trinkets, I’ll give it to you.
+Oh, Sword of Hellfire and Vampire’s Cowl is definitely what I need! Here’s the reward I’ve promised. Do you want to take it now?
+
+(25, 12, 0) ***Schild***
+Nachricht:
+Accepting trinkets, offering {gems} instead.
+
+(13, 3, 0) ***Ereignis***
+Nachricht:
+What could magi have forgotten here? They’re definitely here not for a cup of tea. Unfortunately, nothing prevents them from preparing to battle.
+
+(1, 13, 0) ***Schild***
+Nachricht:
+Virtheguest gat
+
+(3, 2, 0) ***Ereignis***
+Nachricht:
+These griffins couldn’t do any harm, but later there can be stronger creatures, so I {can’t lose even one archer}.
+
+(14, 14, 0) ***Schloss***
+Name:
+Seviheart
+
+(3, 17, 0) ***Ereignis***
+Nachricht:
+Don’t try to block the road of Christian, otherwise you won’t pass further!
+
+(21, 19, 0) ***Ereignis***
+Nachricht:
+
+
+(21, 17, 0) ***Ereignis***
+Nachricht:
+Many citizens were hiding from Elementalists and now they were ready to help in freeing the town.
+
+(16, 15, 0) ***Ereignis***
+Nachricht:
+
+
+(1, 7, 0) ***Hütte des Sehers***
+Nachricht:
+It’s simple, you defeat dwarves on the east, you get archers!
+Here you go!
+
+(8, 4, 0) ***Ereignis***
+Nachricht:
+
+
+(9, 4, 0) ***Aufgaben-Wächter***
+Nachricht:
+You couldn’t have lost the pendant, right?
+You couldn’t have lost the pendant, right?
+Ok, you may pass, but remember – not even an archer.
+
+(3, 19, 0) ***Ereignis***
+Nachricht:
+{Delete ALL units that didn't die in previous battles}
+
+(19, 28, 0) ***Ereignis***
+Nachricht:
+Get rid of your former army!
+
+(6, 23, 1) ***Ereignis***
+Nachricht:
+Believe me, that’s gonna serve you!
+
+(30, 2, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(31, 29, 1) ***Schloss***
+
+Getimete Ereignisse:
+
+Name:
+ìèíóñ ðåñû
+Nachricht:
+
+
+(31, 31, 1) ***Ereignis***
+Nachricht:
+Green is dead
+
+(2, 33, 1) ***Pandoras Kiste***
+Nachricht:
+Just chill and relax
+
+(8, 24, 1) ***Ereignis***
+Nachricht:
+   -"Manfred? What the hell are you doing here?"	   -"I was caught in the Elementalists’ trap. You know our brotherhood would never rescue anyone if you won’t promise a reward. I’ve already started to think I’m gonna die in this goddamn prison, if you won’t release me, for sure."	   -"Gonna do that, but I need your help."	   -"I’ll help you the way you wish, just release me. You can’t imagine how much I’m sick and tired of sitting here."
+
+(28, 29, 1) ***Ereignis***
+Nachricht:
+Just as expected, the Erathians used the old ways of Nighonians and built their headquarters there, thus making a base for themselves to attack. But their assault failed, and now it’s only left to defeat the remnants of their army (yes, the remnants).
+
+(23, 32, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(15, 24, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(3, 34, 1) ***Aufgaben-Wächter***
+Nachricht:
+Once the town of Seviheart is safe, you may pass.
+The guards still beware of Edric, so they won’t let you pass.
+It’s only left to go through the portal far in the tunnel.
+
+(34, 13, 1) ***Schwefel***
+Nachricht:
+What’s the use of this sulfur?
+
+(23, 4, 1) ***Hellebardenträger***
+Nachricht:
+Now Manfred had to help Bidley in searching the underground. But the Erathian navy is coming very soon, so Bidley is to prepare Seviheart to defense. {When Bidley is ready to defend the town}, Manfred can hit the trail.
+
+(27, 4, 1) ***Ereignis***
+Nachricht:
+
+
+(26, 4, 1) ***Pikenier***
+Nachricht:
+Now Bidley can hire a small squad to defend Seviheart.
+
+===== Dateiende =====

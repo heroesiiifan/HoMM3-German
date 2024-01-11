@@ -32,8 +32,6 @@ zipObj = ZipFile('_out/HoMM3DE_HD.zip', 'w', zipfile.ZIP_STORED)
 zipObj.write(os.path.join("additional_files/hd", "#de.ini"), arcname=os.path.join("Lang", "#de.ini"))
 zipObj.write(os.path.join("additional_files/hd", "Pack.ini"), arcname=os.path.join("Packs/German", "Pack.ini"))
 
-zipObj.write(os.path.join("additional_files/hd", "H3.NoToLower.dll"), arcname=os.path.join("Packs/German", "H3.NoToLower.dll"))
-
 zipObj.write(os.path.join("_tmp/fnt/", "MedFont.fnt"), arcname=os.path.join("Common", "cham.fnt"))
 zipObj.write(os.path.join("additional_files/hd/def/", "icm011qe.def"), arcname=os.path.join("Common", "icm011qe.def"))
 zipObj.write(os.path.join("additional_files/hd/def/", "icm012qe.def"), arcname=os.path.join("Common", "icm012qe.def"))

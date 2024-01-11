@@ -1,0 +1,57 @@
+===== Kartenname =====
+Air Supremacy
+
+===== Kartenbeschreibung =====
+Airships open new prospects not only for trade, but also for war. The far-away coasts, unreachable before these days, are already waiting their pioneers. But doesn’t an armada of enemy’s airship fly to you from behind the mountains? 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Day1
+Nachricht:
+Without a big interest you look through the inviting letter from a company a messenger delivered to you. Some merchants colorfully describe how their ships “fly by air”, and how that would change the very understanding of economy. They promise prosperity to your land in exchange to a good sum of investments in their business. “What a nonsense! How could a ship fly? Only a little child fooled by a magician on a fair could believe that. Who do they think I am?!” – with that said, you crumple the letter and throw it on the floor.
+
+Name:
+Day2
+Nachricht:
+Everyone in your court only discusses the magical airships. The news about the people calling themselves “artificers” and really taking everyone who wants it for a ride in the sky spreading too fast. Involuntarily you think, what if some madmen really constructed a flying ship? The safety of your land owes a lot to the coasts no ship can either leave or moor to. But what if some bandits would sail up to the coast, and then just move their ship to the air and fly above the sharp cliffs? 
+
+Name:
+Dream1
+Nachricht:
+You had a nightmare: first, you only saw a clear sky, but then silhouettes of monsters floating in the sky appeared from behind the horizon. There were griffins, manticores, dragons, and even the creatures that can’t fly by nature. With them moving closer, you could see them in detail and with fright realized these were no monsters, but rather something much more disgusting – endless ragged spheres filled with hot air, only looking like monsters because of their form and color. They filled the sky, encircling you tightly. They start to suppress on you. You can't breathe, you are trapped from all sides by pneumatic monsters. You wake up with a groan.
+
+Name:
+Day3
+Nachricht:
+Having recovered from your nightmare, you understand that maybe the ghoulish dream prevented you from a grave mistake. The day before you had gone to sleep with a thought on gathering your army and tearing down the dockyards of airships. Everything would be as it used to be, your disturbances would be laid to rest. But if these, uhm, “Bertram and Frederick” hold the secret of making airships, how could you be sure no one else knows it? Maybe enemy’s airships are approaching cowardly to your peaceful land from their faraway yet unreachable states just right now? You shudder, and for some time you look with attention to the grotesque clouds moving in the sky. 
+
+Name:
+dream2
+Nachricht:
+You had a dream again. You are on a deck of an airship flying to the clouds with overwhelming speed. Everything around you screeching, swinging, moving. The construct is so wanky it may fall apart every second. Hundreds of feet of void are under you. A deep blackness dappled with stars is above you, and somewhere even higher is a little blown sphere, the only thing saving both the ship and you from a fall. But when you fly so high none have ever done, the sphere crumbles and you fall…
+
+Name:
+Day7
+Nachricht:
+Conquering new lands is a deed for courageous ones. To conquer the skies, one must be even braver. A king can’t be fainthearted. Not showing a sign of fear, you step on a deck of an airship. This one would fly you up higher than the towers of your castles, and even the snowy peaks of mountains. Would you fly high and be victorious, or fall to the earth, to the defeat?  
+
+===== Helden =====
+
+===== Objekte =====
+
+(37, 70, 0) ***Zufällige Stadt***
+Name:
+Skypoint
+
+(8, 40, 0) ***Schild***
+Nachricht:
+The airship dockyard of “Bertram and Frederick” Co. opens the door. You will find us at the northeastern coast. 
+
+(62, 31, 0) ***Schild***
+Nachricht:
+The airship dockyard of “Bertram and Frederick” Co. opens the door. You will find us at the northwestern coast. 
+
+===== Dateiende =====

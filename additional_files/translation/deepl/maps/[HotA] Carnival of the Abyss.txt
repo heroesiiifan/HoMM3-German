@@ -1,0 +1,605 @@
+===== Kartenname =====
+Carnival of the Abyss
+
+===== Kartenbeschreibung =====
+The latest voyage turned out a disaster for Mephala. Her ship was taken away to an unknown direction by storm, and then cast to the shores that looked desolate. But very soon she found herself in a center of bloody feast…
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Player - Start 1
+Nachricht:
+Ship wreckage and lifeless scenery around were the only things one could see from the shore after the disaster. The survivors were constantly stressed as the area frightened them with its silence. No bird, or animal, or any other living things, but only a soft sound of a river could be heard. Even a wind could bring no relief, the air here was soaked with the smell of fumes, and slowly fading clouds of smoke and ash were seen around.
+
+Name:
+Player - Start 2
+Nachricht:
+Pretty soon after you gathered what remained of your provision, some ships under red flags appeared on the horizon. One of the smaller ships moored, and then a group of demons who had been on the ship, landed and scattered in different directions. With only the few ones left from your crew, any warrior counts, so there is no use in fighting the demons now. You have to find any shelter or {fortifications to defend} from demons as soon as possible, and also {gather everything most necessary for us}.
+
+Name:
+AI - No gems
+Nachricht:
+
+
+Name:
+AI Start - No resourses
+Nachricht:
+
+
+Name:
+Player - Start 3
+Nachricht:
+A band of demons got on your scent, so you have no time. You only have to run, but do not get too far from them as you can make some use of the ungathered resources in the future.
+
+Name:
+Player - 1
+Nachricht:
+Every year the demons who live in these lands go for a hunt for different underground and swamp creatures to have fun and get some resources. During the hunt they compete each other, and different clans start to kill each other because of trophies they cannot share. But in the local tavern they say that this time a prey has a plan to become a hunter – the creatures demons hunted for so long, have chosen their mighty chiefs who united them.
+
+Name:
+Player - 2
+Nachricht:
+Only few weeks left before the Carnival of the Abyss starts, and that means bloody chaos unleashing upon these lands very soon. Every side would try to defeat other ones, and you seem to be right in the center of these events. You cannot leave this land that easy as the navy of the demons patrols the sea around these lands and is supported from the land. You have either to capture the local centers of production, or to raise it.
+
+Name:
+Player - 3
+Nachricht:
+Judging on the movements starting nearby, the Carnival of the Abyss have already started, so you need to prepare your troops to the battle. The attacks will be stronger every time, so you should be ready to flee. They say the underground lords are to attack in a week approximately. Maybe it is a good idea to strike them first before they do anything?
+
+Name:
+AI - Bonus Gold
+Nachricht:
+
+
+Name:
+Player - Time (431)
+Nachricht:
+Your scouts report you more and more about the punishing forces of demons. They say they will be here in a month. Whether it is true or not, you are to make haste anyway…
+
+Name:
+Player - The end is near (531)
+Nachricht:
+The main forces of demons arrived, so you have nearly no time left. There is still possibly a hope for success…
+
+===== Helden =====
+
+===== Objekte =====
+
+(34, 12, 0) ***Inferno***
+Name:
+Alucard
+
+Getimete Ereignisse:
+
+Name:
+Player - Town Hall
+Nachricht:
+
+
+Name:
+Red AI - No Ore
+Nachricht:
+
+
+(30, 8, 0) ***Schild***
+Nachricht:
+Dead end
+
+(57, 34, 0) ***Inferno***
+Name:
+Graphyor
+
+Getimete Ereignisse:
+
+Name:
+Red AI - Start
+Nachricht:
+
+
+Name:
+Red AI - Upgrades
+Nachricht:
+
+
+Name:
+Red AI - Build Tavern + Bonus (317)
+Nachricht:
+
+
+Name:
+Red AI - Bonus gold
+Nachricht:
+
+
+(17, 33, 0) ***Inferno***
+Name:
+Agy-Talto
+
+Getimete Ereignisse:
+
+Name:
+Orange AI - Start
+Nachricht:
+
+
+(7, 57, 0) ***Inferno***
+Name:
+Agnyrto
+
+Getimete Ereignisse:
+
+Name:
+Orange AI - Start
+Nachricht:
+
+
+Name:
+Orange AI - Bonus 2
+Nachricht:
+
+
+Name:
+Orange AI - Bonus 3 (411)
+Nachricht:
+
+
+(51, 65, 0) ***Festung***
+Name:
+Quentamore
+
+Getimete Ereignisse:
+
+Name:
+Purple AI - Shipyard + Bonus (243)
+Nachricht:
+
+
+Name:
+Purple AI - Bonus
+Nachricht:
+
+
+(50, 8, 0) ***Echsenkrieger***
+Nachricht:
+These are our valuables, get out of here!
+
+(51, 12, 0) ***Aufgaben-Wächter***
+Nachricht:
+Defeat the pursuers, and you may pass. But do not stay here for long, you will make a lot of use from this place.
+Defeat the pursuers, and you may pass. 
+You may pass.
+
+(45, 10, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(32, 17, 0) ***Aufgaben-Wächter***
+Nachricht:
+You can open the way to the lake of fire for some resources.
+You can open the way to the lake of fire for some resources.
+You may pass.
+
+(65, 16, 0) ***Hütte des Sehers***
+Nachricht:
+I will teach you my secret tricks of attack for a fee.
+I will teach you my secret tricks of attack for a fee.
+Let’s start!
+For an additional fee you may hire my best archers.
+For an additional fee you may hire my best archers.
+The archers are ready!
+Bring me a purse like that, I will exchange it for an endless bag.
+Bring me a purse like that, I will exchange it for an endless bag.
+Here you go.
+I also have armor weakening the magic spells. I can sell it to you for a right price.
+The armor awaits.
+Great to do a deal with you! Oh, yes, before I forget to say this, find the guy I know west from here on the neighbor peninsula, he experiments with different things and would not refuse any help. I think he can offer you something worthy to resist the demon magic.
+
+(71, 12, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(17, 23, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(18, 22, 0) ***Aufgaben-Wächter***
+Nachricht:
+For the price of 4 sulfur, ore, wood and 2100 gold you may hire 18 pirates.
+For the price of 4 sulfur, ore, wood and 2100 gold you may hire 18 pirates.
+Cash in advance!
+
+(17, 22, 0) ***Pirat***
+Nachricht:
+Search for our people in the underwater caves, they would join you for a right price too.
+
+(46, 25, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(15, 27, 0) ***Hütte des Sehers***
+Nachricht:
+Would you be interested in transforming water energy to fire energy? A guy I know will be definitely interested in the results!
+Would you be interested in transforming water energy to fire energy? A guy I know will be definitely interested in the results!
+Voila!
+Thank you for letting me conduct this experiment.
+As an additional reward, I can teach you some tricks in magic.
+If you want to become more powerful, I have quite an uneasy task for you.
+Bring me this cloak, and I will show you how to fight.
+I didn’t think you would succeed in bringing it to me. Well, let’s start the training!
+
+(24, 55, 0) ***Hütte des Sehers***
+Nachricht:
+Bring me one rust dragon, and I will give one of my artificial sources of life.
+Bring me one rust dragon, and I will give one of my artificial sources of life.
+Don’t let it fall down!
+
+(39, 6, 0) ***Hütte des Sehers***
+Nachricht:
+I will exchange this pendant to any other by your choice.
+I will exchange this pendant to any other by your choice.
+It’s yours.
+I will exchange this pendant to any other by your choice.
+I will exchange this pendant to any other by your choice.
+It’s yours.
+I will exchange this pendant to any other by your choice.
+I will exchange this pendant to any other by your choice.
+It’s yours.
+I will exchange this pendant to any other by your choice.
+I will exchange this pendant to any other by your choice.
+It’s yours.
+
+(58, 27, 0) ***Hütte des Sehers***
+Nachricht:
+Help only to those who deserves it!
+Help only to those who deserves it!
+Here’s the help!
+I also have some observations on water magic. Bring me your best mage!
+I also have some observations on water magic. Bring me your best mage!
+I think you will be interested in this.
+Thank you for listening to me. You really deserve more!
+Thank you for listening to me. You really deserve more!
+Here is your reward, on the west they may offer something really worthy to you…
+
+(31, 8, 0) ***Anhänger des Todes***
+Nachricht:
+They can pay a good price for such an ancient pendant. They say on the neighbor coast there is an unusual market of different antiques, maybe it is a good idea to search for it?
+
+(50, 51, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(26, 27, 0) ***Aufgaben-Wächter***
+Nachricht:
+Our market is not a place for the poor, you can only pass after you pay!
+Our market is not a place for the poor, you can only pass after you pay!
+Well, no fake gems, you may pass.
+
+(49, 69, 0) ***Ereignis***
+Nachricht:
+
+
+(54, 35, 0) ***Pandoras Kiste***
+Nachricht:
+
+
+(49, 3, 0) ***Ereignis***
+Nachricht:
+Purple AI - Bonus
+
+(21, 21, 0) ***Aufgaben-Wächter***
+Nachricht:
+If you have wood, there is a boat.
+If you have wood, there is a boat.
+If you have wood, there is a boat.
+
+(26, 13, 0) ***Aufgaben-Wächter***
+Nachricht:
+Not the right time yet.
+Not the right time yet.
+The way is open.
+
+(6, 31, 0) ***Schild***
+Nachricht:
+Help needed! I offer a cloak with unusual qualities as a reward.
+
+(7, 30, 0) ***Hütte des Sehers***
+Nachricht:
+Hello.I’ve heard you fight local demons, and they master powerful magic, right? Well, I have Recanter’s Cloak, and I’m ready to give it to you if you complete three tasks for me. I need a lot of resources for my experiments in magic, so these will be your first task. I will tell you about the other quests later.
+Not enough. Please don’t waste our time.
+That’s good. Ok, let’s pass to the second quest.
+Now I don’t want anyone bother me, so you are to find the good guards for me, preferably local ones.
+Er?
+Great! So, the last task.
+I don’t need the cloak; it would only prevent me from experimenting. But the armor only weakening the magic would be useful. I don’t want to burn myself, you know…
+Any success?
+I hope you aren’t angry at my huge requests. But deal is the deal. Now the cloak is yours.
+
+(43, 13, 0) ***Aufgaben-Wächter***
+Nachricht:
+Defeat the pursuers, and you may pass. 
+Defeat the pursuers, and you may pass.
+Welcome!
+
+(8, 27, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus art
+
+(0, 14, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus art
+
+(8, 2, 0) ***Ereignis***
+Nachricht:
+
+
+(27, 3, 0) ***Ereignis***
+Nachricht:
+
+
+(50, 28, 0) ***Ereignis***
+Nachricht:
+Red AI - Bonus
+
+(38, 2, 0) ***Ereignis***
+Nachricht:
+The hut looks abandoned, but it may be useful to have a look on the inside, maybe you will learn something important…
+
+(3, 34, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(22, 29, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(67, 3, 0) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(26, 26, 0) ***Hütte des Sehers***
+Nachricht:
+Seeing over the mysterious tents, you were surprised on how many ancient trinkets and artifacts are stored there, but none of it had any value for you. Already having given up, you go to the exit, but you see a beautiful necklace in a form of dolphin on the bar closest to the exit.
+Seeing over the mysterious tents, you were surprised on how many ancient trinkets and artifacts are stored there, but none of it had any value for you. Already having given up, you go to the exit, but you see a beautiful necklace in a form of dolphin on the bar closest to the exit.
+Take it!
+
+(25, 2, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(56, 13, 1) ***Aufgaben-Wächter***
+Nachricht:
+The local pirates will be glad to help you for a fee.
+The local pirates will be glad to help you for a fee.
+Cash first.
+
+(26, 4, 1) ***Aufgaben-Wächter***
+Nachricht:
+Right before the monolith a strange silhouette was standing, whispering unstoppably something undecipherable. When you got closer to him, he fell silent, and in a moment started talking again, but now you could understand every word: “Anyone who needs to go through must offer a little part of what he acquired…”
+Right before the monolith a strange silhouette was standing, whispering unstoppably something undecipherable. When you got closer to him, he fell silent, and in a moment started talking again, but now you could understand every word: “Anyone who needs to go through must offer a little part of what he acquired…”
+The portal opened, and the silhouette disappeared leaving a little message on a burnt page after it: “The Carnival time gets closer, only few would be ready to help you… But for {gems} you may get what you need from the locals…”
+
+(18, 59, 1) ***Hütte des Sehers***
+Nachricht:
+I have Angel Feather Arrows, and I’m ready to give it to you for a right price.
+I have Angel Feather Arrows, and I’m ready to give it to you for a right price
+You can get it, as promised.
+
+(39, 31, 1) ***Dungeon***
+Name:
+Darnhad
+
+Getimete Ereignisse:
+
+Name:
+Purple AI - Start
+Nachricht:
+
+
+Name:
+Pink AI - Tavern + Bonus (242) - Critical
+Nachricht:
+
+
+Name:
+Pink AI - Bonus gold
+Nachricht:
+
+
+(29, 28, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(30, 29, 1) ***Aufgaben-Wächter***
+Nachricht:
+For 18 gems you may get 4 behemoths and a scroll of haste. But it’s not that simple.
+
+(53, 25, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(44, 33, 1) ***Aufgaben-Wächter***
+Nachricht:
+Finish him!
+
+(36, 15, 1) ***Magog***
+Nachricht:
+Our lord shall burn you to ashes!!
+
+(1, 57, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(27, 64, 1) ***Ereignis***
+Nachricht:
+THEY ARE ON THE TREES!
+
+(51, 54, 1) ***Aufgaben-Wächter***
+Nachricht:
+Only for the chosen!
+Only for the chosen!
+The barrier is dispelled.
+
+(58, 43, 1) ***Hütte des Sehers***
+Nachricht:
+Wow! Could it happen that someone who needs some real weapons, not rubbish, arrived to me. Well, you came to the right place, but I’ve lost my instruments long ago. But if you bring me the resources wor a new workshop, I could return to my work, and give the first-class weapons to some of your warriors. For example, your behemoths will be unbeatable in battle, and your enemies shall flee only seeing them! Well, what would you say then?
+If you don’t want it, let it be so. But if you change your mind, you know where to find me.
+Well, that’s a workshop to dream of, my brother would be really envy! Hmm, he is a sort of a blacksmith, too, but of a different kind. He experiments with sea monsters and studies them. Search for him, his service may be of use to you. Well, enough talk – let’s start!
+Just say, and I’ll make your behemoths unbeatable!
+Just say, and I’ll make your behemoths unbeatable!
+Finished!
+
+(71, 28, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(11, 25, 1) ***Zauberspruchrolle***
+Nachricht:
+The scroll is in surprisingly good state, and seems to have been used recently. Maybe its proprietor is still alive and stays somewhere around?
+
+(63, 1, 1) ***Aufgaben-Wächter***
+Nachricht:
+For 8 gems you can get a scroll of Slow spell.
+Welcome!
+
+(52, 3, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(42, 34, 1) ***Ereignis***
+Nachricht:
+Ambush!
+
+(1, 65, 1) ***Ereignis***
+Nachricht:
+
+
+(47, 52, 1) ***Hütte des Sehers***
+Nachricht:
+For a right price I can make better any Sea Serpents you bring here.
+So poor now?
+Just give me my reward, and let’s start!
+Get them here to get them upgraded.
+Get them here to get them upgraded.
+Here they are!
+A discount for an established customer!
+So poor now?
+Just give me my reward, and let’s start!
+
+(5, 64, 1) ***Ereignis***
+Nachricht:
+
+
+(21, 35, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(71, 69, 1) ***Pandoras Kiste***
+Nachricht:
+
+
+(1, 68, 1) ***Quest Gate***
+Nachricht:
+Once you know the pain… or maybe not.
+Or maybe not.
+
+(0, 69, 1) ***Pandoras Kiste***
+Nachricht:
+Daath
+
+(45, 53, 1) ***Flaschenpost***
+Nachricht:
+apm training simulator v2.0
+
+(42, 28, 1) ***Ereignis***
+Nachricht:
+Pink AI - Bonus
+
+(10, 38, 1) ***Ereignis***
+Nachricht:
+Purple AI - Bonus
+
+(0, 3, 1) ***Ereignis***
+Nachricht:
+Purple AI - Bonus
+
+(61, 60, 1) ***Aufgaben-Wächter***
+Nachricht:
+Why not?
+Why not?
+Why not?
+
+(3, 0, 1) ***Aufgaben-Wächter***
+Nachricht:
+An interesting place…
+An interesting place…
+The way is open.
+
+(58, 16, 1) ***Aufgaben-Wächter***
+Nachricht:
+The local pirates will be glad to help you for a fee.
+The local pirates will be glad to help you for a fee.
+Cash first.
+
+(54, 2, 1) ***Schild***
+Nachricht:
+To the underground cages, don’t feed the monsters!
+
+(13, 63, 1) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(57, 42, 1) ***Schild***
+Nachricht:
+apm training simulator
+
+(47, 18, 1) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(51, 39, 1) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(33, 27, 1) ***Ereignis***
+Nachricht:
+Orange AI - Bonus
+
+(39, 20, 1) ***Flaschenpost***
+Nachricht:
+
+
+(50, 31, 1) ***Flaschenpost***
+Nachricht:
+
+
+(6, 7, 1) ***Aufgaben-Wächter***
+Nachricht:
+For some fee you may rebuild the Basilisk Pit.
+For some fee you may rebuild the Basilisk Pit.
+Done.
+
+(16, 16, 1) ***Aufgaben-Wächter***
+Nachricht:
+Local elf mercenaries are ready to help us if we rebuild their homesteads.
+Local elf mercenaries are ready to help us if we rebuild their homesteads.
+Done!
+
+(19, 17, 1) ***Aufgaben-Wächter***
+Nachricht:
+Local elf mercenaries are ready to help us if we rebuild their homesteads.
+Local elf mercenaries are ready to help us if we rebuild their homesteads.
+Done!
+
+(15, 36, 1) ***Aufgaben-Wächter***
+Nachricht:
+Key needed.
+Key needed.
+The way is open.
+
+(55, 51, 1) ***Flaschenpost***
+Nachricht:
+
+
+===== Dateiende =====

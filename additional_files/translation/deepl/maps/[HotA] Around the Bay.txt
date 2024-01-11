@@ -1,0 +1,20 @@
+===== Kartenname =====
+Around the Bay
+
+===== Kartenbeschreibung =====
+You will face a classic battle against three active neighbours on this scenic horseshoe-like island. 
+
+===== Gerüchte =====
+
+===== Getimete Ereignisse =====
+
+Name:
+Day 1
+Nachricht:
+You welcome the dawn standing on a balcony oh the highest tower of your castle. For some time you admire the views opening to you from the height: mountain peaks, tips of spruces, silhouettes of far-away forts. All of that drowns in a dense morning fog. Your opponents hide somewhere in this silvery darkness. A new day begins, and you inhale the fresh air with a noise. Today is a day of a good fight! 
+
+===== Helden =====
+
+===== Objekte =====
+
+===== Dateiende =====
