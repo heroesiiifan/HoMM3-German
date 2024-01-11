@@ -1,7 +1,0 @@
-"{Tempel der Loyalität}
-
-Du betest in einem ungewöhnlichen Tempel und hast plötzlich das Gefühl, dass es die Entschlossenheit deiner Truppen gestärkt hat."
-(Moralabzug der gemischten Fraktion bis zur nächsten Runde negiert)
-"{Tempel der Loyalität}
-
-Das Gebet im Tempel der Loyalität hilft, die Truppen zusammenzuführen, allerdings ist Ihre Armee bereits geeint."

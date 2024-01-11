@@ -1,3 +1,0 @@
-{Spähen}
-
-Erhöht den Erkundungsradius um 1 für alle 6 Stufen.

@@ -1,50 +1,382 @@
+4,6c4,6
+< "{Stufe %d}
+< 
+< {Nächste Stufe:} %d
+---
+> "{Stufe %d}
+> 
+> {Nächste Stufe:} %d
+37,38c37,38
+< "%s sagt:
+< 
+---
+> "%s sagt:
+> 
 43,44c43,44
 < Angriff %s (%s Schaden)
 < Schuss %s (1 Schuss übrig, %s Schaden)
 ---
 > Angriff %s (Schaden: %s)
 > Schuss %s (1 Schuss übrig, Schaden: %s)
+61,62c61,62
+< "{Weltkarte}
+< 
+---
+> "{Weltkarte}
+> 
+68c68
+< "Hier ist nichts.
+---
+> "Hier ist nichts.
+77c77
+< "Seid Ihr sicher, dass Ihr neu starten wollt?
+---
+> "Seid Ihr sicher, dass Ihr neu starten wollt?
+79c79
+< "Seid Ihr sicher, dass Ihr ein neues Spiel laden wollt?
+---
+> "Seid Ihr sicher, dass Ihr ein neues Spiel laden wollt?
 82c82
 < Dimensionstor hat versagt! 
 ---
 > Sie können sich mit einer Dimensionstür nicht vom Meer an Land oder umgekehrt teleportieren. 
+108,110c108,110
+< "Glückwunsch!
+< Eure Punktzahl wird in der Hall Of Fame eingetragen
+< 
+---
+> "Glückwunsch!
+> Eure Punktzahl wird in der Hall Of Fame eingetragen
+> 
 119c119
 < Eure Anfangsstadt wird zufällig aus acht verschiedenen Stadttypen ausgesucht.
 ---
 > Eure Anfangsstadt wird zufällig ausgesucht.
+121,126c121,126
+< "Die Heroes III: %s CD-ROM wurde nicht gefunden!
+< 
+< %s benötigt eine CD für Einzelszenario-Spiele, Kampagnenspiele und für das Hosten von Multiplayerspielen.  
+< 
+< Für die Teilnahme an einem Multiplayerspiel, das von einem anderen Spieler gehostet wird, wird keine CD benötigt und Sie können fortfahren.
+< 
+---
+> "Die Heroes III: %s CD-ROM wurde nicht gefunden!
+> 
+> %s benötigt eine CD für Einzelszenario-Spiele, Kampagnenspiele und für das Hosten von Multiplayerspielen.  
+> 
+> Für die Teilnahme an einem Multiplayerspiel, das von einem anderen Spieler gehostet wird, wird keine CD benötigt und Sie können fortfahren.
+> 
+130,131c130,131
+< "{Statusfenster}
+< 
+---
+> "{Statusfenster}
+> 
+138,139c138,139
+< "Meine Helden, unsere Feinde fliehen, ihre Burgen sind geschleift und stehen leer. Die große Kampagne ist nun beendet und ich stehe vor Euch als Euer unangefochtener, höchster König!
+< 
+---
+> "Meine Helden, unsere Feinde fliehen, ihre Burgen sind geschleift und stehen leer. Die große Kampagne ist nun beendet und ich stehe vor Euch als Euer unangefochtener, höchster König!
+> 
+174,175c174,175
+< "{Zauberpunkte}
+< 
+---
+> "{Zauberpunkte}
+> 
 178c178
 < Balliste
 ---
 > Artillerie-Maschine
+181,182c181,182
+< "
+< 
+---
+> "
+> 
+184,185c184,185
+< "
+< 
+---
+> "
+> 
+209c209
+< "IP-Adresse des Hosts eingeben.
+---
+> "IP-Adresse des Hosts eingeben.
+216,218c216,218
+< "Ang.
+< Ver.
+< Zkr.
+---
+> "Ang.
+> Ver.
+> Zkr.
+221c221
+< "Der Zauberspruch ""%s"" richtet %d Schaden
+---
+> "Der Zauberspruch ""%s"" richtet %d Schaden
+223c223
+< "Der Zauberspruch ""kleine Todeswelle"" richtet %d Schaden
+---
+> "Der Zauberspruch ""kleine Todeswelle"" richtet %d Schaden
+240,241c240,241
+< "
+< 
+---
+> "
+> 
+243,244c243,244
+< "
+< 
+---
+> "
+> 
+246,247c246,247
+< "{Zauberpunkte}
+< 
+---
+> "{Zauberpunkte}
+> 
+258c258
+< "%s, Stufe %d %s
+---
+> "%s, Stufe %d %s
+260c260
+< "Nach einem großzügigen Trinkgeld flüstert der Wirt:
+---
+> "Nach einem großzügigen Trinkgeld flüstert der Wirt:
+286,287c286,287
+< "{Erfahrung}
+< 
+---
+> "{Erfahrung}
+> 
+289,290c289,290
+< "{Ressourcen}
+< 
+---
+> "{Ressourcen}
+> 
+293,294c293,294
+< "Alle Kreaturen werden sich uns anschließen...
+< 
+---
+> "Alle Kreaturen werden sich uns anschließen...
+> 
+316c316
+< "Kreatur
+---
+> "Kreatur
+318c318
+< "Kreaturen
+---
+> "Kreaturen
 349c349
 < Schuss %s (%d Schuss übrig, %s Schaden)
 ---
 > Schuss %s (%d Schuss übrig, Schaden: %s)
+358,359c358,359
+< "
+< 
+---
+> "
+> 
 368c368
 < Diese Kreatur wurde bereits aufgerüstet.
 ---
 > Diese Kreatur kann hier nicht aufgerüstet werden.
-522c522
-< HEROES3 /S0 /I0
+398c398
+< "
 ---
-> h3hota /S0 /I0
-524c524
+> "
+419c419
+< "
+---
+> "
+421c421
+< "
+---
+> "
+430,431c430,431
+< "{Taktikphase}
+< 
+---
+> "{Taktikphase}
+> 
+438c438
+< "
+---
+> "
+440c440
+< "
+---
+> "
+475,476c475,476
+< "%s fühlt, dass die Chancen sehr schlecht stehen.
+< 
+---
+> "%s fühlt, dass die Chancen sehr schlecht stehen.
+> 
+484,485c484,485
+< "{Artefakt}
+< 
+---
+> "{Artefakt}
+> 
+487,488c487,488
+< "Ihr erreicht eine Behausung (%s). %s %s bewachen es.
+< 
+---
+> "Ihr erreicht eine Behausung (%s). %s %s bewachen es.
+> 
+490c490
+< "Es gibt hier keine %s zum rekrutieren.
+---
+> "Es gibt hier keine %s zum rekrutieren.
+492c492
+< "%d %s treten Eurer Armee bei.
+---
+> "%d %s treten Eurer Armee bei.
+507c507
+< "
+---
+> "
+514,524c514,524
+< "
+< ***Kommandozeilen-Hilfe***
+< 
+< /S0 - Sound und Musik abschalten
+< /I0 - Intro überspringen
+< 
+< Beispiel:
+< 
+< HEROES3 /S0 /I0
+< 
 < Startet Heroes III ohne Sound und ohne Intro.
 ---
+> "
+> ***Kommandozeilen-Hilfe***
+> 
+> /S0 - Sound und Musik abschalten
+> /I0 - Intro überspringen
+> 
+> Beispiel:
+> 
+> h3hota /S0 /I0
+> 
 > Startet Heroes III: HotA ohne Sound und ohne Intro.
+528c528
+< "HOTSEAT
+---
+> "HOTSEAT
+542c542
+< "Ihre IP Adresse:
+---
+> "Ihre IP Adresse:
+577,578c577,578
+< """%s"" existiert bereits.
+< 
+---
+> """%s"" existiert bereits.
+> 
+603c603
+< "Spielername
+---
+> "Spielername
+605c605
+< "Anfangs-
+---
+> "Anfangs-
+607c607
+< "Anfangs-
+---
+> "Anfangs-
+609c609
+< "Anfangs-
+---
+> "Anfangs-
 624c624
 < Kann Datei nicht öffnen - Video.vid
 ---
 > Fehler beim öffnen der Datei - Video.vid
+668c668
+< "Seid Ihr sicher, dass Ihr das tun wollt?
+---
+> "Seid Ihr sicher, dass Ihr das tun wollt?
+681,682c681,682
+< "
+< 
+---
+> "
+> 
+684c684
+< "
+---
+> "
 757c757
 < Kann Datei nicht öffnen - Heroes3.snd
 ---
 > Fehler beim öffnen der Datei - Heroes3.snd
+760,761c760,761
+< "Das zurücksetzen der High Scores wird alles, was Ihr erreicht habt, löschen.
+< 
+---
+> "Das zurücksetzen der High Scores wird alles, was Ihr erreicht habt, löschen.
+> 
+763c763
+< "
+---
+> "
+773c773
+< "Euer
+---
+> "Euer
+783,784c783,784
+< "Es gibt keine Spielstände zum Laden.
+< 
+---
+> "Es gibt keine Spielstände zum Laden.
+> 
+807,810c807,810
+< "{Unzureichender Speicherplatz}
+< 
+< Heroes III benötigt mindestens 5 MB freien Speicher auf dem aktuellen Laufwerk.
+< 
+---
+> "{Unzureichender Speicherplatz}
+> 
+> Heroes III benötigt mindestens 5 MB freien Speicher auf dem aktuellen Laufwerk.
+> 
+812,817c812,817
+< "{Unzureichender Speicherplatz}
+< 
+< Heroes III benötigt mindestens 1 MB freien Speicher auf dem aktuellen Laufwerk, um ein Spiel zu speichern.
+< 
+< Um ein gespeichertes Spiel zu löschen, markiert es und drückt auf STRG+ENTF.
+< 
+---
+> "{Unzureichender Speicherplatz}
+> 
+> Heroes III benötigt mindestens 1 MB freien Speicher auf dem aktuellen Laufwerk, um ein Spiel zu speichern.
+> 
+> Um ein gespeichertes Spiel zu löschen, markiert es und drückt auf STRG+ENTF.
+> 
+839,844c839,844
+< "Heroes III: %s CD-ROM gefunden.
+< 
+< Um Heroes III: %s zu spielen, benötigen Sie die %s CD.  
+< 
+< Für die Teilnahme an einem Multiplayerspiel, das von einem anderen Spieler gehostet wird, wird keine CD benötigt und Sie können fortfahren.
+< 
+---
+> "Heroes III: %s CD-ROM gefunden.
+> 
+> Um Heroes III: %s zu spielen, benötigen Sie die %s CD.  
+> 
+> Für die Teilnahme an einem Multiplayerspiel, das von einem anderen Spieler gehostet wird, wird keine CD benötigt und Sie können fortfahren.
+> 
 846c846
 < Der Host generiert eine Zufallskarte...
 ---
 > Der Host generiert eine Zufallskarte
-850c850
-< Shadow of Death-Kampagne auswählen
----
-> Horn of the Abyss-Kampagne auswählen

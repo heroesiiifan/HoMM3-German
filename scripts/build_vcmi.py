@@ -7,7 +7,7 @@ from os.path import basename
 import pathlib
 import shutil
 
-zipObj = ZipFile('_out/HoMM3DE_VCMI.zip', 'w', zipfile.ZIP_STORED)
+zipObj = ZipFile('_out/HoMM3DE_VCMI_veraltet.zip', 'w', zipfile.ZIP_STORED)
 
 zipObj.write(os.path.join("additional_files/vcmi", "mod.json"), arcname=os.path.join("", "mod.json"))
 
@@ -84,4 +84,4 @@ copy_and_overwrite("_tmp/chronicles/04_snd/", "_tmp/vcmi_chronicles/heroesChroni
 copy_and_overwrite("_tmp/chronicles/0708_snd/", "_tmp/vcmi_chronicles/heroesChronicles_v1.0/heroesChronicles/mods/07revoltOftheBeastmaster/content/sounds/")
 copy_and_overwrite("_tmp/chronicles/0708_snd/", "_tmp/vcmi_chronicles/heroesChronicles_v1.0/heroesChronicles/mods/08theSwordOfFrost/content/sounds/")
 
-shutil.make_archive("_out/HoMM3DE_VCMI_heroesChronicles_de_v1.0", 'zip', "_tmp/vcmi_chronicles")
+shutil.make_archive("_out/HoMM3DE_VCMI_heroesChronicles_de_v1.0_veraltet", 'zip', "_tmp/vcmi_chronicles")

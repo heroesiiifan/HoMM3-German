@@ -1,116 +1,84 @@
-// This file contains all translateable strings added in VCMI
 {
-	"adventureMap":
-	{
-		"monsterThreat" :
-		{
-			"title" : "\n\n Bedrohung: ",
-			"levels" :
-			[
-				"Mühelos",
-				"Sehr schwach",
-				"Schwach",
-				"Ein bisschen schwächer",
-				"Gleichauf",
-				"Ein bisschen stärker",
-				"Stark",
-				"Sehr Stark",
-				"Herausfordernd",
-				"Überwältigend",
-				"Tötlich",
-				"Unmöglich"
-			]
-		},
-		"confirmRestartGame" : "Seid Ihr sicher, dass Ihr das Spiel neu starten wollt?",
-		"noTownWithMarket": "Kein Marktplatz verfügbar!",
-		"noTownWithTavern": "Keine Stadt mit Taverne verfügbar!",
-		"spellUnknownProblem": "Unbekanntes Problem mit diesem Zauberspruch, keine weiteren Informationen verfügbar.",
-		"playerAttacked" : "Spieler wurde attackiert: %s"
-	},
-	"server" :
-	{
-		"errors" :
-		{
-			"existingProcess" : "Es läuft ein weiterer vcmiserver-Prozess, bitte beendet diesen zuerst",
-			"modsIncompatibility" : "Erforderliche Mods um das Spiel zu laden:"
-		}
-	},
-	"systemOptions" :
-	{
-		"fullscreenButton" :
-		{
-			"label" : "Vollbild",
-			"help"  : "{Fullscreen}\n\n Wenn ausgewählt wird VCMI im Vollbildmodus laufen, ansonsten im Fenstermodus"
-		},
-		"resolutionButton" :
-		{
-			"label" : "Auflösung",
-			"help"  : "{Select resolution}\n\n Ändert die Spielauflösung. Spielneustart ist erforderlich um neue Auflösung zu übernehmen."
-		},
-		"resolutionMenu" :
-		{
-			"label" : "Wähle Auflösung",
-			"help" : "Ändere die Spielauflösung."
-		}
-	},
-	"townHall" :
-	{
-		"missingBase" : "Basis Gebäude %s muss als erstes gebaut werden",
-		"noCreaturesToRecruit" : "Es gibt keine Kreaturen zu rekrutieren!",
-		"greetingManaVortex" : "Wenn Ihr Euch den %s nähert, wird Euer Körper mit neuer Energie gefüllt. Ihr habt Eure normalen Zauberpunkte verdoppelt.",
-		"greetingKnowledge" : "Ihr studiert die Glyphen auf dem %s und erhaltet Einblick in die Funktionsweise verschiedener Magie (+1 Wissen).",
-		"greetingSpellPower" : "Der %s lehrt Euch neue Wege, Eure magischen Kräfte zu bündeln (+1 Kraft).",
-		"greetingExperience" : "Ein Besuch bei den %s bringt Euch viele neue Fähigkeiten bei (+1000 Erfahrung).",
-		"greetingAttack" : "Nach einiger Zeit im %s könnt Ihr effizientere Kampffertigkeiten erlernen (+1 Angriffsfertigkeit).",
-		"greetingDefence" : "Wenn Ihr Zeit im %s verbringt, bringen Euch die erfahrenen Krieger dort zusätzliche Verteidigungsfähigkeiten bei (+1 Verteidigung).",
-		"hasNotProduced" : "Die %s hat noch nichts produziert.",
-		"hasProduced" : "Die %s hat diese Woche %d %s produziert.",
-		"greetingCustomBonus" : "%s gibt Ihnen +%d %s%s",
-		"greetingCustomUntil" : " bis zur nächsten Schlacht.",
-		"greetingInTownMagicWell" : "%s hat Eure Zauberpunkte wieder auf das Maximum erhöht."
-	},
-	"logicalExpressions" :
-	{
-		"anyOf"  :  "Eines der folgenden:",
-		"allOf"  :  "Alles der folgenden:",
-		"noneOf" : "Keines der folgenden:"
-	},
-  "heroWindow": 
-  {
-    "openCommander": 
-    {
-      "label": "Öffne Kommandanten-Fenster",
-      "help": "Zeige Informationen über Kommandanten dieses Helden"
-    }
-  },
-  "commanderWindow": 
-  {
-    "artifactMessage": "Möchtet Ihr diesen Artefakt dem Helden zurückgeben?"
-  },
-	"creatureWindow" :
-	{
-		"showBonuses" :
-		{
-			"label" : "Wechsle zur Bonus-Ansicht",
-			"help" : "Zeige alle aktiven Boni des Kommandanten"
-		},
-		"showSkills" :
-		{
-			"label" : "Wechsle zur Fertigkeits-Ansicht",
-			"help" : "Zeige alle erlernten Fertigkeiten des Kommandanten"
-		},
-		"returnArtifact" :
-		{
-			"label" : "Artefekt zurückgeben",
-			"help" : "Nutze diese Schaltfläche, um Stapel-Artefakt in den Rucksack des Helden zurückzugeben"
-		}
-	},
-	"questLog" :
-	{
-		"hideComplete" :
-		{
-			"label" : "Verstecke abgeschlossene Quests",
-			"help" : "Verstecke alle Quests die bereits abgeschlossen sind"
-		}
-	}
+	"vcmi.adventureMap.monsterThreat.title"     : "\n\n Bedrohung: ",
+	"vcmi.adventureMap.monsterThreat.levels.0"  : "Mühelos",
+	"vcmi.adventureMap.monsterThreat.levels.1"  : "Sehr schwach",
+	"vcmi.adventureMap.monsterThreat.levels.2"  : "Schwach",
+	"vcmi.adventureMap.monsterThreat.levels.3"  : "Ein bisschen schwächer",
+	"vcmi.adventureMap.monsterThreat.levels.4"  : "Gleichauf",
+	"vcmi.adventureMap.monsterThreat.levels.5"  : "Ein bisschen stärker",
+	"vcmi.adventureMap.monsterThreat.levels.6"  : "Stark",
+	"vcmi.adventureMap.monsterThreat.levels.7"  : "Sehr Stark",
+	"vcmi.adventureMap.monsterThreat.levels.8"  : "Herausfordernd",
+	"vcmi.adventureMap.monsterThreat.levels.9"  : "Überwältigend",
+	"vcmi.adventureMap.monsterThreat.levels.10" : "Tötlich",
+	"vcmi.adventureMap.monsterThreat.levels.11" : "Unmöglich",
+
+	"vcmi.adventureMap.confirmRestartGame"  : "Seid Ihr sicher, dass Ihr das Spiel neu starten wollt?",
+	"vcmi.adventureMap.noTownWithMarket"    : "Kein Marktplatz verfügbar!",
+	"vcmi.adventureMap.noTownWithTavern"    : "Keine Stadt mit Taverne verfügbar!",
+	"vcmi.adventureMap.spellUnknownProblem" : "Unbekanntes Problem mit diesem Zauberspruch, keine weiteren Informationen verfügbar.",
+	"vcmi.adventureMap.playerAttacked"      : "Spieler wurde attackiert: %s",
+
+	"vcmi.server.errors.existingProcess"     : "Es läuft ein weiterer vcmiserver-Prozess, bitte beendet diesen zuerst",
+	"vcmi.server.errors.modsIncompatibility" : "Erforderliche Mods um das Spiel zu laden:",
+	"vcmi.server.confirmReconnect"          : "Mit der letzten Sitzung verbinden?",
+
+	"vcmi.systemOptions.fullscreenButton.hover" : "Vollbild",
+	"vcmi.systemOptions.fullscreenButton.help"  : "{Fullscreen}\n\n Wenn ausgewählt wird VCMI im Vollbildmodus laufen, ansonsten im Fenstermodus",
+	"vcmi.systemOptions.resolutionButton.hover" : "Auflösung",
+	"vcmi.systemOptions.resolutionButton.help"  : "{Select resolution}\n\n Ändert die Spielauflösung. Spielneustart ist erforderlich um neue Auflösung zu übernehmen.",
+	"vcmi.systemOptions.resolutionMenu.hover"   : "Wähle Auflösung",
+	"vcmi.systemOptions.resolutionMenu.help"    : "Ändere die Spielauflösung.",
+
+	"vcmi.townHall.missingBase"             : "Basis Gebäude %s muss als erstes gebaut werden",
+	"vcmi.townHall.noCreaturesToRecruit"    : "Es gibt keine Kreaturen zu rekrutieren!",
+	"vcmi.townHall.greetingManaVortex"      : "Wenn Ihr Euch den %s nähert, wird Euer Körper mit neuer Energie gefüllt. Ihr habt Eure normalen Zauberpunkte verdoppelt.",
+	"vcmi.townHall.greetingKnowledge"       : "Ihr studiert die Glyphen auf dem %s und erhaltet Einblick in die Funktionsweise verschiedener Magie (+1 Wissen).",
+	"vcmi.townHall.greetingSpellPower"      : "Der %s lehrt Euch neue Wege, Eure magischen Kräfte zu bündeln (+1 Kraft).",
+	"vcmi.townHall.greetingExperience"      : "Ein Besuch bei den %s bringt Euch viele neue Fähigkeiten bei (+1000 Erfahrung).",
+	"vcmi.townHall.greetingAttack"          : "Nach einiger Zeit im %s könnt Ihr effizientere Kampffertigkeiten erlernen (+1 Angriffsfertigkeit).",
+	"vcmi.townHall.greetingDefence"         : "Wenn Ihr Zeit im %s verbringt, bringen Euch die erfahrenen Krieger dort zusätzliche Verteidigungsfähigkeiten bei (+1 Verteidigung).",
+	"vcmi.townHall.hasNotProduced"          : "Die %s hat noch nichts produziert.",
+	"vcmi.townHall.hasProduced"             : "Die %s hat diese Woche %d %s produziert.",
+	"vcmi.townHall.greetingCustomBonus"     : "%s gibt Ihnen +%d %s%s",
+	"vcmi.townHall.greetingCustomUntil"     : " bis zur nächsten Schlacht.",
+	"vcmi.townHall.greetingInTownMagicWell" : "%s hat Eure Zauberpunkte wieder auf das Maximum erhöht.",
+
+	"vcmi.logicalExpressions.anyOf"  : "Eines der folgenden:",
+	"vcmi.logicalExpressions.allOf"  : "Alles der folgenden:",
+	"vcmi.logicalExpressions.noneOf" : "Keines der folgenden:",
+
+	"vcmi.heroWindow.openCommander.hover" : "Öffne Kommandanten-Fenster",
+	"vcmi.heroWindow.openCommander.help"  : "Zeige Informationen über Kommandanten dieses Helden",
+
+	"vcmi.commanderWindow.artifactMessage" : "Möchtet Ihr diesen Artefakt dem Helden zurückgeben?",
+
+	"vcmi.creatureWindow.showBonuses.hover"    : "Wechsle zur Bonus-Ansicht",
+	"vcmi.creatureWindow.showBonuses.help"     : "Zeige alle aktiven Boni des Kommandanten",
+	"vcmi.creatureWindow.showSkills.hover"     : "Wechsle zur Fertigkeits-Ansicht",
+	"vcmi.creatureWindow.showSkills.help"      : "Zeige alle erlernten Fertigkeiten des Kommandanten",
+	"vcmi.creatureWindow.returnArtifact.hover" : "Artefekt zurückgeben",
+	"vcmi.creatureWindow.returnArtifact.help"  : "Nutze diese Schaltfläche, um Stapel-Artefakt in den Rucksack des Helden zurückzugeben",
+
+	"vcmi.questLog.hideComplete.hover" : "Verstecke abgeschlossene Quests",
+	"vcmi.questLog.hideComplete.help"  : "Verstecke alle Quests die bereits abgeschlossen sind",
+
+	"vcmi.randomMapTab.widgets.defaultTemplate"      : "Standard",
+	"vcmi.randomMapTab.widgets.templateLabel"        : "Vorlage",
+	"vcmi.randomMapTab.widgets.teamAlignmentsButton" : "Einrichtung...",
+	"vcmi.randomMapTab.widgets.teamAlignmentsLabel"  : "Teamausrichtung",
+	
+	// few strings from WoG used by vcmi
+	"vcmi.stackExperience.description" : "» D e t a i l s z u r S t a c k e r f a h r u n g «\n\nKreatur-Typ ................... : %s\nErfahrungsrang ................. : %s (%i)\nErfahrungspunkte ............... : %i\nErfahrungspunkte für den nächsten Rang .. : %i\nMaximale Erfahrung pro Schlacht ... : %i%% (%i)\nAnzahl der Kreaturen im Stapel .... : %i\nMaximale Anzahl neuer Rekruten\n ohne Verlust von aktuellem Rang .... : %i\nErfahrungsmultiplikator ........... : %.2f\nUpgrade-Multiplikator .............. : %.2f\nErfahrung nach Rang 10 ........ : %i\nMaximal neue Rekruten, die bei\n maximaler Erfahrung auf Rang 10 bleiben : %i",
+	"vcmi.stackExperience.rank.1" : "Grundlegent",
+	"vcmi.stackExperience.rank.2" : "Neuling",
+	"vcmi.stackExperience.rank.3" : "Ausgebildet",
+	"vcmi.stackExperience.rank.4" : "Kompetent",
+	"vcmi.stackExperience.rank.5" : "Bewährt",
+	"vcmi.stackExperience.rank.6" : "Veteran",
+	"vcmi.stackExperience.rank.7" : "Geschickt",
+	"vcmi.stackExperience.rank.8" : "Experte",
+	"vcmi.stackExperience.rank.9" : "Elite",
+	"vcmi.stackExperience.rank.10" : "Meister",
+	"vcmi.stackExperience.rank.11" : "Ass"
 }

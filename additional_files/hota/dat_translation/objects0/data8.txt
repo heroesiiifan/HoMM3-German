@@ -1,6 +1,0 @@
-# Texts
-# 0 (212, 1001, Grave)
-Dieses Grab ist frisch, und selbst die Schaufel, mit der jemand es ausgehoben hat, ist noch nicht gestohlen worden. Sie nehmen letztere auf, bedecken Ihre Nase mit einem Taschentuch und schaffen es, etwas Wertvolles aus dem Boden zu holen.
-# 1 (212, 1001, Grave)
-"
-Grabaushub -3"

@@ -1,7 +1,0 @@
-"{Wegbereiter} 
-
-""Ich kenne diese Einöde wie meine Westentasche. Selbst wenn ich noch nie irgendwo gewesen bin, finde ich den Weg schon. Ich schätze, ich könnte eine Woche lang mit Ihnen mitgehen, wenn Sie Hilfe brauchen"", sagt der Mann in diesem Zelt."
-(Reduziert den Bewegungsmalus im Ödland um 50% bis zum Ende der Woche)
-"{Wegbereiter}
-
-""Hey, das ist mein Zelt. Seid lieber sicher, dass es nicht meine Schuld ist, dass wir im Kreis laufen"", zuckt der Trailblazer mit den Schultern."

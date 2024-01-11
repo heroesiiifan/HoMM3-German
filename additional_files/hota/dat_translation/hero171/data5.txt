@@ -1,3 +1,0 @@
-{Luftschild}
-
-Wirkt Luftschild mit einem um 3% erhöhten Effekt für jeweils n Heldenstufen, wobei n die Stufe der anvisierten Kreatur ist.

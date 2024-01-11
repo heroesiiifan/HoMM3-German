@@ -510,7 +510,7 @@
 > Erhöht die Geschwindigkeit beliebiger Gorgonen oder Riesengorgonen um 1 und ihre Angriffs- und Verteidigungsfähigkeiten um 5% für jeweils 5 Stufen (aufgerundet)."
 > Schlangenfliegen	Kreaturenbonus: Schlangenfliegen	"{Schlangenfliegen}
 > 
-> Erhöht Angriff und Verteidigung aller Schlangen- oder Drachenfliegen für jede erreichte Stufe nach der 3. Stufe."
+> Erhöht Geschwindigkeit aller Schlangen- und Drachenfliegen um 1 und deren Angriffs- und Verteidigungsfähigkeit um 5% für jeweils 3 Stufen (aufgerundet)."
 > Balliste	Artilleriebonus: Balliste	"{Balliste}
 > 
 > Erhöht die Angriffs- und Verteidigungsfähigkeiten einer beliebigen Ballista um 5% für jeweils 5 Stufen (aufgerundet)."
@@ -567,7 +567,7 @@
 > Wasser- und Eis-Elementare erhalten +2 Angriff"
 > Feuerwand	Zauberbonus: Feuerwand	"{Feuerwand}
 > 
-> Schaden durch Feuerwand verdoppelt."
+> Schaden durch Feuerwand um 25% erhöht."
 > Eile	Zauberbonus: Eile	"{Eile}
 > 
 > Wirkt Eile, wobei der Effekt bei Kreaturen der Stufe 1-2 um 3, bei Kreaturen der Stufe 3-4 um 2 und bei Kreaturen der Stufe 5-6 um 1 erhöht wird."
@@ -626,4 +626,3 @@
 > 
 > Teufel oder Erzteufel erhalten +4 Ang., +2 Vert. und +1 Geschwindigkeit."
 > 		
-\ No newline at end of file

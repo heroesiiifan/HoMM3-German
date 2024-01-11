@@ -1,3 +1,0 @@
-{Piraten, Korsaren und Seebären}
-
-Erhöht die Geschwindigkeit beliebiger Piraten, Korsaren oder Seebären um 1 und ihre Angriffs- und Verteidigungsfähigkeiten um 5 % für jeweils 3 Stufen (aufgerundet).

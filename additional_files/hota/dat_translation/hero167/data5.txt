@@ -1,3 +1,0 @@
-{Kristall}
-
-Erhöht die Kristallproduktion des Königreichs um 1 pro Tag.

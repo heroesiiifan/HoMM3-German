@@ -1,1 +1,0 @@
-%s wird durch die Wunden wütend! %s: +%d%% auf Schaden.

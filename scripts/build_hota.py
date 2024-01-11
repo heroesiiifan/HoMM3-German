@@ -12,17 +12,18 @@ from shutil import copyfile, copy
 import os
 import whatthepatch
 import subprocess
+import re
 
 s = "additional_files/translation/txt/"
 d = "_tmp/HotA_patched/txt/"
 
 if not os.path.exists(d): os.makedirs(d)
 
-identical = [ "Artslots.txt", "CampDiag.txt", "CastInfo.txt", "CmpEdCmd.txt", "CmpEditr.txt", "CrGen4.txt", "CrGenerc.txt", "Garrison.txt", "HallInfo.txt", "HeroScrn.txt", "JkText.txt", "Lcdesc.txt", "MineEvnt.txt", "MineName.txt", "OverView.txt", "PlColors.txt", "PriSkill.txt", "RandSign.txt", "Regions.txt", "ResTypes.txt", "SkillLev.txt", "TCommand.txt", "TentColr.txt", "TownName.txt", "TownType.txt", "TurnDur.txt", "TvrnInfo.txt", "VcDesc.txt", "Walls.txt" ] + ["CREDITS.TXT", "ObjNames.txt", "TERRNAME.txt"]
+identical = [ "Artslots.txt", "CampDiag.txt", "CastInfo.txt", "CmpEdCmd.txt", "CmpEditr.txt", "CrGen4.txt", "CrGenerc.txt", "Garrison.txt", "HallInfo.txt", "HeroScrn.txt", "JkText.txt", "Lcdesc.txt", "MineEvnt.txt", "MineName.txt", "OverView.txt", "PlColors.txt", "PriSkill.txt", "RandSign.txt", "Regions.txt", "ResTypes.txt", "SkillLev.txt", "TCommand.txt", "TentColr.txt", "TownName.txt", "TownType.txt", "TurnDur.txt", "TvrnInfo.txt", "VcDesc.txt", "Walls.txt" ] + ["CampText.txt", "randtvrn.txt"] + ["CREDITS.TXT", "ObjNames.txt", "TERRNAME.txt"]
 
 def correct_line_ending(file_in, file_out):
-    with open(file_in, "r+b") as f:
-        text = f.read()
+    with open(file_in, "rb") as f:
+        text = re.sub(b"(?<!\r)\n", b"\r\n", f.read())
         text = text.decode(encoding='cp1252')
         string_new = ""
 
@@ -62,26 +63,14 @@ for filename in os.listdir("additional_files/hota/txt"):
         dst_content = '\r\n'.join(dst_content)
         dst_content += '\r\n'
 
-        #correct lineendings
-        string_new = ""
-        inside_quote = False
-        for c in dst_content:
-            if c == "\"":
-                inside_quote = not inside_quote
-                string_new += c
-            elif c == "\r":
-                if not inside_quote: string_new += c
-            else:
-                string_new += c
-            char_last = c
-
         #save
         with open(os.path.join(d, original_name), 'w+b') as the_file:
-            the_file.write(str.encode(string_new, encoding='cp1252'))
+            the_file.write(str.encode(dst_content, encoding='cp1252'))
+        correct_line_ending(os.path.join(d, original_name), os.path.join(d, original_name))
 
 
-copyfile("homm3_files\HotA\Data\HotA_ext.lod", "_tmp/HotA_patched/" + "HotA_ext.lod")
-copyfile("homm3_files\HotA\Data\HotA_l_ext.lod", "_tmp/HotA_patched/" + "HotA_l_ext.lod")
+copyfile("homm3_files/HotA/Data/HotA_ext.lod", "_tmp/HotA_patched/" + "HotA_ext.lod")
+copyfile("homm3_files/HotA/Data/HotA_l_ext.lod", "_tmp/HotA_patched/" + "HotA_l_ext.lod")
 
 command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_ext.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')

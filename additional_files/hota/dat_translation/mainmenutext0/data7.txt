@@ -1,2 +1,0 @@
-HotA Version: %s
-%s

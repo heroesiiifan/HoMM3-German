@@ -1,118 +1,870 @@
-167c167
+3,4c3,4
+< Zauberbuch	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Zauberbuch}
+< 
+---
+> Zauberbuch	0	x	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Zauberbuch}
+> 
+6,7c6,7
+< Zauberspruchrolle	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Zauberspruchrolle}
+< 
+---
+> Zauberspruchrolle	2500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	S	"{Zauberspruchrolle}
+> 
+9,10c9,10
+< Der Gral	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Der Gral}
+< 
+---
+> Der Gral	0	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Der Gral}
+> 
+12,13c12,13
+< Katapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Katapult}
+< 
+---
+> Katapult	1000	 	x	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Katapult}
+> 
+15,16c15,16
+< Balliste	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Balliste}
+< 
+---
+> Balliste	2500	 	 	 	 	x		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Balliste}
+> 
+18,19c18,19
+< Munitionskarren	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Munitionskarren}
+< 
+---
+> Munitionskarren	1000	 	 	 	x	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Munitionskarren}
+> 
+21,22c21,22
+< Erste Hilfe-Zelt	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Erste Hilfe-Zelt}
+< 
+---
+> Erste Hilfe-Zelt	750	 	 	x	 	 		 	 	 	 	 	 	 	 	 	 	 	 	 	S	"{Erste Hilfe-Zelt}
+> 
+24,25c24,25
+< Zentaurenaxt	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Zentaurenaxt}
+< 
+---
+> Zentaurenaxt	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	T	"{Zentaurenaxt}
+> 
+27,28c27,28
+< Schwarzklinge des toten Ritters	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Schwarzklinge des toten Ritters}
+< 
+---
+> Schwarzklinge des toten Ritters	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Schwarzklinge des toten Ritters}
+> 
+30,31c30,31
+< Gnollmorgenstern	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Gnollmorgenstern}
+< 
+---
+> Gnollmorgenstern	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Gnollmorgenstern}
+> 
+33,34c33,34
+< Ogerknüppel der Verwüstung	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Ogerknüppel der Verwüstung}
+< 
+---
+> Ogerknüppel der Verwüstung	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Ogerknüppel der Verwüstung}
+> 
+36,37c36,37
+< Schwert des Höllenfeuers	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Schwert des Höllenfeuers}
+< 
+---
+> Schwert des Höllenfeuers	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	J	"{Schwert des Höllenfeuers}
+> 
+39,40c39,40
+< Titanengladius	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Titanengladius}
+< 
+---
+> Titanengladius	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Titanengladius}
+> 
+42,43c42,43
+< Schild der Zwergenlords	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Schild der Zwergenlords}
+< 
+---
+> Schild der Zwergenlords	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	T	"{Schild der Zwergenlords}
+> 
+45,46c45,46
+< Schild der gähnenden Toten	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Schild der gähnenden Toten}
+< 
+---
+> Schild der gähnenden Toten	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Schild der gähnenden Toten}
+> 
+48,49c48,49
+< Rundschild des Gnollkönigs	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Rundschild des Gnollkönigs}
+< 
+---
+> Rundschild des Gnollkönigs	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	N	"{Rundschild des Gnollkönigs}
+> 
+51,52c51,52
+< Schild des wütenden Ogers	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Schild des wütenden Ogers}
+< 
+---
+> Schild des wütenden Ogers	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Schild des wütenden Ogers}
+> 
+54,55c54,55
+< Schild der Verdammten	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Schild der Verdammten}
+< 
+---
+> Schild der Verdammten	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Schild der Verdammten}
+> 
+57,58c57,58
+< Schild der Wache	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Schild der Wache}
+< 
+---
+> Schild der Wache	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Schild der Wache}
+> 
+60,61c60,61
+< Helm des Alabastereinhorns	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Helm des Alabastereinhorns}
+< 
+---
+> Helm des Alabastereinhorns	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Helm des Alabastereinhorns}
+> 
+63,64c63,64
+< Totenschädelhelm	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Totenschädelhelm}
+< 
+---
+> Totenschädelhelm	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	T	"{Totenschädelhelm}
+> 
+66,67c66,67
+< Helm des Chaos	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Helm des Chaos}
+< 
+---
+> Helm des Chaos	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Helm des Chaos}
+> 
+69,70c69,70
+< Krone der höchsten Magier	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Krone der höchsten Magier}
+< 
+---
+> Krone der höchsten Magier	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	N	"{Krone der höchsten Magier}
+> 
+72,73c72,73
+< Höllensturmhelm	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Höllensturmhelm}
+< 
+---
+> Höllensturmhelm	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	J	"{Höllensturmhelm}
+> 
+75,76c75,76
+< Donnerhelm	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Donnerhelm}
+< 
+---
+> Donnerhelm	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Donnerhelm}
+> 
+78,79c78,79
+< Brustpanzer vom Steinwald	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Brustpanzer vom Steinwald}
+< 
+---
+> Brustpanzer vom Steinwald	1000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	T	"{Brustpanzer vom Steinwald}
+> 
+81,82c81,82
+< Brustkorb	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Brustkorb}
+< 
+---
+> Brustkorb	3000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Brustkorb}
+> 
+84,85c84,85
+< Schuppen des Riesenbasilisken	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Schuppen des Riesenbasilisken}
+< 
+---
+> Schuppen des Riesenbasilisken	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Schuppen des Riesenbasilisken}
+> 
+87,88c87,88
+< Tunika des Zyklopenkönigs	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Tunika des Zyklopenkönigs}
+< 
+---
+> Tunika des Zyklopenkönigs	5000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Tunika des Zyklopenkönigs}
+> 
+90,91c90,91
+< Schwefelharnisch	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Schwefelharnisch}
+< 
+---
+> Schwefelharnisch	6000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	J	"{Schwefelharnisch}
+> 
+93,94c93,94
+< Titanenharnisch	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Titanenharnisch}
+< 
+---
+> Titanenharnisch	10000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Titanenharnisch}
+> 
+96,97c96,97
+< Wunderrüstung	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Wunderrüstung}
+< 
+---
+> Wunderrüstung	4000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	N	"{Wunderrüstung}
+> 
+99,100c99,100
+< Sandalen des Heiligen	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Sandalen des Heiligen}
+< 
+---
+> Sandalen des Heiligen	8000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Sandalen des Heiligen}
+> 
+102,103c102,103
+< Himmlisches Segenshalsband 	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Himmlisches Segenshalsband }
+< 
+---
+> Himmlisches Segenshalsband 	12000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	R	"{Himmlisches Segenshalsband }
+> 
+105,106c105,106
+< Löwenschild des Mutes	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Löwenschild des Mutes}
+< 
+---
+> Löwenschild des Mutes	16000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	R	"{Löwenschild des Mutes}
+> 
+108,109c108,109
+< Schwert des Urteils	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Schwert des Urteils}
+< 
+---
+> Schwert des Urteils	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	R	"{Schwert des Urteils}
+> 
+111,112c111,112
+< Helm der Himmlischen Erleuchtung	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Helm der Himmlischen Erleuchtung}
+< 
+---
+> Helm der Himmlischen Erleuchtung	24000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Helm der Himmlischen Erleuchtung}
+> 
+114,115c114,115
+< Ruhiges Auge des Drachen	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ruhiges Auge des Drachen}
+< 
+---
+> Ruhiges Auge des Drachen	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ruhiges Auge des Drachen}
+> 
+117,118c117,118
+< Feuerzunge des Roten Drachen	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Feuerzunge des Roten Drachen}
+< 
+---
+> Feuerzunge des Roten Drachen	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	x	 	 	 	N	"{Feuerzunge des Roten Drachen}
+> 
+120,121c120,121
+< Drachenschild	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Drachenschild}
+< 
+---
+> Drachenschild	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	x	 	 	 	 	J	"{Drachenschild}
+> 
+123,124c123,124
+< Drachenrüstung	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Drachenrüstung}
+< 
+---
+> Drachenrüstung	8000	 	 	 	 	 		 	 	 	 	 	 	 	x	 	 	 	 	 	R	"{Drachenrüstung}
+> 
+126,127c126,127
+< Knochenschienen	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Knochenschienen}
+< 
+---
+> Knochenschienen	2000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	T	"{Knochenschienen}
+> 
+129,130c129,130
+< Drachenweste	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Drachenweste}
+< 
+---
+> Drachenweste	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Drachenweste}
+> 
+132,133c132,133
+< Drachenzahnkette	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Drachenzahnkette}
+< 
+---
+> Drachenzahnkette	6000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Drachenzahnkette}
+> 
+135,136c135,136
+< Drachenzahnkrone	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Drachenzahnkrone}
+< 
+---
+> Drachenzahnkrone	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Drachenzahnkrone}
+> 
+138,139c138,139
+< Stilles Auge des Drachen	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Stilles Auge des Drachen}
+< 
+---
+> Stilles Auge des Drachen	2000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Stilles Auge des Drachen}
+> 
+141,142c141,142
+< Kleeblatt des Glücks	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Kleeblatt des Glücks}
+< 
+---
+> Kleeblatt des Glücks	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Kleeblatt des Glücks}
+> 
+144,145c144,145
+< Karten der Prophezeiung	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Karten der Prophezeiung}
+< 
+---
+> Karten der Prophezeiung	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Karten der Prophezeiung}
+> 
+147,148c147,148
+< Silberner Glücksvogel	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Silberner Glücksvogel}
+< 
+---
+> Silberner Glücksvogel	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Silberner Glücksvogel}
+> 
+150,151c150,151
+< Abzeichen der Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Abzeichen der Courage}
+< 
+---
+> Abzeichen der Courage	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Abzeichen der Courage}
+> 
+153,154c153,154
+< Wappen der Tapferkeit	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Wappen der Tapferkeit}
+< 
+---
+> Wappen der Tapferkeit	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Wappen der Tapferkeit}
+> 
+156,157c156,157
+< Skulptur der Ritterlichkeit	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Skulptur der Ritterlichkeit}
+< 
+---
+> Skulptur der Ritterlichkeit	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Skulptur der Ritterlichkeit}
+> 
+159,160c159,160
+< Spekulum	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spekulum}
+< 
+---
+> Spekulum	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spekulum}
+> 
+162,163c162,163
+< Spionagelinse	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spionagelinse}
+< 
+---
+> Spionagelinse	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Spionagelinse}
+> 
+165,184c165,184
+< Amulett der Totengräber	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulett der Totengräber}
+< 
 < Um den Hals getragen, erhöht dieser Gegenstand die Nekromantiefähigkeit um 5%."
----
-> Um den Hals getragen, erhöht dieser Gegenstand die Nekromantiefähigkeit um 2,5%."
-170c170
+< Vampirkutte	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Vampirkutte}
+< 
 < Über die Schultern geworfen, erhöht diese Kutte die Nekromantiefähigkeit um 10%."
----
-> Über die Schultern geworfen, erhöht diese Kutte die Nekromantiefähigkeit um 5%."
-173c173
+< Totenstiefel	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Totenstiefel}
+< 
 < An den Füßen getragen, erhöhen diese Stiefel die Nekromantiefähigkeit um 15%."
----
-> An den Füßen getragen, erhöhen diese Stiefel die Nekromantiefähigkeit um 7,5%."
-176c176
+< Schmuck der Interferenz	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Schmuck der Interferenz}
+< 
 < Am Hals getragen, erhöht dieser Gegenstand Magieresistenz um 5%."
----
-> Am Hals getragen, erhöht dieser Gegenstand die Chance, einem feindlichen Zauber zu widerstehen um 5%."
-179c179
+< Schutzrock	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Schutzrock}
+< 
 < Über die Schultern geworfen, erhöht dieser Gegenstand Magieresistenz um 10%."
----
-> Über die Schultern geworfen, erhöht dieser Gegenstand die Chance, einem feindlichen Zauber zu widerstehen um 10%."
-182c182
+< Stiefel der Polarität	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Stiefel der Polarität}
+< 
 < An den Füßen getragen, erhöhen diese Stiefel Magieresistenz um 15%."
+< Bogen aus Elfenkirschholz	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Bogen aus Elfenkirschholz}
+< 
 ---
+> Amulett der Totengräber	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Amulett der Totengräber}
+> 
+> Um den Hals getragen, erhöht dieser Gegenstand die Nekromantiefähigkeit um 2,5%."
+> Vampirkutte	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	N	"{Vampirkutte}
+> 
+> Über die Schultern geworfen, erhöht diese Kutte die Nekromantiefähigkeit um 5%."
+> Totenstiefel	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	J	"{Totenstiefel}
+> 
+> An den Füßen getragen, erhöhen diese Stiefel die Nekromantiefähigkeit um 7,5%."
+> Schmuck der Interferenz	2000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Schmuck der Interferenz}
+> 
+> Am Hals getragen, erhöht dieser Gegenstand die Chance, einem feindlichen Zauber zu widerstehen um 5%."
+> Schutzrock	4000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Schutzrock}
+> 
+> Über die Schultern geworfen, erhöht dieser Gegenstand die Chance, einem feindlichen Zauber zu widerstehen um 10%."
+> Stiefel der Polarität	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Stiefel der Polarität}
+> 
 > An den Füßen getragen, erhöhen diese Stiefel die Chance, einem feindlichen Zauber zu widerstehen um 15%."
-203c203
+> Bogen aus Elfenkirschholz	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Bogen aus Elfenkirschholz}
+> 
+186,187c186,187
+< Bogensehne der Einhornmähne	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bogensehne der Einhornmähne}
+< 
+---
+> Bogensehne der Einhornmähne	4000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Bogensehne der Einhornmähne}
+> 
+189,190c189,190
+< Engelsfedernpfeile	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Engelsfedernpfeile}
+< 
+---
+> Engelsfedernpfeile	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Engelsfedernpfeile}
+> 
+192,193c192,193
+< Vogel der Beobachtung	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Vogel der Beobachtung}
+< 
+---
+> Vogel der Beobachtung	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Vogel der Beobachtung}
+> 
+195,196c195,196
+< Geduldiger Wachmann	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Geduldiger Wachmann}
+< 
+---
+> Geduldiger Wachmann	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Geduldiger Wachmann}
+> 
+198,199c198,199
+< Emblem der Erkenntnis	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Emblem der Erkenntnis}
+< 
+---
+> Emblem der Erkenntnis	3000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Emblem der Erkenntnis}
+> 
+201,211c201,211
+< Staatsmannorden	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Staatsmannorden}
+< 
 < Am Hals getragen, reduziert der Staatsmannsorden die Kosten einer Kapitulation."
----
-> Am Hals getragen, reduziert der Staatsmannsorden die Kosten einer Kapitulation um 10%."
-206c206
+< Diplomatenring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Diplomatenring}
+< 
 < Am Finger getragen, reduziert der Diplomatenring die Kosten einer Kapitulation."
----
-> Am Finger getragen, reduziert der Diplomatenring die Kosten einer Kapitulation um 10%."
-209c209
+< Ehrenschärpe	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Ehrenschärpe}
+< 
 < Über die Schultern geworfen, reduziert die Ehrenschärpe die Kosten einer Kapitulation."
+< Ring des Wandersmanns	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring des Wandersmanns}
+< 
 ---
+> Staatsmannorden	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Staatsmannorden}
+> 
+> Am Hals getragen, reduziert der Staatsmannsorden die Kosten einer Kapitulation um 10%."
+> Diplomatenring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Diplomatenring}
+> 
+> Am Finger getragen, reduziert der Diplomatenring die Kosten einer Kapitulation um 10%."
+> Ehrenschärpe	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Ehrenschärpe}
+> 
 > Über die Schultern geworfen, reduziert die Ehrenschärpe die Kosten einer Kapitulation um 10%."
-215c215
+> Ring des Wandersmanns	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring des Wandersmanns}
+> 
+213,220c213,220
+< Reiterhandschuhe	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Reiterhandschuhe}
+< 
 < An den Händen getragen, erhöhen diese Handschuhe die Bewegungsrate Eures Helden an Land."
----
-> An den Händen getragen, erhöhen diese Handschuhe die Bewegungsrate Eures Helden an Land um 200 Punkte."
-218c218
+< Halsband des Navigators	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Halsband des Navigators}
+< 
 < Um den Hals getragen, erhöht dieses Halsband die Bewegungsrate Eures Helden auf See."
+< Engelsflügel	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Engelsflügel}
+< 
 ---
+> Reiterhandschuhe	3000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Reiterhandschuhe}
+> 
+> An den Händen getragen, erhöhen diese Handschuhe die Bewegungsrate Eures Helden an Land um 200 Punkte."
+> Halsband des Navigators	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Halsband des Navigators}
+> 
 > Um den Hals getragen, erhöht dieses Halsband die Bewegungsrate Eures Helden auf See um 1000 Punkte."
-257c257
+> Engelsflügel	20000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	R	"{Engelsflügel}
+> 
+222,223c222,223
+< Managlücksbringer	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Managlücksbringer}
+< 
+---
+> Managlücksbringer	500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Managlücksbringer}
+> 
+225,226c225,226
+< Manatalisman	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Manatalisman}
+< 
+---
+> Manatalisman	1000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Manatalisman}
+> 
+228,229c228,229
+< Mystische Manakugel	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Mystische Manakugel}
+< 
+---
+> Mystische Manakugel	1500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Mystische Manakugel}
+> 
+231,232c231,232
+< Kragen der Beschwörung	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Kragen der Beschwörung}
+< 
+---
+> Kragen der Beschwörung	500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Kragen der Beschwörung}
+> 
+234,235c234,235
+< Ring der Beschwörung	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring der Beschwörung}
+< 
+---
+> Ring der Beschwörung	1000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring der Beschwörung}
+> 
+237,238c237,238
+< Umhang der Beschwörung	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Umhang der Beschwörung}
+< 
+---
+> Umhang der Beschwörung	1500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	T	"{Umhang der Beschwörung}
+> 
+240,241c240,241
+< Kugel des Firmaments	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des Firmaments}
+< 
+---
+> Kugel des Firmaments	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des Firmaments}
+> 
+243,244c243,244
+< Kugel des Schlamms	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des Schlamms}
+< 
+---
+> Kugel des Schlamms	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des Schlamms}
+> 
+246,247c246,247
+< Kugel des rasenden Feuers	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des rasenden Feuers}
+< 
+---
+> Kugel des rasenden Feuers	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des rasenden Feuers}
+> 
+249,250c249,250
+< Kugel des prasselnden Regens	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des prasselnden Regens}
+< 
+---
+> Kugel des prasselnden Regens	6000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kugel des prasselnden Regens}
+> 
+252,253c252,253
+< Widerrufermantel	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Widerrufermantel}
+< 
+---
+> Widerrufermantel	8000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Widerrufermantel}
+> 
+255,262c255,262
+< Geist der Unterdrückung	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Geist der Unterdrückung}
+< 
 < Dieser Gegenstand macht alle Moralboni während des Kampfes, für Euch und Euren Gegner, zunichte."
----
-> Dieser Gegenstand macht positive Moral während des Kampfes, für Euch und Euren Gegner, zunichte."
-260c260
+< Sanduhr der bösen Stunde	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Sanduhr der bösen Stunde}
+< 
 < Dieser Gegenstand macht alle Glücksboni während des Kampfes, für Euch und Euren Gegner, zunichte."
+< Buch der Feuermagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Feuermagie}
+< 
 ---
+> Geist der Unterdrückung	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Geist der Unterdrückung}
+> 
+> Dieser Gegenstand macht positive Moral während des Kampfes, für Euch und Euren Gegner, zunichte."
+> Sanduhr der bösen Stunde	2000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Sanduhr der bösen Stunde}
+> 
 > Dieser Gegenstand macht positives Glück während des Kampfes, für Euch und Euren Gegner, zunichte."
-284c284
+> Buch der Feuermagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Feuermagie}
+> 
+264,265c264,265
+< Buch der Luftmagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Luftmagie}
+< 
+---
+> Buch der Luftmagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Luftmagie}
+> 
+267,268c267,268
+< Buch der Wassermagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Wassermagie}
+< 
+---
+> Buch der Wassermagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Wassermagie}
+> 
+270,271c270,271
+< Buch der Erdmagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Erdmagie}
+< 
+---
+> Buch der Erdmagie	20000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Buch der Erdmagie}
+> 
+273,274c273,274
+< Stiefel des Schwebens	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Stiefel des Schwebens}
+< 
+---
+> Stiefel des Schwebens	10000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	R	"{Stiefel des Schwebens}
+> 
+276,277c276,277
+< Goldener Bogen	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Goldener Bogen}
+< 
+---
+> Goldener Bogen	8000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Goldener Bogen}
+> 
+279,280c279,280
+< Sphäre der Permanenz	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sphäre der Permanenz}
+< 
+---
+> Sphäre der Permanenz	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Sphäre der Permanenz}
+> 
+282,286c282,286
+< Kugel der Verwundbarkeit	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Kugel der Verwundbarkeit}
+< 
 < Im Kampf macht diese Kugel alle natürliche Magieresistenz sämtlicher Kreaturen auf dem Schlachtfeld zunichte."
+< Ring der Vitalität	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring der Vitalität}
+< 
 ---
-> Im Kampf macht diese Kugel alle natürliche Magieimmunität und Chancen, Zaubersprüchen zu widerstehen sämtlicher Kreaturen auf dem Schlachtfeld zunichte. Beeinflusst nicht die in den Zauberbeschreibungen angegebenen Einschränkungen der Anwendbarkeit, sowie die durch Artefakte gewährten Immunitäten."
-299c299
+> Kugel der Verwundbarkeit	25000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Kugel der Verwundbarkeit}
+> 
+> Im Kampf macht diese Kugel alle natürliche Magieimmunität und Chancen, Zaubersprüchen zu widerstehen sämtlicher Kreaturen auf dem Schlachtfeld zunichte. Beeinflusst nicht die in den Zauberbeschreibungen angegebenen Einschränkungen der Anwendbarkeit, sowie die durch Artefakte gewährten Immunitäten (außer erworbene Immunität gegen Geisteszauber)."
+> Ring der Vitalität	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	T	"{Ring der Vitalität}
+> 
+288,289c288,289
+< Ring des Lebens	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Ring des Lebens}
+< 
+---
+> Ring des Lebens	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	N	"{Ring des Lebens}
+> 
+291,292c291,292
+< Blut des Lebens	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Blut des Lebens}
+< 
+---
+> Blut des Lebens	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Blut des Lebens}
+> 
+294,295c294,295
+< Halsband der Hurtigkeit	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Halsband der Hurtigkeit}
+< 
+---
+> Halsband der Hurtigkeit	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Halsband der Hurtigkeit}
+> 
+297,301c297,301
+< Stiefel der Geschwindigkeit	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Stiefel der Geschwindigkeit}
+< 
 < An den Füßen getragen, erhöhen diese Stiefel die Bewegungsrate Eures Helden an Land."
+< Umhang der Geschwindigkeit	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Umhang der Geschwindigkeit}
+< 
 ---
+> Stiefel der Geschwindigkeit	6000	 	 	 	 	 		 	 	 	 	x	 	 	 	 	 	 	 	 	N	"{Stiefel der Geschwindigkeit}
+> 
 > An den Füßen getragen, erhöhen diese Stiefel die Bewegungsrate Eures Helden an Land um 400 Punkte."
-374c374
+> Umhang der Geschwindigkeit	10000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Umhang der Geschwindigkeit}
+> 
+303,304c303,304
+< Anhänger der Leidenschaftslosen	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Leidenschaftlosen}
+< 
+---
+> Anhänger der Leidenschaftslosen	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Leidenschaftlosen}
+> 
+306,307c306,307
+< Anhänger des zweiten Auges	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger des zweiten Auges}
+< 
+---
+> Anhänger des zweiten Auges	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger des zweiten Auges}
+> 
+309,310c309,310
+< Anhänger der Heiligkeit	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Heiligkeit}
+< 
+---
+> Anhänger der Heiligkeit	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Heiligkeit}
+> 
+312,313c312,313
+< Anhänger des Lebens	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des Lebens}
+< 
+---
+> Anhänger des Lebens	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des Lebens}
+> 
+315,316c315,316
+< Anhänger des Todes	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des Todes}
+< 
+---
+> Anhänger des Todes	2500	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des Todes}
+> 
+318,319c318,319
+< Anhänger des freien Willens	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des freien Willens}
+< 
+---
+> Anhänger des freien Willens	1000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger des freien Willens}
+> 
+321,322c321,322
+< Anhänger der Aufhebung	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger der Aufhebung}
+< 
+---
+> Anhänger der Aufhebung	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger der Aufhebung}
+> 
+324,325c324,325
+< Anhänger der Erinnerung	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Erinnerung}
+< 
+---
+> Anhänger der Erinnerung	3000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	T	"{Anhänger der Erinnerung}
+> 
+327,328c327,328
+< Anhänger des Mutes	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger des Mutes}
+< 
+---
+> Anhänger des Mutes	7000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	x	 	 	J	"{Anhänger des Mutes}
+> 
+330,331c330,331
+< Endloser Kristallmantel	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Endloser Kristallmantel}
+< 
+---
+> Endloser Kristallmantel	5000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	x	 	J	"{Endloser Kristallmantel}
+> 
+333,334c333,334
+< Ring der Unendlichen Edelsteine	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring der Unendlichen Edelsteine}
+< 
+---
+> Ring der Unendlichen Edelsteine	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ring der Unendlichen Edelsteine}
+> 
+336,337c336,337
+< Endlose Quecksilberphiole	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Endlose Quecksilberphiole}
+< 
+---
+> Endlose Quecksilberphiole	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 		 	 	J	"{Endlose Quecksilberphiole}
+> 
+339,340c339,340
+< Unermüdliche Eisenerzkarre	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Unermüdliche Eisenerzkarre}
+< 
+---
+> Unermüdliche Eisenerzkarre	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Unermüdliche Eisenerzkarre}
+> 
+342,343c342,343
+< Ewig rauchender Schwefelring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ewig rauchender Schwefelring}
+< 
+---
+> Ewig rauchender Schwefelring	5000	 	 	 	 	 		 	 	 	 	 	x	x	 	 	 	 	 	 	J	"{Ewig rauchender Schwefelring}
+> 
+345,346c345,346
+< Unermüdliche Holzkarre	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Unermüdliche Holzkarre}
+< 
+---
+> Unermüdliche Holzkarre	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Unermüdliche Holzkarre}
+> 
+348,349c348,349
+< Endloser Goldsack	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Endloser Goldsack}
+< 
+---
+> Endloser Goldsack	10000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	R	"{Endloser Goldsack}
+> 
+351,352c351,352
+< Endlose Goldtasche	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endlose Goldtasche}
+< 
+---
+> Endlose Goldtasche	7500	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endlose Goldtasche}
+> 
+354,355c354,355
+< Endloser Goldbeutel	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endloser Goldbeutel}
+< 
+---
+> Endloser Goldbeutel	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Endloser Goldbeutel}
+> 
+357,358c357,358
+< Beine des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Beine des Legionärs}
+< 
+---
+> Beine des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	T	"{Beine des Legionärs}
+> 
+360,361c360,361
+< Lenden des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Lenden des Legionärs}
+< 
+---
+> Lenden des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Lenden des Legionärs}
+> 
+363,364c363,364
+< Torso des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Torso des Legionärs}
+< 
+---
+> Torso des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	N	"{Torso des Legionärs}
+> 
+366,367c366,367
+< Arme des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Arme des Legionärs}
+< 
+---
+> Arme des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Arme des Legionärs}
+> 
+369,370c369,370
+< Kopf des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kopf des Legionärs}
+< 
+---
+> Kopf des Legionärs	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 	 	 	 	 	 	J	"{Kopf des Legionärs}
+> 
+372,376c372,376
+< Kapitänsmütze	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Kapitänsmütze}
+< 
 < Wenn sie getragen wird, erhöht diese Mütze Eure Bewegung auf See, ermöglicht das Herbeirufen und Versenken von Booten und schützt Euch vor Strudeln."
+< Zauberhut	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Zauberhut}
+< 
 ---
+> Kapitänsmütze	15000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Kapitänsmütze}
+> 
 > Wenn sie getragen wird, erhöht diese Mütze Eure Bewegung auf See um 500 Punkte, ermöglicht das Herbeirufen und Versenken von Booten und schützt Euch vor Strudeln."
-380c380
+> Zauberhut	30000	 	 	 	 	 		 	 	 	 	 	 	 	 	 	 	 	 	x	R	"{Zauberhut}
+> 
+378,382c378,382
+< Fesseln des Krieges	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Fesseln des Krieges}
+< 
 < Wenn diese Fesseln im Kampf aktiv sind, könnt weder Ihr noch Euer Gegner Euch zurückziehen oder kapitulieren."
+< Kugel der Hemmung	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Kugel der Hemmung}
+< 
 ---
+> Fesseln des Krieges	5000	 	 	 	 	 	x	x	x	x	x	 	 	 	 			 	 	 	J	"{Fesseln des Krieges}
+> 
 > Wenn diese Fesseln im Kampf zwischen zwei Helden aktiv sind, könnt weder Ihr noch Euer Gegner Euch zurückziehen oder kapitulieren."
-392c392
+> Kugel der Hemmung	20000	 	 	 	 	 	x	x	x	x	x		 	 	 	 	 	 	 	 	R	"{Kugel der Hemmung}
+> 
+384,385c384,385
+< Phiole des Drachenblutes	20000						x	x	x	x	x										R	"{Phiole des Drachenblutes}
+< 
+---
+> Phiole des Drachenblutes	20000						x	x	x	x	x										R	"{Phiole des Drachenblutes}
+> 
+387,388c387,388
+< Armageddon-Klinge	50000																x				R	"{Armageddon-Klinge}
+< 
+---
+> Armageddon-Klinge	50000																x				R	"{Armageddon-Klinge}
+> 
+390,397c390,397
+< Engelsallianz																	x				R	"{Engelsallianz}
+< 
 < Alle Rampart, Tower, Fortress, Stronghold und Castle Truppen können ohne Moralverlust gemischt werden. Am Anfang eines Kampfes wird Gebet auf Experten-Level ausgesprochen."
----
-> Zusätzlich zum Komponenteneffekt gewährt die Engelsallianz jeder Spielerarmee die Möglichkeit, gute und neutrale Stadtkreaturen ohne Moralverlust zu mischen. Zu Beginn jedes Kampfes wird die Engelsallianz 10 Runden lang ein Gebet auf Experten-Level sprechen."
-395c395
+< Umhang des Untoten-Königs																			x		R	"{Umhang des Untoten-Königs}
+< 
 < 30% der Toten eines Kampfes werden als Sklette wiederbelebt. Hat der Held schon die Fähigkeit Necromantie, so wird dieser Prozentsatz diese hinzugefügt und ihr Level bestimmt welche Art wiedererweckt werden.
+< Basic: Zombies
+< Advanced: Geister
 ---
+> Engelsallianz																	x				R	"{Engelsallianz}
+> 
+> Zusätzlich zum Komponenteneffekt gewährt die Engelsallianz jeder Spielerarmee die Möglichkeit, gute und neutrale Stadtkreaturen ohne Moralverlust zu mischen. Zu Beginn jedes Kampfes wird die Engelsallianz 10 Runden lang ein Gebet auf Experten-Level sprechen."
+> Umhang des Untoten-Königs																			x		R	"{Umhang des Untoten-Königs}
+> 
 > Wenn der Held nicht über die Fähigkeit Nekromantie verfügt, erhöht der Umhang des untoten Königs 15% der toten Feinde auf dem Schlachtfeld als Skelette. Wenn der Held bereits über die Fähigkeit Nekromantie verfügt, können mit diesem Umhang zusätzlich zum Komponenteneffekt stärkere untote Einheiten erweckt werden. Die Fähigkeitsstufe bestimmt, welcher Typ wiederbelebt wird.
-401c401
+> Basic: Zombies
+> Advanced: Geister
+399,421c399,421
+< Elixier des Lebens							x	x	x	x	x										R	"{Elixier des Lebens}
+< 
 < Alle Kreaturen bekommen einen 25% Bonus auf ihre Lebenspunkte. Gilt nicht für Untote oder nicht lebende Kreaturen (Golems und Gargoyles)."
----
-> Zusätzlich zum Komponenteneffekt verleiht das Elixier des Lebens allen Kreaturen in den Reihen des Helden einen 25%igen Bonus auf ihre Gesundheit und die Fähigkeit, jede Runde 50 Trefferpunkte zu regenerieren. Wirkt nicht auf Untote oder nicht lebende Kreaturen."
-404c404
+< Rüstung des Verdammten															x						R	"{Rüstung des Verdammten}
+< 
 < Auf alle Gegner wirken die folgenden Sprüche für fünfzig Runden im Kampf: Verlangsamung, Fluch, Schwäche und Unglück."
----
-> Zusätzlich zum Komponenteneffekt wirkt die Rüstung der Verdammten diese Zauber auf Expertenebene zu Beginn des Kampfes fünfzig Runden lang auf alle Kreaturen deines Gegners: Verlangsamen, Fluch, Schwäche und Unglück."
-407c407
+< Statue des Legionärs							x	x	x	x	x										R	"{Statue des Legionärs}
+< 
 < Die Kreaturenproduktion wird in allen Städten um 50% erhöht, ausgenommen eines Bonus durch externe Behausungen. Dieser Effekt gilt unabhängig vom Aufenthaltsort des tragenden Helden."
----
-> Zusätzlich zum Komponenteneffekt gibt Ihnen die Statue des Legionärs +50% Kreaturenwachstum, basierend auf der Kreaturengenerierungsstufe der Burg, für alle Städte, nicht jedoch für beflaggte Strukturen oder andere ähnliche Boni."
-410c410
+< Macht des Drachenvaters															x						R	"{Macht des Drachenvaters}
+< 
 < + 6 auf alle Primärfähigkeiten, alle Truppen werden immun gegen Sprüche der ersten bis vierten Stufe."
----
-> Zusätzlich zum Komponenteneffekt verleiht die Macht des Drachenvaters +6 auf alle primären Fertigkeiten, und die Truppen des Helden werden immun gegen alle Zauber der Stufen 1-4 außer Dispel."
-413c413
+< Titanendonner																	x				R	"{Titanendonner}
+< 
 < Der Held bekommt ein Zauberbuch und die Fähigkeit den Spruch Lightning Bolt mit einer Wirkung von 600 Schadenspunkten auszusprechen, ohne dabei Spellpoints zu verlieren."
----
-> Zusätzlich zum Komponenteneffekt verleiht der Titanendonner dem Helden den Titanenblitz, der 600 Punkte Schaden verursacht und keine Zauberpunkte kostet. Wenn der Held kein Zauberbuch hat, dann wird eines dauerhaft hinzugefügt."
-416c416
+< Admiralshut																				x	R	"{Admiralshut}
+< 
 < Es gibt keine Strafe für das An- oder Von-Bord gehen. Bewegungspunke für Wasser und Land werden in einander umgerechnet."
----
-> Zusätzlich zum Komponenteneffekt entfernt der Admiralshut den Malus für das Entern und Entbooten von Schiffen und wandelt die Bewegungspunkte des Helden zwischen Land und Wasser um."
-419c419
+< Bogen des Meisterschützen							x	x	x	x	x						 				R	"{Bogen des Meisterschützen}
+< 
 < Schützen können auch schießen, wenn feindliche Kreaturen neben ihnen stehen. Keine Strafe für Hindernisse oder Entfernung."
+< Zauberbrunnen							x	x	x	x	x										R	"{Zauberbrunnen}
+< 
 ---
+> Elixier des Lebens							x	x	x	x	x										R	"{Elixier des Lebens}
+> 
+> Zusätzlich zum Komponenteneffekt verleiht das Elixier des Lebens allen Kreaturen in den Reihen des Helden einen 25%igen Bonus auf ihre Gesundheit und die Fähigkeit, jede Runde 50 Trefferpunkte zu regenerieren. Wirkt nicht auf Untote oder nicht lebende Kreaturen."
+> Rüstung des Verdammten															x						R	"{Rüstung des Verdammten}
+> 
+> Zusätzlich zum Komponenteneffekt wirkt die Rüstung der Verdammten diese Zauber auf Expertenebene zu Beginn des Kampfes fünfzig Runden lang auf alle Kreaturen deines Gegners: Verlangsamen, Fluch, Schwäche und Unglück."
+> Statue des Legionärs							x	x	x	x	x										R	"{Statue des Legionärs}
+> 
+> Zusätzlich zum Komponenteneffekt gibt Ihnen die Statue des Legionärs +50% Kreaturenwachstum, basierend auf der Kreaturengenerierungsstufe der Burg, für alle Städte, nicht jedoch für beflaggte Strukturen oder andere ähnliche Boni."
+> Macht des Drachenvaters															x						R	"{Macht des Drachenvaters}
+> 
+> Zusätzlich zum Komponenteneffekt verleiht die Macht des Drachenvaters +6 auf alle primären Fertigkeiten, und die Truppen des Helden werden immun gegen alle Zauber der Stufen 1-4 außer Dispel."
+> Titanendonner																	x				R	"{Titanendonner}
+> 
+> Zusätzlich zum Komponenteneffekt verleiht der Titanendonner dem Helden den Titanenblitz, der 600 Punkte Schaden verursacht und keine Zauberpunkte kostet. Wenn der Held kein Zauberbuch hat, dann wird eines dauerhaft hinzugefügt."
+> Admiralshut																				x	R	"{Admiralshut}
+> 
+> Zusätzlich zum Komponenteneffekt entfernt der Admiralshut den Malus für das Entern und Entbooten von Schiffen und wandelt die Bewegungspunkte des Helden zwischen Land und Wasser um."
+> Bogen des Meisterschützen							x	x	x	x	x						 				R	"{Bogen des Meisterschützen}
+> 
 > Zusätzlich zum Komponenteneffekt erlaubt der Bogen des Scharfschützen Fernkampfschützen, Projektile abzufeuern, während sie sich in der Nähe einer feindlichen Kreatur befinden. Entfernt den Bogenschieß-Malus für Entfernung oder Hindernis."
-425c425
+> Zauberbrunnen							x	x	x	x	x										R	"{Zauberbrunnen}
+> 
+423,430c423,430
+< Ring des Magiers													x	x							R	"{Ring des Magiers}
+< 
 < Alle Sprüche dauern fünfzig Runden länger."
----
-> Zusätzlich zum Komponenteneffekt erhöht dieser Ring die Zauberdauer um 50 Runden."
-428,429c428,429
+< Füllhorn							x	x	x	x	x										R	"{Füllhorn}
+< 
 < Der Spieler erhält täglich vier Einheiten der wertvollen Ressourcen Kristalle, Quecksilber, Schwefel und Edelsteine."
 < Diplomat's Suit																			x		R	"{Diplomat's Suit}
+< 
 ---
+> Ring des Magiers													x	x							R	"{Ring des Magiers}
+> 
+> Zusätzlich zum Komponenteneffekt erhöht dieser Ring die Zauberdauer um 50 Runden."
+> Füllhorn							x	x	x	x	x										R	"{Füllhorn}
+> 
 > Zusätzlich zum Komponenteneffekt erzeugt dieser Gegenstand jeden Tag 4 von jeder wertvollen Ressource."
 > Diplomatenmantel																			x		R	"{Diplomat's Suit}
-432c432
+> 
+432,433c432,433
 < Mired in Neutrality															x						R	"{Mired in Neutrality}
+< 
 ---
 > Anhänger der Reflexion															x						R	"{Mired in Neutrality}
+> 
+435,436c435,436
+< Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}
+< 
+---
+> Ironfist of the Ogre																	x				R	"{Ironfist of the Ogre}
+> 

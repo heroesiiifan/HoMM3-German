@@ -1,7 +1,0 @@
-"{Sternwarte} 
-
-Ein Astronom bietet Ihnen an, seinen Lehrling als Schiffsjunge zu nehmen. Sie könnten seine Ausspäh-Fähigkeiten nützlich finden, während der Junge eine Pause vom Studium gebrauchen könnte. Der Astronom wird ihn jedoch in einer Woche für die nächste Runde geplanter Beobachtungen wieder brauchen."
-(+2 Aufklärungsradius bis zum Ende der Woche)
-"{Sternwarte}
-
-Der Astronom ist von seinem Turm abwesend. Eine Notiz an der Tür lautet: "Wird in einer Woche zurück sein"."

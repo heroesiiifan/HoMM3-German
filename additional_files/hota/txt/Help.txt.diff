@@ -1,36 +1,634 @@
-139c139
+4,5c4,5
+< 	"{Neues Spiel}
+< 
+---
+> 	"{Neues Spiel}
+> 
+7,8c7,8
+< 	"{Spiel laden}
+< 
+---
+> 	"{Spiel laden}
+> 
+10,11c10,11
+< 	"{High Scores}
+< 
+---
+> 	"{High Scores}
+> 
+13,14c13,14
+< 	"{Credits}
+< 
+---
+> 	"{Credits}
+> 
+16,17c16,17
+< 	"{Beenden}
+< 
+---
+> 	"{Beenden}
+> 
+21,22c21,22
+< 	"{Einzelszenario}
+< 
+---
+> 	"{Einzelszenario}
+> 
+24,25c24,25
+< 	"{Kampagne}
+< 
+---
+> 	"{Kampagne}
+> 
+27,28c27,28
+< 	"{Multiplayer}
+< 
+---
+> 	"{Multiplayer}
+> 
+30,31c30,31
+< 	"{Übungsspiel}
+< 
+---
+> 	"{Übungsspiel}
+> 
+33,34c33,34
+< 	"{Zurück}
+< 
+---
+> 	"{Zurück}
+> 
+45,46c45,46
+< EASY 	"{Niedrige Schwierigkeit}
+< 
+---
+> EASY 	"{Niedrige Schwierigkeit}
+> 
+48,49c48,49
+< NORMAL 	"{Normale Schwierigkeit}
+< 
+---
+> NORMAL 	"{Normale Schwierigkeit}
+> 
+51,52c51,52
+< HARD 	"{Hohe Schwierigkeit}
+< 
+---
+> HARD 	"{Hohe Schwierigkeit}
+> 
+54,55c54,55
+< EXPERT 	"{Expertenschwierigkeit}
+< 
+---
+> EXPERT 	"{Expertenschwierigkeit}
+> 
+57,58c57,58
+< IMPOSSIBLE 	"{Unmögliche Schwierigkeit}
+< 
+---
+> IMPOSSIBLE 	"{Unmögliche Schwierigkeit}
+> 
+136c136
+< SSEXIT 	"Dieses Fenster schließen
+---
+> SSEXIT 	"Dieses Fenster schließen
+138,139c138,139
+< WHICHMAP 	"Aktuelle Kartengröße
 < (Klein, Mittel, Groß, Extragroß)"						
 ---
+> WHICHMAP 	"Aktuelle Kartengröße
 > (Klein, Mittel, Groß, Extragroß, Riesig, Extrariesig, Gigantisch)"						
-310c310
-< Jeder Spieler darf mit einer Stadt anfangen oder auch nicht. Die Wahl besteht zwischen Zufall, Schloss, Schutzwall, Turm, Inferno, Necropolis, Dungeon, Burg, Festung und Konflux.
+289,293c289,293
+< PLAYER_HANDICAP_HEADER_ID,	"{Spielername / Handicaptyp}
+< 
+<  Jeder Platz, den ein menschlicher Spieler einnehmen kann, ist durch ein Banner daneben gekennzeichnet. Das Banner anklicken, um die Position zu wechseln. Man kann auch das Namensfeld anklicken, um den Spielernamen zu ändern.
+< 
+< Jeder Spieler kann durch das Anklicken des Handicap-Knopfes benachteiligt werden. Es gibt drei Arten: Kein Handicap, leichtes Handicap, schweres Handicap. Leicht und Schwer verringern die Anfangsressourcen eines Spielers.
 ---
+> PLAYER_HANDICAP_HEADER_ID,	"{Spielername / Handicaptyp}
+> 
+>  Jeder Platz, den ein menschlicher Spieler einnehmen kann, ist durch ein Banner daneben gekennzeichnet. Das Banner anklicken, um die Position zu wechseln. Man kann auch das Namensfeld anklicken, um den Spielernamen zu ändern.
+> 
+> Jeder Spieler kann durch das Anklicken des Handicap-Knopfes benachteiligt werden. Es gibt drei Arten: Kein Handicap, leichtes Handicap, schweres Handicap. Leicht und Schwer verringern die Anfangsressourcen eines Spielers.
+295,300c295,300
+< TURN_DURATION_HEADER_ID,	"{Spielzuglänge}
+< 
+< Mit dem Schieberegler kann man 'weiche' Spielzuglängen einstellen. Mit 'weich' ist gemeint, dass ein Zeitnehmer die Zuglänge eines Spielers auszählt, wenn dieser nicht kämpft. Im Kampf wird der Zeitnehmer angehalten.
+< 
+< Spielzuglängen sind 1, 2, 4, 6, 8, 10, 15, 20, 25 und 30 Minuten.
+< 'Ohne Limit' ist Normaleinstellung
+---
+> TURN_DURATION_HEADER_ID,	"{Spielzuglänge}
+> 
+> Mit dem Schieberegler kann man 'weiche' Spielzuglängen einstellen. Mit 'weich' ist gemeint, dass ein Zeitnehmer die Zuglänge eines Spielers auszählt, wenn dieser nicht kämpft. Im Kampf wird der Zeitnehmer angehalten.
+> 
+> Spielzuglängen sind 1, 2, 4, 6, 8, 10, 15, 20, 25 und 30 Minuten.
+> 'Ohne Limit' ist Normaleinstellung
+302,306c302,306
+< STARTING_TOWN_HEADER_ID,	"{Anfangsstadt}
+< 
+< Jeder Spieler darf mit einer Stadt anfangen oder auch nicht. Die Wahl besteht zwischen Zufall, Schloss, Schutzwall, Turm, Inferno, Necropolis, Dungeon, Burg und Festung.
+< 
+< Wenn Ihr nicht mit einer Stadt anfangt, können diese Einstellungen helfen, um die Zugehörigkeit eines potentiellen Anfangshelden zu wählen.
+---
+> STARTING_TOWN_HEADER_ID,	"{Anfangsstadt}
+> 
+> Jeder Spieler darf mit einer Stadt anfangen oder auch nicht. Die Wahl besteht zwischen Zufall, Schloss, Schutzwall, Turm, Inferno, Necropolis, Dungeon, Burg und Festung.
+> 
+> Wenn Ihr nicht mit einer Stadt anfangt, können diese Einstellungen helfen, um die Zugehörigkeit eines potentiellen Anfangshelden zu wählen.
+308,312c308,312
+< STARTING_TOWN_HEADER_W_CONFLUX_ID,	"{Anfangsstadt}
+< 
+< Jeder Spieler darf mit einer Stadt anfangen oder auch nicht. Die Wahl besteht zwischen Zufall, Schloss, Schutzwall, Turm, Inferno, Necropolis, Dungeon, Burg, Festung und Konflux.
+< 
+< When Ihr nicht mit einer Stadt anfangt, können diese Einstellungen helfen, um die Zugehörigkeit eines potentiellen Anfangsghelden zu wählen.
+---
+> STARTING_TOWN_HEADER_W_CONFLUX_ID,	"{Anfangsstadt}
+> 
 > Jeder Spieler darf mit einer Stadt anfangen oder auch nicht. Die Wahl besteht zwischen Zufall, Schloss, Schutzwall, Turm, Inferno, Necropolis, Dungeon, Burg, Festung, Konflux und Bucht.
-372c372,374
+> 
+> When Ihr nicht mit einer Stadt anfangt, können diese Einstellungen helfen, um die Zugehörigkeit eines potentiellen Anfangsghelden zu wählen.
+314,318c314,318
+< STARTING_HERO_HEADER_ID,	"{Anfangsheld}
+< 
+< Jeder Spieler darf mit einem Helden anfangen oder auch nicht. Manchmal kann diese Option deaktiviert oder nicht da sein. Bei anderen Gelegenheiten könnt Ihr die Wahl zwischen bis zu sechzehn Helden treffen. Wenn die Anfangsstadt-Option aktiviert ist, könnt Ihr die Heldenklassen zu einer anderen Auswahl an Helden wechseln.
+< 
+<  Um den Namen, die Klasse und die Spezialität eines Helden zu sehen, klickt rechts auf das Portrait des Helden.
+---
+> STARTING_HERO_HEADER_ID,	"{Anfangsheld}
+> 
+> Jeder Spieler darf mit einem Helden anfangen oder auch nicht. Manchmal kann diese Option deaktiviert oder nicht da sein. Bei anderen Gelegenheiten könnt Ihr die Wahl zwischen bis zu sechzehn Helden treffen. Wenn die Anfangsstadt-Option aktiviert ist, könnt Ihr die Heldenklassen zu einer anderen Auswahl an Helden wechseln.
+> 
+>  Um den Namen, die Klasse und die Spezialität eines Helden zu sehen, klickt rechts auf das Portrait des Helden.
+320,322c320,322
+< STARTING_BONUS_HEADER_ID,	"{Anfangsbonus}
+< 
+< Mit einem Anfangsbonus könnt ihr ein Zufallsartefakt, 500-1000 Gold oder 5-10 Holz und Erz wählen.
+---
+> STARTING_BONUS_HEADER_ID,	"{Anfangsbonus}
+> 
+> Mit einem Anfangsbonus könnt ihr ein Zufallsartefakt, 500-1000 Gold oder 5-10 Holz und Erz wählen.
+327,328c327,328
+< Online Service	"{Online-Service}
+< 
+---
+> Online Service	"{Online-Service}
+> 
+330,331c330,331
+< Hot Seat	"{Hot Seat}
+< 
+---
+> Hot Seat	"{Hot Seat}
+> 
+333,334c333,334
+< IPX	"{IPX}
+< 
+---
+> IPX	"{IPX}
+> 
+336,337c336,337
+< TCP/IP	"{TCP/IP}
+< 
+---
+> TCP/IP	"{TCP/IP}
+> 
+339,340c339,340
+< Modem	"{Modem}
+< 
+---
+> Modem	"{Modem}
+> 
+342,343c342,343
+< Direktverbindung	"{Direktverbindung}
+< 
+---
+> Direktverbindung	"{Direktverbindung}
+> 
+345,346c345,346
+< Ein Spiel hosten	"{Spiel hosten}
+< 
+---
+> Ein Spiel hosten	"{Spiel hosten}
+> 
+348,349c348,349
+< Einem Spiel beitreten	"{einem Spiel beitreten}
+< 
+---
+> Einem Spiel beitreten	"{einem Spiel beitreten}
+> 
+351,352c351,352
+< Ein Spiel suchen	"{Spiel suchen}
+< 
+---
+> Ein Spiel suchen	"{Spiel suchen}
+> 
+372,374c372,376
 < Statusfenster	SELECTION WINDOW																						
+< Überblick Königreich	"{Überblick Königreich}
+< 
 ---
 > Statusfenster	"{Status Window}
 > 
 > Dieses Fenster gibt Auskunft über den Status Ihres Helden oder Königreichs und zeigt das Datum an.  Klicken Sie hier mit der linken Maustaste, um diese Fenster zu durchlaufen."
-566c568
+> Überblick Königreich	"{Überblick Königreich}
+> 
+376,377c378,379
+< Ansicht Oberfläche/Unterwelt	"{Ansicht Oberfläche/Unterwelt}
+< 
+---
+> Ansicht Oberfläche/Unterwelt	"{Ansicht Oberfläche/Unterwelt}
+> 
+379,380c381,382
+< Logbuch	"{Logbuch}
+< 
+---
+> Logbuch	"{Logbuch}
+> 
+382,383c384,385
+< Held aktivieren/deaktivieren	"{Held aktivieren/deaktivieren}
+< 
+---
+> Held aktivieren/deaktivieren	"{Held aktivieren/deaktivieren}
+> 
+385,386c387,388
+< Held bewegen	"{Held bewegen}
+< 
+---
+> Held bewegen	"{Held bewegen}
+> 
+388,389c390,391
+< Zauberspruch	"{Zauberspruch}
+< 
+---
+> Zauberspruch	"{Zauberspruch}
+> 
+391,392c393,394
+< Abenteueroptionen	"{Abenteueroptionen}
+< 
+---
+> Abenteueroptionen	"{Abenteueroptionen}
+> 
+394,395c396,397
+< System-Optionen	"{System-Optionen}
+< 
+---
+> System-Optionen	"{System-Optionen}
+> 
+397,398c399,400
+< Nächster Held	"{Nächster Held}
+< 
+---
+> Nächster Held	"{Nächster Held}
+> 
+400,401c402,403
+< Zug beenden	"{Zug beenden}
+< 
+---
+> Zug beenden	"{Zug beenden}
+> 
+403,404c405,406
+< Heldenliste scrollen	"{Heldenliste scrollen}
+< 
+---
+> Heldenliste scrollen	"{Heldenliste scrollen}
+> 
+406,407c408,409
+< Heldenliste scrollen	"{Heldenliste scrollen}
+< 
+---
+> Heldenliste scrollen	"{Heldenliste scrollen}
+> 
+409,410c411,412
+< Heldenportrait	"{Heldenportrait}
+< 
+---
+> Heldenportrait	"{Heldenportrait}
+> 
+412,413c414,415
+< Stadtliste scrollen	"{Stadtliste scrollen}
+< 
+---
+> Stadtliste scrollen	"{Stadtliste scrollen}
+> 
+415,416c417,418
+< Stadtliste scrollen	"{Stadtliste scrollen}
+< 
+---
+> Stadtliste scrollen	"{Stadtliste scrollen}
+> 
+418,419c420,421
+< Stadtportrait	"{Stadtportrait}
+< 
+---
+> Stadtportrait	"{Stadtportrait}
+> 
+428,429c430,431
+< Datum	"{Datum}
+< 
+---
+> Datum	"{Datum}
+> 
+434,435c436,437
+< Hauptmenü	"{Hauptmenü}
+< 
+---
+> Hauptmenü	"{Hauptmenü}
+> 
+437,438c439,440
+< Spiel Laden	"{Spiel Laden}
+< 
+---
+> Spiel Laden	"{Spiel Laden}
+> 
+440,441c442,443
+< Spiel speichern	"{Spiel speichern}
+< 
+---
+> Spiel speichern	"{Spiel speichern}
+> 
+443,444c445,446
+< Szenario neu starten	"{Szenario neu starten}
+< 
+---
+> Szenario neu starten	"{Szenario neu starten}
+> 
+446,447c448,449
+< Nach Windows verlassen	"{Nach Windows verlassen}
+< 
+---
+> Nach Windows verlassen	"{Nach Windows verlassen}
+> 
+449,450c451,452
+< Zurück	"{Zurück zum Spiel}
+< 
+---
+> Zurück	"{Zurück zum Spiel}
+> 
+475c477
+< HERO_SPEED_WALK_ID,	"Heldengeschwindigkeit auf Schritt einstellen
+---
+> HERO_SPEED_WALK_ID,	"Heldengeschwindigkeit auf Schritt einstellen
+479c481
+< HERO_SPEED_JUMP_ID,	"Heldengeschwindigkeit auf Sprung einstellen
+---
+> HERO_SPEED_JUMP_ID,	"Heldengeschwindigkeit auf Sprung einstellen
+481c483
+< AI_SPEED_CANTER_ID,	"gegnerische Heldengeschwindigkeit auf Trab einstellen
+---
+> AI_SPEED_CANTER_ID,	"gegnerische Heldengeschwindigkeit auf Trab einstellen
+484c486
+< AI_SPEED_JUMP_ID,	" gegnerische Heldengeschwindigkeit auf Sprung einstellen
+---
+> AI_SPEED_JUMP_ID,	" gegnerische Heldengeschwindigkeit auf Sprung einstellen
+490,491c492,493
+< SHOW_PATH_ID,	"{Bewegungspfad anzeigen}
+< 
+---
+> SHOW_PATH_ID,	"{Bewegungspfad anzeigen}
+> 
+493,494c495,496
+< MOVE_REMINDER_ID,	"{ Heldenerinnerung anzeigen}
+< 
+---
+> MOVE_REMINDER_ID,	"{ Heldenerinnerung anzeigen}
+> 
+496,497c498,499
+< QUICK_COMBAT_ID,	"{Schnellkampf}
+< 
+---
+> QUICK_COMBAT_ID,	"{Schnellkampf}
+> 
+499,500c501,502
+< VIDEO_SUBTITLES_ID,	"{Video-Untertitel}
+< 
+---
+> VIDEO_SUBTITLES_ID,	"{Video-Untertitel}
+> 
+502,503c504,505
+< VIDEO_QUALITY_LOW	"{Niedrige Videoqualität}
+< 
+---
+> VIDEO_QUALITY_LOW	"{Niedrige Videoqualität}
+> 
+505,506c507,508
+< VIDEO_QUALITY_HIGH	"{Hohe Videoqualität}
+< 
+---
+> VIDEO_QUALITY_HIGH	"{Hohe Videoqualität}
+> 
+508,509c510,511
+< TOWN_OUTLINES_ID,	"{Stadtumrisse}
+< 
+---
+> TOWN_OUTLINES_ID,	"{Stadtumrisse}
+> 
+511,512c513,514
+< ANIMATE_SPELLBOOK_ID,	"{Zauberbuch animieren}
+< 
+---
+> ANIMATE_SPELLBOOK_ID,	"{Zauberbuch animieren}
+> 
+516,517c518,519
+< Weltkarte	"{Weltkarte}
+< 
+---
+> Weltkarte	"{Weltkarte}
+> 
+519,520c521,522
+< Rätselkarte	"{Rätselkarte}
+< 
+---
+> Rätselkarte	"{Rätselkarte}
+> 
+522,523c524,525
+< Szenario-Info-Anzeige	"{Szenario-Info-Anzeige}
+< 
+---
+> Szenario-Info-Anzeige	"{Szenario-Info-Anzeige}
+> 
+525,526c527,528
+< Graben	"{Graben}
+< 
+---
+> Graben	"{Graben}
+> 
+528,529c530,531
+< Gegenerischen Zug neu spielen	"{Gegenerischen Zug neu spielen}
+< 
+---
+> Gegenerischen Zug neu spielen	"{Gegenerischen Zug neu spielen}
+> 
+532,533c534,535
+< Okay	"{Okay}
+< 
+---
+> Okay	"{Okay}
+> 
+537,538c539,540
+< Kapitulation	"{Kapitulation}
+< 
+---
+> Kapitulation	"{Kapitulation}
+> 
+540,541c542,543
+< Rückzug	"{Rückzug}
+< 
+---
+> Rückzug	"{Rückzug}
+> 
+543,544c545,546
+< Kampfoptionen	"{Kampfoptionen}
+< 
+---
+> Kampfoptionen	"{Kampfoptionen}
+> 
+546,547c548,549
+< Auto-Kampf	"{Auto-Kampf}
+< 
+---
+> Auto-Kampf	"{Auto-Kampf}
+> 
+551,552c553,554
+< Zauberspruch	"{Zauberspruch}
+< 
+---
+> Zauberspruch	"{Zauberspruch}
+> 
+554,555c556,557
+< Warten	"{Warten}
+< 
+---
+> Warten	"{Warten}
+> 
+557,558c559,560
+< Verteidigen	"{Verteidigen}
+< 
+---
+> Verteidigen	"{Verteidigen}
+> 
+561,562c563,564
+< Taktik-Phase beenden	"{Taktik-Phase beenden}
+< 
+---
+> Taktik-Phase beenden	"{Taktik-Phase beenden}
+> 
+566,567c568,569
 < Zurück zum Spiel	"{Zurück zum Spiel}
+< 
 ---
 > Zurück zur Schlacht	"{Zurück zur Schlacht}
-606c608
+> 
+569,570c571,572
+<  Normalwerte wiederherstellen	"{Normal}
+< 
+---
+>  Normalwerte wiederherstellen	"{Normal}
+> 
+595,596c597,598
+< AUTO_CREATURES_ID,	"{Kreaturen}
+< 
+---
+> AUTO_CREATURES_ID,	"{Kreaturen}
+> 
+598,599c600,601
+< AUTO_SPELLS_ID,	"{Zaubersprüche}
+< 
+---
+> AUTO_SPELLS_ID,	"{Zaubersprüche}
+> 
+601,604c603,606
+< AUTO_CATAPULT_ID,	"{Katapult}
+< 
+< Bei der Belagerung der Burg eines Gegneres werden Eure Katapulttruppen entscheiden, auf welchen Teil der Befestigungen sie zielen wollen. Wenn Eure Ballistik-Fähigkeit hoch genug ist, könnt Ihr selbst das Ziel bestimmen.
+< 
+---
+> AUTO_CATAPULT_ID,	"{Katapult}
+> 
+> Bei der Belagerung der Burg eines Gegneres werden Eure Katapulttruppen entscheiden, auf welchen Teil der Befestigungen sie zielen wollen. Wenn Eure Ballistik-Fähigkeit hoch genug ist, könnt Ihr selbst das Ziel bestimmen.
+> 
+606,609c608,611
 < AUTO_BALLISTA_ID,	"{Balliste}
----
-> AUTO_BALLISTA_ID,	"{Angriffs-Kampfmaschine}
-608c610
+< 
 <  Während des Kampfes werden Eure Ballistetruppen entscheiden, auf welche gegenerischen Einheiten sie zielen. Wenn Eure Artillerie-Fähigkeit hoch genug ist, könnt ihr das Ziel selbst bestimmen.
+< 
 ---
->  Während des Kampfes werden Eure Angriffs-Kampfmaschinentruppen entscheiden, auf welche gegenerischen Einheiten sie zielen. Wenn Eure Artillerie-Fähigkeit hoch genug ist, könnt ihr das Ziel selbst bestimmen.
-757c759
-< Hieb und Stich	Hieb und Stich		
+> AUTO_BALLISTA_ID,	"{Artillerie}
+> 
+>  Während des Kampfes werden Eure Artillerie-Truppen entscheiden, auf welche gegenerischen Einheiten sie zielen. Wenn Eure Artillerie-Fähigkeit hoch genug ist, könnt ihr das Ziel selbst bestimmen.
+> 
+611,614c613,616
+< AUTO_FIRST_AID_TENT_ID,	"{Erste Hilfe-Zelt}
+< 
+< Während des Kampfes werden Eure Erste Hilfe-Truppen entscheiden, wer geheilt werden muss. Wenn Eure Erste Hilfe-Fähigkeit hoch genug ist, könnt Ihr das Erste Hilfe-Zelt selber steuern.
+< 
 ---
-> Horn des Abgrunds	Horn des Abgrunds		
-759,760c761,762
-< Neuanfang	Neuanfang		
-< Elixier des Lebens	Elixier des Lebens																						
+> AUTO_FIRST_AID_TENT_ID,	"{Erste Hilfe-Zelt}
+> 
+> Während des Kampfes werden Eure Erste Hilfe-Truppen entscheiden, wer geheilt werden muss. Wenn Eure Erste Hilfe-Fähigkeit hoch genug ist, könnt Ihr das Erste Hilfe-Zelt selber steuern.
+> 
+619,620c621,622
+< CREATURE_INFO_STATS_ID,	"{Alle Statistiken}
+< 
 ---
-> Unter der Piratenflagge	Unter der Piratenflagge		
-> Schrecken der Meere	Schrecken der Meere																						
+> CREATURE_INFO_STATS_ID,	"{Alle Statistiken}
+> 
+622,623c624,625
+< CREATURE_INFO_SPELLS_ID,	"{nur Zaubersprüche}
+< 
+---
+> CREATURE_INFO_SPELLS_ID,	"{nur Zaubersprüche}
+> 
+625,626c627,628
+< VIEW_HEX_ID,	"{Hexgitter-Anzeige}
+< 
+---
+> VIEW_HEX_ID,	"{Hexgitter-Anzeige}
+> 
+628,629c630,631
+< MOVEMENT_SHADOW_ID,	"{Bewegungsschatten}
+< 
+---
+> MOVEMENT_SHADOW_ID,	"{Bewegungsschatten}
+> 
+631,632c633,634
+< SHADOW_CURSOR_ID,	"{Zeigerschatten}
+< 
+---
+> SHADOW_CURSOR_ID,	"{Zeigerschatten}
+> 
+634,635c636,637
+< ANIMATE_SPELLBOOK_ID,	"{Zauberbuch animieren}
+< 
+---
+> ANIMATE_SPELLBOOK_ID,	"{Zauberbuch animieren}
+> 
+651,652c653,654
+< Einheit entlassen	"{Einheit entlassen}
+< 
+---
+> Einheit entlassen	"{Einheit entlassen}
+> 
+654,655c656,657
+< Einheit aufrüsten	"{Einheit aufrüsten}
+< 
+---
+> Einheit aufrüsten	"{Einheit aufrüsten}
+> 
+657,658c659,660
+< Okay	"{Okay}
+< 
+---
+> Okay	"{Okay}
+> 
+686,687c688,689
+< Neuanfang	"{Neuanfang}
+< 
+---
+> Neuanfang	"{Neuanfang}
+> 
+689,690c691,692
+< Kampagnen-Intro ansehen	"{Kampagnen-Intro ansehen}
+< 
+---
+> Kampagnen-Intro ansehen	"{Kampagnen-Intro ansehen}
+> 

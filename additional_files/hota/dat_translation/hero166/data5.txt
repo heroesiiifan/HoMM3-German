@@ -1,3 +1,0 @@
-{Zauberei}
-
-Erhält einen Bonus von 5 % pro Stufe auf den Prozentsatz der Zauberei-Fertigkeit.

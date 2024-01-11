@@ -28,7 +28,7 @@
 > Kavallerist	Kavalleristen	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Lanzenbonus.	DOUBLE_WIDE | const_jousting
 > Kämpe	Kämpen	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Lanzenbonus.	DOUBLE_WIDE | const_jousting
 > Engel	Engel	0	0	0	0	0	1	3000	3585	5019	1	0	200	12	20	20	50	50	0	0	4	10	Fliegt. Haßt Teufel.	FLYING_ARMY | const_raises_morale | KING_2
-> Erzengel	Erzengel	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	Fliegt. +1 Moral. Haßt Teufel. Belebt Verbündete.	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
+> Erzengel	Erzengel	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	Fliegt. +1 Moral. Haßt Teufel. Belebt Verbündete (100 Trefferpunkte pro Erzengel).	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
 23,28c22,27
 < Zwerg	Zwerge	0	0	0	0	0	0	120	194	138	8	4	20	3	6	7	2	4	0	0	16	30	20% Magieresistenz.	0
 < Kampfzwerg	Kampfzwerge	0	0	0	0	0	0	150	209	209	8	4	20	5	7	7	2	4	0	0	16	25	40% Magieresistenz.	0
@@ -101,7 +101,7 @@
 < Teufel	Teufel	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	-1 Gegnerglück. Keine feindl. Gegenwehr. Haßt Engel.	FLYING_ARMY | KING_2
 < Erzteufel	Erzteufel	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8	-1 Gegnerglück. Keine feindl. Gegenwehr. Haßt Engel.	FLYING_ARMY | KING_2
 ---
-> Grottenlord	Grottenlords	0	0	0	0	0	0	700	1071	1224	3	0	45	7	13	13	13	17	0	1	8	12	Beschwört aus toten Verbündeten Dämonen.	0
+> Grottenlord	Grottenlords	0	0	0	0	0	0	700	1071	1224	3	0	45	7	13	13	13	17	0	1	8	12	Beschwört aus toten Verbündeten Dämonen (50 Trefferpunkte pro Grottenlord).	0
 > Efreet	Efreet	0	0	0	0	0	0	900	1413	1670	2	0	90	9	16	12	16	24	0	0	5	12	Fliegt. Immun gegen Feuer. Haßt Dschinns.	0
 > Efreetsultan	Efreetsultane	0	0	0	0	0	0	1100	1802	2343	2	0	90	13	16	14	16	24	0	0	5	10	Fliegt. Feuerschild. Immun gegen Feuer. Haßt Dschinns.	0
 > Teufel	Teufel	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	Teleportation. -1 Gegnerglück. Keine feindl. Gegenwehr. Haßt Engel.	FLYING_ARMY | KING_2
@@ -200,8 +200,8 @@
 < Hydra	Hydren	0	0	0	0	0	0	2200	4120	4120	1	0	175	5	16	18	25	45	0	0	4	10	Angriff auf alle benachbarten Feinde. Keine feindl. Gegenwehr.	DOUBLE_WIDE | KING_1
 < Chaoshydra	Chaoshydren	0	0	0	1	0	0	3500	5272	5931	1	0	250	7	18	20	25	45	0	0	3	8	Angriff auf alle benachbarten Feinde. Keine feindl. Gegenwehr.	DOUBLE_WIDE | KING_1
 ---
-> Echsenmensch	Echsenmenschen	0	0	0	0	0	0	110	115	126	9	0	14	4	5	6	2	3	12	0	16	30	Schießt.	SHOOTING_ARMY
-> Echsenkrieger	Echsenkrieger	0	0	0	0	0	0	140	130	156	9	0	15	5	6	8	2	5	24	0	16	25	Schießt.	SHOOTING_ARMY
+> Echsenmensch	Echsenmenschen	0	0	0	0	0	0	110	137	151	9	0	14	4	5	6	2	3	12	0	16	30	Schießt.	SHOOTING_ARMY
+> Echsenkrieger	Echsenkrieger	0	0	0	0	0	0	140	174	209	9	0	15	5	6	8	2	5	24	0	16	25	Schießt.	SHOOTING_ARMY
 > Gorgone	Gorgonen	0	0	0	0	0	0	525	890	890	3	0	70	5	10	14	12	16	0	0	8	16		DOUBLE_WIDE
 > Riesengorgone	Riesengorgonen	0	0	0	0	0	0	600	1028	1028	3	0	70	6	11	16	12	16	0	0	8	12	Todesblick.	DOUBLE_WIDE
 > Schlangenfliege	Schlangenfliegen	0	0	0	0	0	0	220	215	268	8	0	20	9	7	9	2	5	0	0	12	25	Fliegt. Zerstreut gute Zauber.	FLYING_ARMY

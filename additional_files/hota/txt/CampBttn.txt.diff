@@ -1,4 +1,412 @@
-69c69
-< Die Stiefel der Geschwindigkeit erhöhen die Bewegungsrate eines Helden an Land."
+2,3c2,3
+< "{Erste Hilfe-Zelt}
+< 
 ---
+> "{Erste Hilfe-Zelt}
+> 
+5,6c5,6
+< "{Pikenier}
+< 
+---
+> "{Pikenier}
+> 
+8,9c8,9
+< "{Seltene Rohstoffe}
+< 
+---
+> "{Seltene Rohstoffe}
+> 
+11,12c11,12
+< "{Engel}
+< 
+---
+> "{Engel}
+> 
+14,15c14,15
+< "{Zeloten}
+< 
+---
+> "{Zeloten}
+> 
+17,18c17,18
+< "{Zauberspruchrolle}
+< 
+---
+> "{Zauberspruchrolle}
+> 
+20,21c20,21
+< "{Goldener Bogen}
+< 
+---
+> "{Goldener Bogen}
+> 
+23,24c23,24
+< "{Löwenschild des Mutes}
+< 
+---
+> "{Löwenschild des Mutes}
+> 
+26,27c26,27
+< "{Endloser Goldsack}
+< 
+---
+> "{Endloser Goldsack}
+> 
+29,30c29,30
+< "{Gold}
+< 
+---
+> "{Gold}
+> 
+32,34c32,34
+< "{Erzengel}
+< 
+< Beginnt mit zwei Erzengeln
+---
+> "{Erzengel}
+> 
+> Beginnt mit zwei Erzengeln
+36,38c36,38
+< "{Titanen}
+< 
+< Beginnt mit zwei Titanen
+---
+> "{Titanen}
+> 
+> Beginnt mit zwei Titanen
+40,41c40,41
+< "{Zauberspruchrolle}
+< 
+---
+> "{Zauberspruchrolle}
+> 
+43,44c43,44
+< "{Zauberspruchrolle}
+< 
+---
+> "{Zauberspruchrolle}
+> 
+46,47c46,47
+< "{Zauberspruchrolle}
+< 
+---
+> "{Zauberspruchrolle}
+> 
+49,50c49,50
+< "{Logistik Experte}
+< 
+---
+> "{Logistik Experte}
+> 
+52,53c52,53
+< "{Schild der Zwergenlords}
+< 
+---
+> "{Schild der Zwergenlords}
+> 
+55,56c55,56
+< "{Zentaurenaxt}
+< 
+---
+> "{Zentaurenaxt}
+> 
+58,59c58,59
+< "{Navigation Experte}
+< 
+---
+> "{Navigation Experte}
+> 
+61,62c61,62
+< "{Drei Stufe 1 Magiergilden}
+< 
+---
+> "{Drei Stufe 1 Magiergilden}
+> 
+64,65c64,65
+< "{Eine Stufe 3 Magiergilde}
+< 
+---
+> "{Eine Stufe 3 Magiergilde}
+> 
+67,71c67,71
+< "{Stiefel der Geschwindigkeit}
+< 
+< Die Stiefel der Geschwindigkeit erhöhen die Bewegungsrate eines Helden an Land."
+< "{Logistik einfach}
+< 
+---
+> "{Stiefel der Geschwindigkeit}
+> 
 > Die Stiefel der Geschwindigkeit erhöhen die Bewegungsrate eines Helden an Land um 400."
+> "{Logistik einfach}
+> 
+73,74c73,74
+< "{Gold}
+< 
+---
+> "{Gold}
+> 
+76,78c76,78
+< "{Königsgreife}
+< 
+< Beginnt mit 35 Königsgreifen
+---
+> "{Königsgreife}
+> 
+> Beginnt mit 35 Königsgreifen
+80,82c80,82
+< "{Eisengolems}
+< 
+< Beginnt mit 35 Eisengolems
+---
+> "{Eisengolems}
+> 
+> Beginnt mit 35 Eisengolems
+84,86c84,86
+< "{Großelfen}
+< 
+< Beginnt mit 35 Großelfen
+---
+> "{Großelfen}
+> 
+> Beginnt mit 35 Großelfen
+88,89c88,89
+< "{Helm himmlischer Erleuchtung}
+< 
+---
+> "{Helm himmlischer Erleuchtung}
+> 
+91,92c91,92
+< "{Buch der Erdmagie}
+< 
+---
+> "{Buch der Erdmagie}
+> 
+94,95c94,95
+< "{Zauberhut}
+< 
+---
+> "{Zauberhut}
+> 
+97,98c97,98
+< "{Zauberspruchrolle}
+< 
+---
+> "{Zauberspruchrolle}
+> 
+100,101c100,101
+< "{Wunderrüstung}
+< 
+---
+> "{Wunderrüstung}
+> 
+103,104c103,104
+< "{Imps}
+< 
+---
+> "{Imps}
+> 
+106,108c106,108
+< "{Säule der Augen}
+< 
+< Euer Anfangsheld erhält eine Säule der Augen
+---
+> "{Säule der Augen}
+> 
+> Euer Anfangsheld erhält eine Säule der Augen
+110,111c110,111
+< "{Stufe 1 Magiergilde}
+< 
+---
+> "{Stufe 1 Magiergilde}
+> 
+113,115c113,115
+< "{Akademie der Kriegskunst}
+< 
+< Eure Anfangsstadt erhält eine Akademie der Kriegskunst
+---
+> "{Akademie der Kriegskunst}
+> 
+> Eure Anfangsstadt erhält eine Akademie der Kriegskunst
+117,118c117,118
+< "{Eeofol Helden}
+< 
+---
+> "{Eeofol Helden}
+> 
+120,121c120,121
+< "{Nighon Helden}
+< 
+---
+> "{Nighon Helden}
+> 
+123,124c123,124
+< "{Zauberspruchrolle}
+< 
+---
+> "{Zauberspruchrolle}
+> 
+126,127c126,127
+< "{Schwarzer Ritter}
+< 
+---
+> "{Schwarzer Ritter}
+> 
+129,131c129,131
+< "{Skelett-Transformer}
+< 
+< Eure Anfangsstadt erhält einen Skelett-Transformer
+---
+> "{Skelett-Transformer}
+> 
+> Eure Anfangsstadt erhält einen Skelett-Transformer
+133,142c133,142
+< "{Vampirkutte}
+< 
+< Die Vampirkutte erhöht Eure Nekromantiefähigkeit um 10%"
+< "{Nekromantie-Verstärker}
+< 
+< Eure Anfangsstadt erhält einen Nekromantie-Verstärker
+< (verbessert vorhandene Nekromantiefähigkeit bei verbündeten Helden)"
+< "{Entweihte Gräber}
+< 
+< Eure Anfangsstadt erhält entweihte Gräber
+---
+> "{Vampirkutte}
+> 
+> Die Vampirkutte erhöht Eure Nekromantiefähigkeit um 5%"
+> "{Nekromantie-Verstärker}
+> 
+> Eure Anfangsstadt erhält einen Nekromantie-Verstärker
+> (verbessert vorhandene Nekromantiefähigkeit um 5% bei allen eigenen Helden)"
+> "{Entweihte Gräber}
+> 
+> Eure Anfangsstadt erhält entweihte Gräber
+144,145c144,145
+< "{Anhänger des Todes}
+< 
+---
+> "{Anhänger des Todes}
+> 
+147,148c147,148
+< "{Zauberspruchrolle}
+< 
+---
+> "{Zauberspruchrolle}
+> 
+150,151c150,151
+< "{Zombies}
+< 
+---
+> "{Zombies}
+> 
+153,154c153,154
+< "{Zauberspruchrolle}
+< 
+---
+> "{Zauberspruchrolle}
+> 
+156,160c156,160
+< "{Totmannstiefel}
+< 
+< Die Totenstiefel erhöhen die Nekromantiefähigkeit um 15%."
+< "{Geisterdrachen}
+< 
+---
+> "{Totmannstiefel}
+> 
+> Die Totenstiefel erhöhen die Nekromantiefähigkeit um 7,5%."
+> "{Geisterdrachen}
+> 
+164,166c164,166
+< "{Festungsheld}
+< 
+< Beginnt mit einem beliebigen Festungshelden
+---
+> "{Festungsheld}
+> 
+> Beginnt mit einem beliebigen Festungshelden
+168,169c168,169
+< "{Donnervögel}
+< 
+---
+> "{Donnervögel}
+> 
+171,172c171,172
+< "{Zyklopenkönige}
+< 
+---
+> "{Zyklopenkönige}
+> 
+174,175c174,175
+< "{Ur-Behemoth}
+< 
+---
+> "{Ur-Behemoth}
+> 
+177,178c177,178
+< "{Wählt Tatalia}
+< 
+---
+> "{Wählt Tatalia}
+> 
+180,181c180,181
+< "{Wählt Krewlod}
+< 
+---
+> "{Wählt Krewlod}
+> 
+183,184c183,184
+< "{Stiefel der Geschwindigkeit}
+< 
+---
+> "{Stiefel der Geschwindigkeit}
+> 
+186,187c186,187
+< "{Gold}
+< 
+---
+> "{Gold}
+> 
+189,190c189,190
+< "{Pegasi}
+< 
+---
+> "{Pegasi}
+> 
+192,193c192,193
+< "{Eine Stufe 3 Magiergilde}
+< 
+---
+> "{Eine Stufe 3 Magiergilde}
+> 
+195,196c195,196
+< "{Gold}
+< 
+---
+> "{Gold}
+> 
+198,199c198,199
+< "{Dendroidsoldaten}
+< 
+---
+> "{Dendroidsoldaten}
+> 
+201,202c201,202
+< "{Dendroidsoldaten}
+< 
+---
+> "{Dendroidsoldaten}
+> 
+204,205c204,205
+< "{Dendroidwachen}
+< 
+---
+> "{Dendroidwachen}
+> 
+207,208c207,208
+< "{Holz}
+< 
+---
+> "{Holz}
+> 

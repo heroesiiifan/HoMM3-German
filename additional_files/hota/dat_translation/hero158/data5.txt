@@ -1,3 +1,0 @@
-{Sturmvögel und Ayssiden}
-
-Erhöht die Geschwindigkeit aller Sturmvögel oder Ayssiden um 1 und ihre Angriffs- und Verteidigungsfertigkeiten um 5 % für jeweils 4 Stufen (aufgerundet).

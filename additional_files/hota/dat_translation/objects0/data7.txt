@@ -1,7 +1,0 @@
-# Names
-# 0 (212, 1000)
-Aufgabentor
-# 1 (36, 1000–1003)
-Kampfplatz
-# 2 (212, 1001)
-Grab

@@ -6,6 +6,10 @@
 < Wachgeist	Die Präsenz des Wachgeistes erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht das Glück aller verbündeten Helden um +2.	
 ---
 > Wachgeist	Die Präsenz des Wachgeistes erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag und erhöht das Glück all Ihrer Helden um +2.	
+32c32
+< Luftschiff	Die Präsenz des Luftschiffes erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag, enthüllt die Karte der gesamten Welt und vergrößert das Wissen jedes verteidigenden Helden um +15 (solange er in der Stadt ist).	
+---
+> Luftschiff	Die Präsenz des Luftschiffes erhöht die Kreaturenerzeugung um 50%, versorgt Euer Königreich mit 5000 Gold extra jeden Tag, enthüllt die Karte der gesamten Welt und gibt dem verteidigenden Helden 150 Zauberpunkte (solange er in der Stadt ist).	
 49c49
 < Nekro-Verstärker	Der Nekromantie-Verstärker erhöht die Nekromantiefähigkeit aller Eurer Totenbeschwörer um +10%.	
 ---

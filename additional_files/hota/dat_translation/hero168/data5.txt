@@ -1,3 +1,0 @@
-{Feuerball}
-
-Wirft einen Feuerball, dessen Schaden für alle n Heldenstufen um 3% erhöht wird, wobei n die Stufe der anvisierten Kreatur ist.

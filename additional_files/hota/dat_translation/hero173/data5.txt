@@ -1,3 +1,0 @@
-(Nix und Nix-Krieger)
-
-Erhöht die Geschwindigkeit beliebiger Nix oder Nix-Krieger um 1 und ihre Angriffs- und Verteidigungsfähigkeiten um 5% für jeweils 6 Stufen (aufgerundet).

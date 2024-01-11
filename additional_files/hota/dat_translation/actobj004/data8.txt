@@ -1,7 +1,0 @@
-"{Mineralquelle}
-
-Die Pferde sehen nicht gerade begeistert aus, wenn sie das salzige Wasser trinken, aber bald merkt man, wie sie mit neuem Elan herumtänzeln. In den Tropfen über der funkelnden Quelle bildet sich ein Regenbogen, und der Anblick bringt alle in fröhliche Stimmung."
-(+1 Glück bis zum nächsten Kampf und +600 Bewegungspunkte für einen Tag)
-"{Mineralquelle}
-
-Alle haben den Bauch voll mit sprudelndem Wasser. Das ist genug Flüssigkeitszufuhr für heute."

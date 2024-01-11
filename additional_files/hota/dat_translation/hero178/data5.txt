@@ -1,3 +1,0 @@
-{Interferenz}
-
-Erhält einen Bonus von 5 % pro Stufe auf den Prozentsatz der Interferenz-Fertigkeit.

@@ -73,137 +73,137 @@ def patch(fn1, fn2, camp):
     output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
 
-os.makedirs("_tmp/ChroniclesMod_patched\Data", exist_ok=True)
-for filename in glob.glob(os.path.join("homm3_files\ChroniclesMod\Data", '*.*')):
-    copy(filename, "_tmp/ChroniclesMod_patched\Data\\" + os.path.basename(filename))
+os.makedirs("_tmp/ChroniclesMod_patched/Data", exist_ok=True)
+for filename in glob.glob(os.path.join("homm3_files/ChroniclesMod/Data", '*.*')):
+    copy(filename, "_tmp/ChroniclesMod_patched/Data\\" + os.path.basename(filename))
 
-copy(r"additional_files\translation\campaign\chronicles\Revolt of the Beastmasters.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
-copy(r"additional_files\translation\campaign\chronicles\Tutorial_Bun.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Revolt of the Beastmasters.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Tutorial_Bun.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c")
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Bun_bmE.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Bun_bmE.lod"] + ["_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Bun_bmE.lod"] + ["_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 patch("Bun_bmE.lod", "Bun_spE.lod", 1)
-copy(r"_tmp\chronicles\07_vid\Intro5.smk", "_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk")
-with open("_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
+copy(r"_tmp\chronicles\07_vid\Intro5.smk", "_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk")
+with open("_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
     f.seek(0x48)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
     f.seek(0x54)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Bun_E.VID"] + ["_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Bun_E.VID"] + ["_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 #command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Bun_spE.lod"] + ["_tmp/chronicles/07_spr/" + s for s in os.listdir("_tmp/chronicles/07_spr/")]
 #output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
-copy(r"additional_files\translation\campaign\extra\WorldTree(dt).h3c", "_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
+copy(r"additional_files\translation\campaign\extra\WorldTree(dt).h3c", "_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Drz_bmE.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Drz_bmE.lod"] + ["_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Drz_bmE.lod"] + ["_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 patch("Drz_bmE.lod", "Drz_spE.lod", 2)
 
-copy(r"additional_files\translation\campaign\chronicles\The Sword of Frost.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
-copy(r"additional_files\translation\campaign\chronicles\Tutorial_Mie.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c")
+copy(r"additional_files\translation\campaign\chronicles\The Sword of Frost.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Tutorial_Mie.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c")
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Mie_bmE.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Mie_bmE.lod"] + ["_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Mie_bmE.lod"] + ["_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 patch("Mie_bmE.lod", "Mie_spE.lod", 3)
-copy(r"_tmp\chronicles\08_vid\Intro6.smk", "_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk")
-with open("_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
+copy(r"_tmp\chronicles\08_vid\Intro6.smk", "_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk")
+with open("_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
     f.seek(0x48)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
     f.seek(0x54)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Mie_E.VID"] + ["_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Mie_E.VID"] + ["_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
-copy(r"additional_files\translation\campaign\extra\FieryMoon(dt).h3c", "_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
+copy(r"additional_files\translation\campaign\extra\FieryMoon(dt).h3c", "_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Ogn_bmE.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Ogn_bmE.lod"] + ["_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Ogn_bmE.lod"] + ["_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 patch("Ogn_bmE.lod", "Ogn_spE.lod", 4)
 
-copy(r"additional_files\translation\campaign\chronicles\Conquest of the Underworld.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
-copy(r"additional_files\translation\campaign\chronicles\Tutorial_Pod.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Conquest of the Underworld.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Tutorial_Pod.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c")
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Pod_bmE.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Pod_bmE.lod"] + ["_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Pod_bmE.lod"] + ["_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 patch("Pod_bmE.lod", "Pod_spE.lod", 5)
-copy(r"_tmp\chronicles\02_vid\Intro.smk", "_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk")
-with open("_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
+copy(r"_tmp\chronicles\02_vid\Intro.smk", "_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk")
+with open("_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
     f.seek(0x48)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
     f.seek(0x54)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Pod_E.VID"] + ["_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Pod_E.VID"] + ["_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
-copy(r"additional_files\translation\campaign\chronicles\Clash of the Dragons.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
-copy(r"additional_files\translation\campaign\chronicles\Tutorial_Sza.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Clash of the Dragons.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Tutorial_Sza.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c")
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Sza_bmE.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Sza_bmE.lod"] + ["_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Sza_bmE.lod"] + ["_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 patch("Sza_bmE.lod", "Sza_spE.lod", 6)
-copy(r"_tmp\chronicles\04_vid\Intro.smk", "_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk")
-with open("_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
+copy(r"_tmp\chronicles\04_vid\Intro.smk", "_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk")
+with open("_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
     f.seek(0x48)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
     f.seek(0x54)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Sza_E.VID"] + ["_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Sza_E.VID"] + ["_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
-copy(r"additional_files\translation\campaign\chronicles\Masters of the Elements.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
-copy(r"additional_files\translation\campaign\chronicles\Tutorial_Wla.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Masters of the Elements.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Tutorial_Wla.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c")
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Wla_bmE.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Wla_bmE.lod"] + ["_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Wla_bmE.lod"] + ["_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 patch("Wla_bmE.lod", "Wla_spE.lod", 7)
-copy(r"_tmp\chronicles\03_vid\Intro.smk", "_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk")
-with open("_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
+copy(r"_tmp\chronicles\03_vid\Intro.smk", "_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk")
+with open("_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
     f.seek(0x48)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
     f.seek(0x54)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Wla_E.VID"] + ["_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Wla_E.VID"] + ["_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
-copy(r"additional_files\translation\campaign\chronicles\Warlords of the Wasteland.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
-copy(r"additional_files\translation\campaign\chronicles\Tutorial_Woj.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Warlords of the Wasteland.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
+copy(r"additional_files\translation\campaign\chronicles\Tutorial_Woj.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c")
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Woj_bmE.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Woj_bmE.lod"] + ["_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Woj_bmE.lod"] + ["_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c", "_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 patch("Woj_bmE.lod", "Woj_spE.lod", 8)
-copy(r"_tmp\chronicles\01_vid\Intro.smk", "_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk")
-with open("_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
+copy(r"_tmp\chronicles\01_vid\Intro.smk", "_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk")
+with open("_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk", "r+b") as f: #entfernen der "anderen" Audiospuren
     f.seek(0x48)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
     f.seek(0x54)
     f.write(b'\0\0\0\0')
     f.write(b'\0\0\0\0')
-command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Woj_E.VID"] + ["_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk"]
+command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Woj_E.VID"] + ["_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk"]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
-os.remove("_tmp/ChroniclesMod_patched\Data\\" + "ab.h3c")
-os.remove("_tmp/ChroniclesMod_patched\Data\\" + "Good1.h3c")
-os.remove("_tmp/ChroniclesMod_patched\Data\\" + "NWCLOGO.smk")
+os.remove("_tmp/ChroniclesMod_patched/Data\\" + "ab.h3c")
+os.remove("_tmp/ChroniclesMod_patched/Data\\" + "Good1.h3c")
+os.remove("_tmp/ChroniclesMod_patched/Data\\" + "NWCLOGO.smk")
 
 command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Wsz_snE.snd"] \
     + ["_tmp/chronicles/01_snd/" + s for s in os.listdir("_tmp/chronicles/01_snd")] \
@@ -214,7 +214,7 @@ command = ["tools/mmarch.exe", "add", "_tmp/ChroniclesMod_patched/Data/" + "Wsz_
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 
 zipObj = ZipFile('_out/HoMM3DE_ChroniclesMod.zip', 'w', zipfile.ZIP_STORED)
-for dirpath,dirs,files in os.walk("_tmp/ChroniclesMod_patched\Data\\"):
+for dirpath,dirs,files in os.walk("_tmp/ChroniclesMod_patched/Data\\"):
   for f in files:
     fn = os.path.join(dirpath, f)
     zipObj.write(fn, arcname=os.path.join("Data", f))

@@ -1,3 +1,0 @@
-{Charme der Eklipse}
-
-Dieser Gegenstand reduziert die Kraftfertigkeit des gegnerischen Helden während des Kampfes um 10 %.
