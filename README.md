@@ -72,11 +72,9 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 
 ### HotA
 * SpTraits.txt ggf. noch von DeepL optimieren
-* Bessere (?) Übersetzungen für DeepL-konvertierte Maps
+* Bessere (?) Übersetzungen für DeepL-konvertierte Maps/ingame text
 * Hauptmenü Icons (+ loadgame & savegame bmp)
-
-* JSON updaten
-* neue Kampagne übersetzen
+* Original HotA font (hinzufügen der umlaute / ß)
 
 ### Chronicles Mod
 * Launcher (in .NET geschrieben; mit "dnlib" sollten sich Strings/Ressourcen anpassen lassen)
@@ -95,7 +93,7 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 
 ## Changelog
 ### 1.10.0
-* Unterstützung von HotA 1.7.0
+* Unterstützung von HotA 1.7.0 (Dankeschön an Darktobas für die Kampagne)
 
 ### 1.9.3
 * CSSexit.def korrigiert -> Im Kampagnenbildschirm wird nun "Zurück" angezeigt (für VCMI irrelevant)

@@ -1,0 +1,531 @@
+===== Map name =====
+Neue Ordnung
+
+===== Map description =====
+Kastore kam in Burton an die Macht. Die Halblinge wurden verbannt. Sammelt Ressourcen für die Heimreise nach Eofol und erreicht die Luftschiffwerft, um zu gewinnen. Eure Helden sind auf Stufe 36 beschränkt, nehmen den Admiralshut zur nächsten Karte mit.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+AI - minus resources
+Message:
+
+
+Name:
+Return to Jadame - Part I
+Message:
+Auf dem ganzen Weg zurück nach Jadame freute ich mich nur auf eine Sache. Sobald ich an Land war, würde ich die frohe Botschaft mit allen Halblingen teilen. Tavin ist am Leben! Und das bedeutet, dass auch andere am Leben sind - die Familie von jemandem, seine Brüder, seine Freunde. Wir werden sofort mit den Vorbereitungen für einen Rettungstrupp beginnen, und meine neuen Fähigkeiten werden dazu beitragen, dass es weitaus erfolgreicher abläuft als bei meinem letzten Einsatz. Die jahrelange harte Arbeit hat sich gelohnt: Unsere neuen Luftschiffe sind schneller und geräumiger. Jetzt werden wir eine Armee von Kriegern rekrutieren, deren Herzen vor Gerechtigkeit brennen, und die mächtigen Dreadnoughts beladen. Wir werden nach Eeofol zurückkehren und uns auf den Feind stürzen. Da sie durch ihren Krieg mit den Helden von Erathia gebunden sind, können wir dort zuschlagen, wo niemand mit uns rechnet. Wir werden alle retten, sie hierher bringen und ihnen zeigen, wie gut es uns ergangen ist! Ich konnte nicht anders, als Wynona jedes Detail meiner Zukunftspläne mitzuteilen. Obwohl sie mich sehr unterstützt hat, glaube ich, dass ich sie mit meinem Geplapper etwas gelangweilt habe.
+
+Name:
+Return to Jadame - Part II
+Message:
+Schließlich kam der lang ersehnte Tag: Unser Schiff ging an einem kleinen Anleger vor Anker. Käfige mit exotischen Tieren und Kisten voller Couatl-Eier wurden ausgeladen. Weder ich noch die anderen Expeditionsteilnehmer konnten unsere Freude verbergen. Nachdem wir monatelang durch den nassen, schlammigen Dschungel gewandert waren, fühlte sich dieses Land für uns noch wertvoller an als zuvor, auch wenn es von der Sonne versengt und trist aussah.
+
+Name:
+Morton and Fort Rotwang
+Message:
+Wir bewegten uns vorsichtig ins Landesinnere und mieden die großen Straßen und das offene Land. Unsere Ohren wurden zu unseren Augen; je mehr Augen, desto besser, wenn man gejagt wird. Ich grinste bitter, denn ich hätte gerne noch ein paar mehr Augenpaare gehabt, wenn Agar verfügbar gewesen wäre. Als ich an einer Schlucht vorbeikam, hörte ich ein kaum wahrnehmbares Geräusch, ein Schniefen oder Schnarchen. Ich wies Wynona mit einer Geste an, langsamer zu gehen. Die Ohren der Elfe zuckten, und eine Sekunde später deutete sie in die Richtung, aus der das Geräusch gekommen war. Leise, wie ein wahrer Kundschafter, schlich ich mich an der angegebenen Stelle in die Schlucht. Was ich sah, war ein trauriger Anblick: ein paar ausgemergelte, verwundete Halblinge, die sich unter schmutzigen, zerfetzten Lumpen versteckten. Ich konnte ihre Gesichter nicht sehen, aber ihre nackten Fersen, die mit spärlichen grauen Haaren bedeckt waren, ließen mein Herz schneller schlagen. 	"Kosta, du alter Halunke! Steh auf! Deine Ponys haben schon wieder alle Möhren von Melanie gefressen!"	Kosta sprang auf und starrte mich ängstlich an. Dem alten Fuhrmann stiegen Tränen in die Augen und ein Schrei des Entsetzens entrang sich seiner Brust, aber sobald seine purpurnen Augen mein Gesicht erkannten, begann er noch lauter zu weinen, diesmal vor Freude. 	"Henrietta, bist du das? Ich habe die Nase voll. Sie haben mich also gefunden, und ich bin jetzt im Himmel."	"Was redest du da, Kosta? Ich bin's, ich lebe. Und du bist am Leben! Was ist mit dir passiert?"	"Morton. Dieser verdammte Goblin! So viele meiner Freunde wurden von seiner teuflischen Maschinerie erledigt! Wir haben es kaum aus Rotwang herausgeschafft."		"Moment. Morton? Hat er uns auch verraten?"	"Ja, Mädchen, er auch. Kein Wunder, denn er ist ja auch ein grünhäutiger Abschaum. Als die Leute aus dem Norden mit schlechten Nachrichten kamen, bereiteten wir uns auf ein Gefecht vor. Wir haben sogar eine kleine List angewandt, Morton in einen Hinterhalt gelockt und ein Dutzend seiner schießwütigen Leute ausgeschaltet, aber der krötengesichtige Irre hat sich trotzdem in den Vorstädten verschanzt. Nur eine Handvoll von uns Soldaten überlebte, also sind wir hier. Es gab keinen Weg zurück in die Stadt, und wir suchten nach Hilfe." 	"Hab keine Angst, alter Knabe. Du hast sie gefunden!"	"Also wird Rotwang entweder belagert oder ist bereits gefallen. Selbst wenn letzteres der Fall ist, muss die Stadt großen Schaden erlitten haben, so dass Morton eine Weile brauchen wird, um seine Verteidigung wieder aufzubauen", dachte ich, während ich unsere Optionen überlegte.
+
+Name:
+Kastore comes to power
+Message:
+Sobald er unter unserem Schutz stand, kam Kosta schnell wieder zu sich. Sicher, er wurde nicht jünger, aber er war nicht mehr der bemitleidenswerte, halbtote, entsetzte und erschöpfte Arme, den wir wie ein Hase in einem Loch versteckt gefunden hatten. Er erzählte mir ausführlich, was in den letzten Monaten geschehen war. Ich hatte Kastore nie gemocht; ich spürte etwas in ihm, das es mir schwer machte zu glauben, dass sein Wunsch, Burton zum Wohle aller Menschen in Terra Nova zu helfen, aufrichtig war, denn er ließ keine Gelegenheit aus, vom Podium aus Erklärungen abzugeben. Es stellte sich heraus, dass ich mich nicht geirrt hatte. Der Mann, der von jenseits des Meeres kam, griff nach allem, was er in die Finger bekam. Er verlangte ständig, dass mehr Erz abgebaut und gekauft und mehr Maschinen gebaut werden sollten; niemand verstand, warum. Die Schichten der Halblinge wurden immer länger und die Arbeitsbedingungen immer schlechter. Viele wandten sich an Frederick, wie sie es schon früher getan hatten, als er dem Aufsichtsrat der Vereinigten Burton-Werke vorstand, aber die Wachen ließen sie nicht zu ihm. Seit Wochen hatte niemand mehr den Erfinder gesehen. Nach Kastores Ankunft hatte Frederick begonnen, für längere Zeit zu verschwinden und offenbar in Laboren zu forschen, die vor neugierigen Blicken verborgen waren, und jetzt war es, als wäre er für immer verschwunden - es schien, als wüsste niemand außer dem Hexenmeister, wo er war. Als die ersten verärgerten Arbeiter streikten und die Dampfhämmer anhielten, um eine Neuverhandlung der Lohnvereinbarung zu fordern, ließ Kastore seine Söldner mit breitkrempigen Hüten und langen Mänteln auf sie los und schlug den Protest brutal nieder.	"Das waren nicht unsere Leute - wer weiß, wo der verfluchte Hexenmeister diese Mistkerle hergeholt hat", sagte Kosta.	Kastores Reaktion gab den Halblingen jedoch nur noch mehr Auftrieb; sie hatten längst gelernt, sich zu wehren, wenn jemand versuchte, ihnen das wegzunehmen, was sie als ihr Eigentum betrachteten. Bald waren die meisten Fabriken stillgelegt, viele Maschinen zerstört, und meine Brüder begannen, Milizen aufzustellen. Sie fingen die Söldner und schlugen sie zusammen, wo immer sie konnten, und bemalten die Wände mit Sprüchen, die dazu aufriefen, den ungebetenen Gast aus Deyja vom Thron zu stoßen, den er sich selbst geschaffen hatte, ohne Rücksicht auf die Meinung derer, die in Burton oder den anderen freien Städten keine Könige oder Herrscher haben wollten. Dann ächtete Kastore jeden einzelnen Halbling; einige wurden an ihre Maschinen gefesselt, andere in die Kerker geworfen. Diejenigen, denen seine Banditen nicht zu Leibe rücken konnten, wurden gejagt. Ich, der Anführer des rebellischen Volkes, wurde der Anstiftung zur Sabotage und der Organisation von Aufständen beschuldigt.
+
+Name:
+Murdoch
+Message:
+Wir hatten in Larimar Fuß gefasst, aber es lohnte sich nicht, hier lange zu bleiben. Diese kleine, armselige Stadt war kein gutes Basislager für uns, und die Einheimischen hatten regelrecht Angst vor uns. Natürlich wäre es dumm, ihnen deswegen böse zu sein: Schuld daran waren die drakonischen Gesetze aus Kastores Feder und die vom Usurpator versprochenen Strafen. Der Strafkodex machte fast die Hälfte des gewichtigen Bandes Leges Terrae Novae aus, der erst vor einem Monat von der Druckerei Burton veröffentlicht worden war. Wenn man bedenkt, dass es noch kein Jahr her ist, dass wir Seite an Seite mit diesen Männern den Widrigkeiten getrotzt und für unsere gemeinsame Zukunft gearbeitet haben! Und nun haben sich unsere Wege getrennt und werden sich mit jedem Tag weiter voneinander entfernen. Der beste Beweis dafür war meine Begegnung mit einem einheimischen Jungen, der zu jung war, um sich an unsere Kämpfe gegen die Piraten oder Zog zu erinnern. Der Junge sprang mit einem lauten Schrei, der wahrscheinlich als Schlachtruf gedacht war, hinter dem Gebüsch hervor. Ich hätte fast gelacht, so lustig klang seine vogelartige Stimme. Nicht im Geringsten verlegen darüber, dass er nicht den gewünschten Eindruck auf mich gemacht hatte, zielte der Junge mit dem Stock, den er in seiner Fantasie zu einer Waffe gemacht hatte, auf mich:	"Stirb, du verräterischer Zwerg! Peng, peng, peng! Ich bin Murdoch, der beste Scharfschütze im Ravage Roaming! Ich treffe das Herz eines Feindes aus einer Meile Entfernung! Fürchtet mich!" 	Früher habe ich mit den Kindern gelacht und mitgespielt, wenn sie sich in ihren Spielen als Unholde, Kobolde und andere Monster verkleidet haben, aber das hier war anders. Die Possen des Kindes fielen mir unangenehm auf. Ich gab meiner Empörung nach, riss dem kleinen Tyrannen den Stock aus der Hand, warf ihn über mein Knie ins Gebüsch und verpasste ihm eine kräftige Ohrfeige. Der Junge war kein Feigling; er brach nicht in Tränen aus, sondern spuckte mich an und rannte davon, wobei er zurückblickte und rief:	"Ja, das wirst du auch bereuen! Murdoch ist in der Nähe, und er weiß, dass du hier bist! Du wirst schon sehen! Er wird euch alle erschießen wie die Präriehunde, die ihr seid, und wir werden aufhören, Angst zu haben, und alles wird wieder so sein wie vorher!"
+
+Name:
+Moonchild
+Message:
+Ich saß allein am Feuer und war in Gedanken versunken, als Kosta auf mich zukam und mir eine Flasche mit dreifachem Kaktusschnaps hinhielt, ein zähneknirschend starkes Gebräu, das er selbst destilliert hatte und auf das er unglaublich stolz war. Ich war nie ein Freund von Feierlichkeiten; ich nahm ein paar Schlucke, und dann saßen wir einfach schweigend da. Ich erinnerte mich daran, wie ich früher, als ich noch sehr klein war, an den Winterabenden in der Hütte des alten Haye am Kamin saß, und mein Pflegegroßvater, der gewöhnlich pingelig und schrill war, mir mit seinen steifen Fingern die Haare über dem rechten Ohr flocht.	"Hör zu, Kosta... Was ist ein Mondkind? Hast du jemals gehört, dass jemand so genannt wird?"	"Es ist bekannt, Mädchen... Wenn ein junges Mädchen..."	Der alte Fuhrmann erschauderte plötzlich, als ob er sich an etwas sehr Wichtiges erinnerte, und schrie fast: "Nein, nein, weiß von keinem Kind, will es nicht wissen, nie gesehen, nie in der Nähe gewesen, verdammt, woher die Gehörnten ihre Jungen holen!"	Der alte Mann ließ den Flachmann fallen, sprang auf und ging davon, wobei er mit den Absätzen auf den Sand klatschte. Ich saß da und starrte in die Flammen. Eine schlanke Gestalt tauchte aus der Dunkelheit auf. Wynona stand auf der anderen Seite des Feuers, den Kopf in den Himmel erhoben.	"Wir haben ein Lied... Du kennst unsere Sprache nicht, aber ich werde versuchen, es für dich zu übersetzen."			Nennt sie Mondkind	Sie tanzt in den Untiefen eines Flusses.	Einsames Mondkind	Träumend im Schatten einer Weide.	Spricht mit den Bäumen des Spinnennetzes seltsam,	Schläft auf den Stufen eines Brunnens,	Winkt mit dem silbernen Stab zum Gesang der Nachtvögel,	Auf dem Berg auf die Sonne wartend.		"Das ist wunderschön... Aber warum war er so verängstigt? Das kann doch nicht wegen eines Elfenliedes gewesen sein. Es muss etwas anderes sein... Ich wünschte, ich wüsste die Antwort, aber ich will nicht, dass noch mehr arme alte Männer sterben oder vor Angst weglaufen. Ihr Götter, ich habe Euch nie um die Geheimnisse meiner Vergangenheit gebeten. Mir gefällt die Gegenwart sehr gut; ich bin lebendig, stark und in der Lage, selbst zu entscheiden, was ich will und wohin ich gehe... Warum jetzt?"
+
+Name:
+Mission Objectives
+Message:
+Als sie geächtet wurden, verließen meine Leute ihre Häuser und Werkstätten in aller Eile. In den Fabriken arbeiteten jetzt unterwürfige grünhäutige Goblins - ihre Zahl war groß, und sie würden alles tun, um ihrer bitteren Armut zu entkommen. Erstaunlicherweise bedeuteten eine Koje in einer Arbeiterbaracke und eine Schüssel mit klebrigem Rohrkolbenschleim, dem billigsten Essen, das man sich vorstellen kann, für sie einen beneidenswerten Wohlstand. Sie hatten keine Ahnung von Arbeitsschutz und -sicherheit, und Arbeitsunfälle konnten ihren Arbeitseifer nicht erschüttern. Sie waren ungeschickt und lernten nur langsam, aber die neuen, von Kastore ernannten Fabrikaufseher konnten problemlos jeden Tag einen Arbeiter an der Maschine austauschen; früher oder später musste sich herausstellen, dass einer zumindest einigermaßen lernfähig war. All das bedeutete, dass Kastore nicht mehr den geringsten Bedarf an den Halblingen hatte. Viele flohen nach Süden, in Städte, die die gierige Hand des Usurpators noch nicht erreicht hatte. Ein solcher letzter Hort der Freiheit war Fort Rotwang, das nun von Morton belagert wurde. Die Sabotage der Bürgerwehr hat dem Goblin ganz schön zugesetzt, und wir hatten nun zwei oder drei Wochen Zeit, bevor er sich wirklich verschanzen und Verstärkung holen konnte. Bis dahin mussten wir die Belagerung durchbrechen und uns mit den Flüchtlingen in der Stadt vereinen. Nach der Befreiung sollte Rotwang unser Hauptstützpunkt werden, von dem aus wir unsere Flucht nach Eeofol vorbereiten würden. Ein Rettungstrupp kam jetzt natürlich nicht mehr in Frage - sobald wir Jadame verlassen hatten, würde hier niemand mehr auf uns warten. Der Einsatz war so hoch wie nur möglich: Entweder wir helfen Erathia, die rothäutigen Heuschrecken zu besiegen und unsere Heimat zurückzugewinnen, oder wir sterben bei dem Versuch. Ein solches Schicksal ist sicherlich besser, als irgendwo am Rande der Welt als zweifacher Flüchtling zu enden. Einer der Halblinge in Kostas Truppe entpuppte sich als erfahrener Planer aus dem Zentralbüro der Vereinigten Werke. Mit seiner Hilfe konnten wir die Berechnungen anstellen. Wir würden mindestens 125 Einheiten Schwefel, Quecksilber und Erz für die Aufrüstung und den langen Flug benötigen. Ich überlegte, ob ich versuchen sollte, mit Frederick Kontakt aufzunehmen, aber niemand wusste, wo er sich aufhielt, was mit ihm geschehen war oder ob er etwas mit dem zu tun hatte, was hier in dem Land vor sich ging, das wir erst seit kurzem als unser eigenes betrachteten.	Ich danke dir, alter Freund! Du hast uns gerettet und uns geholfen, mutig und einfallsreich zu werden. Dir verdanke ich die Stärke, die in mir lebt und die ich jeden Tag mehr und mehr spüre. Es ist an der Zeit, mein Leben und das Schicksal meines Volkes in die Hand zu nehmen. Wir werden unseren eigenen Weg gehen. Ich hoffe, es geht dir gut, wo immer du bist. Ich glaube, wir werden uns eines Tages wiedersehen, und du wirst mir von deinen neuen wunderbaren Entdeckungen erzählen.
+
+Name:
+Lightning Rod Warning
+Message:
+Ich sprang auf dem Bett auf; da war ein Gefühl, das ich in den Erinnerungen an mein altes Leben in Eeofol längst verloren glaubte. Die Haare an meinen Füßen sträubten sich... und nicht nur an meinen Füßen. Als ich aus dem Zelt trat, sah ich meine Kameraden, die alle eine Art Löwenzahnfrisur trugen. Die Luft roch nach einem Gewitter... und nach etwas anderem. Dieser Geruch - woher kannte ich ihn? Ach ja. Natürlich.	Meine Erinnerung öffnete die Schleusen, und Empfindungen strömten auf mich ein. Sehen, hören, riechen, sogar schmecken - alles war wieder so scharf, wie in meiner Kindheit. Ein langer Sommertag in meiner sorglosen Jugend: Frederick in seiner Werkstatt, er zeigte mir eine glänzende Eisenkugel und erzählte mir von Blitzen, von Ladungen und davon, wie er den Blitz nutzbar machen wollte, um Mühlsteine zu drehen, die Dunkelheit von Höhlen zu erhellen und sogar wilde Tiere zu vertreiben. Er klickte etwas, der Raum füllte sich mit diesem vertrauten Geruch, und die Haare an meinen Füßen stellten sich auf, genau wie jetzt. Ich erschauderte. Ich erinnerte mich an das, was als Nächstes gekommen war. Frederick lächelte geheimnisvoll und lud mich ein, die glänzende Kugel zu berühren. Ich streckte die Hand aus, um das hübsche kleine runde Ding zu ertasten, aber es war noch eine gute Elle zwischen meiner Hand und dem Ball, als der Blitz mit einem lauten Knall einschlug und Schmerzen durch meinen Körper schossen. Ich weinte und fluchte eine ganze Weile, während Frederick sich entschuldigte und Worte murmelte, die ich zu diesem Zeitpunkt nicht verstand - irgendetwas über Kalibrierung, berechnete Kraft und Energie, die durch den Bogen geht. Könnte es sein, dass er schließlich den Blitz gemeistert hat, aber die Kunsthandwerker jetzt denken, dass die wilden Tiere... wir sind?
+
+Name:
+Lightning Rod Warning... Again
+Message:
+Meine schlimmsten Befürchtungen wurden bestätigt. Wir stießen auf etwas, das ich nur als hässliche Manifestation des verdrehten Genies eines dunklen Experiments beschreiben kann. Wir waren bei einem Aufklärungsflug in ein kleines Felsental geraten. Der Geruch von Gewitter und verbranntem Fleisch und verkohlte Skelette, die an metallenen Blitzableitern festgebunden waren - das war die düstere Dekoration der tristen Einöde, die wir sahen. Der Sand um die Eisenkonstruktionen war an einigen Stellen zu Glas geworden; einige große Steine waren zersplittert und ihre freiliegenden Oberflächen wiesen baumartige Muster auf, die von einer unbekannten Kraft in sie hinein gebrannt worden waren. Sie hatten eine Art düstere, magnetische Schönheit... Hier und da waren verbrannte Markierungen mit einer Art von Zahlen darauf verstreut. Es war eine Hinrichtung, eine lange und schmerzhafte; es sah so aus, als ob sie die ganze Zeit andauerte, während die Unglücklichen ihre neue Waffe testeten. Ich hoffte inständig, dass der Geist, der hinter dieser grausamen Vorrichtung steckte, nicht der von Frederick war. Jetzt wussten wir: Ein Donnerschlag konnte jeden von uns jederzeit treffen. Daran mussten wir denken und versuchen, uns irgendwie zu schützen.
+
+Name:
+Couatls Scouts
+Message:
+An diesem Tag kehrte der Couatl, den Wynona und ich zu einem Späher machen wollten, ins Lager zurück. Ich war noch nicht davon überzeugt, dass diese Kreaturen irgendwo anders als auf dem Schlachtfeld nützlich sein könnten. Doch die Elfe bestand darauf, dass die Couatls unglaublich intelligent waren. Sie hatte viel schneller eine gemeinsame Basis mit diesen Kreaturen gefunden, als ich erwartet hatte. Wahrscheinlich dank des Rituals von Tlamac. Ich hatte schon fast vergessen, wie aufregend es war, meiner Freundin dabei zuzusehen, wie sie einer kleinen Schlange, deren Federn in allen Rottönen schimmerten, aus dem Ei half. Es war, als wäre es schon Generationen her, als die Couatls noch über die Welt herrschten und die Welt nur aus ein paar Inseln bestand...	Wynonas Bindung zu ihren neuen Freunden war ungewöhnlich, aber unzerstörbar. Als sie den müden Späher an seinem großen, kantigen Kopf umarmte, konnte sie alles sehen, was er selbst in den letzten Tagen gesehen hatte. Es schien, als wären wir nicht die einzigen Ziele der Kopfgeldjäger, die Kastore ausgesandt hatte. Der Couatl sah mehrere Revolverhelden, die einen gefesselten Mann schleppten, der wie ein Alchemist aussah. Im Norden befand sich ein weiteres Gefängnis, das von Juggernauten bewacht wurde, aber es war nicht zu erkennen, wer sich dort aufhielt.	Wir waren nicht allein in unserem Kampf gegen Kastore, das war zumindest ein ermutigendes Gefühl. 
+
+Name:
+Abandoned Factory
+Message:
+Wynona machte große Fortschritte bei der Bewältigung der Vorzüge ihrer Freundschaft mit den Couatls. Es ist noch gar nicht so lange her, da musste ich schmunzeln, als sie versuchte, ihrem ersten gefiederten Spion die Aufgabe zu erklären; jetzt hatten wir einen ganzen Schwarm flinker Späher, die die Wolken auskundschafteten und feindliche Luftschiffe vom Abheben abhielten. Die Couatls sind viel schlauer als die Flügeldrachen, die sich aus Gewohnheit auf die Propeller der Luftschiffe stürzen und mehr als ein Dutzend verlieren, bevor sie auf die Idee kommen, den Ballon anzugreifen. Umgekehrt kannten unsere geflügelten Freunde die Schwachstellen der Luftschiffe genau, so dass wir nun die entscheidende Luftüberlegenheit hatten. Außerdem wussten wir dank dieser erstaunlichen Geschöpfe von der gut befestigten, uneinnehmbaren Festung der Verräter und von mindestens drei Kommandeuren der wachsenden Armee von Kastore, die ihre Truppen an den Zufahrten zu dieser Bastion stationiert hatten. Wir wussten auch von der ständig wachsenden Drachenpopulation und von einer sehr interessanten Stadt, die verlassen wurde, nachdem sich die Untoten aus ihren Gräbern erhoben hatten. In dieser Stadt gab es intakte Manufakturen und Gießereien, was bedeutete, dass wir, nachdem die Untoten zur Ruhe gekommen waren, einige Automaten für unseren eigenen Bedarf herstellen konnten.
+
+Name:
+Enemy Hero Waves - First Warning
+Message:
+Kastore hat die gesamte Macht seiner wachsenden Armee auf uns gehetzt. Dies ist nicht einfach ein Versuch, die Abtrünnigen einzuschüchtern oder eine Rebellion niederzuschlagen. Es ist ein Vernichtungskrieg, den wir mit Sicherheit verlieren werden. Jeden Tag brennen die Öfen seiner Schmieden und Fabriken heißer und heißer; die Goblins gewinnen an Erfahrung und arbeiten immer besser, und er verlangt immer mehr von ihnen. Früher oder später wird es zwei oder sogar drei selbstfahrende Maschinen oder Schützen für jeden von uns geben. Jede Stunde Verzögerung heute wird uns morgen bittere Niederlagen und Verluste bringen. Wir können nicht zwei Kriege auf einmal führen - einen in der Gegenwart, mit ehemaligen Freunden, und einen in der Zukunft, mit alten Feinden. Dennoch glaube ich, dass wir genügend Kräfte sammeln und nach Eeofol aufbrechen können, bevor Kastore angreift.
+
+Name:
+Final Warning (411)
+Message:
+Wir können nicht länger warten. Wir müssen die Luftschiffe fertig machen und sofort nach Eeofol aufbrechen, oder Kastore wird uns wegfegen wie eine Sturmflut eine Sandburg am Strand wegspült. Alles, was wir hier erreicht haben, war eine Burg, die für ein neues Zuhause gehalten wurde. Unsere Zukunft liegt nicht mehr in diesen unfruchtbaren Landen - sie liegt da draußen, jenseits des Ozeans. Es gibt nur einen Ort, der es wert ist, Heimat genannt zu werden. Wir mögen in diesem harten Kampf mit den Dämonen sterben, aber wir werden auf unserem eigenen Land fallen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(104, 106, 0) ***Seer's Hut***
+Message:
+In der Hütte wirst du von einem grimmigen, schwarz gekleideten Hexenmeister begrüßt. "Unsere Gilde erforscht, wie man die Wyvern zähmen kann. "Leider lassen die Kreaturen noch niemanden von uns in die Nähe ihrer Nester. Fangt einen jungen Wyvern und bringt ihn zu mir, und ihr werdet reichlich belohnt werden."	
+Keine Kreatur, keine Belohnung. Ihr fragt, warum wir Wyverns wollen? Weniger reden, mehr handeln.	Ihr seid ein mutiger Mann, wie ich sehe.
+Nur wenige werden es wagen, in ein Wyvernest zu gehen. Nehmt diese Kristalle. Ich bin sicher, ihr findet eine bessere Verwendung für sie, als wir uns vorstellen können.
+
+(89, 29, 0) ***Sign***
+Message:
+Kupferbergwerke
+
+(2, 46, 0) ***Quest Guard***
+Message:
+Als du den Hang eines steilen Berges hinaufstiegst, bist du auf eine riesige Bronzestatue eines Kriegers gestoßen. Wie kam dieses Denkmal hierher, mitten in die Einöde?	Bevor du reagieren konntest, bewegte sich die Statue plötzlich. "Titanen?", ertönte eine dröhnende Stimme aus dem Koloss. "Ihr seid keine Titanen... Na, das ist ja noch besser. Ich habe mein Schwert in einem Kampf mit den Titanen verloren. Gebt es mir zurück, und ich lasse euch passieren."
+	Der Bronzekoloss ist immer noch hier und hat nicht die Absicht, euch passieren zu lassen.
+Der Bronzekoloss nimmt den Gladius an und lässt dich passieren.	Willst du passieren?
+
+(20, 106, 0) ***Seer's Hut***
+Message:
+In einer kleinen Hütte auf einer Insel triffst du eine Zauberin. "Ihr habt vielleicht schon von mir gehört", sagt sie. "Ich bin Lyadra, und ich habe schon einmal einen eurer Zauberer getroffen. Ich glaube, sein Name war Todd... oder war es Bertram? Ist auch egal. Ich studiere die Engel nun schon seit vielen Jahren, aber ich habe noch keinen Beweis für meine Hypothese über ihre Natur gefunden. Schlimmer noch, die Engel selbst sind nicht in der Stimmung, mit mir zu kommunizieren. Ich habe gehört, dass jemand vor vielen Jahrzehnten ein paar Engel hier in den Bergen eingesperrt und Greifen zur Bewachung ihrer Zellen eingesetzt hat. Wenn du sie befreien könntest, würden sie vielleicht bereit sein, mir bei meinen Forschungen zu helfen. Bringt mir zehn Engel und ich werde euch den Stadtportal-Zauberspruch lehren. Ich bin mir sicher, dass du für einen so mächtigen Zauber jetzt und in Zukunft gute Verwendung finden wirst.
+Lyadra ist immer noch hier, aber es gibt nichts mit ihr zu besprechen, bevor du nicht zehn Engel hast.
+Na endlich! Vielleicht kann ich jetzt herausfinden, was ich von den Engeln in Bracada und Erathia nie erfahren konnte.
+Bringt mir eine Schriftrolle mit dem Zauberspruch für das Stadtportal, und ich werde ihn euch beibringen.
+Ihr kommt mit leeren Händen, wie ich sehe. Leider weiß ich nicht, wo man in dieser Gegend eine solche Schriftrolle finden kann, aber vielleicht können Euch die örtlichen Magier dabei helfen.
+ Wärst du bereit, den Stadtportal-Zauber im Tausch gegen die Schriftrolle zu lernen?
+
+(5, 77, 0) ***Sign***
+Message:
+Gilde Karawanen
+
+(70, 84, 0) ***Quest Guard***
+Message:
+Hinter dem Tor ertönt eine gedämpfte Stimme, die wie die eines Halblings klingt.	"Halt! Wer kommt denn da? Wie ist dein Name?"
+	"Wir kennen dich nicht, wir machen nicht auf!"	
+"Henrietta, bist du das? Wir dachten, Kastore hätte dich auch mitgenommen. Kommt rein, lasst uns nicht warten."
+
+(67, 97, 0) ***Sign***
+Message:
+Hüte dich vor den Rostdrachen!
+
+(86, 13, 0) ***Spell Scroll***
+Message:
+Es war eine Falle... Nachdem ihr die Drachen erschlagen hattet, fandet ihr weder Schätze noch wertvolle Artefakte. Ilsingore hat überlebt: Als ihr euch anschicktet, den mächtigen Drachen anzugreifen, erhob sich der große Drache in die Luft und flog davon.	Nachdem du die Höhle sorgfältig durchsucht hast, hast du eine magische Schriftrolle entdeckt. Vielleicht kann sie dir helfen, diesen Ort zu verlassen?
+
+(73, 65, 0) ***Sign***
+Message:
+Norden: Fort Rotwang
+
+(29, 85, 0) ***Seer's Hut***
+Message:
+Habt ihr die Nachrichten gehört? Morton hat Rotwang belagert! Wir müssen ihn zurückdrängen, und zwar bald! Wenn wir es nicht bis Ende des Monats schaffen, könnte das großen Ärger bedeuten.		
+Rotwang wird immer noch belagert.
+Ihr sagt, Mortons Truppen wurden besiegt? Endlich!
+Jetzt, da Rotwang nicht mehr in Gefahr ist, können wir uns daran machen, Rohstoffe für unsere Heimreise zu sammeln. Wir brauchen 125 Erze, 125 Quecksilber und 125 Schwefel. Eine solche Menge an Vorräten zu beschaffen, ist jedoch eine große Herausforderung, und es gibt nur sehr wenige Minen in der Umgebung. Zu allem Überfluss gibt es in der Umgebung von Rotwang auch keine Märkte mehr. Einige der Dunkelelfenhändler könnten noch hier sein, aber es dürfte nicht leicht für sie sein, ihre Waren hierher zu bringen, also wette ich, dass sie die Preise so stark drücken werden, wie sie können.
+	Habt ihr immer noch nicht die Ressourcen gefunden? Beeilt euch; unsere Zeit wird knapp.
+Na prima! Lasst uns alles aufladen und zur Luftschiffwerft im Norden von Rotwang fahren.
+
+(89, 14, 0) ***Overlord***
+Name:
+Ilsingore
+
+(6, 52, 0) ***Sign***
+Message:
+
+
+(20, 9, 0) ***Factory***
+Name:
+Corakstone
+
+(97, 25, 0) ***Factory***
+Name:
+Mount Copper
+
+(7, 47, 0) ***Factory***
+Name:
+New Dolere
+
+(24, 84, 0) ***Factory***
+Name:
+Larimar
+
+(87, 97, 0) ***Factory***
+Name:
+Arcadia
+
+(71, 8, 0) ***Barbarian***
+Name:
+Zarghebar
+
+(1, 59, 0) ***Prison***
+Name:
+Balindar
+Biography:
+Balindar war der erste in Bracada, der die enrotische Technologie erprobte, bei der die beste Stahlpanzerung für die Herstellung von Statuen verwendet wurde, die für die Belebung vorgesehen waren, und nicht etwa gewöhnliches Gestein, Erz oder gar Edelmetalle. Die starrköpfigen Akademiker des Golem-Baus begrüßten diese Neuerung nicht, und so tragen Balindars Werke, obwohl sie ihren Prototypen weit überlegen sind, immer noch den Status eines Experiments.
+
+(66, 47, 0) ***Factory***
+Name:
+Rotwang
+
+(75, 39, 0) ***Seer's Hut***
+Message:
+Ich vertrete die Kaufmannsgilde in diesem Ödland. Es ist in letzter Zeit immer schwieriger geworden, Waren hierher zu bringen, und in letzter Zeit haben die meisten Handelsposten geschlossen. Trotzdem sind wir bereit, euch mit Quecksilber zu versorgen. In Anbetracht der jüngsten Schwierigkeiten beim Transport der Waren, bitten wir um einen Preis, der es uns wert ist: 10000 Gold für 1 Quecksilber.
+Ich vertrete die Kaufmannsgilde in diesem Ödland. Es ist in letzter Zeit immer schwieriger geworden, Waren hierher zu bringen, und in letzter Zeit haben die meisten Handelsposten geschlossen. Trotzdem sind wir bereit, euch mit Quecksilber zu versorgen. In Anbetracht der jüngsten Schwierigkeiten beim Transport der Waren, bitten wir um einen Preis, der es uns wert ist: 10000 Gold für 1 Quecksilber.
+	1 Quecksilber für 10000 Gold kaufen?
+Ich vertrete die Kaufmannsgilde in diesem Ödland. Es ist in letzter Zeit immer schwieriger geworden, Waren hierher zu bringen, und in letzter Zeit haben die meisten Handelsposten geschlossen. Trotzdem sind wir bereit, euch mit Erz zu versorgen. In Anbetracht der jüngsten Schwierigkeiten beim Transport der Waren, bitten wir um einen Preis, der es uns wert ist: 10000 Gold für 1 Erz
+Ich vertrete die Kaufmannsgilde in diesem Ödland. Es ist in letzter Zeit immer schwieriger geworden, Waren hierher zu bringen, und in letzter Zeit haben die meisten Handelsposten geschlossen. Trotzdem sind wir bereit, euch mit Erz zu versorgen. In Anbetracht der jüngsten Schwierigkeiten beim Transport der Waren, bitten wir um einen Preis, der es uns wert ist: 10000 Gold für 1 Erz
+	1 Erz für 10000 Gold kaufen?
+Ich vertrete die Kaufmannsgilde in diesem Ödland. Es ist in letzter Zeit immer schwieriger geworden, Waren hierher zu bringen, und in letzter Zeit haben die meisten Handelsposten geschlossen. Trotzdem sind wir bereit, euch mit Schwefel zu versorgen. In Anbetracht der jüngsten Schwierigkeiten beim Transport der Waren, bitten wir um einen Preis, der es uns wert ist: 10000 Gold für 1 Schwefel
+Ich vertrete die Kaufmannsgilde in diesem Ödland. Es ist in letzter Zeit immer schwieriger geworden, Waren hierher zu bringen, und in letzter Zeit haben die meisten Handelsposten geschlossen. Trotzdem sind wir bereit, euch mit Schwefel zu versorgen. In Anbetracht der jüngsten Schwierigkeiten beim Transport der Waren, bitten wir um einen Preis, der es uns wert ist: 10000 Gold für 1 Schwefel
+	1 Schwefel für 10000 Gold kaufen?
+
+(64, 38, 0) ***Pandora's Box***
+Message:
+
+
+(16, 20, 0) ***Mercenary***
+Name:
+Jangaard
+
+(69, 58, 0) ***Seer's Hut***
+Message:
+Wir bereiten uns schon seit langem auf einen Krieg mit der Nekromantengilde vor, aber unsere Truppen sind noch nicht stark genug, um sie herauszufordern. Wir wissen jedoch von Artefakten, den sogenannten Ringen des Vergessens, die die Belebung der Untoten verhindern können. Wir wären jedem dankbar, der uns einen solchen Ring zur Verfügung stellen könnte.
+Wir bereiten uns schon seit langem auf einen Krieg mit der Nekromantengilde vor, aber unsere Truppen sind noch nicht stark genug, um sie herauszufordern. Wir wissen jedoch von Artefakten, den sogenannten Ringen des Vergessens, die die Belebung der Untoten verhindern können. Wir wären jedem dankbar, der uns einen solchen Ring zur Verfügung stellen könnte.
+In der Tat, das ist der Ring des Vergessens! Ich habe kein Geld, um Euch zu bezahlen, aber ich habe ein paar Kristalle, die Ihr sicher gut gebrauchen könnt.	Den Ring des Vergessens gegen Kristalle tauschen?
+
+(64, 70, 0) ***Seer's Hut***
+Message:
+In der Hütte triffst du einen Alchemisten. Er scheint ziemlich beunruhigt zu sein.	"Was für ein Glück, dass ich dich gefunden habe! Hört zu. Ich bin ein Alchimist aus Bracada. Ich bin mit meinem Kollegen Balindar hierher gekommen. Wir hatten von einem großen Vorkommen von Erudin in Jadame erfahren und wollten dieses seltene und teure Metall als Material für Golems ausprobieren. Leider stellte sich heraus, dass Kastore und seine Schergen vor uns an das Vorkommen gelangt waren. Zu unserem Pech fanden sie heraus, dass wir aus Bracada kamen. Balindar wurde gefangen genommen und wird nun im Gefängnis festgehalten, während ich nur mit knapper Not entkommen konnte.	Könntet ihr uns helfen? Ich kann Stahlgolems für eure Armee herstellen, aber ohne Balindar geht es nicht.
+Balindar ist immer noch im Gefängnis. Ohne ihn kann ich euch nicht helfen.
+Balindar schenkt dir vierzig Stahlgolems als Dank für seine Rettung. Er teilt dir außerdem mit, dass sein Kollege bereit ist, neue Golems herzustellen, dafür aber Ressourcen benötigt.
+Der Alchimist ist bereit, Stahlgolems für eure Armee herzustellen, warnt aber davor, dass sie schwer zu produzieren sind. Der Auftrag kostet euch 10 Holz, 4 Kristalle und 4 Edelsteine. Darüber hinaus verlangt der Alchemist 3000 Gold für jede Lieferung von Golems.
+Leider reichen diese Ressourcen nicht aus, um Stahlgolems herzustellen.
+Die zur Verfügung gestellten Rohstoffe reichen aus, um 20 Stahlgolems herzustellen. Wollt ihr dem Alchemisten die Rohstoffe bereitstellen?
+
+(73, 81, 0) ***Halfling Grenadier***
+Message:
+Zurück nach Eeofol, sagt ihr?
+
+(24, 90, 0) ***Gunslinger***
+Message:
+Eine Gruppe Revolverhelden tauchte hinter der Straßenecke auf. Sie stellten sich in einer Reihe am Ende der Straße auf und richteten ihre Gewehre auf uns. Einer von ihnen trat vor; er trug ein makelloses, kohlschwarzes Gewand und einen auf Hochglanz polierten Kürass. Es war ein seltsamer Anblick; ich hatte noch nie einen Revolverhelden gesehen, der so sehr auf sein Äußeres achtete. Ich meine, wie konnte man so adrett aussehen, wenn man wochenlang durch die Einöde ritt, auf nacktem Boden schlief und zwischen spitzen Felsen und dornigen Büschen herumkroch? Offensichtlich hatte sich in meiner Abwesenheit etwas an ihrer Stellenbeschreibung und ihrer Einstellung zum Dienst geändert...	Der übertrieben gekleidete Revolverheld spuckte auf den Boden und sprach schroff: "Auf Befehl von Oberaufseher Kastore legt ihr freiwillig eure Waffen nieder und begebt euch ins Stadtgefängnis, von wo aus ihr nach Burton gebracht und wegen Sabotage und Verrat vor ein faires Gericht gestellt werdet." "Verrat?! Wir kommen gerade von einer langen Reise zurück. Wir waren monatelang nicht in Jadames Ländern, und das weiß euer Kastore ganz genau! Das muss ein Irrtum sein." 	"Schweigt! Entweder ihr gebt friedlich auf, oder wir werden euch für die versprochene Belohnung köpfen... Hmm. Wenn die Belohnung dieselbe ist, könnten wir doch unsere Treffsicherheit üben, was meinst du, Gerth?" Der Söldner zur Rechten des Anführers verzog seine Lippen zu einem zynischen Grinsen.
+
+(24, 66, 0) ***Seer's Hut***
+Message:
+Ich besitze viele Goldminen in diesem Teil des Ödlands. Leider wimmelte es vor nicht allzu langer Zeit in der Region, in der sich meine Minen befinden, von Gorgonen, die uns vertrieben, aber es gelang mir, sie in den Minen einzuschließen. Ich heuerte einen abtrünnigen Barbaren, Wededh, an und hoffte, er würde mein Problem mit diesen gehörnten Biestern lösen, aber dieser Schwindler nahm den Vorschuss und ging lachend davon, und die Schlüssel zu den Minen steckte er auch noch ein! Ich würde gerne jemanden bezahlen, der mein Problem mit den Gorgonen löst, aber solange der Barbar die Schlüssel hat, gibt es keine Möglichkeit, dorthin zu gelangen.	
+Der Barbar ist nie zurückgekehrt; falls ihr es jedoch schafft, die Schlüssel in die Hände zu bekommen, ist die nächste Mine eine Tagesreise nordöstlich von hier, ihr solltet euch dorthin begeben.
+Ihr habt die Schlüssel gefunden? Das ist eine großartige Nachricht! Aber noch mehr freue ich mich zu hören, dass die Mine von den Gorgonen befreit wurde. Hier ist eure Belohnung!
+Jetzt solltest du dich zur zweiten Mine begeben. Sie liegt direkt östlich von hier, hinter der Garnison, nicht weit vom alten Drachenfriedhof.
+Jetzt solltest du dich zur zweiten Mine begeben. Sie liegt direkt östlich von hier, hinter der Garnison, nicht weit vom alten Drachenfriedhof.
+Hier ist deine Belohnung! Du hast sie dir verdient.
+Die dritte Mine befindet sich in der Nähe der Stadt Arcadia im Südosten. Sie liegt direkt neben der Ranch und ist nicht zu übersehen.
+Die dritte Mine befindet sich in der Nähe der Stadt Arcadia im Südosten. Sie liegt direkt neben der Ranch und ist nicht zu übersehen.
+Hier ist deine Belohnung! Du hast sie dir verdient.
+Die vierte Mine befindet sich südlich von Rotwang, hinter dem Bach. Es gibt einen Edelsteinteich in der Nähe, der Ort sollte nicht schwer zu finden sein.
+Die vierte Mine befindet sich südlich von Rotwang, hinter dem Bach. Es gibt einen Edelsteinteich in der Nähe, der Ort sollte nicht schwer zu finden sein.
+Hier ist deine Belohnung! Du hast sie dir verdient.
+Unsere fünfte Mine befindet sich nördlich von Rotwang. Hoffentlich gibt es auch dort bald keine Gorgonen mehr.
+Unsere fünfte Mine befindet sich nördlich von Rotwang. Hoffentlich gibt es auch dort bald keine Gorgonen mehr.
+Hier ist deine Belohnung! Du hast sie dir verdient.
+Die sechste und letzte Mine liegt weit im Osten, in der Nähe der magischen Ebenen. Wenn du von Rotwang aus geradeaus nach Osten gehst, wirst du sie früher oder später erreichen.
+Die sechste und letzte Mine liegt weit im Osten, in der Nähe der magischen Ebenen. Wenn du von Rotwang aus geradeaus nach Osten gehst, wirst du sie früher oder später erreichen.
+Hier ist deine Belohnung! Du hast sie dir verdient.
+	Ich kann es nicht glauben: Du hast es geschafft! Die Gorgonen sind weg! Jetzt können wir zurück in die Minen gehen.
+	Ich habe nichts mehr, womit ich dich belohnen könnte, aber ich kann dir etwas Schwefel geben. Willst du?
+
+(66, 50, 0) ***Event***
+Message:
+Morton - minus movement
+
+(20, 38, 0) ***Quest Guard***
+Message:
+Vor euch seht ihr den Eingang zum Portal, in dem Knochen von Menschen, Ogern und Minotauren verstreut sind. Es wird gemunkelt, dass ein Drache hier sein Lager aufgeschlagen hat, vielleicht sogar mehr als einer.
+	Willst du dich dem Portal nähern?
+
+(28, 71, 0) ***Barbarian***
+Name:
+Wededh
+
+(10, 92, 0) ***Prison***
+Name:
+Thulig
+Biography:
+Thulig ist ein extrem wagemutiger Elf, und der beste Weg, ihn zu rekrutieren, ist, eine Herausforderung wie "Geh, ich weiß nicht wohin, bring, ich weiß nicht was" anzubieten. Er stahl "Weiß-nicht-was" unter dem Maul eines Drachen, aus einer unterirdischen Schatzkammer der Zwerge und sogar aus dem Schlund eines erloschenen Vulkans. Aufsehenerregende Misserfolge sind ein weiteres Markenzeichen von ihm, und er hat beispiellose Summen an Lösegeld für sich selbst gezahlt.
+
+(1, 24, 0) ***Pandora's Box***
+Message:
+
+
+(80, 90, 0) ***Rust Dragon***
+Message:
+Es lag ein Schwefelgeruch in der Luft. Als wir uns den Bergen näherten, wurde er immer stärker.	Vor uns tauchte eine riesige Schlucht auf, und über ihr flogen... keine Vögel. Drachen, Dutzende und Hunderte von Rostdrachen! Ihr habt schon früher Rostdrachen auf den Inseln südlich von Jadame gesehen, aber nicht in solchen Mengen. Das Schlimmste aber ist, dass die Drachen dich bemerkt haben. Es ist zu spät, um zu fliehen, ihr müsst sie bekämpfen.
+
+(13, 43, 0) ***Pandora's Box***
+Message:
+
+
+(1, 105, 0) ***Pandora's Box***
+Message:
+
+
+(53, 24, 0) ***Prison***
+Name:
+Yovilla
+Biography:
+Voller Vertrauen in ihre missionarische Gabe predigt Yovilla sogar zu unbelebten Gegenständen, da jeder von ihnen einen Geist in sich tragen kann, der zum Glauben gebracht werden muss. Dies geschah schon einmal, als sie einen kleinen Fluss überredete, sein Wasser zu teilen. Bewegt von ihrer leidenschaftlichen Rede, ließ der Geist des Flusses nicht zu, dass sie sich die Füße nass machte, und verriet ihr auch die Geheimnisse seiner Magie.
+
+(56, 27, 0) ***Quest Gate***
+Message:
+Vor uns tauchte die Luftschiffwerft auf, in der mehrere Luftschiffe bereitstanden. Dies ist unser Weg nach Hause. Wir können jedoch nicht auf einen Erfolg im Kampf gegen die Teufel hoffen, wenn wir nicht alles vorbereiten, was wir brauchen, und ohne die Kugel des rasenden Feuers werden wir es niemals nach Eeofol schaffen.	 
+Vor uns tauchte die Luftschiffwerft auf, in der mehrere Luftschiffe bereitstanden. Dies ist unser Weg nach Hause. Wir können jedoch nicht auf einen Erfolg im Kampf gegen die Teufel hoffen, wenn wir nicht alles vorbereiten, was wir brauchen, und ohne die Kugel des rasenden Feuers werden wir es niemals nach Eeofol schaffen.	 
+Wollt ihr zur Luftschiffwerft gehen?
+
+(50, 27, 0) ***Quest Guard***
+Message:
+Dieser Weg durch eine verlassene Mine führt zu einem alten Gefängnis und biegt dann zur Luftschiffwerft ab; Du entdeckst jedoch, dass die Mine eingestürzt ist und Du nicht mehr weitergehen kannst.	Der örtliche Waldläufer, ein Dunkelelf, sagt, er kenne einen anderen Weg, verlangt aber eine Belohnung in Form von Artefakten, die ihm bei seiner Arbeit nützlich sein könnten.	
+Der Waldläufer will dir nicht helfen, und es gibt keinen anderen offensichtlichen Weg, um zum Gefängnis und zur Luftschiffwerft zu gelangen.
+Der Waldläufer ist bereit, dich durch die Berge zu führen. Wärst du bereit, ihm die Artefakte zu geben?
+
+(74, 105, 0) ***Quest Guard***
+Message:
+Vor dir, auf einem Felsen, sitzt ein riesiger schwarzer Drache. Der majestätische Drache beobachtet dich genau. Schließlich spricht er zu dir. "Ich weiß, wonach du hier suchst. Eine immerwährende Phiole des Quecksilbers, nicht wahr? Nun... Tu mir einen Gefallen und ich lasse dich in die Berge.		Ilsingore, der unwürdige Sohn des Drachengeschlechts, ließ uns in der Stunde der Not im Stich. Wir dachten, er und seine Schergen seien in die Wüste von Ironsand gegangen, aber vor kurzem tauchte er mit einigen anderen Drachen in diesen Landen wieder auf. Ich weiß nicht, was er hier will, aber ich will diesen Verräter nicht sehen. Vertreibe ihn, und ich werde dich passieren lassen." 
+Der schwarze Drache wird dich nicht durchlassen. Es scheint, der einzige Weg hier durch ist, den Bedingungen des Drachen zuzustimmen.
+	Ich habe Ilsingore in Richtung Osten wegfliegen sehen. Also gut, ich lasse Euch passieren. Denkt jedoch daran, dass in den Bergen Drachen aus Ilsingores Rudel auf euch warten, die ihr bekämpfen müsst.	Willst du in die Höhlen gehen?
+
+(107, 78, 0) ***Prison***
+Name:
+Khevasar
+Biography:
+Khevasar kam dazu, einen grundlegenden Grundsatz der Philosophie, die er jahrzehntelang studiert hatte, in Frage zu stellen: das Postulat, dass ein Druide Macht über alle Aspekte der Natur ausübt und die Autorität besitzt, sie nicht nur in seinen Dienst zu stellen, sondern sie auch nach seinen Vorstellungen und Wünschen zu verändern. Dies veranlasste viele seiner AvLee-Kollegen, ihn zu beschuldigen, der archaischen Enrotheanischen Ketzerei anzuhängen.
+
+(95, 1, 0) ***Quest Guard***
+Message:
+Am Ufer eines Bergsees werden Sie von mehreren Nixen begrüßt. Einer von ihnen tritt vor.	"Vor kurzem wurde unsere Festung von einem riesigen Drachen angegriffen, der offensichtlich der Anführer eines mächtigen Rudels ist. Wir vermuten, dass sich sein Versteck irgendwo in diesen Bergen befindet. Wenn ihr ihn aus diesem Land vertreibt, werden wir euch reichlich belohnen."	
+Der Drache ist noch da draußen.
+	Wir sahen Ilsingore wegfliegen. Ich hätte nie gedacht, dass du mit einem ganzen Rudel Drachen fertig wirst. Nehmt diese königliche Rüstung der Nix. Ich bin sicher, ihr braucht sie mehr als wir.
+
+(69, 80, 0) ***Halfling***
+Message:
+Versammelt euch, Jungs, es geht gleich los!
+
+(35, 98, 0) ***Quest Guard***
+Message:
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhalten Sie zusätzliche Artefakte und zusätzliche Truppen}
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhalten Sie zusätzliche Artefakte und zusätzliche Truppen}
+	{Empfangen?}
+
+(36, 97, 0) ***Pandora's Box***
+Message:
+
+
+(93, 75, 0) ***Hero Camp***
+Name:
+Ilmarin
+Biography:
+Ilmarins alchemistische These beschrieb eine verbesserte Aktivierungstechnologie für den goldenen Golem. Er selbst hat die Statue, die er beleben sollte, vor der Auftragsvergabe modelliert und irgendwie beschlossen, ihr weibliche Züge zu geben. Die goldene Frau verschwand in der Nacht nach der Vorführung, und Ilmarin ist seitdem auf der Suche nach der Frau, die sein Herz entzündet hat.
+
+(9, 24, 0) ***Event***
+Message:
+Tancred - bonus
+
+(37, 24, 0) ***Event***
+Message:
+
+
+(68, 9, 0) ***Event***
+Message:
+
+
+(59, 28, 0) ***Artificer***
+Name:
+Umender
+
+(37, 35, 0) ***Seer's Hut***
+Message:
+Ein Alchemist empfängt dich in der Hütte.	In den letzten Wochen ist etwas Seltsames passiert. Noch vor einem Jahr habe ich Frederick bei seiner Suche nach Agars Labor geholfen, und jetzt ist Burton ein anderer Ort. Überall sind unbekannte Gesichter und seltsame Erfindungen zu sehen, und jetzt hat der König von Deyja selbst das Sagen. Seien wir ehrlich: Mir gefällt nicht, was hier vor sich geht, und ich gehe zurück nach Enroth. Leider musste ich mein Labor aufgeben. Ich brauche Edelsteine, um meine Experimente fortzusetzen und Gold, um neue alchemistische Reagenzien zu kaufen.	Helft mir, und ich besorge euch eine Schriftrolle mit dem Stadtportal-Zauberspruch. Damit könnt ihr zwar nicht auf einen anderen Kontinent reisen, aber sie wird euch jetzt sicher nützlich sein.
+Leider reicht diese Menge an Edelsteinen und Gold für mich nicht aus.
+Oh, toll! Jetzt kann ich endlich nach Hause gehen. Nimm diese Schriftrolle, du wirst sie brauchen.
+
+(97, 61, 0) ***Quest Guard***
+Message:
+Auf eurer Reise durch den Wald trefft ihr auf eine Gruppe von Priestern in grünen Gewändern. Das müssen Druiden sein. 	"Seid gegrüßt", sagt einer von ihnen zu euch.  Wir sind auf der Suche nach dem Druiden Xaver hierher gekommen. Er war einst einer von uns, bevor er die Seiten wechselte und sich den Abtrünnigen anschloss, die in Enroth viel Unheil anrichteten. Er floh nach Jadame und scheint nun wieder seine alten Tricks anzuwenden. Seht Ihr den toten Wald um uns herum? Wir glauben, dass Xaver für das, was hier passiert ist, verantwortlich ist. Es ist schwer zu sagen, wo er sich jetzt aufhält, aber die Einhörner sahen ihn in Richtung eines geheimnisvollen schwarzen Portals in den Höhlen gehen. Vielleicht wird euch dieses Portal zu ihm führen.	Hilf uns, ihn zu finden und zu bestrafen, und wir werden dir helfen. 
+Die Druiden sind immer noch hier. Es ist besser, sie nicht zu behelligen, es sei denn, ihr bringt gute Nachrichten.	
+"Wir haben von eurem Sieg gehört", sagt der Druide.  Wir haben kein Gold, um dich zu belohnen, aber hier ist etwas Besseres: ein Ring der unendlichen Edelsteine.	Wollt ihr die Belohnung annehmen?
+
+(25, 92, 0) ***Event***
+Message:
+Auf dem Weg dorthin lag eine Stadt mit dem imposanten Namen Larimar, die unsere erste Station auf der Reise durch Jadame sein sollte, die unsere zermürbende Expedition beenden würde. Wir erwarteten keine Fanfaren, roten Teppiche oder andere alberne Ehrungen für zurückkehrende Reisende; alles, wovon wir träumten, waren warme Mahlzeiten, weiche Betten und frische Kleidung.	Leider wurden unsere Träume sofort zunichte gemacht, als wir die verängstigten Gesichter der Einheimischen sahen. Im Nu war die Straße menschenleer, alle Fensterläden waren geschlossen und die Türen verriegelt. Die Stadt war wie ausgestorben, nur der Wind spielte mit den Grashalmen entlang der Straße. An einer der Türen sah ich mehrere Plakate aus vergilbtem Pergament. Das erste und größte von ihnen zeigte einen hässlichen Halbling mit einem finsteren Gesicht, das aussah wie ein zerkauter Pfannkuchen. Die Überschrift lautete: "Henrietta. Gesucht, tot oder lebendig." Andere Plakate waren mit ebenso entsetzlichen Gesichtern geschmückt, und viele der Namen kamen mir sehr bekannt vor.
+
+(57, 27, 0) ***Event***
+Message:
+Es wäre naiv anzunehmen, dass die Luftschiffwerft einfach unbewacht bleibt. Sobald wir uns den Luftschiffen näherten, erschien ein Heer von Automaten, Hunderte von ihnen, hinter den Hügeln. Ein mir vage bekannt vorkommender Techniker gab ihnen Befehle...
+
+(49, 65, 0) ***Quest Guard***
+Message:
+Vor uns tauchte eine Steinmauer mit einem ungewöhnlich aussehenden Tor auf, und davor stand ein Mann, der aussah wie ein Bergarbeiter.	"Du kommst nicht durch? Ich auch nicht. Dieses Tor wurde gebaut, um zu verhindern, dass jemand durch das Portal nach Rotwang geht. Früher gab es Schlüssel, um das Tor zu öffnen, aber der Barbar Wededh hat unseren Herrn betrogen und sie mitgenommen."
+Ich nehme an, du hast die Schlüssel immer noch nicht gefunden? Dann müssen wir nach diesem Barbaren suchen.	
+Toll, diese Schlüssel passen ins Schloss! Sollen wir das Tor öffnen?
+
+(16, 84, 1) ***Quest Guard***
+Message:
+Ein kürzlicher Erdrutsch hat den Eingang zu dieser Höhle blockiert. Um den Durchgang freizulegen, braucht ihr 25 Holz und 25 Erz für die Stützen und 25 Edelsteine, um die Arbeiter zu bezahlen.		Wollt ihr den Durchgang freimachen?
+Ein kürzlicher Erdrutsch hat den Eingang zu dieser Höhle blockiert. Um den Durchgang freizulegen, braucht ihr 25 Holz und 25 Erz für die Stützen und 25 Edelsteine, um die Arbeiter zu bezahlen.		Wollt ihr den Durchgang freimachen?
+Wollt ihr den Durchgang freimachen?
+
+(31, 93, 1) ***Death Knight***
+Name:
+Urdeon
+
+(3, 11, 1) ***Prison***
+Name:
+Valqest
+
+(7, 13, 1) ***Event***
+Message:
+
+
+(10, 13, 1) ***Event***
+Message:
+
+
+(13, 13, 1) ***Event***
+Message:
+
+
+(13, 11, 1) ***Barbarian***
+Name:
+Banbragh
+
+(4, 13, 1) ***Event***
+Message:
+
+
+(7, 6, 1) ***Prison***
+Name:
+Yargo
+
+(11, 6, 1) ***Prison***
+Name:
+Stina
+
+(9, 6, 1) ***Prison***
+Name:
+Skrell
+
+(2, 2, 1) ***Prison***
+Name:
+Gohh
+
+(78, 40, 1) ***Seer's Hut***
+Message:
+Sie haben schon gehört, dass diese geräumige Höhle von Schmugglern des Rattenvolks aufgesucht wird. Vielleicht bewahren sie hier ihre Schätze auf.	In einer der Hütten in der Höhle triffst du auf einen hinterhältigen Kerl.	"Wenn ihr auf der Suche nach Waren hierher gekommen seid, vergesst es! Früher haben wir Waren nach Burton geschmuggelt, aber Kastores Truppen haben jetzt alle Straßen, die zu dieser Stadt führen, abgeschnitten. Eine davon wird von der Bande des berüchtigten Handwerkers Eanswyhe blockiert. Wenn ihr dieses Problem aus der Welt schaffen könntet, würden wir etwas Wertvolles mit euch teilen."
+Die Schmuggler gehen ihren Geschäften nach. Es ist das Beste, sie nicht zu sehr zu stören.
+Wir haben von Ihrem Sieg gehört. Ach ja, die Belohnung... Hier: die magische Garnitur, die wir kürzlich von den Banditen erworben haben. Seid Ihr zufrieden?
+
+(69, 54, 1) ***Seer's Hut***
+Message:
+Sie haben schon gehört, dass diese geräumige Höhle von Schmugglern des Rattenvolks aufgesucht wird. Vielleicht bewahren sie hier ihre Schätze auf.	In einer der Hütten in der Höhle triffst du auf einen hinterhältigen Kerl.	"Wenn ihr auf der Suche nach Waren hierher gekommen seid, vergesst es! Früher haben wir Waren nach Burton geschmuggelt, aber Kastores Truppen haben jetzt alle Straßen, die zu dieser Stadt führen, abgeschnitten. Eine davon wird von der Bande des berüchtigten Söldners Jangaard blockiert. Wenn ihr dieses Problem aus der Welt schaffen könntet, würden wir etwas Wertvolles mit euch teilen."
+Die Schmuggler gehen ihren Geschäften nach. Es ist das Beste, sie nicht zu sehr zu stören.	
+Wir haben von Ihrem Sieg gehört. Ach ja, die Belohnung... Hier: die magische Garnitur, die wir kürzlich von den Banditen erworben haben. Seid Ihr zufrieden?
+
+(96, 48, 1) ***Seer's Hut***
+Message:
+Sie haben schon gehört, dass diese geräumige Höhle von Schmugglern des Rattenvolks aufgesucht wird. Vielleicht bewahren sie hier ihre Schätze auf.	In einer der Hütten in der Höhle triffst du auf einen hinterhältigen Kerl.	"Wenn ihr auf der Suche nach Waren hierher gekommen seid, vergesst es! Früher haben wir Waren nach Burton geschmuggelt, aber Kastores Truppen haben jetzt alle Straßen, die zu dieser Stadt führen, abgeschnitten. Eine davon wird von der Bande des berüchtigten Barbaren Zarghebar blockiert. Wenn ihr dieses Problem aus der Welt schaffen könntet, würden wir etwas Wertvolles mit euch teilen."
+Die Schmuggler gehen ihren Geschäften nach. Es ist das Beste, sie nicht zu sehr zu stören.	
+Wir haben von Ihrem Sieg gehört. Ach ja, die Belohnung... Hier: die magische Garnitur, die wir kürzlich von den Banditen erworben haben. Seid Ihr zufrieden?
+
+(39, 72, 1) ***Seer's Hut***
+Message:
+Du stellst fest, dass die Tür der Hütte ein großes Schloss hat. Du bemerkst sofort das ungewöhnliche Schlüsselloch in Form des... Emblem des Erkennens.	
+	Du hast das Gefühl, dass du das Emblem der Erkenntnis nicht finden kannst.	
+Willst du die Tür zur Hütte öffnen?
+In der Hütte wirst du von einem mächtigen Minotaurus begrüßt.	"Sieh mich nicht so an", sagt er, "ich bin keiner von Kastores Lakaien! Im Gegenteil, in den letzten Monaten haben meine Brüder und ich viele Kämpfe gegen Banditen geführt, die von diesem... Elfen angeheuert wurden. Und sie wagen es, sich Minotauren zu nennen!", die Augen des Monsters leuchten bedrohlich. "Hört zu. Ich habe dich kämpfen sehen. Eure Waffen sind gut, aber Waffen sind nicht die einzige Quelle für die Stärke eines Kriegers. Wir Minotauren sind keine starken Krieger; wir haben auch Magier unter uns. Ich kann dich darin ausbilden, deine Feinde um den Verstand zu bringen, aber wir verraten unsere Geheimnisse normalerweise nicht an Außenstehende. Ich bin jedoch bereit, für dich eine Ausnahme zu machen. Bringt mir 75 Holz, 75 Erze, 75 Kristalle, 75 Edelsteine, 75 Schwefel, 75 Quecksilber und 75000 Gold, und ich weihe euch in unser Geheimnis ein."
+	"Das ist nicht genug!", knurrt der Minotaurus. Komm nicht noch einmal mit so einem Almosen zu mir, oder du wirst es bereuen!"	
+Willst du dem Minotaurus Ressourcen geben?
+"Ich kann dir den Berserker-Zauber jetzt beibringen, aber ich brauche eine Schriftrolle oder ein Buch dazu, um dir zu helfen! Ich weiß nicht, wo du so eine Schriftrolle bekommen kannst, aber vielleicht findest du etwas in dem Lager der Rostdrachen nicht weit von hier. Aber sei vorsichtig! Das größte Rudel dieser Wesen, das ich je gesehen habe, hat sich dort niedergelassen!	"
+"Wo ist die Schriftrolle?", knurrt der Minotaurus. Komm nicht wieder mit leeren Händen zu mir, oder du wirst es bereuen!
+	Willst du den Berserker-Zauber im Tausch gegen die Schriftrolle lernen?
+
+(79, 92, 1) ***Druid***
+Name:
+Xaver
+
+(4, 2, 1) ***Prison***
+Name:
+Rumeon
+
+(25, 6, 1) ***Prison***
+Name:
+Reventyr
+
+(23, 6, 1) ***Prison***
+Name:
+Elderian
+
+(21, 6, 1) ***Prison***
+Name:
+Jerhesh
+
+(16, 6, 1) ***Prison***
+Name:
+Winzells
+
+(14, 6, 1) ***Prison***
+Name:
+Seneth
+
+(31, 3, 1) ***Event***
+Message:
+ñìýðòü
+
+(25, 2, 1) ***Prison***
+Name:
+Strobus
+
+(23, 2, 1) ***Prison***
+Name:
+Guerhaugh
+
+(18, 2, 1) ***Prison***
+Name:
+Phott
+
+(16, 2, 1) ***Prison***
+Name:
+Horoagh
+
+(9, 2, 1) ***Prison***
+Name:
+Terghez
+
+(11, 2, 1) ***Prison***
+Name:
+Razargal
+
+(75, 94, 1) ***Pandora's Box***
+Message:
+
+
+(54, 50, 1) ***Seer's Hut***
+Message:
+Ich vertrete die Kaufmannsgilde. Früher habe ich Holz von den Murmurwäldern gekauft, aber in letzter Zeit habe ich herausgefunden, dass es auch in dieser Gegend sehr gutes Holz gibt, und zwar zu einem niedrigen Preis. Ich bin bereit, dafür mit seltenen Rohstoffen zu bezahlen!	
+Ich vertrete die Kaufmannsgilde. Früher habe ich Holz von den Murmurwäldern gekauft, aber in letzter Zeit habe ich herausgefunden, dass es auch in dieser Gegend sehr gutes Holz gibt, und zwar zu einem niedrigen Preis. Ich bin bereit, dafür mit seltenen Rohstoffen zu bezahlen!	
+Kauft 1 Einheit Quecksilber für 25 Einheiten Holz?
+Ich vertrete die Kaufmannsgilde. Früher habe ich Holz von den Murmurwäldern gekauft, aber in letzter Zeit habe ich herausgefunden, dass es auch in dieser Gegend sehr gutes Holz gibt, und zwar zu einem niedrigen Preis. Ich bin bereit, dafür mit seltenen Rohstoffen zu bezahlen!	
+Ich vertrete die Kaufmannsgilde. Früher habe ich Holz von den Murmurwäldern gekauft, aber in letzter Zeit habe ich herausgefunden, dass es auch in dieser Gegend sehr gutes Holz gibt, und zwar zu einem niedrigen Preis. Ich bin bereit, dafür mit seltenen Rohstoffen zu bezahlen!	
+	Kauft 1 Einheit Schwefel für 25 Einheiten Holz?
+
+===== End of file =====

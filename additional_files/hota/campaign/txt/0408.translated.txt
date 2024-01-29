@@ -1,0 +1,477 @@
+===== Map name =====
+Heimkehr
+
+===== Map description =====
+Henrietta kehrt mit ihren Verbündeten in ihre Heimatländer zurück, um die Kreeganer für immer zu vertreiben und ihre Heimat zurückzugewinnen. Erobere die Stadt Ullah, um das Szenario zu gewinnen, aber der Verlust deiner Hauptstadt wird dich zur Niederlage führen.
+
+===== Rumors =====
+
+Name:
+Tunnels from Eeofol
+Text:
+Kurz nach der Invasion der Kreeganer haben die Nighons einen Tunnel von ihrer Insel zum Festland gegraben. Es heißt, dass sich das Tunnelnetz in den letzten Jahren vergrößert hat.
+
+Name:
+Land of the Giants
+Text:
+Zusätzlich zu den Kreeganern wird der östliche Teil des Landes der Giganten von Drachen und Titanen bewohnt, seid also vorsichtig!
+
+Name:
+Lucifer requests support
+Text:
+König Luzifer hat Nighon um Unterstützung gebeten!
+
+Name:
+Stilbon
+Text:
+Ich habe gehört, dass die Kreeganer einen Kommandanten der Waldwächter gefangen genommen haben. Die Waldwache hat ihr Lager in den Wäldern im Süden aufgeschlagen. Vielleicht wissen sie mehr.
+
+Name:
+Troglodyte Caves
+Text:
+In der Nähe einer der Conflux-Städte gibt es ein Portal. Meinem Bruder ist es gelungen, es zu untersuchen - es stellte sich heraus, dass es zu Höhlen führt, die von Troglodyten verseucht sind!
+
+Name:
+Ullah
+Text:
+Ullah ist die größte Festung des Eeofol-Clans in diesen Landen. Es heißt, dass man nur durch Portale dorthin gelangen kann.
+
+Name:
+Xex
+Text:
+Einer von Xerons Gefolgsleuten verließ seinen Meister, um die Kreegan-Truppen in diesem Teil von Eeofol anzuführen.
+
+Name:
+Blind spell
+Text:
+In der Nähe der Infernostadt wurde eine riesige Armee von Teufeln gesichtet. Offenbar bewachen sie etwas Wertvolles und versuchen, ihren Schatz zu sichern.
+
+Name:
+Forest Guard
+Text:
+Ein großer Trupp der Waldwächter hat sich in der Nähe des Sees im Norden verschanzt.
+
+Name:
+Conflux
+Text:
+Die Präsenz der Elementaren Confluxe hilft dem Nachwachsen der Natur in den wenigen unversehrten Teilen dieses gequälten Landes.
+
+Name:
+Kergar
+Text:
+Die erste Fabrik in Eeofol hat den Namen Kergar erhalten, nach dem Metall, dem unsere Entschlossenheit ähnelt.
+
+Name:
+Kreegan
+Text:
+Teufel vermehren sich noch schneller als Imps.
+
+===== Timed events =====
+
+Name:
+Red AI - resource control
+Message:
+
+
+Name:
+Orange AI - resource control
+Message:
+
+
+Name:
+Pink AI - resource control
+Message:
+
+
+Name:
+Henrietta - Home
+Message:
+Zuhause. Wir kommen nach Hause. Ich wiederholte diese Worte immer wieder, während ich an Bord des Luftschiffs nach vorne blickte. Diese Reise nach Eeofol verlief ereignislos und reibungslos, ganz im Gegensatz zu dem langen, beschwerlichen Flug nach Jadame vor so vielen Jahren.	Wir waren nicht allein. Einige Stunden vor unserer Abreise tauchten bewaffnete Männer mit Hüten in Rotwang auf, die wir zunächst für eine neue Gruppe von Kopfgeldjägern hielten, die von Kastore angeheuert worden waren. Es stellte sich jedoch heraus, dass nicht alle Revolverhelden und Abenteurer den neuen Herrscher mochten. Einige waren mit den neuen, niedrigeren Konditionen für ihre anspruchsvolle Arbeit unzufrieden, andere mochten den eitlen Elfen nicht, der alle in Terra Nova als bloße Bauern in seinem System betrachtete. Es gab tausend andere Gründe, seine Armee zu verlassen, und diese Revolverhelden hatten diese Entscheidung getroffen. Sie waren nun bereit, mit uns nach Eeofol zu gehen und nie wieder nach Jadame zurückzukehren. Unter den Deserteuren befand sich auch ein ziemlich hochrangiger Kommandant, Colonel Lee. Er brachte nicht nur seine eigenen Männer mit, sondern auch die Dreadnoughts, die wir schon so gut kannten.	Zugegeben, ich hatte meine Zweifel an diesen neuen Reisegefährten. Einige von ihnen hätten Kastores Spione sein können oder Schlimmeres. Aber ich hatte schon vor langer Zeit gelernt, denjenigen, denen ich misstraute, nicht den Rücken zuzuwenden. Und dann tauchten die Vulkane und Gebirgszüge am Horizont auf. Ja, hier ist es, Eeofol, aber nicht das Eeofol, das wir kannten, als wir es verließen.	Was auch immer es ist, es ist unsere Heimat, und wir sind zurück.
+
+Name:
+Tavin - War diary entry
+Message:
+Tavin's war diary, entry 11.		Tavins Kriegstagebuch, Eintrag 11.		Ich kann es nicht glauben: Die Herren von Erathia ziehen tatsächlich ihre Unterstützung für Königin Catherine zurück! Zuerst habe ich geglaubt, dass unsere neuen Verbündeten, die Elementare, kommen und die Teufel wie verfaulte Kürbisse zerquetschen würden, aber ich schätze, ich habe es mir einfach zu sehr gewünscht, dass es so sein würde. Der Krieg hat bewiesen, dass so etwas nie einfach ist. Ein Bote der Waldwache berichtete, dass die Elementarmagierin Ciele in eine Falle getappt war und nun von den Teufeln in einem Gefängnis irgendwo an der Grenze zu Eeofol festgehalten wurde.	Als wir das hörten, glaubten wir nicht mehr an einen reibungslosen Ablauf. Uns wurde klar, dass es ein hartes Stück Arbeit sein würde, die Zauberin aus ihrer Gefangenschaft zu befreien. Ein großes Kreegan-Kommando bewachte das Gefängnis, und mehr noch, sie entdeckten uns auf dem Weg nach oben, als ob sie wüssten, dass wir dort sein würden.	Ein Rückzug durch die Berge? Zu spät, man hat uns den Weg abgeschnitten. Wir müssen tief in das Land der Giganten fliehen. In der Nähe, wo der Bote herkam, gibt es ein Lager von Bogenschützen der Waldwache, also sollten wir dorthin gehen.
+
+Name:
+Land of the Giants
+Message:
+Wir kampierten in den kargen Hügeln des Landes der Giganten, dem östlichen Teil von Eeofol. Ich war noch nie hier gewesen. Sicher, ich könnte mich jetzt als erfahrene Reisende bezeichnen, aber damals, als ich noch in Eeofol lebte, erschien mir eine Reise von einem Dutzend Meilen von zu Hause aus als ein gewagtes Unterfangen! Ich hatte gehört, dass es hier Drachen, Riesen und andere Ungeheuer gab, und die Halblinge hatten sich immer vor diesen gefährlichen Gegenden in Acht genommen.		Am Tag zuvor hatte ich einen Trupp ausgesandt, um die Umgebung unseres Lagers auszukundschaften. Sie kamen mit beunruhigenden Nachrichten zurück: Nicht weit entfernt im Westen wurde eine Festung der Teufel entdeckt.	Außerdem ist es unvorstellbar, dass unsere Ankunft unbemerkt geblieben ist.
+
+Name:
+Halfling
+Message:
+Gestern tauchte ein Halbling in unserem Lager auf. Erst da fing ich an, den Worten des verstorbenen Kett Glauben zu schenken... Der Fremde war spindeldürr und konnte sich kaum auf den Beinen halten, also brachten wir ihn sofort in die eilig eingerichtete Krankenstation. Er erholte sich schneller, als ich dachte - schon am nächsten Tag. Starke Männer, diese...	Der Gast war völlig schockiert, mich zu sehen - obwohl wir uns nicht kannten, da er aus einem anderen Ort stammte. Noch schockierter war er über meine Reisebegleiter. Der Halbling - sein Name war Thull - war schon lange im Lager herumgelaufen, hatte die riesigen Dreadnoughts und die erstaunlichen Couatls bestaunt und versucht, mit den Revolverhelden zu sprechen, aber die Söldner waren nicht in der Stimmung für Gespräche. Schließlich kam er zu mir. Ich erzählte ihm von unserer Reise nach Jadame, von den Schlachten gegen Zogs Oger und Dargems Piraten und von vielen anderen Dingen, die wir in den letzten neun Jahren erlebt hatten. Der Halbling nickte nur, starrte streng und runzelte gelegentlich die Stirn.	Schließlich rief ich ihm zu:	"Ich habe gehört, dass Tavin noch lebt und mit unserem Volk gegen die Teufel kämpft. Habt ihr etwas von ihm gehört?"	"Natürlich", antwortete er, "ich gehöre selbst zu seiner Truppe".	Ich stellte ihm sofort hundert Fragen über Tavin, aber Thull schüttelte nur bedauernd den Kopf.	"Ich wünschte, ich wüsste, wo er jetzt ist. Wir wollten in das Gefängnis der Dämonen einbrechen, aber auf dem Weg dorthin wurden wir überfallen. Tavin und die anderen hatten sich in Richtung See zurückgezogen; ich stand auf einem entfernten Posten und konnte sie nicht mehr einholen. Also bin ich hierher geschlichen." 	Der Halbling versuchte mir zu erklären, wo der See lag, aber ich konnte seiner Geschichte nichts Entscheidendes abgewinnen.	"...und während ich hierher lief, bemerkte ich eine seltsame Stadt im Wald. Ich dachte, eure Festung wäre genauso - helle Backsteinmauern, leuchtende Kuppeln ... aber wenn ich genauer hinschaue, sehe ich, dass die Stadt dort drüben ganz anders war. Es ist eine Stadt der Elementare, vermute ich. Ihre Armee muss hier irgendwo in der Nähe sein."	Elementare? Ich erinnerte mich sofort: Vor langer Zeit, damals in Eeofol, in Fredericks Laboratorium, hatte ich mehrere winzige, scheinbar körperlose Wesen in fest verschlossenen Flaschen und Fläschchen gesehen. Ich starrte eines dieser seltsamen Wesen lange an; es schien aus nichts als Luft und glitzernden Blitzen zu bestehen. Frederick erklärte mir, dass es ein kleineres Luftelementar sei. Später, in Jadame, hatte ich natürlich gesehen, wie Elementare von Hexenmeistern für ihre Zwecke beschworen wurden, aber das waren viel mächtigere und imposantere Kreaturen. Aber ich hatte noch nie von einer ganzen Armee von Elementaren gehört, geschweige denn von ihren Städten. Und schon gar nicht hier, in Eeofol!				"Oh, ja", nickte Thull. "Ihr wisst gar nichts. Hör zu, Erathia bekämpft die Dämonen nicht allein. Sie haben eine ganze Armee von Elementaren auf ihrer Seite! Ich weiß nicht, woher sie kommen oder was sie wollen, aber sie unterstützen uns jetzt! Ich habe diese Armee mit meinen eigenen Augen gesehen, genau wie ich dich jetzt sehe. Diese Dämonen sind Kleinkinder im Vergleich zu ihnen!"
+
+Name:
+Tor Anwyn is concerned about Kreegans
+Message:
+Der alte Kosta lief an meinem Zelt im Lager vorbei. Er schlug mit seinem Stock auf einen Kessel und schrie:	" Wieder! Wieder! Sie greifen wieder an!"	"Wer? Die Teufel?" Ich zog mein Schwert und bereitete mich darauf vor, den Angriff abzuwehren.	"Dort", der alte Halbling deutete mit zitternder Hand in Richtung der Hügel.	Vor uns, am Fuße des Hügels, konnte ich einige Revolverhelden aus meinem Trupp sehen, die ihre Gewehre reinigten. Der Geruch von Schießpulver lag noch in der Luft. 	"Wer hat dieses Mal angegriffen? Die Teufel? Efreets?"	"Sicherlich nicht", sagte einer der Schützen heiser. "Schau, hier. Schwebende Augen. Und die Harpyien und die Minotauren."	Es war nicht das erste Mal in diesen Tagen, dass wir uns nicht mit Dämonen, sondern mit diesen Harpyien, Minotauren und sogar Mantikoren auseinandersetzen mussten. 	"Ich weiß, wer sie sind", sagte einer der örtlichen Halblinge. In den letzten Tagen, nachdem unsere Ankunft bekannt geworden war, hatten wir ein Rinnsal von Kämpfern aus verschiedenen Gruppen von Banditen erhalten, die sich uns anschließen wollten. Leider trafen wir keinen von Tavins Kameraden - jeder kannte den kühnen Kommandanten, aber niemand konnte uns etwas Nützliches über ihn sagen. - "Sie sind aus Nighon. Sie sind schon seit Jahren hier. Sie haben ihre eigenen Tunnel unter Eeofol gegraben. Warum greifen sie uns jetzt an, frage ich mich?"	"Ich glaube nicht, dass sie jemanden angreifen", antwortete ich. "Ich glaube, sie waren auf dem Weg zu einem anderen Ort. Aber wohin?"				Die Antwort kam von selbst. Einer der Gewehrschützen rief mir zu, als er etwas auf dem Körper eines der getöteten Minotauren fand, einem riesigen Ungetüm in einer reichen, vergoldeten Rüstung.	"Sieht aus wie eine Schriftrolle", sagte der Söldner zischend.	Ich nahm die Schriftrolle vorsichtig an mich und entrollte sie. Es war zunächst schwer zu entziffern, was darauf stand, denn die Handschrift war ungewohnt; in Jadame hatten wir eine viel einfachere Schreibweise. Aber damals hatte mir Frederick das Lesen und Schreiben mit Hilfe von Schriftrollen aus der bracadischen Akademie beigebracht, wo Kalligrafie als eines der wichtigsten Fächer galt. Ein anspruchsvoller Stil mit vielen Kringeln und Linien von perfekter Dicke. Dieser Brief ist eindeutig Teil einer Korrespondenz zwischen sehr einflussreichen Personen.	"Ich muss Ihnen mitteilen, dass Luzifer Kreegan Nighon um militärische Unterstützung gebeten hat. Obwohl es im Lande Unruhen gibt, hat unser König beschlossen, Truppen zu entsenden, um dieser verrückten Person zu helfen. Behaltet die Bewegungen unserer Truppen genau im Auge und meldet mir die Neuigkeiten. Wir können es uns nicht leisten, unsere Truppen in einer für Nighon so schwierigen Stunde zu verschwenden.	Tor Anwyn."	Der Name Anwyn kam mir vage bekannt vor... Ich glaube, Frederick hatte ihn schon einmal erwähnt? Nein, ich kann mich nicht genau erinnern. Was wirklich zählt, ist die Nachricht, dass Nighon Truppen schickt, um Eeofol zu helfen. Die Königin von Erathia und die Conflux-Truppen müssen so schnell wie möglich informiert werden. Sie dürfen nicht von der Ankunft der Armee der Dungeon Overlords überrascht werden.
+
+Name:
+Forest Guard camp and devil fortresses
+Message:
+Ein Späher, der im Auftrag von Gelu, dem halbelfischen Kommandanten der Waldwache, unterwegs war, besuchte uns. Er nahm meinen Bericht über unsere Landung, die Nighon-Bestien und die jüngsten Angriffe der Teufel auf und versprach, alles an seinen Kommandanten weiterzuleiten. Dann erzählte er mir, dass es in den Wäldern im Südosten ein Lager der Waldwache gebe. Der Kommandant sei Stilbon selbst, einer der erfahrensten Offiziere der Waldwache, aber man habe seit Wochen nichts mehr von ihm gehört, und Gelu befürchtete das Schlimmste.		Es stellte sich heraus, dass die Waldwächter das Land seit Monaten studiert hatten, um nach Schwachstellen in der kreeganischen Verteidigung zu suchen. Das Auftauchen unseres Stützpunktes war nicht unbemerkt geblieben, aber die Elementare konnten ihre Städte aus dem Nichts herbeirufen, und so waren die Kreeganer zunächst nicht sonderlich an uns interessiert, da sie uns nur für einen weiteren Außenposten der Gäste von anderen Ebenen hielten. Dem Späher zufolge gab es zwei große Kreegan-Festungen im Süden und Nordwesten und eine weitere, Ullah, weit im Westen, aber es war unmöglich, dorthin zu gelangen; der Weg dorthin führte durch Kreegan-Portale, magische Barrieren und Garnisonen, die bis zum Anschlag mit den infernalischen Bestien besetzt waren.
+
+Name:
+Situation is getting worse
+Message:
+Ein Tag nach dem anderen verging, aber es wurde nicht einfacher - die Zahl der Kreeganer wurde immer größer. Frustriert legte ich die Schriftrolle mit dem letzten Aufklärungsbericht zur Seite. Sie werden von Menschen und Elfen überrannt! Wie können sie es sich überhaupt leisten, Truppen zu haben, die auch gegen uns zurückschlagen? Und doch tun sie es.	Alle unsere Spähtrupps haben in den letzten Tagen versucht, herauszufinden, wie sie zur kreeganischen Festung von Ullah gelangen können, aber es sieht so aus, als würde es hier gleich sehr heiß hergehen.	Es hat keinen Sinn, Ullah jetzt anzugreifen - es gibt noch eine andere dringende Angelegenheit, um die wir uns kümmern müssen. Die Frage des Überlebens.
+
+Name:
+Warning about reinforcements
+Message:
+Ein Bote von Gelu bringt beunruhigende Nachrichten: Die vereinten Kräfte der Waldwächter und Catherines Truppen sind gezwungen, sich neu zu formieren. Ein sehr wichtiger Plan erfordert sie - das Schicksal des Krieges und vielleicht der ganzen Welt wird von seinem Erfolg abhängen. Die Kreeganer nutzen die Ruhe im Westen, um eine große Streitmacht zusammenzustellen, die uns daran hindern soll, ihre Festungen einzunehmen. Ihre beiden Stützpunkte im Süden und Nordwesten müssen erobert werden, und zwar noch vor Ende des Monats, sonst ist es für uns zu spät.
+
+Name:
+Red AI - 411 - Bonus Gold
+Message:
+
+
+Name:
+Todd's story
+Message:
+Am nächsten Tag verbrachten wir damit, Luftschiffe auszuladen, neue Werkstätten zu bauen und endlose Gespräche zu führen - hauptsächlich mit Fragen meinerseits. Am meisten interessierte mich natürlich das Schicksal von Frederick. Hier griff Todd die Geschichte auf:	"Ich habe Frederick nur einmal getroffen, als Floribert und ich mit einem anderen, völlig verrückten Projekt von Kastore betraut wurden. Handprothesen, die mit Sägen ausgestattet waren, damit die Krüppel weiter kämpfen konnten... Victoria weigerte sich, obwohl das genau ihr Fachgebiet war. Sie sagte, solche primitiven, plumpen Geräte seien eine Beleidigung für die... Äh, wo war ich? Ach, ja. Wenn Erfindung und Wissen nicht in unserer gemeinsamen Blutlinie lägen, hätte ich gedacht, Frederick sei wie gebannt, so vertieft in seine Gedanken. Es ist wie eine Trance, wenn man nichts um sich herum wahrnimmt und sich ganz der Muse der Inspiration hingibt. Ich kenne diesen Zustand sehr gut, im Gegensatz zu gewissen langbärtigen, dickhäutigen... Kein Wunder, dass Frederick keine unserer versteckten Botschaften bemerkt hat. Und doch bin ich sicher, dass er scharfsinnig genug ist, um die Täuschung früher oder später zu erkennen und den Unterschied zwischen wahren und falschen Freunden zu erkennen." 	Es war, als ob sich ein tief liegender Muskel in mir, der lange unter unglaublicher Spannung stand, entspannt hätte. Ich flüsterte zum hundertsten, vielleicht sogar tausendsten Mal:	"Danke, Leute!"		Als der Anfall von Sentimentalität vorüber war, schätzte ich unsere Chancen neu ein. Innerhalb eines Tages strotzte die Festung vor Waffen aller Art; hinter den Mauern brodelte geschmolzenes Eisen, das die Form mechanischer Krieger annahm, und die Hoffnung und der Wunsch, die Kreeganer zu dem trostlosen Haufen am Himmel zurückzutreiben, von dem sie herabgefallen waren, waren in unseren Herzen neu entfacht worden.
+
+Name:
+News about Armageddon's blade
+Message:
+Ein Bote von Gelu tauchte in unserem Lager auf, unbemerkt von den Wachen, wie immer.	"Gelu lässt ausrichten: Die Armageddon Klinge ist nun in unseren Händen, und ihr Schöpfer Khazandar ist tot. Xeron hat sich zurückgezogen. Die Reihen der Dämonen sind erschüttert, die Schlacht um Kreelah rückt näher. Königin Catherine bittet Euch, alle Eure Streitkräfte in den Angriff zu schicken. Unser Sieg ist nah!"	Der Elf sprach in seiner üblichen Art, in abgehackten, trockenen Sätzen, aber seine brennenden Augen verrieten mir, dass dieser Bericht die wichtigste und beste Nachricht in der langen Dunkelheit des Krieges war. Ich hatte Gerüchte über das Schwert Armageddon gehört, aber es war schwer zu glauben, dass so etwas von einem Menschen geschaffen werden konnte, selbst von einem Genie von noch nie dagewesenem Niveau. Wenn es stimmt, was man darüber sagt, dann bin ich sehr froh, dass die Klinge jetzt in den Händen unserer Verbündeten ist. Was Khazandar betrifft... Ich hatte diesen Namen vor langer Zeit von Frederick gehört, aber ich konnte mich nicht erinnern, wer er für meinen Freund war. Sam unterbrach meine Gedanken: 	"Kommandant. Sollen wir uns auf die Schlacht vorbereiten?"	"Das sollten wir."
+
+===== Heroes =====
+
+===== Objects =====
+
+(9, 53, 0) ***Inferno***
+Name:
+Ullah
+
+Timed events:
+
+Name:
+Rote AI - 413 - Ressources
+Message:
+
+
+(11, 97, 0) ***Pit Fiend***
+Message:
+"He, ihr! Du willst an den Haken? Willst du gefressen werden? Zurück an die Arbeit!" Der halbnackte Dämon mit den geschwollenen Augen kratzte sich am Hintern und schwang seine Peitsche nach mir.  Der Schuft hat nicht einmal gemerkt, dass ich kein Sklave, sondern ein bis an die Zähne bewaffneter Krieger bin. Im nächsten Moment spritzte der Dämon schwarzes Blut auf den Boden. Andere tauchten auf, aber wir waren bereit für einen Kampf. Deshalb kamen wir hierher.
+
+(106, 107, 0) ***Quest Guard***
+Message:
+Du kannst den Außenposten der Waldwächter vor dir sehen. Mit großer Hoffnung im Herzen gehst du zum Quartier des Kommandanten, denn du brauchst ihre Hilfe jetzt mehr denn je. Die Wache an der Tür teilt dir jedoch mit, dass der Kommandant des Außenpostens, Stilbon, während des Überfalls in die Fänge der Kreeganer geraten ist. Kurz zuvor hatte er den verbliebenen Kriegern im Lager befohlen, hier zu bleiben. Sein Trupp wird bis zu weiteren Befehlen des Kommandanten hier bleiben.
+Die Meisterschützen werden nicht mitgehen, bis Stilbon ihnen neue Befehle erteilt.
+Die Meisterschützen erkennen ihren Befehlshaber an und machen sich bereit, weiterzuziehen.		Willst du sie mitnehmen?
+
+(99, 8, 0) ***Sign***
+Message:
+Außenposten der königlichen Streitkräfte von Erathia
+
+(10, 31, 0) ***Sign***
+Message:
+Tempel des Erebus
+
+(3, 67, 0) ***Seer's Hut***
+Message:
+Während du die verbrannten Hügel und Ebenen von Eeofol erkundest, bemerkst du eine einsame Hütte und beschließt, einen Blick hineinzuwerfen. Intakte Strukturen sind ein seltener Anblick in Eeofol... aber du bist noch mehr überrascht, als du eintrittst.	 Ein breitschultriger Krieger begrüßt dich in der Hütte, und du bestaunst die reiche Sammlung an Rüstungen und Waffen, die an den Wänden hängt.	  Überrascht, einen lebenden Mann in Eeofol zu sehen? , fragt der Ritter.  Nun, ich bin genauso überrascht wie du. Ich habe früher allein im Osten gelebt, aber vor kurzem habe ich beschlossen, mich tief in die Ländereien von Kreegan vorzuwagen. Soweit ich weiß, haben die Elementarmagier irgendwo in dieser Gegend die Kugel des rasenden Feuers verloren. Sie sind bereit, demjenigen, der sie findet und den Streitkräften des Conflux zurückgibt, eine sehr großzügige Belohnung zu zahlen. Leider war meine Suche bisher vergeblich. Ich weiß nur, dass die Kreeganer die Kugel nicht bekommen haben. Möchtest du dich meiner Suche nach ihr anschließen? 
+Könnt ihr das glauben? Ich konnte die Kugel nicht finden. Und ich schätze, du hast sie auch nicht gefunden.
+"Ihr habt sie gefunden!" rief der Ritter begeistert aus. "Gebt es mir, und ich werde es den Kräften der Conflux zurückgeben. Bitte nehmt dieses Schwert an. Es hat mir in der Vergangenheit gute Dienste geleistet, also lasst es Euch jetzt helfen."		Wollt Ihr die Kugel des rasenden Feuers gegen das Schwert des Urteils eintauschen?
+
+(16, 84, 0) ***Seer's Hut***
+Message:
+Flammen stiegen in die Luft, setzten vertrocknete Bäume in Brand und erzeugten Hitzewellen. In den Flammen kannst du Gestalten sehen, die sich auf dich zubewegen. Es sind Feuerelementare, aber sie scheinen nicht die Absicht zu haben, anzugreifen.	Hör zu", sagt einer von ihnen zu dir, "ein uraltes Relikt, das die Geheimnisse unserer Magie birgt, ist verschwunden. Wir können es spüren: Es ist irgendwo in der Nähe und zieht uns an. Bringt das Buch der Feuermagie, und wir werden euch Schutz vor allen Waffen gewähren!"
+Die Elementare wandern in den Flammen umher und beachten euch nicht. Sie interessieren sich für nichts anderes als für das alte Buch.
+Die Elementare spüren, dass du das Buch der Feuermagie hast, und kommen auf dich zu. "Übergebt uns unsere Reliquie und wir werden eine magische Barriere um euch errichten, die euch im Kampf schützen wird", sagen sie.		Willst du ihnen das Buch geben?
+
+(101, 104, 0) ***Wood Elf***
+Message:
+Eine Gruppe von Elfen heißt dich willkommen: "Dies ist ein Lager der Waldläufer, und wir sind auf eurer Seite. Unsere besten Meisterschützen, die von Stilbon befehligt werden, haben jedoch den Befehl, bis zu seiner Rückkehr hier zu bleiben. Ich bezweifle, dass ihr sie überreden könnt, mit euch zu kommen."
+
+(18, 16, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Red AI - minus crystals
+Message:
+
+
+Name:
+Red AI - 347 - Extra strength
+Message:
+
+
+Name:
+Red AI - 431 - Dead end
+Message:
+
+
+(92, 51, 0) ***Sign***
+Message:
+Land der Giganten
+
+(3, 22, 0) ***Sign***
+Message:
+Kein Weg zurück
+
+(84, 58, 0) ***Factory***
+Name:
+Kergar
+
+Timed events:
+
+Name:
+Player - 121 - bonus
+Message:
+
+
+Name:
+Player - 411 - Finale - Huge bonus
+Message:
+Die Lage verschlechterte sich zusehends. Vielleicht waren unsere Pläne, die kreeganischen Streitkräfte in der Region im Alleingang zu besiegen, zu gewagt - aber zumindest hätten wir es schaffen können, dass sie die ständigen schmerzhaften Angriffe von allen Seiten zu spüren bekamen und sich nicht mehr sammeln konnten. Stattdessen saßen wir in der Festung und hielten eine strenge Verteidigung aufrecht. Jeder Soldat zählte, und wir konnten uns keine riskanten Vorstöße in das feindliche Lager leisten, auch wenn wir wussten, dass wir damit die Dämonenlegionen schwächen konnten. Anders als die Höllenbrut konnten wir die Toten nicht zurückbringen - und wir konnten es uns ganz sicher nicht leisten, ihnen die Körper unserer Kämpfer zu überlassen. Ich hatte tagelang nicht geschlafen, um mir einen brauchbaren Plan auszudenken, der das Blatt des Krieges wenden würde. Nach einer weiteren schlaflosen Nacht stieg ich die Treppe zum Treppenabsatz um einen der Schornsteine der Burg hinauf und starrte in die Ferne. In den goldenen Strahlen der Morgensonne, die auf wundersame Weise durch die Lücken in der dichten Wolkendecke brachen, konnte ich die Ballons der Luftschiffe sehen. Eins, zwei, drei... Ich starrte weiter in die Ferne, als wäre ich benommen und hätte Angst, die Vision zu vertreiben. Plötzlich bemerkte ich, dass ich das abgehackte Geräusch der Propellerblätter hören konnte. Es war so laut, dass der Zaun der Aussichtsplattform bebte. Mein Verstand weigerte sich zu glauben, dass das, was geschah, real war, aber alle meine Sinne sagten mir etwas anderes. Die Luftschiffe kamen so nahe, dass ich die Gestalt einer blonden Frau sehen konnte, die mir vom Vorschiff des Führungsschiffs zuwinkte.  Ich stürzte die Leiter hinunter und entging nur knapp einem Sturz vom Schornstein. Es hat eine gute halbe Stunde gedauert, bis die Anker fallen konnten, aber ich habe es kaum wahrgenommen. Die Gondeln der Schiffe berührten sanft den Boden. 	"Sam! Todd! Fla... Flu... Floribert!", rief ich unter Freudentränen über das Dröhnen der Motoren hinweg. Immer mehr dieser vertrauten, geliebten Gesichter tauchten an den Seiten auf. Endlich waren meine Freunde auf dem Boden, gefolgt von Revolverhelden, Automaten und sogar Dreadnoughts, die mit Kisten aller Größen beladen waren. Sam rannte auf mich zu und umarmte mich.	"Henrietta! Ich bin so froh, dass wir es geschafft haben!"	"Aber wie? Bist du nicht in Burton geblieben, bei Kastore?"	"Bei dieser Kröte? Ach was! Als du ihm direkt vor der Nase weggelaufen bist, war es, als wären uns Flügel gewachsen. Ich wünschte, du hättest gesehen, wie grün er wurde, als er erfuhr, dass du entkommen warst und alle Ressourcen aus den Südlanden mitgenommen hattest. Er sah genauso aus wie seine dummen Goblins! Nun, um ehrlich zu sein, schien Kastore anfangs ein guter Anführer zu sein, aber je weiter man in die Einöde vordrang, desto dicker wurden die Erdhörnchen. Er ist ein Tyrann! Selbst wir, die wir in Burton eine gewisse Bedeutung hatten, wurden wie Diener, wenn nicht gar wie Arbeiter behandelt; von den Halblingen ganz zu schweigen. Wir haben sie auch aus dem Kerker geholt und mitgenommen!	Todd unterbrach Sam:		"Hervorragend! Sams Arbeit war brillant! Ich weiß nicht, wer ihr die Kunst der versteckten Botschaften beigebracht hat, aber Botschaften in den Seriennummern der produzierten Teile zu verschlüsseln... das war einfach brillant! Wir haben Kastore monatelang zum Narren gehalten, während er sich an der Macht erfreute. Und eines Tages, ja, ja, eines Tages, kam ein Plan mit Hunderten von kleinen, beweglichen, sich ständig verändernden Elementen zusammen und funktionierte perfekt! Die Goblins, Minotauren und all die anderen Bestien, die ihm dienten - sie merkten nicht einmal, was passiert war, als die Sprengladungen in allen Fabriken und unter allen Brücken gleichzeitig detonierten. Und da waren wir schon weg! 	"Verdammt, ich würde alles Erdöl der Welt geben, um zu sehen, ob er noch grüner wird! Wenn das so weitergeht, wird er bald ein Kaktus sein! Henrietta, Mädchen, lass dich umarmen! Wir sind hier, wir sind gekommen, und wir sind jetzt bei dir!"
+
+(29, 56, 0) ***Prison***
+Name:
+Stilbon
+Biography:
+Stilbon ist der heimliche Anführer der Waldwächter. Seine Mitstreiter haben zwar die von Gelu erfundenen Scharfschützenbögen angenommen, aber die anderen Änderungen, die der neue Kommandant eingeführt hat, haben sie nicht annähernd so gut aufgenommen. Stilbon lässt keine Gelegenheit aus, um zu beweisen, dass die Köcher der alten Gardisten immer noch voller böser Überraschungen für den Feind sind.
+
+(65, 13, 0) ***Grand Elf***
+Message:
+Tavins Kriegstagebuch, Eintrag 12.		Auf unserem Weg zum Lager trafen wir auf einen Zentaurenstamm. Als er von der anrückenden Dämonenarmee hörte, befahl der Elf, der das Lager führte, seinen Männern, sofort aufzubrechen. Er berichtete auch, dass es auf der anderen Seite des Sees einen alten erathianischen Außenposten gibt. Vielleicht gibt es dort noch jemanden.
+
+(106, 67, 0) ***Pandora's Box***
+Message:
+
+
+(35, 4, 0) ***Heretic***
+Name:
+Phrike
+
+(34, 39, 0) ***Quest Guard***
+Message:
+Die Meisterschützen der Waldwache haben hier ihr Lager aufgeschlagen. Sie grüßen euch und teilen euch mit, dass sie den Auftrag haben, die hier gelagerten Engelsfederpfeile zu bewachen, bis ihr Anführer Stilbon zurückkehrt.Sie sind bereit, sich euren Reihen anzuschließen, wenn er zu diesem Zweck neue Befehle gibt.
+Die Meisterschützen der Waldwache haben hier ihr Lager aufgeschlagen. Sie grüßen euch und teilen euch mit, dass sie den Auftrag haben, die hier gelagerten Engelsfederpfeile zu bewachen, bis ihr Anführer Stilbon zurückkehrt.Sie sind bereit, sich euren Reihen anzuschließen, wenn er zu diesem Zweck neue Befehle gibt.
+Die Meisterschützen melden sich:	"Das Artefakt ist gesichert und wir sind bereit, weiterzuziehen! Irgendwelche weiteren Anweisungen?"
+
+(21, 53, 0) ***Seer's Hut***
+Message:
+In der Nähe eines längst verdorrten Baumes begegnet ihr einer Gestalt, die in ein helles blaues Leuchten gehüllt ist. Von Zeit zu Zeit sprühen Funken an den Armen und Beinen des Wesens.	"Seid gegrüßt", sagt der Elementar. "Tamar der Wanderer sagte mir, dass er eure Ankunft hier im Osten von Eeofol vorausgesehen hat. Der Großteil der Conflux-Truppen kämpft jetzt in der Nähe von Kreelah, aber wir können immer noch einige schicken, um euch zu helfen. 	Wollt Ihr die Phönixe in Eure Armee aufnehmen?"
+Wollt Ihr die Phönixe in Eure Armee aufnehmen?
+Es gibt einen weiteren Grund, warum ich in dieses Land geschickt wurde. Vor einem Monat hat sich einer unserer Ebenenwandler die Kugel der Beständigkeit geschnappt und Ullah angegriffen, aber seitdem hat man nichts mehr von ihm gehört. Wahrscheinlich ist er im Kampf gefallen und die Sphäre fiel in die Hände der Kreeganer oder ihrer Verbündeten. Vielleicht wurde der Elementar von Ayden oder Zydar angegriffen - wir wissen, dass die beiden in letzter Zeit in der Nähe von Ullah patrouilliert haben.	Wenn das tatsächlich der Fall ist, versucht, diese Kugel zu finden. Das Artefakt darf nicht in den Händen der Kreeganer landen.
+Immer noch keine Spur von der Kugel? Ich bin sicher, sie muss in der Nähe sein.
+ Das ist in der Tat die Sphäre der Beständigkeit. Ich werde es meinen Brüdern übermitteln und berichten, dass ein weiterer Elementarkrieger im Kampf mit den Teufeln gefallen ist", schweigt der Elementar einen Moment lang.  Nehmt den Löwenschild des Mutes und bringt zu Ende, was wir vorhatten: Ullah erobern und die Präsenz der Kreeganer in diesen Landen beenden.	Tauscht ihr die Sphäre der Beständigkeit gegen den Löwenschild des Mutes? 
+
+(78, 13, 0) ***Pandora's Box***
+Message:
+
+
+(12, 43, 0) ***Demoniac***
+Name:
+Nixie
+
+(12, 71, 0) ***Event***
+Message:
+
+
+(107, 89, 0) ***Pandora's Box***
+Message:
+
+
+(36, 91, 0) ***Inferno***
+
+Timed events:
+
+Name:
+Red AI - minus gems
+Message:
+
+
+Name:
+Red AI - 347 - Extra strength
+Message:
+
+
+Name:
+Red AI - 431 - Dead end
+Message:
+
+
+(90, 0, 0) ***Pandora's Box***
+Message:
+
+
+(63, 2, 0) ***Seer's Hut***
+Message:
+Du triffst eine große Gruppe von Waldläufern am See. Sie willigen ein, sich euch anzuschließen, können aber ihr Versteck nicht ohne den Befehl von Stilbon, ihrem Kommandanten, verlassen.
+Du triffst eine große Gruppe von Waldläufern am See. Sie willigen ein, sich euch anzuschließen, können aber ihr Versteck nicht ohne den Befehl von Stilbon, ihrem Kommandanten, verlassen.
+Als sie den Befehl zum Verlassen des Verstecks hören, machen sich die Scharfschützen sofort auf den Weg. Wollt ihr sie in eurer Armee willkommen heißen?
+
+(37, 72, 0) ***Quest Guard***
+Message:
+Eine magische Barriere versperrt den Weg tief in die Länder der Teufel. Alle Versuche, sie zu entfernen, sind gescheitert. 	Nicht weit entfernt, zwischen den Hügeln, entdeckst du eine Kreatur in rotem Mantel und Turban. Bevor du etwas sagen kannst, spricht das Wesen zu dir. Das Seltsame ist, dass du seine Stimme nicht hörst. Tausende von Gedanken überfluten deinen Geist.	"Wir haben versucht, die Barriere aufzuheben Magie ist zu stark, aber nichts kann uns entgehen Drei Kriegsherren aus Kreegan halten die Schlüssel in der Hand Ihre Namen sind Athe, Kydoimos und Miseria. Finde sie. Sammelt die Schlüssel ein. Durchbrich die Barriere."
+Die Barriere ist immer noch da. Vielleicht hatte der Elementar recht, und der einzige Ausweg besteht darin, Athe, Kydoimos und Miseria zu besiegen und ihre Artefakte zu sammeln.
+Der Umhang des Diplomaten leuchtet in rotem Licht. Bist du bereit, den Mantel zu opfern und tief in das Gebiet der Kreeganer vorzustoßen?
+
+(35, 35, 0) ***Pandora's Box***
+Message:
+
+
+(37, 101, 0) ***Event***
+Message:
+
+
+(4, 6, 0) ***Event***
+Message:
+
+
+(49, 88, 0) ***Pandora's Box***
+Message:
+
+
+(31, 48, 0) ***Event***
+Message:
+Bewegung AI
+
+(11, 72, 0) ***Event***
+Message:
+
+
+(101, 8, 0) ***Halfling Grenadier***
+Message:
+Tavins Kriegstagebuch, Eintrag 13.		Neben den erathianischen Soldaten habe ich auch einige meiner Halblingsbrüder getroffen. Sie alle sagen, dass eine ganze Armee südlich von hier, im Land der Riesen, aus dem Nichts aufgetaucht ist! Ich konnte nicht herausfinden, von welcher Art von Armee sie sprachen, aber es schienen keine Elementare zu sein. Die Halblinge sprachen von Kupferspinnen, Männern mit Eisenstöcken und gefiederten Schlangen. Ich habe keine Ahnung, was für eine Armee das ist, aber eines ist klar: Sie sind nicht unsere Feinde, und sie kämpfen auch gegen die Teufel.
+
+(69, 11, 0) ***Event***
+Message:
+
+
+(42, 7, 0) ***Event***
+Message:
+
+
+(93, 64, 0) ***Quest Guard***
+Message:
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhaltet ihr zusätzliche Artefakte und zusätzliche Truppen}
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhaltet ihr zusätzliche Artefakte und zusätzliche Truppen}
+	{Annehmen?}
+
+(94, 64, 0) ***Pandora's Box***
+Message:
+
+
+(12, 70, 0) ***Event***
+Message:
+Mit großer Anstrengung gelingt es dir, etwas von deiner verlorenen Kraft wiederzuerlangen. Du hast schon von der Fähigkeit der Kreeganer gehört, Magie zu unterdrücken, aber du hast sie noch nie am eigenen Leib erfahren. Zweifellos ist dies eine der Fallen, die die Teufel vorbereitet haben, um ihre Festung zu schützen.
+
+(103, 45, 0) ***Event***
+Message:
+"Tavin ist am Leben!"	Dieser Gedanke hatte mich die ganze Nacht wachgehalten. Jetzt wusste ich es mit Gewissheit: Ein Soldat seiner Truppe hatte uns endlich erreicht. Muss ich beschreiben, wie sehr ich mich auf dieses Treffen gefreut habe? In der Dämmerung war es schwierig, die Gesichtszüge des Reisenden zu erkennen. Ich strengte meine Augen an, so gut ich konnte: eine kleine Gestalt auf einem... Pony? Ja! Es war eindeutig ein Halbling!	"Tavin! Tavin, bist du das?" rief ich und stürzte auf den kleinen Reiter zu, alle Vorsicht vergessend.	Der Reiter bäumte sich im Sattel auf und zögerte einen Moment. Dann, als er mich offenbar erkannte, stieg er ab und rannte auf mich zu, kauerte auf einem Bein und fuchtelte unbeholfen mit seinen kurzen, kräftigen Armen herum. Er war es.	Ich hätte den müden Reisenden fast in den Boden gerammt, so froh war ich, ihn zu sehen. Erst da wurde mir klar, welchen Tribut die Jahre an ihm gefordert hatten. Narben, Verbrennungen, graue Bartstoppeln... Doch sein Auge - das einzige Auge, das andere war ein grässliches rötliches Loch - schaute mich kühn und interessiert an, als wollte es sagen: "Na, Mädchen, mal sehen, was für ein wildes Tier du geworden bist".		Wir unterbrachen uns gegenseitig und begannen, Geschichten über die Reise auszutauschen, die jeder von uns gemacht hatte. Ich erfuhr, wie Tavin am Tag unserer Abreise die Verfolger der Kreeganer im Alleingang auf eine falsche Fährte geführt und sie glauben lassen hatte, dass ein ganzer Trupp Grenadiere in den Wäldern lauerte. Wie er anfangs alle Kraft in sein eigenes Überleben investierte, gequält von der Tatsache, dass er seinen Leuten nicht helfen konnte. Später fand er seine ersten Gefährten und begann, kleine Raubzüge gegen die Kreeganer zu unternehmen - hier und da gelang es ihnen, den einen oder anderen Sklaven zu befreien und aus Eeofol zu schaffen oder einem Teufel aufzulauern und ihm die Kehle durchzuschneiden.	"Aber das war alles nur ein Tropfen auf den heißen Stein. Unser Glaube begann uns zu verlassen. Verzweiflung ist ein schlimmeres Gift als das stinkende Blut der Kreeganer", murmelte Tavin, als würde er den Schmerz jener Tage wiedererleben.	In ihrer dunkelsten Stunde, als die Dinge in Eeofol so schlecht zu laufen schienen, erfuhren die Guerillas von Erathias Sieg im Restaurationskrieg. Seitdem hatten die Kreeganer, denen ein schwerer Schlag versetzt worden war, ihren Einfluss verloren. Die Guerillas wurden immer mutiger, und viele der freigelassenen Sklaven schlossen sich ihnen an. Natürlich glaubten sie nicht, dass sie die Teufel wirklich vertreiben konnten, nicht bevor die Elementare in Eeofol auftauchten...		Tavin war beeindruckt von dem, was ich ihm von meinen Abenteuern und den Truppen, die mit mir aus Jadame gekommen waren, erzählt hatte - aber es gab nichts, was ich ihm im Moment zeigen konnte. Wynona war meine einzige Begleiterin bei dem Treffen, und der alte Söldner warf immer wieder verstohlene Blicke auf die Dunkelelfe, musterte ihr Langschwert und ihren leichten Brustpanzer aus bläulichem Stahl und hustete in seine Faust.	"Eine Sache beunruhigt mich, Tavin. Vielleicht bist du so mutig, mir die Wahrheit zu sagen? Ich kann mir nicht erklären, warum man mich Mondkind nennt. Egal, wie sehr ich mich bemühte, es herauszufinden, alle, die ich fragte, schienen Angst zu haben. Wenn sie nicht wegliefen, wechselten sie einfach das Thema. Ich halte es nicht mehr aus... Irgendetwas stimmt hier nicht: Es fühlt sich an, als wäre mein ganzes Leben deswegen schief gelaufen, seit ich mich nicht mehr erinnern kann."	Tavin nahm einen kräftigen Schluck aus seiner Reiseflasche, zündete seine kurze Pfeife an, seufzte ein paar Mal schwer und begann:	"Also, hör zu. Es geht um Folgendes... Ich war gerade als neuer Rekrut in den Grenzschutz eingetreten, und das war eine harte Zeit! Ich hörte viele Dinge, über die die Dorfbewohner schwiegen - ein paar Jahre zuvor waren schreckliche Dinge geschehen. Riesen kamen von den Bergen in das Tal herunter. Warum, denkst du, halten uns Halblinge alle für Glückspilze? Das liegt daran, dass niemand jemals von unseren Problemen gehört hat - wir sprechen nicht darüber, nicht einmal mit unseren Nachbarn. Und wenn jemand etwas herausfindet, schweigen sie wie die Fische.  Abergläubisches Volk! Sie glauben, wenn man den Kummer erwähnt, wird er das vernehmen und zehnmal so leidvoll zurückkehren. Und wie kann man vor Kummer nicht verrückt werden, wenn man sich nicht wehren kann? Ich konnte das alles nicht mehr ertragen und ging zu den Wächtern. Ich war des Glaubens leid. So war es dann auch... Viele Dörfer wurden von den Riesen in den Boden gestampft. Was für eine Katastrophe! Und nur in einem Dorf fanden wir im hellen Licht des Vollmondes ein noch lebenden Säugling. Das ganze Haus ringsum war zerstört, aber die Wiege war unversehrt. Also nannten die Retter sie Mondkind. Was sollen wir tun? Das Baby war lebendig, aber sobald man es ansah, konnte man wieder das Grollen der Riesenfüße spüren. Also schworen wir alle, über die Sache zu schweigen; kein Wort, um kein neues Unglück heraufzubeschwören."	Ich erstarrte. Jahrelang hatte Frederick versucht, mir diesen Unsinn auszureden, mit mir zu streiten, mir Dinge zu erklären, etwas zu beweisen - aber ich glaubte immer noch an die Vorzeichen. Ein bisschen, aus Gewohnheit, als ob ich mich an etwas festhalten würde. Und jetzt - waren die Teufel über Eeofol hergefallen, nur weil ich... am Leben war?	Es war, als ob der alte Kämpfer meine Gedanken gelesen hätte:	"Nein, Kind. Wer Böses tun will, braucht eine Weile, um sich vorzubereiten, und dann tut er es. Was sind schon Omen für ihn? Es ist genau andersherum, Henrietta.  Ohne dich, deiner Tapferkeit und deiner Freundschaft mit dem schlaksigen Zauberer gäbe es uns jetzt nicht. Du bist unser Glücksfall. Damals, als ich mir nicht sicher war, ob es überhaupt noch Hoffnung in der Welt gab, und ich durch diese verbrannten Wälder irrte wie ein Toter, der einfach vergessen hat, sich in die Erde zu legen, erfuhr ich, dass irgendwo jenseits der fernen Meere Halblinge gesichtet worden waren. Ich freute mich wie ein kleiner Junge! Ich wusste, dass unsere Wurzel nicht verloren war, und sie würde wieder sprießen. Du hast uns einmal gerettet, und jetzt bist du zurückgekommen, um uns erneut zu retten! Wenn du schlechte Vorzeichen so sehr magst, dann sind wohl alle Spiegel der Kreeganer zerbrochen, weil sie sich vor ihren hässlichen Brüdern fürchteten. Nun sag mir, wer hat die Angst überwunden? Wer hat dich Mondkind genannt?	"Das war Onkel Kett. Er ist in meinen Armen gestorben."	Tavin wurde mürrisch und seufzte.	"Ole Kett also. Ein guter Soldat war er, ich wünschte, ich hätte ihn gerettet. Ich dachte, er wäre damals mit dir geflogen, aber zwei Jahre später tauchte er bei meiner Einheit auf. Wir kämpften zusammen, bis... Ah, möge er in Frieden ruhen. Ich bin froh, dass er, bevor er starb, dein Gesicht gesehen hat und nicht diese roten Visagen. Nicht jeder hat heutzutage so viel Glück in Eeofol."	"Was ist mit Auna? Hast du schon von ihr gehört?"	"Nein. Ich habe noch nie jemanden mit diesem Namen gekannt."	Tränen kullerten aus meinen Augen. Zu erfahren, dass man alles verloren hat, bevor man überhaupt wusste, dass man es hatte. Und jetzt ist alles, was übrig ist, ein Name. Warum ist es schmerzhafter, ihn zu kennen, als nichts zu wissen?		Sie ist ein Mondkind		Sie pflückt die Blumen in einem Garten.		Liebliches Mondkind		Auf dem Echo der Stunden treibend.		In einem milchweißen Kleid auf dem Wind segelnd,		Lässt kreisende Steine auf eine Sonnenuhr fallen,	Spielt Verstecken mit den Geistern der Morgendämmerung,		und warte auf das Lächeln eines Sonnenkindes.				Ich hörte die Stimme, und es war, als würde ich ihr aus dem dunklen Nachtwald folgen - ein kleines, verlorenes Mädchen. Ich öffnete die Augen und spürte Wynonas warme Arme um mich, als sie in die Hocke ging, und ich spürte Tavins steife Handfläche auf meiner Schulter.
+
+(32, 39, 0) ***Sharpshooter***
+Message:
+Die Feinde unserer Feinde sind unsere Freunde. Wir sind bereit, an eurer Seite zu kämpfen, bis wir uns wieder den anderen Einheiten der Waldwache anschließen können.
+
+(27, 99, 0) ***Event***
+Message:
+Überlebende... und nicht nur das. Marode Kreaturen. So sahen die Sklaven des Teufels aus. Die hageren, von der Asche und dem Staub grauen Halblinge sahen eher wie Kobolde oder Goblins aus. Sie trugen keine Ketten - nur ein Gramm Metall an jedem von ihnen würde sie bewegungsunfähig machen. Ich warf einen Blick auf ihre Wohnverhältnisse: dreckige Hütten, die schon bessere Tage gesehen hatten. Die Dächer wurden eilig mit Müll geflickt. Und die Gärten... Ich konnte meinen Augen nicht trauen. Die Gärten! Was wuchs denn da? Nein, sicher keine Blumen ... das waren verschrumpelte Pilze von abstoßender Färbung. Wäre ein Halbling früher in den Wäldern auf so etwas gestoßen, hätte er beim bloßen Gedanken an den Verzehr einer solchen Abscheulichkeit vor Wut gespuckt. Die Ärmsten schienen nicht zu bemerken, dass ihre Peiniger schwer atmend auf dem Boden lagen. Die Sklaven schleppten ständig Eimer mit etwas Stinkendem herum. Mir brach ein eisiger Schweiß aus: Die Eimer waren bis zum Rand mit abgetrennten Gliedmaßen und anderen Körperteilen gefüllt. Menschen, Dämonen, man konnte nicht sagen, von wem sie stammten. Die Halblinge leerten die Eimer in einen riesigen Bottich in der Nähe des Stalles. Und dann hörte ich ein Kreischen oder ein Knurren - ein zutiefst widerliches, ekelerregendes Geräusch. Die Kreaturen, die ich als Nächstes sah, waren dick, rot und hatten Hörner am ganzen Körper - zuerst dachte ich, es seien Gürteltiere, aber dann wurde es mir klar. Riesig. Dämonisch. Wildschweine. Das war es, was sie waren. Eine perverse Mischung aus Schweinen und Dämonen. Sie verschlangen gierig das Fleisch und wurden immer größer, während ich zusah. Es war nicht leicht, meinen Blick von dem ekelhaften Festmahl loszureißen, aber wo ich als Nächstes hinschaute, war der Anblick nicht weniger abscheulich. Neben dem Stall befand sich ein Schlachthaus, in dem die Kadaver von Schweinedämonen an Haken hingen und Knochen und verwesende Fleischreste verstreut waren. So ernähren die Teufel also ihre sich vermehrenden Legionen. Ich dachte immer, sie seien wie Heuschrecken, die alles verschlingen, was ihnen in die Quere kommt, und wenn sie mit einem Dorf, einem Land, einem Kontinent, einem Planeten fertig sind, machen sie sich auf die Suche nach dem nächsten. Offenbar zwangen die Kreeganer den Widerstand und das Eingesperrtsein auf Eeofol dazu, mit der Tierzucht zu beginnen, was wiederum einigen meiner Brüder das Leben rettete. Wenn ich damals nicht zufällig in der Nähe von Fredericks Labor gewesen wäre, würde ich jetzt vielleicht diese Eimer tragen.	"Brüder! Schwestern! Euer Leiden hat ein Ende!"
+
+(85, 66, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+231 - Orange AI - crystals
+Message:
+
+
+(83, 17, 1) ***Seer's Hut***
+Message:
+IIn der Hütte triffst du einen Hexenmeister und bereitest dich darauf vor, einen Angriff abzuwehren, aber er hat nicht die Absicht zu kämpfen.	 Lasst mich in Ruhe", sagt er.  Ich war früher ein hohes Tier in Ordwalds Reich, aber jetzt ist Mutare in Nighon an die Macht gekommen, und ich musste gehen. Ich habe versucht, auf den Kontinent zu fliehen, aber ich habe mich verlaufen und bin in Tunneln gelandet, die mich nach Eeofol führten. Mutares Gefolgsmann Dace ist hierher gereist, um mich gefangen zu nehmen, und ich kann diese Höhle nicht verlassen, während er sich hier herumtreibt. 
+Der Hexenmeister ist immer noch hier, und es ist besser, ihn nicht zu stören, wenn es nicht nötig ist.
+Du sagst, Dace wurde besiegt und ist in Ungnade nach Nighon geflohen? Na endlich! Ich habe etwas, womit ich Euch danken kann. Ich habe etwas von meinem Vermögen mitgenommen, als ich floh. Nehmt diese Kristalle, ich glaube, Ihr werdet sie gebrauchen können.
+ Jetzt könnte ich diese Höhlen verlassen, aber um ein neues Leben zu beginnen, bräuchte ich ein paar Gegenstände, die ich früher besessen habe. Ich nahm sie mit, als ich aus Nighon floh, aber ich wurde in den Höhlen von Monstern angegriffen. Wie durch ein Wunder gelang es mir, ihnen zu entkommen, aber ich habe meinen Mantel und meinen Umhang verloren. Wenn Ihr sie finden könntet, wäre ich Euch sehr dankbar.
+Der Hexenmeister ist immer noch hier, und es ist besser, ihn nicht zu stören, wenn es nicht nötig ist.
+Der Hexenmeister ist immer noch hier, und es ist besser, ihn nicht zu stören, wenn es nicht nötig ist.
+
+(3, 34, 1) ***Prison***
+Name:
+Horkos
+
+(7, 42, 1) ***Demoniac***
+Name:
+Polemos
+
+(9, 37, 1) ***Demoniac***
+Name:
+Xex
+
+(23, 99, 1) ***Overlord***
+Name:
+Luedro
+
+(31, 98, 1) ***Seer's Hut***
+Message:
+Es wird erzählt, dass sich das Versteck der Waldläufer, die von Gelu hierher geschickt wurden, irgendwo in diesen Höhlen befindet. Ihr habt die Höhlen sorgfältig erforscht, aber ihr konntet das Versteck nicht finden. Die Waldläufer sind sehr gut darin, ihre Spuren zu verwischen. Vielleicht weiß einer ihrer Befehlshaber, wie man sie finden kann?
+Die weitere Suche nach dem Versteck blieb erfolglos.
+Stilbon hatte keine große Mühe, das Versteck zu finden, schließlich war er derjenige, der es in diesen Landen eingerichtet hat, um die Kreegan-Bewegung in Eeofol im Auge zu behalten.	Du bemerkst Menschen und Elfen, die aus dem Unterschlupf kommen. Willst du mit ihnen sprechen?
+Es dauert Monate, ja sogar Jahre, einen guten Schützen auszubilden, aber uns läuft die Zeit davon. Bringt uns ein paar anständige Leute, die uns ersetzen, und 15000 Gold, um Meisterschützen anzuwerben, und wir werden sie in kürzester Zeit im Umgang mit diesen Bögen ausbilden.
+Leider ist dieser Betrag nicht ausreichend.
+Wollt ihr Zahlen?
+Bringt uns 20 Großelfen und wir statten sie mit Bögen der Meisterschützen aus.	
+	Diese Anzahl von Elfen ist nicht genug.
+Wollt ihr eure Elfen ausbilden? 
+
+(20, 60, 1) ***Overlord***
+Name:
+Insaneos
+
+(25, 98, 1) ***Event***
+Message:
+
+
+(22, 98, 1) ***Pandora's Box***
+Message:
+
+
+(104, 101, 1) ***Overlord***
+Name:
+Broulg
+
+(83, 46, 1) ***Event***
+Message:
+
+
+(70, 24, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+231 - Orange AI - crystals
+Message:
+
+
+(4, 38, 1) ***Necropolis***
+Name:
+Darkness
+
+(5, 27, 1) ***Prison***
+Name:
+Miseria
+
+(3, 27, 1) ***Prison***
+Name:
+Kydoimos
+
+(1, 27, 1) ***Prison***
+Name:
+Athe
+
+(0, 36, 1) ***Event***
+Message:
+
+
+(27, 92, 1) ***Event***
+Message:
+Das andere Ufer des unterirdischen Sees sieht völlig zugewachsen aus. Es scheint unmöglich zu sein, dort von einem Boot aus zu landen.
+
+===== End of file =====

@@ -1,0 +1,733 @@
+===== Map name =====
+Deus Ex Machina
+
+===== Map description =====
+Die Konstrukteure Todd und Bertram wollen unbedingt den ersten Panzerriesen erschaffen. Der Plan von Todd ist es, die technischen Ressourcen sofort zu nutzen, während Bertram die Wirtschaftlichkeit in den Vordergrund stellt. Um das Szenario zu gewinnen, müsst ihr euren Gegner ausstechen.
+
+===== Rumors =====
+
+Name:
+Ogre Robbers
+Text:
+Oger haben einen Handelsposten nördlich von hier geplündert. Ich frage mich, ob dort noch etwas zu finden ist?
+
+Name:
+Strange Minotaurs
+Text:
+In letzter Zeit höre ich immer öfter von Minotauren, die aus Dungeons heraus plündern. Wie seltsam. Balthasars Minotauren haben uns nie angegriffen. Vielleicht kamen diese Minotauren aus anderen Ländern?
+
+Name:
+Kastore Clue
+Text:
+Ich habe gehört, dass eines der Dörfer von Ogern und Minotauren angegriffen wurde. Aber sie befinden sich schon seit langem im Krieg gegeneinander. Warum haben sie sich plötzlich gegen uns verbündet?
+
+Name:
+Gunslingers
+Text:
+Revolverhelden haben ihr Lager im Süden errichtet.
+
+Name:
+Sandro and Thant come to power
+Text:
+Nekromanten sind immer häufiger zu sehen. Es heißt, dass sie nach der Machtübernahme durch die neuen Anführer aus der Gilde ausgeschlossen wurden.
+
+Name:
+Charles Quixote Clue
+Text:
+Im Norden, so heißt es, ist ein Krieg zwischen Drachen und erathianischen Drachentötern ausgebrochen. Und ein weiteres Drachenrudel ist in unser Land gezogen.
+
+Name:
+Garrote Gorge
+Text:
+Die Drachen von Jadame sind geeinter als ihre Verwandten in anderen Ländern. Sie haben in den Bergen nördlich von Ravage Roaming eine mächtige Gemeinschaft aufgebaut.
+
+Name:
+Monsters
+Text:
+Hexenmeister und Monster haben sich in den örtlichen Höhlen eingenistet, aber im Moment ist es unmöglich, sie vollständig loszuwerden.
+
+Name:
+Time of Wonders
+Text:
+Jeder Kunsthandwerker träumt davon, Maschinen wie die aus der Zeit der Wunder vor der Stille zu erschaffen. Zumindest ein Teil dieses Traums scheint nun in Erfüllung zu gehen.
+
+===== Timed events =====
+
+Name:
+AI - minus res
+Message:
+
+
+Name:
+Todd Intro
+Message:
+Mein Name ist längst in die Geschichte eingegangen. Sicher, es gab eine Zeit, in der sich dieser Zwerg Bertram meine Erfindungen aneignete und davon profitierte, obwohl ich außer einer Handvoll Gold keine Mühe in sie investiert hatte. Seitdem ist viel Wasser unter der Brücke hindurchgeflossen. Heute gibt es kaum jemanden in Jadame, der noch nichts von meinen selbstfahrenden Dampfmaschinen, den Automaten, gehört hat! Der alte Rotbart mag behaupten, dass ich nur auseinandergenommen und wieder zusammengesetzt habe, was Frederick vor mir gemacht hat... Das ist alles Unsinn! Zugegeben, ich habe die Prototypen tatsächlich von Frederick bekommen, aber, verdammt noch mal, sie basieren auf einer Theorie, die vor gut zwei Jahrhunderten von unserem gemeinsamen Vorfahren entwickelt wurde! Und was für ein großartiger, zu Unrecht vergessener Mann er war - er wurde aus den bracadischen Annalen getilgt. Nur sein Tagebuch, unterzeichnet mit den rätselhaften Initialen D.P., und ein Porträt, das ich an einem besonderen Platz in meiner Werkstatt aufbewahre, haben überlebt. Frederick schlug die Lösung für das Triebwerk vor, aber die Mechatronik, die Festigkeitsberechnungen, die Steuerausrüstung, die einzigartige hydraulische Logikmaschine - das war alles ich!	Es ist nun an der Zeit, diesem Hausierer und ganz Jadame - nein, der ganzen Welt - ein für alle Mal zu beweisen, dass Talent nicht käuflich ist! Entweder du hast es, oder dein Name ist Bertram. Darauf habe ich schon lange gewartet, zu lange. Das war meine Chance, mich endlich an diesem Geschäftemacher für seinen herablassenden Ton und seine gemeine Ironie zu rächen; ihn zu zertreten und zu demütigen, damit jeder seine Schande sehen kann! Meine unschätzbare Erfahrung als Erfinder, meine goldenen Hände - und ein wenig Ellbogenschmalz, aber das liegt an Sam; ich gebe zu, sie ist keine schlechte Mechanikerin.... Alles, was wir tun müssen, ist, das zu perfektionieren, was sich in meinem Kopf seit so vielen Jahren zusammenbraut. Das wäre eine ordentliche Ohrfeige für diese so genannte "Gilde", die nur dazu gut ist, bescheidenen Genies wie mir das ehrliche Brot aus den Händen zu reißen.
+
+Name:
+Bertram Intro
+Message:
+Lampenöl, das heller brennt als jede Kerze - schon eine Tasse davon lässt dein Heim die ganze Nacht hindurch leuchten. Seile, die aus feinstem Einhornhaar gewebt sind, mit einem Kern aus reiner Spinnenseide, die sogar einen schwarzen Drachen in Schach halten können. Bomben, die das Gestein in euren Minen zerreißen oder Horden von Feinden in Brei verwandeln können. Ihr wollt es? Das gehört alles dir, mein Freund. So wie Hunderte von anderen Gegenständen, die von der Händlergilde von Alvar angeboten werden! Damals in Antagarich war ich wohlhabend und erfolgreich im Geschäft, aber ich hatte nicht die geringste Ahnung von den Möglichkeiten, die eine Mitgliedschaft in einer so mächtigen Gesellschaft bietet. Ohne die Händlergilde wären unsere Kunsthandwerker hier nicht einmal halb so gut dran gewesen. Ich habe mit ihren Vertretern eine Vereinbarung getroffen, und sie decken nun die Versorgung mit seltenen Materialien und Reagenzien aus ganz Jadame ab. Diese Vereinbarung verschaffte mir einen Sitz und eine Stimme im Rat des Hauptmanns-Direktors. Ich habe es schon immer gesagt, und ich bin bereit, es noch einmal zu wiederholen: Die Budgetplanung ist der Schlüssel zur Arbeit eines Erfinders, und mindestens die Hälfte seines Erfolges hängt von ihr ab. Betrachten Sie nun Todds jüngste Erfolge: Fast der gesamte Verdienst dafür gebührt denjenigen, die es auf sich genommen haben, den langweiligen Papierkram auszufüllen, die ununterbrochene Versorgung mit Materialien und die Ausstattung seiner Werkstätten. Dieser kindische, leichtsinnige... Motte im Körper eines Mannes... er ist nach Burton geflogen und hat seinen Verwandten irgendwie eingeredet, dass er eine Manufaktur leiten kann! Hätte ich Frederick nicht schon lange gekannt, und hätte ich nicht in seinen Augen die stille Bitte gelesen, dem alten Hohlkopf zu helfen... Sieh ihn dir jetzt an: Er hat gerade noch etwas aus sich gemacht und tut so, als bräuchte er die Zunft nicht mehr! Als wären wir jetzt irrelevant, an die man sich nur noch erinnert, wenn er mal wieder über die Zinssätze jammert! Raubbau, wagt er es zu nennen! Er weiß nicht, dass unsere Zinssätze Dutzende von Kriterien berücksichtigen und Formeln verwenden, die um ein Vielfaches länger sind als das Komplizierteste, was er in seinem ganzen Leben je schreiben konnte! Weißt du was, Freundchen? Das war's. Ich habe gerade ein Wartezimmer voll mit Leuten wie Ihnen. Ein jeder schlauer und schneller als der andere. Wo wärst du mit deinen dampfspuckenden Stelzenläufern, wenn ich nicht drei meiner besten Verfahrenstechniker in dein Team eingeschleust hätte? Männer, in die ich zehn Jahre meines Lebens investiert habe, um ihnen das Verständnis dafür zu vermitteln, wie eine echte Fabrik funktioniert? Ihr würdet immer noch da draußen sein und jede Niete und jede Mutter polieren und schleifen, denn ihr wart nie in der Lage, innezuhalten und die Aussichten eures Tuns nüchtern zu betrachten. Der Handwerker ist nur ein Zahnrad in der Maschine, und ich kann leicht eines finden, dessen Zähne sich nicht abnutzen. Geld spielt keine Rolle, denn es ist unbezahlbar, einen undankbaren Kerl aus dem Weg zu räumen. Was kann er ohne unsere Unterstützung tun? Die Leute zum Lachen bringen, wenn seine neueste Erfindung ein paar Schritte stolpert, einen lauten Schnitt macht und auseinanderfällt?! In der Zwischenzeit können wir, die Gilde, Ihnen garantieren: Wie anspruchsvoll der Auftrag auch sein mag, er wird pünktlich und auf höchstem Niveau ausgeführt!
+
+Name:
+Todd and Bertram - Part I
+Message:
+Todd erprobte seine neueste Erfindung. Mit jeder neuen Fahrt funktionierte der Mechanismus besser und besser. In seinen Träumen ritt er bereits mit dem mechanischen Ungetüm davon, an einen Ort, an dem bewaldete Berge auf den blauen Himmel treffen. Ach, wenn es ihm doch nur gelänge, ein einziges Gerät vollständig zu bauen! Nicht nur ein weiterer seltsam brummender Motor mit Beinen, sondern ein richtiger ... er hatte längst ein Wort für seine Traummaschine gefunden: ein Wächter, ein von ihm selbst entworfener!	Während Todd mit seinen Gedanken allein war, saß der Besitzer der Werkstatt, Bertram, an einem Schreibtisch in der Ecke, rechnete die Bücher ab und klimperte mit Münzen.	Todd schüttelte seine verträumte Haltung ab und sprach, als ob er zu niemandem besonders sprechen würde:	"Habt ihr auch nur ein einziges Mal in eurem Leben etwas geschaffen, auf das ihr wirklich stolz sein könnt?"	Der Zwerg rümpfte die Nase und fuhr schweigend mit seiner Sache fort.	"Nein, hör mir zu, du Papierwurm; hast du jemals von einer Legierung geträumt, die Meißel stärker als Granit macht; von einer perfekten Zahnradform, die einfach funktioniert, ohne jedes Spiel oder Fressen; von einem Werkzeug, dessen Berührung sofort den Teil eines Metallwerkstücks verdampft, den du weghaben willst? Haben Sie jemals darum gebettelt, dass die Spitze eines haarsträubenden Bohrers nicht bricht, wenn ein Versagen die Arbeit eines ganzen Jahres zunichte machen würde?"	Der Zwerg schnitt eine Grimasse. Er war fast fertig mit dem Zählen des Erlöses.		"Kennst du das Gefühl, wenn sich die letzte Unebenheit in deinem Mechanismus aneinander reibt und er singt wie eine Zaubergrille aus den Wäldern von AvLee? Wenn du in zwei Durchgängen eine solide Naht schweißt, für die kein anderer weniger als fünf gebraucht hätte!"	Der Zwerg war mit dem Zählen des Geldes fertig. Bis auf die letzte Münze. Er verschloss den Beutel in der Schublade, sah auf und fragte:	"Hast du eine Ahnung, warum uns Zwerge niemand mag?"	Todd antwortete:	"'Weil ihr fett, langweilig und erdgebunden seid!"	- ...und gierig", fügte Todd hinzu und drehte sich zum Fenster. Etwas glitzerte auf seiner Wange.	Bertram strich mit dem Finger über eine Locke der komplizierten Schnitzerei und pfiff. Der Schreibtisch gab ein langes, rasselndes Geräusch von sich und stapfte in den hinteren Raum, wobei Rauch aus dem Tintenfass aufstieg. Der Zwerg zog seine Brille bis zur Nasenspitze herunter und musterte Todd. Der junge Erfinder seufzte schwer und watschelte zum Zeichenbrett hinüber.
+
+Name:
+Todd and Bertram - Part II
+Message:
+Das war Jahrzehnte her. Todd arbeitete nicht mehr für Bertram; er war in seine Heimat Bracada zurückgekehrt. Dort hatte er jedoch Schwierigkeiten, gleichgesinnte Alchemisten zu finden, und setzte seine Forschungen allein fort. Er führte ein bescheidenes Leben, aber seine Bedürfnisse waren bescheiden, und er war in der Lage, die Kosten für Werkzeuge und Materialien zu decken, indem er gelegentlich amüsante mechanische Spielzeuge an die Wohlhabenden und Aristokraten verkaufte. Er wusste jedoch nicht, dass derselbe Zwerg hinter der Werbung für seine Kreationen steckte. Bertram hatte nicht mehr die Hoffnung, dass sein ehemaliger Schützling jemals die Kunst des Umgangs mit ernsthaften Projekten beherrschen würde, dennoch wollte er ihn nicht aus den Augen lassen - schließlich strotzte Todds Kopf geradezu vor unschätzbaren Erkenntnissen. Außerdem empfand er im Hinterkopf immer noch einen Hauch von Wertschätzung für den Mann, der einst als dürrer, tölpelhafter Teenager in seine Werkstatt gekommen war. Todd studierte eifrig alles, was der Zwerg zu bieten hatte, bevor er zu der Überzeugung kam, dass er seinen Mentor weit hinter sich gelassen hatte und dass es für ihn an der Zeit war, diesen goldenen Käfig zu verlassen. Ob Käfig oder nicht, golden war er in der Tat; Bertram zahlte Todd zwar nicht viel Geld, aber dem Lehrling fehlte es nie an etwas, und selbst die kleinste Bitte wurde ihm nie abgeschlagen, sofern er erklären konnte, wie sie der Arbeit zugute kam. Genau dieser letzte Punkt war jedoch oft die Wurzel des Problems:  Todd spürte die Mechanismen wie sein eigenes Bauchgefühl, aber das Wesen dieser oder jener erzielten oder vermuteten Wirkung klar und konsequent zu erklären? Das war ihm zu hoch. Die Menschen... so eilig, so unzuverlässig, so wankelmütig, und ihre Lebensspanne so kurz. Todd war bereits ergraut, und sein Kopf zitterte sichtlich, wenn er nachdachte, während Bertram noch in der Blüte seiner Zwergenjahre stand. Doch die Jahre schienen ihren Wunsch, sich gegenseitig etwas zu beweisen, nur noch verstärkt zu haben.	Die ehemaligen Gefährten hatten sich vor langer Zeit getrennt, waren sich aber irgendwann wieder begegnet - in Burton. Der eine hatte sich an den Gedanken gewöhnt, dass er zu allem fähig sei und dass er nur seinen Gedanken freien Lauf lassen müsse, damit sie gestärkt zurückkehren und eine materielle Verkörperung finden würden. Der andere glaubte, dass eine solide Basis das Wichtigste sei; seiner Meinung nach würde sich der Erfolg einstellen, wenn die Arbeit von Anfang an gut organisiert war, wie schwer sie auch sein mochte. Sie ahnten nicht, dass es noch eine dritte Person in dieser Gleichung gab, die jedoch vorerst im Verborgenen bleiben wollte. Er stellte sich auf die andere Seite des Gleichheitszeichens; die gesamte Summe der Anstrengungen der beiden Erstgenannten sollte ihm zugute kommen.
+
+Name:
+Minotaurs
+Message:
+ Burton wurde einst in der Nähe einer Erzmine gegründet, einem seltenen Luxus in der Region, aber jetzt sind die Vorräte fast aufgebraucht. Das Ödland heißt nicht umsonst Ödland: Es ist arm an Rohstoffen, und wir müssen nun mit ihnen handeln und mit den Produkten unserer Fabriken zahlen. Das meiste davon dient der Deckung des Eigenbedarfs, denn die Entwicklung verschlingt Walzgut, Gussteile und alles andere wie ein Fass ohne Boden, so dass von der Gesamtproduktion nur magere Krümel übrig bleiben, die gehandelt werden können. Natürlich sind die Kunden bereit, sehr viel Geld dafür zu bezahlen, aber eine Konstruktion in dieser Größenordnung erfordert eine Menge Mittel. Und damit meine ich eine ganze Menge. Und dann sind da noch die Überraschungsangriffe von Minotauren und anderem Gesindel auf unsere Versorgungszüge. Die Minotauren von Jadame waren ihren Nachbarn bisher nie offen feindlich gesinnt; sie schienen sich damit zu begnügen, in ihren unterirdischen Labyrinthen zu bleiben und nur in äußerster Not an die Oberfläche zu kommen.	Was auch immer der Grund für diese Plünderungen sein mag, der Zeitpunkt hätte nicht schlechter sein können; der Wettbewerb des Jahrhunderts ist in Gefahr!
+
+Name:
+Kastore and Frederick
+Message:
+Heute ist ein wichtiger Tag. Klar, wenn die Fristen knapp sind, zählt jede Stunde, aber dieser Tag ist wirklich außergewöhnlich, so dass ich keine andere Wahl hatte, als die Arbeit ein wenig zu verzögern. Wir mussten uns vorbereiten und zumindest ein bisschen aufräumen, damit wir uns vor den Augen des hohen Gastes nicht zum Affen machen. Frederick kam mit seinem neuen Bekannten, Kastore, dem König des fernen Deyja, zu einer gemeinsamen Besichtigung in meine Werkstatt. Ich hatte mir immer vorgestellt, dass es bei Königen nur darum geht, im Luxus zu schwelgen und ihre Diener zu verprügeln; stellen Sie sich meine Überraschung vor, als ich erfuhr, dass Kastore schon vor Beginn des Wettbewerbs persönlich an der Erforschung des Artefakts, das Henrietta aus der Gruft mitgebracht hatte, und an der Entwicklung des Prototyps des Strahlgenerators beteiligt war. Ich habe keine Ahnung wie, aber dieser Hexenmeister scheint mehr über Technologie und physikalische Prozesse zu wissen als wir alle zusammen!		Es muss also stimmen, was man sagt: Diese Zauberer machen einen Pakt mit dem Teufel, um ihr Wissen zu erlangen. Oder mit den Teufeln... Frederick hatte mir einige Beobachtungen mitgeteilt, die er gemacht hatte, als er die seltsamen Himmelskörper untersuchte, auf denen diese ungebetenen Gäste hier angekommen waren. Ach, egal. Heute sahen sich die beiden Männer in meiner Werkstatt um, prüften die Baupläne und gerieten in einen Streit. Als sie damit fertig waren, wandten sie sich mir zu, und Frederick ergriff als Erster das Wort. Er war sichtlich erfreut über das Tempo, mit dem die Bauarbeiten voranschritten, und stellte mir, wie üblich, unzählige Fragen über die Einzelheiten und meine Pläne für die Zukunft. Kastore hingegen war das genaue Gegenteil. Ohne auch nur einen Muskel in seinem Gesicht zu bewegen, strich er nur einige Formeln in den Berechnungen und Werten auf den Zeichnungen durch und füllte stattdessen andere aus. Dann erkundigte er sich mit demselben ausdruckslosen Gesichtsausdruck, ob ich neue Materialien oder Werkzeuge benötige, bemerkte, dass unsere Arbeitsabläufe dringend angepasst werden müssten, und ging. Am Abend erfuhr ich von meinen vertrauenswürdigen Kontakten in Burton, dass ich die Inspektion bestanden hatte, aber auch mein Konkurrent. Der gesamte Arbeitsablauf der Stadt sollte neu organisiert werden, wobei Kastore das Projekt persönlich leiten sollte.
+
+Name:
+Todd - Ore Hint
+Message:
+Es war noch dunkel, als die Wagen vor Bertrams Laden auftauchten. Natürlich taten sie das! Das waren Dunkelelfen, Bertrams "Kollegen" von der Handelsgilde. Wahrscheinlich brachten sie eine weitere Ladung seltener Materialien. 		Wenn es bei mir nur auch so gut laufen würde! Die ersten paar Tage der Arbeit an dem von mir erfundenen Portal verliefen so gut, wie man es erwarten konnte. Dann wurde mir klar, dass für den geplanten Entwurf viel zu viel Metall benötigt werden könnte. Leider sind unsere Schmelzhütten nicht voll ausgelastet, da die Minen von Burton fast erschöpft sind. Sicher, Rohstoffe kann man immer auf dem Markt bekommen, aber die gierigen Händler verlangen einen Haufen Geld. Verdammte Elfen!		Ich war auf dem Weg zurück zu meinem Geschäft, als einer der Mechaniker nach mir rief.	"Todd!", rief er. "Wir haben etwas über die Minotauren herausgefunden, die das Minenlager angegriffen haben. Sie kamen aus den Höhlen in der Nähe. Und das ist das Seltsame daran... Balthasars Minotauren hatten diese Höhlen schon vor langer Zeit verlassen - vor Jahrzehnten. Ich vermute, die Angriffe gehen nicht auf ihr Konto.	"Vielleicht sind es ein paar Banditen oder Abtrünnige?", meinte ich, "Warte... Was sagtest du über die Höhlen?"	"Das sind in der Tat alte Minen der Dunkelzwerge, der langjährigen Feinde der Minotauren. Es ist bekannt, dass sie einst sehr reich an Eisenerz, Bergkristall und anderen Mineralien waren. Vor einem halben Jahrhundert haben die Dunkelzwerge die Gehörnten von dort vertrieben und sitzen seitdem auf diesen unschätzbaren Materialien wie ein Hund in der Krippe.		Ich grübelte.		"In der Tat seltsam. Wie sind die Minotauren dann wieder dort gelandet? Es ist eine Überlegung wert... Gibt es dort noch viele Erze? Vielleicht können wir von dort das Material für den Bau des Portals bekommen."	Ich gab dem Mechaniker einen Klaps auf die Schulter und ging in meine Werkstatt, legte die Zeichnungen auf den Tisch und begann zu überlegen.
+
+Name:
+Bertram - Ore Hint
+Message:
+Ich musste früh aufstehen, denn am Morgen traf eine Karawane Dunkelelfen aus Ravenshore ein! Meine Kollegen von der Händlergilde waren hocherfreut, mich regelmäßig mit erlesenen Rohstoffen für meine Experimente zu versorgen... natürlich zu einem bestimmten Preis.		Als ich die leeren Wagen sah, wusste ich sofort, dass etwas schief gelaufen war. Normalerweise werden Karawanen von Wachen begleitet, aber dieses Mal waren keine da. Außerdem waren die Wagen selbst verdächtig wenig.	"Was ist passiert?", fragte ich schließlich einen der Kaufleute.	"Ich meine, ist das nicht irgendwie offensichtlich? Wir sind auf unserem Weg hierher von Ogern und Minotauren überfallen worden, das ist passiert! Ihr Anführer, Rumeon, verlangte, dass wir die Waren sofort herausgeben. Wir haben es kaum lebend rausgeschafft."		So ein Mist! Die Dinge liefen nicht so, wie ich es geplant hatte. Die Konstruktion des Portals, die ich mir ausgedacht hatte, erforderte eine große Menge an Baumaterialien, vor allem Metalle, einschließlich seltener Legierungszusätze wie Stalt und Kergar, die auf dem Markt selten zu finden sind.	Auf dem Rückweg zu meiner Werkstatt traf ich einen der Revolverhelden, die ich zur Bewachung des Ortes angeheuert hatte.	"Jangaard", rief ich ihm zu, "weißt du etwas über einen Rumeon? Er scheint der Bandit zu sein, der unsere Händler ausraubt."	Der Söldner grinste.	"Verdammt richtig, ich weiß von ihm, aber nicht von hier. Von damals in Antagarich. Dieser Minotaurus war während des Krieges mit Erathia ein Söldner im Dienste von Nighon, bevor er zu Deyja überlief."	"Deyja, sagst du?"		Ich grübelte. Irgendein Gedanke beschäftigte mich.	"Aber egal. Hast du etwas über die anderen Minotauren herausgefunden?"	"Ich habe diese Banditen in letzter Zeit beobachtet. Sie scheinen aus den alten Minen der Dunkelzwerge zu kriechen. Ich habe gehört, dass es da unten immer noch eine Menge wertvoller Dinge zu holen gibt. Vor den Zwergen waren das die Minotauren-Minen, aber das ist schon lange her ... da waren wir noch nicht einmal in Jadame."	Ich zündete mir eine Pfeife an und begann nachzudenken. Gibt es dort noch viel Eisenerz? Vielleicht sollten wir dort nach dem Material für den Bau des Portals suchen.	Ich zog mich in meine Werkstatt zurück, holte die Pläne heraus und vertiefte mich in meine Gedanken.
+
+Name:
+Todd Deadline Warning (311-317)
+Message:
+	Die Dinge entwickeln sich immer schlechter. Meine Quellen, die Bertram nahe stehen, berichten, dass sein erstes Portal kurz vor der Fertigstellung steht und dass er mit dem Zusammenbau des ersten Schlachtrüstung beginnen wird.		Mir bleiben nur noch ein paar Tage. Ich muss alles, was ich in mir habe, in die Waagschale werfen, oder es wird alles umsonst gewesen sein.
+
+Name:
+Bertram Deadline Warning (311-317)
+Message:
+Die Dinge entwickeln sich immer schlechter. Jangaard hat in letzter Zeit Todds Werkstatt beobachtet und berichtet, dass das erste Portal meines Rivalen kurz vor der Fertigstellung steht. Er ist fast bereit, mit dem Zusammenbau des ersten DreadnoSchlachtkoloss zu beginnen.		Ich habe nur noch ein paar Tage Zeit. Es ist an der Zeit, meine Läden auf 24-Stunden-Betrieb umzustellen und die Überstundenzuschläge zu erhöhen, sonst ist all die großartige Arbeit, die ich geleistet habe, umsonst gewesen.
+
+===== Heroes =====
+
+===== Objects =====
+
+(34, 36, 0) ***Quest Gate***
+Message:
+Vereinbarung.		Wir, die Unterzeichnenden, Bertram Hard Word, Sohn von Bolton Silver Belly, Sohn von Benoit Deep Pocket [11 Zeilen ausgelassen] vom Clan der Zweigürtel-Goldschmiede vom Berg Lesser Smoked Head (im Folgenden als "Bertram" bezeichnet), und Todd (im Folgenden als "Todd" bezeichnet), vereinbaren, dass wir die Grenzen des jeweils anderen nicht überschreiten werden, bis einer von uns eine Prototypwaffe gebaut hat, deren Spezifikationen in Anhang 15. 6 dieses Abkommens dargelegt sind, die Grenzen des Laborgeländes des jeweils anderen nicht überschreiten werden, und zwar weder zu Fuß noch zu Pferd, in der Luft oder durch Magie (die jeweiligen Gebiete werden gemäß Abschnitt 7.12 dieses Abkommens abgegrenzt). Das Vorstehende gilt auch für unsere Verbündeten, im Folgenden "Spione" genannt.		(mehrere Dutzend weitere Seiten mit ausgewählten juristischen Formulierungen)				Der Zuwiderhandelnde wird gedemütigt und erhält die Peitsche.		Todd		Bertram
+Vereinbarung.		Wir, die Unterzeichnenden, Bertram Hard Word, Sohn von Bolton Silver Belly, Sohn von Benoit Deep Pocket [11 Zeilen ausgelassen] vom Clan der Zweigürtel-Goldschmiede vom Berg Lesser Smoked Head (im Folgenden als "Bertram" bezeichnet), und Todd (im Folgenden als "Todd" bezeichnet), vereinbaren, dass wir die Grenzen des jeweils anderen nicht überschreiten werden, bis einer von uns eine Prototypwaffe gebaut hat, deren Spezifikationen in Anhang 15. 6 dieses Abkommens dargelegt sind, die Grenzen des Laborgeländes des jeweils anderen nicht überschreiten werden, und zwar weder zu Fuß noch zu Pferd, in der Luft oder durch Magie (die jeweiligen Gebiete werden gemäß Abschnitt 7.12 dieses Abkommens abgegrenzt). Das Vorstehende gilt auch für unsere Verbündeten, im Folgenden "Spione" genannt.		(mehrere Dutzend weitere Seiten mit ausgewählten juristischen Formulierungen)				Der Zuwiderhandelnde wird gedemütigt und erhält die Peitsche.		Todd		Bertram
+
+(25, 2, 0) ***Prison***
+Name:
+Lyadra
+Biography:
+Lyadras Interesse gilt allen Kreaturen, die zum eigenständigen Flug fähig sind, insbesondere solchen, die aussehen, als könnten sie gar nicht fliegen, wie z. B. Knochendrachen. In letzter Zeit hat sie sich auch für den ungewöhnlich schnellen Flug von Engeln interessiert. Allerdings ist die wissenschaftliche Gemeinschaft noch nicht bereit, Lyadras Theorie zu akzeptieren, dass dahinter eine Art Technologie steckt.
+
+(69, 23, 0) ***Sign***
+Message:
+Großer Westturm
+
+(31, 37, 0) ***Quest Guard***
+Message:
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhaltet ihr zusätzliche Artefakte und zusätzliche Truppen}
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhaltet ihr zusätzliche Artefakte und zusätzliche Truppen}
+{Erhalten?}
+
+(37, 37, 0) ***Quest Guard***
+Message:
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhaltet ihr zusätzliche Artefakte und zusätzliche Truppen}
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhaltet ihr zusätzliche Artefakte und zusätzliche Truppen}
+{Erhalten?}
+
+(26, 48, 0) ***Quest Guard***
+Message:
+Die Lehmhütte der Halblinge liegt nach einem Überfall der Oger aus dem Ödland in Trümmern. Die Halblinge bitten euch um Hilfe: Es wird 10 Holz und 5000 Gold kosten, um ihre Hütten wieder aufzubauen.
+Die Lehmhütte der Halblinge liegt nach einem Überfall der Oger aus dem Ödland in Trümmern. Die Halblinge bitten euch um Hilfe: Es wird 10 Holz und 5000 Gold kosten, um ihre Hütten wieder aufzubauen.
+Wollt ihr die Halblingshütte wieder aufbauen?
+
+(49, 40, 0) ***Quest Guard***
+Message:
+Todds Gießerei wurde durch ein Feuer schwer beschädigt. Die Mechaniker verlangen 10 Holz und 5000 Gold für den Wiederaufbau des zerstörten Gebäudes.
+Todds Gießerei wurde durch ein Feuer schwer beschädigt. Die Mechaniker verlangen 10 Holz und 5000 Gold für den Wiederaufbau des zerstörten Gebäudes.
+ Willst du die Gießerei wieder aufbauen?
+
+(0, 66, 0) ***Seer's Hut***
+Message:
+Die seltsame Hütte entpuppt sich als einer der Eingänge zu einer riesigen Höhle. Du schreitest vorsichtig durch die Höhle, die Waffen in der Hand, bereit zum Kampf.	 Plötzlich stößt du direkt auf einen riesigen Drachen, der bisher in der Höhle geschlummert hat. Du machst dich bereit, dich zu wehren, aber der Drache scheint nicht angreifen zu wollen.	"Ich weiß, wer du bist, und das ist der einzige Grund, warum ich dich in meine Höhle gelassen habe", knurrt der geflügelte Echse leise. "Ich beobachte dich und deine Armee schon seit einiger Zeit. Soweit ich das beurteilen kann, ist dein Gegner dir voraus. Ihr wollt doch nicht, dass er zuerst da ist, oder? Nun hört zu.	Die letzten Monate waren hart für unser Rudel. In letzter Zeit sind mehrere junge Drachen bei der Jagd verschwunden. Finde meine vermissten Rudelgefährten, und ich werde dir helfen."
+"Du kommst besser nicht ohne meine Artgenossen zurück", knurrt der Drache bedrohlich.
+"Ich dachte, du würdest nie zurückkommen. Du sagst, ein feindliches Rudel hat sie angegriffen? Wie merkwürdig. Seit Jahrhunderten hat es unter den Drachen von Jadame keinen solchen Streit mehr gegeben.	Ich habe eine Belohnung erwähnt, nicht wahr? Ich werde meinen Schatz niemals hergeben, aber ich kann Euch auf andere Weise helfen. Einer meiner Rudelgefährten ist bereit, sich Eurer Sache anzuschließen."
+Bringt die Jungdrachen zu mir, und einer meiner Golddrachengefährten wird sich Eurer Sache anschließen.
+Bringt die Jungdrachen zu mir, und einer meiner Golddrachengefährten wird sich Eurer Sache anschließen.
+Werdet Ihr einen Golddrachen in Eure Armee aufnehmen, der einen grünen Drachen ersetzt?
+
+(62, 14, 0) ***Sign***
+Message:
+Süden - Handwerkerläden. Westen - Schrottplatz.
+
+(43, 36, 0) ***Event***
+Message:
+Du hinterhältiger Eindringling! Glaubst du wirklich, du kannst dich in meine Werkstatt schleichen und einfach so meine Erfindungen beanspruchen? Wachen, ergreift ihn!
+
+(44, 36, 0) ***Event***
+Message:
+Allied AI bonus
+
+(24, 37, 0) ***Event***
+Message:
+Allied AI bonus
+
+(33, 36, 0) ***Pandora's Box***
+Message:
+
+
+(35, 36, 0) ***Pandora's Box***
+Message:
+
+
+(40, 34, 0) ***Factory***
+Name:
+Todd's Shop
+
+Timed events:
+
+Name:
+113 - Tavern
+Message:
+Mit dem Wachstum der Produktion wächst auch der Arbeitsaufwand, und das bedeutet, dass ich es nicht mehr allein schaffen kann. Es ist an der Zeit, über... Dingsbums... Delegation nachzudenken, das ist das richtige Wort. In der Nähe meines Ladens hat eine Taverne eröffnet; perfektes Timing also. Sie wird mich sowohl mit den geschickten Männern versorgen, die ich brauche, um das Ödland zu erkunden, als auch mit Arbeitern, die an meiner Stelle Eisenbalken schleppen werden. Ich bin kein Mann, der seine Arbeit mit Samthandschuhen anfasst, im Gegensatz zu anderen... aber ich habe nur ein Paar dieser geschickten Hände. Wenn doch nur... Nein, vergiss es. Unsere Konkurrenz wird genau beobachtet: Ein bestochener Mann auf der Baustelle des Konkurrenten wird sofort entlarvt, und meine Investition wird wie schwarzer Rauch von brennenden Blaupausen in den Schornstein steigen. Es muss eine bessere Verwendung für diese Mittel geben.
+
+Name:
+115 - Town Hall
+Message:
+
+
+Name:
+122 - Halfling Adobe
+Message:
+
+
+Name:
+117 - Fort
+Message:
+
+
+Name:
+124 - GM 1
+Message:
+
+
+Name:
+126 - Marketplace
+Message:
+
+
+Name:
+131 - Ranch
+Message:
+
+
+Name:
+133 - Manufactory
+Message:
+
+
+Name:
+135 - Upg. Adobe
+Message:
+
+
+Name:
+137 - City Hall
+Message:
+
+
+Name:
+142 - Upg. Foundry
+Message:
+
+
+Name:
+144 - Catacombs
+Message:
+
+
+Name:
+211 - Upg. Ranch
+Message:
+
+
+Name:
+146 - Citadel
+Message:
+
+
+Name:
+213 - GM 2
+Message:
+
+
+Name:
+215 - Mana Generator
+Message:
+
+
+Name:
+217 - Watchtower
+Message:
+
+
+Name:
+222 - Bank
+Message:
+
+
+Name:
+224 - Castle
+Message:
+
+
+Name:
+226 - Upg. Manufactory
+Message:
+
+
+Name:
+231 - Capitol
+Message:
+
+
+Name:
+233 - Silo
+Message:
+
+
+Name:
+235 - GM 3
+Message:
+
+
+Name:
+237 - Upg. Catacombs
+Message:
+
+
+Name:
+237 - GM 4
+Message:
+
+
+Name:
+242 - Artifact Merchants
+Message:
+
+
+Name:
+244 - Upg. Watchtower
+Message:
+
+
+Name:
+246 - GM 5
+Message:
+
+
+(39, 70, 0) ***Prison***
+Name:
+Thulig
+Biography:
+Thulig ist ein extrem wagemutiger Elf, und der beste Weg, ihn zu gewinnen, besteht darin, ihm eine Herausforderung zu stellen wie "Geh, ich weiß nicht wo, bring, ich weiß nicht was." Er stahl "Weiß-nicht-was" unter dem Maul eines Drachen, aus einer unterirdischen Schatzkammer der Zwerge und sogar aus dem Schlund eines erloschenen Vulkans. Aufsehenerregende Misserfolge sind ein weiteres Markenzeichen von ihm, und er hat beispiellose Summen an Lösegeld für sich selbst gezahlt.
+
+(40, 70, 0) ***Necromancer***
+Name:
+Semkat
+
+(25, 37, 0) ***Event***
+Message:
+Du hinterhältiger Eindringling! Glaubst du wirklich, du kannst dich in meine Werkstatt schleichen und einfach so meine Erfindungen beanspruchen? Wachen, ergreift ihn!
+
+(26, 2, 0) ***Death Knight***
+Name:
+Iust
+
+(27, 35, 0) ***Factory***
+Name:
+Bertram's Shop
+
+Timed events:
+
+Name:
+113 - Tavern
+Message:
+Mit zunehmender Produktion steigt auch der Arbeitsaufwand, und das bedeutet, dass ich es nicht mehr allein schaffen kann. Es ist an der Zeit, mehr Personal einzustellen. In der Nähe meines Ladens hat eine Taverne eröffnet; auch das ist perfektes Timing. Sie wird mir sowohl die geschickten Männer liefern, die ich brauche, um das Ödland zu erkunden, als auch die Arbeiter, die die schweren Eisenträger dorthin schleppen, wo sie hin müssen. Wenn doch nur... Nein, vergiss es. Unsere Konkurrenz wird genau beobachtet: Ein bestochener Mann auf der Baustelle des Rivalen wird sofort entlarvt, und meine Investition wird wie schwarzer Rauch von verbrannten Wertpapieren durch den Schornstein steigen. Es muss eine bessere Verwendung für diese Mittel geben.
+
+Name:
+115 - Blacksmith
+Message:
+
+
+Name:
+117 - Halfling Adobe
+Message:
+
+
+Name:
+122 - Fort
+Message:
+
+
+Name:
+124 - GM 1
+Message:
+
+
+Name:
+126 - Foundry
+Message:
+
+
+Name:
+131 - Ranch
+Message:
+
+
+Name:
+133 - Manufactory
+Message:
+
+
+Name:
+135 - Upg. Adobe
+Message:
+
+
+Name:
+137 - City Hall
+Message:
+
+
+Name:
+142  Upg. Foundry
+Message:
+
+
+Name:
+144 - Catacombs
+Message:
+
+
+Name:
+211 - Upg. Ranch
+Message:
+
+
+Name:
+146 - Citadel
+Message:
+
+
+Name:
+213 - GM 2
+Message:
+
+
+Name:
+215 - Mana Generator
+Message:
+
+
+Name:
+217 - Watchtower
+Message:
+
+
+Name:
+224 - Castle
+Message:
+
+
+Name:
+226 - Upg. Manufactory
+Message:
+
+
+Name:
+231 - Capitol
+Message:
+
+
+Name:
+233 - Silo
+Message:
+
+
+Name:
+235 - GM 3
+Message:
+
+
+Name:
+237 - Upg. Catacombs
+Message:
+
+
+Name:
+237 - GM 4
+Message:
+
+
+Name:
+242 - Artifact Merchants
+Message:
+
+
+Name:
+244 - Upg. Watchtower
+Message:
+
+
+Name:
+246 - GM 5
+Message:
+
+
+(40, 40, 0) ***Event***
+Message:
+Du hinterhältiger Eindringling! Glaubst du wirklich, du kannst dich in meine Werkstatt schleichen und einfach so meine Erfindungen beanspruchen? Wachen, ergreift ihn!
+
+(28, 40, 0) ***Event***
+Message:
+Du hinterhältiger Eindringling! Glaubst du wirklich, du kannst dich in meine Werkstatt schleichen und einfach so meine Erfindungen beanspruchen? Wachen, ergreift ihn!
+
+(32, 43, 1) ***Dungeon***
+
+Timed events:
+
+Name:
+221 - Tavern
+Message:
+
+
+(39, 64, 1) ***Overlord***
+Name:
+Thjard
+
+(33, 4, 1) ***Overlord***
+Name:
+Thorrd
+
+(9, 66, 1) ***Pandora's Box***
+Message:
+
+
+(9, 70, 1) ***Pandora's Box***
+Message:
+
+
+(5, 71, 1) ***Pandora's Box***
+Message:
+
+
+(1, 70, 1) ***Pandora's Box***
+Message:
+
+
+(1, 66, 1) ***Pandora's Box***
+Message:
+
+
+(4, 63, 1) ***Pandora's Box***
+Message:
+
+
+(6, 63, 1) ***Pandora's Box***
+Message:
+
+
+(51, 1, 1) ***Warlock***
+Name:
+Skrell
+
+(7, 41, 1) ***Overlord***
+Name:
+Thrond
+
+(54, 37, 1) ***Overlord***
+Name:
+Ysedore
+
+(55, 57, 1) ***Warlock***
+Name:
+Theard
+
+(48, 52, 1) ***Warlock***
+Name:
+Razargal
+
+(62, 4, 1) ***Warlock***
+Name:
+Reventyr
+
+(39, 22, 1) ***Necromancer***
+Name:
+Nahia
+
+(22, 2, 1) ***Warlock***
+Name:
+Tharud
+
+(14, 4, 1) ***Warlock***
+Name:
+Rumeon
+
+(18, 58, 1) ***Warlock***
+Name:
+Pyragast
+
+(2, 24, 1) ***Pandora's Box***
+Message:
+
+
+(2, 16, 1) ***Pandora's Box***
+Message:
+
+
+(67, 71, 1) ***Pandora's Box***
+Message:
+
+
+(58, 34, 1) ***Event***
+Message:
+Slow pink AI
+
+(58, 39, 1) ***Event***
+Message:
+Slow pink AI
+
+(33, 9, 1) ***Event***
+Message:
+Slow pink AI
+
+(38, 12, 1) ***Event***
+Message:
+Slow pink AI
+
+(30, 13, 1) ***Event***
+Message:
+Slow pink AI
+
+(9, 40, 1) ***Event***
+Message:
+Slow pink AI
+
+(56, 36, 1) ***Event***
+Message:
+Slow pink AI
+
+(38, 60, 1) ***Event***
+Message:
+Slow pink AI
+
+(34, 63, 1) ***Event***
+Message:
+Slow pink AI
+
+(25, 62, 1) ***Event***
+Message:
+Slow pink AI
+
+(23, 69, 1) ***Event***
+Message:
+Slow pink AI
+
+(25, 14, 1) ***Event***
+Message:
+Slow pink AI
+
+(16, 15, 1) ***Event***
+Message:
+Slow pink AI
+
+(24, 22, 1) ***Event***
+Message:
+Slow pink AI
+
+(59, 28, 1) ***Event***
+Message:
+Slow pink AI
+
+(55, 26, 1) ***Event***
+Message:
+Slow pink AI
+
+(62, 21, 1) ***Event***
+Message:
+Slow pink AI
+
+(37, 54, 1) ***Event***
+Message:
+Slow pink AI
+
+(12, 44, 1) ***Event***
+Message:
+Slow pink AI
+
+(13, 38, 1) ***Event***
+Message:
+Slow pink AI
+
+(43, 18, 1) ***Event***
+Message:
+Slow pink AI
+
+(47, 8, 1) ***Event***
+Message:
+Slow pink AI
+
+(62, 46, 1) ***Event***
+Message:
+Slow pink AI
+
+(45, 43, 1) ***Event***
+Message:
+Slow pink AI
+
+(22, 10, 1) ***Event***
+Message:
+Slow pink AI
+
+(23, 58, 1) ***Event***
+Message:
+Slow pink AI
+
+(9, 48, 1) ***Event***
+Message:
+Slow pink AI
+
+(16, 46, 1) ***Event***
+Message:
+Slow pink AI
+
+(15, 32, 1) ***Event***
+Message:
+Slow pink AI
+
+(26, 40, 1) ***Event***
+Message:
+Slow pink AI
+
+(43, 60, 1) ***Event***
+Message:
+Slow pink AI
+
+(43, 26, 1) ***Event***
+Message:
+Slow pink AI
+
+(50, 63, 1) ***Event***
+Message:
+Slow pink AI
+
+(9, 57, 1) ***Warlock***
+Name:
+Endrello
+
+===== End of file =====

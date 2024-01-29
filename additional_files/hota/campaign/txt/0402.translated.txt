@@ -1,0 +1,369 @@
+===== Map name =====
+Hinter dem Horizont
+
+===== Map description =====
+Um die Stadt Burton gegen die Angriffe der Oger zu verteidigen, müsst ihr ihren Anführer Zog besiegen. Der Verlust von Burton bedeutet eure Niederlage. Eure Helden sind auf Stufe 12 begrenzt, aber Henrietta und Frederick bringen Komponenten des Zaubererbrunnens und des Ringes der Magier zum nächsten
+
+===== Rumors =====
+
+Name:
+Zog Clue 1
+Text:
+Es heißt, Òååğãà wisse, wie man in seine Festung eindringt.
+
+Name:
+Zog Clue 2
+Text:
+Viele Menschen haben gehört, dass es einen unterirdischen Gang in die Festung gibt, aber niemand hat ihn bisher aus der Nähe gesehen.
+
+Name:
+Balthazar goes to war
+Text:
+Die Minotauren haben nordöstlich von Burton einen Außenposten errichtet. Sie scheinen sich auf einen Krieg  vorzubereiten.
+
+Name:
+Pirates
+Text:
+In der Bucht nahe unserer Festung wurde ein Schiff unter der Flagge der Piraten gesichtet.
+
+Name:
+Mage Hut
+Text:
+Östlich von Burton hat sich ein Zauberer niedergelassen, der aus dem Außenland gekommen ist. Es heißt, dass er den beunruhigten Magiern hilft, Zaubersprüche zu lernen.
+
+Name:
+Ogre Garrison
+Text:
+Wer den Eingang zu Zogs Festung gesehen hat, berichtet, dass er von einer unscheinbaren Mauer aus Feuer  bewacht wurde.
+
+Name:
+Ravage Roaming
+Text:
+In der Wildnis gibt es viele Vögel. Nördlich von Burton wurde ein ganzes Nest gesichtet!
+
+Name:
+Firearms
+Text:
+Die Erfinder und Magier des Piratenimperiums von Regnan auf den Inseln südlich von Jaddam, entwickeln Handfeuerwaffen.
+
+Name:
+Trailblazer
+Text:
+Ein Führer etwas nördlich von North from Beirne hilft euch, die Ödlande viel schneller die Wildnis zu durchqueren.
+
+Name:
+Ironfist
+Text:
+Zog hat sein mächtiges Artefakt in Erinnerung an Archibald benannt. Der König der Hexer und Zog waren während der Erbfolgekriege miteinander befreundet.
+
+===== Timed events =====
+
+Name:
+Brauner Spieler - Minimale Ressourcen
+Message:
+
+
+Name:
+Burton - Part 1
+Message:
+Burton stank. Das war unser erster Eindruck von diesem Ort. Die ganze Stadt war von dem beißenden Geruch von etwas Unbekanntem durchdrungen, die Luft fühlte sich schwer, klebrig ... und schmutzig an, wenn man das von der Luft sagen kann.	Wegen dieses Gestanks wurde unsere Ankunft in Jadame schon in den ersten Minuten, als wir den Boden betraten, fast zu einem großen Problem. Wir hatten unterwegs viel durchgemacht, und vielen von uns war die Reise sehr schwer gefallen, aber sobald wir festen Boden unter den Füßen hatten und die Luft der neuen Welt einatmeten, riefen die äolischen Flüchtlinge unisono, dass sie hier nicht leben wollten, und verlangten, dass wir weiterfahren. Ich wusste nicht, was ich ihnen sagen sollte, und sah Frederick einfach nur an. Ich konnte sehen, wie schwer es ihm fiel, in die Gesellschaft der Dorfbewohner gezwungen zu werden, die ihn ständig mit ihren unangebrachten Beschwerden und Bitten bedrängten. Jetzt sah ich, wie sein Gesicht mit jedem neuen Schrei aus der Menge röter wurde, und ich wusste, dass ein Ausbruch nicht zu vermeiden war. Der Sturm kam jedoch aus einer unerwarteten Richtung. Hinter dem Wissenschaftler kam eine kleine, stämmige Frau mit aufgekrempelten Ärmeln hervor. Sie schien seine jadameische Kollegin zu sein, Sam hatte mir unterwegs ein wenig von ihr erzählt. In ihrem Gesicht mischte sich Müdigkeit mit Wut und Traurigkeit mit Entschlossenheit. Sie stemmte die Fäuste in die Seiten, schaute Frederick in die Augen und schrie heiser: 	Frederick, alter Knabe! Ich hatte schon erwartet, dass du früher oder später kommen würdest, und nicht nur du; es war klar, dass du dich in unser Loch verkriechen würdest, aber es gibt hier mehr von euch als Gürteltiere auf der Ranch des alten Donalds.... Nun, ich grüße euch, liebe Gäste. Der Großvater meines Großvaters hatte 40 Jahre lang nach einem Ort gesucht, an dem er in diesem Land Wurzeln schlagen konnte. Und wisst ihr was? Er fand den einzigen Ort im Umkreis von Hunderten von Meilen, der nicht stank. Dann kamen die Oger und rissen ihm den Kopf ab. Den Göttern sei Dank, dass der alte Narr ein paar Söhne hatte, die sich in alle Winde zerstreuten, kaum dass sie groß waren. Der Großvater meines Vaters war kein Freund großer Ideen, der Ort, an dem er sich niederließ, stank wie überall in der Gegend, aber es war ein guter Ort, um Feinde abzuwehren. Der Vater meines Vaters fand heraus, woher dieser Gestank kam, seht ihr den alten Brunnen dort drüben? Er versuchte, einen Brunnen zu graben, um Wasser zu gewinnen, und dabei spuckte er Erdöl aus. Das ist es, was diesen Ort so muffig werden lässt. Mein Vater fand heraus, dass Öl gut brennt, und so lernte er, wie man mit diesem hässlichen, aber heißen Brennstoff Metall schmelzen kann. Und dann kamen ein paar Oger von Orten hierher, wo es nicht stinkt, wo man aber auch kein Metall für Waffen und Rüstungen bekommen kann. Rate mal, was sie ihm angeboten haben? 	 Äh, das Metall gegen etwas einzutauschen, wovon sie eine Menge haben?  - schlug einer der Halblinge vor. Braver Junge!  Du hast es erfasst! Und wisst ihr, wovon Oger eine Menge haben? Dummheit. Ihr Anführer hat gerade meinen Vater mit seiner Keule erschlagen und dann gesagt, wir würden ihm das ganze Metall geben und sie würden im Gegenzug nicht mehr töten. Das mag sein. Na ja, zumindest nicht alle von uns. Aber vielleicht. Wenn es die Stimmung hergibt. Wahrscheinlich aber nicht. Jedenfalls hat er es meisterhaft geschafft, uns zu ermutigen, hart zu arbeiten. Oh, übrigens, sieh mal da und da und da drüben", Sam machte mit ihrer Hand einen vollen Kreis und zeigte auf den Stadtrand. "Diese guten alten Oger-Jungs sind überall. Und dort drüben, an einem Ort, an dem es nicht stinkt, ist ihre Hauptfestung, und dort sitzt eine große, schleimige Kröte, die wie frische Gürteltiermist aussieht, bekannt als Zog. Ja, und dort gibt es noch ein paar hundert andere seiner lustigen Freunde. Wollt ihr weiterziehen? Ich werde euch nicht anflehen, es nicht zu tun. Aber ich sehe, dass deine Luftballons ohne Reparaturen nicht mehr als hundert Meilen durchhalten, mit all den Löchern und so weiter. Wo du das nächste Mal landen musst, will ich gar nicht wissen. Ich hoffe, hier stinkt's nicht. Gut, dass du ihn los bist. 
+
+Name:
+Burton - Part 2
+Message:
+Die Flüchtlinge standen mit kreidebleichen Gesichtern da. Diejenigen, die begonnen hatten, die Gänge zurück zu den Schiffen zu erklimmen, erstarrten zwischen Himmel und Erde und klammerten sich an die Stufen. Ich holte tief Luft, bemühte mich, nicht vor dem Geruch zu erschaudern, kratzte mit dem Zeh an der roten Erde ... und trat vor.	 Hallo, Sam. Mir ist klar, dass du Frederick und seine Freunde erwartet hast und nicht damit gerechnet hast, dass wir so viele sind, aber wir haben alle unser Zuhause verloren. Wenn ihr uns hier bleiben lasst, werden wir dankbar sein und versuchen, uns nützlich zu machen. Wir schrecken nicht davor zurück, zu arbeiten oder zu kämpfen. 	Bei meinen letzten Worten verfinsterten sich die Gesichter der Halblinge, die neben mir standen, aber Gott sei Dank sagte niemand ein einziges Wort. Überraschenderweise beruhigten Sams Worte sie irgendwie und munterten sie gleichzeitig auf: Sie alle beeilten sich schweigend, die Luftschiffe zu entladen.	Als die harte Arbeit getan war, lud Sam alle an die eilig gedeckten Tische ein. Es gab unbekanntes, leicht verdächtig riechendes Fleisch, aus dem Dampf aufstieg, und Weinflaschen, die zwar einen seltsam grünlichen Farbton hatten, aber dennoch unverkennbar Wein waren. Das warme Essen vertrieb endlich die Müdigkeit des anstrengenden Fluges. Einige von uns, die den lokalen Wein vielleicht ein wenig zu sehr zu schätzen wussten, begannen sogar Witze zu reißen, die in etwa so lauteten: "Sicher, ein Halbling ist kein Vogel, aber..."
+
+Name:
+Mechanics
+Message:
+Die Stadt machte einen soliden Eindruck, wenn auch einen gemischten. Es gab... große Häuser? Kleine Fabriken? Irgendetwas dazwischen, überall. Rauch, Dampf, knarrendes Holz und klirrendes Metall... Nichts im Vergleich zu unseren ruhigen, aufgeräumten Dörfern, aber ich spürte, dass meine Mitstreiter sich schnell einleben würden. Es gab keinen Ausweg, und wenn sich ein Halbling irgendwo niederließ, würde es bald ein gemütliches Zuhause werden, selbst wenn es mit einer Höhle unter einem Berg beginnen musste. Wir brauchten jedoch nicht zu graben - Sam hatte die Flüchtlinge in alten Lehmhütten am Rande der Siedlung untergebracht. Sie waren vor vielen Jahren von einem kleinen Stamm von Ogern gebaut worden, die sich mit ihren Verwandten zerstritten hatten und darum bettelten, als Arbeiter angeheuert zu werden, doch die Riesen erwiesen sich als unfähig, nützliche Arbeit zu leisten, und wanderten ab, ohne dass man je wieder von ihnen hörte. Ihre Behausungen waren seither verfallen und standen kurz davor, zu verfallen, als sie sich plötzlich als nützlich erwiesen. Für die kleinen Halblinge waren diese Bauten riesig und ungemütlich, aber nur am Anfang. In ein paar Tagen waren die Wände mit Tomatentöpfen und anderen Pflanzen bestückt, und Urstan, der Dorfschreiner, fertigte elegante Tische und Stühle für die neuen Bewohner an.			Die einheimischen Mechaniker erwiesen sich als wortkarge, aber erstaunlich fleißige Menschen. Sogar die Kinder hier standen früh auf und halfen oft den Erwachsenen in den Fabriken oder Schmieden, anstatt zu spielen. Sam bewies Organisationstalent - am nächsten Tag hatte jeder Halbling eine Lederschürze mit einem Satz einfacher Werkzeuge und wurde in die zu erledigende Arbeit eingewiesen. 	Arbeit ist das beste Mittel gegen traurige Gedanken. Ehe ich mich versah, steckten Sams neue Lehrlinge bis über beide Ohren in der Herstellung aller möglichen mechanischen Teile: Zahnräder, Buchsen, Wellen, Nocken und Dinge, von denen ich keine Ahnung hatte, wozu sie dienten, und die ich nur in einer Werkstatt im fernen Eeofol aufgestapelt gesehen hatte. Was ist zum Beispiel eine Düse und wofür ist sie da? Ich hätte Frederick natürlich fragen können, aber ich traute mich nicht, ihn jetzt abzulenken. Er war mit dem Bau eines riesigen Hangars oder Schuppens am Rande des Dorfes beschäftigt, da unsere Luftschiffe einer gründlichen Überholung bedurften. Vorausgesetzt natürlich, eine Überholung würde ausreichen...	Die Ruhe währte nicht lange, denn einer von Sams Spähern meldete, dass eine Armee unter der Führung eines von Zogs Befehlshabern auf Burton zugerückt war und bald hier eintreffen würde. Die Einwohner schienen von dieser Nachricht nicht beunruhigt zu sein, aber das Klirren, Scheppern und Kratzen in den Geschäften wurde lauter, und die Stadt wurde in eine Mischung aus Dampf und Rauch gehüllt.
+
+Name:
+Armadillos
+Message:
+Es kam der Tag, an dem ich endlich erfuhr, woher dieses seltsam schmeckende, zähe Fleisch kam...	Diese Kreaturen, die wie lebende Steinhaufen mit kurzen und dicken Beinen aussahen, dienten nicht nur als Nahrungsquelle, sondern auch als Lasttiere. Sie weideten friedlich in großen eingezäunten Gebieten, die ich für völlig unfruchtbar hielt, aber anscheinend fanden sie dort immer noch etwas Nahrung. Die Einheimischen nannten sie Gürteltiere. Jede Herde hatte einen Anführer mit einem riesigen knöchernen Kragen, und es schien, dass diese großen Tiere eine besondere Behandlung brauchten. Mein alter Bekannter Kosta schien jedoch nicht einmal zu bemerken, dass seine neuen Freunde weder Hufe noch geflochtene Mähnen hatten. Schon ein paar Tage nach unserer Ankunft sah ich ihn durch die Ställe rennen, in die Mäuler der riesigen Gürteltiere schauen, sie anspannen und generell absolut glücklich aussehen. Ich wünschte, ich könnte so sein. Ich habe hier noch nichts zu tun gefunden.
+
+Name:
+First week passed
+Message:
+Eine Woche war vergangen, seit wir uns in Jadame niedergelassen hatten.	Burton und seine Umgebung waren nicht sehr grün, und anstelle von Teichen gab es schwarze Pfützen mit blubberndem Schlamm; sie verströmten einen Gestank, an den wir uns nach einer Woche gewöhnt hatten. Die einheimischen Jungen zündeten manchmal zum Spaß eine der Pfützen an, wofür sie von ihren Müttern eine kräftige Schelle bekamen - und die einheimischen Frauen, das muss gesagt werden, konnten einen Schmiedehammer leicht mit einer Hand mehrere Meter hoch werfen. Kein Wunder, dass die ungezogenen Jungen beim bloßen Anblick ihrer stirnrunzelnden Mütter die Lust am Streiten verloren.	Ich hatte lange gezögert, Sam danach zu fragen, aber schließlich riss ich mich zusammen und erkundigte mich, warum es in Burton so wenige Männer gab und warum die Frauen nicht im Haushalt arbeiteten, sondern Metall schmiedeten, bohrten und schweißten.	"Männer denken immer, sie hätten alles in der Hand! Deshalb leben wir jetzt so. Als die Oger in unserem Land auftauchten, organisierten sie eine Art Miliz - sie stellten Schwerter, Schilde und Musketen her. Natürlich wusste niemand, wie man kämpft. Sie begannen, sie zu töten, einen nach dem anderen, einen nach dem anderen, und einige wurden als Sklaven zu Zog gebracht.	Tatsächlich hatten unsere Frauen vorher nicht viel Frauenarbeit zu tun. Du siehst: In unserem Land wächst nichts. Es gibt nur Erdöl, Erz und Unkraut, das nur Gürteltiere fressen, also mussten wir uns um das Vieh kümmern. Ein Gürteltier ist kein Schaf oder eine Kuh, es ist nicht so einfach zu handhaben. Wir mussten stark und mutig sein. Eine andere Sache ist, dass man nicht viele Hirten braucht, also haben wir unseren Vätern und Ehemännern geholfen und gelernt, wie man schmiedet, Metall gießt, alles macht. Jetzt ist es so weit, dass es fast keine Männer mehr gibt ... na ja, irgendwie schaffen wir es. Wir können nicht einfach aufgeben. Wenn wir Waren haben, können wir wenigstens etwas am Hafenmarkt in Orca's Maw gegen Proviant eintauschen. Aber wir können jetzt nicht dorthin, weil die Dreckskerle die Straße blockiert haben, die unsere Karawanen nehmen. Sie wissen, dass wir hier etwas haben, womit sie uns überraschen können, und sie trauen sich noch nicht, uns anzugreifen, aber wenn wir sie nicht in ihr stinkendes Loch in den Bergen zurücktreiben können, werden sie uns mit Gewalt nehmen".	Das Leben in Burton war immer noch ziemlich ruhig, abgesehen von dem Lärm und dem Poltern der Schmieden, die es in fast jedem Haus gab.	Zu meinem Erstaunen erkundeten die Halblinge in ihrer Freizeit die Einöde und kletterten sogar auf kleine Felsen, aber sie entfernten sich nie weit von Burton.	Die Einheimischen, mit Ausnahme der Späher, versuchten ebenfalls, in der Nähe der Stadt zu bleiben, nicht zuletzt wegen der Nähe von Zogs Festungen. Die meisten der örtlichen Ogerhäuptlinge hatten ihm einen Eid geschworen, und wenn früher, wie die Städter sagten, zumindest mit einigen von ihnen vorsichtig umgegangen werden konnte, so hatte der Schakal jetzt etwas, das sie dazu brachte, sich danach zu sehnen, ihm zu dienen. Es wurde gemunkelt, dass er seit kurzem statt einer Keule, einen riesigen Hammer mit den Hörnern eines steinernen Widders bei sich trug, ein Zeichen für die Zugehörigkeit zur edlen Klasse der Kampfmagier.	
+
+Name:
+Frederick - First conversation
+Message:
+In der ganzen Hektik hatte ich Frederick aus den Augen verloren. Es gab so viel zu tun - wir versuchten, unser neues Heim einzurichten und uns gleichzeitig auf den Kampf gegen Zogs Unholde vorzubereiten. Ich traf meinen Mentor zufällig, als ich aus der örtlichen Schmiede kam. Er hätte mich nicht einmal bemerkt - wegen des riesigen Stapels von Schriftrollen und Papieren in seinen Händen ging er fast wahllos umher, und ich hätte ihn übersehen, wäre da nicht die angeborene Fähigkeit aller Halblinge gewesen, sich gegenseitig an den Füßen zu erkennen, und nicht nur daran. Es gab in Burton kein anderes Paar so eleganter Saffian-Stiefel. Ich weiß noch, wie er mit einem traurigen Lächeln sagte, dass der Zauber für abriebfeste Sohlen das Wertvollste war, was ihm sein bracadischer Mentor gegeben hatte.	"Frederick!", rief ich.	"Ah, Henrietta! Es ist schon lange her. Ich habe gehört, dass die Flüchtlinge umgesiedelt worden sind. Was hältst du von den Ogerhütten? Sie sind schön, nicht wahr? Als wir weiterflogen, versuchte ich mir einzureden, dass die Segel der Ballons zum Bau eines Zeltlagers verwendet werden müssten - aber es war ein unglaubliches Glück! Mehrere leere, riesige Gebäude, in denen alle Platz fanden. Ich habe immer gedacht, dass die Geschichten über das außergewöhnliche Glück der Halblinge übertrieben sind, vor allem, wenn ich sehe, wie ihr in meinem Labor immer wieder Schaden anrichtet. Aber die letzten Tage haben selbst einen Skeptiker wie mich zu einem Gläubigen gemacht."		"Ja... Die Gebäude sind riesig, aber ich weiß nicht, was schlimmer ist - ein stickiges Loch mit unausstehlichen Wächtern oder hundert Bewohner in einem einzigen Raum. Die anderen scheinen das Gefühl der Schulter ihres Nachbarn zu mögen, auch wenn sie gegen ihren Rücken drückt. Das gibt ihnen Kraft."	"Was ist mit dir? Bist du nicht deshalb von zu Hause weggelaufen und hast mein Geheimversteck gefunden, das selbst erfahrene bracadische Hellseher nicht ausfindig machen konnten? Es gibt jetzt viele neugierige Augen in Burton, und du weißt, dass ich lieber arbeite, wenn ich Platz habe und niemand herumschnüffelt. Ich bin gern allein mit meinem Wissen. Darin ähneln wir uns, Henrietta, und das fand ich an dir so interessant. Ein neugieriger Halbling, der nicht in einem warmen Loch sitzen will, sondern sich nach Wissen sehnt. Hast du Lust, mir heute in meiner Werkstatt zu helfen?"	"Darf ich?"	Ich verbrachte den Rest des Tages damit, Frederick zu helfen. Wir sprachen über viele Dinge, und zum ersten Mal seit meiner Ankunft fühlte ich mich wärmer.
+
+Name:
+Two weeks
+Message:
+Zwei Wochen sind vergangen, seit wir Eeofol verlassen haben. Wir haben uns daran gewöhnt, auf unbequemen Bänken zu schlafen, und wir haben uns an das Poltern der Schmiedehämmer und die Hitze der Öfen gewöhnt. Das Leben war sehr schwer, aber es fühlte sich irgendwie so an, als würde es wieder geordnet und ruhig werden, eine Veränderung, die sogar ich jetzt zu schätzen wusste. Zum ersten Mal schlief ich nach einem anstrengenden Tag nicht sofort ein, sobald mein Kopf das Kissen berührte. Die Tage kehrten in umgekehrter Reihenfolge in meine Erinnerungen zurück - die unangenehmen und lustigen Momente der Eingewöhnung in Burtons ungewohnten Lebensstil, der Morgen, an dem Sam zum ersten Mal mit uns sprach. Jeder Tag und jede Nacht unseres anstrengenden Fluges. Ich erinnerte mich daran, wie mich der Anblick des weiten Ozeans, der Antagarich und Jadame trennte, beeindruckt hatte, während die meisten Halblinge so erschöpft waren, dass sie das atemberaubende Bild nicht einmal bewundern konnten. Wie wir die Dunkelheit abwarteten und über der Oberfläche der elfischen Seen schwebten, um unseren Maschinen Ruhe und Wasser zu geben. Wie wir uns hoch in den Wolken vor riesigen Geisterdrachen versteckten, während wir über totes Land flogen, und ihrem tödlichen Heulen lauschten, während unsere Herzen vor Angst erstarrten. Und wie wir zum letzten Mal auf die schnell verschwindenden Felder und Dörfer unserer Heimat Eeofol blickten, die fast von Rauch und Feuerschein verdeckt waren. Das letzte, woran ich mich erinnerte, bevor mich der Schlaf überkam, waren Tavins graue Augen, in denen keine Angst zu sehen war. Nur Selbstlosigkeit, Mut und Entschlossenheit halten die Dämonen zurück und verschaffen uns Zeit zur Flucht. Oh, wie sehr brauche ich jemanden, der so furchtlos ist, um mich herum. Könnte ich jemals so werden wie er?
+
+Name:
+Ogre village
+Message:
+Eines Morgens stürmte Sam in mein Haus:	"Es ist Zeit zu gehen!"	"Aber wohin?", fragte ich und schüttelte die Überreste des Traums ab, in dem ich durch die Wälder meiner Heimat streifte. Solche angenehmen Träume sind inzwischen ein Luxus für mich.	"Die Späher haben ein verlassenes Ogerdorf gefunden. Es scheint der Ort zu sein, an dem die Dirnen vor zwanzig Jahren, bevor Zog Oberhäuptling wurde, versucht haben, eine Art Jahrmarkt zu veranstalten. Weiß der Teufel, womit sie handeln wollten, aber was immer es war, der Schakal hat es verhindert. Er ist sich sicher, dass ein Oger, der etwas auf sich hält, sich nehmen sollte, was er braucht, wenn er es will. Wie auch immer, das ist der perfekte Ort für einen befestigten Bergfried! Komm schon, zieh dich an, nimm deine Stiefel... oh. Nun, dann zieh dich einfach an. Wir rücken sofort aus. Es werden nicht viele Soldaten gebraucht, aber wir müssen uns beeilen.
+
+Name:
+Terghez
+Message:
+Den Spähern ist es gelungen herauszufinden, dass es einen Weg gibt, in Zogs Festung zu gelangen... aber zu welchem Preis! Eine Garnison steht uns im Weg, Horden blutrünstiger Kreaturen der abscheulichsten Art, die es gibt .... Selbst mit den mächtigsten Artefakten und der stärksten Magie werden wir nicht in der Lage sein, große Verluste zu vermeiden - und ehrlich gesagt, sind wir an beidem nicht reich. Wir mussten uns also etwas anderes einfallen lassen.	Endlich hatten wir Glück: Ein betrunkener Oger prahlte am Lagerfeuer damit, dass sein Kommandant einen "sehr starken stein" besitzt, der einen Durchgang zu einem unterirdischen Höhlennetzwerk öffnet - dort trifft der Kommandant auf Boten von Zog persönlich! Zu viel Kaktus-Mondschein ist schlecht für dich - vor allem, wenn feindliche Späher in der Nähe sind, die jedes achtlos hingeworfene Wort aufschnappen können.
+
+Name:
+Second conversation with Frederick
+Message:
+Seit einiger Zeit war der Himmel für mich eher eine Quelle der Angst als der Bewunderung, und doch konnte ich nicht umhin, festzustellen, dass der Himmel heute Nacht besonders schön war. Die zahllosen Sterne über den mondbeschienenen Steintälern glitzerten wie fein geschliffene Edelsteine, die nur in den Schatzkammern der reichsten Herrscher zu finden waren. Ich hatte einen so schönen Vergleich in einem der Bücher gelesen, die Frederick fast als Treibstoff benutzt hatte, und beklagte, dass dieser "Ballast" in seinem hastig gepackten Gepäck statt einiger nützlicherer Nachschlagewerke gelandet war. Ich hatte natürlich keinen dieser Steine selbst gesehen, aber ich hätte es selbst nicht besser sagen können. Sam und ich saßen am Feuer, rösteten Fleisch und Stockbrot, und ich lauschte gespannt ihren unglaublichen Geschichten. Sam schien so viele davon zu haben wie die Sterne über uns. Auch ich hatte ein paar amüsante Geschichten aus dem Dorfleben parat, und Sam amüsierte sich köstlich darüber, wobei sie sich ab und zu ein heiseres Lachen verkneifen musste. Es schien, als hätte ich den ersten neuen Freund seit langer Zeit gefunden. Frederick beteiligte sich nicht an unserem Gespräch - er war mit seinen eigenen Nachforschungen beschäftigt. Er hatte eine ganze Kiste mit Spiegeln, Röhren, gebogenen Linealen und anderen Geräten zum Feuer gebracht, verbrachte aber die meiste Zeit des Abends in der Dunkelheit daneben, lief gelegentlich hoch und holte neue Glasstücke und Geräte. Sam und ich sahen eine Weile zu, wie Frederick durch ein großes Eisenrohr, wie es auf Schiffen verwendet wird, um fernes Land zu sehen, in den Himmel blickte, aber wir verloren schnell das Interesse und gingen zurück zu unserem Gespräch. 	Als alles Fleisch aufgegessen war und nur noch Glut übrig war, kehrte Frederick zurück und hob einen Finger in die Höhe. Geheimnisvoll beleuchtet vom schwachen Flackern des Lagerfeuers, sagte er: 	"Der Mond! Sie sind vom Mond!"	""Wer?"" - fragte ich.	"Dämonen. Es passt alles zusammen: Sie leben auf dem Mond. Das ist kaum verwunderlich, denn so viele dunkle Kulte und Praktiken sind mit diesem Himmelskörper verbunden. Jeder Wissenschaftler und Seefahrer weiß: Unsere Welt hat die Form einer Kugel, um die die Gestirne kreisen und uns tagsüber mit Sonnenlicht und nachts mit Mondlicht versorgen. Die akademische Wissenschaft glaubt, dass nur körperlose Wesen auf der Sonne und dem Mond wohnen können. Es gibt noch andere Hypothesen, aber wenn ich zwischen dem Unwahrscheinlichen und dem absolut Unwahrscheinlichen wählen muss, neige ich immer zu der eher bodenständigen Erklärung. Ich habe den Mond sehr lange durch ein Teleskop betrachtet, und ich bin sicher, dass ich Berge, Ebenen und unzählige Krater sehen konnte, was bedeutet, dass diese Welt materiell ist. Die Dämonen haben wahrscheinlich ihre eigenen Städte und Burgen - und sie haben unsere Welt da unten beobachtet, vielleicht durch ein Fernrohr wie das meine. 	Voller Neid auf unsere blauen Ozeane, unsere grünen Wälder und weiten Wiesen bereiteten sie eine Invasion vor, und in dieser Nacht regneten ihre Steinschiffe auf Eeofol herab und verwandelten das fruchtbare Land in eine aschegefüllte Wüste, ähnlich der, aus der sie kamen.	Das waren Schiffe, daran gibt es keinen Zweifel. Ich schaute in die Risse und sah etwas - nein, keine Mechanismen... oder Mechanismen, die nach mir unbekannten Prinzipien funktionieren, aber ganz sicher eher das Produkt des Geistes als natürlicher Formationen."	In dieser Nacht schlief ich schlecht - ich träumte wieder von den Teufeln. Sie rissen Bäume aus, zertrümmerten Berge mit bloßen Händen und stapelten die Felsen zu riesigen, hässlichen Türmen auf. Gibt es irgendeine Macht, die dem widerstehen kann?
+
+Name:
+Third conversation
+Message:
+Ich beobachtete Burton, wie es sich auf die Begegnung mit Zog vorbereitete.	Die Halblinge, die gestern noch Ackerbauern und Schafhirten waren, lernten nun eilig das Kriegshandwerk. Die meisten meiner Landsleute können gut mit der Schleuder schießen, aber wir mussten noch nie an grünen, riesigen Attrappen üben oder auf Kommando Salven abfeuern. Hoffentlich werden echte Bomben, wenn die Zeit gekommen ist, echte Oger mit der gleichen Genauigkeit treffen. Ich besprach die Vorbereitungen mit Frederick, aber er war völlig ruhig. So teilnahmslos habe ich ihn sonst nur bei wichtigen Experimenten oder bei der Inbetriebnahme einer ausgefallenen neuen Maschine erlebt. 	"Frederick, haben wir eine Chance, Zog zu besiegen?"	"Während Zog und seine Kumpanen in ihrer Festung sitzen und mit Knüppeln in der Nase bohren, kommen aus unseren Werkstätten immer mehr kampffähige Automaten. Wir werden diesem Wilden eine böse Überraschung bereiten. Selbst wenn er damit rechnet, auf Widerstand zu stoßen, stellt er sich wahrscheinlich so etwas wie einen Haufen kaum ausgebildeter Frauen und Zwerge vor, die zu nichts fähig sind", nahm ich es Frederick nicht übel, dass er Halblinge mit Zwergen verglich.  	"Weißt du, das ist gut, aber ich würde nicht sagen, dass ich mich dadurch viel besser fühle. Zog sieht uns zwar nicht als Bedrohung an, aber auch wir haben nur eine vage Vorstellung davon, was uns in seinem Versteck erwarten könnte. Die Späher tun ihr Bestes, aber sie haben wenig Erfahrung und noch weniger zuverlässige Informationen. Wir brauchen mehr Späher, mehr Spähgläser. Neue, die besser sind als die, die wir haben.	"Du bist ein kluges Mädchen, Henrietta, und ich bin froh, dass ich mich nicht geirrt habe, als ich dachte, du würdest schnell lernen. Wenn man einmal von Dämonen überrumpelt wurde, tut man sein Bestes, um alles über seinen Feind zu erfahren, bevor man ihm von Angesicht zu Angesicht gegenübersteht. Ich habe bereits darüber nachgedacht, wie ich das Aussehen der Ferngläser verbessern kann, damit die Halblinge besser damit zurechtkommen. Eine kürzere Brennweite bei gleicher Vergrößerung, kompakte Größe... Durch euer Talent für lautloses Gehen und eure kleine Statur könnt ihr tiefer in das feindliche Gebiet eindringen als Sams Späher es können. Kannst du fähige Halblinge finden, die für ein solches Unterfangen bereit sind?" 	"Ja", antwortete ich ruhig und gelassen. Ohne es zu wollen, hatte ich seit dem ersten Tag der Invasion Erfahrungen mit der Organisation meiner Brüder gesammelt, und ich hatte den Dreh langsam raus.
+
+Name:
+Zog Warning
+Message:
+"Frederick, wie lange sollen unsere Vorbereitungen noch dauern?", fragte ich.	"Der Feind ist gefährlich, also sollten die Vorbereitungen genauso gefährlich sein, mein kleiner Freund."	"Aber die Späher berichten, dass Zog bereits begonnen hat, unsere wachsende Stärke zu erkennen. Er ist im Begriff, seinen Unterschlupf zu verlassen; entweder wird er uns in einen Kampf zu seinen Bedingungen verwickeln oder er wird fliehen! Wir müssen ihn in seiner Festung festsetzen, wo er keine Chance hat, sich zurückzuziehen oder zu entkommen!"
+
+===== Heroes =====
+
+===== Objects =====
+
+(44, 4, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+ÈÈ - Áîíóñíàÿ ãîëäà
+Message:
+
+
+(16, 7, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+131 - AI - bonus creatures
+Message:
+
+
+Name:
+211 - AI - big bonus
+Message:
+
+
+Name:
+311 - AI - huge bonus
+Message:
+
+
+Name:
+221 - Tavern
+Message:
+
+
+(47, 50, 0) ***Quest Gate***
+Message:
+Die Bewohner des Ödlands haben hier Befestigungen gebaut, um sich vor Zogs Ogern zu schützen. Sie lassen nur diejenigen passieren, die aus Burton kommen.
+Ihr wurdet an Eurer Flagge erkannt. Wollt Ihr weitergehen?
+
+(53, 65, 0) ***Seer's Hut***
+Message:
+In der Hütte sitzt ein alter Zauberer, der sich in einen Wälzer vertieft hat. Schließlich wendet er sich an dich.	"Es ist lange her, dass mich jemand besucht hat", sagt er. "Es ist ein wilder Ort, was kann man schon tun? Die wenigsten Menschen in dieser Gegend sind an magischem Wissen interessiert. Ich kann euch ein paar Zaubersprüche beibringen, wenn ihr wollt, aber ich brauche eine Schriftrolle, mit der ich arbeiten kann. Andernfalls ist mein Rat für dich nutzlos.	Ich habe gehört, dass einigen Rittern, die aus den nördlichen Ländern hierher gekommen sind, eine Schriftrolle mit dem Segensspruch in die Hände gefallen ist. Das letzte Mal, als ich sie sah, lagerten sie in der Nähe der Hexenhütte.
+Leider kann ich Euch ohne die Schriftrolle nicht helfen.
+Diese Schriftrolle ist genau das, was ich brauche! Ich kann euch den Segensspruch beibringen, aber dafür müsst ihr mir die Schriftrolle überlassen.	Wollt Ihr mein Angebot annehmen?
+		Segen ist ein nützlicher Zauber, aber was nützt eine Magie, die dem Feind nicht schaden kann? Der Zauber Blitzschlag kann sehr nützlich gegen Oger und Goblins sein. Leider habe ich keine Schriftrolle mit diesem Zauber, aber vielleicht könnt ihr bei den Medusen in den westlichen Bergen fündig werden. Diese fiesen Dinger horten gerne magische Gegenstände.
+Leider kann ich Euch ohne die Schriftrolle nicht helfen.
+Diese Schriftrolle ist genau das, was ich brauche! Ich kann euch den Spruch Blitzschlag beibringen, aber dafür müsst ihr mir die Schriftrolle überlassen.	Wollt Ihr mein Angebot annehmen?
+Feindliche Schützen können eine ernsthafte Bedrohung darstellen - aber ich verrate dir ein Geheimnis: Du kannst sie umgehen. Der Zauber Vergesslichkeit kann gegen Bogenschützen äußerst nützlich sein - und wie ich gehört habe, hat Zog in letzter Zeit viele Orksöldner für seine Armee rekrutiert. Schriftrollen mit diesem Zauber sind nicht leicht zu bekommen, aber vielleicht findet ihr in einer Schmugglerhöhle etwas von Wert.
+Leider kann ich Euch ohne die Schriftrolle nicht helfen.
+Diese Schriftrolle ist genau das, was ich brauche! Ich kann euch den Spruch Vergesslichkeit beibringen, aber dafür müsst ihr mir die Schriftrolle überlassen.	Wollt Ihr mein Angebot annehmen?
+Es gibt noch einen Zauber, den ich euch beibringen kann: Gegenschlag. Ich hatte mal eine Schriftrolle mit diesem Zauber, aber ich habe sie verloren, als ich das letzte Mal in den Höhlen war. Es ist unwahrscheinlich, dass jemand sie gefunden hat, also ist sie wahrscheinlich noch da. Aber seid vorsichtig! In diesen Höhlen wurden nicht nur Oger, sondern auch Behemoths gesehen. Viel Glück für Euch!
+Leider kann ich Euch ohne die Schriftrolle nicht helfen.
+Diese Schriftrolle ist genau das, was ich brauche! Ich kann euch den Spruch Gegenschlg beibringen, aber dafür müsst ihr mir die Schriftrolle überlassen.	Wollt Ihr mein Angebot annehmen?
+
+(65, 67, 0) ***Quest Guard***
+Message:
+Ein Banditenanführer lebt hier - seine Bande hat einige der Gänge blockiert. Er ist bereit, mit dir zu reden, aber nur, wenn du seine Männer mit Erz versorgst.
+Die Banditen werden erst mit dir reden, wenn du ihnen 50 Erz bringst.		
+Willst du das Erz den Banditen übergeben?
+
+(68, 47, 0) ***Stronghold***
+
+Timed events:
+
+Name:
+131 - AI - bonus troops + citadel
+Message:
+
+
+Name:
+211 - AI - big bonus
+Message:
+
+
+Name:
+311 - AI - huge bonus
+Message:
+
+
+(20, 8, 0) ***Event***
+Message:
++ boars for AI
+
+(41, 41, 0) ***Quest Gate***
+Message:
+Die Bewohner des Ödlands haben hier Befestigungen gebaut, um sich vor Zogs Ogern zu schützen. Sie lassen nur diejenigen passieren, die aus Burton kommen.	
+	Ihr wurdet an Eurer Flagge erkannt. Wollt Ihr weitergehen?
+
+(8, 27, 0) ***Sign***
+Message:
+Manchmal ist der Schlüssel Macht, und manchmal ist der Schlüssel nur ein Schlüssel. Beides hat seinen Preis.
+
+(2, 27, 0) ***Seer's Hut***
+Message:
+Ein gewandeter Priester begrüßt dich vor seiner Hütte. Er schaut dir eine Weile in die Augen und bittet dich dann mit einer Geste herein.	"Seid gegrüßt. Ich bin im Auftrag des Hohepriesters des Sonnentempels in dieses Land gekommen. Unser langjähriger Erzfeind, die Gilde der Nekromanten, bereitet sich darauf vor, Krieg gegen uns zu führen. Nekromanten und ihre abscheulichen Kreationen sind in den letzten Monaten in immer größerer Zahl in dieser Einöde aufgetaucht. Es gibt sogar einige schwarze Ritter, wie ich gehört habe! Wir glauben, dass dieses Land seit dem letzten Jahrhundert verfluchte Artefakte beherbergt. Ihr Schöpfer war... Ach, das ist nicht wichtig. Was wichtig ist, ist, dass diese Artefakte gefunden und zerstört werden müssen, bevor sie in die Hände der Nekromantengilde fallen. Bringt sie zu uns, und ich gebe euch etwas, damit sich die Mühe für euch lohnt."
+Du hast die Artefakte noch nicht gefunden? Dann beeilt euch! Vielleicht findet ihr einige von ihnen in alten Gräbern und Grabstätten, aber ich vermute, dass einige bereits in die Hände der Gilde gefallen sind. Ihr müsst sie euch mit Gewalt holen.
+Der Priester wirft einen langen Blick auf jedes der Artefakte und spricht schließlich:	 "Ihr wart eine unschätzbare Hilfe für unseren Tempel. Ich werde die Artefakte sofort meinen Brüdern übergeben. Wir werden dafür sorgen, dass sie niemandem mehr Schaden zufügen. Was die Belohnung angeht... Nehmt diesen goldenen Bogen."
+
+(45, 67, 0) ***Quest Guard***
+Message:
+Eure Truppen sind an einer Klippe stehen geblieben. Tiefe Spalten im Boden machen es unmöglich, hier durchzukommen; du musst eine Brücke bauen.
+Ohne Materialien kannst du keine Brücke bauen; du musst zuerst Holz finden.
+Mit 20 Holz kannst du eine Brücke über die Klippen bauen und deinen Weg fortsetzen. Willst du sie bauen?
+
+(32, 53, 0) ***Sign***
+Message:
+Persönliche Verwüstung von Zog. Nicht niedertrampeln. Zuwiderhandelnde werden an die Orks verfüttert.
+
+(41, 10, 0) ***Quest Gate***
+Message:
+Hier gibt es eine weitere Oger-Garnison, die noch besser befestigt ist als die vorherige. Es gibt keine Möglichkeit, sie zu stürmen. Als ihr gerade umkehren wollt, ruft euch ein Barbar von der Mauer aus etwas zu.	 Zog hält alle in Angst und Schrecken, aber wirkliche Loyalität hat er sich nicht verdient. Es gibt einige Oger, die nicht bereit sind, vor Zog zu kuschen, aber niemand wagt es, sich ihm in den Weg zu stellen, solange er die Eiserne Faust hat. Wenn ihr uns nun einige sehr mächtige Artefakte wie den Goldenen Bogen, die Engelsfederpfeile und die Bogensehne der Einhornmähne bringen würdet, hätte Zog es schwer, sich mit seinen Rivalen zu duellieren. Wenn du das tust, lassen wir dich in sein Lager, von wo aus du tun kannst, was du willst. 
+Es ist undenkbar, eine so mächtige Festung zu erobern. Ihr könnt nur durchkommen, wenn ihr den Barbaren Artefakte bringt.
+Als die Barbaren die Artefakte in euren Händen sehen, sind sie bereit, eure Truppen passieren zu lassen. Das ist vielleicht deine einzige Möglichkeit, in Zogs Lager zu gelangen.	Du willst die Artefakte aushändigen und passieren?
+
+(42, 41, 0) ***Quest Guard***
+Message:
+Auf der Straße triffst du einen Mann, der wie ein Schurke aussieht.	 Dies ist das örtliche Kriegslager der Minotauren, sagt er.	Die Oger haben schon ein paar Mal versucht, hier einzudringen, aber Balthasars Minotauren kennen ihre Befestigungen.	Davon abgesehen... Gebt mir 15 Edelsteine und ich zeige euch den Geheimgang zu ihrem Lager. 
+ Das ist nicht annähernd genug! ist der Schurke entrüstet.  Habt ihr sonst noch etwas? 
+ Nun gut, sagt der Schurke und greift nach den Edelsteinen.  Folgt mir, ich werde euch den Geheimgang zeigen. Aber sei vorsichtig! Minotauren sind nicht scharf auf ungebetene Gäste. 
+
+(11, 48, 0) ***Seer's Hut***
+Message:
+In der Hütte begegnet ihr einem Zauberer. Er scheint ziemlich verängstigt zu sein.	"Danke!", sagt er. "Ohne euch wäre ich nicht in der Lage gewesen, mit diesen Dendroiden fertig zu werden! Wer hätte gedacht, dass meine Feuermagie-Experimente den ganzen Wald in Asche verwandeln würden?	Bevor ich in diese Einöde kam, lehrte ich Zauberern die Elementarmagie, insbesondere Erd- und Feuerzauber. Bringt mir einen fähigen Lehrling, und ich werde ihm alles beibringen, was ich weiß. Normalerweise verlange ich für meine Lektionen eine saftige Gebühr, aber da ihr mir geholfen habt, unterrichte ich umsonst.
+Leider spüre ich bei dir keine Begabung für Magie. Vielleicht kennt Ihr einen Zauberer? 
+Wollt ihr in Erdmagie ausgebildet werden?
+Bringt mir einen fähigen Schüler, und ich werde ihn alles lehren, was ich weiß.
+Leider spüre ich bei dir keine Begabung für Magie. Vielleicht kennt Ihr einen Zauberer? 
+Wollt ihr in Feuermagie ausgebildet werden?
+
+(11, 43, 0) ***Quest Gate***
+Message:
+Die Bewohner des Ödlands haben hier Befestigungen gebaut, um sich vor Zogs Ogern zu schützen. Sie lassen nur diejenigen passieren, die aus Burton kommen.
+Ihr wurdet an Eurer Flagge erkannt. Wollt Ihr weitergehen?
+
+(38, 51, 0) ***Sign***
+Message:
+Alle, die hier herkommen, sollen nicht mehr klauen. Ihr habt keinen Sinn für Diebstahl und wir sind zu faul, euch zu entwaffnen.
+
+(32, 18, 0) ***Quest Guard***
+Message:
+An dieser Küste haben Piraten ihr Lager aufgeschlagen. Du kannst hier ein Schiff und eine Mannschaft anheuern, aber nur gegen eine angemessene Gebühr. Bringe 20 Kristalle, 10 Edelsteine und 4000 Gold, um die Piraten zu überzeugen, sich dir anzuschließen.
+Die Piraten werden nicht mit dir reden, wenn du ihnen nicht 20 Kristalle, 10 Edelsteine und 4000 Gold bringst.		
+Wenn sie Gold und Edelsteine sehen, sind die Piraten bereit, ihr Schiff und sich selbst zur Verfügung zu stellen. 20 Kristalle, 10 Edelsteine und 4000 Gold werden ausreichen. Seid ihr einverstanden?
+
+(66, 57, 0) ***Event***
+Message:
++ êàáàíû äëÿ ÈÈ
+
+(63, 5, 0) ***Barbarian***
+Name:
+Naghban
+
+(44, 5, 0) ***Battle Mage***
+Name:
+Zog
+
+(43, 66, 0) ***Event***
+Message:
+
+
+(16, 8, 0) ***Battle Mage***
+Name:
+Guerhaugh
+
+(67, 54, 0) ***Battle Mage***
+Name:
+Horoagh
+
+(6, 9, 0) ***Barbarian***
+Name:
+Creghol
+
+(23, 67, 0) ***Ogre Mage***
+Message:
+So sehen die Oger also aus. Riesig, plump, mit fleckiger, olivfarbener Haut und schlecht bewaffnet, aber bei ihrer Stärke macht das nicht so viel aus; selbst eine Keule in den Händen eines solchen Hünen kann gefährlicher sein als das schärfste Schwert. Zog schien jedoch zu erkennen, dass seine Krieger, wenn sie gute Waffen und Rüstungen bekämen, im Kampf nur wenige Gleichgestellte finden würden. Wir können nur hoffen, dass er keine andere Quelle für Metall findet, und wir werden nicht zulassen, dass sie Burtons Handwerkskunst in die Hände bekommen, solange wir noch leben.
+
+(57, 2, 0) ***Quest Guard***
+Message:
+Der einzige Durchgang durch das Gebirge scheint durch eine hohe Mauer versperrt zu sein. Es gibt keine Türen oder Tore. Es sieht aus wie eine magische Barriere, aber wie könnten die Oger sie herbeigezaubert haben, wenn sie über so wenig magische Fähigkeiten verfügen?	Wenn du die Mauer genau betrachtest, entdeckst du eine kleine Öffnung. Die Kugel, die Naghban aufbewahrt hat, passt perfekt in die Form; das muss der Schlüssel sein.
+Wenn du die Wand genau betrachtest, entdeckst du eine kleine Öffnung. Die Kugel, die Naghban aufbewahrt hat, passt genau in die Form; es muss der Schlüssel sein.
+Die Wand zittert, wenn du die Kugel an sie hältst. Wenn wir sie drinnen lassen, wird die Kraft, die die Steine zusammenhält, verpuffen. Willst du den Durchgang öffnen?
+
+(67, 8, 0) ***Battle Mage***
+Name:
+Terghez
+
+(68, 7, 0) ***Event***
+Message:
+
+
+(31, 67, 0) ***Event***
+Message:
+
+
+(52, 6, 0) ***Event***
+Message:
+Bonus troops for Zog
+
+(52, 36, 0) ***Sign***
+Message:
+Jeder kann reich werden! Wir garantieren eine Belohnung von 1 Edelstein pro Ogerkopf. Kontaktiere Gierd, Balthasars Höhle.
+
+(22, 67, 0) ***Event***
+Message:
+
+
+(68, 48, 0) ***Barbarian***
+Name:
+Tan-Ghun
+
+(56, 39, 0) ***Quest Gate***
+Message:
+Die Bewohner des Ödlands haben hier Befestigungen gebaut, um sich vor Zogs Ogern zu schützen. Sie lassen nur diejenigen passieren, die aus Burton kommen.
+Ihr wurdet an Eurer Flagge erkannt. Wollt Ihr weitergehen?
+
+(58, 2, 0) ***Event***
+Message:
+Alles deutet darauf hin, dass ihr euch ganz in der Nähe von Zogs Festung befindet. Außerdem kannst du den Rauch von Lagerfeuern riechen. Was, wenn der Anführer der Oger aus seiner Höhle gekommen ist, um seine Knochen zu strecken, zu jagen, Opfergaben zu sammeln, sich mit dem Rücken nach oben vor einem Götzen niederzuwerfen - was auch immer dieser Drecksack in seiner Freizeit zu tun pflegt? Ein guter Zeitpunkt für einen schnellen Marsch und einen Überraschungsangriff!
+
+(55, 39, 0) ***Quest Guard***
+Message:
+Auf der Straße triffst du einen Mann, der wie ein Schurke aussieht.	 Dies ist das örtliche Kriegslager der Minotauren, sagt er.  Die Oger haben schon ein paar Mal versucht, hier einzudringen, aber Balthasars Minotauren kennen ihre Befestigungen.	Davon abgesehen... Gebt mir 15 Edelsteine und ich zeige euch den Geheimgang zu ihrem Lager. 
+ Das ist nicht annähernd genug! ist der Schurke entrüstet.  Habt ihr sonst noch etwas? 
+ Nun gut, sagt der Schurke und greift nach den Edelsteinen.  Folgt mir, ich werde euch den Geheimgang zeigen. Aber sei vorsichtig! Minotauren sind nicht scharf auf ungebetene Gäste. 
+
+(13, 61, 0) ***Factory***
+Name:
+Burton
+
+Timed events:
+
+Name:
+Player - 211 - Reinforcement
+Message:
+Der Erfolg der Helden hat die Menschen in Burton aufgerüttelt: Eine neue Gruppe von Freiwilligen eilt herbei, um sich den Kämpfern anzuschließen und die Stadt von den abscheulichen Ogern zu vertreiben!
+
+(69, 1, 1) ***Halfling Grenadier***
+Message:
+"Halt! Wer ist da?", kam eine bedrohliche, aber etwas gezwungene Stimme aus der Dunkelheit.	"Wir sind nicht eure Feinde - außer natürlich, ihr gehört zu Zogs Bande!"	"Aber... Was... Nein! Wir sind angeheuert worden, um eine heilige Reliquie zu bewachen! Zeig dich, du unverschämter Fremder!"	"Du bist es?! Ich dachte, ihr wärt von Ogern gefressen worden!", rief ich, bevor ich von allen Seiten angeblafft wurde. Diese Männer waren die erste Truppe, die wir aufstellten, seit wir die Massenproduktion von Fredericks Feuerwerkskörpern zum Laufen gebracht hatten. Sie waren zu einem Aufklärungseinsatz aus der Stadt gefahren, aber nie zurückgekommen. Seitdem war ich persönlich auf Erkundungstour gegangen.	"Ruhig! Sonst werden wir alle unter einem Höhleneinsturz begraben! Ja, das sind wir. Wir wurden angeheuert."	"Was? Angeheuert?! Um etwas zu bewachen?! Ich will gar nicht wissen, von wem oder warum. Was zum Teufel habt ihr euch dabei gedacht?"	"Nun... Er war ein großer Kerl mit Hörnern und Hufen, allerdings nicht rot. Er hat nicht wirklich gefragt, ob wir wollen oder nicht, und es schien ihn nicht zu interessieren, wer wir sind. Lächerlich, nicht wahr: Grenadiere in einem Kerker, wo einem ein Felsbrocken auf den Kopf fallen kann, wenn man nur zur falschen Zeit niest! Und das alles nur wegen dieses verflixten Stücks schimmeligen Pergaments! Verflucht sei das alles, und lasst diesen stiergesichtigen Spinner und sein Gold zur Hölle fahren! Ich habe vergessen, wann wir das letzte Mal die Sonne gesehen haben!" Etwas im traurigen Gesicht des Redners glitzerte im Fackelschein.	"Also gut, ihr erbärmlichen Ausreden für Söldner. Ich verzeihe euch eure Abtrünnigkeit, aber jetzt seid ihr wieder in den Rängen. Kommt, lasst uns von hier verschwinden! Ist es nicht besser, in der Schlacht zu sterben, als sich den Kopf von einem Felsen einschlagen zu lassen, wenn man Nummer zwei machen will?" 
+
+===== End of file =====

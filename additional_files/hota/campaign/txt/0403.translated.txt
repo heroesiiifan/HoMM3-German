@@ -1,0 +1,547 @@
+===== Map name =====
+Tod oder Lebendig
+
+===== Map description =====
+Ihr müsst Dargem den Piraten besiegen, der die Bewohner des Ödlands herausgefordert hat. Der Verlust von Burton wird euch zur Niederlage führen. Eure Helden sind auf Stufe 18 beschränkt, aber sie werden die Bestandteile des Brunnens des Zauberers und den Ring der Magier zur nächsten Karte mitnehmen.
+
+===== Rumors =====
+
+Name:
+Regnan Archmages
+Text:
+Dargem hat eine ganze Bande ehemaliger Zauberer aus Regnan angeheuert!
+
+Name:
+Western Elves
+Text:
+Unter Dargems Söldnern befinden sich auch einige Westelfen. Man sagt, sie seien ausgezeichnete Scharfschützen.
+
+Name:
+Dargem's Shooters
+Text:
+Dargem hat eine beachtliche Streitmacht von Schützen.
+
+Name:
+Portals
+Text:
+In den letzten Wochen haben Piraten ständig die Ländereien um Burton überfallen. Sie greifen sogar durch Portale an!
+
+Name:
+Sandworms
+Text:
+In den östlichen Bergen wurden seltsame Kreaturen gesichtet, die riesigen Würmern ähneln.
+
+Name:
+Arion Clue
+Text:
+Schmuggler und Söldner haben ihr Lager an der Meeresküste aufgeschlagen. Ich habe gehört, dass sie Artefakte kaufen und Piratenwaffen verkaufen.
+
+Name:
+Stanley Clue
+Text:
+Habt ihr die Geschichte über einen Piratenkapitän gehört, der sein Gedächtnis verloren hat? Es heißt, dass viele Seewölfe jetzt Anhänger tragen, um sich zu schützen.
+
+Name:
+Dark Elves
+Text:
+Die Handelsgilde der Dunkelelfen hat es sogar bis in diesen Teil von Jadame geschafft. Sie errichtete einen Handelsposten südlich von Burton.
+
+Name:
+Dargem's Past
+Text:
+Dargem war einst ein Hexenmeister.
+
+Name:
+Steadwick's Fall
+Text:
+Es heißt, dass die Hauptstadt des fernen Erathia kürzlich zum ersten Mal in der Geschichte gefallen ist.
+
+Name:
+Restoration of Erathia
+Text:
+Ein Reisender berichtete mir, dass in Erathia ein Krieg tobt, wie man ihn seit Jahrhunderten nicht mehr gesehen hat.
+
+===== Timed events =====
+
+Name:
+AI - resource control
+Message:
+
+
+Name:
+Part I - Dargem
+Message:
+Wie viele solcher Orte, die von verzweifelten Menschen gegründet wurden, die alles tun wollten, um ihr Leben zu ändern, hatte auch Burton seine dunklen Seiten. Eine davon war der Handel mit Piraten - keine Regnan, sondern Ausgestoßene, die selbst von diesem gesetzlosen Imperium gemieden wurden. Man verkaufte ihnen Schiffsteile, Geschützrohre, Kanonenkugeln und andere Waren für ihr zwielichtiges Gewerbe. Bezahlt wurden sie mit seltenen Substanzen, nach deren Herkunft man sich nie erkundigte. Das hielt nur kurze Zeit an und geschah nur aus purer Verzweiflung, aber es gab kein Entrinnen aus diesem Teil der Geschichte.	Sobald sich die Lage besserte und legale Quellen für die Beschaffung von Vorräten und anderen notwendigen Gütern auftauchten, wurden die Geschäfte mit den Piraten eingestellt. Die Reaktion der Seeräuber auf diese Entwicklung lässt sich nicht einmal annähernd mit dem Wort Verärgerung beschreiben; sie sind völlig aus dem Häuschen.	"Vielleicht sind wir ja auch scharf darauf, ehrliche Händler zu werden! Aber nein, verdammt noch mal, dafür sind unsere Tassen nicht schön genug", wetterte der Anführer einer Gruppe, ein besonders unangenehmer Typ namens Dargem. "Na schön, wartet nur ab", knurrte er. "Es wird Zeit, diesen Landratten zu zeigen, dass die Missachtung von Geschäftspartnern ihren Preis hat."	Dargem stand zu seinem Wort: Mehrere Piratenbanden hatten sich verschworen, um Burtons Handelswege abzuschneiden und begannen, die Versorgungswagen zu plündern. Die Lage wurde immer kritischer.
+
+Name:
+Part II - Boyd
+Message:
+Es wurde eine Dringlichkeitssitzung einberufen, um einen Ausweg zu finden. Ich hörte von den Einwohnern viele Geschichten über die Gräueltaten von Dargem und seinen Kumpanen. Einige davon waren trotz der sengenden Sonne Jadameas geradezu abschreckend! Es gab jedoch eine Geschichte, die mein Interesse weckte: die über einen gewissen Boyd, den Dargem angeblich auf äußerst grausame Weise umgebracht hatte, selbst für Piratenverhältnisse. Es gab mehrere Versionen, aber alle stimmten darin überein, dass ein junger Bursche namens Boyd, ein Abenteurer und Einzelgänger, einst der Besatzung einer Fregatte beigetreten war, die unter der Piratenflagge "Jolly Roger" segelte, und sich nach neuen Abenteuern sehnte, die er seiner Sammlung hinzufügen konnte. Da er ein Naturtalent darin war, lustige Geschichten zu erzählen und anzügliche Lieder zu singen, wurde er schnell zum Mittelpunkt der Mannschaft - nur dem Kapitän der Fregatte, Dargem, gefiel das nicht so gut. Er war selbst noch recht jung für einen Piratenkapitän und kannte bisher nur ein Mittel, um seine Mannschaft bei der Stange zu halten - nämlich Angst und Drohungen. Er beherrschte die Luftmagie, so dass seine Drohungen nicht ins Leere liefen; niemand wollte ihn verärgern und plötzlich an Erstickung oder umgekehrt an einem Lungenriss sterben. Er war aber auch in der Lage, sein Schiff schneller laufen zu lassen, mit magischen Wirbelstürmen die Segel aufzublasen und mit seinem Luftschild Pfeile und Kanonenkugeln abzuwehren. Dank dieser Fähigkeiten fehlte es seinen Männern selten an reicher Beute, so dass es nie an Kandidaten mangelte, die seine Mannschaft verstärken wollten.	One of them was Boyd, who had so carelessly impinged on the cruel captain’s authority. Was it plain jealousy or something else, Boyd was doomed. There were many theories as to what had eventually caused the conflict, but an old innkeeper, who had once had the displeasure of having to treat the grim brig’s crew to a feast on the house, overheard a story. According to it, a hapless pirate was made to dance the hempen jig in the blazing sun, but not before making sure the noose would not suffocate him right away. Ensuring that was a small challenge for a skilled mage. So he hung there, feeding the seagulls, and when the brig called at Jadame's shores, Dargem traded his bones to some grim-looking gangrel for a hat feather. It is not known what the latter did to them, but since then, rumors have spread of travelers encountering the skeleton of an undead pirate shouting Dargem's name in the night. Some eyewitnesses even added that the skeleton brandished a cutlass, arcane flames burst out of his eyes, and the earth he rode on moaned and swelled. Fear takes molehills for mountains, I thought; but maybe I should try and seek out this undead avenger. As they say, the enemy of my enemy is my... no, not my friend. I'm not keen on being friends with no dead men! Let's say... an ally.Einer von ihnen war Boyd, der die Autorität des grausamen Kapitäns so leichtfertig missachtet hatte. Ob es nun schlichte Eifersucht oder etwas anderes war, Boyd war dem Untergang geweiht. Es gab viele Theorien darüber, was den Konflikt letztendlich ausgelöst hatte, aber ein alter Gastwirt, der einmal das Pech gehabt hatte, die Besatzung der grimmigen Fregatte zu einem Festmahl einzuladen, hörte zufällig die Geschichte. Demnach wurde ein unglücklicher Pirat dazu gebracht, den Tanz mit dem Hanf in der prallen Sonne zu tanzen, aber erst, nachdem er dafür gesorgt hatte, dass die Schlinge ihn nicht gleich erstickte. Dies zu gewährleisten, war eine kleine Herausforderung für einen geschickten Magier. Also hing er dort und fütterte die Möwen, und als die Fregatte die Küste von Jadame anlief, tauschte Dargem seine Knochen bei einem grimmig dreinblickenden Ganoven gegen eine Hutfeder ein. Es ist nicht bekannt, was letzterer mit ihnen gemacht hat, aber seither kursieren Gerüchte über Reisende, die dem Skelett eines untoten Piraten begegnen, der in der Nacht Dargems Namen ruft. Einige Augenzeugen fügten sogar hinzu, dass das Skelett ein Entermesser schwang, arkane Flammen aus seinen Augen schlugen und die Erde, auf der es ritt, stöhnte und anschwoll. Die Angst macht aus Maulwurfshügeln Berge, dachte ich; aber vielleicht sollte ich versuchen, diesen untoten Rächer ausfindig zu machen. Wie man so schön sagt: Der Feind meines Feindes ist mein... nein, nicht mein Freund. Ich bin nicht scharf darauf, mit einem Toten befreundet zu sein! Sagen wir... ein Verbündeter.
+
+Name:
+New Inventors
+Message:
+Für Burton brachen neue Zeiten an. Mit der Lösung des Ogerproblems und der Sicherstellung eines stetigen Transports lokaler Produkte auf den Markt im Hafen von Orca's Maw war die Aussicht auf Nahrungsmittelknappheit in den Hintergrund getreten. Die Stadtbewohner konnten nun Pläne für mehr als nur einen weiteren Arbeitstag schmieden. Frederick und Sam fuhren immer wieder zum Hafen, um ihre Kollegen zu treffen, die sie überredet hatten, nach Burton zu ziehen. Einige kamen mit nichts weiter als ein paar Büchern und einem Werkzeugkasten an, andere brachten ganze Schiffsladungen alchemistischer Geräte, seltener Reagenzien und Instrumente mit. Ein Zwerg namens Bertram sorgte für den größten Aufruhr; man munkelte, dass die Dutzende von Fässern, die er aus seiner Karavelle entlud, voll mit Gold waren. Ob es stimmt oder nicht, aber bald nach seiner Ankunft erlebte die Stadt einen Ansturm von Einwanderern aus allen möglichen Ländern, die alle eine gut bezahlte Arbeit fanden. Neue Wohnviertel entstanden; die Produktion wurde von den heimischen Schmieden in das neue Fabrikgebäude mit seinen hohen Gewölben aus Stahlträgern verlagert.
+
+Name:
+Eeofol
+Message:
+Als die Zuwanderer eintrafen, erreichten die ersten Nachrichten über die Dämoneninvasion unsere fernen Länder. Eeofol ist zerstört worden. Verwüstet. Kein einziger blühender Garten mehr, kein einziger klarer See. Nur endlose Hügelketten neuer Berge, die Flammen und stinkenden Rauch spucken, hinter denen sich Horden erbarmungsloser Dämonen verstecken. Ich hatte den besessenen Xarfax und die Soldaten seiner Garnison mit eigenen Augen gesehen - ein schrecklicher und ekelerregender Anblick; aber es schien, dass die Teufel letztlich nicht in der Lage waren, den Geist der anderen Erathianer zu bezwingen. Vielleicht hatten sie gelernt, sich zu verteidigen, oder vielleicht waren die Dämonen einfach nicht so stark, wie wir nach unseren ersten Scharmützeln mit ihnen dachten; was auch immer der Grund war, die überirdischen Gäste waren nicht in der Lage, die Grenzen von Eeofol zu überwinden. Selbst die Feuerküste blieb unter Erathias Kontrolle, obwohl die erwachenden Vulkane ihr zu schaffen machten. Im Gespräch mit den Überbringern der Nachricht brachte ich meine Freude darüber zum Ausdruck, dass das Unglück in Erathia und AvLee nicht Tausende von Menschenleben gefordert hatte - im Gegensatz zu unseren düsteren, aus Unwissenheit geborenen Vorhersagen -, aber mein Herz schrie vor Schmerz. Es fragte sich nur eines: Warum Eeofol und nicht Erathia?
+
+Name:
+Sentinel Automatons
+Message:
+Ich half Frederick nicht mehr in seiner Werkstatt, denn ich hatte jetzt meine eigenen Angelegenheiten zu tun. Ich merkte nicht einmal, wie es geschah, aber irgendwann begannen alle, mich als Burtons Kundschafter zu bezeichnen. Dennoch interessierte ich mich weiterhin für die Fortschritte meines alten Freundes und wusste, dass er eine verbesserte Dampfmaschine entworfen und gebaut hatte. Sie war zu groß und zu schwer, um auf einem Luftschiff montiert zu werden, aber perfekt für ein Kraftwerk in einer Fabrik; sie half, das Drehmoment auf den Wellen der Metallbearbeitungsmaschinen zu vervielfachen. Jetzt baute sich die Fabrik selbst: Verbesserte Maschinen halfen bei der Herstellung neuer Strukturelemente, und die Anlagen wuchsen und wurden immer weiter ausgebaut.	Frederick widmete sich nun voll und ganz dem Energiebereich und hatte keine Zeit mehr, seine anderen alten Projekte zu verfolgen. Viele dieser Projekte wurden jedoch von den neu eingetroffenen Handwerkern weiterentwickelt. Einer von ihnen, ein etwas seltsam aussehender grauhaariger Mann namens Todd, machte es sich zur Aufgabe, Automaten in die Massenproduktion zu bringen. Er verbrachte einen guten Monat eingesperrt in einem Hangar mit den Prototypen, die Frederick aus Eeofol mitgebracht hatte, ein paar Assistenten, einer Vielzahl von Werkzeugen und einem riesigen Korb mit Gürteltierfleisch. Als er endlich aus dieser freiwilligen Beschränkung herauskam, sah er aus, als hätte er seit einem Monat kein Auge zugetan, aber er strahlte vor Freude. Neben ihm präsentierten zwei fertig montierte Modelle ihre glänzenden, polierten Seiten, und er stützte sich stolz mit dem Ellbogen auf einen Stapel Blaupausen und Ablaufpläne. Es ist lustig, wenn ich mich daran erinnere, wie in diesem Moment meine Aufmerksamkeit mit der Tatsache begann und endete, dass der Papierstapel deutlich größer war als ich - selbst wenn ich auf den Zehenspitzen gestanden hatte.		Ich hatte natürlich schon die Automaten gesehen, die unsere Luftschiffe vorbereiteten, aber die anderen Bewohner von Burton waren sehr beeindruckt, als sie auf dem Platz ausgestellt wurden. Stellen Sie sich eine Metallkonstruktion auf sechs mechanischen Beinen vor, die fast so groß ist wie ein ausgewachsenes Gürteltier und wie eine Mischung aus einer Krabbe, die man häufig an den Ufern der Tobenden Strömung sieht, und einer fleischfressenden Spinne aus den Murmurwäldern aussieht. Aus dem Inneren des Mechanismus kam ein gurgelndes Geräusch, und aus den zahlreichen Ventilen traten dünne Dampfstrahlen aus; der Stahlrahmen zitterte und die Gelenke knarrten leicht. Der Automat schien so heiß wie ein Wasserkessel zu sein - obwohl er in Wirklichkeit selbst ein Kessel war; der kräftige Griff, der aus einer Art Kopf herausragte, wirkte sehr bedrohlich, und die jungen Leute aus Burton, die ihre Mädchen beeindrucken wollten, rannten immer wieder heran und steckten ihre Hände in die Kiefer der metallenen Spinnenkrabbe. Sie wussten nicht, dass das überhitzte Dampfkraftwerk an sich eine viel größere Gefahr für andere darstellte als irgendwelche Kiefer oder Gliedmaßen... Frederick erzählte mir im Vertrauen, dass Todd das kleine Zuverlässigkeitsproblem nicht vollständig lösen konnte --Er beschränkte die Standardleistung der Maschine, behielt aber die Möglichkeit, in den superkritischen Modus zu wechseln. Dieser ließ sich jedoch nicht mehr abschalten, sobald er aktiviert war. Natürlich wurde die für diese Funktion verantwortliche Baugruppe aus dem ausgestellten Modell entfernt, aber ich zog es trotzdem vor, auf Abstand zu bleiben.
+
+Name:
+Gunslingers
+Message:
+Burton roch nun nach Geld, und dieser Geruch zieht stets diejenigen an, die es sich aneignen wollen, und auch diejenigen, die bereit sind, gegen Bezahlung die Erstgenannten zu entmutigen. Interessanterweise stammten die meisten von ihnen aus dem gleichen Milieu, nämlich von Piraten. Nicht alle, die früher mit den Burton-Handwerkern zu tun hatten, folgten Dargems Bitten, sich mit Gewalt zu holen, was sie brauchten. Diejenigen, die eher zurückhaltend waren, sahen den Vorteil, sich in den Dienst der schnell wachsenden Stadt zu stellen. Außerdem wurden ihnen die fortschrittlichsten und leistungsfähigsten Waffen versprochen, die in den Werkstätten von Burton hergestellt wurden, und das war natürlich ein sehr guter Anreiz.	Die Bürger der Stadt betrachteten diese mürrischen Männer mit Argwohn; die Söldner, die zu Land und zu Wasser gleichermaßen effektiv waren, wurden hauptsächlich als Kopfgeldjäger eingestellt. Ihre bevorzugten Waffen waren Arkebusen von enormem Kaliber und sehr komplizierter Konstruktion. Ein Blick genügte, um zu sehen, wie sorgfältig die Revolverhelden ihr Handwerkszeug pflegten; ihre Messing- und Stahlteile waren auf Hochglanz poliert und glitzerten in der Sonne wie Schmuckstücke, und die Hartholzschäfte waren poliert und lackiert. Ihre Umhänge wölbten sich verdächtig in der Taille; darunter verbargen sich nicht etwa plumpe Pistolen wie bei den Piraten, sondern Gegenstände, die genauso raffiniert und teuer waren wie ihre Arkebusen. Gerüchten zufolge hatten diese geheimnisvollen Waffen schon zahllose Gefolgsleute Dargems in den Ruin getrieben; ein gut trainierter und disziplinierter Revolverheld war schließlich immer schneller als ein ewig Gestriger - ein betrunkener Pirat und seine glatte Taschenartillerie, auch wenn er ein stolzer Seebär war.
+
+Name:
+Nemerthea
+Message:
+Ein alter Fischer kam nach Burton; er lebte an der Küste in der Nähe des Ortes, an dem die Piraten zum Handel anlegten. Sie hinterließen ihm Nachrichten, in denen sie die nächsten Handelstermine ankündigten. Er erzählte, dass er mehrmals die bekannten schwarzen Segel am Horizont gesehen hatte, in den letzten Tagen immer öfter.	"Die blaue Braut ruft ihre Mädchen zusammen. Und ich sage dir, sie werden in Scharen kommen - sie haben alle einen Ehemann in jedem Hafen. Angenommen, sie versammeln sie alle, dann bekommst sogar du großen Ärger, und ich werde einfach aufgefressen, mitsamt meinen Knochen. Sie haben Gesichter von Engeln, aber Zähne von Haien..."
+
+Name:
+Melchior interrogates pirates
+Message:
+Wenn es Späher gibt, dann muss es auch jemanden geben, der sich um die Späher des Feindes kümmert. In Burton gab es nun einen solchen Mann, sein Name war Melchior. Er konnte mit seiner liebenswürdigen und höflichen Art jeden dazu bringen, sich wohl zu fühlen und sogar das zu erzählen, was er selbst nicht wusste. Und jetzt hatte er einen Piratenspion auffliegen lassen. Das Verfahren des Verhörs für Kandidaten, die sich um eine Anstellung als Revolverhelden bemühen, das für einen unwissenden Beobachter langwierig und verwirrend ist, erwies sich wieder einmal als effektiv: Der Anwärter brach wegen einer überraschenden Frage über die beste Art und Weise, einen großen Gehaltsscheck auszugeben, zusammen, die dem Gesprächsverlauf völlig widersprach. Bei der Befragung spuckte dieser großspurige, unverschämte Typ zunächst Drohungen aus und behauptete, er habe weder Schläge noch den Tod zu befürchten und werde sich ganz sicher rächen... Doch schon eine Minute in der Gesellschaft des Automaten, der bestimmte Körperteile des Gefangenen sorgfältig in seinen Fängen hielt, genügte, und der Gefangene wurde plötzlich außerordentlich redegewandt.	Auszüge aus dem Vernehmungsprotokoll:	...lockte mehrere Zauberer auf seine Seite, indem er jedem einen Zaubererhut versprach... hat die alten Dummköpfe natürlich getäuscht, aber jetzt scheinen sie keine Wahl zu haben...	...lacht Dargem über eure Knallfrösche und Kugeln. Er ist sicher, dass er euch wie Kakerlaken zerquetschen wird. Außerdem hat er mehrere Festungen, in denen seine Gefolgsleute verschanzt sind...	...Du kannst Dargem nicht kriegen. Es sei denn, du kannst über Wasser gehen...
+
+Name:
+Portal warning (141)
+Message:
+Die Späher brachten beunruhigende Nachrichten. In der Nähe von Burton gab es mehrere uralte Portale, aber jeder hielt sie für längst vergessen und ihre Macht für erloschen. Niemand erwartete, dass sie wieder zum Leben erwachen würden, und sie wurden nicht als mögliche Gefahrenquelle angesehen - aber jetzt schien es, als würde jemand versuchen, sie zu reaktivieren: Die Luft in den Portalen wurde aufgewühlt, Lichter blinkten auf....
+
+Name:
+Steadwick's Fall
+Message:
+Heute kamen Flüchtlinge aus dem fernen Antagarich in Burton an. Nein, keine Migranten, sondern Flüchtlinge! Sie brachten Nachrichten, die mich krank und beschämt machten, als ob es meine Gedanken waren, die dieses Unheil heraufbeschworen hatten. Auf der anderen Seite des Ozeans war ein Krieg ausgebrochen: Die Dungeon Overlords von Nighon hatten sich mit den Dämonen verbündet! Es war schwer zu glauben, dass die übernatürlichen Gäste so schnell Verbündete gefunden hatten, aber Tatsachen sind Tatsachen. Erathia litt noch immer unter dem mysteriösen Tod von König Gryphonheart, und Gerüchten zufolge war seine Hauptstadt Steadwick bereits an die gemeinsamen Streitkräfte von Dämonen und Overlords gefallen.
+
+Name:
+Dargem's Fortress
+Message:
+Die lose Zunge des Piratenspions verriet, dass sich die Hauptfestung von Dargem auf einer Insel befinden könnte. Das war sie auch, aber die Insel war von uneinnehmbaren Klippen umgeben, gegen die die Wellen mit furchtbarer Wucht schlugen. Die nächstgelegene Überwachungsmöglichkeit war mindestens eine Meile von der Küste entfernt. Wenn man nur einen Weg finden könnte, Dargem aus seinem Lager zu locken! Könnte es irgendeine Art der Verbindung zwischen den Festungen der Piraten geben?
+
+Name:
+News about Catherine
+Message:
+Heute haben wir einen Handelskapitän aus Erathia getroffen. Der Krieg geht weiter, aber es scheint, dass es noch Hoffnung gibt! Königin Catherine sammelt Truppen, um die Hauptstadt zurückzuerobern, und sie hat bereits mehrere Armeen von Dämonen und Nighon Overlords verjagt! Außerdem haben AvLee und Bracada laut Gerüchten desselben Händlers die Absicht, Erathia im Kampf gegen die Dämonen zu unterstützen.
+
+Name:
+Steadwick's Liberation
+Message:
+Ein Händler aus Antagarich brachte eine gute Nachricht: Steadwick wurde befreit! Dämonen und Untergrundwesen werden in ganz Erathia gejagt, und angeblich wird das Land bald frei von ihnen sein. 	Der Händler erzählte auch ein paar Informationen über den Konflikt mit Tatalia und Krewlod und die Unterstützung, die Gavin Magnus' Truppen Erathia dort gegeben hatten, aber ich hörte ihm nicht mehr zu...	Ich hielt die Kreeganer nicht mehr für unbesiegbar. Noch immer wachte ich nachts schreiend auf, wenn ich die hässlichen Gesichter der Invasion der Übernatürlichen in meinen Träumen sah, aber wenn Menschen und Elfen in der Lage waren, sie zu bekämpfen, konnten vielleicht auch wir eines Tages mit ihnen abrechnen. Es war jedoch weder die Zeit noch der Ort, um ernsthaft darüber nachzudenken. Burtons Bedürfnisse verlangten meine ganze Energie.
+
+===== Heroes =====
+
+===== Objects =====
+
+(86, 97, 0) ***Cove***
+
+Timed events:
+
+Name:
+AI - 211 - Big bonus
+Message:
+
+
+Name:
+AI - 311 - Huge bonus
+Message:
+
+
+(96, 1, 0) ***Seer's Hut***
+Message:
+Nach dem Kampf gegen die Liche wirfst du einen vorsichtigen Blick in die Hütte. Drinnen siehst du einen riesigen Kessel und einen Geisterbeschwörer, der darin ein Gebräu zusammenmischt.	Ich habe gesehen, wie du gegen die Liche gekämpft hast", sagt der Geisterbeschwörer. Ich gebe zu, ich bin beeindruckt. Wisst ihr ... in den letzten Jahren habe ich das Verfahren zur Erschaffung neuer Arten von untoten Drachen studiert, aber die Nekromantengilde von Jadame hat diese Forschung verboten, weil sie befürchtet, dass die Drachen außer Kontrolle geraten könnten. Dummköpfe! Feiglinge! Sie haben keine Ahnung, welche Macht sie vor sich herschieben! Ich habe vor kurzem eine ganz neue Methode entdeckt, um Geisterdrachen zu erschaffen, aber ich habe nicht genug alchemistische Materialien, um damit zu experimentieren. Es ist schwer, in diesen Ländern genügend Quecksilber zu bekommen, aber ich bin sicher, dass Ihr mir helfen könnt. Als Belohnung könnte ich Euch ein paar der Geisterdrachen geben, die ich bereits erschaffen habe."
+Ich glaube, wir sprachen über Quecksilber. Ich fürchte, dass kein anderer Rohstoff für meine Experimente geeignet wäre.
+Das Quecksilber ist genau das, was ich brauche! Ich habe bereits mehrere Geisterdrachen erschaffen, und ich bin bereit, sie Euch zu überlassen. Und noch eine Sache. Wenn Ihr Knochendrachen habt, bringt sie mir, und ich... werde etwas an ihnen arbeiten.		Quecksilber an den Nekromanten übergeben, im Austausch gegen Geisterdrachen?
+Bringt mir einen Knochendrachen, damit ich ihn in eine noch mächtigere untote Kreatur verwandeln kann.
+Bringt mir einen Knochendrachen, damit ich ihn in eine noch mächtigere untote Kreatur verwandeln kann.
+ Einen Knochendrachen dem Nekromanten übergeben, um ihn in einen Geisterdrachen zu verwandeln?
+
+(27, 54, 0) ***Seer's Hut***
+Message:
+Söldner, die früher in Dargems Diensten standen, haben im Lager der Schmuggler an der Küste dieser Bucht Halt gemacht. Die Piraten sind bereit, sich eurer Armee anzuschließen, wenn ihr ihnen 16 Quecksilber, 16 Kristalle und 15000 Gold zahlt.
+Söldner, die früher in Dargems Diensten standen, haben im Lager der Schmuggler an der Küste dieser Bucht Halt gemacht. Die Piraten sind bereit, sich eurer Armee anzuschließen, wenn ihr ihnen 16 Quecksilber, 16 Kristalle und 15000 Gold zahlt.
+Werbt 15 Piraten für 16 Quecksilber, 16 Kristalle und 15000 Gold an?
+Söldner, die früher in Dargems Diensten standen, haben im Lager der Schmuggler an der Küste dieser Bucht Halt gemacht. Die Piraten sind bereit, sich eurer Armee anzuschließen, wenn ihr ihnen 24 Quecksilber, 24 Kristalle und 30000 Gold zahlt.
+Söldner, die früher in Dargems Diensten standen, haben im Lager der Schmuggler an der Küste dieser Bucht Halt gemacht. Die Piraten sind bereit, sich eurer Armee anzuschließen, wenn ihr ihnen 24 Quecksilber, 24 Kristalle und 30000 Gold zahlt.
+Werbt 15 Piraten für 24 Quecksilber, 24 Kristalle und 30000 Gold an?
+Söldner, die früher in Dargems Diensten standen, haben im Lager der Schmuggler an der Küste dieser Bucht Halt gemacht. Die Piraten sind bereit, sich eurer Armee anzuschließen, wenn ihr ihnen 32 Quecksilber, 32 Kristalle und 45000 Gold zahlt.
+Söldner, die früher in Dargems Diensten standen, haben im Lager der Schmuggler an der Küste dieser Bucht Halt gemacht. Die Piraten sind bereit, sich eurer Armee anzuschließen, wenn ihr ihnen 32 Quecksilber, 32 Kristalle und 45000 Gold zahlt.
+Werbt 15 Piraten für 32 Quecksilber, 32 Kristalle und 45000 Gold an?
+Söldner, die früher in Dargems Diensten standen, haben im Lager der Schmuggler an der Küste dieser Bucht Halt gemacht. Die Piraten sind bereit, sich eurer Armee anzuschließen, wenn ihr ihnen 40 Quecksilber, 40 Kristalle und 60000 Gold zahlt.
+Söldner, die früher in Dargems Diensten standen, haben im Lager der Schmuggler an der Küste dieser Bucht Halt gemacht. Die Piraten sind bereit, sich eurer Armee anzuschließen, wenn ihr ihnen 40 Quecksilber, 40 Kristalle und 60000 Gold zahlt.
+Werbt 15 Piraten für 40 Quecksilber, 40 Kristalle und 60000 Gold an?
+
+(36, 24, 0) ***Sign***
+Message:
+Handelsplatz der Alvarer Kaufmannsgilde
+
+(18, 32, 0) ***Seer's Hut***
+Message:
+Magische Schriftrollen können sehr nützlich sein, aber nichts geht über die tatsächliche Kenntnis eines Zaubers. In den vergangenen Jahren habe ich Magier in der Beherrschung seltener Zaubersprüche unterrichtet, und ich kann auch Euch helfen. Bringt mir eine Schriftrolle mit dem Zauber " Hypnose", und ich werde ihn euch beibringen; im Gegenzug müsst ihr mir die Schriftrolle geben. Ich weiß von den Piratenüberfällen, deshalb werde ich euch meine Dienste nicht in Rechnung stellen.
+Leider kann ich Euch ohne die richtige Schriftrolle nicht helfen.
+Perfekt! Diese Schriftrolle ist genau das, was ich brauche! Ihr wollt den Zauber Hypnotisieren lernen?
+Magische Schriftrollen können sehr nützlich sein, aber nichts geht über die tatsächliche Kenntnis eines Zaubers. In den vergangenen Jahren habe ich Magier in der Beherrschung seltener Zaubersprüche unterrichtet, und ich kann auch dir helfen. Bringt mir eine Schriftrolle mit dem Anti-Magie-Zauberspruch, und ich werde ihn euch beibringen; im Gegenzug bitte ich euch jedoch, mir die Schriftrolle zu geben. Ich weiß über die Piratenüberfälle Bescheid, deshalb werde ich euch meine Dienste nicht in Rechnung stellen.	Anti-Magie-Schriftrollen sind nicht leicht zu bekommen, aber ich habe gehört, dass der wandernde Kobold, der kürzlich meine Hütte besuchte, eine hatte. Vielleicht ist er noch in der Nähe.
+Leider kann ich Euch ohne die richtige Schriftrolle nicht helfen.
+Perfekt! Diese Schriftrolle ist genau das, was ich brauche! Ihr wollt den Zauber Anti-Magie lernen?
+Magische Schriftrollen können sehr nützlich sein, aber nichts geht über die tatsächliche Kenntnis eines Zaubers. In den vergangenen Jahren habe ich Magier in der Beherrschung seltener Zaubersprüche unterrichtet, und ich kann auch Euch helfen. Bringt mir eine Schriftrolle mit dem Zauber "Freude", und ich werde ihn euch beibringen; im Gegenzug müsst ihr mir die Schriftrolle geben. Ich weiß über die Piratenüberfälle Bescheid, deshalb werde ich euch meine Dienste nicht in Rechnung stellen.	Schriftrollen mit dem Zauber "Freude" sind nicht leicht zu bekommen, aber ich habe gehört, dass irgendwo in diesen Bergen eine verloren gegangen ist.
+Leider kann ich Euch ohne die richtige Schriftrolle nicht helfen.
+Perfekt! Diese Schriftrolle ist genau das, was ich brauche! Ihr wollt den Zauber Mirth lernen?
+Magische Schriftrollen können sehr nützlich sein, aber nichts geht über die tatsächliche Kenntnis eines Zaubers. In den vergangenen Jahren habe ich Magier in der Beherrschung seltener Zaubersprüche unterrichtet, und ich kann auch Euch helfen. Bringt mir eine Schriftrolle mit dem Klonzauber, und ich werde ihn euch beibringen; im Gegenzug müsst ihr mir allerdings die Schriftrolle geben. Ich weiß von den Piratenüberfällen, deshalb werde ich euch meine Dienste nicht in Rechnung stellen.	Klonzauber-Schriftrollen sind nicht leicht zu bekommen, aber ich habe gehört, dass eine auf einer Insel in der Bucht verloren gegangen ist.
+Leider kann ich Euch ohne die richtige Schriftrolle nicht helfen.
+Perfekt! Diese Schriftrolle ist genau das, was ich brauche! Ihr wollt den Zauber Klonen lernen?
+
+(25, 16, 0) ***Seer's Hut***
+Message:
+Ich habe in der Vergangenheit mit einer ganzen Reihe von Waffen experimentiert, aber erst kürzlich habe ich es geschafft, ein Ergebnis zu erzielen, auf das ich stolz sein kann. Leider habe ich nicht genügend Rohstoffe, um das Ding zu bauen, das ich entworfen habe, und selbst wenn, gibt es nicht viele, die bereit sind, es zu testen. Könntet ihr mir ein paar geeignete Materialien besorgen? Ich brauche eine ganze Menge Schwefel und Edelsteine sowie Gold, um meine Arbeit zu bezahlen.
+Keine Materialien? Das ist eine Schande. Wie ich höre, könnt ihr meine neuen Waffen gut gebrauchen.
+Ausgezeichnet! Ich kann sofort mit der Herstellung dieser Waffen beginnen, wenn Ihr das wünscht.
+Meine Waffen sind extrem stark, aber ich fürchte, es gibt nicht viele in euren Reihen, die sie ausprobieren wollen. Ich habe jedoch gehört, dass es unter den Söldnerpiraten einige ausgezeichnete Schützen gibt. Bringt ein paar von ihnen zu mir, und ich werde sie gerne im Umgang mit den neuen Waffen ausbilden.
+Immer noch keine Piraten? Ich habe gehört, dass es an der Küste südlich von hier ein Söldnerlager gibt. Die Leute dort sind ehemalige Piraten, die sich geweigert haben, mit Dargem zu kämpfen. Vielleicht können die euch helfen?
+ Wie ich sehe, habt Ihr die richtigen Männer gefunden, um meine neuen Waffen auszuprobieren. Wollt Ihr sie jetzt neu ausrüsten?
+
+(91, 66, 0) ***Seer's Hut***
+Message:
+Ihr betretet eine kleine, auf Stelzen stehende Hütte und findet einen Elfen, der in Fischernetzen wühlt. Er verabscheut jedoch eindeutig die Arbeit eines Fischers und sieht nicht einmal so aus; er hat einen magischen Hauch an sich.	Ich dachte, die Piraten wären zurück," sagt der Elf. "Sowohl Piraten als auch Banditen sind hier gewesen, aber was gibt es zu holen? Fische und Netze, das ist alles.	Mein einziger Schatz, die Kugel der Verwundbarkeit, ging verloren, als die Drachen meine Bibliothek angriffen. Seltsamerweise haben sie nur ein paar Dinge verbrannt, aber das Wertvollste, das ich hatte, haben sie mitgenommen. Ich habe gehört, dass geflügelte Biester das Artefakt in ihr "Utopia" auf halbem Weg von hier nach Burton gebracht haben, aber egal, wie oft ich versucht habe, in die Nähe der Drachenhöhle zu kommen, es war alles umsonst. Ich konnte es nicht einmal mit einem einzigen Drachen aufnehmen. Ich habe gesehen, wie du gegen die Piraten gekämpft hast. Wenn du meine Kugel bekommen könntest, würde ich dir gerne beibringen, was ich selbst weiß. Was haltet Ihr davon?
+Es tut mir leid, aber ich brauche die Kugel der Verwundbarkeit, sonst geht da nichts!
+Ich dachte, ich würde meine Kugel nie wieder sehen! Du sagst, die Drachen seien euch gegenüber misstrauisch? Das ist faszinierend. Wie auch immer, ich kann jetzt zurück in meine Bibliothek gehen.
+Du hast deinen Teil der Abmachung eingehalten und ich halte meinen ein.
+Es tut mir leid, aber ich kann dir nicht helfen. Nur ein wirklich mächtiger Magier kann von meinen Lektionen profitieren.
+Einen begabten Magier erkennt man sofort! Erlaube mir, dich in die Geheimnisse der Zauberei einzuweihen.
+
+(56, 107, 0) ***Pandora's Box***
+Message:
+
+
+(0, 54, 0) ***Captain***
+Name:
+Nemerthea
+
+(93, 16, 0) ***Prison***
+Name:
+Boyd
+Biography:
+In vielen Gruselgeschichten geht es um einen Reiter, der gehängt, erstochen oder sogar geköpft wurde und nun bei Nacht reitet, um sich an seinen Mördern zu rächen. Unsinn, würde ein Geisterbeschwörer sagen, ein Toter, der von selbst aufersteht, kann weder Gedächtnis noch Willen haben. Das mag schon sein, aber dann hat Boyd nicht nur mit dem Verräter abzurechnen, der ihn getötet hat, sondern auch mit dem, der ihm die Ruhe verwehrt hat.
+
+(15, 99, 0) ***Navigator***
+Name:
+Evadne
+
+(101, 80, 0) ***Navigator***
+Name:
+Swarn
+
+(73, 10, 0) ***Seer's Hut***
+Message:
+In der Krypta begegnet euch ein Zombie in dunkler Rüstung, der in Gedanken versunken ist.	Wie ich höre, bin ich nicht der Einzige, der unter den Piraten von Dargem gelitten hat. Das stimmt! Ich war einst ein Wächter bei den Karawanen der Gilde. Zeytoss, Dargems Lieblingsmagier, hat uns überfallen. Keiner überlebte den Kampf, aber bald darauf erweckte mich ein örtlicher Lich wieder zum Leben, wenn man das Leben nennen kann", dachte der Todesritter einen Moment lang nach. Jetzt kann ich nur noch auf Rache hoffen, aber ich bin schwach, und ich kann es nicht allein mit einer ganzen Piratenarmee aufnehmen. Ich weiß, dass Zeytoss vor kurzem in diesen Landen war und jeden Tag zurückkehren kann. Bring ihn zur Strecke, und ich werde dir ein oder zwei Dinge beibringen.
+Ich weiß, dass Zeytoss immer noch mit seiner Armee da draußen ist. Findet ihn!
+Du sagst, er ist weg? Na endlich!
+Der Lich, der mich von den Toten auferweckt hat, lehrte mich den Zauberspruch "Tote beleben". Ich bin sicher, du kannst ihn besser gebrauchen als ich, aber ich werde ihn nur Boyd beibringen.
+Ich werde nur mit Boyd reden! Ihr Lebenden versteht unser Leid einfach nicht.
+Aha, Boyd. Always nice to meet one like yourself. Now listen to what I'm about to tell you...
+Der Lich, der mich von den Toten auferweckt hat, lehrte mich den Zauberspruch "Tote beleben". Ich bin sicher, du kannst ihn besser gebrauchen als ich, aber ich werde ihn nur Boyd beibringen.	Ich werde nur mit Boyd reden! Ihr Lebenden versteht unser Leid einfach nicht.	Aha, Boyd. Immer schön, einen wie dich zu treffen. Hört zu, was ich euch jetzt sage...	Ich bin dabei, dieses Land zu verlassen, aber ich will nicht mit leeren Händen heimkehren. Als Zeytoss Schergen uns angriffen, hatten wir mehrere dunkle Artefakte bei uns das Schwert des toten Ritters, den Schild der gähnenden Toten, den Totenkopfhelm und die Sanduhr der bösen Stunde. Unsere Kaufleute wollten sie an einen Nekromanten verkaufen. Ich habe gehört, dass die Piraten, die unsere Wagen geplündert haben, die Artefakte für nutzlos hielten und sie einfach weggeworfen haben. Diese Dinge sind wahrscheinlich noch irgendwo hier, aber ich konnte sie nie ausfindig machen. Vielleicht habt Ihr mehr Glück?
+Habt Ihr die Artefakte immer noch nicht gefunden? Ich bin mir sicher, dass sie noch in diesen Landen sind!
+Ihr sagt, Ihr habt die Sanduhr in der Schatzkammer der Knochendrachen gefunden? Wie seltsam. Wie auch immer, diese Artefakte sind genau das, was ich brauche! Von nun an wird es kein Pirat mehr wagen, mich herauszufordern.
+Als ich noch die Karawanen der Gilde beschützte, war ich als Schwertkämpfer von nahezu unübertroffenem Können bekannt. Ich bin bereit, dir etwas beizubringen; du hast es mehr als jeder andere verdient.
+Ich werde nur mit Boyd sprechen! Ihr Lebenden versteht unsere Sorgen einfach nicht.
+ Hör zu, was ich dir jetzt sage, Boyd.
+
+(64, 102, 0) ***Sign***
+Message:
+Insel der Trolle
+
+(107, 75, 0) ***Navigator***
+Name:
+Zeytoss
+
+(65, 63, 0) ***Seer's Hut***
+Message:
+Als du dich der Hütte näherst, bleibst du unschlüssig stehen. Überall liegen Knochen und alte Rüstungen verstreut. Was ist hier passiert? Die Antwort kommt, als du Fetzen eines alten Tagebuchs in den Knochenhaufen findest.	"... alles ist noch besser gelaufen, als wir erwartet haben. Wir haben erfolgreich unsere ersten Geisterdrachen erschaffen. Unsere Brüder in der Gilde sagen immer, das sei Wahnsinn; sie glauben, die von uns animierten Drachen könnten sich gegen uns wenden. Was für ein Blödsinn! Ich wünschte, ich könnte ihre Gesichter sehen, wenn..."	 Das Schreiben nimmt ein abruptes Ende. Offenbar waren die Monster, die die Liche erschaffen haben, doch zu viel für sie. Als du dich umsiehst, bemerkst du plötzlich eine Reihe von Geisterdrachen, die auf den Klippen hocken und dich genau beobachten.	Vielleicht kann Boyd eine Zusammenarbeit mit ihnen vereinbaren?
+Die Geisterdrachen beobachten dich. Es scheint, als würden sie jeden Moment angreifen, also wäre es klug, sie nicht zu provozieren.
+Als sie erkennen, dass auch Boyd gegen seinen Willen zu einem Untoten erweckt wurde, erklären sich die Drachen bereit, sich eurer Armee anzuschließen.	Ihr macht euch auf den Weg zur Hütte, da dort vielleicht noch etwas Wertvolles zu finden ist.
+In der Hütte seht ihr verzauberte Rüstungen, die aber offenbar nur Untoten passen.
+In der Hütte seht ihr verzauberte Rüstungen, die aber offenbar nur Untoten passen.
+Willst du Boyd und seine Armee mit Rüstungen ausstatten?
+
+(22, 9, 0) ***Pirate***
+Message:
+Heute muss man nicht mehr weit gehen, um einen echten Piraten zu sehen. Einige von ihnen sind so dreist geworden, dass sie direkt vor den Mauern von Burton auf der Lauer liegen und hin und wieder auf Blei stoßen, manchmal direkt von den Türmen der Stadt. Dieser Haufen scheint jedoch neu hier zu sein und überlegt gerade, was er sich schnappen und wegrennen kann, bevor ein schweres Geschoss kommt.
+
+(102, 56, 0) ***Cove***
+
+Visiting Captain:
+Name:
+Malathi
+
+Timed events:
+
+Name:
+AI - 211 - Bonus
+Message:
+
+
+Name:
+AI - 231 - Big bonus
+Message:
+
+
+Name:
+AI - minus gems
+Message:
+
+
+(17, 68, 0) ***Sign***
+Message:
+Die Bucht von Nemerthea
+
+(18, 5, 0) ***Quest Guard***
+Message:
+Hier gibt es eine Gießerei, die jedoch von Dargems Piraten bei ihren Raubzügen zerstört wurde. Um sie wieder aufzubauen, braucht ihr 15 Erze, 10 Kristalle, 10 Schwefel und 5000 Gold.
+Leider habt ihr nicht genügend Ressourcen, um die Gießerei hier wieder aufzubauen.
+Die Ressourcen ausgeben und das Gebäude wieder aufbauen?
+
+(6, 10, 0) ***Quest Guard***
+Message:
+Hier befindet sich eine Manufaktur, die jedoch von Dargems Piraten bei ihren Raubzügen zerstört wurde. Um sie wieder aufzubauen, braucht ihr 30 Holz, 15 Quecksilber, 20 Erze und 7500 Erze.
+Leider habt ihr nicht genügend Rohstoffe, um die Manufaktur hier wieder aufzubauen.
+Die Ressourcen verwenden und das Gebäude wieder aufbauen?
+
+(31, 12, 0) ***Seaman***
+Message:
+Diese Piraten sehen völlig mittellos und ahnungslos aus und sind mit nichts als groben, kurzen Entermessern bewaffnet. Es scheint, dass Dargem sich für eine nicht enden wollende Angriffstaktik entschieden hat, um Burtons Verteidiger zu zermürben; selbst wenn keiner von ihnen getötet würde, könnte das in dem Moment auf sie zurückfallen, in dem er seine Hauptstreitkräfte zum Angriff schickt.
+
+(13, 18, 0) ***Quest Guard***
+Message:
+Hier gibt es einen Wachturm der jedoch von Dargems Piraten bei ihren Raubzügen zerstört wurde. Um ihn wieder aufzubauen, braucht ihr 50 Holz, 20 Erz und 12000 Gold.
+Leider habt ihr nicht genügend Ressourcen, um den Wachturm hier wieder aufzubauen.
+Die Ressourcen ausgeben und das Gebäude wieder aufbauen?
+
+(71, 14, 0) ***Quest Guard***
+Message:
+Diese Festung wurde bei dem letzten Piratenangriff zerstört. Du brauchst 50 Holz und 10000 Gold, um sie wieder aufzubauen.
+Diese Festung wurde bei dem letzten Piratenangriff zerstört. Du brauchst 50 Holz und 10000 Gold, um sie wieder aufzubauen.	
+Willst du die zerstörte Festung wieder aufbauen?
+
+(77, 76, 0) ***Event***
+Message:
+Eovacius bonus
+
+(99, 32, 0) ***Event***
+Message:
+
+
+(26, 6, 0) ***Factory***
+Name:
+Burton
+
+(19, 49, 0) ***Event***
+Message:
+
+
+(89, 8, 0) ***Corsair***
+Message:
+Auf der Straße begegnest du einem humpelnden Fußgänger, der aussieht wie ein Pirat, gekleidet in ein rotes, einst üppiges, nun aber zerlumptes und schmutziges Hemd. Es ist unklar, was er so weit vom Meer entfernt zu suchen hat, aber er hat sicherlich Angst. Du versuchst, mit ihm zu reden, und zunächst ist er auch bereit dazu, aber sobald du ihn fragst, wie er hierher gekommen ist, springt er auf und schlägt nach dir. Er schreit, dass er nur knapp aus dem Kerker des Toten entkommen ist und die Geheimnisse, die er dort erfahren hat, nicht preisgeben will.
+
+(48, 27, 0) ***Quest Guard***
+Message:
+Eine Gruppe von Kopfgeldjägern macht hier eine Verschnaufpause. Sie sind nicht abgeneigt, sich eurer Armee anzuschließen, aber sie verlangen Bezahlung und betonen, dass sie nur mit ihrem Kommandanten Tancred sprechen werden, der ihnen befohlen hat, hier zu bleiben. Einer der Revolverhelden bemerkt, dass Tancred zuletzt westlich von hier gesehen wurde, wo er sein Lager aufgeschlagen hatte.	
+	Die Kopfgeldjäger werden nur mit Tancred sprechen!	
+Als die Revolverhelden Tancred sehen, kommen sie auf euch zu und wollen euch ihre Bedingungen nennen.
+
+(49, 26, 0) ***Quest Guard***
+Message:
+Revolverhelden und Kopfgeldjäger sind bereit, sich deiner Armee für 20000 Gold und 20 Edelsteine anzuschließen.
+Leider verfügt ihr nicht über die nötigen Rohstoffe.
+Die Revolverhelden anheuern?
+
+(78, 78, 0) ***Prison***
+Name:
+Yzraal
+
+(96, 7, 0) ***Pirate***
+Message:
+Dieser Pirat sieht aus, als wäre er durch die Walzen im Zerkleinerungsraum der Burton-Verarbeitungsfabrik gerannt. Er kann seine Füße kaum bewegen, aber er stapft die Straße entlang mit einem Blick von unglaublicher Entschlossenheit auf seinem blutverschmierten Gesicht. Als er dich sieht, stößt er einen Schrei aus: "Er hat mich gehen lassen! Er sagte, ich könne rauskommen... Grüße Dargem von ihm... Das ist mir egal, ich werde es dir geben ... dir ein Messer in die Eingeweide rammen, wie er gesagt hat!"
+
+(47, 19, 0) ***Seer's Hut***
+Message:
+In der Hütte begrüßt dich ein mürrisch dreinblickender Zwerg. Als er dich sieht, ergreift er seine Axt, senkt aber die Waffe, nachdem er dich genau angesehen hat."Na endlich! Ich dachte, ich würde für den Rest meines Lebens nur noch die Fratzen dieser elenden Bestien sehen, aber siehe da, ein anständiges Gesicht taucht auf!", ruft der Zwerg. "Ich bitte um Verzeihung.Ich habe in den letzten Tagen nichts als Oger und Minotauren gesehen. Erlaubt mir, meine Geschichte zu erzählen. Unser Schiff war auf dem Weg von Enroth nach Jadame, als uns eine Seeschlange angriff! Bevor wir wussten, was wir tun sollten, war unser Schiff schon am Sinken. Wie durch ein Wunder schaffte ich es an Land und verbrachte die letzten Wochen damit, durch die Einöde zu wandern, bis ich auf diese .... Hütte stieß.	 Ich weiß nicht, ob jemand von der Schiffsbesatzung überlebt hat, aber mein Bruder war dort. Ich glaube, er ist noch am Leben. Vielleicht hat er es geschafft, die andere Seite der Meerenge zu erreichen. Wenn Ihr ihn finden und hierher bringen könntet, wäre ich Euch sehr dankbar.
+Wo ist mein Bruder? Ich muss ihn sehen!
+Na endlich! Ich wusste, du würdest ihn finden! Hier, nimm diesen Zaubermantel. Ich habe ihn noch nie getragen. Ich dachte, meine Rüstung würde mir auch ohne genügen. Vielleicht findest du eine Verwendung für ihn?
+
+(67, 10, 0) ***Quest Guard***
+Message:
+Bei der Überquerung eines Schlammflusses bemerkst du ein Gremlin am Ufer. Die Kreatur untersucht die magische Schriftrolle, dreht sie von einer Seite zur anderen, scheint aber kein Wort davon verstehen zu können.	Magische Schriftrollen können von großem Wert sein, aber der Gremlin hat nicht die Absicht, sie zu teilen. Eine eurer Mechaniken legt nahe, dass die Kreatur nur mit ihren Verwandten sprechen wird.
+Magische Schriftrollen können von großem Wert sein, aber der Gremlin hat nicht die Absicht, sie zu teilen. Eine deiner Mechaniken deutet darauf hin, dass die Kreatur nur mit ihren Verwandten sprechen wird.
+Bei eurem Anblick versteckt sich der Kobold im Dornengestrüpp. Es wird schwierig sein, ihn dazu zu bringen, die Schriftrolle herauszugeben.
+
+(27, 83, 0) ***Cove***
+
+Timed events:
+
+Name:
+AI - minus crystals
+Message:
+
+
+Name:
+AI - 411 - Huge bonus
+Message:
+
+
+Name:
+AI - 223 - Tavern+Castle
+Message:
+
+
+Name:
+AI - 232 - Build
+Message:
+
+
+(89, 12, 0) ***Quest Guard***
+Message:
+Diese Straße führt zu Boyds Versteck, aber er ist der Einzige, der weiß, wie man hier durchkommt.
+Diese Straße führt zu Boyds Versteck, aber er ist der Einzige, der weiß, wie man hier durchkommt.
+Wollt ihr passieren?
+
+(17, 78, 0) ***Event***
+Message:
+
+
+(74, 78, 0) ***Prison***
+Name:
+Berhanu
+
+(76, 79, 0) ***Navigator***
+Name:
+Quing
+
+(75, 79, 0) ***Prison***
+Name:
+Solendore
+
+(105, 48, 0) ***Event***
+Message:
+
+
+(107, 59, 0) ***Event***
+Message:
+Illor bonus
+
+(30, 83, 0) ***Prison***
+Name:
+Ylendore
+
+(12, 90, 0) ***Captain***
+Name:
+Bess
+
+(61, 66, 0) ***Quest Guard***
+Message:
+In den östlichen Ländern befindet sich eine Piratenfestung. Wir müssen sie einnehmen, bevor wir diese Länder weiter erforschen können.
+In den östlichen Ländern befindet sich eine Piratenfestung. Wir müssen sie einnehmen, bevor wir diese Länder weiter erforschen können.
+Wollt ihr passieren?
+
+(89, 101, 0) ***Event***
+Message:
+
+
+(73, 47, 0) ***Quest Guard***
+Message:
+In diesen Gebieten gibt es eine Piratenfestung. Boyd hat einen der Räuber gefangen genommen, und hier ist, was er zu sagen hatte: Berhanu, ein Kapitän von Dargems Flotte, ist auf dem Weg nach Norden, um das "Untotenproblem" zu lösen. Wir können nicht in den Süden gehen, solange die nördlichen Länder in Gefahr sind.
+In diesen Gebieten gibt es eine Piratenfestung. Boyd hat einen der Räuber gefangen genommen, und hier ist, was er zu sagen hatte: Berhanu, ein Kapitän von Dargems Flotte, ist auf dem Weg nach Norden, um das "Untotenproblem" zu lösen. Wir können nicht in den Süden gehen, solange die nördlichen Länder in Gefahr sind.
+ In die südlichen Länder gehen?
+
+(74, 47, 0) ***Quest Guard***
+Message:
+ Dieses Tor wurde von Elfen übernommen, aber sie scheinen nur einen bestimmten Art von Räubern oder Piraten zu sein. Sie lassen nur ihre eigenen Leute durch.
+ Dieses Tor wurde von Elfen übernommen, aber sie scheinen nur einen bestimmten Art von Räubern oder Piraten zu sein. Sie lassen nur ihre eigenen Leute durch.
+
+(68, 62, 0) ***Pandora's Box***
+Message:
+
+
+(94, 41, 0) ***Pandora's Box***
+Message:
+
+
+(73, 57, 0) ***Quest Guard***
+Message:
+Im Osten gibt es eine Piratenfestung. Wir müssen sie erobern, bevor wir hier weiterreisen können.
+Im Osten gibt es eine Piratenfestung. Wir müssen sie erobern, bevor wir hier weiterreisen können.
+Wollt ihr passieren?
+
+(45, 67, 0) ***Pandora's Box***
+Message:
+
+
+(106, 13, 0) ***Pandora's Box***
+Message:
+
+
+(98, 13, 0) ***Pirate***
+Message:
+Dieser Pirat sieht noch schlimmer aus als die ersten beiden. Er kann nicht einmal ein Wort sprechen, aber es sieht so aus, als hätte Boyd ihn losgeschickt, um die gleiche Botschaft wie die anderen zu überbringen. Er erhebt seine zitternde Hand mit einer Waffe auf euch. Seufzend stürzt ihr euch mit euren Kriegern auf ihn.
+
+(9, 48, 0) ***Event***
+Message:
+AI - bonus movement
+
+(16, 103, 0) ***Event***
+Message:
+kill astra
+
+(103, 77, 0) ***Event***
+Message:
+death
+
+(0, 71, 0) ***Quest Guard***
+Message:
+Eine magische Barriere versperrt den Eingang zur alten Pyramide, und deine Kraft reicht nicht aus, um sie zu überwinden. Auf den Steinen am Eingang sind Drachen und Schlangen abgebildet, und das Tor ist mit Inschriften versehen. Du entdeckst auch vier kleine Nischen in der Wand neben dem Tor.	 Nach einer Weile gelingt es dir schließlich, einige der Wörter zu entziffern: "Zunge", "Schild", "Wappenrock", "Halskette". Könnte es sich dabei um Artefakte handeln?
+Die magische Barriere ist immer noch an Ort und Stelle und es gibt keine Möglichkeit, sie aufzuheben.
+Sobald du dich der Pyramide näherst, verschwinden die Artefakte. Einen Moment später tauchen sie in den Nischen am Eingang wieder auf, und die magische Barriere ist verschwunden. Willst du die Pyramide betreten?
+
+(70, 4, 0) ***Quest Guard***
+Message:
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhalten Sie die Schriftrolle der Langsamkeit}
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhalten Sie die Schriftrolle der Langsamkeit}
+{Erhalten?}
+
+(71, 3, 0) ***Pandora's Box***
+Message:
+
+
+(59, 4, 0) ***Pandora's Box***
+Message:
+
+
+(80, 62, 0) ***Quest Guard***
+Message:
+Diese Straße führt westlich an der Küste entlang. Einem von Boyd gefangen genommenen Piraten zufolge will Solendore, der Elf, einer der Kapitäne von Dargem, nach Norden gehen, um das "Untotenproblem" zu lösen, und wir können erst nach Süden gehen, wenn die nördlichen Länder außer Gefahr sind.
+Diese Straße führt westlich an der Küste entlang. Einem von Boyd gefangen genommenen Piraten zufolge will Solendore, der Elf, einer der Kapitäne von Dargem, nach Norden gehen, um das "Untotenproblem" zu lösen, und wir können erst nach Süden gehen, wenn die nördlichen Länder außer Gefahr sind.
+Wollt ihr passieren?
+
+(25, 13, 0) ***Pandora's Box***
+Message:
+
+
+(24, 13, 0) ***Quest Guard***
+Message:
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhalten Sie die Schriftrolle der Langsamkeit und weitere Truppen}
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhalten Sie die Schriftrolle der Langsamkeit und weitere Truppen}
+{Receive?}
+
+(32, 11, 0) ***Quest Guard***
+Message:
+Hier gibt es eine Lehmhütte, aber Dargems Piraten haben sie bei ihren Plünderungen zerstört. Der Wiederaufbau würde 15 Holz, 10 Erz, 5 Kristalle und 3000 Gold kosten.
+Leider hast du nicht genügend Ressourcen, um die Lehmhütte hier wieder aufzubauen.
+Die Ressourcen ausgeben und das Gebäude wieder aufbauen?
+
+(94, 15, 0) ***Event***
+Message:
+Nach all den Geschichten, die ich über den grimmigen, toten Rächer gehört hatte, erwartete ich von einem Treffen mit ihm so ziemlich alles, nur nicht so ein... lebhaftes Geschwätz. Als ich in die Halle trat, in der Boyd saß, begann er eine Schimpftirade über seine unendliche Wertschätzung für ungebetene Gäste. Sobald er mich jedoch näher betrachtete, brach er in einen Schwall von Komplimenten, Witzeleien und Scherzen aus, die nur knapp an der Grenze zur Unflätigkeit lagen. Sogar das Licht in einer seiner Augenhöhlen verblasste hin und wieder für einen Moment, als ob er mir zuzwinkern würde.	Bald jedoch veränderte sich Boyd schlagartig, und zwar in dem Moment, als ich Dargem zum ersten Mal erwähnte. Bis zu diesem Moment konnte ich meine Augen schließen und mir problemlos vorstellen, mit einem fröhlichen Mann zu sprechen, der vor Energie und Freude an allem, was ihn umgab, strotzte; doch als Dargems Name genannt wurde, wurden Boyds Augenhöhlen zu düsteren Höhlen, sein satter Bariton wich dem Pfeifen eines kalten Windes, vermischt mit dem Rasseln von Knochen, und seine Finger begannen mit einem unangenehmen Knirschen an den Armlehnen seines Stuhls zu kratzen.	"Wenn du diesen stinkenden Mistkerl loswerden willst, werde ich alles tun, um dir zu helfen. Er weiß nicht, was ich durch ihn geworden bin; welche Macht ich durch die Ausstrahlungen von Qualen in meinen Knochen gewonnen habe. Aber versprich mir eines: Sobald wir den Schuft in die Enge getrieben haben, wirst du ihn mir überlassen! Seit meinem Aufenthalt auf seinem Schiff ist viel Zeit vergangen, und er ist mehr als nur ein geschäftstüchtiger Kapitän geworden - er hat jetzt sein eigenes kleines Reich von Räubern, das er "Fürstentum" nennt. Er wird keinen Fuß aus seiner Burg setzen, wenn er weiß, dass wir ihm auf den Fersen sind, aber sobald wir ihm auf die Pelle rücken...wird er sich umdrehen. Und dann werden wir zuschlagen."	Zum ersten Mal in meinem Leben spürte ich, wie mir die Füße einfroren. Jetzt wusste ich, wie die Geschichten über den grässlichen toten Rächer entstanden waren. In der Tat: Man hatte ihn nur gesehen, wenn er auf der Jagd nach seinem Mörder war, und in diesem Zustand war er wirklich furchteinflößend. Natürlich hatte niemand jemals versucht, Boyd in seinem toten Anwesen zu besuchen - und niemand wusste, wie sehr diese unruhige Seele gequält wurde und wie er immer wieder starb, wenn er sich an seine letzten Tage in der Gewalt dieses unbarmherzigen Schurken erinnern musste.
+
+===== End of file =====

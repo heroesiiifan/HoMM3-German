@@ -1,0 +1,305 @@
+===== Map name =====
+Welt in Flammen
+
+===== Map description =====
+Henrietta und Frederick müssen die Kugel des rasenden Feuers zu Fredericks Labor bringen. Eure Helden sind auf Stufe 6 beschränkt, aber Henrietta und Frederick nehmen den Manaanhänger und das Halsband der Beschwörung mit in das nächste Szenario.
+
+===== Rumors =====
+
+Name:
+Shooting Stars
+Text:
+Ich habe noch nie so viele Sternschnuppen gesehen wie heute!
+
+Name:
+Demons
+Text:
+Es scheint, dass die Dämonen zurückgekehrt sind! Habt ihr gehört, dass sie einige Dörfer im Süden niedergebrannt haben?
+
+Name:
+Frederick Clues
+Text:
+Es heißt, ein Totenbeschwörer habe sich in unserem Land niedergelassen.
+
+Name:
+Liston comes to Eeofol
+Text:
+Vor einigen Tagen besuchten einige Zauberer unsere Taverne! Sie fragten nach jemandem und machten sich dann auf den Weg in die Berge.
+
+Name:
+Automatons Clue
+Text:
+Man sagt, dass in den Bergen Eisenspinnen leben! Ich schwöre, dass sie von dem verrückten Zauberer erschaffen wurden, der in der Nähe unseres Dorfes sein Zuhause hat.
+
+Name:
+End is near
+Text:
+Die Mythen haben uns davor gewarnt! Das Ende ist nah!
+
+Name:
+Land of the Giants
+Text:
+Wenn jemand die Dämonen beherrscht, dann sind es unsere großen Nachbarn, die Titanen und die Drakonier. 
+
+===== Timed events =====
+
+Name:
+Night of Shooting Stars - Part I
+Message:
+Es scheint, als würde diese Nacht niemals enden. Benommen stand ich auf der kahlen Hügelkuppe über dem Dorf und konnte meinen Blick nicht von den Feuerstreifen abwenden, die den Himmel über Eeofol durchschnitten; sie waren so grell, dass ich nicht bemerkte, wie einige von ihnen erloschen und andere aufleuchteten. Dann bemerkte ich, dass sie gar nicht erloschen, selbst nachdem ich meine Augenlider gesenkt hatte. Der Tag brach an, aber ich konnte immer noch nur ein Durcheinander von dunklen und hellen Strichen sehen. Frederick hatte mir gesagt, ich solle nie direkt in die Sonne schauen, um mein Augenlicht nicht zu schädigen, aber er hatte nie erwähnt, dass genau so ein gleißendes Licht auch nachts vom Himmel fallen konnte. Ich presste meine Handflächen an mein Gesicht und stürzte fast blind den Hang hinunter in Richtung des Baches. Ich glaube, ich habe geschrien. Ich hatte Angst.
+
+Name:
+Night of Shooting Stars - Part II
+Message:
+Das kühle Wasser half mir. Mein Augenlicht kehrte zurück, aber die Angst blieb - es fühlte sich an, als ob diese blendende Flamme mich innerlich verbrannte. Als ich wieder sehen konnte, bemerkte ich, dass die Sterne, deren Schweife so hell am Nachthimmel leuchteten, nicht in der Luft verglühten. Sie bahnten sich ihren Weg zum Boden, wie riesige schwelende Felsen, seltsam langsam, und scheinbar nicht weit von hier entfernt, gleich hinter den Hügeln. Dann brachte der Wind einen schwachen Geruch von Rauch - nicht wie der morgendliche Geruch von Öfen in Häusern.	In den letzten Jahren hatte ich mir angewöhnt, Fragen zu stellen, dann hatte ich es verlernt, und schließlich beherrschte ich diese Kunst wieder. Als ich einem Mann begegnete, der weit mehr über die Welt wusste, als ich mir vorstellen konnte, wollte ich ohne Ende fragen stellen - ich war neugierig auf alles. Dann wurde mir plötzlich klar, dass ich zu viel Unsinn fragte. Frederick versuchte, sich das nicht anmerken zu lassen, aber sein Unmut machte sich manchmal bemerkbar und er schickte mich weg. Es gab keine schlimmere Strafe, als von einem Labor voller Wunder in eine Scheune voller zerbrochener Harken und schmutziger Jutesäcke zurückzukehren. Ich begann nachzudenken, bevor ich den Mund aufmachte - und ich glaube, ich lernte langsam, die richtigen Fragen zu stellen. Eine dieser Fragen wollte ich jetzt stellen: Können Felsen, die der Sonne so ähnlich sind, vom Himmel fallen?
+
+Name:
+Frederick
+Message:
+Ich musste Frederick finden. Nichts konnte jetzt wichtiger sein als das. Nicht wegen des Teleskops - nun, alles, was vom Himmel fallen konnte, hatte dies bereits getan... Es war nur mein Herz, das mir sagte, dass es besser wäre, jetzt an seiner Seite zu sein. Jedes Wissen, das er besaß, sogar die Überlieferungen, die ihn bei unseren Mitmenschen so gefürchtet machten, könnten heute nützlich sein.	Solange ich denken konnte, war ich immer allein gewesen und hatte mit Opa Haye in einer Scheune gelebt. Er war nicht mein eigener Großvater - das wusste ich irgendwie -, aber er gab mir trotzdem zu essen, gab mir Kleidung und ließ mich im Winter in seinem Haus am Ofen schlafen, aber den Rest der Zeit war ich lieber allein. Frederick trat in mein Leben, als ich... hmm, nun, ich weiß nicht einmal, wie alt ich jetzt bin. Das war das erste Mal, dass ich mich in die Hügel hinter unserem Hain wagte und ein großes neues Haus sah, und daneben einen beunruhigend großen Mann und zwei kleinere, die wie Halblinge aussahen, aber anders, grauhäutig. Dann erfuhr ich, dass diese kleinen Menschen "Gremlins" genannt wurden und dass sie nicht wirklich menschlich waren, aber Frederick weigerte sich, meine weiteren Fragen zu beantworten, und ich sah die Gremlins nie wieder. Und dann, vielleicht aus Angst vor dem Unbekannten, erstarrte ich und ließ mich fangen - obwohl ich mich im Wald vor jedem hätte verstecken können. Frederick erkannte, dass ich nicht zu der Sorte Mensch gehörte, die ihn in diesen Teil des Waldes vertrieb, und er ließ mich manchmal zu ihm kommen. Ich schätze, er brauchte ein paar lebende Ohren, um sich seine verrückten Hypothesen anzuhören - und es war ihm egal, dass ich ein dummes kleines Mädchen war, das nicht einmal ihre Finger zählen konnte.	Ich blieb wochenlang im Labor, denn im Dorf vermisste mich sowieso niemand. Meine dünnen Hände waren oft genau das, was Frederick brauchte. Manchmal bat er mich, in eine komplizierte Maschine hineinzukriechen, um einen geplatzten Schlauch zu finden oder den Verschleiß eines Getriebes zu überprüfen. Was für eine Freude, wenn ich helfen konnte und der zusammengebaute Mechanismus anfing zu zischen und sich zu drehen - obwohl ich nicht die leiseste Ahnung hatte, was da passierte. Er hingegen wusste immer, was passieren würde und warum es funktionieren sollte.	Ich muss Frederick finden. Es gab in dieser Gegend kaum jemanden, der mit dem Ungewöhnlichen umgehen konnte.
+
+Name:
+Halflings and Demons
+Message:
+Viele, die nicht an die Gefahren geglaubt hatten, öffneten nun die Augen, aber es gab auch viele, die den Ärger ignorierten, auch wenn er an ihre Tür klopfte. Der Unterschied? Die einen hatten bereits gesehen, was die himmlischen Gäste mit den lebenden Wesen anstellten, während die anderen es erst noch erfahren mussten. Es war jedoch zu spät für sie, klüger zu werden; von den Hügeln aus konnte ich sehen, wie die Kreaturen die Höfe überrannten, die wir zurückgelassen hatten. 	Zum ersten Mal in dem Jahrzehnt, das seit der letzten Missernte vergangen war, war im Leben der Halblinge etwas Größeres passiert als ein neues Rübenrezept... Und ich hätte nie gedacht, dass es so viel Kummer mit sich bringen würde. Frederick, wo bist du?
+
+Name:
+Uncle Kett
+Message:
+Der Albtraum kam bei Tageslicht. Es war, als wollte man aufwachen, konnte es aber nicht, weil man schon wach war. Hellwach und ungläubig. Dinge, die noch vor ein paar Tagen so wichtig waren, schienen einfach weg zu sein, umhüllt von Nebel. Im Laufe dieser Tage wuchs die imaginäre Gefahr zu einem sehr realen Schrecken heran. Mehrere Dörfer im Norden waren verschwunden, als hätte es sie nie gegeben - die Nachricht wurde von den Überlebenden gebracht, die Glück hatten. Der Gestank von Feuer und Schwefel war nun allgegenwärtig, und jede Regung im Gebüsch löste Bestürzung aus.	Im Morgengrauen trafen wir auf einige Flüchtlinge. Die Halblinge - einen erkannte ich als den Ältesten eines Dorfes, das eine halbe Tagesreise entfernt lag - sahen sich verwirrt um und wussten nicht, was sie tun sollten.	"Onkel Kett! Wie hast du es hierher geschafft?", rief ich ihm zu. "Erzähl mir nicht, dass du die ganze Nacht durch den Wald gerannt bist, direkt von deiner Farm hierher ... oder doch?"	"Na ja, wenn dir jemand die Tür aufbricht, dann kommst du nicht nur aus dem Bett, sondern auch aus der Hose! Also ja, wir sind abgehauen... Wir müssen Leute versammeln, das denke ich!"	"Wer hat euch verjagt? Goblins, wie vor fünf Jahren?"	Ich kannte die Antwort schon, aber irgendwie hoffte ich, Kett würde etwas anderes sagen.	"Teufel... mit ein paar großen alten Hörnern. Ich weiß nicht genau, was sie waren", sagte der Älteste verlegen. "Sie haben meinen Hund sofort umgebracht... er hat so furchtbar gewinselt. Dann traten sie die Tür ein. Und ich bin aus dem Fenster gesprungen; ich hatte keine Zeit mehr, mich anzuziehen. Sie standen in einem Ring um den Hof herum. Ich weiß nicht einmal mehr, wie ich an ihnen vorbeikam. Später habe ich im Wald noch jemanden getroffen. Aber ich fürchte, das sind wir alle, und die anderen werden wir nie sehen..."
+
+Name:
+Frederick and Henrietta - Part I
+Message:
+Ich wurde oft beschimpft und als Abenteurerin abgestempelt. Aber was sind Abenteuer? Geschichten von glorreichen Helden und Drachentötern, die von reisenden Barden in Tavernen vorgetragen werden? Sicher, ich hörte ihnen gerne zu, aber sie erwähnten nie die Müdigkeit, die blutigen Füße, den Gestank der Leichen oder die Schreie der bei lebendigem Leib Gefressenen, die die ganze Nacht durch den Wald hallten. Die Dämonen waren auf der Jagd. Die Dörfer reichten ihnen nicht mehr aus - auch diejenigen, die im Wald Schutz suchten, waren nun in Gefahr. Frederick und ich verbrachten die Nacht damit, am Feuer zu sitzen, in die Flammen zu schauen und dieselben langsamen, nichtssagenden Bemerkungen wiederzukäuen. Wir waren so erschöpft, dass wir uns nicht einmal zum Schlafen aufraffen konnten. Wenn das ein Abenteuer war, dann kann ich Ihnen versichern, dass ich nie ein Abenteuer wollte.	Am Morgen waren wir uns einig: Hier gibt es für uns nichts zu tun. Wir müssen das Tal sofort verlassen.
+
+Name:
+Frederick and Henrietta - Part II
+Message:
+Als die Sonne hoch stand, war die Benommenheit, in die wir in der vergangenen Nacht gefallen waren, endlich verflogen. Wenigstens sprach Frederick wieder so schnell und energisch wie zuvor, und sein Auge nahm auch die kleinsten Details in diesem Chaos wahr. 	"Henrietta, ich möchte mich noch einmal bei dir bedanken. Es scheint, als wüssten die Fremden mehr über Dämonenkunde als die gesamte bracadische Akademie. Sie beschwören bereits einige ziemlich mächtige Kreaturen aus der Elementarebene des Feuers, und ich glaube nicht, dass sie dafür monatelange Rituale, seltene Reagenzien oder die günstige Position von Himmelskörpern benötigen. Wenn wir noch länger zögern... Ich möchte es nicht erleben, dass Eeofol durch Portale und Tore in einen Ort verwandelt wird, an dem es schön warm ist, wie dort, wo diese Kreaturen herkommen. Wisst ihr, einige von ihnen bevorzugen es, in aktiven Vulkanen zu leben, und Eeofol ist voll von feuerspeienden Bergen, die einst schliefen, aber wieder zum Leben erweckt werden können.
+
+Name:
+Last day
+Message:
+Die ganze Nacht hindurch raschelte, zischte und murmelte etwas um das Lager herum. Es waren die kleinen Diener der gehörnten Kreaturen - Imps und Vertraute. Wir versuchten, sie zu verscheuchen, indem wir explodierende Geschosse in die Dunkelheit schossen, aber ohne Erfolg.... Am Morgen schlichen die abscheulichen Kreaturen bereits fast unbemerkt und ohne Angst umher. In ein paar Stunden würde diese Horde auch die letzten Winkel unseres Teils von Eeofol überrennen. Es war völlig klar: Wenn wir das Tal heute nicht verlassen würden, wäre alles verloren.
+
+===== Heroes =====
+
+===== Objects =====
+
+(21, 6, 0) ***Quest Gate***
+Message:
+Frederick hatte Henrietta vor langer Zeit den Schlüssel zu seinem Laboratorium anvertraut, aber heute ist sie überrascht, ein weiteres Paar Riegel am Tor vorzufinden, durch die der Bügel eines schwerfälligen Schlosses gezogen ist. Es hat nicht den Anschein eines Schlitzes, und alle Versuche, einen geheimen Knopf zu finden, sind vergeblich. Wahrscheinlich kennt nur der Wissenschaftler selbst sein Geheimnis.
+Alle Versuche, das schwere Schloss zu öffnen, sind vergeblich. Der Bügel ist so dick, dass selbst der Versuch, ihn abzusägen, Stunden, vielleicht sogar Tage dauern würde. Selbst wenn das Schloss aus massivem Gold gegossen wäre, als Belohnung für die hartnäckigsten Einbrecher, ist jetzt keine Zeit für solche Dummheiten.
+Friedrich drückt seine Handfläche gegen das Schloss, und es zittert. Seine Finger formen eine Figur und berühren das Schloss erneut, mehrere Male. Etwas klickt im Inneren; der Bügel verschwindet, als wäre er flüssig geworden, im Inneren des Gehäuses. Frederick schwingt das Tor auf und lädt alle ein, ihm zu folgen.
+
+(14, 20, 0) ***Rogue***
+Message:
+Wir folgten den Spuren, und bald führten sie uns zu einer Lichtung, auf der ein paar zerlumpte Männer herumstapften. Sie sahen aus wie Räuber, und sie konnten auch kaum etwas anderes sein. Sie sammelten eilig ihre Habseligkeiten zusammen.	Ein schlaksiger, dürrer Mann erklärte dem Anführer etwas, der etwas besser gekleidet war als die anderen. Der große Mann drehte sich bei dem Lärm um, schrie und zeigte mit dem Finger auf uns. Der Rädelsführer nickte und zog sein Schwert.	"Ich habe es euch gesagt!", rief der schlaksige Mann, "ihr hättet uns nicht verfolgen sollen!"
+
+(13, 26, 0) ***Arch Devil***
+Message:
+Ich glaube, ich habe den Verstand verloren, weil ich dachte, wir könnten mit dieser Dämonenbande fertig werden. Ich merkte zu spät, dass mein Impuls Wahnsinn war; sie entdeckten uns, und es war zu spät, um wegzulaufen....
+
+(20, 7, 0) ***Sign***
+Message:
+Experimentelle Wartungswerkstatt. Eigentum des Bergbauunternehmens. Zurzeit werden keine Mitarbeiter eingestellt.
+
+(17, 13, 0) ***Halfling***
+Message:
+"Was machst du hier, Weibsstück? Ich habe gehört, du siehst dir gerne seltsame Dinge an, also geh da rüber... Gefällt dir der Anblick? Hm? Stolziert die ganze Zeit durch die Gegend und schaut nicht ein einziges Mal auf das, was ihr zu Füßen liegt; nein, sie starrt viel lieber in den Himmel, und jetzt ist ein Geschenk von dort heruntergefallen... Erinnerst du dich an die Anhängevorrichtung dort drüben? Jetzt ist dort, wo sie war, ein Loch im Boden, so groß wie ein Tor, und die Pferde sind alle weg..."	"Sie und ihr Zauberer haben uns Unglück gebracht... Nicht einmal der alte Aiker kann sich daran erinnern, dass von dort oben etwas heruntergefallen ist, und er ist alt genug, um einen lebenden Riesen gesehen zu haben ... wenn sich der alte Geier das nicht nur einbildet ..."	"Das ist schwarze Magie, das sage ich auch! Der Böse griff mit seiner Magie vom Berg herab und riss ein Stück vom Firmament ab! Zum Glück ist niemand verletzt worden..."
+
+(16, 15, 0) ***Halfling***
+Message:
+"Was für ein Knall! Ich schwöre, meine Fensterläden sind gegen die Wand geknallt und zu Bruch gegangen...."
+
+(14, 12, 0) ***Event***
+Message:
+Der Gehörnte liegt auf dem Boden, zwischen den Augen mehrmals von schweren Schleudergeschossen getroffen. Sein Kopf ist gebrochen, ein Horn abgebrochen. Was gestern noch undenkbar schien, besprenkelt heute unser Land mit seinem stinkenden Blut. Eine Bestie, so scheint es, aber nein, keine Bestie. Seine Augen waren zu intelligent, bis sie verblassten. Kein Elementargeist, kein Mensch, keine magische Kreatur. Und Stille ringsum. Nichts mehr, worüber man streiten konnte.	"Wir sollten sofort alle über diese Teufelei informieren!"	"Wie viele von ihnen streifen jetzt durch die Wälder und zertrampeln unsere Pilze!"	"Wir müssen einen Hinterhalt vorbereiten!", hörte ich von den Halblingen, die sich um die besiegte Kreatur scharten. Plötzlich verstummte das Getrappel, und ich spürte ein Dutzend intensiver Blicke.	"Henrietta, du kennst alle Wege hier! Du bist die Einzige, die weiß, wo alle Dörfer sind!"	Was für eine Tortur es für sie ist, über die Grenzen ihres Heimatdorfes hinauszugehen. Ihr ganzes Leben lang hatten sie sich vor Fremden gefürchtet, und hier war ihre Angst zum Ausdruck gekommen. Selbst tot brachte er sie zum Schwitzen, aber jetzt standen sie mit hoch erhobenem Kinn da und spuckten auf den braunen Kadaver. Wenn es da draußen mehr als einen von ihnen gibt...	"Nun, Jungs, wo einer ist, sind bestimmt noch mehr, oder? Holen wir lieber ein paar schwere Steine und gehen wir zusammen!", Kosta, ein älterer Fuhrmann, der über die Pferde klagte, warf seinen Hut auf den Boden. "Ich will diese versengten Schweine für meine Ponys bezahlen lassen! Zeig mir den Weg, Mädel - können wir nicht durch die Wälder zu den hohen Klippen gehen?"
+
+(5, 20, 0) ***Seer's Hut***
+Message:
+Hier haben Sie Ihren Vorrat an Feuerwerkskörpern gelagert. Eigentlich haben Sie diese für die Feierlichkeiten aufbewahrt, aber jetzt werden sie anderweitig nützlich sein. Alles, was wir brauchen, sind Freiwillige, die sie scharf machen.
+Ihr müsst noch ein paar Freiwillige finden.
+Die Freiwilligen waren anfangs etwas misstrauisch gegenüber der neuen Waffe, aber jetzt scheinen sie sie sogar noch besser zu finden als die normalen Felsen. Sie haben ihre Schießkünste deutlich verbessert!	Willst du die Freiwilligen alle bewaffnen?
+
+(11, 18, 0) ***Demon***
+Message:
+Diese Kreaturen sahen einfacher aus als die in der Grube - sie hatten keine Metallverzierungen an ihren Pfoten und nur ein Horn, dick und kurz. Sie stießen ruckartige, dumpfe Geräusche aus, als ob sie sich gegenseitig anbellen würden, aber ich konnte sehen, dass sie sich viel besser verstanden als Hunde. Sobald das Rudel uns jedoch entdeckte, hörte der Streit auf. Mit ihren Hufen, die sich in den Boden gruben, stürzten sich die Geschöpfe in den Kampf.
+
+(9, 21, 0) ***Halfling***
+Message:
+Oh, ich kann es nicht glauben: endlich ein paar vertraute Gesichter! Als wir morgens Salpeterwasser zum Düngen der Gärten holen wollten, waren da diese Gehörnten - wir sind nur knapp entkommen! Lasst uns gemeinsam gehen...
+
+(0, 25, 0) ***Halfling***
+Message:
+Niemand schien mich in diesem Haus zu beachten. Die alte Frau deckte den Tisch, und die Kinder spielten am Herd.	"Hat dich dieser Feredrich zu solchen Torheiten angestiftet? Trau diesem Teufel nicht! Was macht er denn auf dem Friedhof? Verzaubert er die ausgegrabenen Gräber? Mit ihm bist du verloren, genau wie deine Taugenichts-Mutter. Tut, tut. Setz dich zu uns und iss mit uns. Ich kann doch einen Gast nicht hungern lassen, oder? Es gibt nicht viel, nur gedünstete Rüben, aber immerhin ein Abendessen. Denk nur nicht daran, uns deine Albernheiten aufzuschwatzen. Wir gehen nirgendwo hin, wir haben viel zu tun. Es gibt keinen Grund dazu."	Ich sah ein, dass Worte nichts nützten, aber ich lehnte das Essen nicht ab. Die alte Frau hatte etwas über meine Mutter gesagt, aber ich erinnerte mich nicht an sie, und niemand hatte mir je ein Wort über sie erzählt. Ich versuchte, sie während des Essens zum Reden zu bringen, aber die alte Frau tat so, als sei sie taub.
+
+(6, 32, 0) ***Event***
+Message:
+-move for AI
+
+(6, 33, 0) ***Event***
+Message:
+-move for AI
+
+(10, 32, 0) ***Devil***
+Message:
+Auf dem Weg dorthin versuchte ich, mich irgendwie zu unterhalten, um nicht in Entsetzen und Verzweiflung zu verfallen. Ich malte mir im Geiste das Bild eines strengen Schmieds aus, der die schreienden, gehörnten Kreaturen beschlägt. Die Realität übertraf alles, was ich mir hätte vorstellen können; dort, auf dem ehemaligen Dorfplatz der Trockenen Hügel, sah ich... ihn.	Das Wort "Teufel" kam mir in den Sinn, denn laut dem betrunkenen Mönch, dessen Tiraden ich einst in der örtlichen Taverne zugehört hatte, gab es nichts Schrecklicheres als den Teufel, weder in dieser noch in der anderen Welt. Der mit gedrehten Hörnern gekrönte Kopf des zweibeinigen Wesens war sogar über den Dächern zu sehen; jeder Klauenfuß schien in der Lage zu sein, einen Halbling mit Leichtigkeit zu umschließen und zu zerquetschen; und in seinen Händen glitzerte eine Sense, mit der man sicher einen kleinen Wald abholzen konnte. Da wurde mir klar: Die Gehörnten haben keine Hufschmiede. Der Teufel wedelt nur mit dem Finger nach ihnen, und sie stürzen sich darauf, sich gegenseitig oder sogar sich selbst zu beschlagen, indem sie um Hammer und Nägel kämpfen.			Offenbar hat das, was ich gesehen hatte, meinen Verstand gestört; ich versuchte, am Rande des Wahnsinns zu bleiben, während er mir immer absurdere Visionen zuwarf. Meine Begleiter erzählten mir später, dass ich lachte und schrie: "Holt euch längere, schärfere Nägel!", als sie mich in die Büsche abseits der Straße zerrten.	"Na, na, Kleines", murmelte Kosta und versuchte, mich zu beruhigen. "Sicher, das ist ein großes Tier, ja, ein böses Tier - aber ich werde es mit dem Feuerwerkskörper direkt ins Auge treffen, und dann werden wir sehen, wer die roteste Nase im Dorf hat! Leert eure Taschen, Jungs! Wir werden dem Teufel zeigen, wie man das neue Jahr auf unsere Art feiert!"		
+
+(8, 32, 0) ***Event***
+Message:
+In Fredericks Nachricht war von "Namen und Gesichtern aus der Vergangenheit" die Rede, und er war auf dem Weg nach Süden... Ich nahm an, dass er alte Bekannte treffen wollte, und wenn dem so war, konnten sie sich nur hier treffen, in Dry Ryehill, einem Ort, an den Außenstehende kamen, um Handel zu treiben, und an dem sie weniger gemieden wurden als in anderen Dörfern des Tals.	Eine Meile vom Dorf entfernt war bereits klar, dass es verschwunden war. Diejenigen, die hierher kamen, hungerten nicht nur nach dem Töten, sondern auch nach dem Verwüsten... Oder war es vielleicht ein verdrehtes, fremdartiges Konzept der Kreaturen? Was ist, wenn diese Kreaturen genauso glücklich sind, einen Haufen verbrannter Baumstämme zu betrachten wie ein Halbling eine neue, liebevoll bemalte Scheune? Und die zu einer geschmolzenen Kruste verbrannte Erde ist ihnen so lieb wie Opa Haye seine handgepflügten Lieblingsgärten mit riesigen Karotten?	Und wenn sie die Menschen, die hier lebten, überrumpelt haben, was haben sie mit ihnen gemacht?
+
+(0, 28, 0) ***Seer's Hut***
+Message:
+Das Familienoberhaupt, der ehrenwerte Odo Two Aulns, hörte mich an, zuckte aber nicht mit der Wimper.	"Dein Abenteurertum wird dir nichts nützen, Henrietta. Ich glaube, du denkst dir das alles nur aus, aber du kennst mich ja", grinste Odo, "zu einem jungen Burschen kann ich nicht nein sagen - ich würde ein paar meiner Jungs mit dir gehen lassen, aber da du sagst, dass es hier solche Schrecken gibt, kann es nicht schaden, wenn wir uns schützen, oder? Ich sag euch was: Bringt den Ältesten von Dry Ryehill dazu, uns den Anhänger der Leidenschaftslosigkeit zu leihen, dann können wir geschützt bleiben und diese Menschen beschützen."
+Das Familienoberhaupt, der ehrenwerte Odo Two Aulns, hörte mich an, zuckte aber nicht mit der Wimper.	"Dein Abenteurertum wird dir nichts nützen, Henrietta. Ich glaube, du denkst dir das alles nur aus, aber du kennst mich ja", grinste Odo, "zu einem jungen Burschen kann ich nicht nein sagen - ich würde ein paar meiner Jungs mit dir gehen lassen, aber da du sagst, dass es hier solche Schrecken gibt, kann es nicht schaden, wenn wir uns schützen, oder? Ich sag euch was: Bringt den Ältesten von Dry Ryehill dazu, uns den Anhänger der Leidenschaftslosigkeit zu leihen, dann können wir geschützt bleiben und diese Menschen beschützen."
+
+(15, 31, 0) ***Halfling***
+Message:
+Nach dem Kampf gegen den Teufel durchsuchten wir jeden Winkel von Dry Ryehill. Ich befürchtete, dass Fredericks verbrannter und verstümmelter Körper aus den Trümmern auftauchen würde. Wir fanden jedoch keine Leichen im Dorf, aber wir sahen viele Spuren, als ob die Besitzer der großen Hufe etwas hinter sich herziehen würden. Die Spuren führten an den östlichen Rand des Dorfes, und der nahe gelegene Wald war bis auf die Grundmauern niedergebrannt.	Plötzlich kam zwischen den schwarzen, hässlichen, toten Bäumen eine kleine Gruppe von Halblingen direkt auf uns zugerannt.	"Da! Da!..." kreischten sie und rannten in einem gleichmäßigen Galopp. Mir gelang es, einen rothaarigen Jungen mit einem verrückten Blick zu fangen, und meine Gefährten schnappten sich die anderen. Der Rothaarige schnappte nach Luft und platzte heraus:	"Sie haben unsere Leute entführt, und jetzt richten sie sie hin, und zwar nicht zu Tode, sondern noch schlimmer! Hilfe, ihr guten Menschen, lasst nicht zu, dass die Bösen so etwas tun! Das ist ein Schicksal, schlimmer als der Tod, schlimmer als alles auf der Welt...", und er brach in Tränen aus.		Übersetzt mit DeepL.com (kostenlose Version)
+
+(28, 15, 0) ***Quest Gate***
+Message:
+Dieser Bergpfad führt zu Fredericks Fabrik. Er ist der Einzige, der weiß, wie man dorthin kommt.
+Dieser Bergpfad führt zu Fredericks Fabrik. Er ist der Einzige, der weiß, wie man dorthin kommt.
+Wollt ihr passieren?
+
+(23, 31, 0) ***Event***
+Message:
+"Du lebst!"	"Ja, ich lebe, und ich würde sehr gerne wissen, welchen bracadischen Dämonologen ich verärgert habe. Ich bin noch nie einem begegnet. Was für ein Fehler."	Ich wusste nicht, wovon Frederick sprach, aber ich war so froh, ihn lebendig zu sehen, dass ich nicht einmal versuchte, ihn etwas zu fragen. Wie immer fütterte er mich mit einem Berg von Gedanken und Vermutungen, als wäre ich morgens in seinem Labor aufgetaucht und er konnte es kaum erwarten, mir zuzuhören, um mir mitzuteilen, was er in seinem Kopf vorhatte...	"Vor einiger Zeit erhielt ich einen Brief, der von Khazandar persönlich unterzeichnet war - ich glaube, ich habe Ihnen schon von ihm erzählt ... der freieste Geist Bracadas, wofür er früher oder später sicher bezahlen wird. Ich hatte nichts mehr von ihm gehört, seit ich diese Länder verlassen hatte, aber vor ein paar Jahren fand mich ein Bote von ihm, und wir traten in Briefkontakt. Es schien, als ob unsere Verbindung nun entdeckt worden wäre. Die Unterschrift in seiner letzten Nachricht schien mir gefälscht zu sein; ich beschloss, dass ich, wenn ich tatsächlich gefunden worden war, zuerst handeln sollte. In dem Brief wurde ein Treffen vorgeschlagen; Khazandar wollte mir angeblich ein entscheidendes Bauteil für ein bestimmtes Experiment schicken ... aber in Dry Ryehill warteten Dämonen auf mich - das sind Kreaturen aus einer anderen Existenzebene, du hast sie gerade gesehen! Jemand hat sie herbeigerufen, aber die Kontrolle vernachlässigt, also haben sie mich gefangen genommen und dabei das halbe Dorf umgebracht!"	"Frederick ... diese Dinger ... sie wurden nicht herbeigerufen. Zumindest nicht von den Zauberern."	"Nicht von den Zauberern? Wie kommst du denn darauf? Das waren doch archetypische Dämonen - ich hatte ausgestopfte im Museum der Akademie gesehen!"	"Sternschnuppen. Sie sind aus den Steinen entstanden, die in jener Nacht vom Himmel fielen."	Friedrich verzog das Gesicht, er begann zu argumentieren, aber ich führte ihn einfach zu dem Ort, an dem die Kreaturen ihr Ritual durchführten, und zeigte ihm den riesigen Krater am Rande des Dorfes; der Stein, der dort heruntergefallen war, war so groß, dass ein Teufel hineinpassen könnte, vielleicht sogar mehrere. Der Felsen war aufgesprungen, und die Risse offenbarten etwas Seltsames und Unnatürliches. Entweder ein Gewirr von kantigen Rohren oder...	"Wenn das nur die Alchemisten Widman und Statten gesehen hätten! Ich will gar nicht darüber nachdenken... Ich meine, ich habe vermutet, dass es kein echter Meteoritenschauer war. Moment, es war also ein Zufall? Khazandars Bote hat tatsächlich auf mich gewartet? Und Sie sagen mir, dass diese Dinger bereits das halbe Tal übernommen haben?! Henrietta, wir müssen sofort zurück in mein Labor! Du begibst dich sofort dorthin, und ich - ich habe dir das nicht erzählt, aber Khazandar hatte mich einmal überredet, an einem interessanten Projekt teilzunehmen, und ich hatte eine weitere Forschungsstätte in den Bergen im Osten eingerichtet. Jetzt muss ich dorthin, und du..."	"Ich werde direkt in den Norden gehen. Du wurdest hier nicht allein festgehalten. Ein anderer Gefangener sagte, dass ein Trupp erathianischer Soldaten in der Nähe kampiert. Offenbar ist jemand aus dem Tal geflohen und konnte sie um Hilfe rufen. Die Flüchtlinge strömen jetzt zu ihnen. Frederick, hör zu! Ich weiß, du magst Halblinge nicht besonders. Sicher, ich fühle mich selbst manchmal wie ein Fremder in meinem eigenen Land, aber ich habe gesehen, was die Monster tun. Wir müssen etwas tun, sonst töten sie alle und verwandeln sie in ihr dreckiges Fleisch. Wenn wir nicht versuchen, jemanden zu retten - nun, das würde mich umbringen."	"...Ja, nun, vielleicht gibt es nicht genug Hände... das wäre sogar sehr hilfreich. Ja! Ahem. Stimmt, wir können nicht einfach abseits stehen! Hört zu: Bringt alle, die ihr findet, in mein Labor. Dreihundert, vielleicht fünf, wenn ich die Unterhosen des alten Gavin auch zum Fliegen kriege... Jemand muss mir helfen, mich zu beruhigen, wenn unser Flug endet."	"Flug? Werden wir wie Vögel fliegen?"	"Nicht ganz, aber es ist unsere einzige Chance, wenn die Teufel weiterhin alles in ihrem Weg mit solcher Hingabe zerstören. Vertrau mir, wie du es immer getan hast, und du wirst es bald selbst sehen. Das war's dann wohl! Ich gehe in die Berge."
+
+(31, 20, 0) ***Arch Mage***
+Message:
+Die Magier tauchten plötzlich auf, als ob ein Schleier der Unsichtbarkeit gefallen wäre. Natürlich konnte ich ihre Anwesenheit spüren. Es sind mächtige Magier - ihre Energie lässt sich nicht verbergen. Das ist sehr gut. Selbst stärkere hätten das erledigen können.	"Abtrünniger Frederick!"	Die Stimme ihres Anführers kam aus allen Richtungen auf einmal, wie aus dem Himmel. Kein Echo, kein Flüstern von Blättern oder Wind, nur eine leidenschaftslose Rede, die direkt in meine Ohren drang.	"Der Rat von Bracada weiß von deinen dunklen Taten: deine verbotene Nekromantie, dein Diebstahl des Himmelsschiffs, deine schändliche Flucht aus Bracada und deine Verbindungen zu den abtrünnigen Khazandar. Du hast jedoch den Lebenden keinen Schaden zugefügt und verdienst daher einen fairen Prozess und ein faires Urteil - wir garantieren, dass die Strafe nicht den Tod beinhaltet. Legt eure Waffen nieder, lasst das Mana aus eurem Körper entweichen und kommt auf uns zu. Ihr wisst es ganz genau: Indem ihr diesen Weg gegangen seid, seid ihr in Sünde gefallen. Die dunklen Bücher mögen Wissen vermitteln, aber es ist immer mit dem Gift von Schmerz und Tod versetzt. Ein Forscher darf es nicht verbreiten. Du hältst dich immer noch für einen Suchenden, nicht wahr? Erlöse dich, Frederick, und lebe als ehrlicher Mann weiter."	Meine Lippen verziehen sich zu einem Lächeln. Ich habe das alles schon zu oft gehört.	"Bei den Göttern! Liston, du bist es, nicht wahr?	Arbeitest du immer noch als schwerer Schläger in den Fängen von Gavins Sittenpolizei? Dabei hattest du früher so viel Potenzial. "Renegat Frederick" ist sogar schmeichelhaft zu hören. Aber "abtrünniger Khazandar"?! Ist das nicht eine Nummer zu groß für Sie? Selbst Ihre Vorgesetzten haben es noch nicht gewagt, etwas über ihn zu entscheiden; ich hätte es sonst gewusst. Es gibt zu viele Verdienste von ihm, zu viele andere angesehene Zauberer in der Akademie, die es nicht zulassen werden, dass ihr dummen Strolche den besten Geist Bracadas aufgrund lächerlicher Spekulationen zu Fall bringt - und Magnus selbst hat sich noch nicht zu Wort gemeldet. "Verbotene Praktiken"! Ist dir klar, wie lächerlich das klingt? Sagen Sie mir, ehemaliger Kollege... gibt es wirklich einen großen Unterschied zwischen Nagas und Medusen? Oh ja, die Medusen sind das Ergebnis eines verdrehten Prozesses, der die überlebenden Objekte in Wut und Angst versetzt. Wie könnte ich das vergessen! Und die Gremlins unterscheiden sich von den Troglodyten nur dadurch, dass ihre Sklaverei durch magische Verträge und Siegel besiegelt wird - bin ich nicht verwirrt? Jeder braucht Diener. Und die Seelen gefallener Krieger in Statuen zu stecken, um gescheite Titanen zu bekommen, ist natürlich fair gegenüber den Toten und rein akademisch einwandfrei. Sieh an, sieh an, sieh an, warum erröten wir so sehr? Lasst uns anfangen, Zaubersprüche auszutauschen. Wir werden uns nie verstehen, Liston. Dein Geist ist nicht frei..."
+
+(29, 32, 0) ***Demon***
+Message:
+Es sind wieder diese gehörnten Schleimbeutel, aber jetzt bin ich am Zug! Ha, mal sehen, was du wert bist, wenn meine Hände nicht mehr gefesselt sind!
+
+(33, 34, 0) ***Walking Dead***
+Message:
+Ich hielt kurz inne und kramte in meinem Gedächtnis. Nein, auf dem Friedhof sollte es nichts geben, was im Moment wichtig wäre. Abgesehen von ein paar... Dingen, die eines Tages für Experimente nützlich sein könnten, aber ich habe mein wissenschaftliches Interessengebiet schon vor einiger Zeit gewechselt. Nicht, dass es jemanden interessiert. Nur ein einziges Mal kann man... nein, es stimmt, was man sagt; nur die Toten scheren sich nicht um ihren Ruf.
+
+(18, 27, 0) ***Event***
+Message:
+-move for AI
+
+(21, 4, 0) ***Tower***
+Name:
+Laboratorium
+
+(8, 23, 0) ***Sign***
+Message:
+Im Süden - Dry Ryehill. Im Osten- Weinkeller. Im Westen - die hohen Klippen.
+
+(23, 8, 0) ***Quest Guard***
+Message:
+Diese Straße führt vom Laboratorium hinunter und führt nach Süden durch den Wald in Richtung Dry Ryehill.	Es hat keinen Sinn, diesen Weg jetzt zu gehen - ich muss Frederick finden.
+Diese Straße führt vom Laboratorium hinunter und führt nach Süden durch den Wald in Richtung Dry Ryehill.	Es hat keinen Sinn, diesen Weg jetzt zu gehen - ich muss Frederick finden.
+Wollt ihr passieren?
+
+(33, 24, 0) ***Automaton***
+Message:
+Das Erbe aus der Zeit der Wunder ist wahrlich unbezahlbar. Herrscher und Krieger sehnen sich danach, Rüstungen und Waffen aus dieser Zeit zu finden, aber sie sind nicht das, was für jemanden zählt, der die ganze Welt in der Zeit verändern will. Ich habe lange Zeit damit verbracht, winzige Fetzen alter Geheimnisse zu sammeln, um daraus etwas Eigenes zu bauen... und ich habe es geschafft. Meine Maschinen sind immer noch sehr verwundbar, ihre Antriebssysteme sind instabil und ineffizient, aber sie sind einigermaßen autonom und in der Lage, einfache Entscheidungen selbst zu treffen - und das ist doch schon etwas, oder nicht?	Die Automaten und das Fließband warten schon!
+
+(32, 19, 0) ***Orb of Tempestuous Fire***
+Message:
+Mit äußerster Sorgfalt holte ich drei Feuerkugeln aus der Schachtel. Diese leichten, rauchlosen Wärmequellen würden das Wasser in den Maschinenkesseln zum Sprudeln bringen, und die Qualität des so erzeugten Dampfes würde meine Maschinen richtig zum Laufen bringen. Seit Jahren hatte mich Sam gedrängt, zu ihr zu ziehen und meine Entwürfe mitzunehmen. Dort wäre es ruhiger, und alle Rohstoffe wären schnell verfügbar, so ihre Überzeugung. Warum habe ich das immer wieder aufgeschoben? Nach den groben Berechnungen, die ich angestellt hatte, um mich unterwegs zu beschäftigen, hätte die Ladung der Kugeln für die lange Reise nach Jadame ausreichen müssen. Drei würden sicher für mich allein reichen, aber jetzt musste ich alle Schiffe, die ich hatte, auf einmal in die Luft bekommen. Hätte ich nur ein wenig mehr Zeit zur Vorbereitung gehabt, hätte ich den Wärmeträgerkondensator in Betrieb nehmen und die Anfangsladung der Kugeln erhöhen können... Oder ich könnte einfach alles stehen und liegen lassen, in die Luft gehen und mich allein und ohne Angst, mitten im Ozean zu stranden, in Sicherheit bringen. Nein! Das würde bedeuten, nicht nur Henrietta, sondern auch meinen Traum zu verraten.
+
+(25, 9, 0) ***Event***
+Message:
+-move for AI
+
+(26, 10, 0) ***Event***
+Message:
+-move for AI
+
+(6, 26, 0) ***Demon***
+Message:
+Diese Wesen sind auch schon da! Sind sie wirklich aus dem Himmel auf den Felsen gekommen? Und wo sind die Schmiede, die ihre Hufeisen geschmiedet haben? Sind sie die nächsten?	Die Ungeheuer teilten sich in Gruppen auf, als wollten sie mich und meine Gefährten in die Zange nehmen. Sie waren sicherlich intelligenter als Tiere - und sie wurden immer zahlreicher! Sicher, wir hatten unsere Schleudern dabei und genug Steine für alle, aber ich wünschte, wir hätten etwas Stärkeres.
+
+(20, 32, 0) ***Pit Lord***
+Message:
+Der Wind wehte eine stinkende Rauchwolke in unsere Richtung. Mit ihm kam ein großer, verzweifelter, fast unmenschlicher Schrei zu uns, und dann hörten wir eine unheimliche, grollende Stimme, die aus der Tiefe zu kommen schien. Wir eilten in den Rauch hinein, und nach hundert Schritten sahen wir ein Bild, das uns die Augen tränen ließ.	Mitten auf einer Wiese, die nur noch ein Kreis aus verbrannter Erde war, stand so etwas wie eine riesige Feuerstelle mit einem flachen steinernen Kessel, dessen Wände glühten, und ringsherum glühte und gurgelte ein See aus dickflüssigem Feuerschlamm. Knietief standen darin, als ob sie die Hitze nicht bemerkten, große, mächtige Wesen mit leuchtend roter Haut, und ein paar weitere Riesen derselben Art trieben ein paar strauchelnde Halblinge mit langen Peitschen zum Kessel. Etwas weiter entfernt, in der Nähe der verbrannten Bäume, wachten die uns bereits bekannten gehörnten Bestien über eine große Schar von Dorfbewohnern.	Die Halblinge wurden zum Kessel gebracht, und unter ihnen erkannte ich Maltman, den Gastwirt aus Dry Ryehill. Ehe ich mich versah, hatte der rote Riese seine Peitsche in einer feurigen Linie geschwungen, und drei Unglückliche fielen tot um. Die Menge fing wieder an zu schreien, während die Monster ihre übliche, vergnügliche Arbeit zu verrichten schienen - sie warfen sich die Leichen gegenseitig zu, rissen sie mit Leichtigkeit in Stücke und warfen sie in den Kessel... Eine der Kreaturen schaute hinein und gab dann, offenbar zufrieden, den anderen ein Zeichen. Die Riesen starrten auf den Kessel, gestikulierten mit den Händen, brüllten, und ihre Augen leuchteten. Dann ertönte die Stimme, die wir aus der Ferne gehört hatten, wieder, als ob die Hölle selbst gesprochen hätte! Das Fleisch der Hingerichteten ging augenblicklich in Flammen auf, verwandelte sich in einen ekelhaften Brei, kochte zu einer riesigen Schaumkrone auf, fiel um, und in der Mitte des Kessels erschien die hässliche Gestalt eines einhörnigen Monsters. Sein Körper war rauchverhangen, und der trocknende Schlamm tropfte zischend an seinem Körper herunter.	Der rothaarige Junge hatte Recht: Es gibt jetzt ein Schicksal, das schlimmer ist als der Tod.
+
+(5, 25, 0) ***Event***
+Message:
+-move for AI
+
+(5, 26, 0) ***Event***
+Message:
+-move for AI
+
+(24, 17, 0) ***Knight***
+Name:
+Xarfax
+
+(8, 27, 0) ***Horned Demon***
+Message:
+Die zweihörnigen Kreaturen unterschieden sich deutlich von ihren hellhäutigen Verwandten, nicht nur im Aussehen, sondern auch im Verhalten, so wie sich Erwachsene von einem Haufen unbeholfener Jugendlicher unterscheiden. Sie waren eindeutig besser organisiert, so dass sie uns früher entdeckten. Die Kreaturen schlossen sich schnell zu mehreren Trupps zusammen und griffen an.
+
+(21, 22, 0) ***Halfling***
+Message:
+Jeder in Eeofol hatte von Tavin gehört - aber nicht jeder sprach wohlwollend über ihn. Der Halbling, der sein Heimatdorf aus freien Stücken verlassen hatte, um sich den erathianischen Grenzwächtern anzuschließen, war wohl kaum ein Beispiel, das sie sich für ihre Kinder wünschten. Die Jahre des Militärdienstes hatten sichtbare Spuren im harten Gesicht des Kommandanten hinterlassen - seine bleichen Augen waren tief eingesunken, seine Nase war gebrochen, und seine dünne Wange zuckte hin und wieder verzweifelt.	"Was ist im Norden los?" fragte Tavin und verschwendete keine Zeit mit der Begrüßung.	"Der Tod ist mir auf den Fersen. Wir haben uns losgerissen, aber die Dorfbewohner ..."	"So gut wie tot", schnauzte der Kommandant. "In den Wäldern hier wimmelt es bereits von Kreaturen, und jeden Tag werden sie unter jedem Busch sein. Im Süden und Westen wurden alle, die nicht entkommen sind, bereits zu Fleisch verarbeitet. Ich habe die Vorhut der Garde angeführt, gefolgt vom Rest der Männer unter Hauptmann Xarfax' Kommando, einen halben Tagesmarsch hinter uns."	"Gefolgt? Wurden sie auf ihrem Weg von den gehörnten Bestien angegriffen?"	"Nein, sie sind gut angekommen. Es gibt nur einen Weg hier raus, aber genau dort stehen sie jetzt... nur sie. Ich habe 15 Jahre lang bei Xarfax gedient. Und heute, als ich mich mit seiner Einheit treffen wollte, befahl er seinen Männern, mir die Leber herauszuschneiden. Wir sind knapp entkommen und haben uns hinter diesen schwachen Mauern versteckt. Jetzt überlegen wir uns, wie wir uns schmackhaft machen können, damit es den Teufeln nicht langweilig wird, uns zu fressen."	"Tavin, wir müssen hier durch. Es besteht immer noch Hoffnung, jemanden zu retten, aber wir müssen zur Nordstraße gelangen. Dein Kommandant ist ein Verräter, aber gemeinsam können wir..."	Tavin packte mich knurrend am Kragen und riss mich in die Luft wie einen Sack Lumpen. Sein Blick war furchterregend.	"Närrin! Dummes Mädchen! Xarfax hat nicht betrogen. Die Teufel haben ihn verhext, hast du das gehört?! Du nimmst jetzt deine Leute mit den Knallkörpern und wir prügeln diese Dummheit aus dem alten Mann heraus! Und dann nimmst du dir, wen du kriegen kannst... und machst, was du willst. Ich will nichts davon wissen, also werde ich auch nichts sagen, wenn sie mich fangen und über einem langsamen Feuer rösten wie eine Blutwurst." 
+
+(24, 8, 0) ***Event***
+Message:
+-move for AI
+
+(23, 18, 0) ***Event***
+Message:
+Die zerlumpte Kohorte stellte sich zum Kampf auf. Befehle waren zu hören, aber nicht mehr auf Erathisch. Es war eine fremde Sprache, roh und animalisch. Schilde und Mäntel über ihren Rüstungen waren dick mit Blut befleckt - sie versuchten nicht einmal, sie zu reinigen. Wie konnten sie es wagen, uns zu verraten? Sich dieser abscheulichen Macht zu unterwerfen? Was hatte den Willen dieser erfahrenen Soldaten gebrochen - war es die Angst vor dem drohenden Tod.... oder davor, in fremdes Blut verwandelt zu werden?	Das spielt jetzt keine Rolle mehr. Es gibt nur einen Weg nach Norden.
+
+(13, 23, 0) ***Seer's Hut***
+Message:
+Diese Familie lebt in der Provinz und ist unerschütterlich ruhig - Henrietta glaubt sogar, dass die Einsamkeit und Monotonie ihres Lebens sie ziemlich abgestumpft haben. Als sie die neuesten Nachrichten hören, zucken sie nicht einmal mit der Wimper. Der grauhaarige Vater beklagt den Mangel an Arbeitern, erklärt sich aber bereit, einige seiner Arbeiter mitgehen zu lassen, allerdings nur gegen eine saftige Bezahlung.
+Das Familienoberhaupt erklärt, dass seine Arbeiter nirgendwo umsonst hingehen werden.
+Das Familienoberhaupt blickt gierig auf den Beutel mit den Juwelen, und die Arbeiter nehmen ihre Schleudern und sind bereit, euch zu begleiten. Willst du sie anheuern?
+
+(16, 12, 0) ***Halfling***
+Message:
+"Es ist vom Himmel gefallen, kannst du das glauben? Ich habe es selbst gesehen! Da ist es, in dem Loch. Zu gefährlich, um sich zu nähern."	"Ich sehe kein Loch im Himmel. Hast du Wahnvorstellungen, Bruder?"
+
+(26, 32, 0) ***Quest Gate***
+Message:
+Dieser Bergpfad führt zu Fredericks Fabrik. Er ist der Einzige, der weiß, wie man dorthin kommt.
+Dieser Bergpfad führt zu Fredericks Fabrik. Er ist der Einzige, der weiß, wie man dorthin kommt.
+Wollt ihr passieren?
+
+(24, 16, 0) ***Quest Guard***
+Message:
+Vor uns sind die geschlossenen Tore des erathianischen Außenpostens zu sehen.
+Der Versuch, die Tore zu stürmen, ist zu gefährlich. Wir müssen warten, bis Xarfax besiegt ist.
+Nach der Niederlage der Besessenen und der Flucht von Xarfax selbst war dieser Außenposten verlassen. Willst du passieren?
+
+(19, 9, 0) ***Event***
+Message:
+Auf dem Schild am Tor steht:	"Experimentelle Wartungswerkstatt. Eigentum der Bergbaugesellschaft. Derzeit keine Mitarbeiter eingestellt."	Bei näherem Hinsehen entdecke ich Kratzer auf dem Schild. Kaum sichtbare Schmutzflecken ergänzen sie und bilden die Symbole eines geheimen Alphabets, das Frederick erfunden hat. 	"...Du wirst bald hierher eilen, als ob es nach heißem Apfelkuchen riechen würde. Dieser Sternenfall bricht alle Gesetze der Kosmologie: Ich habe noch nie gesehen, dass solche Himmelserscheinungen irgendwo beschrieben wurden... die Geschwindigkeit der vorbeiziehenden Himmelskörper, die Verlangsamung, die alle Normen übersteigt, Flammenströme mit einem Vektor entgegengesetzt zu... der stärkste Lichtfilter brach... äußerst interessant, aber die Situation zwingt mich, das Haus zu verlassen. Namen und Gesichter aus einem früheren Leben sind wieder aufgetaucht; es könnte gefährlich werden. Seien Sie vorsichtig und vergessen Sie unser Geheimnis nicht! Ich fahre nach Süden und denkt nicht einmal daran..."
+
+(21, 5, 0) ***Event***
+Message:
+Wir traten durch die Tür, die sich vor Frederick öffnete, gefolgt von einer Reihe von Halblingen. Keiner von ihnen war jemals zuvor hier gewesen.	Wäre es ein anderes Mal gewesen, wären sie vom Anblick des eleganten, von einer bracadischen Kuppel gekrönten Labors beeindruckt gewesen; sie hatten noch nie etwas Schöneres gesehen als einfache Steinhütten und Holzscheunen. Aber nein, die Dorfbewohner hatten in den letzten Tagen genug durchgemacht, und das Einzige, was sie suchten, war eine Gelegenheit, sich ins Gras zu legen und die müden Füße zu reiben. Wir beschlossen, die müden Halblinge nicht zu stören, und stiegen zunächst auf den Hügel hinauf, damit Frederick nachsehen konnte, wie seine Kreationen für ihren ersten großen Flug vorbereitet wurden. Der Anblick war unglaublich! Mitten auf einer Lichtung, umgeben von schneebedeckten Bergen, wiegten sich drei riesige Blasen majestätisch im Wind, und unter jeder von ihnen befand sich ein sehr großes Boot. Ich gestehe, dass selbst ich beim Anblick der spinnenartigen Mechanismen, die sich geschickt über die Decks und die Takelage bewegten, mit ihren stählernen Schnäbeln Knoten festzogen und etwas anderes völlig Unverständliches taten, ins Staunen geriet. Bald war Frederick von seiner Inspektion dieser, wie er sie nannte, Luftschiffe zurück. Mit einem Hauch von Stolz in der Stimme sagte er:	"Eine gut gemachte Arbeit! Meine Automaten haben reibungslos und ohne Fehler gearbeitet. Die Tanks sind bis oben hin mit Wasser gefüllt. Jetzt müssen nur noch die Feuerkugeln in die Öfen gesteckt werden, dann sind wir startklar! Ich werde das Hauptluftschiff steuern, und die mechanischen Assistenten werden meine Manöver auf den anderen Schiffen wiederholen."	Wir kehrten zu den Halblingen zurück. Die friedliche Landschaft des zwischen den Bergen eingebetteten Tals schien die armen Dorfbewohner zu beruhigen - vielleicht sogar ein bisschen zu sehr.	Einige schliefen, andere zündeten ihre Pfeifen an. Frederick schüttelte den Kopf, griff nach einem Eisenkegel und sprach in dessen Spitze. Das Ding machte seine Stimme so laut, dass diejenigen, die sich ausruhten, aufsprangen. 	"Genug geschlafen! Los, los, wir müssen uns beeilen! Die Zeit ist sehr, sehr knapp: Die Dämonen können jeden Moment auftauchen, und dann werden wir alle in großen Schwierigkeiten sein. In dem Gebäude vor euch liegen Vorräte bereit - nicht viel, aber besser als nichts. Nehmt die Kisten und tragt sie dorthin, wo ich sie euch zeige, wenn ihr auf der Reise nicht verhungern wollt."	"Hoffentlich haben diese Faulpelze den Sack nicht vergessen...", sagte Frederick mit dem Zapfen aus dem Gesicht, und ich war die Einzige, die ihn hörte. Plötzlich berührte jemand meine Schulter. Ich drehte mich um und begegnete Tavins Blick. Er tauchte schweigend hinter mir auf - aber das war von einem erfahrenen Krieger wie ihm auch nicht anders zu erwarten. Ich wollte ihn begrüßen, weil ich froh war, dass die Wache überlebt hatte, aber da war etwas in seinen Augen, das mich zögern ließ. Tavin blinzelte mich an und sagte:	"Wenn ich keine Mühe hatte, euch aufzuspüren und zu finden, dann werden diese höllischen Biester es auch nicht viel schwerer haben. Sie haben eine so gute Nase wie die besten Jagdhunde von Erathia.	Gebt mir Proviant für eine Woche und einen Sack mit euren Feuerwerkskörpern. Ich werde sie aus dem Tal führen. Zumindest verschaffe ich euch etwas Zeit, indem ich sie eine Weile aufhalte."	"Aber... Tavin, was redest du da? Wir brauchen dich und dein Wissen! Es wäre Selbstmord, allein gegen diese Bestien anzutreten. Vielleicht werden sie den Geheimgang nicht finden." 	"Versuch nicht, mich umzustimmen, Kind. Wenn mein Leben Hunderte von deinem rettet, ist das der Preis, den ich bezahle. Deshalb bin ich Soldat geworden. Eines Tages wirst du es verstehen." 	Ich seufzte und tat, mit schwachen Beinen, was er verlangte. Tavin hängte sich den Sack auf die Schulter, sah mir noch einmal in die Augen und schritt ohne ein weiteres Wort oder einen Blick zurück entschlossen aus dem Tal.
+
+(5, 21, 0) ***Event***
+Message:
+Ich würde mich wie ein kleines Mädchen freuen, wären da nicht die Umstände. Hier ist unser Geheimnis! Das ist der Lagerraum mit den Feuerwerkskörpern für das Neujahrsfest - wir haben ein trockenes Versteck für sie angelegt, weit weg von den Dörfern. Halblinge sind sehr vorsichtig, wenn es um Gefahr und Feuer geht, deshalb habe ich darauf bestanden, diese Dinge an einem abgelegenen Ort aufzubewahren. Frederick stellte sie in seiner Freizeit in kleinen Mengen her, und einmal im Jahr brachten die Dorfbewohner sie mit, um ihre Abneigung gegen den Wissenschaftler zu zügeln, denn niemand sonst konnte ihnen dieses beliebte Vergnügen bieten. Jedes Mal besorgte Frederick für die Feuerwerkskörper Lebensmittel im Wert von fast einem ganzen Jahr; die Halblinge liebten ihre großen Feste wirklich! Die Bewohner des Tals prahlten damit, dass sie noch nie einen solchen Feuerregen gesehen hatten, nicht einmal in Bracada, und sie würden vor nichts zurückschrecken, um ihre Nachbarn vorzuführen und ein paar echte Wunder zu erleben.	Frederick grinste trocken und stimmte zu, dass man so etwas in Bracada tatsächlich noch nie gesehen hatte.	"Da, du gibst einfach ein paar Münzen an irgend so einen abgehalfterten Illusionisten-Quacksalber und bekommst das doppelte Spektakel", murmelte er vor sich hin, während er seinen hart verdienten Lohn wegkarrte.	Die Kisten enthielten zwiebelgroße Kugeln, die mit einem ohrenbetäubenden Knall explodierten und helle Feuertropfen in alle Richtungen sprühten. Normalerweise wurden sie aus einem langen Rohr in den Himmel geschossen, das auf dem Dorfplatz wie eine Sprungfeder eingegraben war, aber jetzt konnten wir sie benutzen, um ein paar schleuderschwingende Halblinge zu bewaffnen. Diese vollkommen gleichmäßigen Geschosse waren zum Werfen sogar besser geeignet als Steinkugeln.	Frederick grinste trocken und stimmte zu, dass man so etwas in Bracada tatsächlich noch nie gesehen hatte.
+
+(12, 20, 0) ***Event***
+Message:
+Als wir uns dem Lagerfeuer näherten, sahen wir ein fluchtartig verlassenes Lager. Die Fußspuren von einem Dutzend zweibeiniger Kreaturen führten davon weg in den Wald. Zwei enthauptete Kadaver himmlischer Gäste lagen neben dem Feuer - es sah so aus, als hätte jemand begonnen, sie auf dem Feld zuzubereiten, aber auf halbem Weg wieder verlassen.	"Ah, das sind Halblinge...", hörst du aus dem Gebüsch. "Geht weg! Wagt es nicht, uns zu folgen, oder wir lassen euch Stahl schmecken, wie wir es mit diesen Verrückten getan haben!"	Offenbar sind die Männer im Gebüsch kaum netter als die Gehörnten. Sind sie dieselbe Bande, die vor fünf Jahren im Nachbartal für Chaos gesorgt hat? Man hatte sie inzwischen vergessen, aber es konnte doch nicht sein, dass eine neue Bande hier aus dem Nichts auftaucht. Tja, aller guten Dinge sind drei.
+
+(23, 24, 0) ***Event***
+Message:
+Eine Palisade war ein ungewöhnlicher Anblick für diese Orte, aber jemand hatte sich die Mühe gemacht, sie zu bauen. Das gab mir etwas Hoffnung, wenn auch nur eine schwache. Die Wachen waren standhaft und winkten mir fröhlich zu, um mich ins Lager einzuladen.	Meine Begleiter fielen zu Boden, als wir die Mauern betraten; mehrere Tage ohne Nahrung oder richtige Ruhe hatten ihnen zugesetzt. Sie waren eine solche Entbehrung ihrer kräftigen, wohlgenährten Körper nicht gewöhnt. Ich wandte mich direkt an den Kommandanten. Er stand in der Mitte des Lagers, gab Anweisungen und wartete darauf, mit den Neuankömmlingen zu sprechen.
+
+(26, 11, 0) ***Event***
+Message:
+Ich liebe es, neue Dinge zu entdecken, aber ich hasse Überraschungen. Das ist das Schöne an diesem Prozess: eine Theorie zu entwickeln und sie dann in die Praxis umzusetzen, um genau das zu erreichen, was man erwartet.	Die Theorie kann natürlich so kühn sein, wie man will...	Dieser ungewöhnliche Sternenfall konnte nicht anders, als meine Aufmerksamkeit zu erregen, auch wenn ich an diesem Abend an andere Dinge dachte. Ich schäme mich nicht, zuzugeben, dass die Entschlüsselung dieses Phänomens die unangenehmste Überraschung in meinem Leben war. Wir alle, die Wissenschaftler von Enroth, auch diejenigen, die noch nicht ahnen, was geschehen ist, wurden mit einer Tatsache konfrontiert: Felsen können vom Himmel fallen. Und nicht nur fallen, sondern Gäste mit sich führen, die niemand freiwillig in sein Haus einladen würde. Nun denke ich: Was, wenn es gar keine Steine sind, sondern etwas, das unseren Luftschiffen ähnelt, nur komplexer und perfekter - oder vielleicht nur Bruchstücke eines solchen abgestürzten Schiffes? Ist es möglich, dass dort oben, so hoch, dass wir sie nicht einmal mit Teleskopen sehen können, stadtgroße Kolosse, die irgendjemand gebaut hat, irgendwo ihren Dienst verrichten, ganze Nationen befördern, Signale und manchmal Salven monströser Waffen austauschen? Und wo docken sie an - ihr Hafen kann doch nicht auf unserem Planeten sein, oder?	Ich ertappte mich bei dem Gedanken. Am liebsten würde ich jetzt eine gemeinsame Sprache mit einem der Fremden finden, mir ihre Geschichten über ihre Heimat anhören, tausend Fragen stellen ... Aus irgendeinem Grund haben sie mich nicht direkt in den Kessel geworfen, in dem sie ihre Krieger aus dem toten Fleisch gemacht haben.	Vielleicht sahen sie in mir jemanden, mit dem sie sich verständigen und auf etwas einigen konnten? Vielleicht sollte ich das tun....	Während ich darüber nachdachte, bemerkte ich nicht, dass wir mein altes Labor erreicht hatten. Als ich Henriettas Kommando hörte: "Macht die Granaten fertig!", blickte ich auf und sah eine große Gruppe von Kämpfern. Er trat vor, sah mir direkt in die Augen... und kratzte sich mit einer Kralle über die Kehle und leckte sich die dünnen Lippen.
+
+(15, 13, 0) ***Event***
+Message:
+An der Stelle, die die Dorfbewohner erwähnt hatten, war tatsächlich ein "Loch" - ein Loch mit glatten, scheinbar geschmolzenen Rändern, aber irgendwie war es in der Nähe nicht zu heiß, und es sah nicht einmal so aus, als hätte dort etwas gebrannt. Was könnte das bedeuten? Einige der Sterne, die in der Nacht fielen, kündigten ihre baldige Ankunft nicht an, sondern fielen einfach... wohin sie mussten...? Ich erstarrte, erschrocken über meine Gedanken, während die zeternden Bauern immer wieder mit den Händen winkten und mich tadelten, als wäre das alles irgendwie mein Werk. Ich drehte mich zu ihnen um und versuchte zu überlegen, was ich sagen sollte; plötzlich wich die Empörung in ihren Gesichtern der Überraschung und dann dem Entsetzen. Fassungslos stellte ich fest, dass die Dorfbewohner nicht mehr mich ansahen, sondern hinter mich blickten.	Ein Paar scharfer, halbmondförmiger Hörner erschien über dem Loch. Dann zwei riesige rote Pfoten, und dann stieg ihr Träger mit einem gewaltigen Sprung aus dem Loch. Er richtete sich auf, atmete gurgelnd ein und stieß zwei Rauchschwaden aus. Von riesiger Statur, mit klumpiger Haut, die die Farbe von frischem Fleisch hatte - oder hatte er gar keine Haut?-, sah er hier, mitten im Dorf, unendlich fremd aus. Die Augen des seltsamen Besuchers waren feurige Flecken, und die Luft um seine Gestalt herum war aufgewühlt wie über einer Bratpfanne. Ich spürte eine Hitzewelle und einen seltsamen, eisenähnlichen Geruch oder Geschmack auf der Zunge - und dann war es, als ob eine chemische Reaktion aufgehört hätte, so wie bei Frederick, als er mich etwas "im-ge-be-tor" in einen Flachmann hatte fallen lassen. Die Augen des Monsters wurden trüb, seine Haut wurde braun, die Hitze um es herum ließ nach, und ich konnte es endlich genau betrachten. Wenn man sich ein riesiges Wildschwein vorstellte, dem Hörner wachsen, das seine Borsten verliert, das sich wie ein Mensch auf zwei Beine stellt und Buckel auf Rücken und Brust bekommt ... das wäre noch eine sehr grobe und schmeichelhafte Beschreibung des Wesens, das ich sah. Seine Hässlichkeit war auffallend.	Die Kreatur wackelte mit ihrem riesigen Kopf herum und schaute in die Menge. Sein schlangenartiges Maul öffnete sich, und eine ekelhaft lange Zunge fuhr heraus. Mit einem lauten Klirren machte das Ungeheuer seinen ersten Schritt auf das Land Eeofol. Komisch, dachte ich, als hätte ihn ein guter Hufschmied bereits beschlagen....
+
+===== End of file =====

@@ -1,0 +1,607 @@
+===== Map name =====
+Geteert und gefedert
+
+===== Map description =====
+Henrietta und Wynona müssen Pactal besiegen und das uralte Ritual durchführen, um den karminroten Couatl zu beschwören. Wenn Henrietta besiegt wird, verliert ihr das Szenario. Eure Helden sind auf Stufe 20 beschränkt, aber sie bringen ihre Fähigkeiten und den Admiralshut zur nächsten Karte.
+
+===== Rumors =====
+
+Name:
+Pactal's Tribe
+Text:
+Pactal und sein Stamm haben die meisten der Inseln dieses Archipels erobert.
+
+Name:
+Couatl Hunt
+Text:
+Der Stamm von Pactal jagt Couatls, und es gibt fast keine mehr auf den Inseln. Es heißt, der Rest versteckt sich im Untergrund.
+
+Name:
+Basilisk/Gorgon Lairs
+Text:
+Auf unseren Inseln ziehen es Basilisken und Gorgonen vor, sich in Höhlen zu verkriechen.
+
+Name:
+Researcher of Amberlian Empire Ruins
+Text:
+Ein Forscher aus Jadame wurde auf der westlichen Insel in der Nähe der Ruinen gesehen. Er scheint alte Artefakte zu studieren.
+
+Name:
+Crimson Couatls
+Text:
+Karminrote Couatls wurden zuletzt vor mehreren Jahrhunderten gesehen. Nur ein Stamm kennt das Geheimnis ihrer Brut.
+
+Name:
+Serpentmen
+Text:
+Viele der alten Tempel auf diesen Inseln wurden in der Antike von Echsenmenschen erbaut.
+
+Name:
+Slavers
+Text:
+Sklavenhändler und Piraten besuchen diese Inseln immer häufiger und nutzen den Krieg zwischen den Stämmen der Echsenmenschen aus.
+
+Name:
+Slave market
+Text:
+Die Sklavenhändler schlagen ihr Lager ganz in der Nähe auf, wo sie mit Sklaven handeln. Sogar Couatls wurden schon in ihren Käfigen gesehen!
+
+Name:
+Dagdaro
+Text:
+Der Hexenmeister Dagdaro hat sich in einer der vulkanischen Höhlen niedergelassen. Es heißt, er studiert die gefangenen Couatls und plant, mit ihnen Monster zu erschaffen.
+
+Name:
+Areshrak
+Text:
+Areshrak ist die rechte Hand von Pactal. Einige Leute haben mir versichert, dass es seinen Jägern sogar gelungen ist, rostige Drachen zu bezwingen!
+
+Name:
+Ha'Ora
+Text:
+Die Hexe Ha Ora wurde zuletzt in den Höhlen gesehen. Nur sie weiß, wie man mit Zaubersprüchen Schiffe herbeirufen kann.
+
+Name:
+Pyramid Island
+Text:
+Einmal in jedem Jahrhundert erhebt sich eine Insel aus dem Meeresgrund, auf der sich die große Pyramide befindet. Beeilt euch, sonst ist es zu spät!
+
+Name:
+Stoic Watchman Hint
+Text:
+In den Höhlen großer Bäume können manchmal Schätze gefunden werden.
+
+Name:
+Dagger Wound
+Text:
+Ein anderer Stamm von Echsenmenschen lebt auf der Dolchwundeninsel, die weit im Osten, am anderen Ende des Ifarine-Meeres liegt. 
+
+Name:
+Mist
+Text:
+Westlich von hier, im östlichen Meer von Enroth, liegen die Nebelinseln, eines der größten Zentren der Magie in der Welt.
+
+===== Timed events =====
+
+Name:
+AI - minus res
+Message:
+
+
+Name:
+AI - bonus gold, wood, sulfur
+Message:
+
+
+Name:
+Expedition
+Message:
+Ich weiß nicht, was ich mir erhofft hatte, als wir zu dieser Expedition aufbrachen. Das Fliegen in den Lüften war so aufregend für mich... Alles daran wirkte magisch, und das Land unter uns erschien beeindruckend und geheimnisvoll, auch wenn es eine leblose, kahle, eierschalenartige Einöde war. Hier, auf diesen Inseln, hatte ich wohl erwartet, etwas Außergewöhnliches zu sehen - aber als das zerknitterte blaue Meer unter uns endete und wir über dem Dschungel schwebten, konnte ich einfach nichts mehr sehen. Alles, was ich ausmachen konnte, war ein schlammiges Grün, das fast vollständig unter feuchten Nebelschwaden verborgen war. Stille. Wolken über mir und ein wabernder Dunst unter mir. Wynona hatte mir tagelang aufgeregt von den Naturwundern erzählt, die sie einst auf den Dolchstoßinseln auf der anderen Seite des Meeres gesehen hatte, aber jetzt wirkte auch sie traurig und still. Bei der schlechten Sicht konnten wir nicht einmal eine Karte zeichnen.	Die Propeller unserer Luftschiffe peitschten sicher und in einem guten Rhythmus durch die feuchte, klebrige Luft. Sie waren ein neues, serienmäßig hergestelltes Modell mit dicken Stoffballons und zuverlässigen Motoren, die mit aus Erdöl destilliertem Flüssigtreibstoff betrieben wurden. Frederick konnte seine Bewunderung kaum zurückhalten, als er mir das Führungsschiff der ersten Charge zeigte, und seine Augen funkelten; so hatte ich ihn schon lange nicht mehr gesehen. Wahrscheinlich nicht mehr, seit wir wieder in Eeofol lebten. Er schüttelte wild mit der Faust und redete davon, dass dieses Modell keine unbezahlbaren magischen Artefakte benötige und daher das Leben auf der Erde revolutionieren würde; dass Enroth über Nacht auf die Größe einer Orange geschrumpft sei; und dass es bald so einfach sein würde, auf einen anderen Kontinent zu gelangen, wie mit einem Ponykarren zum nächsten Dorf zum Jahrmarkt zu fahren. Aber wir mussten erst noch die Zuverlässigkeit, die Ressourcen und die Reichweite testen... Zumindest ich hatte das getan. Mit dieser Karawane. Und natürlich konnte uns unterwegs alles Mögliche passieren, aber das war mir eigentlich egal. Je mehr Land unter Burtons Kontrolle geriet und je weiter entfernt neue Fabrikstädte entstanden, desto seltener konnte ich persönlich auf Aufklärungsmissionen gehen und desto mehr Zeit musste ich damit verbringen, Aufklärungsberichte zu studieren, Pläne zu machen und mit anderen Entscheidungsträgern zu sprechen. Ich übte mich auch in Kriegsspielen mit meinen Untergebenen... ja, Späher wurden als Teil der Streitkräfte des Neuen Land Commonwealth betrachtet - so wurde der Zusammenschluss unserer Städte in offiziellen Dokumenten genannt. Terra Nova - Worte aus einer vergessenen Sprache der Schriftgelehrten. Ich weiß nicht, wie oder woher sich das Wissen darüber verbreitete, aber in letzter Zeit hörte man unter den Kunsthandwerkern immer häufiger Wörter oder ganze Sätze in dieser feierlich klingenden Sprache.		"Regia solis erat sublimibus alta columnis", murmelte ich vor mich hin und versuchte, unten etwas auszumachen. Irgendetwas an der Art unseres Fluges hatte sich in der letzten Stunde leicht verändert, so als ob das Schiff Schwierigkeiten hätte, die Höhe zu halten, und das Surren des Motors war irgendwie angestrengt. Der wachhabende Segler kam auf mich zu, sein schmutziges Gesicht sah besorgt aus.	" Herr Kommandant, der Stoff der Ballons saugt sich mit Wasser voll wie eine Pumpe. Es ist zu nass hier drin. Wir verlieren an Höhe, und der Treibstoff brennt kaum, der Rauch ist voller Ruß."	"Verstanden, Boris. Sieh du nach, was mit den Drucklagern los ist; irgendetwas knarrt in der Welle, während ich ..."	Im nächsten Moment schlug ein Pfeil zwischen uns auf dem Deck ein. Ich hechtete zur Seite; während wir sprachen, hatte unser Schiff so viel Höhe verloren, dass unser Kiel fast an den Baumkronen schrammte! Erst jetzt konnte ich in diesem grünen Meer etwas ausmachen. Ein Durcheinander von hohen, krummen, verdrehten Stämmen, wie eine feste Hecke. Über das gedämpfte Husten des Motors hinweg dröhnten die Geräusche des Landes: Rascheln, Glucksen, Klappern, Quietschen ... und ich schwöre, ich hörte verrückte Schreie aus Hunderten von Mündern und das Brüllen einiger sehr großer Kreaturen. Pfeile flogen aus dem Wald; die meisten wurden mit nicht annähernd genug Wucht abgeschossen, um unser Schiff zu erreichen, aber ein paar trafen die Seiten und das Deck. Schwere, lange, scharfe Pfeile mit buntem Federkleid.		"Werft den Ballast ab! Sofort! Wir müssen an Höhe gewinnen!", rief ich und eilte zu den Ventilen auf dem Unterdeck. Wir hatten Wasser als Ballast aufgenommen, und das musste jetzt abgelassen werden.	Als ich die Gangway hinunterging - mit dem Gesicht nach vorn, wie Boris, ein Seemann mit jahrzehntelanger Erfahrung, es mir beigebracht hatte -, flackerten riesige Schatten um unser Schiff. Ich hörte Knurren, Zischen, die Schreie meiner verängstigten Mannschaft und schließlich das Krachen, als unser Ballon riss. Kurz zuvor waren wir noch geflogen - zugegeben, wir verloren an Höhe und bewegten die Propeller kaum, aber wir trieben immer noch durch die Luft - und jetzt gingen wir unter. Keine Ahnung, wohin. Keine Ahnung, wie weit der Boden und was dort unten ist. Alles, was ich wollte, war, dies zu überleben.
+
+Name:
+Snakes and Dreadnoughts
+Message:
+Was für ein überraschender Ort dies war. Nein, keine angenehme Überraschung, ganz im Gegenteil. Viele von uns, den Überlebenden des Absturzes, hätten es vielleicht nicht einmal bis zum nächsten Morgen geschafft; dieser feuchte, stinkende Wald fühlte sich nicht nur feindselig, sondern geradezu hasserfüllt uns gegenüber an, wie als Vergeltung dafür, dass unser Luftschiff beim Absturz eine riesige Lichtung geschaffen und dabei Dutzende von Baumriesen umgeworfen hatte - ich konnte mir nicht einmal ansatzweise vorstellen, wie alt sie waren. Glücklicherweise war das Holz dieser Riesen feucht und weich; sie zerbrachen beim Aufprall auf den starken Rumpf unseres Schiffes und verlangsamten unseren Fall, so dass wir unfreiwillig eine relativ sanfte Bruchlandung hinlegten. Leider gab es Todesopfer. Sechs Besatzungsmitglieder wurden vermisst - sie waren wahrscheinlich während des Sturzes über Bord gefallen. Vier weitere kamen durch Wunden und Prellungen ums Leben. In den ersten Stunden nach dem Wrack verloren wir zwei weitere Matrosen - ein flinkes Tier zerrte einen von ihnen ins Gebüsch und wir sahen ihn nie wieder, und der andere wurde von einer Schlange gebissen, die er im Gras übersehen hatte, und starb fast auf der Stelle.	"Achtung hier! Weg von den Büschen und Bäumen, sofort! Jeder, der keine Aufgabe zugewiesen bekommen hat, geht zum Schiff und bleibt dort!" - Wynonas Stimme ertönte. 		Ich hatte mir bei dem Sturz den Kopf ziemlich heftig am Schott angeschlagen, so dass ich mit meinen Befehlen im Rückstand war, ganz abgesehen davon, dass ich nicht die geringste Ahnung hatte, was mich an diesem Ort erwartete.  Wäre meine unerwartete Begleiterin und ihr enormes Wissen nicht gewesen, hätte unsere Expedition noch in dieser Nacht ihr Ende finden können, und zwar aus dem einfachen Grund des Todes aller Teilnehmer. Aber nein: Während ich wieder zu mir kam, war die Dunkelelfe in Aktion und zeigte den Männern, welche Bäume man fällen konnte und welche man auf keinen Fall betreten durfte, wo und womit man Feuer machen konnte, wie man seine Kleidung schnürte und zurechtmachte, um zu verhindern, dass gefährliche kleine Viecher an den Körper gelangten, wie man aus dicken schlangenartigen Ranken durstlöschende Flüssigkeit gewann und so weiter. Meine Sicht war verschwommen, und es sah so aus, als ob drei oder vier Wynonas gleichzeitig im Lager herumliefen, Befehle riefen, aufmunternd sprachen, die langsamen Lernenden schlugen, Äxte schwangen und stinkende, rauchige Lagerfeuer entfachten, um Insekten fernzuhalten. Schließlich ließ sich die Elfe, laut schnaufend, neben mir auf einen Baumstamm fallen. In ihrer Hand hielt sie einen seltsam eklig aussehenden Tausendfüßler - Wynona biss in seine Schalenringe und saugte etwas heraus. Hätte ich nicht zurückgestoßen, als wir noch im Sturzflug waren, würde ich es jetzt sicher tun - obwohl es schien, dass jemand, der frisch entnommene, scharfe, erdige und eklige Gürteltierleber genossen hatte, keine Scheu vor irgendeiner Art von exotischem Essen in freier Natur haben sollte.	"Wie fühlt ihr euch, Kommandant? Lasst mich mal einen Blick auf euch werfen. Oh, eure Augen sind ganz rot, kein gutes Zeichen nach einer Kopfwunde."	"Ich werde es überleben, danke. Das geht vorbei. Mir ist nicht mehr schwindelig und, äh, nicht einmal übel."		"Nun, den Göttern sei Dank dafür. Hör zu, wir können hier nicht bleiben. Wir sind an dem schlimmsten Ort abgestürzt, den man sich vorstellen kann - es gibt einen riesigen Ameisenhaufen und einige "Hexenkessel" - das sind Gruben voller Schlangen. Und so ziemlich alles, was ich hier gesehen habe - zumindest das, was ich erkannt habe - ist so giftig wie die Zunge meiner ehemaligen Schwiegermutter. Als wir noch oben waren, sah ich östlich von hier eine sauberere, trockenere Gegend.	"Da werden wir also hingehen. Ich danke euch. Ohne dein Wissen und Können würden wir..."	"Keine Ursache. Ich wusste, dass das passieren könnte, und das ist ein weiterer Grund, warum ich dich gebeten habe, mich mitzunehmen. Übrigens habe ich noch etwas anderes gesehen, das wichtig sein könnte. Erinnerst du dich an die riesige, aufgeblähte Blase eines Schiffes, die hinter uns flog?"	"Ja, das ist ein experimentelles Frachtmodell. Es hat zwei Gondeln, eine für den Motor und eine für den Laderaum."	"Jetzt hör mal zu: Ich habe gesehen, wie dieser Laderaumteil von seinem Ballon abfiel und in der Luft auseinanderfiel, und aus ihm fielen einige Metallteile heraus. Das Schiff flog schon ziemlich tief, als das passierte. Wenn diese Dinger zu irgendetwas gut sind, sollten wir nach ihnen suchen - vielleicht haben sie den Absturz überlebt. Ich denke, wir sollten nördlich von hier nachsehen."	"Wirklich?! Das sind Panzerriesen! Wir haben sie für unsere Expedition angefordert, damit sie uns helfen, schwere Lasten zu transportieren, falls wir uns entschließen sollten, ein dauerhaftes Lager aufzuschlagen. Nun, Lager oder nicht, wir könnten diese Maschinen jetzt gut gebrauchen. Was ist, wenn wir wieder Besuch bekommen von diesen... Vögeln? Eidechsen? Was auch immer diese fliegenden Dinger sind, die uns in diese Klemme gebracht haben. Mal sehen, wie sie eine Wärmestrahlenbehandlung vertragen!"
+
+Name:
+Tlamac Hundred Thoughts
+Message:
+Dieser Wald fühlt sich viel zu unheimlich an. Ich habe schon lange keine Angst mehr vor der Dunkelheit und vor ungewohnten Geräuschen, aber hier, wenn ich nachts am Feuer Wache halte, fühle ich mich sehr unwohl. Es ist, als ob jemand versucht, meine Gedanken zu lesen und mir die eines anderen in den Kopf zu setzen...	Heute Nacht habe ich Wynonas Wache kurz vor dem Morgengrauen übernommen. Gerade dann, wenn man sich am müdesten fühlt... Um munter zu werden, nahm ich das Instrument heraus, das mir ein alter Mechaniker gebastelt hatte. Schon als Kind hatte ich versucht, das Pfeifen zu lernen, eine Rohrflöte, mit der jedes Kind in Eeofol fröhliche oder verträumte Melodien spielen konnte. Leider hatte ich überhaupt kein Ohr für Musik. Ich konnte nicht einmal das einfachste Lied spielen, eines über die dumme Kröte, das die kleinsten Kinder mühelos beherrschten. Die anderen Kinder verspotteten mich, ich wurde wütend und schlug sie, und so ging es weiter...	Eines Abends hörte ich in Burton den Klang dieses Instruments. Es war seltsam und anders als alles, was ich je zuvor gehört hatte; es breitete sich über die Einöde aus wie Kreise auf dem Wasser, und mein Herz flatterte bei diesem Klang. Zu meiner Freude musste ich die Noten nicht auswendig lernen, um sie zu spielen. Rougar, ein Meister in allem, was er tat, zeigte mir gerne, wie man sie spielt, und baute eine kleinere für mich. Er nannte sie eine Maultrommel.		Ich hielt die Harfe an meine Zähne und berührte leicht ihre Zunge. Zung... Der Klang flog über die Lichtung, auf der wir lagerten. Ich spürte sofort, dass etwas Seltsames und Unerwartetes geschah, aber ich konnte mir nicht helfen. Aus dem dunklen Waldstück schälte sich eine große, unbestimmte Gestalt, die auf mich zuging, als würde sie mit dem Geräusch mitschwingen.	"Ich grüße dich, kleine Frau. Ein Schamane kann einmal im Leben in die Zukunft sehen - und vor kurzem wurde mir offenbart, dass du kommen und mein Schicksal ändern würdest. Nun, ich wusste nicht genau, dass du es sein würdest; aber du trägst das Lied der Geister, den Boten, der unsere Gebete an die Götter überbringt. Ich kann mich nicht irren: Du warst es, auf den ich gewartet habe."	Die Stimme fühlte sich an, als ob sie nicht in der Realität, sondern direkt in meinem Kopf erklang. Ich sah nun klarer; ein imposanter Echsenmann stand vor mir, umhüllt von einer beschlagenen, schweren Goldkette. Man sagt, dass Echsenmenschen ihr ganzes Leben lang nicht aufhören zu wachsen - und, nun ja, so einen Riesen hatte ich noch nie gesehen. Er war jedoch unglaublich zerbrechlich, die Schwimmhäute der Auswüchse auf seinem Kopf waren schlaff und seine Zähne abgenutzt. Mir wurde klar, dass er kein Krieger von beispielloser Kraft war, sondern einfach ein uralter Echsenmensch.		"Tlamac Hundert Gedanken" ist mein Name. Wenn es dir nichts ausmacht, werde ich dich ab und zu besuchen und dir Geschichten über mich, mein Volk und diesen Ort erzählen. Ich spüre, dass du nach Wissen verlangst, und ich weiß, dass du es brauchen wirst, um hier zu überleben und das zu finden, was du dir wünschst."	"Was ich... begehre?"	"Du bist einsam, kleine Frau. Du weißt es vielleicht selbst nicht, aber dein Herz will nicht allein sein. Du befürchtest, dass du die Menschen, die dir nahe stehen, falsch eingeschätzt hast, und du könntest Recht haben. Keine Angst, du hast in mir bereits einen Freund gefunden, und du wirst neue finden. Einige ganz in der Nähe, andere weiter weg... Aber darüber reden wir ein anderes Mal. Komm zu mir in meine Hütte. Ich werde dir sagen, was du in diesen Ländern finden wirst, und dir helfen zu verstehen, wie."	Ich blinzelte ein paar Mal, sprachlos, und als ich die Augen wieder weit öffnete, war niemand da. Nur der dunkle Wald und die Glut des Feuers. Ich blickte zurück. Wynona stand ein paar Meter hinter mir.	"Hast du das gesehen? Hast du ihn gesehen?! Den, mit dem ich gesprochen habe?"	"Hmm. Nun, ich habe definitiv etwas gesehen. Kannst du mir sagen, was es war? Oder wer? Und was war das für eine seltsame Musik? Ich schwöre, das war alles, was ich die ganze Zeit gehört habe - kein einziges Wort. Und du weißt, dass ich meinen Ohren vertraue."
+
+Name:
+Tribes of Lizardmen
+Message:
+Tlamacs Hundert Gedanken sprach:	Jeder in diesen Wäldern hat seine eigene Art von Wirklichkeit. Die Legenden sagen, dass es Orte gibt, an denen das Leben ganz anders ist ... und jetzt, wo ich dich kenne, glaube ich, dass das stimmt. Nun, wenn deine ganze Welt dem Tod geweiht ist, wirst du mit Sicherheit sein Opfer werden, ob heute oder morgen... Aber bis es soweit ist, wirst du alles tun, um dir deinen eigenen kleinen Platz an der Sonne zu erkämpfen. Die Stämme haben sich schon so lange verfeindet, solange wir denken können. Vor langer Zeit waren wir friedlich. Wir kannten viele Wege, um in diesen Wäldern zu überleben - um Nahrung und einen sicheren Platz zum Schlafen und Vermehren zu finden. Wir hatten nichts, worüber wir uns streiten mussten... bis wir zu viele waren. Mein Stamm wurde damals die Steinkinder genannt - wir fanden tiefe Höhlen unter den Klippen der Blauen Klaue, kühl und trocken, und ließen uns dort nieder. Unsere Frauen brachten uns starke und zahlreiche Kinder zur Welt, und es war leicht für uns, Raubtiere und Feinde abzuwehren. Diejenigen, die nicht das Glück hatten, einen so sicheren Zufluchtsort zu finden, lebten weiter auf die alte Weise: Sie streiften durch die Wälder und freuten sich über jeden Tag, an dem niemand starb oder gefressen wurde... und in ihnen wuchsen Neid und Hass auf diejenigen, die den ewigen Kreislauf durchbrechen konnten. Für uns. 		Es gab keine Gemeinsamkeit unter ihnen; es waren mehrere Stämme, jeder mit seinem eigenen Anführer und seinen eigenen Sitten und Gebräuchen. Und es war bereits Blut zwischen ihnen geflossen ... doch es gab einen, der ihnen ein gemeinsames Ziel gab. Sie wussten, dass sie sich bald an die Kehle gehen würden, aber Tepotl Hollow Eye überzeugte sie davon, dass sie zuerst Schulter an Schulter stehen und die Schmach, die dem Ursprung unseres Volkes angetan wurde, auslöschen mussten. Wir, die Steinkinder.
+
+Name:
+Couatls
+Message:
+Tlamacs Hundert Gedanken sprachen:	In jenen Tagen kannten die Krieger noch Ehre. Wir hätten in unseren Höhlen bleiben können, geschützt durch ihre Mauern. Doch Häuptling Pichi Rote Wolke holte sein Volk aus der Erde und bereitete sich auf die Schlacht vor. Unsere Krieger waren stark und geschickt im Umgang mit Schwert und Keule... aber Tepotl hatte die Bögen. Eine seiner Augenhöhlen war leer - es hieß, er habe sein Auge von der Klaue einer großen gefiederten Schlange herausgerissen bekommen. Niemand hatte je eine Begegnung mit dieser Kreatur überlebt, dem stärksten und gefährlichsten Wesen unserer Legenden - Couatl. Es machte keinen Unterschied, ob Tepotl tatsächlich gegen eine solche Schlange gekämpft hatte oder ob er sich nur ein Märchen ausgedacht hatte, um andere in Ehrfurcht zu versetzen. Sein anderes Auge sah gut, zu gut. Er hatte nicht nur diese heimtückische Waffe selbst gemeistert, sondern auch mehrere hundert Krieger im Bogenschießen ausgebildet. Ihre Bögen waren schwach und sie waren schlechte Schützen, aber sie schalteten trotzdem die Hälfte unserer besten Krieger aus, noch bevor sie ihre Reihen erreichten.	Jeder unserer Männer kämpfte, als wäre er vom Geist des Quetzal selbst besessen, aber es reichte nicht annähernd aus. Sie fielen, und ein Dutzend Feinde stürzte sich auf jeden, der fiel, riss die Besten unseres Stammes in Stücke, verschlang ihre Herzen, schändete und plünderte ihre Körper. Die Schlacht war noch nicht zu Ende, und schon hatte der Streit unter ihnen begonnen, und hier und da flammten auf dem blutgetränkten Feld Gefechte und Zankereien auf.  Die Schlacht war noch nicht zu Ende, doch schon hatte der Streit unter ihnen begonnen, und hier und da flammten auf dem blutgetränkten Feld Scharmützel und Streitereien auf. Aber die Hundert Kriecher, Tepotls Leibwächter, allesamt mächtige Riesen, von denen jeder ein Auge herausgeschnitten hatte, um wie sein Anführer auszusehen, stürzten sich immer wieder auf die Reste unserer Armee. Es dauerte nicht lange, bis sie in unsere Höhlen eindrangen und den Steinkindern den Garaus machten. Und dann tat mein Vorfahre, der große Schamane Hoatzin Rock Mind, das, worauf er sich sein ganzes Leben lang vorbereitet hatte. Er stieß sich ein Messer in die Brust, sang einen Zauberspruch und wandte seinen Geist der Großen Schlange zu. Sein Sohn Xochi, der sich damals noch keinen richtigen Schamanennamen verdient hatte, zog die Klinge aus dem Körper seines Vaters, und das sprudelnde Blut funkelte regenbogenrot in den Strahlen der untergehenden Sonne. Vom Himmel kam ein vielstimmiges Gebrüll. Die Couatls nahmen Hoatzins Opfer an und fielen über unsere Feinde her.	Blutige Federn. Das war der Name, den die Überbleibsel meines Stammes nach dieser Schlacht annahmen. Die Gefiederten Schlangen badeten im Blut der Krabbler und ihrer Verbündeten, und meine Sippe widmete die Zukunft des Stammes ihren Rettern. Es gab zu wenige Überlebende in Tepotls Armee, um weiterhin als getrennte Stämme zu leben. Seitdem nennt man sie die Nachtkriecher, und ihr ganzes Leben besteht darin, uns und unsere lebenden Götter zu verfolgen und zu jagen.
+
+Name:
+Pirates and slavers
+Message:
+Tlamacs Hundert Gedanken sprach:	Vor hundert großen Umdrehungen des Firmaments glaubten wir, dass unsere Inseln die ganze Welt sind und wir, die Blutigen Federn, ihre Herrscher sind. Seitdem haben wir viele Dinge gelernt, die unsere Vorstellungen von der Ordnung des Universums erschüttert haben... In alten Zeiten scheuten wir die Bitteren Wasser, da sie unsere Haut verbrannten, und nur in äußerster Not bestiegen wir unsere geschnitzten Boote, um zwischen den Inseln zu reisen. Nachdem die gefiederten Götter in unser Leben getreten waren, baten wir sie, uns über die Gewässer zu tragen, und wir hatten keine Angst mehr, die Inseln zu bereisen. Doch wir sahen nie ein anderes Land als unser eigenes, selbst wenn wir in den Himmel flogen und uns an den Hals eines Couatl schmiegten.	Selbst lange nachdem wir die Hallen des Blutes verlassen hatten, ahnten wir nicht, dass es jenseits der Bitteren Wasser andere empfindungsfähige Wesen gab, obwohl unsere Legenden besagten, dass es irgendwo ein anderes Land gab, das von Menschen wie uns bewohnt wurde und in dem auch die Verwandten unserer Götter wohnten. Wir blieben unwissend, bis ein riesiges Schiff an unsere Küste kam, das wir noch nie zuvor gesehen hatten. Seltsame, kahle Bäume wuchsen aus ihm heraus, und von seinen Ästen hingen riesige, zerschlissene Tücher.	Wir beobachteten die Wesen, die das große Boot verlassen hatten. Ihr Aufenthalt auf den Inseln war nicht lang; sie fällten ein paar Bäume, schnitten sie zurecht, befestigten sie an den Löchern in den Seiten ihres Schiffes und fuhren weg.  Ich verbrachte mehrere Wochen damit, darüber nachzudenken, was ich gesehen hatte, und versuchte, meinen Stammesangehörigen das Ereignis zu erklären, aber die Zeit reichte nicht aus, um mir eine Meinung über die Kreaturen zu bilden, die ich gesehen hatte. Eines Tages tauchten mehrere Boote wie das erste auf dem Meer auf; drei von ihnen trugen schwarze Tücher, und zwei andere, schmutzig und träge, sahen etwas anders aus. Sie wurden von langen Rudern angetrieben. An diesem Tag wurde mir klar, dass es außerhalb unseres Landes keinen Frieden gab. Natürlich wäre es unsinnig, darauf zu hoffen; empfindungsfähige Wesen haben immer eine Rechnung mit anderen zu begleichen, und je mehr von ihnen in der Nähe leben, desto stärker ist der Wunsch, es zu tun. Mehrere Dutzend gefesselte Männer wurden von den Ruderbooten an Land gebracht. Andere, wie diejenigen, die das erste Mal hierher gekommen waren, bauten aus Holzstämmen Pferche, in die die Gefangenen gelegt und mit Schlägen und Tritten angetrieben wurden. Nach ein paar Tagen kamen andere Boote und nahmen sie mit, und seither kamen und gingen die Schiffe immer wieder, und es gab nie einen Mangel an lebenden Waren in den Pferchen.	In den alten Tagen der Blutigen Federn hätten wir solche Nachbarn niemals geduldet. Unsere Sitten verabscheuen Gefangenschaft; wir töten einen besiegten Feind entweder sofort oder lassen ihn frei, wenn die Ehre oder höhere Beweggründe es verlangen. Was wir sahen, war unserem gesamten Dasein zuwider... aber jetzt waren wir schwach und mussten an unsere Zukunft denken. Neue Feinde zu machen, von deren Stärke und Macht wir keine Ahnung hatten, wäre nicht hinnehmbar. Der ewige Krieg mit den Kriechern war schon anstrengend genug... Die ungebetenen Gäste versuchten nie, tief in unser Land einzudringen, und wir beschlossen einfach, sie zu meiden. Erst viel später erfuhren wir, dass unsere Feinde, die es mit ihren Beziehungen nicht so genau nahmen, mit den Fremden Geschäfte gemacht hatten.	Vor einigen Jahren sah ich zum ersten Mal Geschöpfe wie dich, kleine Frau, unter den Sklaven, die mit Schiffen hierher gebracht wurden. Bevor ich dir begegnete, dachte ich, es seien Junge; aber jetzt weiß ich, dass die Sklavenhändler nie Kinder hierher gebracht hatten. Offenbar können sie die Reise über die Bitteren Wasser nicht überleben. Es gibt auch jetzt noch ein paar wie dich, die in den Sklavenlagern schuften...
+
+Name:
+Crimson Couatls
+Message:
+Tlamacs Hundert Gedanken sprach:	Die großen Schlangen ließen uns gewähren und akzeptierten uns als ihre jüngeren Freunde. Mit der Zeit erfuhren wir mehr darüber, wie unsere Retter lebten; sie ließen unsere Schamanen sogar in die abgelegenen Täler, in denen sie ihre Nester bauten. Zu unserer großen Überraschung verlieh das Zusammenwirken des heißen Blutes der Kriecher und der Magie von Hoatzin den Federn der Couatls, die in jener Schlacht gekämpft hatten, eine dauerhafte karmesinrote Färbung. Niemand hätte je gedacht, dass es möglich wäre, einen Gott zu ändern. Niemand hätte sich vorstellen können, dass ein Gott stärker gemacht werden könnte - und zwar nicht durch Gebete oder Opfer... Die purpurfarbenen Couatls waren anders geworden. Sie warteten nicht mehr auf Opfergaben und hockten mit einer Aura des Segens auf ihren Nestern, sondern sie gingen auf die Jagd nach den Herzen unserer Feinde. Sie waren unaufhaltsam, ihre Federn warfen Pfeile und Schwerter zurück, und ihre Reißzähne und Krallen brachten den Tod.	Blut, Zauberei und Hitze. Xochi, der Schamane, erkannte, dass das, was auf dem Schlachtfeld geschehen war, wiederholbar war. Er verbrachte sein Leben mit dem Versuch, das Geheimnis dieser Verwandlung zu ergründen. Im Sterben übergab er seinem Sohn ein Ei, das er jahrelang in einer tiefen Höhle verzaubert hatte, die von den Feuern rauchte und nach verfaultem Blut und Asche stank. In dem Moment, in dem sein Geist sich aufmachte, um Quetzal zu treffen, hörte man ein Klappern aus dem Inneren des Eies. Ein neuer Karminroter Couatl war im Begriff, diese Welt zu sehen.		Drei weitere Generationen vergingen. Die Blutigen Federn hatten die Höhlen verlassen, in denen unser Stamm alles überlebt hatte - Hunger, Frost, Angriffe unzähliger Feinde, Krankheiten... Wir zogen in eine neue unterirdische Stadt, die neben einem feuerspeienden Berg lag. Die riesigen Hallen waren geräumig genug für die gefiederten Schlangen und heiß genug, um die Pflege der Eier mit den Karminroten Couatls zu einer Aufgabe zu machen, die selbst ein Schamanenlehrling bewältigen konnte. Bei dieser gleichmäßigen, konstanten Hitze musste er sie nur von Zeit zu Zeit umdrehen, ihnen mit Zauberkräutern gebrautes Blut einflößen und ihnen seine Energie durch lang erlernte Beschwörungsformeln zuführen, die der Schlangenbruder Xochi geschaffen hatte. Wir herrschten über zwei Drittel der Inseln, drängten die Crawler immer weiter zurück und ahnten nicht, dass sich das Schicksal bald von unten nach oben wenden würde....
+
+Name:
+Tlamac's Story
+Message:
+Tlamacs Hundert Gedanken sprach:	Wir konnten nicht länger dort leben, wo unsere Götter nicht da waren; jeder der Blutigen Federn musste mindestens einmal am Tag beten, indem er sich an den Körper eines Couatl klammerte, oder er verlor seine Kraft. Echsenmenschen vertragen intensive, trockene Hitze nicht besonders gut, aber die Gnade der großen Schlangen genügte uns, um uns gesund zu fühlen. Schlimmer noch, unsere Frauen legten immer mehr leere Eier... und selbst die wenigen fruchtbaren Eier brachten nur sehr wenige Weibchen hervor. In nur drei Generationen, nachdem wir in die Hallen des Blutes gezogen waren, hatte sich die Zahl unseres Stammes halbiert.	Häuptling Titipan Zweischwanz tat, was er tun musste. Er brachte einen Fluch über sich selbst, aber er rettete seinen Stamm vor der Entartung. Seine Bande stürmte die Hallen des Schamanen, schlachtete alle ab, die sich in den Weg stellten, und zerstörte alle Eier. Dann führte Titipan den Stamm aus den heißen Höhlen zurück in die Steintunnel unter der Blauen Klaue. In den folgenden Tagen starben viele, die es nicht ertragen konnten, von ihren verlorenen Göttern getrennt zu sein. Unter ihnen war auch Häuptling Titipan, der in seinen letzten Stunden weinte und die Große Schlange um Vergebung und Gnade anflehte. Quetzal erhörte seine Bitte: Diejenigen, die überlebten, konnten mit der unterbrochenen Verbindung zu den Couatls weiterleben, ohne deren Segen... aber auch ohne ihre Hoffnung auf die Zukunft um der jetzigen willen opfern zu müssen.		Titipans Leibwächter überlisteten nicht nur die Schamanen, sondern auch die Couatls selbst. Sie hatten nur Liebe und Ehrfurcht in ihren Seelen, und so witterten die großen Schlangen keine Gefahr, als die Krieger, die sich an ihre Hälse schmiegten und die heiligen Worte der Anbetung flüsterten, plötzlich ihre langen Messer zogen und ihre Götter in einem Augenblick abschlachteten - Erwachsene, Junge, frisch Geschlüpfte und die altersschwachen, die ihre Nester nicht mehr verließen... Keiner, der die Hand gegen einen Gott erhoben hatte, überlebte auch nur eine Stunde danach; der Kummer tötete jeden einzelnen. Es gab nur eine winzige Halle, die sie nicht gefunden hatten; niemand wusste von ihr, außer den direkten Nachkommen von Hoatzin und Xochi. In dieser Halle, in einem kleinen Korb, lagen ein paar Eier; der Schlangenbruder hatte seinen Kindern aufgetragen, sie hier aufzubewahren, ganz gleich, was geschah oder welche Schwierigkeiten über den Stamm hereinbrachen. Ein junger Schamanenlehrling, der sich eine Wunde in der Seite zuzog, betrat die Halle, setzte den Korb mit einem Zischen auf seinen Rücken und verschwand in einem Geheimgang, den er hinter sich zuschlug. Er war hundert große Schritte zurück. Der Name des Lehrlings war Tlamac. Er steht heute vor Ihnen.
+
+Name:
+Halfling
+Message:
+Wir gingen den Weg entlang, den uns Tlamacs Freunde als vergleichsweise sicheren Weg gezeigt hatten, selbst für diejenigen, die nicht ihr ganzes Leben im Dschungel verbracht hatten. Hier konnten wir uns ein wenig entspannen; jedes Rascheln und jeden Schatten im Auge zu behalten, war doch sehr ermüdend. Ich hingegen konnte mir diesen Luxus nicht leisten, denn der Kommandant musste immer auf der Hut sein. Ich hatte begonnen, mich in diesen Wäldern zurechtzufinden, und viele Dinge, die mir zuvor verborgen geblieben waren, entgingen nicht mehr meiner Aufmerksamkeit - aber dieses Mal wäre ich vorbeigestapft und hätte nie das Wichtigste in meinem Leben gelernt... wenn Wynona nicht gewesen wäre. Das Ohr der Dunkelelfe zuckte, und im nächsten Moment sprang sie mit einem gezückten Dolch ins Gebüsch. Nach einigen Sekunden des Gerangels zog sie... einen Halbling heraus. Er war grauhaarig, abgemagert und in ein paar Lumpen gekleidet. Ich untersuchte zuerst seinen Körper und seine Hände, um zu entscheiden, ob er eine Gefahr darstellen könnte, und erst dann sah ich mir sein Gesicht an. Es war wie ein weiterer Blitzschlag aus Fredericks Generator. Eine Explosion aus der Vergangenheit. Eine Erinnerung, die ich für ausgelöscht hielt.	"On... Onkel Kett...?"	"So hieß ich früher auch... Mondkind?!"	"Kett! Ich bin's! Ich bin es! Henrietta! Welches Mondkind? Hast du mich vergessen?"	"Wie könnte man dich vergessen? Genau das sage ich ja auch. Ich hätte nie gedacht, dass ich dich vor meinem Ableben noch einmal sehen würde. Ich hoffte nur, es jemandem zu sagen. Wir kämpfen. Noch sind nicht alle von uns zu Dämonenfleisch geworden. Wir befinden uns im Krieg."		"Welcher Krieg? Sind die Teufel wieder über jemanden hergefallen? Ich habe gehört, dass sie sich in Erathia bedient haben. Und wer ist 'wir'?!"	"Wir... diejenigen, die zurückgeblieben sind, als ihr gegangen seid. Manche nennen uns Guerrillakämpfer, andere mögen eher 'Höhlenratten' ... heh, heh, verdammt richtig, wir beißen. Und wenn wir es tun, sticht es. Und du... ohhhh."	"Onkel Kett! Was ist denn los? Wynona! Er atmet kaum noch!"	"Sieh her, Henrietta. Diese Wunde... und diese hier... Wenn ich noch Zeit hätte, könnte ich versuchen, die Infektion aus ihnen herauszuziehen und die Wunden wieder zu versorgen. Es tut mir leid, aber dafür ist es jetzt zu spät. Er liegt im Sterben. Das ist alles, was ich tun kann..."	Wynona gab dem Sterbenden einen Schluck des Elixiers, und seine Augen öffneten sich. Keuchend murmelte der Halbling:	"Hör mir zu, Henrietta... Erathia und AvLee sind in Eeofol eingefallen und kämpfen gegen die Teufel. Wir wollten helfen und haben jeden, der eine Waffe halten konnte, aus unseren Verstecken geholt. Unser Trupp griff eine Küstenstadt der Kreeganer an - wir schlichen uns dort durch einen Unterschlupf ein und wurden dann verraten. Olema, das verfluchte Halbblut... schickte diejenigen, die die Schlacht überlebten, zu Luzifers Vergnügen nach Kreelah, aber das Schiff wurde von Piraten versenkt... Ich habe es allein rausgeschafft..."	Kett begann fürchterlich zu keuchen und rollte die Augen zurück. Ich packte ihn am Kopf und schüttelte ihn:	"Onkel Kett! Onkel... Bitte, atme, geh nicht... Deine Truppe? Waren da noch andere? Und sie sind alle gestorben?"		"Ahhh... Mondkind... Wie gut, dass ich dich gesehen habe... Bitte vergib mir. Ich bitte dich für alle, die... Der Name deiner... deiner Mutter war Auna. Frag Tavin nach ihr..."	"Tavin? Tavin ist am Leben?! Kett! Kett!"	"Er ist tot, mein Freund. Lass ihn sich ausruhen. Er hat es verdient."	Ich saß auf dem Boden mit dem Kopf des alten Mannes in meinem Schoß und schluckte bittere Tränen. Es gab keine Worte.	"Ich glaube, ich weiß, wohin wir gehen, wenn wir von diesen Inseln weg sind."	"Wynona, ich..."	"Du weißt es doch selbst ganz genau. Ich kenne dich erst seit kurzem, aber ich habe schon viel über dich gelernt. Dein Herz ist der Ort, an dem du geboren wurdest. Eeofol hat all die Jahre in deiner Seele gelebt. Ich kenne diesen Ort nicht, aber er muss wunderschön sein. Deinem Land die Freiheit zu bringen - was für ein Ziel für einen wahren Krieger!"	"Hältst du mich auch für einen Krieger?"	"'Auch'? Du meinst, es gibt andere, die das sagen? Nun, dann ist es an der Zeit, deine Berufung anzunehmen."	"Ich muss darüber nachdenken. Vielleicht kann Tlamac mir helfen, mich zu verstehen..."
+
+Name:
+Pactal's Lair
+Message:
+Tlamacs Hundert Gedanken sprachen:	Pactal Kinderfresser ist ein großer Anführer. Ihr seid überrascht, dass ich so von ihm spreche, nicht wahr? Ich bin einfach viel zu alt, um mein Urteilsvermögen von Hass trüben zu lassen. Er ist stark und beweglich, hart und scharf wie der Zahn eines Blutsaugerfroschs, aber sein Geist ist formbar und empfänglich für alles, was seinem Stamm nützen könnte. Eure Luftschiffe wurden von seinen Flügeldrachen angegriffen - ich weiß nicht, wo Pactal sie gefunden hat, und er verehrt sie sicher nicht so, wie wir die Couatls verehren ... aber irgendwie hat er es geschafft, solch mächtige Kreaturen, die in unseren Ländern unbekannt sind, in seinen Dienst zu stellen, und nicht nur sie. Er hat es geschafft, aus den Hundsköpfen, die wir immer für Ungeziefer hielten, das nicht einmal einen Tritt wert ist, Kämpfer zu machen - ein wütender Schrei genügte, um sie in die Büsche huschen zu lassen. Seine Krieger segeln in Schiffen zwischen den Inseln hin und her, kämpfen in Formation, führen Waffen und benutzen Geräte, von denen ich noch nie gehört habe, und er selbst taucht plötzlich hier und da auf und schläft nie zwei Nächte hintereinander im selben Feldlager. Als ob er die Pläne seiner Feinde zwei Schritte voraussehen könnte. Aber ich weiß etwas über ihn...	Pactal will alle Inseln für sich beanspruchen - wenn nicht für sich selbst, dann für seinen Sohn. Vor einigen Jahren hat er das Ei der fünften Frau des alten Häuptlings der Blutigen Federn gestohlen, aber entgegen seiner Gewohnheit ließ er einige der Eier unberührt. Er zieht eines der Mädchen auf und beabsichtigt, es zu heiraten; 	Pactal will alle Inseln für sich beanspruchen - wenn nicht für sich selbst, dann für seinen Sohn. Vor einigen Jahren hat er ein Ei gestohlen, das von der fünften Frau des alten Häuptlings der Blutigen Federn gelegt wurde, aber entgegen seiner Gewohnheit ließ er einige der Eier ungegessen. Er zieht eines der Mädchen auf und beabsichtigt, es zu heiraten; Kinder von ihr werden sein Schlüssel zu unbegrenzter Macht über alle Echsenmenschen unserer Inseln sein. Und ich bin nicht überzeugt, dass das eine schlechte Zukunft für meine Sippe wäre...	Wie auch immer, wenn ihr Pactal das Hohle Auge entreißen wollt, müsst ihr den Ort finden, an dem der Kinderfresser seine zukünftige Frau gefangen hält. Sicherlich verbringt er dort die Zeit zwischen seinen Feldzügen. Der alte Tlamac hat Freunde unter den unsichtbaren Geistern der Wälder und Sümpfe. Hör zu, was sie mir erzählt haben...	Nur wenige Auserwählte, an denen Pactal nicht zweifelt, dürfen seine Höhle betreten. Das sind die Befehlshaber seiner Wache, und es gibt auch einen Piratenkapitän, der ihm das Hohle Auge verkauft hat und der dieses Vertrauen genießt. Glücklicherweise haben die Echsenmenschen ein sehr schlechtes Gedächtnis für menschliche Gesichter... Sie erkennen den Kapitän an seiner Rüstung, seinem Schild, seinem Dreizack und seiner Krone, alles kunstvolle Artefakte von großer Macht. Ich denke, ihr könntet versuchen, ähnliche zu finden. Wenn einer eurer Krieger mit diesen Artefakten vor den Wachen erscheint, werden sie ihn für den Hauptmann halten und ihn eintreten lassen. Sie werden verlangen, dass ihnen die Artefakte zur sicheren Aufbewahrung übergeben werden, aber das ist dann nicht mehr wichtig.
+
+===== Heroes =====
+
+===== Objects =====
+
+(29, 66, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Ñèíèé ÈÈ - 142 - Ïîñòğîéêà âåğôè
+Message:
+
+
+(15, 101, 0) ***Cove***
+
+Visiting Knight:
+Name:
+Steed
+
+Timed events:
+
+Name:
+Pink AI - Castle
+Message:
+
+
+Name:
+Pink AI - bonus
+Message:
+
+
+(49, 21, 0) ***Fortress***
+
+Timed events:
+
+Name:
+Ñèíèé ÈÈ - 332 -  Âåğôü
+Message:
+
+
+Name:
+Ñèíèé ÈÈ - 511 - Òàâåğíà
+Message:
+
+
+(30, 67, 0) ***Beastmaster***
+Name:
+Ksharek
+
+(11, 74, 0) ***Seer's Hut***
+Message:
+Vor ein paar Monaten kamen meine Magierkollegen und ich vom Kontinent, um diese Inseln zu erforschen. Gerüchten zufolge gibt es hier magische Kugeln, die in der Lage sind, Wassermagie-Zauber zu verstärken. Diese Kugeln wurden von einer Zivilisation erschaffen, die über diese Inseln herrschte, noch bevor die Echsenmenschen hier siedelten. Unsere Suche war bisher erfolglos, aber ich bin mir sicher, dass sie hier sind. Bringt mir eine dieser Kugeln und ich werde sie gegen eine Schriftrolle mit dem Klonzauber eintauschen. Aber seid gewarnt: Ich vertraue nur Dunkelelfen.
+Ich habe die Kugel noch nicht gefunden. Vielleicht solltet Ihr in den Höhlen oder in Couatl-Nestern nachsehen?
+Diese Kugel ist genau das, was ich brauche!
+Du hast deinen Teil der Abmachung eingehalten, und ich halte meinen ein.
+Ich vertraue dir nicht. Du bist kein Dunkelelf!
+Willst du die Kugel gegen eine Klonzauberschriftrolle tauschen?
+
+(78, 94, 0) ***Navigator***
+Name:
+Darand
+
+(19, 106, 0) ***Sign***
+Message:
+Außenposten der Söldnergilde
+
+(9, 57, 0) ***Seer's Hut***
+Message:
+Seht ihr diese Ruinen? Sie sind alles, was von einem lange verschollenen Reich übrig geblieben ist, das einst die südlichen Küsten von Jadame dominierte. Ich kam auf diese Inseln, um die Artefakte zu studieren, die dort in alten Zeiten geschaffen wurden, aber auf diesen Inseln wimmelt es nur so von blutrünstigen Wilden, Sklavenhändlern und Piraten. Wäre ich ein stärkerer Mann, hätte ich diese Gegend erforschen können, aber ich bin alt. Was kann ich tun? Die Artefakte, an denen ich interessiert bin, sind das Elixier des Lebens, der Bogen des Meisterschützen und der Zauberbrunnen. Meine Schüler versuchen schon seit langem, sie aufzuspüren, aber bisher haben sie nur herausgefunden, dass die Artefakte im Laufe der Jahrhunderte in mehrere Teile zerbrochen worden sind. Leider konnte ich die meisten dieser Artefakte nie ausfindig machen, aber die Phiole des Lebensblutes befindet sich in den Händen eines Sehers, der in den Höhlen nahe der Höhle des Hexers lebt.
+Leider brauche ich das Elixier des Lebens, den Bogen des Meisterschützen und den Zauberbrunnen. Keine anderen Artefakte können mir bei meinen Forschungen helfen.
+Diese Artefakte sind genau das, was ich brauche! Wärt Ihr bereit, sie mir zu geben?
+	Früher, bevor ich mich für antike Ruinen interessierte, war ich Ausbilder an einer Militärakademie. Ihr wart eine große Hilfe, also bin ich bereit, Henrietta zu lehren, was ich weiß.	
+Ich dachte, ich hätte mich klar ausgedrückt, dass ich nur mit Henrietta reden will.
+Ich kann eure Truppen in Verteidigungstechniken ausbilden. Möchtet ihr, dass die Soldaten an dem Training teilnehmen?
+Früher, bevor ich mich für antike Ruinen interessierte, war ich Ausbilder an einer Militärakademie. Ihr wart eine große Hilfe, also bin ich bereit, Wynona zu lehren, was ich weiß.
+Ich dachte, ich hätte mich klar ausgedrückt, dass ich nur mit Wynona reden will.	
+Ich kann eure Truppen in Verteidigungstechniken ausbilden. Möchtet ihr, dass die Soldaten an dem Training teilnehmen?
+
+(3, 4, 0) ***Beastmaster***
+Name:
+Shaabar
+
+(81, 99, 0) ***Sign***
+Message:
+Aalinsel
+
+(41, 47, 0) ***Lizard Warrior***
+Message:
+Pactal überraschte uns, verweigerte uns jedoch den ehrenvollen Tod im Kampf. Wir wurden in Netze gefangen und wie Vieh verkauft. Schande, welche Schande! Es gibt keine Möglichkeit, sie zu vergessen; alles, was wir jetzt tun können, ist, unser Leben für Rache an demjenigen zu geben, der uns so entehrt hat. Wirst du uns diese Chance geben?
+
+(58, 34, 0) ***Ayssid***
+Message:
+Die Ayssiden gehorchen den Befehlen, die auf dem Pergament stehen, das der Sklavenhändler dir zusammen mit dem Kaufvertrag gegeben hat, und steigen von ihren hohen Stangen herab und landen um dich herum. Die Kreaturen sind offensichtlich gut trainiert und warten auf deine Befehle.
+
+(60, 37, 0) ***Halfling***
+Message:
+Das ist mal eine Begegnung! Und ich dachte, die Geschichten, dass jemand während der Teufelsinvasion aus Eeofol entkommen ist, wären nur erfunden. Wir? Wir kommen von der Küste. Zwischen uns und dem Land, das die roten Teufel erobert haben, liegt ein Gebirgszug, deshalb sind sie nie in unsere Gegend gekommen. Es gibt dort nur zwei Dörfer von uns, oder sollte ich sagen, es gab sie. Niemand wusste über uns Bescheid, und wir haben uns jahrelang sehr zurückgehalten, aber vor einem Mond trieb ein Windhauch einen Piratenschoner in unsere Bucht. Diese Mistkerle schnappten uns und stopften uns in ihren Laderaum; wer nicht hineinpasste, wurde getötet. Ich weiß, dass du dich nicht für diese Geschichten interessierst, aber willst du etwas Erstaunliches wissen? Es saß bereits ein Halbling im Laderaum. Nun, die meiste Zeit lag er da, im Delirium seiner Wunden. Wir konnten nur herausfinden, dass sein Name Kett war; er stammte nicht aus unserer Gegend, sondern war irgendwo in Eeofol aufgeschnappt worden. Als der Schoner hier anlegte und wir aus dem Laderaum geworfen wurden, stimmte der Papierkram des Kapitäns nicht. Sie zählten uns zehnmal nach, aber jedes Mal fehlte einer. Schließlich spuckte das fette Schwein, das hier das Sagen hat, aus und willigte ein, uns so zu nehmen, wie wir sind.  Später haben wir uns gezählt, und Kett war weg. Geflohen? Von der Landungsbrücke gefallen und ertrunken? Ich weiß es nicht. Ist auch egal. Ich will nur lebend hier rauskommen. Nimmst du uns mit?
+
+(54, 43, 0) ***Seer's Hut***
+Message:
+Die Sklavenhändler widern dich an. Am liebsten würdest du ihren Stützpunkt niederreißen und sie alle an den Bäumen aufhängen, aber du erinnerst dich an Tlamacs Worte: Der alte Schamane bat dich, nicht noch mehr Ärger über seinen Stamm zu bringen oder ihn in neue Kämpfe zu verwickeln, während er von den rücksichtslosen Paktalen bedroht wurde. In einer Hütte mit der schiefen Inschrift "Manpowa for evry taste and poket" sitzt ein dicker, schlitzohriger Mann in einem Gewand aus Samt, entweder ein Pirat im Ruhestand oder ein schurkischer Händler. 	 Ah, wie schön, neue Gesichter in unserem bescheidenen Handelsposten zu sehen! Ich hoffe, dass ihr als Stammkunden wiederkommt, denn unser Angebot wird regelmäßig mit den erlesensten Waren aufgefüllt. Heute habe ich drei Angebote für euch: Ayssiden, eine Direktlieferung aus Solendore, die er persönlich an einigen Meeresklippen fängt; Couatls, eine lokale Spezialität, die sich hervorragend für Arenakämpfe eignet; Echsenmenschen, eine Gruppe von Leibwächtern eines lokalen Prinzen, sehr geschickte Bogenschützen. Ach ja, fast hätte ich es vergessen: Es gibt auch ein paar Halblinge, die erst kürzlich angeliefert wurden, ein wenig abgemagert und zerlumpt, aber bei den Göttern, sie können mit Schleudern umgehen! Der Preis für einen Posten beträgt nur 5000 Münzen und 10 Edelsteine. Sobald ihr bezahlt habt, gebe ich euch einen Kaufvertrag und eine Marke, die ihr der Wache am Pferch zeigen müsst.
+	Der Sklavenhändler ist immer noch liebenswürdig, aber unerschütterlich:	 Wohltätigkeit ist die Aufgabe unseres Vorstandes. Dazu bin ich nicht befugt. Münzen und Edelsteine, tut mir leid, aber mehr kann ich nicht annehmen. 
+Der Händler lächelt übertrieben und streckt eine fleischige Handfläche aus:	 Ich bin überglücklich, dass unsere Waren Ihr Interesse geweckt haben. Hier, ich habe die Papiere und die Wertmarke vorbereitet, seid ihr bereit zu zahlen? 
+Die Sklavenhändler widern dich an. Am liebsten würdest du ihren Stützpunkt niederreißen und sie alle an den Bäumen aufhängen, aber du erinnerst dich an Tlamacs Worte: Der alte Schamane bat dich, nicht noch mehr Ärger über seinen Stamm zu bringen oder ihn in neue Kämpfe zu verwickeln, während er von den rücksichtslosen Paktalen bedroht wurde. In einer Hütte mit der schiefen Inschrift "Manpowa for evry taste and poket" sitzt ein dicker, schlitzohriger Mann in einem Gewand aus Samt, entweder ein Pirat im Ruhestand oder ein schurkischer Händler. 	 Ah, wie schön, neue Gesichter in unserem bescheidenen Handelsposten zu sehen! Ich hoffe, dass ihr als Stammkunden wiederkommt, denn unser Angebot wird regelmäßig mit den erlesensten Waren aufgefüllt. Heute habe ich drei Angebote für euch: Ayssiden, eine Direktlieferung aus Solendore, die er persönlich an einigen Meeresklippen fängt; Couatls, eine lokale Spezialität, die sich hervorragend für Arenakämpfe eignet; Echsenmenschen, eine Gruppe von Leibwächtern eines lokalen Prinzen, sehr geschickte Bogenschützen. Ach ja, fast hätte ich es vergessen: Es gibt auch ein paar Halblinge, die erst kürzlich angeliefert wurden, ein wenig abgemagert und zerlumpt, aber bei den Göttern, sie können mit Schleudern umgehen! Der Preis für einen Posten beträgt nur 7500 Münzen und 10 Edelsteine. Sobald ihr bezahlt habt, gebe ich euch einen Kaufvertrag und eine Marke, die ihr der Wache am Pferch zeigen müsst.
+	Der Sklavenhändler ist immer noch liebenswürdig, aber unerschütterlich:	 Wohltätigkeit ist die Aufgabe unseres Vorstandes. Dazu bin ich nicht befugt. Münzen und Edelsteine, tut mir leid, aber mehr kann ich nicht annehmen. 
+Der Händler lächelt übertrieben und streckt eine fleischige Handfläche aus:	 Ich bin überglücklich, dass unsere Waren Ihr Interesse geweckt haben. Hier, ich habe die Papiere und die Wertmarke vorbereitet, seid ihr bereit zu zahlen? 
+Die Sklavenhändler widern dich an. Am liebsten würdest du ihren Stützpunkt niederreißen und sie alle an den Bäumen aufhängen, aber du erinnerst dich an Tlamacs Worte: Der alte Schamane bat dich, nicht noch mehr Ärger über seinen Stamm zu bringen oder ihn in neue Kämpfe zu verwickeln, während er von den rücksichtslosen Paktalen bedroht wurde. In einer Hütte mit der schiefen Inschrift "Manpowa for evry taste and poket" sitzt ein dicker, schlitzohriger Mann in einem Gewand aus Samt, entweder ein Pirat im Ruhestand oder ein schurkischer Händler. 	 Ah, wie schön, neue Gesichter in unserem bescheidenen Handelsposten zu sehen! Ich hoffe, dass ihr als Stammkunden wiederkommt, denn unser Angebot wird regelmäßig mit den erlesensten Waren aufgefüllt. Heute habe ich drei Angebote für euch: Ayssiden, eine Direktlieferung aus Solendore, die er persönlich an einigen Meeresklippen fängt; Couatls, eine lokale Spezialität, die sich hervorragend für Arenakämpfe eignet; Echsenmenschen, eine Gruppe von Leibwächtern eines lokalen Prinzen, sehr geschickte Bogenschützen. Ach ja, fast hätte ich es vergessen: Es gibt auch ein paar Halblinge, die erst kürzlich angeliefert wurden, ein wenig abgemagert und zerlumpt, aber bei den Göttern, sie können mit Schleudern umgehen! Der Preis für einen Posten beträgt nur 10000 Münzen und 15 Edelsteine. Sobald ihr bezahlt habt, gebe ich euch einen Kaufvertrag und eine Marke, die ihr der Wache am Pferch zeigen müsst.
+	Der Sklavenhändler ist immer noch liebenswürdig, aber unerschütterlich:	 Wohltätigkeit ist die Aufgabe unseres Vorstandes. Dazu bin ich nicht befugt. Münzen und Edelsteine, tut mir leid, aber mehr kann ich nicht annehmen. 
+Der Händler lächelt übertrieben und streckt eine fleischige Handfläche aus:	 Ich bin überglücklich, dass unsere Waren Ihr Interesse geweckt haben. Hier, ich habe die Papiere und die Wertmarke vorbereitet, seid ihr bereit zu zahlen? 
+
+(40, 8, 0) ***Event***
+Message:
+Bonus for Pactal
+
+(91, 15, 0) ***Quest Guard***
+Message:
+Im Dschungel in der Nähe des Ufers sind mehrere Umrisse von sperrigen Maschinen zu sehen. Es scheinen Kampfmaschinen zu sein, die aus dem Luftschiff gefallen sind.	
+	Willst du sie mitnehmen?
+
+(94, 0, 0) ***Quest Guard***
+Message:
+Im Dschungel in der Nähe des Ufers sind mehrere Umrisse von sperrigen Maschinen zu sehen. Es scheinen Kampfmaschinen zu sein, die aus dem Luftschiff gefallen sind.
+Willst du sie mitnehmen?
+
+(61, 64, 0) ***Pandora's Box***
+Message:
+
+
+(88, 22, 0) ***Couatl***
+Message:
+Die Echsenmenschen von Tlama konnten einige Couatls anlocken, die sich zwischen den Bäumen versteckt hielten. Wollt ihr sie mitnehmen?
+
+(50, 50, 0) ***Couatl***
+Message:
+Diese Couatls sind mit dicken Seilen so fest angebunden, dass sie wie riesige, bunt gefärbte Bündel aussehen. Wenn sie Tlamacs Bann spüren, heben sie ihre Köpfe und kreischen klagend, als würden sie dich anflehen, sie zu befreien.
+
+(82, 43, 0) ***Wyvern***
+Message:
+Ich erkannte sofort die Geräusche der Kreaturen, die sich im Dickicht versteckten. Ich hatte sie gehört, als wir fielen, und ich würde sie nie vergessen. Lieber töte ich diese Drachen hier auf dem Boden, als mich ihnen in der Luft erneut zu stellen.
+
+(1, 90, 0) ***Seer's Hut***
+Message:
+Du triffst einen bärtigen Zauberer in einer Schilfhütte am Flussufer. Er sieht allerdings wie ein Pirat aus.	"Ich habe von dir gehört", sagt der Zauberer.    Ich kam mit meinen Kollegen hierher, aber sie weigerten sich, mir bei meinen Forschungen zu helfen, also ließ ich sie zurück. Weißt du, die Magier von Regnan haben in den letzten Jahrhunderten viel magisches Wissen angesammelt, aber es gibt einige Zauber, die wir nie perfektionieren konnten. Einer davon ist Armageddon. Die Kreeganer und Nekromanten wissen, wie man die Kraft dieses Zaubers verzehnfachen kann, aber sie teilen ihre Geheimnisse nicht.	 Ich habe gehört, dass die Hexenmeister von Nighon diese Inseln kürzlich besucht haben. Ich weiß nicht, was sie hier wollten, aber einige der Hexenmeister hatten das Pech, auf die örtlichen Monster zu stoßen. Sie haben zwei wertvolle Artefakte verloren, den Folianten des Feuers und die Kugel des rasenden Feuers. Findet sie und bringt sie zu mir, und ich werde die Schriftrolle des Armageddon mit euch teilen.
+ Wo sind die Artefakte? Keine Artefakte, keine Schriftrolle!
+ Der bärtige Mann schaut überrascht auf die Kugel und den Folianten.	 Ich kann es nicht glauben... Das ist genau das, was ich meine! murmelt der verblüffte Pirat.	Hier ist die Schriftrolle, von der ich gesprochen habe. 	Wollt ihr die Kugel und das Buch gegen eine Schriftrolle mit dem Armageddon-Zauberspruch eintauschen?
+
+(10, 65, 0) ***Pandora's Box***
+Message:
+
+
+(29, 61, 0) ***Beastmaster***
+Name:
+Kenatoth
+
+(80, 95, 0) ***Captain***
+Name:
+Renglie
+
+(98, 91, 0) ***Seer's Hut***
+Message:
+Vor ein paar Monaten kamen meine Magierfreunde und ich vom Kontinent, um diese Inseln zu erforschen. Gerüchten zufolge gibt es hier magische Kugeln, die in der Lage sind, Wassermagie-Zauber zu verstärken. Diese Kugeln wurden von einer Zivilisation erschaffen, die über diese Inseln herrschte, noch bevor die Echsenmenschen hier siedelten. Unsere Suche war bisher erfolglos, aber ich bin mir sicher, dass sie hier sind. Bringt mir eine dieser Kugeln und ich tausche sie gegen eine Schriftrolle mit dem Teleport-Zauberspruch ein. Aber seid gewarnt: Ich vertraue nur Dunkelelfen.
+Ich habe die Kugel noch nicht gefunden. Vielleicht solltet Ihr in den Höhlen oder in Couatl-Nestern nachsehen?
+Diese Kugel ist genau das, was ich brauche!
+Du hast deinen Teil der Abmachung eingehalten, und ich halte meinen ein.
+Ich vertraue dir nicht. Du bist kein Dunkelelf!
+Möchtest du die Kugel gegen eine Teleport-Zauberschriftrolle tauschen?
+
+(44, 24, 0) ***Beastmaster***
+Name:
+Areshrak
+
+(22, 106, 0) ***Navigator***
+Name:
+Pholius
+
+(4, 36, 0) ***Fortress***
+
+Visiting Witch:
+Name:
+Xolo
+
+(93, 58, 0) ***Quest Guard***
+Message:
+Du suchst ein Boot? Du kannst meins für nur 2.000 Gold haben. Es gibt nur ein Problem: Das Ding ist undicht. Ihr müsst es selbst reparieren.
+Du suchst ein Boot? Du kannst meins für nur 2.000 Gold haben. Es gibt nur ein Problem: Das Ding ist undicht. Ihr müsst es selbst reparieren.	
+	Ein Boot kaufen?
+
+(15, 103, 0) ***Captain***
+Name:
+Thelas
+
+(105, 39, 0) ***Seer's Hut***
+Message:
+Kommt herein. Jetzt gehen wir in die Höhle unter meiner Wohnung, und ich werde dich meinen Freunden vorstellen. Das Seelenbindungsritual wird in unserer verlassenen unterirdischen Stadt, den Hallen des Blutes, nordwestlich von hier durchgeführt. Für den Moment kann ich dir jedoch zeigen, wie du eine vorübergehende Verbindung mit den Couatls eingehen kannst. Ich werde euch mit einem kleinen Zauber belegen, und ihr müsst der großen Schlange einen blutfarbenen Kristall zeigen, damit sie in euch einen Freund erkennt. Ich habe jetzt zwei erwachsene Couatls in meiner Obhut, die ich nach einer Konfrontation mit den Jägern von Pactal wieder gesund gepflegt habe. Sie werden dir gerne helfen, ihn aufzuspüren. Sobald ihr ihm das Hohle Auge abgenommen habt, begebt euch zu den Hallen des Blutes. Ich werde dort auf dich warten, und wir werden tun, wozu wir bestimmt sind.
+Zwei riesige, regenbogenfarbene gefiederte Schlangen tauchen aus der Dunkelheit der Höhle auf und nähern sich, angezogen vom magischen Leuchten des Kristalls. Sie schnurren leise und starren dich mit ihren goldenen Augen an. Bist du bereit, ihre Freundschaft zu akzeptieren?
+
+(81, 38, 0) ***Quest Guard***
+Message:
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhaltet ihr zusätzliche Artefakte und zusätzliche Truppen}
+{Auf der Schwierigkeitsstufe Schwierig und darunter erhaltet ihr zusätzliche Artefakte und zusätzliche Truppen}
+	{Empfangen?}
+
+(80, 37, 0) ***Pandora's Box***
+Message:
+
+
+(48, 78, 0) ***Quest Gate***
+Message:
+Die Bäume auf dieser Insel scheinen sehr jung zu sein. Den Einheimischen zufolge ist die Insel selbst erst vor kurzem aus dem Meer aufgetaucht. Es ist nicht viel über sie bekannt, aber es gibt dort eine ungewöhnliche Pyramide. Piraten haben versucht, zu ihr vorzudringen, in der Hoffnung, dort einen Schatz zu finden, aber sie hatten bisher keinen Erfolg.	Als du dich der Pyramide näherst, siehst du eine Schar von Tritonen, die dir den Weg versperren. Wenn du versuchst, näher heranzukommen, schreien sie etwas in einer unbekannten Sprache und hindern dich daran, weiterzugehen.	Wynona war schon überall auf Jadame und an vielen anderen Orten. Vielleicht kann sie eine gemeinsame Basis mit ihnen finden?
+Es konnten keine anderen Wege zur Pyramide gefunden werden, und die Tritonen sind immer noch hier.
+Nach einem langen Gespräch mit Wynona willigen die Tritonen widerwillig ein, euch passieren zu lassen. Einer von ihnen warnt dich jedoch, dass die Pyramide von Elementaren und Geistern bewacht wird, die bis zum Tod kämpfen werden.
+
+(46, 78, 0) ***Quest Guard***
+Message:
+Die Dschinns sind besiegt und der Weg zur Pyramide ist frei.	
+Willst du passieren?
+
+(47, 78, 0) ***Wizard***
+Name:
+Mallerio
+
+(45, 78, 0) ***Pandora's Box***
+Message:
+
+
+(39, 4, 0) ***Beastmaster***
+Name:
+Pactal
+
+(57, 41, 0) ***Sign***
+Message:
+Sklavenmarkt. Kümmere dich nicht darum, Gnolle oder Echsenmenschen anzubieten.
+
+(38, 42, 0) ***Seer's Hut***
+Message:
+In einer auf Pfählen errichteten Hütte in der Mitte des Flusses wirst du von einem Gnoll begrüßt, der ein ungewöhnliches grünes Fell trägt.	 Ich habe früher Wyvern, Gorgonen und andere Kreaturen gezüchtet. Ich war der erste, der mit dem Schwarm der Rostdrachen, der auf diesen Inseln lebt, gemeinsame Sache gemacht hat, aber später wurde ich verraten, und der verräterische Echsenmensch Areshrak hat meinen Platz eingenommen. Helft mir, ihn auszuschalten, und ich werde euch helfen.
+ 	Areshrak ist immer noch da draußen! Ich kann seine Anwesenheit spüren.	
+Der Gerechtigkeit wurde Genüge getan! Ich fürchte, mein Stamm wird mich nicht wieder aufnehmen, also muss ich diese Inseln verlassen. Was die Belohnung angeht, so nehmt bitte diese Couatls an. Ich habe sie kürzlich in den Höhlen gefunden, in denen sie sich vor den Jägern von Pactal versteckt hielten.
+
+(24, 66, 0) ***Pandora's Box***
+Message:
+
+
+(15, 102, 0) ***Quest Guard***
+Message:
+Als ihr euch der Piratenfestung nähert, stellt ihr fest, dass ihr der Festung wahrscheinlich nicht näher kommen werdet. Vor euch liegen steile Klippen und ringsum ein fast undurchdringlicher Dschungel.	 Man munkelt, dass Dagdaro, der Hexenmeister, der sich in den Höhlen niedergelassen hat, in dieser Festung gesehen wurde, um mit Steed zu verhandeln. Vielleicht weiß der Hexenmeister, wie man hineinkommt.
+	Die Suche nach einem sicheren Weg zur Festung schlug fehl, ebenso wie der Versuch, den Piraten zu folgen.
+	Nachdem du das Versteck des Hexenmeisters sorgfältig untersucht hast, findest du eine Karte und erfährst, dass es in der Nähe einen leicht zu übersehenden Weg durch den Dschungel gibt, der dich näher an die Festung heranführen kann. Willst du ihn benutzen?
+
+(6, 38, 0) ***Beastmaster***
+Name:
+Tzolki
+
+(80, 66, 0) ***Quest Gate***
+Message:
+Dieses Seetor wurde von regnanischen Piraten eingenommen. Leider gibt es dort zu viele Kanonen, und es wäre viel zu gefährlich, die Garnison von einem Schiff aus anzugreifen. Die Piraten sind jedoch bereit, dich durchzulassen, wenn du ihnen 5 Edelsteine zahlst.	
+Du hast nicht genug Edelsteine, und es hat keinen Sinn, das Tor zu stürmen.	
+Die Piraten haben die Edelsteine entdeckt und lassen dich durchsegeln, aber sie werden das Tor nicht lange offen halten.	Willst du hindurchgehen?
+
+(90, 30, 0) ***Quest Guard***
+Message:
+Du suchst ein Boot? Du kannst meins für nur 2.000 Gold haben. Es gibt nur ein Problem: Das Ding ist undicht. Ihr müsst es selbst reparieren.
+Du suchst ein Boot? Du kannst meins für nur 2.000 Gold haben. Es gibt nur ein Problem: Das Ding ist undicht. Ihr müsst es selbst reparieren.
+	Ein Boot kaufen?
+
+(89, 21, 0) ***Quest Guard***
+Message:
+Du entdeckst einige Couatls, aber sie beachten dich kaum. Du hast gehört, dass die Echsenmenschen von Tlamacs Stamm diese Kreaturen mit Hilfe von magischen Kristallen zähmen konnten. Vielleicht könnt ihr das auch?
+	Die Couatls sind immer noch hier. Sie scheinen nicht darauf erpicht zu sein, euch anzugreifen, aber sie haben auch nicht die Absicht, sich euch anzuschließen.
+	Die Magie der Kristalle hat einige Couatls angelockt. Wollt ihr sie mitnehmen?
+
+(102, 42, 0) ***Event***
+Message:
+Hallo, mein Gast. Du erinnerst dich an mich: Ich bin Tlamac Hundertgedanken. Derjenige, der der nächste große Schamane der glockenhellen Blutigen Federn werden soll, aber schließlich ein langes, trauriges Leben ohne Heimat, Familie, Ziel oder Rücksicht auf diejenigen führt, denen zu dienen er geschworen hat. Ich habe keine Nachkommen oder Schüler - nur ein paar Helfer, die die Leere in ihren Seelen spüren und sich hin und wieder vom Stamm wegschleichen, um hier zu sein und unsere verlorenen Götter zu sehen.	Ich möchte nicht sterben, bevor ich das heilige Band mit den gefiederten Schlangen an jemanden weitergegeben habe, der bereit ist, ihre Freundschaft zu akzeptieren und einen Teil seiner Seele mit ihnen auszutauschen, auch wenn sie für ihn keine lebenden Götter sein werden. Das Ritual, das mein Vorfahre durchführte, um die Seelen unseres Stammes und der gefiederten Schlangen zu verbinden, erfordert eine große Konzentration von Schmerz, Trauer und Hass. Ich fürchte, dass nicht einmal die Emanationen, die jedes einzelne Opfer einer großen Schlacht ausstößt, heute ausreichen würden, und auch ihr selbst würdet es nicht um diesen Preis wollen... Aber ich kenne ein Objekt, das ein endloses Meer solcher Gefühle birgt, angesammelt über viele, viele große Schlachten.		Der Anführer des feindlichen Stammes der Nachtwandler, Pactal Kinderfresser, ist ein Nachkomme von Tepotl Hohlauge, dem Kriegsherrn, der alle Stämme der Inseln in die Schlacht gegen uns führte und der miterlebte, wie die Götter den Ruf erhörten und unseren Stamm vor dem Untergang bewahrten. Nur einer von zwanzig Kriegern unter Tepotl überlebte dieses Gemetzel, und Hohlauge nahm die Trägheit eines jeden, der damals starb, in seine Seele auf. Als er selbst auf dem Sterbebett lag, füllte er diesen schwarzen Ozean in seinen großen Kampfbogen und übergab ihn an seinen Sohn. Jeder seiner Nachkommen tat das Gleiche, aber noch in der Blüte seines Lebens, indem er die zerstörerische Kraft in die Waffe seiner Wahl einfüllte und seine verwundeten Krieger persönlich tötete, um sie zu verstärken. Pactal erbte das große Leid der Kriecher durch den Fang des letzten Schreis, die Kampfklaue seines Großvaters; er wollte nicht noch ein paar Dutzend Runden warten, bis er an der Reihe war, den Platz des Häuptlings einzunehmen, also tötete er seinen Vater und seinen Onkel, indem er während einer Jagd eine Herde rasender Gorgonen auf sie hetzte. Die schwarze Macht der Kampfkralle hat er in ein erstaunliches Artefakt gesteckt - das Fernrohr. Er bekam es von einem Piratenkapitän für ein ganzes Fass unbezahlbarer Galle, die aus seltenen Rubinschlangen gewonnen wurde, und nannte es nach seinem Vorfahren das Hohle Auge. Es heißt, dass er seitdem das Verborgene sehen und die Erde durchdringen kann. Anders ist es nicht zu erklären, dass seine Halsabschneider immer wieder Höhlen mit Gelegen und jungen Blutfedern finden und verwüsten können. Jedes Mal, wenn das passiert, erscheint Pactal selbst dort, saugt die Eier aus und verschlingt die jungen Echsenmenschen. Ich nehme an, du siehst, wie stolz er auf seinen Beinamen ist.	Ich spüre Stärke und Aufrichtigkeit in dir; die Couatls werden sich sicher freuen, in dir und deinen Gefährten neue Freunde zu haben. Außerdem werde ich dir das wertvollste Geheimnis verraten können, das ich mein ganzes Leben lang gehütet habe. Ihr werdet nicht nur unseren gefiederten Göttern ebenbürtig sein... ihr werdet auch in der Lage sein, sie selbst zu erschaffen. Ich werde dir beibringen, wie du den großen Karminroten Couatl hervorbringen kannst. Sie sind schon viel zu lange von der Welt verschwunden, und ich möchte die Verkörperung der einstigen Größe meines Stammes noch einmal verehren, bevor ich sterbe. Kommt in meine Hütte. Ich habe dir viel zu zeigen und zu erklären.
+
+(67, 35, 0) ***Ocean Bottle***
+Message:
+ sh su 27 1 Eas Mis Jada 
+
+(58, 30, 1) ***Quest Gate***
+Message:
+Das Tor wird von zwei Kriegern in alten Rüstungen bewacht. Sie sind fast so groß und klapprig wie Tlamac, und ihre Augen haben ein heiliges Glühen.	"Der große Schamane wartet auf dich. Beeilt euch! Wir sehnen uns danach, einen Gott zu sehen! "
+Seid ihr bereit, durchzugehen?
+
+(31, 32, 1) ***Quest Gate***
+Message:
+Diese Höhlen führen zu dem Opferaltar, auf dem die Priester des Stammes der Pactals Couatls opfern.	
+	Wollt ihr passieren?
+
+(49, 104, 1) ***Event***
+Message:
+Pink AI - bonus
+
+(104, 30, 1) ***Quest Guard***
+Message:
+Du hast gehört, dass diese geheimnisvolle Höhle die Heimat der Couatls ist. Nachdem du einige Zeit versucht hast, die Höhle zu betreten, stellst du fest, dass du im Kreis läufst. Es scheint, dass der eigentliche Eingang durch eine mächtige magische Illusion verborgen ist, und du kannst den Bann nicht brechen.	 	Du hast von den Echsenmenschen gehört, dass in letzter Zeit eine Gruppe von Erzmagiern auf den Inseln gesichtet wurde, die von den Nebelinseln hierher gekommen sind. Vielleicht kann dir einer von ihnen helfen.	
+Alle Versuche, die Illusionen zu zerstreuen, blieben erfolglos. Das Einzige, was dir einfällt, ist, jemanden zu finden, der dir helfen kann.	
+Der Erzmagier erklärt sich ohne besonderen Eifer bereit, dir zu helfen. Du beobachtest noch eine Weile, wie der Zauberer die magische Barriere entfernt, und dann öffnet sich vor deinen Augen ein bisher unsichtbarer Eingang zu den Höhlen der Couatls.	 	Willst du hindurchgehen?
+
+(66, 42, 1) ***Seer's Hut***
+Message:
+In einer Hütte in der Ecke einer feuchten Höhle triffst du einen alten Echsenmenschen. Er scheint ernsthaft verwundet zu sein.	 Seid gegrüßt! Ich bin von den Dolchsturzinseln hierher gekommen. Unser Häuptling hat mich als Botschafter zu den örtlichen Stämmen geschickt. Leider hatten weder ich noch meine Brüder eine Ahnung von dem Ort, an dem ich gelandet bin. Pactal und sein Stamm betrachteten uns als Feinde! Ich habe es gerade noch geschafft, von Pactals Insel zu entkommen, bevor ich mich in dieser Höhle versteckt habe. Ich fürchte, ich werde hier nie wieder herauskommen. Ich bin alt, und meine Wunden quälen mich. Bringt mir ein paar Basilisken und Gorgonen; mit ihnen an meiner Seite erreiche ich vielleicht noch mein Schiff und kehre zu meinen Inseln zurück.
+Wo sind die Basilisken und Gorgonen, von denen ich dir erzählt habe? Es ist zu gefährlich, in dieser Höhle zu bleiben, aber aus eigener Kraft hier herauszukommen, wäre kaum einfacher.
+Diese Basilisken und Gorgonen sind genau das, was ich brauche!	
+	In dieser Höhle zu bleiben ist gefährlich... Aber jetzt kann ich versuchen, zu meinem Schiff zu gelangen.
+Ich möchte, dass Ihr diese Krone als Geschenk annehmt. Wir wollten sie dem Stamm von Pactal als Geste des guten Willens überreichen, aber das kommt jetzt nicht mehr in Frage.	Wollt Ihr die Krone der fünf Meere annehmen?
+
+(103, 92, 1) ***Quest Guard***
+Message:
+In den Tiefen der Höhlen entdeckst du ein paar Couatls, aber sie schenken dir kaum Beachtung. Du hast gehört, dass die Echsenmenschen von Tlamacs Stamm in der Lage waren, diese Kreaturen mit Hilfe von magischen Kristallen zu zähmen. Vielleicht könnt ihr das auch?	
+Die Couatls sind immer noch hier. Sie scheinen nicht daran interessiert zu sein, euch anzugreifen, aber sie haben auch nicht die Absicht, sich euch anzuschließen.
+	Die Magie der Kristalle hat einige Couatls angelockt. Wollt ihr sie mitnehmen?
+
+(92, 93, 1) ***Seer's Hut***
+Message:
+Vor ein paar Monaten kamen meine Magierfreunde und ich vom Kontinent, um diese Inseln zu erforschen. Gerüchten zufolge gibt es hier magische Kugeln, die in der Lage sind, Wassermagie-Zauber zu verstärken. Diese Kugeln wurden von einer Zivilisation erschaffen, die über diese Inseln herrschte, noch bevor die Echsenmenschen hier siedelten. Unsere Suche war bisher erfolglos, aber ich bin mir sicher, dass sie hier sind. Bringt mir eine dieser Kugeln und ich werde sie gegen eine Schriftrolle mit dem Gebetszauber eintauschen. Aber seid gewarnt: Ich vertraue nur Dunkelelfen.
+Ich habe die Kugel noch nicht gefunden. Vielleicht solltet Ihr in den Höhlen oder in Couatl-Nestern nachsehen?
+Diese Kugel ist genau das, was ich brauche!
+Du hast deinen Teil der Abmachung eingehalten, und ich halte meinen ein.
+Ich vertraue dir nicht. Du bist kein Dunkelelf!
+Willst du die Kugel gegen eine Klonzauberschriftrolle tauschen?
+
+(56, 59, 1) ***Beastmaster***
+Name:
+Gyrzan
+
+(83, 20, 1) ***Witch***
+Name:
+Chiqtli
+
+(81, 19, 1) ***Quest Guard***
+Message:
+Du bemerkst mehrere Couatls in großen Käfigen. Wahrscheinlich hat die Hexe, die du am Opferaltar gesehen hast, den Schlüssel für die Tür.	
+Deine Versuche, den Käfig aufzubrechen, sind erfolglos. Ihr müsst den Schlüssel finden.
+	Der Schlüssel, den du bei der Hexe gefunden hast, passt zu allen Käfigen. Willst du sie öffnen?
+
+(41, 47, 1) ***Sign***
+Message:
+Die Höhlen der Gefiederten Schlange
+
+(102, 103, 1) ***Ranger***
+Name:
+Leyda
+
+(102, 104, 1) ***Event***
+Message:
+Pink AI - bonus
+
+(23, 73, 1) ***Couatl***
+Message:
+Eure Krieger haben ein paar Couatls gefunden, die sich in diesen Höhlen versteckt haben. Wollt ihr sie mitnehmen?
+
+(55, 96, 1) ***Quest Gate***
+Message:
+In diesen Höhlen ist es sehr heiß, und nur wenige Gestalten wagen es, sich hier niederzulassen. Allerdings ist dieser Ort reich an Kristallen, und Piraten bauen hier schon seit einiger Zeit Edelsteine ab und schicken sie nach Regna. Außerdem ist vor einigen Monaten ein ungebetener Gast in diesen Höhlen aufgetaucht, bei dem es sich um einen Hexenmeister aus Nighon handeln soll.	
+Wollt ihr passieren?
+
+(26, 18, 1) ***Witch***
+Name:
+Sahssa
+
+(12, 34, 1) ***Pandora's Box***
+Message:
+
+
+(39, 52, 1) ***Seer's Hut***
+Message:
+Hier gibt es ein Lager der Echsenmenschen. Ihr Anführer ruft euch zu:	 Wir haben uns auf den Weg gemacht, um die Schwarzen Drachen loszuwerden, die den unterirdischen Gang zwischen unseren Dörfern übernommen haben, aber unsere Bemühungen waren erfolglos. Durch sie ist es viel zu gefährlich geworden, unterirdisch zu reisen. Wenn ihr uns helft, mit diesen Bestien fertig zu werden, werden wir euch Einblicke gewähren, die euch nützlich sein könnten, wenn ihr mit Pactal in Konflikt geratet. 
+Wir haben gehört, dass die Schwarzen Drachen immer noch den Durchgang blockieren. Kommt zurück, wenn sie erledigt sind.	
+Der Durchgang ist wieder sicher! Als Gegenleistung für Eure Hilfe können wir unsere Kampferfahrung mit Euch teilen.
+Der Anführer der Echsenmenschen ist bereit, Henrietta zu trainieren, sobald sie hier ist.
+Der Anführer der Echsenmenschen ist bereit, Henrietta zu trainieren, sobald sie hier ist.
+Als Gegenleistung für die Auslöschung der Drachen sind die Echsenmenschen bereit, euch in der Verteidigung auszubilden. Seid ihr einverstanden?
+Der Anführer der Echsenmenschen ist bereit, Wynona zu trainieren, sobald sie hier ist.
+Der Anführer der Echsenmenschen ist bereit, Wynona zu trainieren, sobald sie hier ist.
+Als Gegenleistung für die Auslöschung der Drachen sind die Echsenmenschen bereit, euch in der Verteidigung auszubilden. Seid ihr einverstanden?
+
+(102, 102, 1) ***Quest Gate***
+Message:
+Niemand kennt den Ursprung dieser Höhlen. Dem Gnollführer zufolge lagen sie viele Jahre lang verlassen, aber vor etwa zwei Jahrzehnten tauchten hier Elfen und Meereswesen auf.
+	Wollt ihr sie passieren?
+
+(13, 62, 1) ***Event***
+Message:
+Tan AI - bonus
+
+(14, 62, 1) ***Witch***
+Name:
+Wergna
+
+(57, 30, 1) ***Quest Guard***
+Message:
+Hallo, Gast. Vielleicht ist es an der Zeit, dass ich aufhöre, dich so zu nennen, denn bald werden wir das Ritual durchführen, und du wirst den Göttern gleichgestellt sein, die neue Herrin dieser Hallen. Hast du das Große Leid der Krabbler mitgebracht? Ist das Dunkle Auge in deinen Händen?	
+Die Geister sagen mir, dass Pactal Kindfresser immer noch eine schwarze Aura des Leidens ausstrahlt, was bedeutet, dass das Hohle Auge noch in seinem Besitz ist. Bringt es zu mir! Ich kann nicht ewig warten, und meine Seele hat es schon lange satt, in dieser verdorrten Hülle zu leiden.
+	Ich kann das hohle Auge spüren! Lass es mich berühren, und dann gehen wir in die Halle des alten Schamanen. Ich habe alles für das Seelenbindungsritual vorbereitet. Seid ihr bereit?
+
+(60, 48, 1) ***Seer's Hut***
+Message:
+Die Couatls scheinen es nicht eilig zu haben, irgendwohin zu kommen, und sie schenken dir kaum Beachtung. Ihr habt gehört, dass die Echsenmenschen von Tlamacs Stamm diese Kreaturen mit Hilfe von magischen Kristallen zähmen konnten. Vielleicht könnt ihr das auch?	
+Die Couatls sind immer noch hier. Sie scheinen nicht daran interessiert zu sein, euch anzugreifen, aber sie haben auch nicht die Absicht, sich euch anzuschließen.
+	Die Magie der Kristalle hat einige Couatls angelockt. Wollt ihr sie mitnehmen?
+
+(59, 49, 1) ***Quest Guard***
+Message:
+Du bemerkst mehrere Couatls in großen Käfigen. Wahrscheinlich hat der Gnoll-Anführer, den du am Opferaltar gesehen hast, den Schlüssel für die Tür.		
+Deine Versuche, den Käfig aufzubrechen, sind erfolglos. Ihr müsst den Schlüssel finden.
+Der Schlüssel, den du bei dem Gnoll gefunden hast, passt zu den Käfigen. Wollt ihr sie öffnen?
+
+(51, 16, 1) ***Pandora's Box***
+Message:
+
+
+(54, 14, 1) ***Quest Gate***
+Message:
+Euer Führer, ein Echsenmensch, informiert euch, dass vor euch eine magische Barriere liegt, die den Weg durch einen unterirdischen See versperrt. Es ist nicht bekannt, wer sie errichtet hat, aber der Führer erinnert sich, dass die Hexe Dekha in der Vergangenheit oft in diesen Höhlen gesehen wurde.
+Euer Führer, ein Echsenmensch, informiert euch, dass vor euch eine magische Barriere liegt, die den Weg durch einen unterirdischen See versperrt. Es ist nicht bekannt, wer sie errichtet hat, aber der Führer erinnert sich, dass die Hexe Dekha in der Vergangenheit oft in diesen Höhlen gesehen wurde.
+ Nun, da die Hexe erledigt ist, ist auch die magische Barriere verschwunden. Möchten Sie hindurchsegeln?
+
+(4, 44, 1) ***Witch***
+Name:
+Dekha
+
+(3, 42, 1) ***Event***
+Message:
+
+
+(1, 48, 1) ***Seer's Hut***
+Message:
+In der Höhle findest du eine unscheinbare Hütte, die jedoch mit Magie versiegelt ist. Vielleicht gehört diese Hütte einer der örtlichen Hexen. Vielleicht aber auch nicht. Auf jeden Fall kann nur der Magier, der sie erschaffen hat, das Siegel brechen.
+In der Höhle findest du eine unscheinbare Hütte, die jedoch mit Magie versiegelt ist. Vielleicht gehört diese Hütte einer der örtlichen Hexen. Vielleicht aber auch nicht. Auf jeden Fall kann nur der Magier, der sie erschaffen hat, das Siegel brechen.
+ Als du Ha Oras Hütte betrittst, findest du einen Durchgang zu den Höhlen. Beim Erkunden stößt man plötzlich auf ein kleines Rudel Couatls.	Willst du sie mitnehmen?
+
+(55, 107, 1) ***Pandora's Box***
+Message:
+
+
+(33, 6, 1) ***Hero Camp***
+Name:
+Ha'Ora
+Biography:
+Ha'Ora ist die Schwester der berühmten Hexe Voy. Ihre Mutter stahl Salz, ein unbezahlbares Gut in Tatalia, von den Gorgonen und rieb es auf die Eier, die sie legte, in der Hoffnung, dass daraus Echsenmenschen schlüpfen würden, die so mächtig sind wie diese feuerspeienden Stiere, aber stattdessen entwickelten ihre Kinder ein unorthodoxes Interesse am Salzwasser der Meere von Enroth und an langen Reisen.
+
+(55, 26, 1) ***Seer's Hut***
+Message:
+Wynona und ich betraten die Halle des Schamanen. Tlamac stand dort an einer riesigen Steinschale, in der eine rote, beißend riechende, dicke Flüssigkeit brodelte, und in deren Mitte ein großes Ei ruhte, das wie mit dünnen Steinfliesen bedeckt schien. Der Schamane rezitierte mit einem tiefen Knurren Beschwörungsformeln und goss Blut aus einer Schädelschale über das Ei. Als wir näher kamen, blickte er auf. Echsenmenschen können nicht lächeln, aber ich verstand, dass er glücklich war.	 Und das habe ich auch kommen sehen. "Ihr seid nicht nur stark, ihr schätzt auch eure Gefährten. Wärst du unter den Echsenmenschen geboren worden, wäre ich stolz gewesen, dich meine Anführerin nennen zu dürfen... Und ich wusste, dass du das Recht, diese große Aufgabe zu erfüllen, auf deine Freundin übertragen wolltest, die länger als jedes andere Echsenvolk gelebt hat und mehr über die Lebewesen weiß als jeder andere auf der Welt. Damit soll ihre grenzenlose Liebe zu allem, was flattert, kriecht, springt und krabbelt, belohnt werden. Für alles, was gelebt hat, lebt und leben wird. Wir werden nun viele Seelen in die Freiheit entlassen, die sich nach Frieden und einer Rückkehr in den großen Sumpf des Lebens sehnen, wo sie wiedergeboren werden können. Tritt heran, Wynona. Nimm die Schale und sprich mir nach."
+	Eine Sekunde lang dachte ich, ich würde sterben. Stöhnen, Schreie, Husten, Keuchen, Klagen, all das durchströmte mein ganzes Wesen in einem Augenblick. Mein Herz setzte einen Schlag aus ... aber dann spürte ich eine mächtige Welle von Wärme und unbezwingbarer Kraft, die mich überflutete, zusammen mit den aufgeregten Schreien der Dutzenden von gefiederten Schlangen, die sich in diesem Moment ihren Weg durch die Eingänge bahnten. Wynona erstarrte mit dem Ei in der Hand, als hätte sie Angst, sich zu bewegen, und ich sah in ihren Augen das Gefühl des Glücks einer Frau, die schon lange die Hoffnung aufgegeben hatte, ein Kind zu bekommen, und nun plötzlich erfuhr, dass sie doch noch Mutter werden konnte. Die Couatls umringten uns und verstummten. Ich hörte ein Rascheln und ein leises, zaghaftes Klopfen, als würde jemand Schüchternes darum bitten, das Haus betreten zu dürfen. Tlamac reichte Wynona einen großen, versteinerten Reißzahn eines uralten Tieres.	 Er hatte zu lange drinnen geschlummert, und jetzt fällt es ihm schwer, den Weg ins Licht zu finden. Wollt ihr ihm helfen? 
+
+(47, 105, 1) ***Warlock***
+Name:
+Dagdaro
+
+(2, 3, 1) ***Witch***
+Name:
+Wallen
+
+(105, 31, 1) ***Quest Guard***
+Message:
+Die Couatls scheinen es nicht eilig zu haben, irgendwohin zu kommen, und sie schenken dir kaum Beachtung. Ihr habt gehört, dass die Echsenmenschen von Tlamacs Stamm diese Kreaturen mit Hilfe von magischen Kristallen zähmen konnten. Vielleicht könnt ihr das auch?
+Die Couatls sind immer noch hier. Sie scheinen nicht daran interessiert zu sein, euch anzugreifen, aber sie haben auch nicht die Absicht, sich euch anzuschließen.
+Die Couatls sind immer noch hier. Sie scheinen nicht daran interessiert zu sein, euch anzugreifen, aber sie haben auch nicht die Absicht, sich euch anzuschließen.
+
+===== End of file =====
