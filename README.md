@@ -92,6 +92,9 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * Alles, was im Rahmen dieser Mod neu übersetzt wurde (siehe Versionshistorie): [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
 ## Changelog
+### 1.10.1
+* Unterstützung von HotA 1.7.1 (Kampagne wurde noch nicht angepasst...)
+
 ### 1.10.0
 * Unterstützung von HotA 1.7.0 (Dankeschön an Darktobas für die Kampagne)
 
