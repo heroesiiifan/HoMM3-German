@@ -33,8 +33,9 @@ zipObj.write(os.path.join("additional_files/hd", "#de.ini"), arcname=os.path.joi
 zipObj.write(os.path.join("additional_files/hd", "Pack.ini"), arcname=os.path.join("Packs/German", "Pack.ini"))
 
 zipObj.write(os.path.join("_tmp/fnt/", "MedFont.fnt"), arcname=os.path.join("Common", "cham.fnt"))
-zipObj.write(os.path.join("additional_files/hd/def/", "icm011qe.def"), arcname=os.path.join("Common", "icm011qe.def"))
-zipObj.write(os.path.join("additional_files/hd/def/", "icm012qe.def"), arcname=os.path.join("Common", "icm012qe.def"))
+zipObj.write(os.path.join("additional_files/hd/def/", "icm011qe.def"), arcname=os.path.join("Lang/#de", "icm011qe.def"))
+zipObj.write(os.path.join("additional_files/hd/def/", "icm012qe.def"), arcname=os.path.join("Lang/#de", "icm012qe.def"))
+zipObj.write(os.path.join("additional_files/hd/def/", "Files.ini"), arcname=os.path.join("Lang/#de", "Files.ini"))
 
 if os.environ["DEEPL_TRANSLATION"] == "1":
     for filename in os.listdir("additional_files/translation/deepl/maps/out"):
