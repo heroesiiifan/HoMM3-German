@@ -35,7 +35,7 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 ## Kompatibilität (getestet)
 * Heroes III Complete 4.0
 * Heroes III HD mod 5.4 RC81
-* Heroes III Horn of the Abyss 1.7.0
+* Heroes III Horn of the Abyss 1.7.1
 * [SOD_SP](https://github.com/RoseKavalier/H3Plugins/releases)
 * Heroes Chronicles - Fully Compability HDmod 2.5.8
 
@@ -92,6 +92,9 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * Alles, was im Rahmen dieser Mod neu übersetzt wurde (siehe Versionshistorie): [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
 ## Changelog
+### 1.10.2
+* Anpassungen der Einheiten-Namen (Danke @Libavi)
+
 ### 1.10.1
 * Unterstützung von HotA 1.7.1 (Kampagne wurde noch nicht angepasst...)
 
