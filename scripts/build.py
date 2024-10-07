@@ -67,4 +67,4 @@ for filename in os.listdir("_out"):
     if not filename.startswith("HoMM3DE_RELEASE.7z"):
         files.append(os.path.join("_out", filename))
 
-output = subprocess.Popen(["7z", "a", "-t7z", "_out\\HoMM3DE_RELEASE.7z"] + files + ["-m0=LZMA:d1024m:fb273", "-mx=7"], stdout=subprocess.PIPE).communicate()[0]
+output = subprocess.Popen(["C:/Program Files/7-Zip/7z.exe", "a", "-t7z", "_out\\HoMM3DE_RELEASE.7z"] + files + ["-m0=LZMA:d1024m:fb273", "-mx=7"], stdout=subprocess.PIPE).communicate()[0]
