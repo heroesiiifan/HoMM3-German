@@ -72,7 +72,7 @@ for filename in os.listdir("additional_files/hota/txt"):
 copyfile("homm3_files/HotA/Data/HotA_ext.lod", "_tmp/HotA_patched/" + "HotA_ext.lod")
 copyfile("homm3_files/HotA/Data/HotA_l_ext.lod", "_tmp/HotA_patched/" + "HotA_l_ext.lod")
 
-command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_ext.lod"] + ["_tmp/fnt/" + s for s in os.listdir("_tmp/fnt")]
+command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_ext.lod"] + ["additional_files/hota/fnt/" + s for s in os.listdir("additional_files/hota/fnt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')
 command = ["tools/mmarch.exe", "add", "_tmp/HotA_patched/" + "HotA_l_ext.lod"] + ["_tmp/HotA_patched/txt/" + s for s in os.listdir("_tmp/HotA_patched/txt")]
 output = subprocess.Popen(command, stdout=subprocess.PIPE).communicate()[0].decode('cp1252')

@@ -1,0 +1,307 @@
+ChroniclesMod\Data\Bun_bmE.lod
+ChroniclesMod\Data\Bun_E.VID
+ChroniclesMod\Data\Bun_spE.lod
+ChroniclesMod\Data\Drz_bmE.lod
+ChroniclesMod\Data\Drz_E.VID
+ChroniclesMod\Data\Drz_spE.lod
+ChroniclesMod\Data\Mie_bmE.lod
+ChroniclesMod\Data\Mie_E.VID
+ChroniclesMod\Data\Mie_spE.lod
+ChroniclesMod\Data\Ogn_bmE.lod
+ChroniclesMod\Data\Ogn_E.VID
+ChroniclesMod\Data\Ogn_spE.lod
+ChroniclesMod\Data\Pod_bmE.lod
+ChroniclesMod\Data\Pod_E.VID
+ChroniclesMod\Data\Pod_spE.lod
+ChroniclesMod\Data\Sza_bmE.lod
+ChroniclesMod\Data\Sza_E.VID
+ChroniclesMod\Data\Sza_spE.lod
+ChroniclesMod\Data\Wla_bmE.lod
+ChroniclesMod\Data\Wla_E.VID
+ChroniclesMod\Data\Wla_spE.lod
+ChroniclesMod\Data\Woj_bmE.lod
+ChroniclesMod\Data\Woj_E.VID
+ChroniclesMod\Data\Woj_s2E.lod
+ChroniclesMod\Data\Woj_spE.lod
+ChroniclesMod\Data\Wsz_snE.snd
+Chronicles_de\dragons\data\Hchron.vid
+Chronicles_de\dragons\data\Hchron_1.snd
+Chronicles_de\dragons\data\Hchron_1.vid
+Chronicles_de\dragons\data\Hchron_2.snd
+Chronicles_de\dragons\data\Hchron_2.vid
+Chronicles_de\dragons\data\Hchron_3.snd
+Chronicles_de\dragons\data\Hchron_3.vid
+Chronicles_de\dragons\data\Hchron_4.snd
+Chronicles_de\dragons\data\Hchron_4.vid
+Chronicles_de\dragons\data\Hchron_5.snd
+Chronicles_de\dragons\data\Hchron_5.vid
+Chronicles_de\dragons\install\xBitmap.lod
+Chronicles_de\dragons\install\xlBitmap.lod
+Chronicles_de\dragons\install\xlSprite.lod
+Chronicles_de\dragons\install\xSound.snd
+Chronicles_de\dragons\install\xSprite.lod
+Chronicles_de\dragons\install\xVideo.vid
+Chronicles_de\elements\data\Hchron.vid
+Chronicles_de\elements\data\Hchron_1.snd
+Chronicles_de\elements\data\Hchron_1.vid
+Chronicles_de\elements\data\Hchron_2.snd
+Chronicles_de\elements\data\Hchron_2.vid
+Chronicles_de\elements\data\Hchron_3.snd
+Chronicles_de\elements\data\Hchron_3.vid
+Chronicles_de\elements\data\Hchron_4.snd
+Chronicles_de\elements\data\Hchron_4.vid
+Chronicles_de\elements\data\Hchron_5.snd
+Chronicles_de\elements\data\Hchron_5.vid
+Chronicles_de\elements\install\xBitmap.lod
+Chronicles_de\elements\install\xlBitmap.lod
+Chronicles_de\elements\install\xlSprite.lod
+Chronicles_de\elements\install\xSound.snd
+Chronicles_de\elements\install\xSprite.lod
+Chronicles_de\elements\install\xVideo.vid
+Chronicles_de\finalchp\data\Hchron.vid
+Chronicles_de\finalchp\data\Hchron_1.snd
+Chronicles_de\finalchp\data\Hchron_1.vid
+Chronicles_de\finalchp\data\Hchron_3.snd
+Chronicles_de\finalchp\data\Hchron_3.vid
+Chronicles_de\finalchp\install\beastmasters\xBitmap.lod
+Chronicles_de\finalchp\install\beastmasters\xlBitmap.lod
+Chronicles_de\finalchp\install\beastmasters\xlSprite.lod
+Chronicles_de\finalchp\install\beastmasters\xSound.snd
+Chronicles_de\finalchp\install\beastmasters\xSprite.lod
+Chronicles_de\finalchp\install\beastmasters\xVideo.vid
+Chronicles_de\finalchp\install\frost\xBitmap.lod
+Chronicles_de\finalchp\install\frost\xlBitmap.lod
+Chronicles_de\finalchp\install\frost\xlSprite.lod
+Chronicles_de\finalchp\install\frost\xSound.snd
+Chronicles_de\finalchp\install\frost\xSprite.lod
+Chronicles_de\finalchp\install\frost\xVideo.vid
+Chronicles_de\finalchp\install\_common\bitmap.lod
+Chronicles_de\finalchp\install\_common\lbitmap.lod
+Chronicles_de\finalchp\install\_common\lsprite.lod
+Chronicles_de\finalchp\install\_common\sound.snd
+Chronicles_de\finalchp\install\_common\sprite.lod
+Chronicles_de\finalchp\install\_common\VIDEO.VID
+Chronicles_de\underworld\data\Hchron.vid
+Chronicles_de\underworld\data\Hchron_1.snd
+Chronicles_de\underworld\data\Hchron_2.snd
+Chronicles_de\underworld\data\Hchron_2.vid
+Chronicles_de\underworld\data\Hchron_3.snd
+Chronicles_de\underworld\data\Hchron_3.vid
+Chronicles_de\underworld\data\Hchron_4.snd
+Chronicles_de\underworld\data\Hchron_4.vid
+Chronicles_de\underworld\data\Hchron_5.snd
+Chronicles_de\underworld\data\Hchron_5.vid
+Chronicles_de\underworld\install\xBitmap.lod
+Chronicles_de\underworld\install\xlBitmap.lod
+Chronicles_de\underworld\install\xlSprite.lod
+Chronicles_de\underworld\install\xSound.snd
+Chronicles_de\underworld\install\xSprite.lod
+Chronicles_de\underworld\install\xVideo.vid
+Chronicles_de\warlords\data\Hchron.vid
+Chronicles_de\warlords\data\Hchron_1.snd
+Chronicles_de\warlords\data\Hchron_2.snd
+Chronicles_de\warlords\data\Hchron_2.vid
+Chronicles_de\warlords\data\Hchron_3.snd
+Chronicles_de\warlords\data\Hchron_3.vid
+Chronicles_de\warlords\data\Hchron_4.snd
+Chronicles_de\warlords\data\Hchron_4.vid
+Chronicles_de\warlords\data\Hchron_5.snd
+Chronicles_de\warlords\data\Hchron_5.vid
+Chronicles_de\warlords\install\xBitmap.lod
+Chronicles_de\warlords\install\xlBitmap.lod
+Chronicles_de\warlords\install\xlSprite.lod
+Chronicles_de\warlords\install\xSound.snd
+Chronicles_de\warlords\install\xSprite.lod
+Chronicles_de\warlords\install\xVideo.vid
+Chronicles_de\_common\bitmap.lod
+Chronicles_de\_common\lbitmap.lod
+Chronicles_de\_common\lsprite.lod
+Chronicles_de\_common\sound.snd
+Chronicles_de\_common\sprite.lod
+Chronicles_de\_common\VIDEO.VID
+Complete\Datadisk\Data\Heroes3.snd
+Complete\Datadisk\Data\Heroes3.vid
+Complete\Maindisk\Data\H3ab_ahd.snd
+Complete\Maindisk\Data\H3ab_ahd.vid
+Complete\Maindisk\Data\H3ab_bmp.lod
+Complete\Maindisk\Data\H3ab_spr.lod
+Complete\Maindisk\Data\H3bitmap.lod
+Complete\Maindisk\Data\H3sprite.lod
+Complete\Maindisk\Data\Heroes3.snd
+Complete\Maindisk\Data\VIDEO.VID
+HotA\HotA.dat
+HotA\Data\HotA.lod
+HotA\Data\HotA.snd
+HotA\Data\HotA.vid
+HotA\Data\HotA_ext.lod
+HotA\Data\HotA_lng.lod
+HotA\Data\HotA_lng.snd
+HotA\Data\HotA_l_ext.lod
+RoE_de\Datadisk\heroes3.snd
+RoE_de\Datadisk\heroes3.vid
+RoE_de\Maindisk\Data\H3bitmap.lod
+RoE_de\Maindisk\Data\h3sprite.lod
+RoE_de\Maindisk\Data\Heroes3.snd
+RoE_de\Maindisk\Data\heroes3.vid
+RoE_de\Maindisk\Data\Video.vid
+RoE_de\Maindisk\Maps\All for One.h3m
+RoE_de\Maindisk\Maps\Ascension.h3m
+RoE_de\Maindisk\Maps\Barbarian Breakout.h3m
+RoE_de\Maindisk\Maps\Barbarian BreakoutA.h3m
+RoE_de\Maindisk\Maps\Buried Treasure.h3m
+RoE_de\Maindisk\Maps\campaign.tmp
+RoE_de\Maindisk\Maps\Crimson and Clover.h3m
+RoE_de\Maindisk\Maps\Crimson and CloverA.h3m
+RoE_de\Maindisk\Maps\Dead and Buried.h3m
+RoE_de\Maindisk\Maps\Divided Loyalties.h3m
+RoE_de\Maindisk\Maps\Divided LoyaltiesA.h3m
+RoE_de\Maindisk\Maps\Dragon Orb.h3m
+RoE_de\Maindisk\Maps\Emerald Isles.h3m
+RoE_de\Maindisk\Maps\Emerald IslesA.h3m
+RoE_de\Maindisk\Maps\Free for All.h3m
+RoE_de\Maindisk\Maps\Good to Go.h3m
+RoE_de\Maindisk\Maps\Island of Fire.h3m
+RoE_de\Maindisk\Maps\Islands and Caves.h3m
+RoE_de\Maindisk\Maps\Judgement Day.h3m
+RoE_de\Maindisk\Maps\Key to Victory.h3m
+RoE_de\Maindisk\Maps\Knee Deep in the Dead.h3m
+RoE_de\Maindisk\Maps\Knight of Darkness.h3m
+RoE_de\Maindisk\Maps\Manifest Destiny.h3m
+RoE_de\Maindisk\Maps\Middletown.h3m
+RoE_de\Maindisk\Maps\Myth and Legend.h3m
+RoE_de\Maindisk\Maps\Noahs Ark.h3m
+RoE_de\Maindisk\Maps\Overthrow Thy Neighbors.h3m
+RoE_de\Maindisk\Maps\Peacemaker.h3m
+RoE_de\Maindisk\Maps\Pirates.h3m
+RoE_de\Maindisk\Maps\Race for Ardintinny.h3m
+RoE_de\Maindisk\Maps\Realm of Chaos.h3m
+RoE_de\Maindisk\Maps\Realm of ChaosA.h3m
+RoE_de\Maindisk\Maps\Rebellion.h3m
+RoE_de\Maindisk\Maps\Rumble in the Bogs.h3m
+RoE_de\Maindisk\Maps\Rumble in the BogsA.h3m
+RoE_de\Maindisk\Maps\Search for the Grail.h3m
+RoE_de\Maindisk\Maps\Serpents Treasure.h3m
+RoE_de\Maindisk\Maps\Southern Cross.h3m
+RoE_de\Maindisk\Maps\The Five Rings.h3m
+RoE_de\Maindisk\Maps\The Mandate of Heaven.h3m
+RoE_de\Maindisk\Maps\Titans Winter.h3m
+RoE_de\Maindisk\Maps\Tutorial.tut
+RoE_de\Maindisk\Maps\Unholy Quest.h3m
+RoE_de\Maindisk\Maps\Vial of Life.h3m
+RoE_de\Maindisk\Maps\Warlords.h3m
+RoE_de\Maindisk\Maps\WarlordsA.h3m
+RoE_de\Maindisk\Maps\Warmongers.h3m
+RoE_de\Maindisk\Maps\When Dragons Clash.h3m
+RoE_de\Maindisk\Maps\Wings of War.h3m
+RoE_de\Maindisk\Maps\Xathras Prize.h3m
+SoD_de\Disk\HEROES3.SND
+SoD_de\Disk\HEROES3.VID
+SoD_de\Installation\H3bitmap.lod
+SoD_de\Installation\H3sprite.lod
+SoD_de\Installation\Heroes3.snd
+SoD_de\Installation\VIDEO.VID
+SoD_de\Installation\Maps\A Viking We Shall Go Allied.h3m
+SoD_de\Installation\Maps\A Viking We Shall Go.h3m
+SoD_de\Installation\Maps\A Warm and Familiar Place.h3m
+SoD_de\Installation\Maps\Adventures of Jared Haret.h3m
+SoD_de\Installation\Maps\All for One.h3m
+SoD_de\Installation\Maps\And One for All.h3m
+SoD_de\Installation\Maps\Arrogance Allied.h3m
+SoD_de\Installation\Maps\Arrogance.h3m
+SoD_de\Installation\Maps\Ascension.h3m
+SoD_de\Installation\Maps\Back For Revenge - Allied.h3m
+SoD_de\Installation\Maps\Back For Revenge.h3m
+SoD_de\Installation\Maps\Barbarian Breakout.h3m
+SoD_de\Installation\Maps\Barbarian BreakoutA.h3m
+SoD_de\Installation\Maps\Battle of the Sexes Allied.h3m
+SoD_de\Installation\Maps\Battle of the Sexes.h3m
+SoD_de\Installation\Maps\Buried Treasure.h3m
+SoD_de\Installation\Maps\Carpe Diem - Allied.h3m
+SoD_de\Installation\Maps\Carpe Diem.h3m
+SoD_de\Installation\Maps\Caught in the Middle.h3m
+SoD_de\Installation\Maps\Chasing a Dream.h3m
+SoD_de\Installation\Maps\Crimson and Clover.h3m
+SoD_de\Installation\Maps\Crimson and CloverA.h3m
+SoD_de\Installation\Maps\Dead and Buried.h3m
+SoD_de\Installation\Maps\Deluge.h3m
+SoD_de\Installation\Maps\Divided Loyalties.h3m
+SoD_de\Installation\Maps\Divided LoyaltiesA.h3m
+SoD_de\Installation\Maps\Dragon Orb.h3m
+SoD_de\Installation\Maps\Dwarven Gold.h3m
+SoD_de\Installation\Maps\Emerald Isles.h3m
+SoD_de\Installation\Maps\Emerald IslesA.h3m
+SoD_de\Installation\Maps\For Sale.h3m
+SoD_de\Installation\Maps\Free for All.h3m
+SoD_de\Installation\Maps\Goblins in the Pantry.h3m
+SoD_de\Installation\Maps\Golems Aplenty Allied.h3m
+SoD_de\Installation\Maps\Golems Aplenty.h3m
+SoD_de\Installation\Maps\Good to Go.h3m
+SoD_de\Installation\Maps\Good Witch, Bad Witch.h3m
+SoD_de\Installation\Maps\Gorlam's Tentacle Swampland.h3m
+SoD_de\Installation\Maps\Hatchet Axe and Saw.h3m
+SoD_de\Installation\Maps\Heroes of Might not Magic Allied.h3m
+SoD_de\Installation\Maps\Heroes of Might not Magic.h3m
+SoD_de\Installation\Maps\Island King Allied.h3m
+SoD_de\Installation\Maps\Island King.h3m
+SoD_de\Installation\Maps\Island of Fire.h3m
+SoD_de\Installation\Maps\Islands and Caves.h3m
+SoD_de\Installation\Maps\Judgement Day.h3m
+SoD_de\Installation\Maps\Just A Visit.h3m
+SoD_de\Installation\Maps\Key to Victory.h3m
+SoD_de\Installation\Maps\King of Pain.h3m
+SoD_de\Installation\Maps\Knee Deep in the Dead.h3m
+SoD_de\Installation\Maps\Knight of Darkness.h3m
+SoD_de\Installation\Maps\Last Chance Allies.h3m
+SoD_de\Installation\Maps\Last Chance.h3m
+SoD_de\Installation\Maps\Manifest Destiny.h3m
+SoD_de\Installation\Maps\Marshland Menace.h3m
+SoD_de\Installation\Maps\Merchant Princes Allied.h3m
+SoD_de\Installation\Maps\Merchant Princes.h3m
+SoD_de\Installation\Maps\Middletown.h3m
+SoD_de\Installation\Maps\Monk's Retreat Allied.h3m
+SoD_de\Installation\Maps\Monk's Retreat.h3m
+SoD_de\Installation\Maps\Noahs Ark.h3m
+SoD_de\Installation\Maps\One Bad Day - Allied.h3m
+SoD_de\Installation\Maps\Overthrow Thy Neighbors.h3m
+SoD_de\Installation\Maps\Peaceful Ending - Allied.h3m
+SoD_de\Installation\Maps\Peaceful Ending.h3m
+SoD_de\Installation\Maps\Peacemaker.h3m
+SoD_de\Installation\Maps\Pestilence Lake Allies.h3m
+SoD_de\Installation\Maps\Pestilence Lake.h3m
+SoD_de\Installation\Maps\Pirates.h3m
+SoD_de\Installation\Maps\Race for Ardintinny.h3m
+SoD_de\Installation\Maps\Race for the Town.h3m
+SoD_de\Installation\Maps\Realm of Chaos.h3m
+SoD_de\Installation\Maps\Realm of ChaosA.h3m
+SoD_de\Installation\Maps\Rebellion.h3m
+SoD_de\Installation\Maps\Reclamation Allied.h3m
+SoD_de\Installation\Maps\Reclamation.h3m
+SoD_de\Installation\Maps\Resource War Allies.h3m
+SoD_de\Installation\Maps\Resource War.h3m
+SoD_de\Installation\Maps\Rise of the Phoenix Allied.h3m
+SoD_de\Installation\Maps\Rise of the Phoenix.h3m
+SoD_de\Installation\Maps\Rumble in the Bogs.h3m
+SoD_de\Installation\Maps\Rumble in the BogsA.h3m
+SoD_de\Installation\Maps\Sangraal's Thief Allied.h3m
+SoD_de\Installation\Maps\Sangraal's Thief.h3m
+SoD_de\Installation\Maps\Search for the Grail.h3m
+SoD_de\Installation\Maps\Serpents Treasure.h3m
+SoD_de\Installation\Maps\Shadow Valleys.h3m
+SoD_de\Installation\Maps\Southern Cross.h3m
+SoD_de\Installation\Maps\Terrible Rumor.h3m
+SoD_de\Installation\Maps\The Battle of Daeyan's Ford.h3m
+SoD_de\Installation\Maps\The Five Rings.h3m
+SoD_de\Installation\Maps\The Great Race.h3m
+SoD_de\Installation\Maps\The Mandate of Heaven.h3m
+SoD_de\Installation\Maps\Titans Winter.h3m
+SoD_de\Installation\Maps\Too Many Monsters.h3m
+SoD_de\Installation\Maps\Tutorial.tut
+SoD_de\Installation\Maps\Unholy Quest.h3m
+SoD_de\Installation\Maps\Vial of Life.h3m
+SoD_de\Installation\Maps\Warlords.h3m
+SoD_de\Installation\Maps\WarlordsA.h3m
+SoD_de\Installation\Maps\Warmongers.h3m
+SoD_de\Installation\Maps\When Dragons Clash.h3m
+SoD_de\Installation\Maps\Wings of War.h3m
+SoD_de\Installation\Maps\Xathras Prize.h3m
+vcmi\heroesChronicles_v1.0.zip

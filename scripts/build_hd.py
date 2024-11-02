@@ -64,6 +64,9 @@ for filename in os.listdir("_tmp/def"):
     zipObj.write(os.path.join("_tmp/def", filename), arcname=os.path.join("Packs/German", filename))
 for filename in os.listdir("additional_files/translation/def"):
     zipObj.write(os.path.join("additional_files/translation/def", filename), arcname=os.path.join("Packs/German", filename))
+  
+for filename in os.listdir("additional_files/translation/audio"):
+    zipObj.write(os.path.join("additional_files/translation/audio", filename), arcname=os.path.join("Packs/German", filename))
 
 for filename in os.listdir("additional_files/translation/txt"):
     correct_line_ending(os.path.join("additional_files/translation/txt", filename), os.path.join("_tmp", "file.tmp"))

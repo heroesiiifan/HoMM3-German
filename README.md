@@ -40,8 +40,8 @@ Inoffizielle deutsche Übersetzung von Heroes III Complete Edition für VCMI / H
 * Heroes Chronicles - Fully Compability HDmod 2.5.8
 
 ## Was Fehlt?
-* Audio/Video von AB und HotA in Deutsch
-* Originale AB-Kampagnen/-Szenarien in Deutsch (wurde offiziell nie übersetzt)
+* Audio/Video von HotA in Deutsch
+* Originale AB-Kampagnen/-Szenarien/Audio/Video in Deutsch (wurde offiziell nie übersetzt)
 * Todo: siehe Backlog
 
 ## Vorgehensweise: HoMM3 HD frisch installieren
@@ -92,6 +92,9 @@ Achtung: Übersetzungen in Textdateien in Kodierung CP1252 (in Notepad++: ANSI),
 * Alles, was im Rahmen dieser Mod neu übersetzt wurde (siehe Versionshistorie): [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
 ## Changelog
+### 1.10.3
+* KI übersetzte Stimmen für AB Kampagne; CP1252 HotA-Font von [victorwss](https://github.com/victorwss/homm3-hota-translate)
+
 ### 1.10.2
 * Anpassungen der Einheiten-Namen (Danke @Libavi)
 
